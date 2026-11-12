@@ -47,5 +47,5 @@ jobs:
         run: |
           git config user.name "ninstock-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json feed.json
+          git add -A
           git diff --staged --quiet || (git commit -m "Estado actualizado" && git push)
