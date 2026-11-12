@@ -231,9 +231,14 @@ def main():
 def write_feed(catalog, state):
     """Escribe feed.json solo si su contenido cambió (para no hacer commits de más)."""
     old = load_json(FEED_FILE, {})
-    deals, _ = feeds.fetch_deals(old.get("deals", []), log)
+    old_deals = old.get("deals", [])
+    deals, _ = feeds.fetch_deals([d for d in old_deals if d.get("source") != "dekudeals"], log)
+    feeds.DEBUG_DIR = BASE / "debug"
+    deku, deku_checked = feeds.fetch_deku([d for d in old_deals if d.get("source") == "dekudeals"],
+                                          old.get("deku_checked"), log)
+    deals = sorted(deals + deku, key=lambda d: d["posted"], reverse=True)
 
-    seen = {d["id"] for d in old.get("deals", [])}
+    seen = {d["id"] for d in old_deals}
     if seen:  # no en la primera corrida, para no llenar el teléfono
         for d in [d for d in deals if d.get("collector") and d["id"] not in seen][:3]:
             price = f" · ${d['price']:.2f}" if d.get("price") else ""
@@ -243,6 +248,7 @@ def write_feed(catalog, state):
     images = state.get("_images", {})
     feed = {
         "version": 2,
+        "deku_checked": deku_checked,
         "deals": deals,
         "collection": [
             {
