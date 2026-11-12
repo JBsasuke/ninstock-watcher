@@ -2,7 +2,7 @@
 Fuentes públicas que el vigilante junta en feed.json para que la app las lea
 sin ninguna clave:
   - Ofertas de Nintendo Switch / Switch 2 de todas las tiendas (RSS de Slickdeals)
-  - Noticias de Nintendo (RSS de Nintendo Life)
+  - Noticias oficiales de Nintendo (canal de YouTube de Nintendo of America)
 """
 import datetime
 import email.utils
@@ -11,6 +11,7 @@ import html
 import re
 import time
 import xml.etree.ElementTree as ET
+from urllib.parse import parse_qs, unquote, urlparse
 
 import requests
 
@@ -22,8 +23,9 @@ DEAL_FEEDS = [
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1",
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=nintendo+switch",
 ]
+# Solo fuentes oficiales de Nintendo
 NEWS_FEEDS = [
-    ("Nintendo Life", "https://www.nintendolife.com/feeds/latest"),
+    ("Nintendo", "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg"),
 ]
 
 KEEP_DAYS = 7
@@ -44,7 +46,11 @@ IMG_TAG_RE = re.compile(r"<img[^>]+src=[\"'](https?://[^\"']+)[\"']", re.I)
 MEDIA_RE = re.compile(r"(?:url|href)=[\"'](https?://[^\"']+)[\"'][^>]*(?:image|medium=[\"']image)", re.I)
 OG_IMAGE_RE = re.compile(r"<meta[^>]+property=[\"']og:image[\"'][^>]+content=[\"'](https?://[^\"']+)[\"']"
                          r"|<meta[^>]+content=[\"'](https?://[^\"']+)[\"'][^>]+property=[\"']og:image[\"']", re.I)
-MAX_PAGE_LOOKUPS = 12   # fotos que se buscan por corrida en la página de la oferta
+MAX_PAGE_LOOKUPS = 15   # páginas de oferta que se abren por corrida (foto + link de la tienda)
+RETAILER_RE = re.compile(r"https?://(?:www\.)?(walmart\.com|target\.com|amazon\.com|bestbuy\.com|gamestop\.com|"
+                         r"nintendo\.com|costco\.com|samsclub\.com|woot\.com|ebay\.com|newegg\.com|meijer\.com|"
+                         r"kohls\.com|macys\.com|bjs\.com)/[^\s\"'<>]+", re.I)
+U2_RE = re.compile(r"[?&](?:amp;)?u2=([^&\"'\s<>]+)", re.I)
 BAD_IMG = re.compile(r"avatar|logo|icon|pixel|spacer|emoji|badge|\.gif", re.I)
 
 
@@ -58,19 +64,43 @@ def _find_image(raw):
     return None
 
 
-def _image_from_page(url):
-    """Si el RSS no trae foto, la saca de la página de la oferta (og:image)."""
+def _clean_store_url(u):
+    """Quita parámetros de seguimiento comunes del link de la tienda."""
+    try:
+        parsed = urlparse(u)
+        if "amazon." in parsed.netloc:
+            m = re.search(r"/(?:dp|gp/product)/([A-Z0-9]{10})", parsed.path)
+            if m:
+                return f"https://www.amazon.com/dp/{m.group(1)}"
+        return u
+    except Exception:
+        return u
+
+
+def _deal_page(url):
+    """Abre la página de la oferta y saca la foto (og:image) y el link directo de la tienda."""
+    image = store_url = None
     try:
         r = requests.get(url, headers=HEADERS, timeout=20)
         if r.status_code != 200:
-            return None
-        m = OG_IMAGE_RE.search(r.text)
-        if not m:
-            return None
-        img = html.unescape(m.group(1) or m.group(2))
-        return None if BAD_IMG.search(img) else img
+            return None, None
+        page = r.text
+        m = OG_IMAGE_RE.search(page)
+        if m:
+            img = html.unescape(m.group(1) or m.group(2))
+            image = None if BAD_IMG.search(img) else img
+        for raw in U2_RE.findall(page):
+            cand = unquote(unquote(html.unescape(raw)))
+            if RETAILER_RE.match(cand):
+                store_url = _clean_store_url(cand)
+                break
+        if not store_url:
+            m = RETAILER_RE.search(html.unescape(page))
+            if m:
+                store_url = _clean_store_url(m.group(0))
     except requests.RequestException:
-        return None
+        pass
+    return image, store_url
 
 
 def _now():
@@ -130,7 +160,8 @@ def fetch_deals(previous, log):
                     continue
                 price, old = _prices(t)
                 did = hashlib.md5(it["link"].encode()).hexdigest()[:12]
-                image = it["image"] or (deals.get(did) or {}).get("image")
+                prev = deals.get(did) or {}
+                image = it["image"] or prev.get("image")
                 deals[did] = {
                     "id": did,
                     "title": t,
@@ -143,6 +174,9 @@ def fetch_deals(previous, log):
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),
                 }
+                for k in ("store_url", "page_checked"):
+                    if k in prev:
+                        deals[did][k] = prev[k]
             ok += 1
         except Exception as e:
             log(f"  fuente de ofertas falló ({e.__class__.__name__}): {url[:70]}")
@@ -152,20 +186,23 @@ def fetch_deals(previous, log):
     fresh.sort(key=lambda d: d["posted"], reverse=True)
     fresh = fresh[:MAX_DEALS]
 
-    # Fotos que faltan: buscarlas en la página de cada oferta (pocas por corrida)
+    # Abrir la página de cada oferta nueva: foto (si falta) y link directo a la tienda
     lookups = 0
     for d in fresh:
-        if d.get("image") or d.get("no_image") or lookups >= MAX_PAGE_LOOKUPS:
+        if d.get("page_checked") or lookups >= MAX_PAGE_LOOKUPS:
             continue
         lookups += 1
-        img = _image_from_page(d["url"])
-        if img:
+        img, store_url = _deal_page(d["url"])
+        if img and not d.get("image"):
             d["image"] = img
-        else:
-            d["no_image"] = True   # no volver a intentarlo en cada corrida
+        if store_url:
+            d["store_url"] = store_url
+        d["page_checked"] = True
         time.sleep(1)
     with_img = sum(1 for d in fresh if d.get("image"))
-    log(f"ofertas: {len(fresh)}, con foto: {with_img} (fuentes que respondieron: {ok}/{len(DEAL_FEEDS)})")
+    with_link = sum(1 for d in fresh if d.get("store_url"))
+    log(f"ofertas: {len(fresh)}, con foto: {with_img}, con link directo: {with_link} "
+        f"(fuentes que respondieron: {ok}/{len(DEAL_FEEDS)})")
     return fresh, ok > 0
 
 

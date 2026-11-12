@@ -1,106 +1,121 @@
 [
   {
-    "id": "zelda40-consola-nintendo",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "nintendo",
-    "store_name": "Nintendo",
-    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/"
+    "id": "zelda40-consola",
+    "name": "Switch 2 Zelda 40 Aniversario",
+    "kind": "consola",
+    "stores": [
+      {
+        "store": "nintendo",
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/"
+      },
+      {
+        "store": "amazon",
+        "url": "https://www.amazon.com/dp/B0HJ6F8L6V"
+      },
+      {
+        "store": "walmart",
+        "url": "https://www.walmart.com/ip/21002656445"
+      },
+      {
+        "store": "target",
+        "url": "https://www.target.com/p/-/A-1013322047"
+      },
+      {
+        "store": "bestbuy",
+        "url": "https://www.bestbuy.com/site/6691841.p?skuId=6691841",
+        "sku": "6691841"
+      },
+      {
+        "store": "gamestop",
+        "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch-2/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition/20037854.html"
+      }
+    ]
   },
   {
-    "id": "zelda40-consola-amazon",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "amazon",
-    "store_name": "Amazon",
-    "url": "https://www.amazon.com/dp/B0HJ6F8L6V"
-  },
-  {
-    "id": "zelda40-consola-walmart",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "walmart",
-    "store_name": "Walmart",
-    "url": "https://www.walmart.com/ip/21002656445"
-  },
-  {
-    "id": "zelda40-consola-target",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "target",
-    "store_name": "Target",
-    "url": "https://www.target.com/p/-/A-1013322047"
-  },
-  {
-    "id": "zelda40-consola-bestbuy",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "bestbuy",
-    "store_name": "Best Buy",
-    "url": "https://www.bestbuy.com/site/6691841.p?skuId=6691841"
-  },
-  {
-    "id": "zelda40-consola-gamestop",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "gamestop",
-    "store_name": "GameStop",
-    "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch-2/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition/20037854.html"
-  },
-  {
-    "id": "zelda40-pro-target",
+    "id": "zelda40-pro",
     "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "target",
-    "store_name": "Target",
-    "url": "https://www.target.com/p/-/A-1013213521"
+    "kind": "control",
+    "stores": [
+      {
+        "store": "nintendo",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "amazon",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "walmart",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "target",
+        "url": "https://www.target.com/p/-/A-1013213521"
+      },
+      {
+        "store": "bestbuy",
+        "url": "https://www.bestbuy.com/site/6691849.p?skuId=6691849",
+        "sku": "6691849"
+      },
+      {
+        "store": "gamestop",
+        "url": "https://www.gamestop.com/gaming-accessories/controllers/nintendo-switch-2/products/nintendo-switch-2-pro-controller-the-legend-of-zelda---40th-anniversary-edition/451609.html"
+      }
+    ]
   },
   {
-    "id": "zelda40-pro-bestbuy",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "bestbuy",
-    "store_name": "Best Buy",
-    "url": "https://www.bestbuy.com/site/6691849.p?skuId=6691849"
-  },
-  {
-    "id": "zelda40-pro-gamestop",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "gamestop",
-    "store_name": "GameStop",
-    "url": "https://www.gamestop.com/gaming-accessories/controllers/nintendo-switch-2/products/nintendo-switch-2-pro-controller-the-legend-of-zelda---40th-anniversary-edition/451609.html"
-  },
-  {
-    "id": "zelda40-pro-nintendo",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "nintendo",
-    "store_name": "Nintendo",
-    "url": "PEGA_AQUI_EL_LINK",
-    "enabled": false,
-    "nota": "Copia el link del Pro Controller desde nintendo.com y cambia enabled a true"
-  },
-  {
-    "id": "zelda40-pro-walmart",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "walmart",
-    "store_name": "Walmart",
-    "url": "PEGA_AQUI_EL_LINK",
-    "enabled": false,
-    "nota": "Copia el link desde walmart.com y cambia enabled a true"
-  },
-  {
-    "id": "zelda40-pro-amazon",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "amazon",
-    "store_name": "Amazon",
-    "url": "PEGA_AQUI_EL_LINK",
-    "enabled": false,
-    "nota": "Copia el link desde amazon.com y cambia enabled a true"
-  },
-  {
-    "id": "amiibo-young-link-gamestop",
+    "id": "amiibo-young-link",
     "name": "amiibo Young Link (Ocarina of Time)",
-    "store": "gamestop",
-    "store_name": "GameStop",
-    "url": "https://www.gamestop.com/products/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series/451608.html"
+    "kind": "amiibo",
+    "stores": [
+      {
+        "store": "gamestop",
+        "url": "https://www.gamestop.com/products/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series/451608.html"
+      },
+      {
+        "store": "bestbuy",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "walmart",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "amazon",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      }
+    ]
   },
   {
-    "id": "amiibo-young-zelda-gamestop",
+    "id": "amiibo-young-zelda",
     "name": "amiibo Young Zelda (Ocarina of Time)",
-    "store": "gamestop",
-    "store_name": "GameStop",
-    "url": "https://www.gamestop.com/products/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series/451626.html"
+    "kind": "amiibo",
+    "stores": [
+      {
+        "store": "gamestop",
+        "url": "https://www.gamestop.com/products/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series/451626.html"
+      },
+      {
+        "store": "bestbuy",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "walmart",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      },
+      {
+        "store": "amazon",
+        "url": "PEGA_AQUI_EL_LINK",
+        "enabled": false
+      }
+    ]
   }
 ]
