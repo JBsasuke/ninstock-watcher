@@ -32,6 +32,9 @@ MAX_NEWS = 30
 
 IS_SWITCH = re.compile(r"nintendo switch|switch\s*2\b|\(switch\)|\bfor switch\b|[-–]\s*switch\b|\bNSW\b", re.I)
 IS_DIGITAL = re.compile(r"\beshop\b|\bdigital\b|\bdownload\b|gift card|switch online|\be-?code\b", re.I)
+IS_AMIIBO = re.compile(r"\bamiibo\b", re.I)
+IS_COLLECTOR = re.compile(r"collector'?s?|limited edition|special edition|anniversary edition|premium edition|"
+                          r"steelbook|\bamiibo\b|signature edition|launch edition", re.I)
 IS_HARDWARE = re.compile(r"console|bundle|controller|joy-?con|amiibo|\bcase\b|\bdock\b|headset|microsd|charging|grip", re.I)
 STORES = ["Best Buy", "GameStop", "Walmart", "Target", "Amazon", "Nintendo", "Costco", "Sam's Club",
           "Woot", "eBay", "Kohl's", "Newegg", "Meijer", "Macy's", "BJ's", "Dell", "Lowe's", "Home Depot"]
@@ -123,7 +126,7 @@ def fetch_deals(previous, log):
         try:
             for it in _items(url):
                 t = it["title"]
-                if not it["link"] or not IS_SWITCH.search(t) or IS_DIGITAL.search(t):
+                if not it["link"] or IS_DIGITAL.search(t) or not (IS_SWITCH.search(t) or IS_AMIIBO.search(t)):
                     continue
                 price, old = _prices(t)
                 did = hashlib.md5(it["link"].encode()).hexdigest()[:12]
@@ -135,6 +138,7 @@ def fetch_deals(previous, log):
                     "old_price": old,
                     "store": _store(t),
                     "kind": "hardware" if IS_HARDWARE.search(t) else "game",
+                    "collector": bool(IS_COLLECTOR.search(t)),
                     "url": it["link"],
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),

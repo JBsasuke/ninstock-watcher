@@ -231,6 +231,14 @@ def write_feed(products, state):
     """Escribe feed.json solo si su contenido cambió (para no hacer commits de más)."""
     old = load_json(FEED_FILE, {})
     deals, _ = feeds.fetch_deals(old.get("deals", []), log)
+
+    # Aviso de ediciones de coleccionista NUEVAS (no en la primera corrida, para no llenar el teléfono)
+    seen = {d["id"] for d in old.get("deals", [])}
+    if seen:
+        new_collectors = [d for d in deals if d.get("collector") and d["id"] not in seen]
+        for d in new_collectors[:3]:
+            price = f" · ${d['price']:.2f}" if d.get("price") else ""
+            notify("Nueva edición de coleccionista", f"{d['title']}{price} ({d['store']})", d["url"])
     feed = {
         "version": 1,
         "deals": deals,

@@ -1,21 +1,38 @@
 [
   {
+    "id": "zelda40-consola-nintendo",
+    "name": "Switch 2 Zelda 40 Aniversario (consola)",
+    "store": "nintendo",
+    "store_name": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/"
+  },
+  {
+    "id": "zelda40-consola-amazon",
+    "name": "Switch 2 Zelda 40 Aniversario (consola)",
+    "store": "amazon",
+    "store_name": "Amazon",
+    "url": "https://www.amazon.com/dp/B0HJ6F8L6V"
+  },
+  {
+    "id": "zelda40-consola-walmart",
+    "name": "Switch 2 Zelda 40 Aniversario (consola)",
+    "store": "walmart",
+    "store_name": "Walmart",
+    "url": "https://www.walmart.com/ip/21002656445"
+  },
+  {
+    "id": "zelda40-consola-target",
+    "name": "Switch 2 Zelda 40 Aniversario (consola)",
+    "store": "target",
+    "store_name": "Target",
+    "url": "https://www.target.com/p/-/A-1013322047"
+  },
+  {
     "id": "zelda40-consola-bestbuy",
     "name": "Switch 2 Zelda 40 Aniversario (consola)",
     "store": "bestbuy",
     "store_name": "Best Buy",
-    "search": "switch 2 zelda 40th anniversary edition",
-    "enabled": false,
-    "nota": "Necesita BESTBUY_API_KEY (Best Buy solo la da con correo .edu). Si consigues una, ponla como secreto y cambia enabled a true."
-  },
-  {
-    "id": "zelda40-pro-bestbuy",
-    "name": "Pro Controller Zelda 40 Aniversario",
-    "store": "bestbuy",
-    "store_name": "Best Buy",
-    "search": "pro controller zelda 40th anniversary",
-    "enabled": false,
-    "nota": "Necesita BESTBUY_API_KEY (Best Buy solo la da con correo .edu). Si consigues una, ponla como secreto y cambia enabled a true."
+    "url": "https://www.bestbuy.com/site/6691841.p?skuId=6691841"
   },
   {
     "id": "zelda40-consola-gamestop",
@@ -25,21 +42,65 @@
     "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch-2/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition/20037854.html"
   },
   {
-    "id": "zelda40-consola-nintendo",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
-    "store": "nintendo",
-    "store_name": "Nintendo",
-    "url": "PEGA_AQUI_EL_LINK_DE_NINTENDO.COM",
-    "enabled": false,
-    "nota": "Abre el producto en nintendo.com, copia el link, pégalo en url y cambia enabled a true"
+    "id": "zelda40-pro-target",
+    "name": "Pro Controller Zelda 40 Aniversario",
+    "store": "target",
+    "store_name": "Target",
+    "url": "https://www.target.com/p/-/A-1013213521"
   },
   {
-    "id": "zelda40-consola-walmart",
-    "name": "Switch 2 Zelda 40 Aniversario (consola)",
+    "id": "zelda40-pro-bestbuy",
+    "name": "Pro Controller Zelda 40 Aniversario",
+    "store": "bestbuy",
+    "store_name": "Best Buy",
+    "url": "https://www.bestbuy.com/site/6691849.p?skuId=6691849"
+  },
+  {
+    "id": "zelda40-pro-gamestop",
+    "name": "Pro Controller Zelda 40 Aniversario",
+    "store": "gamestop",
+    "store_name": "GameStop",
+    "url": "https://www.gamestop.com/gaming-accessories/controllers/nintendo-switch-2/products/nintendo-switch-2-pro-controller-the-legend-of-zelda---40th-anniversary-edition/451609.html"
+  },
+  {
+    "id": "zelda40-pro-nintendo",
+    "name": "Pro Controller Zelda 40 Aniversario",
+    "store": "nintendo",
+    "store_name": "Nintendo",
+    "url": "PEGA_AQUI_EL_LINK",
+    "enabled": false,
+    "nota": "Copia el link del Pro Controller desde nintendo.com y cambia enabled a true"
+  },
+  {
+    "id": "zelda40-pro-walmart",
+    "name": "Pro Controller Zelda 40 Aniversario",
     "store": "walmart",
     "store_name": "Walmart",
-    "url": "PEGA_AQUI_EL_LINK_DE_WALMART.COM",
+    "url": "PEGA_AQUI_EL_LINK",
     "enabled": false,
-    "nota": "Walmart, Target y Amazon a veces bloquean a GitHub; si en el registro sale 'bloqueó', no se puede vigilar desde aquí"
+    "nota": "Copia el link desde walmart.com y cambia enabled a true"
+  },
+  {
+    "id": "zelda40-pro-amazon",
+    "name": "Pro Controller Zelda 40 Aniversario",
+    "store": "amazon",
+    "store_name": "Amazon",
+    "url": "PEGA_AQUI_EL_LINK",
+    "enabled": false,
+    "nota": "Copia el link desde amazon.com y cambia enabled a true"
+  },
+  {
+    "id": "amiibo-young-link-gamestop",
+    "name": "amiibo Young Link (Ocarina of Time)",
+    "store": "gamestop",
+    "store_name": "GameStop",
+    "url": "https://www.gamestop.com/products/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series/451608.html"
+  },
+  {
+    "id": "amiibo-young-zelda-gamestop",
+    "name": "amiibo Young Zelda (Ocarina of Time)",
+    "store": "gamestop",
+    "store_name": "GameStop",
+    "url": "https://www.gamestop.com/products/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series/451626.html"
   }
 ]
