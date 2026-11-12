@@ -30,7 +30,11 @@ BASE = pathlib.Path(__file__).resolve().parent
 PRODUCTS_FILE = BASE / "products.json"
 STATE_FILE = BASE / "state.json"
 FEED_FILE = BASE / "feed.json"
-GENERAL_TOPIC = "ninstock-alerts"
+GENERAL_TOPIC = "ninstock-alerts"   # coleccionistas: disponibles y ediciones nuevas
+DEALS_TOPIC = "ninstock-deals"      # ofertas buenas (30 % o más)
+GOOD_DEAL_PCT = 30
+DROP_PCT = 10                       # bajada mínima para avisar de un juego guardado
+TZ = "America/New_York"
 
 AVAILABLE, SOLD_OUT, UNKNOWN = "disponible", "agotado", "desconocido"
 STORE_NAMES = {"nintendo": "Nintendo", "amazon": "Amazon", "walmart": "Walmart",
@@ -221,35 +225,93 @@ def main():
                     changed = True
             time.sleep(2)
 
+    if write_feed(catalog, state):
+        changed = True
     if changed:
         STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         log("estado actualizado")
 
-    write_feed(catalog, state)
+
+def pct_off(price, old):
+    return round((1 - price / old) * 100) if price and old and old > price else 0
+
+
+def cheapest_text(c):
+    offers = c.get("offers") or []
+    if offers:
+        return f"desde ${offers[0]['price']:.2f} en {offers[0]['store']}", offers[0]["url"]
+    if c.get("price"):
+        return f"desde ${c['price']:.2f}", c["url"]
+    return "", c["url"]
 
 
 def write_feed(catalog, state):
-    """Escribe feed.json solo si su contenido cambió (para no hacer commits de más)."""
+    """Escribe feed.json solo si cambió. Devuelve True si cambió el estado (precios/avisos)."""
     old = load_json(FEED_FILE, {})
-    old_deals = old.get("deals", [])
-    deals, _ = feeds.fetch_deals([d for d in old_deals if d.get("source") != "dekudeals"], log)
     feeds.DEBUG_DIR = BASE / "debug"
-    deku, deku_checked = feeds.fetch_deku([d for d in old_deals if d.get("source") == "dekudeals"],
-                                          old.get("deku_checked"), log)
-    deals = sorted(deals + deku, key=lambda d: d["posted"], reverse=True)
+    old_deals = old.get("deals", [])
+    first_run = not old_deals
+    state_changed = False
 
+    slick, _ = feeds.fetch_deals([d for d in old_deals if d.get("source") != "dekudeals"], log)
+    cards, deku_checked = feeds.fetch_deku(old.get("releases", []), old.get("deku_checked"), log)
+    deals = sorted(slick + feeds.deku_deals(cards), key=lambda d: d.get("posted") or "", reverse=True)
+
+    # 1) Ofertas buenas nuevas (30 % o más) -> quien activó "buenas ofertas"
     seen = {d["id"] for d in old_deals}
-    if seen:  # no en la primera corrida, para no llenar el teléfono
-        for d in [d for d in deals if d.get("collector") and d["id"] not in seen][:3]:
+    if not first_run:
+        sent = 0
+        for d in deals:
+            pct = pct_off(d.get("price"), d.get("old_price"))
+            if d["id"] in seen or pct < GOOD_DEAL_PCT or sent >= 3:
+                continue
+            notify(f"¡Buena oferta! -{pct}%",
+                   f"{d['title']}: ${d['price']:.2f} (antes ${d['old_price']:.2f}) en {d['store']}",
+                   d.get("store_url") or d["url"], topics=(DEALS_TOPIC,))
+            sent += 1
+        # 2) Ediciones de coleccionista nuevas (ofertas y anuncios) -> avisos generales
+        old_release_ids = {c["id"] for c in old.get("releases", [])}
+        new_collectors = [d for d in slick if d.get("collector") and d["id"] not in seen]
+        new_collectors += [c for c in cards if c.get("collector") and old_release_ids and c["id"] not in old_release_ids]
+        for d in new_collectors[:3]:
+            extra = f" · sale {d['release']}" if d.get("release") else ""
             price = f" · ${d['price']:.2f}" if d.get("price") else ""
-            notify("Nueva edición de coleccionista", f"{d['title']}{price} ({d['store']})",
+            notify("Nueva edición de coleccionista", f"{d['title']}{price}{extra}",
                    d.get("store_url") or d["url"])
+
+    # 3) Juegos guardados (tema r-<id>): bajada de precio y día de salida
+    prices = state.setdefault("_prices", {})
+    released = state.setdefault("_release_notified", [])
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.datetime.now(ZoneInfo(TZ)).date().isoformat()
+    except Exception:
+        today = datetime.date.today().isoformat()
+    for c in cards:
+        best = (c.get("offers") or [{}])[0].get("price") or c.get("price")
+        prev = prices.get(c["id"])
+        if best and prev and best <= prev * (1 - DROP_PCT / 100):
+            text, link = cheapest_text(c)
+            notify(f"Bajó de precio: {c['title']}",
+                   f"De ${prev:.2f} a ${best:.2f} (-{pct_off(best, prev)}%) {text}".strip(),
+                   link, topics=(f"r-{c['id']}",))
+        if best and best != prev:
+            prices[c["id"]] = best
+            state_changed = True
+        if c.get("release_date") == today and c["id"] not in released:
+            text, link = cheapest_text(c)
+            notify(f"¡Sale hoy! {c['title']}", f"Ya está a la venta {text}".strip(), link, topics=(f"r-{c['id']}",))
+            released.append(c["id"])
+            state_changed = True
+    if len(released) > 300:
+        del released[:-300]
 
     images = state.get("_images", {})
     feed = {
-        "version": 2,
+        "version": 3,
         "deku_checked": deku_checked,
         "deals": deals,
+        "releases": cards,
         "collection": [
             {
                 "id": p["id"],
@@ -272,11 +334,11 @@ def write_feed(catalog, state):
     }
     if {k: v for k, v in old.items() if k != "updated"} == feed:
         log("feed.json sin cambios")
-        return
+        return state_changed
     feed["updated"] = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
     FEED_FILE.write_text(json.dumps(feed, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     log("feed.json actualizado")
-
+    return state_changed
 
 if __name__ == "__main__":
     main()

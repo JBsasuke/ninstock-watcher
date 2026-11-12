@@ -29,6 +29,7 @@ NEWS_FEEDS = [
 ]
 
 KEEP_DAYS = 7
+DEBUG_DIR = None  # carpeta para copias de páginas (la pone watcher.py)
 MAX_DEALS = 80
 MAX_NEWS = 30
 
@@ -47,9 +48,17 @@ MEDIA_RE = re.compile(r"(?:url|href)=[\"'](https?://[^\"']+)[\"'][^>]*(?:image|m
 OG_IMAGE_RE = re.compile(r"<meta[^>]+property=[\"']og:image[\"'][^>]+content=[\"'](https?://[^\"']+)[\"']"
                          r"|<meta[^>]+content=[\"'](https?://[^\"']+)[\"'][^>]+property=[\"']og:image[\"']", re.I)
 MAX_PAGE_LOOKUPS = 15   # páginas de oferta que se abren por corrida (foto + link de la tienda)
-RETAILER_RE = re.compile(r"https?://(?:www\.)?(walmart\.com|target\.com|amazon\.com|bestbuy\.com|gamestop\.com|"
-                         r"nintendo\.com|costco\.com|samsclub\.com|woot\.com|ebay\.com|newegg\.com|meijer\.com|"
-                         r"kohls\.com|macys\.com|bjs\.com)/[^\s\"'<>]+", re.I)
+RETAILER_DOMAINS = r"(walmart\.com|target\.com|amazon\.com|bestbuy\.com|gamestop\.com|nintendo\.com|costco\.com|" \
+                   r"samsclub\.com|woot\.com|ebay\.com|newegg\.com|meijer\.com|kohls\.com|macys\.com|bjs\.com)"
+RETAILER_RE = re.compile(r"https?://(?:www\.)?" + RETAILER_DOMAINS + r"/[^\s\"'<>]+", re.I)
+# Links reales (en atributos href o dentro de JSON con \/), nunca el texto recortado que se ve en pantalla
+HREF_RETAILER_RE = re.compile(r"(?:href|data-href|data-url)=[\"'](https?://(?:www\.)?" + RETAILER_DOMAINS + r"/[^\"']+)[\"']", re.I)
+JSON_RETAILER_RE = re.compile(r"https?:\\/\\/(?:www\.)?" + RETAILER_DOMAINS + r"\\/[^\"'\s<>]+", re.I)
+DOMAIN_STORE = {"walmart.com": "Walmart", "target.com": "Target", "amazon.com": "Amazon", "bestbuy.com": "Best Buy",
+                "gamestop.com": "GameStop", "nintendo.com": "Nintendo", "costco.com": "Costco",
+                "samsclub.com": "Sam's Club", "woot.com": "Woot", "ebay.com": "eBay", "newegg.com": "Newegg",
+                "meijer.com": "Meijer", "kohls.com": "Kohl's", "macys.com": "Macy's", "bjs.com": "BJ's"}
+LINK_VERSION = 2
 U2_RE = re.compile(r"[?&](?:amp;)?u2=([^&\"'\s<>]+)", re.I)
 BAD_IMG = re.compile(r"avatar|logo|icon|pixel|spacer|emoji|badge|\.gif", re.I)
 
@@ -65,14 +74,25 @@ def _find_image(raw):
 
 
 def _clean_store_url(u):
-    """Quita parámetros de seguimiento comunes del link de la tienda."""
+    """Deja el link en la página del producto (sin reseñas ni seguimiento). None si está recortado."""
+    if not u or "..." in u or "\u2026" in u:
+        return None
     try:
         parsed = urlparse(u)
-        if "amazon." in parsed.netloc:
-            m = re.search(r"/(?:dp|gp/product)/([A-Z0-9]{10})", parsed.path)
-            if m:
-                return f"https://www.amazon.com/dp/{m.group(1)}"
-        return u
+        host, path = parsed.netloc.lower(), parsed.path
+        if "amazon." in host:
+            m = re.search(r"/(?:dp|gp/product|product-reviews)/([A-Z0-9]{10})", path)
+            return f"https://www.amazon.com/dp/{m.group(1)}" if m else u
+        if "walmart." in host:
+            m = re.search(r"/(?:ip|reviews/product)/(?:[^/]+/)?(\d{5,})", path)
+            return f"https://www.walmart.com/ip/{m.group(1)}" if m else u
+        if "target." in host:
+            m = re.search(r"(A-\d{5,})", path)
+            return f"https://www.target.com/p/-/{m.group(1)}" if m else u
+        if "bestbuy." in host:
+            m = re.search(r"(?:skuId=|/)(\d{7})(?:\.p|$|\?)", u)
+            return f"https://www.bestbuy.com/site/{m.group(1)}.p?skuId={m.group(1)}" if m else u.split("#")[0]
+        return u.split("#")[0]
     except Exception:
         return u
 
@@ -89,15 +109,17 @@ def _deal_page(url):
         if m:
             img = html.unescape(m.group(1) or m.group(2))
             image = None if BAD_IMG.search(img) else img
-        for raw in U2_RE.findall(page):
-            cand = unquote(unquote(html.unescape(raw)))
+        candidates = [unquote(unquote(html.unescape(raw))) for raw in U2_RE.findall(page)]
+        candidates += [html.unescape(m.group(1)) for m in HREF_RETAILER_RE.finditer(page)]
+        candidates += [m.group(0).replace("\\/", "/") for m in JSON_RETAILER_RE.finditer(page)]
+        for cand in candidates:
             if RETAILER_RE.match(cand):
                 store_url = _clean_store_url(cand)
-                break
-        if not store_url:
-            m = RETAILER_RE.search(html.unescape(page))
-            if m:
-                store_url = _clean_store_url(m.group(0))
+                if store_url:
+                    break
+        if not store_url and DEBUG_DIR is not None and not (DEBUG_DIR / "slickdeals.html").exists():
+            DEBUG_DIR.mkdir(exist_ok=True)
+            (DEBUG_DIR / "slickdeals.html").write_text(page[:400_000], encoding="utf-8")
     except requests.RequestException:
         pass
     return image, store_url
@@ -130,8 +152,29 @@ def _items(url):
 
 def _store(title):
     low = title.lower()
-    found = [(low.rfind(s.lower()), s) for s in STORES if s.lower() in low]
+    found = []
+    for s in STORES:
+        if s == "Nintendo":
+            # "Nintendo Switch" no es una tienda; solo cuenta "My Nintendo Store" / "Nintendo Store"
+            m = list(re.finditer(r"(my )?nintendo (store|\.com)", low))
+            if m:
+                found.append((m[-1].start(), s))
+        else:
+            m = list(re.finditer(r"\b" + re.escape(s.lower()) + r"\b", low))
+            if m:
+                found.append((m[-1].start(), s))
     return max(found)[1] if found else "Slickdeals"
+
+
+def store_from_url(url):
+    try:
+        host = urlparse(url).netloc.lower().removeprefix("www.")
+        for dom, name in DOMAIN_STORE.items():
+            if host == dom or host.endswith("." + dom):
+                return name
+    except Exception:
+        pass
+    return None
 
 
 def _prices(title):
@@ -174,7 +217,7 @@ def fetch_deals(previous, log):
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),
                 }
-                for k in ("store_url", "page_checked"):
+                for k in ("store_url", "page_checked", "link_v", "store"):
                     if k in prev:
                         deals[did][k] = prev[k]
             ok += 1
@@ -189,15 +232,18 @@ def fetch_deals(previous, log):
     # Abrir la página de cada oferta nueva: foto (si falta) y link directo a la tienda
     lookups = 0
     for d in fresh:
-        if d.get("page_checked") or lookups >= MAX_PAGE_LOOKUPS:
+        if (d.get("page_checked") and d.get("link_v") == LINK_VERSION) or lookups >= MAX_PAGE_LOOKUPS:
             continue
         lookups += 1
         img, store_url = _deal_page(d["url"])
         if img and not d.get("image"):
             d["image"] = img
+        d.pop("store_url", None)
         if store_url:
             d["store_url"] = store_url
+            d["store"] = store_from_url(store_url) or d["store"]
         d["page_checked"] = True
+        d["link_v"] = LINK_VERSION
         time.sleep(1)
     with_img = sum(1 for d in fresh if d.get("image"))
     with_link = sum(1 for d in fresh if d.get("store_url"))
@@ -231,20 +277,27 @@ def fetch_news(previous, log):
 
 
 # ------------------------------------------------------------------ Deku Deals
-# Juegos físicos de Switch 2 con descuento. Se revisa como mucho una vez por hora
-# y el botón de la app manda a la página del juego en Deku Deals (ahí están las tiendas).
+# Lista de juegos FÍSICOS de Switch 2 ordenada por fecha de salida: sirve para
+# Lanzamientos, ediciones de coleccionista y descuentos. Se revisa como mucho
+# una vez por hora y los links pasan por Deku Deals (así reciben su comisión).
 
 DEKU_PAGES = [
     "https://www.dekudeals.com/switch-2-physical-games",
     "https://www.dekudeals.com/switch-2-physical-games?page=2",
+    "https://www.dekudeals.com/switch-2-physical-games?page=3",
 ]
 DEKU_EVERY_MIN = 60
-DEKU_ITEM_RE = re.compile(r'href="(/items/[a-z0-9\-]+)"', re.I)
-DEKU_IMG_RE = re.compile(r'<img[^>]+(?:data-src|src)="(https://[^"]+)"[^>]*?(?:alt="([^"]*)")?', re.I)
-DEKU_STRIKE_RE = re.compile(r"<(?:s|del)\b[^>]*>\s*\$\s?([\d,]+(?:\.\d{2})?)", re.I)
-DEKU_STRONG_RE = re.compile(r"<strong[^>]*>\s*\$\s?([\d,]+(?:\.\d{2})?)\s*</strong>", re.I)
+DEKU_HEADERS = {**HEADERS, "User-Agent": "Mozilla/5.0 (compatible; NinStockWatcher/1.0)"}
+DEKU_CARD_SPLIT = re.compile(r"<div class=['\"]col d-block['\"]>", re.I)
+MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+DEKU_DATE_RE = re.compile(r"<div>\s*((?:" + MONTHS + r") \d{1,2}, \d{4}|(?:" + MONTHS + r") \d{4}|"
+                          r"(?:Q[1-4]|Spring|Summer|Fall|Winter|Early|Late|Mid)[^<]{0,6}\d{4}|\d{4}|TBA)\s*</div>")
 TAG_RE = re.compile(r"<[^>]+>")
-DEBUG_DIR = None  # lo pone watcher.py
+PRICE_ANY_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{2})?)")
+DEKU_STORES = ["My Nintendo Store", "Nintendo eShop", "Amazon", "Walmart", "Target", "Best Buy", "GameStop",
+               "Costco", "Sam's Club", "Woot", "eBay", "Newegg", "Meijer", "Kohl's", "Macy's", "BJ's", "Nintendo"]
+DEKU_ITEM_PAGES_PER_RUN = 25
+DEKU_OFFERS_EVERY_H = 6
 
 
 def _num(v):
@@ -254,83 +307,73 @@ def _num(v):
         return None
 
 
-def _parse_deku(page):
-    """Corta la página en un bloque por juego y saca título, foto y precios."""
-    found = []
-    marks = [(m.start(), m.group(1)) for m in DEKU_ITEM_RE.finditer(page)]
-    done = set()
-    for idx, (pos, path) in enumerate(marks):
-        if path in done:
+def _iso_date(text):
+    for fmt in ("%B %d, %Y",):
+        try:
+            return datetime.datetime.strptime(text, fmt).date().isoformat()
+        except ValueError:
+            pass
+    return None
+
+
+def parse_deku_cards(page):
+    """Una tarjeta por juego: título, foto, link, precio, precio anterior y fecha de salida."""
+    cards = []
+    for c in DEKU_CARD_SPLIT.split(page)[1:]:
+        path = re.search(r"href=['\"](/items/[^'\"]+)['\"]", c)
+        title = re.search(r"<h6[^>]*>(.*?)</h6>", c, re.S)
+        if not path or not title:
             continue
-        done.add(path)
-        end = next((p for p, q in marks[idx + 1:] if q != path), len(page))
-        start = page.rfind("<div", max(0, pos - 1500), pos)
-        block = page[start if start >= 0 else pos:end]
-        strike = DEKU_STRIKE_RE.search(block)
-        strong = DEKU_STRONG_RE.search(block)
-        if not (strike and strong):
-            continue   # solo los que tienen descuento
-        price, old = _num(strong.group(1)), _num(strike.group(1))
-        if not price or not old or old <= price:
-            continue
-        img, title = None, ""
-        for tag in re.findall(r"<img\b[^>]*>", block, re.I):
-            src = re.search(r'(?:data-src|src)="(https://[^"]+)"', tag, re.I)
-            if src and ("deku" in src.group(1) or "cdn" in src.group(1)):
-                img = html.unescape(src.group(1))
-                alt = re.search(r'alt="([^"]+)"', tag, re.I)
-                title = html.unescape(alt.group(1)).strip() if alt else ""
-                break
-        if not title:
-            for m in re.finditer(r'href="' + re.escape(path) + r'"[^>]*>(.*?)</a>', block, re.S | re.I):
-                text = html.unescape(" ".join(TAG_RE.sub(" ", m.group(1)).split()))
-                if text:
-                    title = text
-                    break
-        if title:
-            found.append({"path": path, "title": title, "price": price, "old_price": old, "image": img})
-    return found
+        img = re.search(r"src=['\"](https://cdn\.dekudeals\.com/images/[^'\"]+)['\"]", c)
+        strong = re.search(r"<strong[^>]*>\s*\$\s?([\d,]+(?:\.\d{2})?)\s*</strong>", c)
+        strike = re.search(r"<s\b[^>]*>\s*\$\s?([\d,]+(?:\.\d{2})?)\s*</s>", c)
+        date = DEKU_DATE_RE.search(re.sub(r"<svg.*?</svg>", "", c, flags=re.S))
+        price = _num(strong.group(1)) if strong else None
+        old = _num(strike.group(1)) if strike else None
+        name = html.unescape(" ".join(TAG_RE.sub(" ", title.group(1)).split()))
+        cards.append({
+            "id": "deku-" + path.group(1).rsplit("/", 1)[-1],
+            "title": name,
+            "url": "https://www.dekudeals.com" + path.group(1),
+            "image": html.unescape(img.group(1)) if img else None,
+            "price": price,
+            "old_price": old if (old and price and old > price) else None,
+            "release": date.group(1) if date else None,
+            "release_date": _iso_date(date.group(1)) if date else None,
+            "collector": bool(IS_COLLECTOR.search(name)),
+        })
+    return cards
 
 
-DEKU_STORES = ["Nintendo eShop", "My Nintendo Store", "Nintendo", "Amazon", "Walmart", "Target", "Best Buy",
-               "GameStop", "Costco", "Sam's Club", "Woot", "eBay", "Newegg", "Meijer", "Kohl's", "Macy's", "BJ's"]
-DEKU_ITEM_PAGES_PER_RUN = 25
-DEKU_OFFERS_EVERY_H = 6
-PRICE_ANY_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{2})?)")
-
-
-def _parse_deku_offers(page):
-    """Tabla de precios de un juego: tienda, precio y link (sin la eShop, que es digital)."""
+def parse_deku_offers(page):
+    """Tabla de precios de un juego en Deku Deals: tienda, precio y link (sin la eShop, que es digital)."""
     offers = {}
     for row in re.split(r"<tr\b", page, flags=re.I)[1:]:
         row = row.split("</tr>")[0]
         text = html.unescape(" ".join(TAG_RE.sub(" ", row).split()))
-        alts = " ".join(re.findall(r'(?:alt|title)="([^"]+)"', row, re.I))
-        hay = (text + " " + alts).lower()
+        attrs = " ".join(re.findall(r"(?:alt|title|aria-label)=['\"]([^'\"]+)['\"]", row, re.I))
+        hay = (text + " " + attrs).lower()
         store = next((st for st in DEKU_STORES if st.lower() in hay), None)
-        if not store or "eshop" in store.lower():
+        if not store or "eshop" in store.lower() or ("digital" in hay and "physical" not in hay):
             continue
-        if "digital" in hay and "physical" not in hay:
-            continue
-        href = re.search(r'href="([^"]+)"', row, re.I)
+        href = re.search(r"href=['\"]([^'\"]+)['\"]", row, re.I)
         price = PRICE_ANY_RE.search(text)
         if not href or not price:
             continue
         url = html.unescape(href.group(1))
         if url.startswith("/"):
             url = "https://www.dekudeals.com" + url
-        name = "Nintendo" if store == "My Nintendo Store" else store
+        name = "Nintendo" if "nintendo" in store.lower() else store
         value = _num(price.group(1))
         if value and (name not in offers or value < offers[name]["price"]):
             offers[name] = {"store": name, "price": value, "url": url}
     return sorted(offers.values(), key=lambda o: o["price"])
 
 
-def _add_deku_offers(deals, log):
-    """Abre la página de cada juego (pocas por corrida) para sacar el precio y link de cada tienda."""
+def _add_offers(cards, log):
     now = _now()
     opened = 0
-    for d in deals:
+    for d in cards:
         when = d.get("offers_checked")
         if when:
             try:
@@ -342,70 +385,85 @@ def _add_deku_offers(deals, log):
             break
         opened += 1
         try:
-            r = requests.get(d["url"], headers={**HEADERS, "User-Agent": "Mozilla/5.0 (compatible; NinStockWatcher/1.0)"}, timeout=25)
+            r = requests.get(d["url"], headers=DEKU_HEADERS, timeout=25)
             if r.status_code == 200:
-                offers = _parse_deku_offers(r.text)
-                if DEBUG_DIR is not None and (opened == 1 and (not offers or not (DEBUG_DIR / "deku_item.html").exists())):
+                offers = parse_deku_offers(r.text)
+                if DEBUG_DIR is not None and opened == 1 and (not offers or not (DEBUG_DIR / "deku_item.html").exists()):
                     DEBUG_DIR.mkdir(exist_ok=True)
                     (DEBUG_DIR / "deku_item.html").write_text(r.text[:400_000], encoding="utf-8")
-                if offers:
-                    d["offers"] = offers
-                    d["store"] = offers[0]["store"]
-                    d["store_url"] = offers[0]["url"]
-                    d["price"] = offers[0]["price"]
+                d["offers"] = offers
             d["offers_checked"] = now.isoformat(timespec="seconds")
         except Exception as e:
             log(f"  Deku Deals (página del juego) falló ({e.__class__.__name__})")
         time.sleep(2)
-    with_offers = sum(1 for d in deals if d.get("offers"))
-    log(f"Deku Deals: {with_offers} juegos con precios por tienda")
+    log(f"Deku Deals: {sum(1 for d in cards if d.get('offers'))}/{len(cards)} juegos con precio por tienda")
 
 
 def fetch_deku(previous, last_checked, log):
-    """Devuelve (ofertas_deku, cuándo_se_revisó). Respeta el intervalo de 1 hora."""
+    """Devuelve (tarjetas, cuándo_se_revisó). Respeta el intervalo de 1 hora."""
     now = _now()
-    if last_checked:
+    if last_checked and previous:
         try:
             if now - datetime.datetime.fromisoformat(last_checked) < datetime.timedelta(minutes=DEKU_EVERY_MIN):
                 return previous, last_checked
         except ValueError:
             pass
-    prev_by_id = {d["id"]: d for d in previous}
-    out = []
+    before = {c["id"]: c for c in previous}
+    cards, seen = [], set()
     for i, url in enumerate(DEKU_PAGES):
         try:
-            r = requests.get(url, headers={**HEADERS, "User-Agent": "Mozilla/5.0 (compatible; NinStockWatcher/1.0)"}, timeout=25)
+            r = requests.get(url, headers=DEKU_HEADERS, timeout=25)
             if r.status_code != 200:
                 log(f"  Deku Deals respondió HTTP {r.status_code}")
                 continue
-            items = _parse_deku(r.text)
-            if i == 0 and DEBUG_DIR is not None and (not items or not (DEBUG_DIR / "deku.html").exists()):
+            page_cards = parse_deku_cards(r.text)
+            if i == 0 and DEBUG_DIR is not None and not page_cards:
                 DEBUG_DIR.mkdir(exist_ok=True)
                 (DEBUG_DIR / "deku.html").write_text(r.text[:400_000], encoding="utf-8")
-            for it in items:
-                did = "deku-" + it["path"].rsplit("/", 1)[-1]
-                before = prev_by_id.get(did, {})
-                out.append({k: before[k] for k in ("offers", "offers_checked", "store", "store_url") if k in before})
-                out[-1].update({
-                    "id": did,
-                    "title": it["title"] + " (Nintendo Switch 2)",
-                    "price": it["price"],
-                    "old_price": it["old_price"],
-                    "store": before.get("store", "Deku Deals"),
-                    "kind": "game",
-                    "collector": bool(IS_COLLECTOR.search(it["title"])),
-                    "url": "https://www.dekudeals.com" + it["path"],
-                    "image": it["image"],
-                    "posted": prev_by_id.get(did, {}).get("posted") or now.isoformat(timespec="seconds"),
-                    "source": "dekudeals",
-                })
+            for c in page_cards:
+                if c["id"] in seen:
+                    continue
+                seen.add(c["id"])
+                old = before.get(c["id"], {})
+                for k in ("offers", "offers_checked", "first_seen"):
+                    if k in old:
+                        c[k] = old[k]
+                c.setdefault("first_seen", now.isoformat(timespec="seconds"))
+                cards.append(c)
             time.sleep(2)
         except Exception as e:
             log(f"  Deku Deals falló ({e.__class__.__name__})")
-    if not out and previous:
+    if not cards:
         log("Deku Deals: sin datos nuevos, se mantienen los anteriores")
         return previous, now.isoformat(timespec="seconds")
-    log(f"Deku Deals: {len(out)} juegos físicos con descuento")
-    _add_deku_offers(out, log)
-    return out, now.isoformat(timespec="seconds")
+    log(f"Deku Deals: {len(cards)} juegos físicos de Switch 2 "
+        f"({sum(1 for c in cards if c['old_price'])} con descuento, {sum(1 for c in cards if c['collector'])} de coleccionista)")
+    _add_offers(cards, log)
+    return cards, now.isoformat(timespec="seconds")
+
+
+def deku_deals(cards):
+    """Convierte las tarjetas con descuento en ofertas para Inicio."""
+    out = []
+    for c in cards:
+        if not (c.get("price") and c.get("old_price")):
+            continue
+        offers = c.get("offers") or []
+        best = offers[0] if offers else None
+        out.append({
+            "id": c["id"],
+            "title": c["title"] + " (Nintendo Switch 2)",
+            "price": best["price"] if best else c["price"],
+            "old_price": c["old_price"],
+            "store": best["store"] if best else "Deku Deals",
+            "store_url": best["url"] if best else None,
+            "offers": offers,
+            "kind": "game",
+            "collector": c["collector"],
+            "url": c["url"],
+            "image": c.get("image"),
+            "posted": c.get("first_seen"),
+            "source": "dekudeals",
+        })
+    return out
 
