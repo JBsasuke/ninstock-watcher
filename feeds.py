@@ -47,7 +47,7 @@ IMG_TAG_RE = re.compile(r"<img[^>]+src=[\"'](https?://[^\"']+)[\"']", re.I)
 MEDIA_RE = re.compile(r"(?:url|href)=[\"'](https?://[^\"']+)[\"'][^>]*(?:image|medium=[\"']image)", re.I)
 OG_IMAGE_RE = re.compile(r"<meta[^>]+property=[\"']og:image[\"'][^>]+content=[\"'](https?://[^\"']+)[\"']"
                          r"|<meta[^>]+content=[\"'](https?://[^\"']+)[\"'][^>]+property=[\"']og:image[\"']", re.I)
-MAX_PAGE_LOOKUPS = 15   # páginas de oferta que se abren por corrida (foto + link de la tienda)
+MAX_PAGE_LOOKUPS = 30   # páginas de oferta que se abren por corrida (foto + link de la tienda)
 RETAILER_DOMAINS = r"(walmart\.com|target\.com|amazon\.com|bestbuy\.com|gamestop\.com|nintendo\.com|costco\.com|" \
                    r"samsclub\.com|woot\.com|ebay\.com|newegg\.com|meijer\.com|kohls\.com|macys\.com|bjs\.com)"
 RETAILER_RE = re.compile(r"https?://(?:www\.)?" + RETAILER_DOMAINS + r"/[^\s\"'<>]+", re.I)
@@ -58,7 +58,7 @@ DOMAIN_STORE = {"walmart.com": "Walmart", "target.com": "Target", "amazon.com": 
                 "gamestop.com": "GameStop", "nintendo.com": "Nintendo", "costco.com": "Costco",
                 "samsclub.com": "Sam's Club", "woot.com": "Woot", "ebay.com": "eBay", "newegg.com": "Newegg",
                 "meijer.com": "Meijer", "kohls.com": "Kohl's", "macys.com": "Macy's", "bjs.com": "BJ's"}
-LINK_VERSION = 2
+LINK_VERSION = 3
 U2_RE = re.compile(r"[?&](?:amp;)?u2=([^&\"'\s<>]+)", re.I)
 BAD_IMG = re.compile(r"avatar|logo|icon|pixel|spacer|emoji|badge|\.gif", re.I)
 
@@ -73,10 +73,56 @@ def _find_image(raw):
     return None
 
 
+CLICK_RE = re.compile(r"<a\b[^>]*href=[\"'](https://slickdeals\.net/click\?[^\"']+)[\"'][^>]*>", re.I)
+WRAP_PARAMS = ("u", "url", "murl", "u2", "u1", "dest", "destination", "dl", "RD_PARM1", "target", "link", "redirect")
+
+
+def unwrap_url(u, depth=0):
+    """Saca el link de la tienda que viene envuelto dentro de un link de afiliado/redirección."""
+    if not u or depth > 4:
+        return u
+    try:
+        if RETAILER_RE.match(u) and "goto." not in urlparse(u).netloc:
+            return u
+        q = parse_qs(urlparse(u).query)
+        for key in WRAP_PARAMS:
+            for val in q.get(key, []):
+                val = unquote(val)
+                if val.startswith("http"):
+                    inner = unwrap_url(val, depth + 1)
+                    if inner and RETAILER_RE.match(inner):
+                        return inner
+    except Exception:
+        pass
+    return u
+
+
+def resolve_click(url):
+    """Sigue el botón "Get Deal" de Slickdeals hasta la tienda. None si no se pudo."""
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True, stream=True)
+        chain = [h.headers.get("Location", "") for h in r.history] + [r.url]
+        body = ""
+        if not RETAILER_RE.match(r.url or ""):
+            body = r.raw.read(200_000, decode_content=True).decode("utf-8", "ignore")
+        r.close()
+        for u in reversed(chain):
+            u = unwrap_url(u)
+            if u and RETAILER_RE.match(u):
+                return _clean_store_url(u)
+        m = RETAILER_RE.search(body.replace("\\/", "/"))
+        if m:
+            return _clean_store_url(unwrap_url(m.group(0)))
+    except Exception:
+        pass
+    return None
+
+
 def _clean_store_url(u):
     """Deja el link en la página del producto (sin reseñas ni seguimiento). None si está recortado."""
     if not u or "..." in u or "\u2026" in u:
         return None
+    u = unwrap_url(u)
     try:
         parsed = urlparse(u)
         host, path = parsed.netloc.lower(), parsed.path
@@ -98,31 +144,39 @@ def _clean_store_url(u):
 
 
 def _deal_page(url):
-    """Abre la página de la oferta y saca la foto (og:image) y el link directo de la tienda."""
-    image = store_url = None
+    """Abre la página de la oferta: foto, tienda real y link directo (siguiendo "Get Deal")."""
+    image = store_url = store = click = None
     try:
         r = requests.get(url, headers=HEADERS, timeout=20)
         if r.status_code != 200:
-            return None, None
+            return None, None, None, None
         page = r.text
         m = OG_IMAGE_RE.search(page)
         if m:
             img = html.unescape(m.group(1) or m.group(2))
             image = None if BAD_IMG.search(img) else img
-        candidates = [unquote(unquote(html.unescape(raw))) for raw in U2_RE.findall(page)]
-        candidates += [html.unescape(m.group(1)) for m in HREF_RETAILER_RE.finditer(page)]
-        candidates += [m.group(0).replace("\\/", "/") for m in JSON_RETAILER_RE.finditer(page)]
-        for cand in candidates:
-            if RETAILER_RE.match(cand):
-                store_url = _clean_store_url(cand)
-                if store_url:
-                    break
-        if not store_url and DEBUG_DIR is not None and not (DEBUG_DIR / "slickdeals.html").exists():
+        m = re.search(r"data-storename=[\"']([^\"']+)[\"']", page)
+        if m:
+            store = html.unescape(m.group(1)).strip()
+        cm = CLICK_RE.search(page)
+        if cm:
+            click = html.unescape(cm.group(1))
+            store_url = resolve_click(click)
+        if not store_url:
+            candidates = [unquote(unquote(html.unescape(raw))) for raw in U2_RE.findall(page)]
+            candidates += [html.unescape(m.group(1)) for m in HREF_RETAILER_RE.finditer(page)]
+            candidates += [m.group(0).replace("\\/", "/") for m in JSON_RETAILER_RE.finditer(page)]
+            for cand in candidates:
+                if RETAILER_RE.match(cand):
+                    store_url = _clean_store_url(cand)
+                    if store_url:
+                        break
+        if not store_url and not click and DEBUG_DIR is not None and not (DEBUG_DIR / "slickdeals.html").exists():
             DEBUG_DIR.mkdir(exist_ok=True)
             (DEBUG_DIR / "slickdeals.html").write_text(page[:400_000], encoding="utf-8")
     except requests.RequestException:
         pass
-    return image, store_url
+    return image, store_url, store, click
 
 
 def _now():
@@ -223,6 +277,11 @@ def fetch_deals(previous, log):
             ok += 1
         except Exception as e:
             log(f"  fuente de ofertas falló ({e.__class__.__name__}): {url[:70]}")
+    for d in deals.values():   # links viejos cortados o de reseñas: fuera
+        su = d.get("store_url")
+        if su and ("..." in su or "/reviews/" in su or "\u2026" in su):
+            d.pop("store_url", None)
+            d.pop("link_v", None)
     cutoff = _now() - datetime.timedelta(days=KEEP_DAYS)
     fresh = [d for d in deals.values()
              if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
@@ -235,13 +294,17 @@ def fetch_deals(previous, log):
         if (d.get("page_checked") and d.get("link_v") == LINK_VERSION) or lookups >= MAX_PAGE_LOOKUPS:
             continue
         lookups += 1
-        img, store_url = _deal_page(d["url"])
+        img, store_url, store, click = _deal_page(d["url"])
         if img and not d.get("image"):
             d["image"] = img
         d.pop("store_url", None)
+        if store:
+            d["store"] = store
         if store_url:
             d["store_url"] = store_url
             d["store"] = store_from_url(store_url) or d["store"]
+        elif click:
+            d["store_url"] = click   # el botón de Slickdeals te deja directo en la tienda
         d["page_checked"] = True
         d["link_v"] = LINK_VERSION
         time.sleep(1)
@@ -281,11 +344,12 @@ def fetch_news(previous, log):
 # Lanzamientos, ediciones de coleccionista y descuentos. Se revisa como mucho
 # una vez por hora y los links pasan por Deku Deals (así reciben su comisión).
 
-DEKU_PAGES = [
-    "https://www.dekudeals.com/switch-2-physical-games",
-    "https://www.dekudeals.com/switch-2-physical-games?page=2",
-    "https://www.dekudeals.com/switch-2-physical-games?page=3",
-]
+DEKU_BASE = "https://www.dekudeals.com/switch-2-physical-games"
+DEKU_MAX_PAGES = 8              # hasta llegar a juegos que salieron hace más de 60 días
+DEKU_PAST_DAYS = 60
+NINTENDO_HINT = re.compile(r"mario|zelda|pok[eé]mon|kirby|metroid|donkey kong|pikmin|splatoon|fire emblem|"
+                           r"xenoblade|animal crossing|yoshi|wario|smash bros|switch sports|nintendo labo|luigi|star fox|"
+                           r"kid icarus|tomodachi|rhythm heaven|drag x drive|f-zero|chibi-robo|1-2-switch", re.I)
 DEKU_EVERY_MIN = 60
 DEKU_HEADERS = {**HEADERS, "User-Agent": "Mozilla/5.0 (compatible; NinStockWatcher/1.0)"}
 DEKU_CARD_SPLIT = re.compile(r"<div class=['\"]col d-block['\"]>", re.I)
@@ -348,7 +412,8 @@ def parse_deku_cards(page):
 def parse_deku_offers(page):
     """Tabla de precios de un juego en Deku Deals: tienda, precio y link (sin la eShop, que es digital)."""
     offers = {}
-    for row in re.split(r"<tr\b", page, flags=re.I)[1:]:
+    main = page.split("Also available at")[0]   # solo la tabla principal de tiendas
+    for row in re.split(r"<tr\b", main, flags=re.I)[1:]:
         row = row.split("</tr>")[0]
         text = html.unescape(" ".join(TAG_RE.sub(" ", row).split()))
         attrs = " ".join(re.findall(r"(?:alt|title|aria-label)=['\"]([^'\"]+)['\"]", row, re.I))
@@ -363,6 +428,7 @@ def parse_deku_offers(page):
         url = html.unescape(href.group(1))
         if url.startswith("/"):
             url = "https://www.dekudeals.com" + url
+        url = unwrap_url(url)
         name = "Nintendo" if "nintendo" in store.lower() else store
         value = _num(price.group(1))
         if value and (name not in offers or value < offers[name]["price"]):
@@ -388,6 +454,10 @@ def _add_offers(cards, log):
             r = requests.get(d["url"], headers=DEKU_HEADERS, timeout=25)
             if r.status_code == 200:
                 offers = parse_deku_offers(r.text)
+                pub = re.search(r"Publisher:\s*(?:<[^>]+>\s*)*([^<\n]+)", r.text)
+                if pub:
+                    d["publisher"] = html.unescape(pub.group(1)).strip()
+                    d["nintendo"] = "nintendo" in d["publisher"].lower()
                 if DEBUG_DIR is not None and opened == 1 and (not offers or not (DEBUG_DIR / "deku_item.html").exists()):
                     DEBUG_DIR.mkdir(exist_ok=True)
                     (DEBUG_DIR / "deku_item.html").write_text(r.text[:400_000], encoding="utf-8")
@@ -410,7 +480,9 @@ def fetch_deku(previous, last_checked, log):
             pass
     before = {c["id"]: c for c in previous}
     cards, seen = [], set()
-    for i, url in enumerate(DEKU_PAGES):
+    cutoff = (now - datetime.timedelta(days=DEKU_PAST_DAYS)).date().isoformat()
+    for i in range(DEKU_MAX_PAGES):
+        url = DEKU_BASE if i == 0 else f"{DEKU_BASE}?page={i + 1}"
         try:
             r = requests.get(url, headers=DEKU_HEADERS, timeout=25)
             if r.status_code != 200:
@@ -425,12 +497,17 @@ def fetch_deku(previous, last_checked, log):
                     continue
                 seen.add(c["id"])
                 old = before.get(c["id"], {})
-                for k in ("offers", "offers_checked", "first_seen"):
+                for k in ("offers", "offers_checked", "first_seen", "publisher"):
                     if k in old:
                         c[k] = old[k]
                 c.setdefault("first_seen", now.isoformat(timespec="seconds"))
+                c["nintendo"] = bool(re.search(r"nintendo", c.get("publisher", ""), re.I)) or \
+                    (not c.get("publisher") and bool(NINTENDO_HINT.search(c["title"])))
                 cards.append(c)
             time.sleep(2)
+            dated = [c["release_date"] for c in page_cards if c.get("release_date")]
+            if not page_cards or (dated and max(dated) < cutoff):
+                break
         except Exception as e:
             log(f"  Deku Deals falló ({e.__class__.__name__})")
     if not cards:

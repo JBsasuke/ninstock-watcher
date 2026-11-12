@@ -100,21 +100,31 @@ def check_page(st):
     m = feeds.OG_IMAGE_RE.search(r.text)
     image = html.unescape(m.group(1) or m.group(2)) if m else None
 
-    found = {s.lower() for s in SCHEMA_RE.findall(r.text)}
-    if found & {"instock", "preorder", "limitedavailability"}:
-        return AVAILABLE, url, "schema.org: " + ", ".join(sorted(found)), image
-    if found & {"outofstock", "soldout", "discontinued", "backorder"}:
-        return SOLD_OUT, url, "schema.org: " + ", ".join(sorted(found)), image
-
+    # 1) Lo que se VE en la página manda (sin scripts: ahí suele haber datos de otros productos)
+    visible = re.sub(r"<(script|style|noscript)\b.*?</\1>", " ", r.text, flags=re.S | re.I)
+    visible = " ".join(re.sub(r"<[^>]+>", " ", visible).split()).lower()
     rules = STORE_TEXT.get(code, DEFAULT_TEXT)
     outs = [s.lower() for s in st.get("out_of_stock_text", rules["out"])]
     ins = [s.lower() for s in st.get("in_stock_text", rules["in"])]
+    hit = next((o for o in outs if o in visible), None)
+    if hit:
+        return SOLD_OUT, url, f'la página dice "{hit}"', image
+    hit = next((i for i in ins if i in visible), None)
+    if hit:
+        return AVAILABLE, url, f'la página dice "{hit}"', image
+
+    # 2) Si la página se arma con JavaScript, usar los datos del producto principal (schema.org)
+    found = [s.lower() for s in SCHEMA_RE.findall(r.text)]
+    if found:
+        main = found[0]   # el primero suele ser el producto de la página
+        if main in ("outofstock", "soldout", "discontinued", "backorder") or any(
+                f in ("outofstock", "soldout") for f in found):
+            return SOLD_OUT, url, "schema.org: " + main, image
+        if main in ("instock", "preorder", "limitedavailability"):
+            return AVAILABLE, url, "schema.org: " + main, image
     hit = next((o for o in outs if o in text), None)
     if hit:
         return SOLD_OUT, url, f'dice "{hit}"', image
-    hit = next((i for i in ins if i in text), None)
-    if hit:
-        return AVAILABLE, url, f'dice "{hit}"', image
     return UNKNOWN, url, "no se encontró ninguna señal en la página", image
 
 
@@ -191,6 +201,31 @@ def load_json(path, default):
         return default
 
 
+def find_image(prod):
+    """Foto del producto: "image" fija, o la og:image de "image_page" (p. ej. Deku Deals)."""
+    if prod.get("image"):
+        return prod["image"]
+    for cand in prod.get("image_candidates", []):   # se comprueba que la foto existe
+        try:
+            r = requests.get(cand, headers=HEADERS, timeout=20, stream=True)
+            ok = r.status_code == 200 and r.headers.get("Content-Type", "").startswith("image")
+            r.close()
+            if ok:
+                return cand
+        except requests.RequestException:
+            pass
+    for page in prod.get("image_pages", []):
+        try:
+            r = requests.get(page, headers=HEADERS, timeout=20)
+            if r.status_code == 200:
+                m = feeds.OG_IMAGE_RE.search(r.text)
+                if m:
+                    return html.unescape(m.group(1) or m.group(2))
+        except requests.RequestException:
+            pass
+    return None
+
+
 def active_stores(prod):
     return [s for s in prod.get("stores", []) if s.get("enabled", True) and s.get("url", "").startswith("http")]
 
@@ -207,6 +242,11 @@ def main():
     changed = False
 
     for prod in catalog:
+        if not prod.get("image") and prod["id"] not in images and (prod.get("image_pages") or prod.get("image_candidates")):
+            img = find_image(prod)
+            if img:
+                images[prod["id"]] = img
+                changed = True
         for st in active_stores(prod):
             key = f"{prod['id']}:{st['store'].lower()}"
             status, link, detail, image = check(st)
