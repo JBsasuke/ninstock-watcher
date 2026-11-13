@@ -7,7 +7,8 @@
     "zelda40-consola": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Hardware/121642-nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-package-2000x2000",
     "zelda40-pro": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6691/6691849_sd.jpg",
     "amiibo-young-link": "https://cdn.dekudeals.com/images/c766f11740c44f6db2f9d13b15b9a0c454a67491/w540.jpg",
-    "amiibo-young-zelda": "https://cdn.dekudeals.com/images/95ed9e1b5c43abf6dfddc781a0313c9ab1197056/w540.jpg"
+    "amiibo-young-zelda": "https://cdn.dekudeals.com/images/95ed9e1b5c43abf6dfddc781a0313c9ab1197056/w540.jpg",
+    "ocarina-oot": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/ncom/Nintendo%20Stores%20Merchandise/Collectibles/Replicas/129683-the-legend-of-zelda-ocarina-of-time-playable-ocarina-side-2000x2000"
   },
   "zelda40-consola:nintendo": {
     "status": "agotado",
@@ -99,5 +100,25 @@
   },
   "_release_notified": [
     "deku-pikmin-4-nintendo-switch-2-edition"
-  ]
+  ],
+  "ocarina-oot:nintendo": {
+    "status": "agotado",
+    "since": "2026-11-13T08:18:16+00:00"
+  },
+  "amiibo-young-link:best buy": {
+    "status": "agotado",
+    "since": "2026-11-13T08:20:15+00:00"
+  },
+  "amiibo-young-zelda:amazon": {
+    "status": "agotado",
+    "since": "2026-11-13T08:20:15+00:00"
+  },
+  "amiibo-young-zelda:best buy": {
+    "status": "agotado",
+    "since": "2026-11-13T08:20:15+00:00"
+  },
+  "amiibo-young-zelda:target": {
+    "status": "agotado",
+    "since": "2026-11-13T08:20:15+00:00"
+  }
 }
