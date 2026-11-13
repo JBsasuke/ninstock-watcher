@@ -400,21 +400,36 @@ def _yt_get(url, log):
 
 
 def _yt_page_entries(page):
-    """Videos de la página del canal (sin fecha exacta: se usa la hora en que se vieron por primera vez)."""
+    """Videos de la página del canal (formato nuevo de YouTube: lockupViewModel; el viejo: videoRenderer)."""
     seen = set()
-    for m in re.finditer(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"', page):
-        vid, title = m.group(1), m.group(2)
-        if vid in seen:
-            continue
-        seen.add(vid)
-        try:
-            title = json.loads(f'"{title}"')
-        except ValueError:
-            pass
-        yield {"title": title, "link": f"https://www.youtube.com/watch?v={vid}", "date": None,
-               "image": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg", "summary": ""}
-        if len(seen) >= 15:
-            break
+    pats = [r'"lockupViewModel":\{"contentImage".*?"contentId":"([\w-]{11})".*?'
+            r'"lockupMetadataViewModel":\{"title":\{"content":"((?:[^"\\]|\\.)*)"',
+            r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"']
+    units = {"minute": 60, "hour": 3600, "day": 86400, "week": 604800, "month": 2592000, "year": 31536000}
+    for pat in pats:
+        for m in re.finditer(pat, page, re.S):
+            vid, title = m.group(1), m.group(2)
+            if vid in seen:
+                continue
+            seen.add(vid)
+            try:
+                title = json.loads(f'"{title}"')
+            except ValueError:
+                pass
+            date = None
+            ago = re.search(r'"(?:content|simpleText)":"(?:Streamed )?(\d+) (minute|hour|day|week|month|year)s? ago"',
+                            page[m.end():m.end() + 3000])
+            if ago:
+                date = _now() - datetime.timedelta(seconds=int(ago.group(1)) * units[ago.group(2)])
+            yield {"title": title, "link": f"https://www.youtube.com/watch?v={vid}", "date": date,
+                   "image": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg", "summary": ""}
+            if len(seen) >= 15:
+                return
+        if seen:
+            return
+    if DEBUG_DIR is not None:      # no se entendió la página: guardar copia para revisarla
+        DEBUG_DIR.mkdir(exist_ok=True)
+        (DEBUG_DIR / "youtube.html").write_text(page[:600_000], encoding="utf-8")
 
 
 def _atom_entries(content):
