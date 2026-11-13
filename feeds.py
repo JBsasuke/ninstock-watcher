@@ -337,7 +337,7 @@ def fetch_deals(previous, log):
                     continue
                 pokemon_merch = bool(IS_POKEMON.search(t) and not IS_SWITCH.search(t)
                                      and IS_POKEMON_MERCH.search(t) and not IS_NOT_POKEMON_DEAL.search(t))
-                if not (IS_SWITCH.search(t) or IS_AMIIBO.search(t) or pokemon_merch) or IS_REFURB.search(t):
+                if not (IS_SWITCH.search(t) or IS_AMIIBO.search(t) or pokemon_merch):
                     continue
                 # "Switch" sin decir Nintendo (ej. un switch de red "Switch 2") -> se confirma con la
                 # categoría de la oferta en Slickdeals antes de mostrarlo
@@ -358,6 +358,7 @@ def fetch_deals(previous, log):
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),
                     "needs_cat": needs_cat,
+                    "refurb": bool(IS_REFURB.search(t)),
                 }
                 for k in ("store_url", "page_checked", "link_v", "store", "checked_at", "expired", "real_price", "real_old",
                           "category_ok"):
@@ -374,9 +375,7 @@ def fetch_deals(previous, log):
     for d in list(deals.values()):
         t = d.get("title", "")
         # las guardadas de antes también pasan por los filtros nuevos
-        if IS_REFURB.search(t):
-            deals.pop(d["id"], None)
-            continue
+        d["refurb"] = bool(IS_REFURB.search(t))
         if "needs_cat" not in d:
             d["needs_cat"] = not (IS_NINTENDO_WORD.search(t) or IS_POKEMON.search(t) or NINTENDO_HINT.search(t))
         _apply_real_price(d)   # precio de la página de Slickdeals (más fiable que el título)
@@ -393,7 +392,8 @@ def fetch_deals(previous, log):
         if not (d.get("page_checked") and d.get("link_v") == LINK_VERSION):
             return True
         try:   # cada 6 horas se vuelve a mirar si sigue activa y a qué precio
-            return _now() - datetime.datetime.fromisoformat(d["checked_at"]) > datetime.timedelta(hours=RECHECK_H)
+            hours = 2 if d.get("refurb") else RECHECK_H   # las reacondicionadas se acaban rápido
+            return _now() - datetime.datetime.fromisoformat(d["checked_at"]) > datetime.timedelta(hours=hours)
         except (KeyError, ValueError):
             return True
     # primero las que nunca se han revisado, después las más viejas
@@ -992,7 +992,10 @@ def merge_deals(deals):
     for d in deals:
         if d.get("expired") or (d.get("needs_cat") and not d.get("category_ok")):
             continue
-        groups.setdefault(game_key(d["title"]), []).append(d)
+        key = game_key(d["title"])
+        if d.get("refurb"):
+            key = "r" + key        # reacondicionado: tarjeta aparte, nunca junto al producto nuevo
+        groups.setdefault(key, []).append(d)
     # juntar los que son el mismo producto escrito distinto (ej. "LEGO Pokémon Pikachu and Poké Ball (72152)")
     keys = list(groups)
     for i, k1 in enumerate(keys):
@@ -1051,6 +1054,7 @@ def merge_deals(deals):
             "collector": any(d.get("collector") for d in items),
             "posted": max((d.get("posted") or "") for d in items),
             "digital": next((d["digital"] for d in items if d.get("digital")), None),
+            "refurb": any(d.get("refurb") for d in items),
         })
     out.sort(key=lambda d: d["posted"], reverse=True)
     return out
