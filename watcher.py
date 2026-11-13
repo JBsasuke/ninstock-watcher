@@ -88,7 +88,7 @@ def check_page(st):
     code = st["store"].lower()
     url = st["url"]
     try:
-        r = requests.get(url, headers=HEADERS, timeout=25)
+        r = requests.get(url, headers=HEADERS, timeout=(6, 15))
     except requests.RequestException as e:
         return UNKNOWN, url, f"sin conexión ({e.__class__.__name__})", None
     if r.status_code in (403, 429, 503):

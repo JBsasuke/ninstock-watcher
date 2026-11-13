@@ -29,6 +29,9 @@ NEWS_FEEDS = [
 ]
 
 KEEP_DAYS = 7
+START = time.monotonic()
+LINKS_BUDGET_S = 180      # máximo 3 min por corrida buscando links de ofertas
+DEKU_BUDGET_S = 150       # máximo 2,5 min por corrida abriendo páginas de juegos
 DEBUG_DIR = None  # carpeta para copias de páginas (la pone watcher.py)
 MAX_DEALS = 80
 MAX_NEWS = 30
@@ -100,7 +103,7 @@ def unwrap_url(u, depth=0):
 def resolve_click(url):
     """Sigue el botón "Get Deal" de Slickdeals hasta la tienda. None si no se pudo."""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True, stream=True)
+        r = requests.get(url, headers=HEADERS, timeout=(6, 10), allow_redirects=True, stream=True)
         chain = [h.headers.get("Location", "") for h in r.history] + [r.url]
         body = ""
         if not RETAILER_RE.match(r.url or ""):
@@ -147,7 +150,7 @@ def _deal_page(url):
     """Abre la página de la oferta: foto, tienda real y link directo (siguiendo "Get Deal")."""
     image = store_url = store = click = None
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = requests.get(url, headers=HEADERS, timeout=(6, 12))
         if r.status_code != 200:
             return None, None, None, None
         page = r.text
@@ -290,9 +293,13 @@ def fetch_deals(previous, log):
 
     # Abrir la página de cada oferta nueva: foto (si falta) y link directo a la tienda
     lookups = 0
+    t0 = time.monotonic()
     for d in fresh:
         if (d.get("page_checked") and d.get("link_v") == LINK_VERSION) or lookups >= MAX_PAGE_LOOKUPS:
             continue
+        if time.monotonic() - t0 > LINKS_BUDGET_S:
+            log("  tiempo de búsqueda de links agotado; sigue en la próxima corrida")
+            break
         lookups += 1
         img, store_url, store, click = _deal_page(d["url"])
         if img and not d.get("image"):
@@ -439,7 +446,11 @@ def parse_deku_offers(page):
 def _add_offers(cards, log):
     now = _now()
     opened = 0
+    t0 = time.monotonic()
     for d in cards:
+        if time.monotonic() - t0 > DEKU_BUDGET_S:
+            log("  tiempo de páginas de juegos agotado; sigue en la próxima corrida")
+            break
         when = d.get("offers_checked")
         if when:
             try:
@@ -451,7 +462,7 @@ def _add_offers(cards, log):
             break
         opened += 1
         try:
-            r = requests.get(d["url"], headers=DEKU_HEADERS, timeout=25)
+            r = requests.get(d["url"], headers=DEKU_HEADERS, timeout=(6, 12))
             if r.status_code == 200:
                 offers = parse_deku_offers(r.text)
                 pub = re.search(r"Publisher:\s*(?:<[^>]+>\s*)*([^<\n]+)", r.text)
@@ -484,7 +495,7 @@ def fetch_deku(previous, last_checked, log):
     for i in range(DEKU_MAX_PAGES):
         url = DEKU_BASE if i == 0 else f"{DEKU_BASE}?page={i + 1}"
         try:
-            r = requests.get(url, headers=DEKU_HEADERS, timeout=25)
+            r = requests.get(url, headers=DEKU_HEADERS, timeout=(6, 15))
             if r.status_code != 200:
                 log(f"  Deku Deals respondió HTTP {r.status_code}")
                 continue
