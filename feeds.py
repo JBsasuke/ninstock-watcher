@@ -654,6 +654,9 @@ def _fetch_news(previous, log):
 # una vez por hora y los links pasan por Deku Deals (así reciben su comisión).
 
 DEKU_BASE = "https://www.dekudeals.com/switch-2-physical-games"
+# La lista de arriba solo trae juegos con el juego completo en el cartucho. Los "game-key card"
+# (la caja trae una tarjeta y el juego se descarga) están en esta otra lista, toda en una página.
+DEKU_GKC = "https://www.dekudeals.com/guides/about-game-key-card-games?sort=release_date"
 DEKU_MAX_PAGES = 8              # hasta llegar a juegos que salieron hace más de 60 días
 DEKU_PAST_DAYS = 60
 DEKU_DEAL_PAGES = 20            # sigue hasta 20 páginas solo para juntar ofertas de juegos más viejos
@@ -854,6 +857,37 @@ def fetch_deku(previous, last_checked, log, previous_archive=None):
                 past_cutoff = True                # de aquí en adelante, solo ofertas
         except Exception as e:
             log(f"  Deku Deals falló ({e.__class__.__name__})")
+    # Juegos en game-key card (también son físicos)
+    gkc = 0
+    try:
+        r = requests.get(DEKU_GKC, headers=DEKU_HEADERS, timeout=(6, 20))
+        page_cards = parse_deku_cards(r.text) if r.status_code == 200 else []
+        if not page_cards and DEBUG_DIR is not None:
+            DEBUG_DIR.mkdir(exist_ok=True)
+            (DEBUG_DIR / "deku_gkc.html").write_text(r.text[:400_000], encoding="utf-8")
+        for c in page_cards:
+            if c["id"] in seen:
+                continue
+            seen.add(c["id"])
+            old = before.get(c["id"], {})
+            for k in ("offers", "offers_checked", "first_seen", "publisher", "digital"):
+                if k in old:
+                    c[k] = old[k]
+            c["offers"] = clean_offers(c.get("offers"))
+            c.setdefault("first_seen", now.isoformat(timespec="seconds"))
+            c["game_key"] = True
+            c["nintendo"] = bool(re.search(r"nintendo", c.get("publisher", ""), re.I)) or \
+                (not c.get("publisher") and bool(NINTENDO_HINT.search(c["title"])))
+            if c.get("release_date") and c["release_date"] < cutoff:
+                if c.get("old_price"):
+                    archive.append(c)
+            else:
+                cards.append(c)
+                gkc += 1
+        log(f"Deku Deals: {gkc} juegos en game-key card (de {len(page_cards)} en la lista)")
+    except Exception as e:
+        log(f"  Deku Deals (game-key cards) falló ({e.__class__.__name__})")
+    cards.sort(key=lambda c: c.get("release_date") or "9999", reverse=True)
     if not cards:
         log("Deku Deals: sin datos nuevos, se mantienen los anteriores")
         return previous, now.isoformat(timespec="seconds"), previous_archive
