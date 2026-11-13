@@ -317,6 +317,7 @@ def _prices(title):
 
 
 RECHECK_H = 6
+REFURB_DAYS = 2
 
 
 def _apply_real_price(d):
@@ -380,8 +381,11 @@ def fetch_deals(previous, log):
             d["needs_cat"] = not (IS_NINTENDO_WORD.search(t) or IS_POKEMON.search(t) or NINTENDO_HINT.search(t))
         _apply_real_price(d)   # precio de la página de Slickdeals (más fiable que el título)
     cutoff = _now() - datetime.timedelta(days=KEEP_DAYS)
+    # Reacondicionadas: Best Buy les cambia el precio rápido y el vigilante no puede ver su página,
+    # así que solo se muestran 2 días desde que se publicaron.
+    refurb_cutoff = _now() - datetime.timedelta(days=REFURB_DAYS)
     fresh = [d for d in deals.values()
-             if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
+             if datetime.datetime.fromisoformat(d["posted"]) >= (refurb_cutoff if d.get("refurb") else cutoff)]
     fresh.sort(key=lambda d: d["posted"], reverse=True)
     fresh = fresh[:MAX_DEALS]
 
