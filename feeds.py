@@ -31,6 +31,11 @@ NEWS_FEEDS = [
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 YT = "{http://www.youtube.com/xml/schemas/2015}"
+# Noticias de Nintendo ya escritas por Al Día RD, en español y en inglés
+ALDIA_JSON = "https://aldiard.com/noticias.json"
+ALDIA_BASE = "https://aldiard.com"
+ALDIA_NINTENDO = re.compile(r"nintendo|switch|zelda|mario|pok[eé]mon|kirby|metroid|donkey kong|splatoon|"
+                            r"animal crossing|xenoblade|fire emblem|pikmin|amiibo|smash bros|eshop", re.I)
 
 KEEP_DAYS = 7
 START = time.monotonic()
@@ -368,8 +373,51 @@ def _atom_entries(url):
         }
 
 
+def fetch_aldia(log):
+    """Noticias de Nintendo de aldiard.com (sección Videojuegos), con texto en español e inglés."""
+    try:
+        r = requests.get(ALDIA_JSON, headers=HEADERS, timeout=(6, 25))
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        log(f"  Al Día RD no respondió ({e.__class__.__name__})")
+        return None
+    out = []
+    for n in data if isinstance(data, list) else []:
+        if n.get("seccion") != "Videojuegos" or n.get("oculta") or not n.get("id"):
+            continue
+        hay = " ".join([n.get("titulo", ""), n.get("titulo_original", ""), n.get("dominio", ""), n.get("resumen", "")])
+        if not ALDIA_NINTENDO.search(hay) or len((n.get("titulo") or "").split()) < 4:
+            continue
+        en = n.get("en") or {}
+        video = (n.get("video") or {}).get("id")
+        foto = (n.get("foto") or {}).get("url")
+        image = f"https://i.ytimg.com/vi/{video}/hqdefault.jpg" if video and (not foto or "social-share" in foto) else foto
+        out.append({
+            "id": "aldia-" + n["id"],
+            "title": n.get("titulo", ""),
+            "summary": n.get("gancho") or n.get("resumen") or "",
+            "lang": "es",
+            "source": n.get("fuente") or "Nintendo",
+            "url": ALDIA_BASE + f"/n/{n['id']}.html",
+            "image": image,
+            "posted": n.get("fecha"),
+            "video": f"https://www.youtube.com/watch?v={video}" if video else None,
+            "es": {"title": n.get("titulo", ""), "summary": n.get("gancho") or n.get("resumen") or "",
+                   "body": n.get("parrafos") or [], "url": ALDIA_BASE + f"/n/{n['id']}.html"},
+            "en": {"title": en.get("titulo") or "", "summary": en.get("gancho") or "",
+                   "body": en.get("parrafos") or [], "url": ALDIA_BASE + f"/en/n/{n['id']}.html"} if en.get("titulo") else None,
+        })
+    log(f"  Al Día RD: {len(out)} noticias de Nintendo")
+    return out
+
+
 def fetch_news(previous, log):
     news = []
+    aldia = fetch_aldia(log)
+    if aldia is None:  # si no respondió, se quedan las que ya teníamos
+        aldia = [n for n in previous or [] if str(n.get("id", "")).startswith("aldia-")]
+    news += aldia
     for source, url, lang in NEWS_FEEDS:
         try:
             entries = list(_atom_entries(url)) if "youtube.com/feeds" in url else list(_items(url))
@@ -388,10 +436,16 @@ def fetch_news(previous, log):
                 })
         except Exception as e:
             log(f"  fuente de noticias falló ({e.__class__.__name__}): {source}")
+    yt = [n for n in news if not n["id"].startswith("aldia-")]
+    if not yt:
+        news += [n for n in previous or [] if n.get("source") == "Nintendo" and "youtube.com" in n.get("url", "")]
     if not news:
         # nunca dejar noticias de sitios no oficiales guardadas de antes
         return [n for n in previous or [] if n.get("source") == "Nintendo" and "youtube.com" in n.get("url", "")]
-    news.sort(key=lambda n: n["posted"], reverse=True)
+    # el mismo video que ya trae una noticia de Al Día RD no se repite
+    videos = {n.get("video") for n in news if n.get("video")}
+    news = [n for n in news if n["id"].startswith("aldia-") or n["url"] not in videos]
+    news.sort(key=lambda n: n.get("posted") or "", reverse=True)
     log(f"noticias: {len(news[:MAX_NEWS])}")
     return news[:MAX_NEWS]
 
