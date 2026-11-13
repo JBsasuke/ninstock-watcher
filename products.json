@@ -1,5 +1,19 @@
 [
   {
+    "id": "ocarina-oot",
+    "name": "Ocarina oficial de Zelda: Ocarina of Time",
+    "kind": "coleccionable",
+    "stores": [
+      {
+        "store": "nintendo",
+        "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-playable-ocarina-129683/"
+      }
+    ],
+    "image_pages": [
+      "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-playable-ocarina-129683/"
+    ]
+  },
+  {
     "id": "zelda40-consola",
     "name": "Switch 2 Zelda 40 Aniversario",
     "kind": "consola",
@@ -73,58 +87,52 @@
     "id": "amiibo-young-link",
     "name": "amiibo Young Link (Ocarina of Time)",
     "kind": "amiibo",
-    "stores": [
-      {
-        "store": "gamestop",
-        "url": "https://www.gamestop.com/products/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series/451608.html"
-      },
-      {
-        "store": "bestbuy",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      },
-      {
-        "store": "walmart",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      },
-      {
-        "store": "amazon",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      }
-    ],
+    "stores": [],
     "image_pages": [
       "https://www.dekudeals.com/items/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series"
-    ]
+    ],
+    "deku_page": "https://www.dekudeals.com/items/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series"
   },
   {
     "id": "amiibo-young-zelda",
     "name": "amiibo Young Zelda (Ocarina of Time)",
     "kind": "amiibo",
-    "stores": [
-      {
-        "store": "gamestop",
-        "url": "https://www.gamestop.com/products/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series/451626.html"
-      },
-      {
-        "store": "bestbuy",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      },
-      {
-        "store": "walmart",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      },
-      {
-        "store": "amazon",
-        "url": "PEGA_AQUI_EL_LINK",
-        "enabled": false
-      }
-    ],
+    "stores": [],
     "image_pages": [
       "https://www.dekudeals.com/items/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series"
-    ]
+    ],
+    "deku_page": "https://www.dekudeals.com/items/amiibo-young-zelda-the-legend-of-zelda-ocarina-of-time-series"
+  },
+  {
+    "id": "re2-ns2",
+    "name": "Resident Evil 2 Deluxe Edition (físico)",
+    "kind": "juego",
+    "match": "^resident evil 2\\b",
+    "note": "Sale el 29 ene 2027",
+    "stores": []
+  },
+  {
+    "id": "re3-ns2",
+    "name": "Resident Evil 3 (físico)",
+    "kind": "juego",
+    "match": "^resident evil 3\\b",
+    "note": "Sale el 29 ene 2027",
+    "stores": []
+  },
+  {
+    "id": "re4-ns2",
+    "name": "Resident Evil 4 Gold Edition (físico)",
+    "kind": "juego",
+    "match": "^resident evil 4\\b",
+    "note": "Sale el 29 ene 2027",
+    "stores": []
+  },
+  {
+    "id": "ff7-revelation-ns2",
+    "name": "Final Fantasy VII Revelation (físico)",
+    "kind": "juego",
+    "match": "final fantasy vii revelation",
+    "note": "Sale el 8 abr 2027",
+    "stores": []
   }
 ]
