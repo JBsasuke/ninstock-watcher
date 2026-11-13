@@ -22,6 +22,11 @@ DEAL_FEEDS = [
     "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1",
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=nintendo+switch",
+    "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=switch+2",
+    "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=nintendo",
+    "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=amiibo",
+    "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q=nintendo",
+    "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q=switch",
 ]
 # Solo fuentes oficiales de Nintendo
 # (fuente, url, idioma). Solo canales oficiales de Nintendo; la app traduce al otro idioma.
@@ -37,12 +42,12 @@ ALDIA_BASE = "https://aldiard.com"
 ALDIA_NINTENDO = re.compile(r"nintendo|switch|zelda|mario|pok[eé]mon|kirby|metroid|donkey kong|splatoon|"
                             r"animal crossing|xenoblade|fire emblem|pikmin|amiibo|smash bros|eshop", re.I)
 
-KEEP_DAYS = 7
+KEEP_DAYS = 14   # las ofertas se quedan 2 semanas (si se agotan, la app pasa a la siguiente tienda)
 START = time.monotonic()
 LINKS_BUDGET_S = 180      # máximo 3 min por corrida buscando links de ofertas
 DEKU_BUDGET_S = 150       # máximo 2,5 min por corrida abriendo páginas de juegos
 DEBUG_DIR = None  # carpeta para copias de páginas (la pone watcher.py)
-MAX_DEALS = 80
+MAX_DEALS = 150
 MAX_NEWS = 30
 
 IS_SWITCH = re.compile(r"nintendo switch|switch\s*2\b|\(switch\)|\bfor switch\b|[-–]\s*switch\b|\bNSW\b", re.I)
@@ -268,7 +273,7 @@ def _prices(title):
 
 
 def fetch_deals(previous, log):
-    """Junta ofertas nuevas con las de antes y quita las de más de 7 días."""
+    """Junta ofertas nuevas con las de antes y quita las de más de KEEP_DAYS días."""
     deals = {d["id"]: d for d in previous}
     ok = 0
     for url in DEAL_FEEDS:
@@ -458,6 +463,7 @@ def fetch_news(previous, log):
 DEKU_BASE = "https://www.dekudeals.com/switch-2-physical-games"
 DEKU_MAX_PAGES = 8              # hasta llegar a juegos que salieron hace más de 60 días
 DEKU_PAST_DAYS = 60
+DEKU_DEAL_PAGES = 20            # sigue hasta 20 páginas solo para juntar ofertas de juegos más viejos
 NINTENDO_HINT = re.compile(r"mario|zelda|pok[eé]mon|kirby|metroid|donkey kong|pikmin|splatoon|fire emblem|"
                            r"xenoblade|animal crossing|yoshi|wario|smash bros|switch sports|nintendo labo|luigi|star fox|"
                            r"kid icarus|tomodachi|rhythm heaven|drag x drive|f-zero|chibi-robo|1-2-switch", re.I)
@@ -602,21 +608,24 @@ def _add_offers(cards, log):
     log(f"Deku Deals: {sum(1 for d in cards if d.get('offers'))}/{len(cards)} juegos con precio por tienda")
 
 
-def fetch_deku(previous, last_checked, log):
-    """Devuelve (tarjetas, cuándo_se_revisó). Respeta el intervalo de 1 hora."""
+def fetch_deku(previous, last_checked, log, previous_archive=None):
+    """Devuelve (tarjetas, cuándo_se_revisó, archivo). Respeta el intervalo de 1 hora.
+    tarjetas = lanzamientos (próximos y de los últimos 60 días); archivo = juegos más viejos que están en oferta."""
     now = _now()
-    for c in previous:   # links guardados de antes: limpiar siempre
+    previous_archive = previous_archive or []
+    for c in previous + previous_archive:   # links guardados de antes: limpiar siempre
         c["offers"] = clean_offers(c.get("offers"))
     if last_checked and previous:
         try:
             if now - datetime.datetime.fromisoformat(last_checked) < datetime.timedelta(minutes=DEKU_EVERY_MIN):
-                return previous, last_checked
+                return previous, last_checked, previous_archive
         except ValueError:
             pass
-    before = {c["id"]: c for c in previous}
-    cards, seen = [], set()
+    before = {c["id"]: c for c in previous_archive + previous}
+    cards, archive, seen = [], [], set()
     cutoff = (now - datetime.timedelta(days=DEKU_PAST_DAYS)).date().isoformat()
-    for i in range(DEKU_MAX_PAGES):
+    past_cutoff = False
+    for i in range(DEKU_DEAL_PAGES):
         url = DEKU_BASE if i == 0 else f"{DEKU_BASE}?page={i + 1}"
         try:
             r = requests.get(url, headers=DEKU_HEADERS, timeout=(6, 15))
@@ -639,20 +648,27 @@ def fetch_deku(previous, last_checked, log):
                 c.setdefault("first_seen", now.isoformat(timespec="seconds"))
                 c["nintendo"] = bool(re.search(r"nintendo", c.get("publisher", ""), re.I)) or \
                     (not c.get("publisher") and bool(NINTENDO_HINT.search(c["title"])))
-                cards.append(c)
+                if past_cutoff or (c.get("release_date") and c["release_date"] < cutoff and i >= DEKU_MAX_PAGES):
+                    if c.get("old_price"):        # más viejo: solo interesa si está rebajado
+                        archive.append(c)
+                else:
+                    cards.append(c)
             time.sleep(2)
             dated = [c["release_date"] for c in page_cards if c.get("release_date")]
-            if not page_cards or (dated and max(dated) < cutoff):
+            if not page_cards:
                 break
+            if dated and max(dated) < cutoff:
+                past_cutoff = True                # de aquí en adelante, solo ofertas
         except Exception as e:
             log(f"  Deku Deals falló ({e.__class__.__name__})")
     if not cards:
         log("Deku Deals: sin datos nuevos, se mantienen los anteriores")
-        return previous, now.isoformat(timespec="seconds")
+        return previous, now.isoformat(timespec="seconds"), previous_archive
     log(f"Deku Deals: {len(cards)} juegos físicos de Switch 2 "
-        f"({sum(1 for c in cards if c['old_price'])} con descuento, {sum(1 for c in cards if c['collector'])} de coleccionista)")
-    _add_offers(cards, log)
-    return cards, now.isoformat(timespec="seconds")
+        f"({sum(1 for c in cards if c['old_price'])} con descuento, {sum(1 for c in cards if c['collector'])} de coleccionista)"
+        f" + {len(archive)} juegos más viejos en oferta")
+    _add_offers(cards + archive, log)
+    return cards, now.isoformat(timespec="seconds"), archive
 
 
 def deku_deals(cards):

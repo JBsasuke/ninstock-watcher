@@ -40,7 +40,8 @@ TZ = "America/New_York"
 
 AVAILABLE, SOLD_OUT, UNKNOWN = "disponible", "agotado", "desconocido"
 STORE_NAMES = {"nintendo": "Nintendo", "amazon": "Amazon", "walmart": "Walmart",
-               "target": "Target", "bestbuy": "Best Buy", "gamestop": "GameStop"}
+               "target": "Target", "bestbuy": "Best Buy", "gamestop": "GameStop",
+               "squareenix": "Square Enix Store", "capcom": "Capcom Store"}
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -55,6 +56,8 @@ STORE_TEXT = {
     "target": {"in": ["add to cart", "ship it"], "out": ["out of stock", "sold out"]},
     "amazon": {"in": ["add to cart", "buy now"], "out": ["currently unavailable", "temporarily out of stock"]},
     "bestbuy": {"in": ["add to cart"], "out": ["sold out", "coming soon"]},
+    "squareenix": {"in": ["add to cart", "pre-order"], "out": ["sold out", "out of stock"]},
+    "capcom": {"in": ["add to cart", "pre-order"], "out": ["sold out", "out of stock"]},
 }
 DEFAULT_TEXT = {"in": ["add to cart"], "out": ["out of stock", "sold out", "unavailable"]}
 BLOCK_HINTS = ["captcha", "robot check", "are you a human", "verify you are human", "access denied", "px-captcha"]
@@ -274,6 +277,10 @@ def main():
         log("estado actualizado")
 
 
+def now_iso():
+    return datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+
+
 def pct_off(price, old):
     return round((1 - price / old) * 100) if price and old and old > price else 0
 
@@ -318,8 +325,9 @@ def write_feed(catalog, state):
 
     raw_old = old.get("raw_slick") or [d for d in old_deals if d.get("source") not in ("dekudeals",) and "offers" not in d]
     slick, _ = feeds.fetch_deals(raw_old, log)
-    cards, deku_checked = feeds.fetch_deku(old.get("releases", []), old.get("deku_checked"), log)
-    deals = feeds.merge_deals(slick + feeds.deku_deals(cards))
+    cards, deku_checked, archive = feeds.fetch_deku(old.get("releases", []), old.get("deku_checked"), log,
+                                                    old.get("deku_archive", []))
+    deals = feeds.merge_deals(slick + feeds.deku_deals(cards + archive))
     log(f"ofertas en la app (sin repetidos): {len(deals)}")
 
     # 1) Ofertas buenas nuevas (30 % o más) -> quien activó "buenas ofertas"
@@ -373,23 +381,61 @@ def write_feed(catalog, state):
         del released[:-300]
 
     points = [(d["id"], d.get("price")) for d in deals]
-    points += [(c["id"], (c.get("offers") or [{}])[0].get("price") or c.get("price")) for c in cards]
+    points += [(c["id"], (c.get("offers") or [{}])[0].get("price") or c.get("price")) for c in cards + archive]
     record_history(points, today)
 
-    images = state.get("_images", {})
+    # 5) Productos de Colección que se siguen por Deku Deals (todas las tiendas, sin links a mano)
+    deku_stores = {}
+    images = state.setdefault("_images", {})
+    for p in catalog:
+        rows = None
+        if p.get("deku_page"):
+            rows, img = feeds.fetch_deku_rows(p["deku_page"])
+            if img and not p.get("image") and p["id"] not in images:
+                images[p["id"]] = img
+                state_changed = True
+        elif p.get("match"):
+            card = next((c for c in cards if re.search(p["match"], c["title"], re.I)), None)
+            if card:
+                rows = [{"store": o["store"], "price": o["price"], "url": o["url"]} for o in card.get("offers") or []]
+                if card.get("image") and p["id"] not in images and not p.get("image"):
+                    images[p["id"]] = card["image"]
+                    state_changed = True
+                if card.get("release") and not p.get("note"):
+                    p["note"] = "Sale: " + card["release"]
+        if rows is None:
+            continue
+        found = []
+        for r in rows:
+            key = f"{p['id']}:{r['store'].lower()}"
+            status = AVAILABLE if r.get("price") else SOLD_OUT
+            prev = state.get(key, {}).get("status")
+            if status == AVAILABLE and prev != AVAILABLE and r.get("url"):
+                notify(f"¡Disponible! {p['name']}",
+                       f"Ya se puede comprar en {r['store']} por ${r['price']:.2f}. Toca para abrir la tienda.",
+                       r["url"], topics=(GENERAL_TOPIC, f"p-{p['id']}"))
+            if status != prev:
+                state[key] = {"status": status, "since": now_iso()}
+                state_changed = True
+            found.append({"store": r["store"], "url": r.get("url") or "", "price": r.get("price"),
+                          "status": status, "since": state.get(key, {}).get("since")})
+        deku_stores[p["id"]] = found
+
     feed = {
         "version": 4,
         "raw_slick": slick,
         "deku_checked": deku_checked,
         "deals": deals,
         "releases": cards,
+        "deku_archive": archive,
         "collection": [
             {
                 "id": p["id"],
                 "name": p["name"],
                 "kind": p.get("kind", ""),
                 "image": p.get("image") or images.get(p["id"]),
-                "stores": [
+                "note": p.get("note"),
+                "stores": deku_stores.get(p["id"], []) + [
                     {
                         "store": store_name(s["store"]),
                         "url": s["url"],
