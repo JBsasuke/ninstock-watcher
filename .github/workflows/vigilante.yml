@@ -20,7 +20,7 @@ concurrency:
 jobs:
   revisar:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       # Siempre la versión más nueva del repo (no la de cuando se lanzó la corrida)
       - uses: actions/checkout@v4
@@ -36,7 +36,9 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Revisar productos
+        timeout-minutes: 12
         env:
+          PYTHONDONTWRITEBYTECODE: "1"
           BESTBUY_API_KEY: ${{ secrets.BESTBUY_API_KEY }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
@@ -52,6 +54,7 @@ jobs:
           git config user.name "ninstock-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
+          git rm -r -q --cached __pycache__ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Sin cambios que guardar"
             exit 0
