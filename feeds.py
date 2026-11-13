@@ -511,26 +511,18 @@ def fetch_news(previous, log_main):
 def _fetch_news(previous, log):
     news = []
     old_items = {n["id"]: n for n in previous or []}
-    date_lookups = [0]
+    seeded_before = any(n.get("seeded") for n in previous or [])
 
-    def video_date(it):
-        """Fecha real del video: la del feed, la ya guardada, o la de su página (máx. 10 páginas por corrida)."""
+    def video_date(it, idx):
+        """Fecha del video. YouTube no le da la fecha a GitHub, así que: la primera vez se reparten hacia atrás
+        en el orden del canal (el más nuevo primero); después, cada video nuevo entra con la hora en que apareció."""
         if it["date"]:
             return it["date"].isoformat(timespec="seconds"), True
         old = old_items.get(hashlib.md5(it["link"].encode()).hexdigest()[:12]) or {}
-        if old.get("date_ok"):
-            return old["posted"], True
-        if date_lookups[0] < 10:
-            date_lookups[0] += 1
-            try:
-                r = requests.get(it["link"], headers=YT_HEADERS, timeout=(6, 15))
-                m = re.search(r'"(?:uploadDate|publishDate)":"([^"]+)"', r.text) or \
-                    re.search(r'itemprop="(?:uploadDate|datePublished)" content="([^"]+)"', r.text)
-                if m:
-                    return _parse_date(m.group(1)).isoformat(timespec="seconds"), True
-            except requests.RequestException:
-                pass
-        return old.get("posted") or _now().isoformat(timespec="seconds"), False
+        if old.get("seeded") or old.get("date_ok"):
+            return old["posted"], bool(old.get("date_ok"))
+        when = _now() if seeded_before else _now() - datetime.timedelta(hours=8 * (idx + 1))
+        return when.isoformat(timespec="seconds"), False
     aldia = fetch_aldia(log)
     if aldia is None:  # si no respondió, se quedan las que ya teníamos
         aldia = [n for n in previous or [] if str(n.get("id", "")).startswith("aldia-")]
@@ -543,13 +535,14 @@ def _fetch_news(previous, log):
                 log(f"  {source} (YouTube): {len(entries)} videos" + (" desde la página del canal" if kind == "page" else ""))
             else:
                 entries = list(_items(url))
-            for it in entries:
+            for idx, it in enumerate(entries):
                 if not it["link"] or "#shorts" in it["title"].lower() or YT_SKIP.search(it["title"]):
                     continue
-                posted, date_ok = video_date(it)
+                posted, date_ok = video_date(it, idx)
                 news.append({
                     "id": hashlib.md5(it["link"].encode()).hexdigest()[:12],
                     "date_ok": date_ok,
+                    "seeded": True,
                     "title": it["title"],
                     "summary": it.get("summary") or "",
                     "lang": lang,
