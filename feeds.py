@@ -80,10 +80,16 @@ CLICK_RE = re.compile(r"<a\b[^>]*href=[\"'](https://slickdeals\.net/click\?[^\"'
 WRAP_PARAMS = ("u", "url", "murl", "u2", "u1", "dest", "destination", "dl", "RD_PARM1", "target", "link", "redirect")
 
 
+BBY_CLICK_RE = re.compile(r"https?://api\.bestbuy\.com/click/[^/]*/(\d{7})", re.I)
+
+
 def unwrap_url(u, depth=0):
     """Saca el link de la tienda que viene envuelto dentro de un link de afiliado/redirección."""
     if not u or depth > 4:
         return u
+    m = BBY_CLICK_RE.match(u)
+    if m:
+        return f"https://www.bestbuy.com/site/{m.group(1)}.p?skuId={m.group(1)}"
     try:
         if RETAILER_RE.match(u) and "goto." not in urlparse(u).netloc:
             return u
@@ -417,8 +423,9 @@ def parse_deku_cards(page):
 
 
 def parse_deku_offers(page):
-    """Tabla de precios de un juego en Deku Deals: tienda, precio y link (sin la eShop, que es digital)."""
+    """Tabla de precios: devuelve (ofertas físicas por tienda, precio digital o None)."""
     offers = {}
+    digital = None
     main = page.split("Also available at")[0]   # solo la tabla principal de tiendas
     for row in re.split(r"<tr\b", main, flags=re.I)[1:]:
         row = row.split("</tr>")[0]
@@ -426,21 +433,37 @@ def parse_deku_offers(page):
         attrs = " ".join(re.findall(r"(?:alt|title|aria-label)=['\"]([^'\"]+)['\"]", row, re.I))
         hay = (text + " " + attrs).lower()
         store = next((st for st in DEKU_STORES if st.lower() in hay), None)
-        if not store or "eshop" in store.lower() or ("digital" in hay and "physical" not in hay):
-            continue
         href = re.search(r"href=['\"]([^'\"]+)['\"]", row, re.I)
         price = PRICE_ANY_RE.search(text)
-        if not href or not price:
+        if not store or not href or not price:
+            continue
+        if "eshop" in store.lower() or ("digital" in hay and "physical" not in hay):
+            value = _num(price.group(1))
+            link = _clean_store_url(html.unescape(href.group(1))) or ""
+            if value and (digital is None or value < digital["price"]):
+                digital = {"price": value, "url": link if RETAILER_RE.match(link) else ""}
             continue
         url = html.unescape(href.group(1))
         if url.startswith("/"):
             url = "https://www.dekudeals.com" + url
-        url = unwrap_url(url)
+        url = _clean_store_url(url) or url
+        if not RETAILER_RE.match(url):
+            continue   # solo links directos a la tienda
         name = "Nintendo" if "nintendo" in store.lower() else store
         value = _num(price.group(1))
         if value and (name not in offers or value < offers[name]["price"]):
             offers[name] = {"store": name, "price": value, "url": url}
-    return sorted(offers.values(), key=lambda o: o["price"])
+    return sorted(offers.values(), key=lambda o: o["price"]), digital
+
+
+def clean_offers(offers):
+    """Limpia links guardados de antes (afiliados, envoltorios) y quita los que no son de una tienda."""
+    out = []
+    for o in offers or []:
+        url = _clean_store_url(o.get("url", "")) or ""
+        if RETAILER_RE.match(url):
+            out.append({**o, "url": url})
+    return sorted(out, key=lambda o: o["price"])
 
 
 def _add_offers(cards, log):
@@ -464,7 +487,8 @@ def _add_offers(cards, log):
         try:
             r = requests.get(d["url"], headers=DEKU_HEADERS, timeout=(6, 12))
             if r.status_code == 200:
-                offers = parse_deku_offers(r.text)
+                offers, digital = parse_deku_offers(r.text)
+                d["digital"] = digital
                 pub = re.search(r"Publisher:\s*(?:<[^>]+>\s*)*([^<\n]+)", r.text)
                 if pub:
                     d["publisher"] = html.unescape(pub.group(1)).strip()
@@ -483,6 +507,8 @@ def _add_offers(cards, log):
 def fetch_deku(previous, last_checked, log):
     """Devuelve (tarjetas, cuándo_se_revisó). Respeta el intervalo de 1 hora."""
     now = _now()
+    for c in previous:   # links guardados de antes: limpiar siempre
+        c["offers"] = clean_offers(c.get("offers"))
     if last_checked and previous:
         try:
             if now - datetime.datetime.fromisoformat(last_checked) < datetime.timedelta(minutes=DEKU_EVERY_MIN):
@@ -508,9 +534,10 @@ def fetch_deku(previous, last_checked, log):
                     continue
                 seen.add(c["id"])
                 old = before.get(c["id"], {})
-                for k in ("offers", "offers_checked", "first_seen", "publisher"):
+                for k in ("offers", "offers_checked", "first_seen", "publisher", "digital"):
                     if k in old:
                         c[k] = old[k]
+                c["offers"] = clean_offers(c.get("offers"))
                 c.setdefault("first_seen", now.isoformat(timespec="seconds"))
                 c["nintendo"] = bool(re.search(r"nintendo", c.get("publisher", ""), re.I)) or \
                     (not c.get("publisher") and bool(NINTENDO_HINT.search(c["title"])))
@@ -552,6 +579,7 @@ def deku_deals(cards):
             "image": c.get("image"),
             "posted": c.get("first_seen"),
             "source": "dekudeals",
+            "digital": c.get("digital"),
         })
     return out
 
@@ -647,6 +675,7 @@ def merge_deals(deals):
             "kind": items[0].get("kind", "game"),
             "collector": any(d.get("collector") for d in items),
             "posted": max((d.get("posted") or "") for d in items),
+            "digital": next((d["digital"] for d in items if d.get("digital")), None),
         })
     out.sort(key=lambda d: d["posted"], reverse=True)
     return out
