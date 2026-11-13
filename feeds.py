@@ -63,6 +63,10 @@ IS_SWITCH = re.compile(r"nintendo switch|switch\s*2\b|\(switch\)|\bfor switch\b|
 IS_DIGITAL = re.compile(r"\beshop\b|\bdigital\b|\bdownload\b|gift card|switch online|\be-?code\b", re.I)
 IS_AMIIBO = re.compile(r"\bamiibo\b", re.I)
 IS_POKEMON = re.compile(r"pok[eé]mon", re.I)
+# Reacondicionado / caja abierta / usado: el precio no es el del producto nuevo que la gente ve en la tienda
+IS_REFURB = re.compile(r"refurb|renewed|open[- ]box|pre-?owned|\bused\b|good condition|fair condition|"
+                       r"excellent condition|certified restored|seller refurbished", re.I)
+IS_NINTENDO_WORD = re.compile(r"nintendo|joy-?con|amiibo|\bnsw\b", re.I)
 # Productos de Pokémon que no son juegos: cartas (TCG), peluches, figuras
 IS_POKEMON_MERCH = re.compile(r"\btcg\b|trading card|elite trainer|booster|premium collection|collection box|\bbinder\b|"
                               r"plush|squishmallow|figure|\blego\b|mega construx|\btins?\b|\bcards?\b|\bdeck\b", re.I)
@@ -200,6 +204,11 @@ def _deal_page(url):
             info["list"] = float(lp.group(1))
         if ex:
             info["expired"] = ex.group(1).lower() in ("yes", "true")
+        pc = re.search(r'"primaryCategory":"([^"]*)"', page)
+        sc = re.search(r'"subCategory":"([^"]*)"', page)
+        if pc or sc:
+            cat = f"{pc.group(1) if pc else ''} {sc.group(1) if sc else ''}"
+            info["category_ok"] = bool(re.search(r"video games|nintendo|gaming|toys", cat, re.I))
         m = OG_IMAGE_RE.search(page)
         if m:
             img = html.unescape(m.group(1) or m.group(2))
@@ -328,8 +337,11 @@ def fetch_deals(previous, log):
                     continue
                 pokemon_merch = bool(IS_POKEMON.search(t) and not IS_SWITCH.search(t)
                                      and IS_POKEMON_MERCH.search(t) and not IS_NOT_POKEMON_DEAL.search(t))
-                if not (IS_SWITCH.search(t) or IS_AMIIBO.search(t) or pokemon_merch):
+                if not (IS_SWITCH.search(t) or IS_AMIIBO.search(t) or pokemon_merch) or IS_REFURB.search(t):
                     continue
+                # "Switch" sin decir Nintendo (ej. un switch de red "Switch 2") -> se confirma con la
+                # categoría de la oferta en Slickdeals antes de mostrarlo
+                needs_cat = not (IS_NINTENDO_WORD.search(t) or IS_POKEMON.search(t) or NINTENDO_HINT.search(t))
                 price, old = _prices(t)
                 did = hashlib.md5(it["link"].encode()).hexdigest()[:12]
                 prev = deals.get(did) or {}
@@ -345,8 +357,10 @@ def fetch_deals(previous, log):
                     "url": it["link"],
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),
+                    "needs_cat": needs_cat,
                 }
-                for k in ("store_url", "page_checked", "link_v", "store", "checked_at", "expired", "real_price", "real_old"):
+                for k in ("store_url", "page_checked", "link_v", "store", "checked_at", "expired", "real_price", "real_old",
+                          "category_ok"):
                     if k in prev:
                         deals[did][k] = prev[k]
             ok += 1
@@ -386,6 +400,8 @@ def fetch_deals(previous, log):
         img, store_url, store, click, info = _deal_page(d["url"])
         if info:
             d["checked_at"] = _now().isoformat(timespec="seconds")
+            if "category_ok" in info:
+                d["category_ok"] = info["category_ok"]
             if info.get("expired"):
                 d["expired"] = True
                 log(f"  oferta vencida, se quita: {d['title'][:60]}")
@@ -887,8 +903,11 @@ def is_direct(url):
     return bool(url) and (bool(RETAILER_RE.match(url)) or url.startswith("https://slickdeals.net/click"))
 
 
+DEAL_PREFIX_RE = re.compile(r"^(?:[*|\s]+|select accounts:\s*|woot\s*[-–]\s*|amazon prime members:\s*|"
+                            r"prime members:\s*|ymmv:?\s*|in-?store:?\s*)+", re.I)
 def clean_name(title):
-    t = PRICE_RE.sub(" ", title)
+    t = DEAL_PREFIX_RE.sub("", PRICE_RE.sub(" ", title).strip())
+    t = re.sub(r"^invitation only:\s*", "", t, flags=re.I)
     t = re.sub(r"\((?:reg\.?|was|list|orig)[^)]*\)", " ", t, flags=re.I)
     t = re.sub(r"\s(?:at|@|from|via)\s+[A-Z].*$", " ", t)
     t = re.sub(r"\+\s*free\s+(?:shipping|s/h|store pickup).*$", " ", t, flags=re.I)
@@ -897,9 +916,21 @@ def clean_name(title):
     return t.strip(" -–,") or title
 
 
+KEY_STOP = set("""the a an and or of for with to in on by edition editions nintendo switch ns2edition free s h sh
+shipping pickup store various select colors color bundle deal new physical game games set pack pk kit official
+licensed""".split())
+
+
+def _key_tokens(key):
+    return set(key.split(":", 1)[1].split()) - KEY_STOP
+
+
 def game_key(title):
-    t = clean_name(title).lower()
+    t = DEAL_PREFIX_RE.sub("", clean_name(title)).lower()
     plat = "s2" if re.search(r"switch\s*2|\bns2\b", t) else "s1"
+    t = re.sub(r"\([^)]*\)", " ", t)                        # variantes entre paréntesis: (Various), (Mario or Sonic)
+    t = re.sub(r"\b\d[\d,]*\s*-?\s*(?:pc|pcs|piece|pieces)\b", " ", t)   # "2,050-Pc" / "2050-Piece"
+    t = re.sub(r"\b20\d\d\b", " ", t)
     t = re.sub(r"nintendo switch 2 edition|switch 2 edition", " ns2edition ", t)
     t = re.sub(r"\((?:nintendo )?switch[^)]*\)", " ", t)
     t = re.sub(r"\b(?:nintendo switch 2|nintendo switch|switch 2|switch|nsw|ns2|game-?key card|physical|"
@@ -918,9 +949,26 @@ def _search_url(store, name):
 def merge_deals(deals):
     groups = {}
     for d in deals:
-        if d.get("expired"):
+        if d.get("expired") or (d.get("needs_cat") and not d.get("category_ok")):
             continue
         groups.setdefault(game_key(d["title"]), []).append(d)
+    # juntar los que son el mismo producto escrito distinto (ej. "LEGO Pokémon Pikachu and Poké Ball (72152)")
+    keys = list(groups)
+    for i, k1 in enumerate(keys):
+        if k1 not in groups:
+            continue
+        t1 = _key_tokens(k1)
+        for k2 in keys[i + 1:]:
+            if k2 not in groups or k1[:2] != k2[:2]:
+                continue
+            t2 = _key_tokens(k2)
+            if not t1 or not t2:
+                continue
+            small, big = (t1, t2) if len(t1) <= len(t2) else (t2, t1)
+            jac = len(t1 & t2) / len(t1 | t2)
+            if jac >= 0.75 or (len(small) >= 3 and small <= big):
+                groups[k1].extend(groups.pop(k2))
+                t1 = t1 | t2
     out = []
     for key, items in groups.items():
         offers = {}
