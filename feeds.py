@@ -182,13 +182,24 @@ def _clean_store_url(u):
 
 
 def _deal_page(url):
-    """Abre la página de la oferta: foto, tienda real y link directo (siguiendo "Get Deal")."""
+    """Abre la página de la oferta: foto, tienda real, link directo (siguiendo "Get Deal"),
+    y además el precio real que pone Slickdeals y si la oferta ya venció."""
     image = store_url = store = click = None
+    info = {}
     try:
         r = requests.get(url, headers=HEADERS, timeout=(6, 12))
         if r.status_code != 200:
-            return None, None, None, None
+            return None, None, None, None, info
         page = r.text
+        fp = re.search(r'"finalPrice":"?([\d.]+)', page)
+        lp = re.search(r'"listPrice":"?([\d.]+)', page)
+        ex = re.search(r'"isExpiredDeal":"?(Yes|No|true|false)', page, re.I)
+        if fp:
+            info["price"] = float(fp.group(1))
+        if lp:
+            info["list"] = float(lp.group(1))
+        if ex:
+            info["expired"] = ex.group(1).lower() in ("yes", "true")
         m = OG_IMAGE_RE.search(page)
         if m:
             img = html.unescape(m.group(1) or m.group(2))
@@ -214,7 +225,7 @@ def _deal_page(url):
             (DEBUG_DIR / "slickdeals.html").write_text(page[:400_000], encoding="utf-8")
     except requests.RequestException:
         pass
-    return image, store_url, store, click
+    return image, store_url, store, click, info
 
 
 def _now():
@@ -273,8 +284,17 @@ def store_from_url(url):
     return None
 
 
+# "+ $9 Walmart Cash", "$10 off", "$5 credit", "w/ $20 gift card"... no son el precio del producto
+BONUS_RE = re.compile(r"(?:\+|w/|with|get|and|plus)?\s*\$\s?[\d,]+(?:\.\d{1,2})?\s*(?:in\s+)?"
+                      r"(?:walmart cash|target circle|best buy rewards?|my best buy|amazon credit|cash\s?back|"
+                      r"(?:store |promo |bonus |digital )?credit|e?gift ?cards?|rewards?|bonus|off\b|coupon|savings|"
+                      r"back\b|instant savings)", re.I)
+SAVE_RE = re.compile(r"\b(?:save|extra|additional)\s+\$\s?[\d,]+(?:\.\d{1,2})?", re.I)
+
+
 def _prices(title):
     values = []
+    title = SAVE_RE.sub(" ", BONUS_RE.sub(" ", title))
     for v in PRICE_RE.findall(title):
         try:
             values.append(float(v.replace(",", "")))
@@ -285,6 +305,15 @@ def _prices(title):
     price = values[0]
     higher = [v for v in values[1:] if v > price]
     return price, (max(higher) if higher else None)
+
+
+RECHECK_H = 6
+
+
+def _apply_real_price(d):
+    if d.get("real_price"):
+        d["price"] = d["real_price"]
+        d["old_price"] = d.get("real_old")
 
 
 def fetch_deals(previous, log):
@@ -317,7 +346,7 @@ def fetch_deals(previous, log):
                     "image": image,
                     "posted": it["date"].isoformat(timespec="seconds"),
                 }
-                for k in ("store_url", "page_checked", "link_v", "store"):
+                for k in ("store_url", "page_checked", "link_v", "store", "checked_at", "expired", "real_price", "real_old"):
                     if k in prev:
                         deals[did][k] = prev[k]
             ok += 1
@@ -328,6 +357,8 @@ def fetch_deals(previous, log):
         if su and ("..." in su or "/reviews/" in su or "\u2026" in su):
             d.pop("store_url", None)
             d.pop("link_v", None)
+    for d in deals.values():   # precio de la página de Slickdeals (más fiable que el título)
+        _apply_real_price(d)
     cutoff = _now() - datetime.timedelta(days=KEEP_DAYS)
     fresh = [d for d in deals.values()
              if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
@@ -337,16 +368,36 @@ def fetch_deals(previous, log):
     # Abrir la página de cada oferta nueva: foto (si falta) y link directo a la tienda
     lookups = 0
     t0 = time.monotonic()
-    for d in fresh:
-        if (d.get("page_checked") and d.get("link_v") == LINK_VERSION) or lookups >= MAX_PAGE_LOOKUPS:
+    def due(d):
+        if not (d.get("page_checked") and d.get("link_v") == LINK_VERSION):
+            return True
+        try:   # cada 6 horas se vuelve a mirar si sigue activa y a qué precio
+            return _now() - datetime.datetime.fromisoformat(d["checked_at"]) > datetime.timedelta(hours=RECHECK_H)
+        except (KeyError, ValueError):
+            return True
+    # primero las que nunca se han revisado, después las más viejas
+    for d in sorted(fresh, key=lambda d: (bool(d.get("checked_at")), d.get("checked_at") or "")):
+        if d.get("expired") or not due(d) or lookups >= MAX_PAGE_LOOKUPS:
             continue
         if time.monotonic() - t0 > LINKS_BUDGET_S:
             log("  tiempo de búsqueda de links agotado; sigue en la próxima corrida")
             break
         lookups += 1
-        img, store_url, store, click = _deal_page(d["url"])
+        img, store_url, store, click, info = _deal_page(d["url"])
+        if info:
+            d["checked_at"] = _now().isoformat(timespec="seconds")
+            if info.get("expired"):
+                d["expired"] = True
+                log(f"  oferta vencida, se quita: {d['title'][:60]}")
+            if info.get("price"):
+                d["real_price"] = info["price"]
+                d["real_old"] = info["list"] if info.get("list", 0) > info["price"] else None
+                _apply_real_price(d)
         if img and not d.get("image"):
             d["image"] = img
+        if d.get("page_checked") and d.get("link_v") == LINK_VERSION:
+            time.sleep(1)
+            continue        # el link ya lo teníamos: solo se revisó precio y si venció
         d.pop("store_url", None)
         if store:
             d["store"] = store
@@ -358,6 +409,9 @@ def fetch_deals(previous, log):
         d["page_checked"] = True
         d["link_v"] = LINK_VERSION
         time.sleep(1)
+    expired = sum(1 for d in fresh if d.get("expired"))
+    if expired:
+        log(f"  {expired} ofertas vencidas no salen en la app")
     with_img = sum(1 for d in fresh if d.get("image"))
     with_link = sum(1 for d in fresh if d.get("store_url"))
     log(f"ofertas: {len(fresh)}, con foto: {with_img}, con link directo: {with_link} "
@@ -864,6 +918,8 @@ def _search_url(store, name):
 def merge_deals(deals):
     groups = {}
     for d in deals:
+        if d.get("expired"):
+            continue
         groups.setdefault(game_key(d["title"]), []).append(d)
     out = []
     for key, items in groups.items():
