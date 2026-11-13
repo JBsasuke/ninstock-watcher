@@ -144,7 +144,7 @@ def check(st):
 
 # ------------------------------------------------------------------ avisos
 
-def send_fcm(title, body, url, topics):
+def send_fcm(title, body, url, topics, urgent=False):
     raw = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "").strip()
     if not raw:
         return False
@@ -156,8 +156,8 @@ def send_fcm(title, body, url, topics):
         info, scopes=["https://www.googleapis.com/auth/firebase.messaging"])
     creds.refresh(google.auth.transport.requests.Request())
     message = {
-        "data": {"title": title, "body": body, "url": url or ""},
-        "android": {"priority": "HIGH", "ttl": "3600s"},
+        "data": {"title": title, "body": body, "url": url or "", "urgent": "1" if urgent else "0"},
+        "android": {"priority": "HIGH", "ttl": "600s" if urgent else "3600s"},
     }
     if len(topics) == 1:
         message["topic"] = topics[0]
@@ -182,10 +182,11 @@ def send_ntfy(title, body, url):
     return requests.post("https://ntfy.sh/", json=payload, timeout=20).status_code < 300
 
 
-def notify(title, body, url, topics=(GENERAL_TOPIC,)):
+def notify(title, body, url, topics=(GENERAL_TOPIC,), urgent=False):
+    """urgent=True: coleccionista disponible -> canal de máxima prioridad en el teléfono."""
     sent = []
     try:
-        if send_fcm(title, body, url, list(topics)):
+        if send_fcm(title, body, url, list(topics), urgent):
             sent.append("Firebase")
     except Exception as e:
         log(f"  error enviando por Firebase: {e}")
@@ -235,17 +236,15 @@ def active_stores(prod):
     return [s for s in prod.get("stores", []) if s.get("enabled", True) and s.get("url", "").startswith("http")]
 
 
-def main():
-    if "--test" in sys.argv:
-        notify("NinStock: prueba", "Si ves esto, las alertas funcionan.", "https://www.nintendo.com/us/store/")
-        return
+RUN_START = time.monotonic()
+EXTRA_PASSES_UNTIL_S = 210   # vueltas extra hasta ~3,5 min desde que arrancó la corrida
+PASS_GAP_S = 45
 
-    catalog = [p for p in load_json(PRODUCTS_FILE, []) if p.get("enabled", True)]
-    state = load_json(STATE_FILE, {})
-    images = state.setdefault("_images", {})
+
+def check_products(catalog, state, images):
+    """Revisa cada tienda de los productos de Colección. Devuelve True si algo cambió."""
     now = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
     changed = False
-
     for prod in catalog:
         if not prod.get("image") and prod["id"] not in images and (prod.get("image_pages") or prod.get("image_candidates")):
             img = find_image(prod)
@@ -264,14 +263,58 @@ def main():
                 if status == AVAILABLE and prev != AVAILABLE:
                     notify(f"¡Disponible! {prod['name']}",
                            f"Ya se puede comprar en {store_name(st['store'])}. Toca para abrir la tienda.",
-                           link, topics=(GENERAL_TOPIC, f"p-{prod['id']}"))
+                           link, topics=(GENERAL_TOPIC, f"p-{prod['id']}"), urgent=True)
                 if status != prev:
                     state[key] = {"status": status, "since": now}
                     changed = True
             time.sleep(2)
+    return changed
 
+
+def refresh_collection(catalog, state):
+    """Después de una vuelta extra: poner en feed.json el estado nuevo de cada tienda de Colección."""
+    feed = load_json(FEED_FILE, {})
+    if not feed.get("collection"):
+        return
+    by_id = {p["id"]: p for p in catalog}
+    for item in feed["collection"]:
+        p = by_id.get(item["id"])
+        if not p:
+            continue
+        names = {store_name(s["store"]): s["store"].lower() for s in active_stores(p)}
+        for st in item.get("stores", []):
+            key = names.get(st["store"])
+            if key and f"{p['id']}:{key}" in state:
+                st["status"] = state[f"{p['id']}:{key}"].get("status", st["status"])
+                st["since"] = state[f"{p['id']}:{key}"].get("since", st.get("since"))
+    feed["updated"] = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+    FEED_FILE.write_text(json.dumps(feed, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+
+
+def main():
+    if "--test" in sys.argv:
+        notify("NinStock: prueba", "Si ves esto, las alertas funcionan.", "https://www.nintendo.com/us/store/")
+        return
+
+    catalog = [p for p in load_json(PRODUCTS_FILE, []) if p.get("enabled", True)]
+    state = load_json(STATE_FILE, {})
+    images = state.setdefault("_images", {})
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+    changed = False
+
+    changed = check_products(catalog, state, images) or changed
     if write_feed(catalog, state):
         changed = True
+    # Vueltas extra: GitHub solo arranca cada 5 min (a veces más), así que mientras dure la
+    # corrida se vuelven a revisar los coleccionistas para avisar lo antes posible.
+    passes = 0
+    while time.monotonic() - RUN_START < EXTRA_PASSES_UNTIL_S and passes < 3:
+        time.sleep(PASS_GAP_S)
+        passes += 1
+        log(f"vuelta extra {passes} a los coleccionistas")
+        if check_products(catalog, state, images):
+            changed = True
+            refresh_collection(catalog, state)
     if changed:
         STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         log("estado actualizado")
@@ -413,7 +456,7 @@ def write_feed(catalog, state):
             if status == AVAILABLE and prev != AVAILABLE and r.get("url"):
                 notify(f"¡Disponible! {p['name']}",
                        f"Ya se puede comprar en {r['store']} por ${r['price']:.2f}. Toca para abrir la tienda.",
-                       r["url"], topics=(GENERAL_TOPIC, f"p-{p['id']}"))
+                       r["url"], topics=(GENERAL_TOPIC, f"p-{p['id']}"), urgent=True)
             if status != prev:
                 state[key] = {"status": status, "since": now_iso()}
                 state_changed = True
