@@ -8,7 +8,11 @@
     "zelda40-pro": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6691/6691849_sd.jpg",
     "amiibo-young-link": "https://cdn.dekudeals.com/images/c766f11740c44f6db2f9d13b15b9a0c454a67491/w540.jpg",
     "amiibo-young-zelda": "https://cdn.dekudeals.com/images/95ed9e1b5c43abf6dfddc781a0313c9ab1197056/w540.jpg",
-    "ocarina-oot": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/ncom/Nintendo%20Stores%20Merchandise/Collectibles/Replicas/129683-the-legend-of-zelda-ocarina-of-time-playable-ocarina-side-2000x2000"
+    "ocarina-oot": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/ncom/Nintendo%20Stores%20Merchandise/Collectibles/Replicas/129683-the-legend-of-zelda-ocarina-of-time-playable-ocarina-side-2000x2000",
+    "re2-ns2": "https://cdn.dekudeals.com/images/73e6c732df603bfd4d3abdf46dec8728d4a96076/w540.jpg",
+    "re3-ns2": "https://cdn.dekudeals.com/images/4053919b9e1d206a1b73838ba4d3605ec4c95854/w540.jpg",
+    "re4-ns2": "https://cdn.dekudeals.com/images/3d5ab5a8ab7628d890ce8a9b431bf87de427395e/w540.jpg",
+    "ff7-revelation-ns2": "https://cdn.dekudeals.com/images/e29eab46242cf65c1390a4f853d600792bd69e95/w540.jpg"
   },
   "zelda40-consola:nintendo": {
     "status": "agotado",
@@ -34,7 +38,7 @@
     "deku-thief-the-dark-project-remastered": 44.99,
     "deku-the-binding-of-isaac-repentance-plus": 69.99,
     "deku-pikmin-4-nintendo-switch-2-edition": 69.99,
-    "deku-stellar-blade-complete-edition-steelbook-edition": 127.82,
+    "deku-stellar-blade-complete-edition-steelbook-edition": 69.99,
     "deku-the-legend-of-zelda-the-ocarina-of-time": 69.0,
     "deku-stellar-blade-complete-edition": 59.99,
     "deku-godzilla-destroy-all-monsters-melee-remastered": 39.99,
@@ -120,5 +124,16 @@
   "amiibo-young-zelda:target": {
     "status": "agotado",
     "since": "2026-11-13T08:20:15+00:00"
+  },
+  "_added": {
+    "ocarina-oot": "2026-11-13",
+    "zelda40-consola": "2026-11-13",
+    "zelda40-pro": "2026-11-13",
+    "amiibo-young-link": "2026-11-13",
+    "amiibo-young-zelda": "2026-11-13",
+    "re2-ns2": "2026-11-13",
+    "re3-ns2": "2026-11-13",
+    "re4-ns2": "2026-11-13",
+    "ff7-revelation-ns2": "2026-11-13"
   }
 }
