@@ -37,6 +37,9 @@ NEWS_FEEDS = [
     ("Nintendo", "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg", "en"),
     ("Pokémon", "https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q", "en"),
 ]
+# Videos que no son noticias: episodios y clips del anime, versiones de otros países
+YT_SKIP = re.compile(r"^\[(UK|AU|CA|EU)\]|pok[eé]mon the series|full episode|pok[eé]mon kids|pok[eé]mon horizons|"
+                     r"for \d+ minutes|\| seasons? \d|official clip|compilation|asmr|lofi", re.I)
 YT_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                             "Chrome/130.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9"}
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -417,8 +420,9 @@ def _yt_page_entries(page):
             except ValueError:
                 pass
             date = None
+            nxt = page.find('"lockupViewModel":{', m.end())
             ago = re.search(r'"(?:content|simpleText)":"(?:Streamed )?(\d+) (minute|hour|day|week|month|year)s? ago"',
-                            page[m.end():m.end() + 3000])
+                            page[m.end():nxt if nxt > 0 else m.end() + 20000])
             if ago:
                 date = _now() - datetime.timedelta(seconds=int(ago.group(1)) * units[ago.group(2)])
             yield {"title": title, "link": f"https://www.youtube.com/watch?v={vid}", "date": date,
@@ -520,7 +524,7 @@ def _fetch_news(previous, log):
             else:
                 entries = list(_items(url))
             for it in entries:
-                if not it["link"] or "#shorts" in it["title"].lower():
+                if not it["link"] or "#shorts" in it["title"].lower() or YT_SKIP.search(it["title"]):
                     continue
                 news.append({
                     "id": hashlib.md5(it["link"].encode()).hexdigest()[:12],
@@ -545,8 +549,12 @@ def _fetch_news(previous, log):
     videos = {n.get("video") for n in news if n.get("video")}
     news = [n for n in news if n["id"].startswith("aldia-") or n["url"] not in videos]
     news.sort(key=lambda n: n.get("posted") or "", reverse=True)
-    log(f"noticias: {len(news[:MAX_NEWS])}")
-    return news[:MAX_NEWS]
+    # las de Al Día RD (texto completo en los dos idiomas) siempre se quedan; los videos llenan el resto
+    keep = [n for n in news if n["id"].startswith("aldia-")]
+    rest = [n for n in news if not n["id"].startswith("aldia-")][:max(0, MAX_NEWS - len(keep))]
+    news = sorted(keep + rest, key=lambda n: n.get("posted") or "", reverse=True)
+    log(f"noticias: {len(news)}")
+    return news
 
 
 # ------------------------------------------------------------------ Deku Deals
