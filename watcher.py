@@ -30,6 +30,8 @@ BASE = pathlib.Path(__file__).resolve().parent
 PRODUCTS_FILE = BASE / "products.json"
 STATE_FILE = BASE / "state.json"
 FEED_FILE = BASE / "feed.json"
+HISTORY_DIR = BASE / "history"      # historial propio: un archivo por juego con el precio más bajo de cada día
+HISTORY_DAYS = 400
 GENERAL_TOPIC = "ninstock-alerts"   # coleccionistas: disponibles y ediciones nuevas
 DEALS_TOPIC = "ninstock-deals"      # ofertas buenas (30 % o más)
 GOOD_DEAL_PCT = 30
@@ -276,6 +278,27 @@ def pct_off(price, old):
     return round((1 - price / old) * 100) if price and old and old > price else 0
 
 
+def record_history(points, today):
+    """Guarda el precio más bajo del día de cada juego en history/<id>.json."""
+    HISTORY_DIR.mkdir(exist_ok=True)
+    written = 0
+    for hid, price in points:
+        if not hid or not price:
+            continue
+        f = HISTORY_DIR / f"{re.sub(r'[^A-Za-z0-9_-]', '', hid)}.json"
+        data = load_json(f, [])
+        if data and data[-1][0] == today:
+            if price >= data[-1][1]:
+                continue
+            data[-1][1] = price
+        else:
+            data.append([today, price])
+        f.write_text(json.dumps(data[-HISTORY_DAYS:]), encoding="utf-8")
+        written += 1
+    if written:
+        log(f"historial de precios: {written} juegos actualizados")
+
+
 def cheapest_text(c):
     offers = c.get("offers") or []
     if offers:
@@ -348,6 +371,10 @@ def write_feed(catalog, state):
             state_changed = True
     if len(released) > 300:
         del released[:-300]
+
+    points = [(d["id"], d.get("price")) for d in deals]
+    points += [(c["id"], (c.get("offers") or [{}])[0].get("price") or c.get("price")) for c in cards]
+    record_history(points, today)
 
     images = state.get("_images", {})
     feed = {
