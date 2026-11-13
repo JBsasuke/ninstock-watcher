@@ -1,108 +1,6 @@
 {
- "version": 3,
- "deku_checked": "2026-11-12T21:57:49+00:00",
- "deals": [
-  {
-   "id": "deku-metroid-ravenous",
-   "title": "Metroid Ravenous (Nintendo Switch 2)",
-   "price": 59.88,
-   "old_price": 69.99,
-   "store": "Walmart",
-   "store_url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FMetroid-Ravenous%2F20973300457%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1",
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 59.88,
-     "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FMetroid-Ravenous%2F20973300457%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
-    },
-    {
-     "store": "Best Buy",
-     "price": 69.99,
-     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6691938%2Fpdp"
-    },
-    {
-     "store": "GameStop",
-     "price": 69.99,
-     "url": "https://www.gamestop.com/products/metroid-ravenous/451617.html"
-    },
-    {
-     "store": "Nintendo",
-     "price": 69.99,
-     "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-125700/"
-    },
-    {
-     "store": "Target",
-     "price": 69.99,
-     "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fmetroid-ravenous%2F-%2FA-1013551450&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
-    }
-   ],
-   "kind": "game",
-   "collector": false,
-   "url": "https://www.dekudeals.com/items/metroid-ravenous",
-   "image": "https://cdn.dekudeals.com/images/082859773c28ee8f776f97d238380fa26a85f1d5/w540.jpg",
-   "posted": "2026-11-12T21:57:49+00:00",
-   "source": "dekudeals"
-  },
-  {
-   "id": "deku-solarpunk",
-   "title": "Solarpunk (Nintendo Switch 2)",
-   "price": 37.99,
-   "old_price": 39.99,
-   "store": "Deku Deals",
-   "store_url": null,
-   "offers": [],
-   "kind": "game",
-   "collector": false,
-   "url": "https://www.dekudeals.com/items/solarpunk",
-   "image": "https://cdn.dekudeals.com/images/ddaf8a49c59231e063fa6385b36fc4be694fa2de/w540.jpg",
-   "posted": "2026-11-12T21:57:49+00:00",
-   "source": "dekudeals"
-  },
-  {
-   "id": "deku-blueys-quest-for-the-gold-pen",
-   "title": "Bluey's Quest For The Gold Pen (Nintendo Switch 2)",
-   "price": 34.96,
-   "old_price": 49.99,
-   "store": "Deku Deals",
-   "store_url": null,
-   "offers": [],
-   "kind": "game",
-   "collector": false,
-   "url": "https://www.dekudeals.com/items/blueys-quest-for-the-gold-pen",
-   "image": "https://cdn.dekudeals.com/images/f7cd6b8f66dc6b5f007602bc76c7bf89364c43ab/w540.jpg",
-   "posted": "2026-11-12T21:57:49+00:00",
-   "source": "dekudeals"
-  },
-  {
-   "id": "deku-outbound",
-   "title": "Outbound (Nintendo Switch 2)",
-   "price": 42.44,
-   "old_price": 49.99,
-   "store": "Deku Deals",
-   "store_url": null,
-   "offers": [],
-   "kind": "game",
-   "collector": false,
-   "url": "https://www.dekudeals.com/items/outbound",
-   "image": "https://cdn.dekudeals.com/images/3079b3bcb44ee67bcc3aa1d9545ba7209a138234/w540.jpg",
-   "posted": "2026-11-12T21:57:49+00:00",
-   "source": "dekudeals"
-  },
-  {
-   "id": "deku-super-mario-wonder-switch-2-edition",
-   "title": "Super Mario Bros. Wonder – Nintendo Switch 2 Edition + Meetup in Bellabel Park (Nintendo Switch 2)",
-   "price": 75.9,
-   "old_price": 79.99,
-   "store": "Deku Deals",
-   "store_url": null,
-   "offers": [],
-   "kind": "game",
-   "collector": false,
-   "url": "https://www.dekudeals.com/items/super-mario-wonder-switch-2-edition",
-   "image": "https://cdn.dekudeals.com/images/14407cfaa36034c34b58344e81135cdd20ce879a/w540.jpg",
-   "posted": "2026-11-12T21:57:49+00:00",
-   "source": "dekudeals"
-  },
+ "version": 4,
+ "raw_slick": [
   {
    "id": "daa920a9fcf8",
    "title": "Nintendo Black Friday 2026: Switch 2 + Mario Kart World Bundle $500, $20 Off Select Games & More (Starts 11/22)",
@@ -114,9 +12,9 @@
    "url": "https://slickdeals.net/f/20298264-nintendo-black-friday-2026-switch-2-mario-kart-world-bundle-500-20-off-select-games-more-starts-11-22?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22322508.thumb",
    "posted": "2026-11-12T17:22:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&tid=20298264&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6904192dee611f1804366ae5c7feaa6&au=a32b8f4754364e0ebe967198e60bb0ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&tid=20298264&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6904192dee611f1804366ae5c7feaa6&au=a32b8f4754364e0ebe967198e60bb0ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "9202d4803580",
@@ -129,9 +27,9 @@
    "url": "https://slickdeals.net/f/20297652-bluey-s-quest-for-the-gold-pen-nintendo-switch-2-edition-physical-34-96-34-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22320315.thumb",
    "posted": "2026-11-12T15:37:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20297652&tid=20297652&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f7e30084dee611f18ef43eeafa8fbb1c&au=25ba8c65ab8f46d5aa7767d2c993250d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20297652&tid=20297652&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f7e30084dee611f18ef43eeafa8fbb1c&au=25ba8c65ab8f46d5aa7767d2c993250d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "934ee532d162",
@@ -144,9 +42,9 @@
    "url": "https://slickdeals.net/f/20295867-4-in-1-nintendo-switch-2-joy-con-controller-magnetic-charging-dock-7-98-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22314687.thumb",
    "posted": "2026-11-12T09:46:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295867&tid=20295867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f97379c4dee611f1be1bc6f86ea59cef&au=f3ed34753d464265b4fbce9ce9ca8d37&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295867&tid=20295867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f97379c4dee611f1be1bc6f86ea59cef&au=f3ed34753d464265b4fbce9ce9ca8d37&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "75bee6e1ddbe",
@@ -159,9 +57,9 @@
    "url": "https://slickdeals.net/f/20295600-catherine-full-body-nintendo-switch-24-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22313856.thumb",
    "posted": "2026-11-12T08:25:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20295600&tid=20295600&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facb4180dee611f1b77766ae5c7feaa6&au=e3eb672101124934ab039adf6371c656&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20295600&tid=20295600&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facb4180dee611f1b77766ae5c7feaa6&au=e3eb672101124934ab039adf6371c656&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "949c07990690",
@@ -189,9 +87,9 @@
    "url": "https://slickdeals.net/f/20295510-disney-epic-mickey-rebrushed-nintendo-switch-21-97-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313565.thumb",
    "posted": "2026-11-12T07:58:34+00:00",
+   "store_url": "https://www.walmart.com/ip/5446374291",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://www.walmart.com/ip/5446374291"
+   "link_v": 3
   },
   {
    "id": "e413a6a87909",
@@ -204,9 +102,9 @@
    "url": "https://slickdeals.net/f/20295474-bluey-s-quest-for-the-gold-pen-nintendo-switch-24-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313436.thumb",
    "posted": "2026-11-12T07:37:02+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295474&tid=20295474&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ff3035e6dee611f1b4f5fe17b98bbba7&au=05ac1281a9a647b3a6cc9f435aa6f731&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295474&tid=20295474&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ff3035e6dee611f1b4f5fe17b98bbba7&au=05ac1281a9a647b3a6cc9f435aa6f731&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "218320894e7f",
@@ -234,9 +132,9 @@
    "url": "https://slickdeals.net/f/20295405-4-port-charging-dock-for-nintendo-switch-2-joy-con-controllers-6-98-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22313292.thumb",
    "posted": "2026-11-12T07:06:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "df83f9371d9f",
@@ -249,9 +147,9 @@
    "url": "https://slickdeals.net/f/20295354-unicorn-overlord-nintendo-switch-29-50-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313163.thumb",
    "posted": "2026-11-12T06:45:03+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "3c474e066b8d",
@@ -264,9 +162,9 @@
    "url": "https://slickdeals.net/f/20294577-36w-mirabox-portable-nintendo-switch-tv-dock-w-4k-60hz-hdmi-usb-2-0-pd-usb-c-fast-charging-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22310847.thumb",
    "posted": "2026-11-12T03:46:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "93aa521abda4",
@@ -279,9 +177,9 @@
    "url": "https://slickdeals.net/f/20294559-turtle-beach-airlite-fit-wired-over-ear-gaming-headset-nintendo-switch-charcoal-black-14-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22310865.thumb",
    "posted": "2026-11-12T03:43:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "be1579abfcd6",
@@ -294,9 +192,9 @@
    "url": "https://slickdeals.net/f/20288880-sonic-forces-nintendo-switch-10-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22295472.thumb",
    "posted": "2026-11-11T07:56:25+00:00",
+   "store_url": "https://www.walmart.com/ip/367665426",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://www.walmart.com/ip/367665426"
+   "link_v": 3
   },
   {
    "id": "a18dc82a1a3c",
@@ -309,9 +207,9 @@
    "url": "https://slickdeals.net/f/20288685-yakuza-0-director-s-cut-switch-2-game-key-card-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22294830.thumb",
    "posted": "2026-11-11T06:43:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "9e4ee5117f1f",
@@ -324,9 +222,9 @@
    "url": "https://slickdeals.net/f/20287878-pdp-afterglow-wave-wireless-rgb-gaming-controller-for-nintendo-switch-nintendo-switch-2-white-29-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/7/7/8/8/7/2/300x300/22296294.thumb",
    "posted": "2026-11-11T03:14:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "link_v": 3
   },
   {
    "id": "3d63607ab586",
@@ -339,8 +237,8 @@
    "url": "https://slickdeals.net/f/20287749-open-box-next-joy-con-2-quad-charging-station-for-nintendo-switch-2-excellent-13-99-or-good-12-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22292427.thumb",
    "posted": "2026-11-11T02:47:00+00:00",
-   "page_checked": true,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287749&tid=20287749&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0bd6fbeadee711f1a976c6f86ea59cef&au=2bf4b5e118224da3ac5e987368fcb007&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
    "link_v": 3
   },
   {
@@ -354,8 +252,8 @@
    "url": "https://slickdeals.net/f/20287695-next-elite-glass-screen-protector-2-pack-for-nintendo-switch-2-7-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22292316.thumb",
    "posted": "2026-11-11T02:36:13+00:00",
-   "page_checked": true,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0d313de8dee711f1948e46842fbe620e&au=8fb2459959a843c09ea3ff7362116285&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
    "link_v": 3
   },
   {
@@ -369,8 +267,8 @@
    "url": "https://slickdeals.net/f/20287413-bluey-s-quest-for-the-gold-pen-nintendo-switch-23-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22291485.thumb",
    "posted": "2026-11-11T01:11:56+00:00",
-   "page_checked": true,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287413&tid=20287413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e96cfe0dee711f19ac7a2db0cd32287&au=64cf8fb49b2a40ba9601e8052e51cdf2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
    "link_v": 3
   },
   {
@@ -384,9 +282,397 @@
    "url": "https://slickdeals.net/f/20287215-snoopy-the-great-mystery-club-nintendo-switch-18-99-best-buy-w-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22291098.thumb",
    "posted": "2026-11-11T00:08:03+00:00",
-   "page_checked": true,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287215&tid=20287215&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1015f878dee711f19b91d2de4d7d8d42&au=82ae1bec8b28428fbc00afbc159735b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
    "link_v": 3
+  }
+ ],
+ "deku_checked": "2026-11-13T01:55:55+00:00",
+ "deals": [
+  {
+   "id": "927c8e11530c",
+   "title": "Metroid Ravenous (Nintendo Switch 2)",
+   "price": 59.88,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/search?q=Metroid+Ravenous+%28Nintendo+Switch+2%29",
+   "url": "https://www.walmart.com/search?q=Metroid+Ravenous+%28Nintendo+Switch+2%29",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 59.88,
+     "url": "https://www.walmart.com/search?q=Metroid+Ravenous+%28Nintendo+Switch+2%29"
+    },
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Metroid+Ravenous+%28Nintendo+Switch+2%29"
+    },
+    {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/metroid-ravenous/451617.html"
+    },
+    {
+     "store": "Nintendo",
+     "price": 69.99,
+     "url": "https://www.nintendo.com/us/store/products/metroid-ravenous-125700/"
+    },
+    {
+     "store": "Target",
+     "price": 69.99,
+     "url": "https://www.target.com/s?searchTerm=Metroid+Ravenous+%28Nintendo+Switch+2%29"
+    }
+   ],
+   "image": "https://cdn.dekudeals.com/images/082859773c28ee8f776f97d238380fa26a85f1d5/w540.jpg",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T21:57:49+00:00"
+  },
+  {
+   "id": "ab1cb16689b8",
+   "title": "Nintendo Black Friday 2026: Switch 2 + Mario Kart World Bundle Off Select Games & More (Starts 11/22)",
+   "price": 500.0,
+   "old_price": null,
+   "store": "Nintendo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&tid=20298264&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6904192dee611f1804366ae5c7feaa6&au=a32b8f4754364e0ebe967198e60bb0ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&tid=20298264&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6904192dee611f1804366ae5c7feaa6&au=a32b8f4754364e0ebe967198e60bb0ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Nintendo",
+     "price": 500.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&tid=20298264&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6904192dee611f1804366ae5c7feaa6&au=a32b8f4754364e0ebe967198e60bb0ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22322508.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-12T17:22:48+00:00"
+  },
+  {
+   "id": "f009332a722f",
+   "title": "Bluey's Quest for The Gold Pen - Nintendo Switch 2 Edition [Physical]",
+   "price": 34.96,
+   "old_price": 34.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20297652&tid=20297652&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f7e30084dee611f18ef43eeafa8fbb1c&au=25ba8c65ab8f46d5aa7767d2c993250d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20297652&tid=20297652&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f7e30084dee611f18ef43eeafa8fbb1c&au=25ba8c65ab8f46d5aa7767d2c993250d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 34.96,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20297652&tid=20297652&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f7e30084dee611f18ef43eeafa8fbb1c&au=25ba8c65ab8f46d5aa7767d2c993250d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22320315.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T15:37:08+00:00"
+  },
+  {
+   "id": "1bd5ea92383f",
+   "title": "4-in-1 Nintendo Switch 2 Joy-Con Controller Magnetic Charging Dock",
+   "price": 7.98,
+   "old_price": 35.0,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295867&tid=20295867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f97379c4dee611f1be1bc6f86ea59cef&au=f3ed34753d464265b4fbce9ce9ca8d37&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295867&tid=20295867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f97379c4dee611f1be1bc6f86ea59cef&au=f3ed34753d464265b4fbce9ce9ca8d37&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 7.98,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295867&tid=20295867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f97379c4dee611f1be1bc6f86ea59cef&au=f3ed34753d464265b4fbce9ce9ca8d37&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22314687.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-12T09:46:47+00:00"
+  },
+  {
+   "id": "d47b5bdc2b11",
+   "title": "Catherine: Full Body (Nintendo Switch)",
+   "price": 24.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20295600&tid=20295600&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facb4180dee611f1b77766ae5c7feaa6&au=e3eb672101124934ab039adf6371c656&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20295600&tid=20295600&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facb4180dee611f1b77766ae5c7feaa6&au=e3eb672101124934ab039adf6371c656&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 24.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20295600&tid=20295600&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facb4180dee611f1b77766ae5c7feaa6&au=e3eb672101124934ab039adf6371c656&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22313856.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T08:25:57+00:00"
+  },
+  {
+   "id": "57432eefe10f",
+   "title": "Bravely Default: Flying Fairy HD Remaster (Nintendo Switch 2)",
+   "price": 27.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Visit+Best+Buy&sdtid=20295561&tid=20295561&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc8dd46adee611f1a045d2de4d7d8d42&au=72ee55eb5b4a48f0bf024162bf56f870&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Visit+Best+Buy&sdtid=20295561&tid=20295561&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc8dd46adee611f1a045d2de4d7d8d42&au=72ee55eb5b4a48f0bf024162bf56f870&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 27.99,
+     "url": "https://slickdeals.net/click?trd=Visit+Best+Buy&sdtid=20295561&tid=20295561&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc8dd46adee611f1a045d2de4d7d8d42&au=72ee55eb5b4a48f0bf024162bf56f870&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22313697.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T08:16:34+00:00"
+  },
+  {
+   "id": "fda628a3e083",
+   "title": "Disney Epic Mickey: Rebrushed (Nintendo Switch)",
+   "price": 21.97,
+   "old_price": 35.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/5446374291",
+   "url": "https://www.walmart.com/ip/5446374291",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 21.97,
+     "url": "https://www.walmart.com/ip/5446374291"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313565.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T07:58:34+00:00"
+  },
+  {
+   "id": "c80148375084",
+   "title": "Bluey's Quest for The Gold Pen (Nintendo Switch)",
+   "price": 23.99,
+   "old_price": 35.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287413&tid=20287413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e96cfe0dee711f19ac7a2db0cd32287&au=64cf8fb49b2a40ba9601e8052e51cdf2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287413&tid=20287413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e96cfe0dee711f19ac7a2db0cd32287&au=64cf8fb49b2a40ba9601e8052e51cdf2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 23.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287413&tid=20287413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e96cfe0dee711f19ac7a2db0cd32287&au=64cf8fb49b2a40ba9601e8052e51cdf2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    },
+    {
+     "store": "Amazon",
+     "price": 24.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295474&tid=20295474&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ff3035e6dee611f1b4f5fe17b98bbba7&au=05ac1281a9a647b3a6cc9f435aa6f731&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313436.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T07:37:02+00:00"
+  },
+  {
+   "id": "0446eb6c6d67",
+   "title": "4-Port Charging Dock for Nintendo Switch 2 Joy-Con Controllers",
+   "price": 6.98,
+   "old_price": 35.0,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 6.98,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22313292.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-12T07:06:28+00:00"
+  },
+  {
+   "id": "f27984c5793c",
+   "title": "Unicorn Overlord (Nintendo Switch)",
+   "price": 29.5,
+   "old_price": 35.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.5,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22313163.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-12T06:45:03+00:00"
+  },
+  {
+   "id": "1b4a393cc77c",
+   "title": "36W Mirabox Portable Nintendo Switch TV Dock",
+   "price": 9.99,
+   "old_price": 35.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 9.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22310847.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-12T03:46:44+00:00"
+  },
+  {
+   "id": "67d7a5cbe49b",
+   "title": "Turtle Beach Airlite Fit Wired Over-Ear Gaming Headset (Nintendo Switch, Charcoal Black)",
+   "price": 14.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 14.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22310865.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-12T03:43:37+00:00"
+  },
+  {
+   "id": "1c4f949f9433",
+   "title": "Sonic Forces (Nintendo Switch)",
+   "price": 10.0,
+   "old_price": 35.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/367665426",
+   "url": "https://www.walmart.com/ip/367665426",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 10.0,
+     "url": "https://www.walmart.com/ip/367665426"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22295472.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-11T07:56:25+00:00"
+  },
+  {
+   "id": "4a0b9eafc13d",
+   "title": "Yakuza 0: Director’s Cut (Switch 2, Game-Key Card)",
+   "price": 24.0,
+   "old_price": null,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 24.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22294830.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-11T06:43:55+00:00"
+  },
+  {
+   "id": "437042fb9485",
+   "title": "PDP - Afterglow Wave Wireless RGB Gaming Controller for Nintendo Switch, Nintendo Switch 2 - White",
+   "price": 29.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/7/7/8/8/7/2/300x300/22296294.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-11T03:14:54+00:00"
+  },
+  {
+   "id": "bba0b16ab313",
+   "title": "Open-Box: NEXT Joy-Con 2 Quad Charging Station for Nintendo Switch 2 Excellent or Good",
+   "price": 13.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287749&tid=20287749&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0bd6fbeadee711f1a976c6f86ea59cef&au=2bf4b5e118224da3ac5e987368fcb007&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287749&tid=20287749&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0bd6fbeadee711f1a976c6f86ea59cef&au=2bf4b5e118224da3ac5e987368fcb007&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 13.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287749&tid=20287749&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0bd6fbeadee711f1a976c6f86ea59cef&au=2bf4b5e118224da3ac5e987368fcb007&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22292427.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-11T02:47:00+00:00"
+  },
+  {
+   "id": "714b90b59dae",
+   "title": "NEXT - Elite Glass Screen Protector 2-Pack for Nintendo Switch 2",
+   "price": 7.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0d313de8dee711f1948e46842fbe620e&au=8fb2459959a843c09ea3ff7362116285&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0d313de8dee711f1948e46842fbe620e&au=8fb2459959a843c09ea3ff7362116285&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 7.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0d313de8dee711f1948e46842fbe620e&au=8fb2459959a843c09ea3ff7362116285&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22292316.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-11T02:36:13+00:00"
+  },
+  {
+   "id": "88d1c7d77e0d",
+   "title": "Snoopy & The Great Mystery Club (Nintendo Switch)",
+   "price": 18.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287215&tid=20287215&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1015f878dee711f19b91d2de4d7d8d42&au=82ae1bec8b28428fbc00afbc159735b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287215&tid=20287215&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1015f878dee711f19b91d2de4d7d8d42&au=82ae1bec8b28428fbc00afbc159735b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 18.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287215&tid=20287215&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1015f878dee711f19b91d2de4d7d8d42&au=82ae1bec8b28428fbc00afbc159735b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22291098.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-11T00:08:03+00:00"
   }
  ],
  "releases": [
@@ -400,7 +686,6 @@
    "release": "2027",
    "release_date": null,
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -408,7 +693,9 @@
      "url": "https://www.amazon.com/Hyperspace-Neptunia-Unlimited/dp/B0HR1HNDXH?tag=dekulo-20&linkCode=osi&th=1&psc=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-order-up11",
@@ -420,7 +707,6 @@
    "release": "June 30, 2027",
    "release_date": "2027-06-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -443,7 +729,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Forder-up%2F-%2FA-95076259&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-muramasa-revenant-blades-limited-edition",
@@ -455,7 +743,6 @@
    "release": "March 31, 2027",
    "release_date": "2027-03-31",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Best Buy",
@@ -473,7 +760,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fmuramasa-revenant-blades-limited-edition%2F-%2FA-1012070913&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-stardust-nn87dj48fw",
@@ -485,9 +774,10 @@
    "release": "March 31, 2027",
    "release_date": "2027-03-31",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-pastry-panic",
@@ -499,7 +789,6 @@
    "release": "March 31, 2027",
    "release_date": "2027-03-31",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -517,7 +806,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fpastry-panic%2F-%2FA-95076256&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-thief-the-dark-project-remastered-steelbook-edition",
@@ -529,9 +820,10 @@
    "release": "March 20, 2027",
    "release_date": "2027-03-20",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-thief-the-dark-project-remastered-trapezoid-edition",
@@ -543,9 +835,10 @@
    "release": "March 20, 2027",
    "release_date": "2027-03-20",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-eternal-anima",
@@ -557,7 +850,6 @@
    "release": "March 4, 2027",
    "release_date": "2027-03-04",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -585,7 +877,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FEternal-Anima%2F20969569759%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-bubble-bobble-4-friends-the-baron-is-back-nintendo-switch-2-edition-plus-stardrop-mountain",
@@ -597,7 +891,6 @@
    "release": "February 25, 2027",
    "release_date": "2027-02-25",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -620,7 +913,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FBubble-Bobble-4-Friends-The-Baron-is-Back-Nintendo-Switch-2-Edition-plus-Stardrop-Mountain%2F21127017185%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-rain-world-anthology",
@@ -632,7 +927,6 @@
    "release": "February 18, 2027",
    "release_date": "2027-02-18",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -655,7 +949,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FRain-World-Anthology%2F20983303920%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-rain-world-anthology-collectors-edition",
@@ -667,7 +963,6 @@
    "release": "February 18, 2027",
    "release_date": "2027-02-18",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -690,7 +985,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FRain-World-Anthology-Collectors-Edition%2F20944173701%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-metroid-ravenous",
@@ -702,7 +999,6 @@
    "release": "January 28, 2027",
    "release_date": "2027-01-28",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Walmart",
@@ -730,7 +1026,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fmetroid-ravenous%2F-%2FA-1013551450&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-metroid-ravenous-special-edition",
@@ -742,9 +1040,10 @@
    "release": "January 28, 2027",
    "release_date": "2027-01-28",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-fate-extra-record-limited-edition",
@@ -756,7 +1055,6 @@
    "release": "January 28, 2027",
    "release_date": "2027-01-28",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -784,7 +1082,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FFate-EXTRA-Record-Limited-Edition%2F20980064944%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-armatus",
@@ -796,7 +1096,6 @@
    "release": "January 7, 2027",
    "release_date": "2027-01-07",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -824,7 +1123,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FArmatus%2F21185554513%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-shikhondo-blue-pieta",
@@ -836,9 +1137,10 @@
    "release": "December 10, 2026",
    "release_date": "2026-12-10",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-ninja-baseball-league-man-bases-loaded",
@@ -850,9 +1152,10 @@
    "release": "December 9, 2026",
    "release_date": "2026-12-09",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-xenoblade-chronicles-3-nintendo-switch-2-edition",
@@ -864,7 +1167,6 @@
    "release": "December 3, 2026",
    "release_date": "2026-12-03",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -897,7 +1199,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FXenoblade-Chronicles-3-Nintendo-Switch-2-Edition%2F20337251769%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-thief-the-dark-project-remastered",
@@ -909,7 +1213,6 @@
    "release": "December 3, 2026",
    "release_date": "2026-12-03",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -932,7 +1235,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FThief-The-Dark-Project-Remastered%2F21346004017%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-the-binding-of-isaac-repentance-plus",
@@ -944,7 +1249,6 @@
    "release": "November 19, 2026",
    "release_date": "2026-11-19",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "GameStop",
@@ -962,7 +1266,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fthe-binding-of-isaac-repentance%2F-%2FA-95076257&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-pikmin-4-nintendo-switch-2-edition",
@@ -974,7 +1280,6 @@
    "release": "November 12, 2026",
    "release_date": "2026-11-12",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -1007,7 +1312,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FPikmin-4-Nintendo-Switch-2-Edition-plus-Dandori-Academy%2F20925116681%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-stellar-blade-complete-edition-steelbook-edition",
@@ -1019,7 +1326,6 @@
    "release": "November 6, 2026",
    "release_date": "2026-11-06",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -1027,7 +1333,9 @@
      "url": "https://www.amazon.com/Stellar-Blade-Complete-SteelBook-Edition/dp/B0HNKQ6VFD?tag=dekulo-20&linkCode=osi&th=1&psc=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-the-legend-of-zelda-the-ocarina-of-time",
@@ -1039,7 +1347,6 @@
    "release": "November 5, 2026",
    "release_date": "2026-11-05",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -1067,7 +1374,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fthe-legend-of-zelda-ocarina-of-time%2F-%2FA-1012827386&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-stellar-blade-complete-edition",
@@ -1079,7 +1388,6 @@
    "release": "November 5, 2026",
    "release_date": "2026-11-05",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -1102,7 +1410,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.walmart.com%2Fip%2FStellar-Blade-Complete-Edition%2F20963512878%3FselectedSellerId%3D0&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-godzilla-destroy-all-monsters-melee-remastered",
@@ -1114,7 +1424,6 @@
    "release": "November 3, 2026",
    "release_date": "2026-11-03",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00",
    "offers": [
     {
      "store": "Amazon",
@@ -1137,7 +1446,9 @@
      "url": "https://howl.me/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fgodzilla-destroy-all-monsters-melee-remastered%2F-%2FA-1012019669&article_url=https%3A%2F%2Fwww.dekudeals.com%2F%3Flogged_out%3Dtrue%3Fd%3D2461357&article_name=Deku+Deals+%28logged+out%29+-+2026-11-12&publisher_slug=nintendeal&exclusive=1"
     }
    ],
-   "offers_checked": "2026-11-12T21:57:57+00:00"
+   "offers_checked": "2026-11-12T21:57:57+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-sonic-racing-crossworlds-year-one-edition",
@@ -1149,7 +1460,31 @@
    "release": "November 3, 2026",
    "release_date": "2026-11-03",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.99,
+     "url": "https://www.amazon.com/Sonic-Racing-CrossWorlds-Year-One-Edition/dp/B0HMJW46DZ?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6695308%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/sonic-racing-crossworlds-year-one-edition/452979.html"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/sonic-racing-crossworlds-year-one-edition/-/A-1014586467"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-steinsgate-reboot",
@@ -1161,7 +1496,37 @@
    "release": "October 29, 2026",
    "release_date": "2026-10-29",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Spike Chunsoft US",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.99,
+     "url": "https://www.amazon.com/STEINS-GATE-RE-BOOT/dp/B0H347QCM9?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6680329%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/steins-gate-re-boot/447147.html"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/steins-gate-re-boot/-/A-1011777706"
+    },
+    {
+     "store": "Walmart",
+     "price": 59.99,
+     "url": "https://www.walmart.com/ip/STEINS-GATE-RE-BOOT/20214621641?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-steinsgate-reboot-steelbook-edition",
@@ -1173,7 +1538,36 @@
    "release": "October 29, 2026",
    "release_date": "2026-10-29",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 69.99,
+     "url": "https://www.amazon.com/STEINS-GATE-RE-BOOT-SteelBook-Edition/dp/B0H34G4ZGL?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6680332%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/steins-gate-re-boot-steelbook-edition/447156.html"
+    },
+    {
+     "store": "Walmart",
+     "price": 69.99,
+     "url": "https://www.walmart.com/ip/STEINS-GATE-RE-BOOT-SteelBook-Edition/20195622114?selectedSellerId=0"
+    },
+    {
+     "store": "Target",
+     "price": 69.99,
+     "url": "https://www.target.com/p/steins-gate-re-boot-steelbook-edition/-/A-1011777703"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-nintendo-switch-2-edition-plus-infinity-castle-character-pass",
@@ -1185,7 +1579,36 @@
    "release": "October 29, 2026",
    "release_date": "2026-10-29",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.95,
+     "url": "https://www.amazon.com/Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-2-Nintendo-Switch-2-Edition-plus-Infinity-Castle-Character-Pass/dp/B0HLQVQJBL?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6694986%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-nintendo-switch-2-edition-plus-infinity-castle-character-pass/452540.html"
+    },
+    {
+     "store": "Walmart",
+     "price": 59.99,
+     "url": "https://www.walmart.com/ip/Demon-Slayer-Kimetsu-no-Yaiba-The-Hinokami-Chronicles-2-Nintendo-Switch-2-Edition-plus-Infinity-Castle-Character-Pass/21065851721?selectedSellerId=0"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-nintendo-switch-2-edition-plus-infinity-castle-character-pass/-/A-1014516338"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-eldritch-house",
@@ -1197,7 +1620,37 @@
    "release": "October 27, 2026",
    "release_date": "2026-10-27",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Raw Fury",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/The-Seance-of-Blake-Manor/dp/B0HLMZ71Z3?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6695316%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/the-seance-of-blake-manor/452702.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/the-seance-of-blake-manor/-/A-1014430269"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/The-Seance-of-Blake-Manor/21107563569?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-teenage-mutant-ninja-turtles-splintered-fate-legendary-edition",
@@ -1209,7 +1662,36 @@
    "release": "October 27, 2026",
    "release_date": "2026-10-27",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Splintered-Fate-Legendary-Edition/dp/B0HC3XWL4P?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6687866%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/teenage-mutant-ninja-turtles-splintered-fate-legendary-edition/449772.html"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/Teenage-Mutant-Ninja-Turtles-Splintered-Fate-Legendary-Edition/20763517330?selectedSellerId=0"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/teenage-mutant-ninja-turtles-splintered-fate-legendary-edition/-/A-1012856127"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-nintendo-switch-sports-resort",
@@ -1221,7 +1703,42 @@
    "release": "October 22, 2026",
    "release_date": "2026-10-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true,
+   "publisher": "Nintendo",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.88,
+     "url": "https://www.amazon.com/Nintendo-Switch-Sports-Resort/dp/B0H4P1YH4P?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Walmart",
+     "price": 59.88,
+     "url": "https://www.walmart.com/ip/Nintendo-Switch-Sports-Resort/20363370746?selectedSellerId=0"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6681770%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/nintendo-switch-sports-resort/447543.html"
+    },
+    {
+     "store": "Nintendo",
+     "price": 59.99,
+     "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-125691/"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/nintendo-switch-sports-resort/-/A-1012015069"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-shadow-of-the-tomb-raider-definitive-edition",
@@ -1233,7 +1750,11 @@
    "release": "October 22, 2026",
    "release_date": "2026-10-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Aspyr",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-azure-striker-gunvolt-trilogy-enhanced",
@@ -1245,7 +1766,11 @@
    "release": "October 22, 2026",
    "release_date": "2026-10-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Inti Creates",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-hitman-absolution",
@@ -1257,7 +1782,11 @@
    "release": "October 22, 2026",
    "release_date": "2026-10-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Feral Interactive",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-my-friendly-neighborhood",
@@ -1269,7 +1798,32 @@
    "release": "October 22, 2026",
    "release_date": "2026-10-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "DreadXP",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/My-Friendly-Neighborhood/dp/B0HQ3X7SZ9?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/my-friendly-neighborhood/454379.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/my-friendly-neighborhood/-/A-1015452156"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/My-Friendly-Neighborhood/21298362073?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-toy-story-retro-roundup-plus-toy-story-3-complete-edition-double-pack",
@@ -1281,7 +1835,32 @@
    "release": "October 15, 2026",
    "release_date": "2026-10-15",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Atari",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.85,
+     "url": "https://www.amazon.com/Disney-Pixar-Toy-Story-Retro-Roundup-plus-Toy-Story-3-Complete-Edition-Double-Pack/dp/B0H3ZNQTZN?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6681499%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/disney-pixar-toy-story-retro-roundup-plus-toy-story-3-complete-edition-double-pack/447433.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/disney-pixar-toy-story-retro-roundup-plus-toy-story-3-complete-edition-double-pack/-/A-1011912905"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-harvest-moon-echoes-of-teradea",
@@ -1293,7 +1872,37 @@
    "release": "October 15, 2026",
    "release_date": "2026-10-15",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Natsume",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/Harvest-Moon-Echoes-of-Teradea/dp/B0GZXTV97Q?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6678761%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/harvest-moon-echoes-of-teradea/446294.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/harvest-moon-echoes-of-teradea/-/A-1011296668"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/Harvest-Moon-Echoes-of-Teradea/20193614780?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-hello-kitty-island-adventure-friendship-bundle",
@@ -1305,7 +1914,36 @@
    "release": "October 15, 2026",
    "release_date": "2026-10-15",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.99,
+     "url": "https://www.amazon.com/Hello-Kitty-Island-Adventure-Friendship-Bundle/dp/B0HDDDDSRG?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6687871%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/hello-kitty-island-adventure-friendship-bundle/449955.html"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/hello-kitty-island-adventure-friendship-bundle/-/A-1012856125"
+    },
+    {
+     "store": "Walmart",
+     "price": 59.99,
+     "url": "https://www.walmart.com/ip/Hello-Kitty-Island-Adventure-Friendship-Bundle/20765511993?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-ratatan",
@@ -1317,7 +1955,32 @@
    "release": "October 14, 2026",
    "release_date": "2026-10-14",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Game Source Entertainment",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/Ratatan/dp/B0GZ59W5CW?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6677733%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/ratatan/445476.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/ratatan/-/A-1011165391"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-order-of-the-sinking-star",
@@ -1329,7 +1992,37 @@
    "release": "October 8, 2026",
    "release_date": "2026-10-08",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Arc Games",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/Order-of-the-Sinking-Star/dp/B0HNX12PMF?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6696693%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/order-of-the-sinking-star/453761.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/order-of-the-sinking-star/-/A-1015450779"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/Order-of-the-Sinking-Star/21254752741?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-dave-the-diver-complete-edition",
@@ -1341,7 +2034,21 @@
    "release": "October 8, 2026",
    "release_date": "2026-10-08",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/Dave-the-Diver-Complete-Edition/dp/B0GV16WN6G?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/dave-the-diver-complete-edition/444293.html"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-viractal",
@@ -1353,7 +2060,11 @@
    "release": "October 1, 2026",
    "release_date": "2026-10-01",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Sting",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-fire-emblem-fortunes-weave",
@@ -1365,7 +2076,42 @@
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true,
+   "publisher": "Nintendo",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 79.0,
+     "url": "https://www.amazon.com/Fire-Emblem-Fortune-s-Weave/dp/B0H4NV2MVN?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Walmart",
+     "price": 79.0,
+     "url": "https://www.walmart.com/ip/Fire-Emblem-Fortune-s-Weave/20399918800?selectedSellerId=0"
+    },
+    {
+     "store": "Best Buy",
+     "price": 79.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6681700%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 79.99,
+     "url": "https://www.gamestop.com/products/fire-emblem-fortune-s-weave/447540.html"
+    },
+    {
+     "store": "Nintendo",
+     "price": 79.99,
+     "url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/"
+    },
+    {
+     "store": "Target",
+     "price": 79.99,
+     "url": "https://www.target.com/p/fire-emblem-fortune-s-weave/-/A-1012015062"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-absolum",
@@ -1377,7 +2123,22 @@
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Dotemu",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.99,
+     "url": "https://www.amazon.com/Absolum/dp/B0FCYRW2LN?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/absolum/445287.html"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-trails-in-the-sky-2nd-chapter",
@@ -1389,7 +2150,32 @@
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "GungHo America",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.99,
+     "url": "https://www.amazon.com/Trails-in-the-Sky-2nd-Chapter/dp/B0GS8TZVCW?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6673942%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 59.99,
+     "url": "https://www.gamestop.com/products/trails-in-the-sky-2nd-chapter/444221.html"
+    },
+    {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/trails-in-the-sky-2nd-chapter/-/A-95296384"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-fire-emblem-fortunes-weave-dagdan-collection",
@@ -1401,7 +2187,16 @@
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true,
+   "offers": [
+    {
+     "store": "Target",
+     "price": 119.99,
+     "url": "https://www.target.com/p/fire-emblem-fortune-s-weave-dagdan-collection/-/A-1012015079"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-another-eden-begins",
@@ -1413,7 +2208,11 @@
    "release": "September 16, 2026",
    "release_date": "2026-09-16",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "WRIGHT FLYER STUDIOS",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil",
@@ -1425,7 +2224,11 @@
    "release": "September 9, 2026",
    "release_date": "2026-09-09",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Alliance Arts",
+   "offers": [],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-mewgenics",
@@ -1437,7 +2240,37 @@
    "release": "September 8, 2026",
    "release_date": "2026-09-08",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false,
+   "publisher": "Nicalis",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/Mewgenics/dp/B0HH9ZLV9W?tag=dekulo-20&linkCode=osi&th=1&psc=1"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://bestbuycreators.7tiv.net/c/5782768/2186093/28102?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6691150%2Fpdp"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/mewgenics/451670.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/mewgenics/-/A-1013451342"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/Mewgenics/20905659951?selectedSellerId=0"
+    }
+   ],
+   "offers_checked": "2026-11-13T01:56:02+00:00"
   },
   {
    "id": "deku-orbitals-game",
@@ -1449,7 +2282,8 @@
    "release": "September 3, 2026",
    "release_date": "2026-09-03",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-moonlighter-2-the-endless-vault",
@@ -1461,7 +2295,8 @@
    "release": "September 2, 2026",
    "release_date": "2026-09-02",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-the-immortal-john-triptych",
@@ -1473,7 +2308,8 @@
    "release": "August 27, 2026",
    "release_date": "2026-08-27",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-1000xresist",
@@ -1485,7 +2321,8 @@
    "release": "August 20, 2026",
    "release_date": "2026-08-20",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-grim-trials",
@@ -1497,7 +2334,8 @@
    "release": "August 20, 2026",
    "release_date": "2026-08-20",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-starsand-island",
@@ -1509,7 +2347,8 @@
    "release": "August 18, 2026",
    "release_date": "2026-08-18",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-the-elder-scrolls-iv-oblivion-remastered-deluxe-edition",
@@ -1521,7 +2360,8 @@
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-the-lord-of-the-rings-war-in-the-north-legacy-edition",
@@ -1533,7 +2373,8 @@
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-montabi",
@@ -1545,7 +2386,8 @@
    "release": "August 6, 2026",
    "release_date": "2026-08-06",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-cotton-rock-with-you",
@@ -1557,7 +2399,8 @@
    "release": "August 6, 2026",
    "release_date": "2026-08-06",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-lies-of-p-complete-edition",
@@ -1569,7 +2412,8 @@
    "release": "August 5, 2026",
    "release_date": "2026-08-05",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-pokemon-legends-z-a-nintendo-switch-2-edition-bundle-game-plus-dlc",
@@ -1581,7 +2425,8 @@
    "release": "August 4, 2026",
    "release_date": "2026-08-04",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-xenoblade-chronicles-2-nintendo-switch-2-edition",
@@ -1593,7 +2438,8 @@
    "release": "July 30, 2026",
    "release_date": "2026-07-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-truxton-extreme",
@@ -1605,7 +2451,8 @@
    "release": "July 30, 2026",
    "release_date": "2026-07-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-truxton-extreme-thunder-master-edition",
@@ -1617,7 +2464,8 @@
    "release": "July 30, 2026",
    "release_date": "2026-07-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-unbeatable-breakout-edition",
@@ -1629,7 +2477,8 @@
    "release": "July 27, 2026",
    "release_date": "2026-07-27",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-splatoon-raiders",
@@ -1641,7 +2490,8 @@
    "release": "July 23, 2026",
    "release_date": "2026-07-23",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-go-go-town",
@@ -1653,7 +2503,8 @@
    "release": "July 16, 2026",
    "release_date": "2026-07-16",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-culdcept-begins",
@@ -1665,7 +2516,8 @@
    "release": "July 16, 2026",
    "release_date": "2026-07-16",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-xenotilt-hostile-pinball-action",
@@ -1677,7 +2529,8 @@
    "release": "July 16, 2026",
    "release_date": "2026-07-16",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-culdcept-begins-steelbook-edition",
@@ -1689,7 +2542,8 @@
    "release": "July 16, 2026",
    "release_date": "2026-07-16",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-denshattack",
@@ -1701,7 +2555,8 @@
    "release": "July 15, 2026",
    "release_date": "2026-07-15",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-mouse-pi-for-hire-the-mouseburg-edtion",
@@ -1713,7 +2568,8 @@
    "release": "July 10, 2026",
    "release_date": "2026-07-10",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection",
@@ -1725,7 +2581,8 @@
    "release": "July 9, 2026",
    "release_date": "2026-07-09",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-moonlight-peaks",
@@ -1737,7 +2594,8 @@
    "release": "July 7, 2026",
    "release_date": "2026-07-07",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-star-fox",
@@ -1749,7 +2607,8 @@
    "release": "June 25, 2026",
    "release_date": "2026-06-25",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-citizen-sleeper-2-starward-vector",
@@ -1761,7 +2620,8 @@
    "release": "June 25, 2026",
    "release_date": "2026-06-25",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-wanderstop",
@@ -1773,7 +2633,8 @@
    "release": "June 23, 2026",
    "release_date": "2026-06-23",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-observer-system-redux",
@@ -1785,7 +2646,8 @@
    "release": "June 18, 2026",
    "release_date": "2026-06-18",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-dark-auction",
@@ -1797,7 +2659,8 @@
    "release": "June 10, 2026",
    "release_date": "2026-06-10",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition",
@@ -1809,7 +2672,8 @@
    "release": "June 9, 2026",
    "release_date": "2026-06-09",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-rise-of-the-tomb-raider-20-year-celebration",
@@ -1821,7 +2685,8 @@
    "release": "June 9, 2026",
    "release_date": "2026-06-09",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-solarpunk",
@@ -1833,7 +2698,8 @@
    "release": "June 8, 2026",
    "release_date": "2026-06-08",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-police-simulator-patrol-officers-gold-edition",
@@ -1845,7 +2711,8 @@
    "release": "June 4, 2026",
    "release_date": "2026-06-04",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-r-type-dimensions-iii-special-edition",
@@ -1857,7 +2724,8 @@
    "release": "May 31, 2026",
    "release_date": "2026-05-31",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-r-type-dimensions-iii-collectors-edition",
@@ -1869,7 +2737,8 @@
    "release": "May 31, 2026",
    "release_date": "2026-05-31",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-lollipop-chainsaw-repop",
@@ -1881,7 +2750,8 @@
    "release": "May 28, 2026",
    "release_date": "2026-05-28",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-blueys-quest-for-the-gold-pen",
@@ -1893,7 +2763,8 @@
    "release": "May 28, 2026",
    "release_date": "2026-05-28",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-bubsy-4d",
@@ -1905,7 +2776,8 @@
    "release": "May 22, 2026",
    "release_date": "2026-05-22",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-yoshi-and-the-mysterious-book",
@@ -1917,7 +2789,8 @@
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-coffee-talk-tokyo",
@@ -1929,7 +2802,8 @@
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-psyvariar-3",
@@ -1941,7 +2815,8 @@
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-fz-formation-z",
@@ -1953,7 +2828,8 @@
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-psyvariar-3-limited-edition",
@@ -1965,7 +2841,8 @@
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
    "collector": true,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-r-type-dimensions-iii",
@@ -1977,7 +2854,8 @@
    "release": "May 19, 2026",
    "release_date": "2026-05-19",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-sektori",
@@ -1989,7 +2867,8 @@
    "release": "May 14, 2026",
    "release_date": "2026-05-14",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-outbound",
@@ -2001,7 +2880,8 @@
    "release": "May 14, 2026",
    "release_date": "2026-05-14",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-indiana-jones-and-the-great-circle",
@@ -2013,7 +2893,8 @@
    "release": "May 12, 2026",
    "release_date": "2026-05-12",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-inkonbini-one-store-many-stories",
@@ -2025,7 +2906,8 @@
    "release": "April 30, 2026",
    "release_date": "2026-04-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-bandit-trap",
@@ -2037,7 +2919,8 @@
    "release": "April 30, 2026",
    "release_date": "2026-04-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-lover-kiss-endless-memories",
@@ -2049,7 +2932,8 @@
    "release": "April 30, 2026",
    "release_date": "2026-04-30",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-alien-rogue-incursion-evolved-edition",
@@ -2061,7 +2945,8 @@
    "release": "April 21, 2026",
    "release_date": "2026-04-21",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-mouse-p-i-for-hire",
@@ -2073,7 +2958,8 @@
    "release": "April 16, 2026",
    "release_date": "2026-04-16",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-darwins-paradox",
@@ -2085,7 +2971,8 @@
    "release": "April 2, 2026",
    "release_date": "2026-04-02",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-haste-broken-worlds",
@@ -2097,7 +2984,8 @@
    "release": "April 1, 2026",
    "release_date": "2026-04-01",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-super-meat-boy-3d",
@@ -2109,7 +2997,8 @@
    "release": "March 31, 2026",
    "release_date": "2026-03-31",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   },
   {
    "id": "deku-super-mario-wonder-switch-2-edition",
@@ -2121,7 +3010,8 @@
    "release": "March 26, 2026",
    "release_date": "2026-03-26",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": true
   },
   {
    "id": "deku-the-midnight-walk",
@@ -2133,7 +3023,8 @@
    "release": "March 26, 2026",
    "release_date": "2026-03-26",
    "collector": false,
-   "first_seen": "2026-11-12T21:57:49+00:00"
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "nintendo": false
   }
  ],
  "collection": [
@@ -2438,5 +3329,5 @@
    "posted": "2026-11-11T02:55:00+00:00"
   }
  ],
- "updated": "2026-11-12T22:19:03+00:00"
+ "updated": "2026-11-13T01:56:59+00:00"
 }
