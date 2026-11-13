@@ -290,12 +290,14 @@ def write_feed(catalog, state):
     old = load_json(FEED_FILE, {})
     feeds.DEBUG_DIR = BASE / "debug"
     old_deals = old.get("deals", [])
-    first_run = not old_deals
+    first_run = not old_deals or old.get("version", 0) < 4   # cambió el formato: no avisar de todo otra vez
     state_changed = False
 
-    slick, _ = feeds.fetch_deals([d for d in old_deals if d.get("source") != "dekudeals"], log)
+    raw_old = old.get("raw_slick") or [d for d in old_deals if d.get("source") not in ("dekudeals",) and "offers" not in d]
+    slick, _ = feeds.fetch_deals(raw_old, log)
     cards, deku_checked = feeds.fetch_deku(old.get("releases", []), old.get("deku_checked"), log)
-    deals = sorted(slick + feeds.deku_deals(cards), key=lambda d: d.get("posted") or "", reverse=True)
+    deals = feeds.merge_deals(slick + feeds.deku_deals(cards))
+    log(f"ofertas en la app (sin repetidos): {len(deals)}")
 
     # 1) Ofertas buenas nuevas (30 % o más) -> quien activó "buenas ofertas"
     seen = {d["id"] for d in old_deals}
@@ -311,7 +313,8 @@ def write_feed(catalog, state):
             sent += 1
         # 2) Ediciones de coleccionista nuevas (ofertas y anuncios) -> avisos generales
         old_release_ids = {c["id"] for c in old.get("releases", [])}
-        new_collectors = [d for d in slick if d.get("collector") and d["id"] not in seen]
+        seen_raw = {d["id"] for d in raw_old}
+        new_collectors = [d for d in slick if d.get("collector") and d["id"] not in seen_raw]
         new_collectors += [c for c in cards if c.get("collector") and old_release_ids and c["id"] not in old_release_ids]
         for d in new_collectors[:3]:
             extra = f" · sale {d['release']}" if d.get("release") else ""
@@ -348,7 +351,8 @@ def write_feed(catalog, state):
 
     images = state.get("_images", {})
     feed = {
-        "version": 3,
+        "version": 4,
+        "raw_slick": slick,
         "deku_checked": deku_checked,
         "deals": deals,
         "releases": cards,

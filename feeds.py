@@ -11,7 +11,7 @@ import html
 import re
 import time
 import xml.etree.ElementTree as ET
-from urllib.parse import parse_qs, unquote, urlparse
+from urllib.parse import parse_qs, quote_plus, unquote, urlparse
 
 import requests
 
@@ -542,5 +542,101 @@ def deku_deals(cards):
             "posted": c.get("first_seen"),
             "source": "dekudeals",
         })
+    return out
+
+
+# ------------------------------------------------------------------ juntar repetidos
+# Una sola oferta por juego: se juntan las de Slickdeals y Deku Deals, se queda el
+# precio más bajo de cada tienda y se ordenan de más barata a más cara.
+# Solo se usan links directos a la tienda (nunca la página de Slickdeals o Deku Deals).
+
+STORE_SEARCH = {
+    "Nintendo": ("https://www.nintendo.com/us/search/", "q"),
+    "Walmart": ("https://www.walmart.com/search", "q"),
+    "Target": ("https://www.target.com/s", "searchTerm"),
+    "Amazon": ("https://www.amazon.com/s", "k"),
+    "GameStop": ("https://www.gamestop.com/search/", "q"),
+    "Best Buy": ("https://www.bestbuy.com/site/searchpage.jsp", "st"),
+}
+
+
+def is_direct(url):
+    return bool(url) and (bool(RETAILER_RE.match(url)) or url.startswith("https://slickdeals.net/click"))
+
+
+def clean_name(title):
+    t = PRICE_RE.sub(" ", title)
+    t = re.sub(r"\((?:reg\.?|was|list|orig)[^)]*\)", " ", t, flags=re.I)
+    t = re.sub(r"\s(?:at|@|from|via)\s+[A-Z].*$", " ", t)
+    t = re.sub(r"\+\s*free\s+(?:shipping|s/h|store pickup).*$", " ", t, flags=re.I)
+    t = re.sub(r"\s+w/\s+.*$", " ", t, flags=re.I)
+    t = re.sub(r"[-–,:;]\s*$", "", " ".join(t.split()))
+    return t.strip(" -–,") or title
+
+
+def game_key(title):
+    t = clean_name(title).lower()
+    plat = "s2" if re.search(r"switch\s*2|\bns2\b", t) else "s1"
+    t = re.sub(r"nintendo switch 2 edition|switch 2 edition", " ns2edition ", t)
+    t = re.sub(r"\((?:nintendo )?switch[^)]*\)", " ", t)
+    t = re.sub(r"\b(?:nintendo switch 2|nintendo switch|switch 2|switch|nsw|ns2|game-?key card|physical|"
+               r"pre-?order|new|sealed)\b", " ", t)
+    t = re.sub(r"[^a-z0-9]+", " ", t)
+    return plat + ":" + " ".join(t.split())
+
+
+def _search_url(store, name):
+    if store not in STORE_SEARCH:
+        return None
+    base, param = STORE_SEARCH[store]
+    return base + "?" + param + "=" + quote_plus(name)
+
+
+def merge_deals(deals):
+    groups = {}
+    for d in deals:
+        groups.setdefault(game_key(d["title"]), []).append(d)
+    out = []
+    for key, items in groups.items():
+        offers = {}
+
+        def add(store, price, url):
+            if not store or price is None:
+                return
+            if not is_direct(url):
+                url = _search_url(store, clean_name(items[0]["title"]))
+            if not url:
+                return
+            if store not in offers or price < offers[store]["price"]:
+                offers[store] = {"store": store, "price": price, "url": url}
+
+        for d in items:
+            for o in d.get("offers") or []:
+                add(o.get("store"), o.get("price"), o.get("url"))
+            if d.get("source") != "dekudeals":
+                add(d.get("store"), d.get("price"), d.get("store_url"))
+        ranked = sorted(offers.values(), key=lambda o: o["price"])
+        if not ranked:
+            continue   # sin link a una tienda: no se muestra
+        best = ranked[0]
+        olds = [d["old_price"] for d in items if d.get("old_price")]
+        old = max(olds) if olds and max(olds) > best["price"] else None
+        deku = next((d for d in items if d.get("source") == "dekudeals"), None)
+        name = clean_name((deku or min(items, key=lambda d: len(d["title"])))["title"])
+        out.append({
+            "id": hashlib.md5(key.encode()).hexdigest()[:12],
+            "title": name,
+            "price": best["price"],
+            "old_price": old,
+            "store": best["store"],
+            "store_url": best["url"],
+            "url": best["url"],
+            "offers": ranked,
+            "image": next((d["image"] for d in items if d.get("image")), None),
+            "kind": items[0].get("kind", "game"),
+            "collector": any(d.get("collector") for d in items),
+            "posted": max((d.get("posted") or "") for d in items),
+        })
+    out.sort(key=lambda d: d["posted"], reverse=True)
     return out
 
