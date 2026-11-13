@@ -371,8 +371,15 @@ def fetch_deals(previous, log):
         if su and ("..." in su or "/reviews/" in su or "\u2026" in su):
             d.pop("store_url", None)
             d.pop("link_v", None)
-    for d in deals.values():   # precio de la página de Slickdeals (más fiable que el título)
-        _apply_real_price(d)
+    for d in list(deals.values()):
+        t = d.get("title", "")
+        # las guardadas de antes también pasan por los filtros nuevos
+        if IS_REFURB.search(t):
+            deals.pop(d["id"], None)
+            continue
+        if "needs_cat" not in d:
+            d["needs_cat"] = not (IS_NINTENDO_WORD.search(t) or IS_POKEMON.search(t) or NINTENDO_HINT.search(t))
+        _apply_real_price(d)   # precio de la página de Slickdeals (más fiable que el título)
     cutoff = _now() - datetime.timedelta(days=KEEP_DAYS)
     fresh = [d for d in deals.values()
              if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
