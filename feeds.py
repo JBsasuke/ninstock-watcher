@@ -7,6 +7,7 @@ sin ninguna clave:
 import datetime
 import email.utils
 import hashlib
+import json
 import html
 import re
 import time
@@ -25,6 +26,8 @@ DEAL_FEEDS = [
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=switch+2",
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=nintendo",
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=amiibo",
+    "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=pokemon",
+    "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q=pokemon",
     "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q=nintendo",
     "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q=switch",
 ]
@@ -32,7 +35,10 @@ DEAL_FEEDS = [
 # (fuente, url, idioma). Solo canales oficiales de Nintendo; la app traduce al otro idioma.
 NEWS_FEEDS = [
     ("Nintendo", "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg", "en"),
+    ("Pokémon", "https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q", "en"),
 ]
+YT_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                            "Chrome/130.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9"}
 ATOM = "{http://www.w3.org/2005/Atom}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 YT = "{http://www.youtube.com/xml/schemas/2015}"
@@ -53,8 +59,14 @@ MAX_NEWS = 30
 IS_SWITCH = re.compile(r"nintendo switch|switch\s*2\b|\(switch\)|\bfor switch\b|[-–]\s*switch\b|\bNSW\b", re.I)
 IS_DIGITAL = re.compile(r"\beshop\b|\bdigital\b|\bdownload\b|gift card|switch online|\be-?code\b", re.I)
 IS_AMIIBO = re.compile(r"\bamiibo\b", re.I)
+IS_POKEMON = re.compile(r"pok[eé]mon", re.I)
+# Productos de Pokémon que no son juegos: cartas (TCG), peluches, figuras
+IS_POKEMON_MERCH = re.compile(r"\btcg\b|trading card|elite trainer|booster|premium collection|collection box|\bbinder\b|"
+                              r"plush|squishmallow|figure|\blego\b|mega construx|\btins?\b|\bcards?\b|\bdeck\b", re.I)
+IS_NOT_POKEMON_DEAL = re.compile(r"\bpokemon go\b|pok[eé]mon go\b|\bcoins?\b|\bpokecoins?\b|t-?shirt|hoodie|pajama|sock", re.I)
 IS_COLLECTOR = re.compile(r"collector'?s?|limited edition|special edition|anniversary edition|premium edition|"
-                          r"steelbook|\bamiibo\b|signature edition|launch edition", re.I)
+                          r"steelbook|\bamiibo\b|signature edition|launch edition|"
+                          r"elite trainer box|ultra[- ]premium collection", re.I)
 IS_HARDWARE = re.compile(r"console|bundle|controller|joy-?con|amiibo|\bcase\b|\bdock\b|headset|microsd|charging|grip", re.I)
 STORES = ["Best Buy", "GameStop", "Walmart", "Target", "Amazon", "Nintendo", "Costco", "Sam's Club",
           "Woot", "eBay", "Kohl's", "Newegg", "Meijer", "Macy's", "BJ's", "Dell", "Lowe's", "Home Depot"]
@@ -280,7 +292,11 @@ def fetch_deals(previous, log):
         try:
             for it in _items(url):
                 t = it["title"]
-                if not it["link"] or IS_DIGITAL.search(t) or not (IS_SWITCH.search(t) or IS_AMIIBO.search(t)):
+                if not it["link"] or IS_DIGITAL.search(t):
+                    continue
+                pokemon_merch = bool(IS_POKEMON.search(t) and not IS_SWITCH.search(t)
+                                     and IS_POKEMON_MERCH.search(t) and not IS_NOT_POKEMON_DEAL.search(t))
+                if not (IS_SWITCH.search(t) or IS_AMIIBO.search(t) or pokemon_merch):
                     continue
                 price, old = _prices(t)
                 did = hashlib.md5(it["link"].encode()).hexdigest()[:12]
@@ -292,7 +308,7 @@ def fetch_deals(previous, log):
                     "price": price,
                     "old_price": old,
                     "store": _store(t),
-                    "kind": "hardware" if IS_HARDWARE.search(t) else "game",
+                    "kind": "merch" if pokemon_merch else ("hardware" if IS_HARDWARE.search(t) else "game"),
                     "collector": bool(IS_COLLECTOR.search(t)),
                     "url": it["link"],
                     "image": image,
@@ -359,10 +375,50 @@ def _clean_summary(text):
     return (out[:700].rsplit(" ", 1)[0] + "…") if len(out) > 700 else out
 
 
-def _atom_entries(url):
-    r = requests.get(url, headers=HEADERS, timeout=25)
-    r.raise_for_status()
-    root = ET.fromstring(r.content)
+def _yt_get(url, log):
+    """YouTube a veces le niega el feed a los servidores: se prueba el canal, la lista de subidas y la página de videos."""
+    cid = re.search(r"channel_id=(UC[\w-]+)", url).group(1)
+    tries = [url, f"https://www.youtube.com/feeds/videos.xml?playlist_id=UU{cid[2:]}"]
+    for u in tries:
+        for attempt in range(2):
+            try:
+                r = requests.get(u, headers=YT_HEADERS, timeout=(6, 20))
+                if r.status_code == 200 and b"<entry" in r.content:
+                    return ("atom", r.content)
+                log(f"  YouTube {r.status_code} ({len(r.content)} bytes): {u[-40:]}")
+            except requests.RequestException as e:
+                log(f"  YouTube falló ({e.__class__.__name__}): {u[-40:]}")
+            time.sleep(2)
+    try:   # último recurso: la página pública de videos del canal
+        r = requests.get(f"https://www.youtube.com/channel/{cid}/videos", headers=YT_HEADERS, timeout=(6, 20))
+        if r.status_code == 200:
+            return ("page", r.text)
+        log(f"  YouTube página {r.status_code}")
+    except requests.RequestException as e:
+        log(f"  YouTube página falló ({e.__class__.__name__})")
+    return (None, None)
+
+
+def _yt_page_entries(page):
+    """Videos de la página del canal (sin fecha exacta: se usa la hora en que se vieron por primera vez)."""
+    seen = set()
+    for m in re.finditer(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"((?:[^"\\]|\\.)*)"', page):
+        vid, title = m.group(1), m.group(2)
+        if vid in seen:
+            continue
+        seen.add(vid)
+        try:
+            title = json.loads(f'"{title}"')
+        except ValueError:
+            pass
+        yield {"title": title, "link": f"https://www.youtube.com/watch?v={vid}", "date": None,
+               "image": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg", "summary": ""}
+        if len(seen) >= 15:
+            break
+
+
+def _atom_entries(content):
+    root = ET.fromstring(content)
     for e in root.iter(ATOM + "entry"):
         link = e.find(ATOM + "link")
         group = e.find(MEDIA + "group")
@@ -417,15 +473,37 @@ def fetch_aldia(log):
     return out
 
 
-def fetch_news(previous, log):
+def fetch_news(previous, log_main):
+    lines = []
+
+    def log(msg):        # también queda en debug/news.log para ver qué pasó con YouTube
+        lines.append(msg)
+        log_main(msg)
+
+    try:
+        return _fetch_news(previous, log)
+    finally:
+        if DEBUG_DIR is not None:
+            DEBUG_DIR.mkdir(exist_ok=True)
+            (DEBUG_DIR / "news.log").write_text(_now().isoformat(timespec="seconds") + "\n" + "\n".join(lines) + "\n",
+                                                 encoding="utf-8")
+
+
+def _fetch_news(previous, log):
     news = []
+    old_posted = {n["id"]: n.get("posted") for n in previous or []}
     aldia = fetch_aldia(log)
     if aldia is None:  # si no respondió, se quedan las que ya teníamos
         aldia = [n for n in previous or [] if str(n.get("id", "")).startswith("aldia-")]
     news += aldia
     for source, url, lang in NEWS_FEEDS:
         try:
-            entries = list(_atom_entries(url)) if "youtube.com/feeds" in url else list(_items(url))
+            if "youtube.com/feeds" in url:
+                kind, content = _yt_get(url, log)
+                entries = list(_atom_entries(content)) if kind == "atom" else list(_yt_page_entries(content)) if kind == "page" else []
+                log(f"  {source} (YouTube): {len(entries)} videos" + (" desde la página del canal" if kind == "page" else ""))
+            else:
+                entries = list(_items(url))
             for it in entries:
                 if not it["link"] or "#shorts" in it["title"].lower():
                     continue
@@ -437,16 +515,17 @@ def fetch_news(previous, log):
                     "source": source,
                     "url": it["link"],
                     "image": it["image"],
-                    "posted": it["date"].isoformat(timespec="seconds"),
+                    "posted": it["date"].isoformat(timespec="seconds") if it["date"] else
+                              old_posted.get(hashlib.md5(it["link"].encode()).hexdigest()[:12]) or _now().isoformat(timespec="seconds"),
                 })
         except Exception as e:
             log(f"  fuente de noticias falló ({e.__class__.__name__}): {source}")
     yt = [n for n in news if not n["id"].startswith("aldia-")]
     if not yt:
-        news += [n for n in previous or [] if n.get("source") == "Nintendo" and "youtube.com" in n.get("url", "")]
+        news += [n for n in previous or [] if "youtube.com" in n.get("url", "")]
     if not news:
         # nunca dejar noticias de sitios no oficiales guardadas de antes
-        return [n for n in previous or [] if n.get("source") == "Nintendo" and "youtube.com" in n.get("url", "")]
+        return [n for n in previous or [] if "youtube.com" in n.get("url", "")]
     # el mismo video que ya trae una noticia de Al Día RD no se repite
     videos = {n.get("video") for n in news if n.get("video")}
     news = [n for n in news if n["id"].startswith("aldia-") or n["url"] not in videos]
