@@ -22,7 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Siempre la versión más nueva del repo (no la de cuando se lanzó la corrida)
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -48,4 +52,31 @@ jobs:
           git config user.name "ninstock-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || (git commit -m "Estado actualizado" && git push)
+          if git diff --staged --quiet; then
+            echo "Sin cambios que guardar"
+            exit 0
+          fi
+          git commit -m "Estado actualizado"
+          # Si otra corrida guardó algo mientras tanto, se juntan los cambios
+          # (gana lo de esta corrida, que es lo más reciente) y se reintenta.
+          for intento in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Guardado"
+              exit 0
+            fi
+            echo "El repo cambió mientras corría; juntando cambios (intento $intento)…"
+            git fetch origin main
+            mio=$(git rev-parse HEAD)
+            if ! git rebase -X theirs origin/main; then
+              # Plan B: partir de lo último del repo y poner encima solo los archivos que genera el vigilante
+              git rebase --abort
+              git reset --hard origin/main
+              git checkout "$mio" -- feed.json state.json 2>/dev/null || true
+              git checkout "$mio" -- history debug 2>/dev/null || true
+              git add -A
+              git diff --staged --quiet || git commit -m "Estado actualizado"
+            fi
+            sleep $((intento * 3))
+          done
+          echo "No se pudo guardar después de 5 intentos"
+          exit 1
