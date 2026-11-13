@@ -39,7 +39,7 @@ NEWS_FEEDS = [
 ]
 # Videos que no son noticias: episodios y clips del anime, versiones de otros países
 YT_SKIP = re.compile(r"^\[(UK|AU|CA|EU)\]|pok[eé]mon the series|full episode|pok[eé]mon kids|pok[eé]mon horizons|"
-                     r"for \d+ minutes|\| seasons? \d|official clip|compilation|asmr|lofi", re.I)
+                     r"for \d+ minutes|\| seasons? \d|official clip|compilation|asmr|lofi|\d+-hour|mix to relax|\bmusic\b", re.I)
 YT_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                             "Chrome/130.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9"}
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -510,7 +510,27 @@ def fetch_news(previous, log_main):
 
 def _fetch_news(previous, log):
     news = []
-    old_posted = {n["id"]: n.get("posted") for n in previous or []}
+    old_items = {n["id"]: n for n in previous or []}
+    date_lookups = [0]
+
+    def video_date(it):
+        """Fecha real del video: la del feed, la ya guardada, o la de su página (máx. 10 páginas por corrida)."""
+        if it["date"]:
+            return it["date"].isoformat(timespec="seconds"), True
+        old = old_items.get(hashlib.md5(it["link"].encode()).hexdigest()[:12]) or {}
+        if old.get("date_ok"):
+            return old["posted"], True
+        if date_lookups[0] < 10:
+            date_lookups[0] += 1
+            try:
+                r = requests.get(it["link"], headers=YT_HEADERS, timeout=(6, 15))
+                m = re.search(r'"(?:uploadDate|publishDate)":"([^"]+)"', r.text) or \
+                    re.search(r'itemprop="(?:uploadDate|datePublished)" content="([^"]+)"', r.text)
+                if m:
+                    return _parse_date(m.group(1)).isoformat(timespec="seconds"), True
+            except requests.RequestException:
+                pass
+        return old.get("posted") or _now().isoformat(timespec="seconds"), False
     aldia = fetch_aldia(log)
     if aldia is None:  # si no respondió, se quedan las que ya teníamos
         aldia = [n for n in previous or [] if str(n.get("id", "")).startswith("aldia-")]
@@ -526,16 +546,17 @@ def _fetch_news(previous, log):
             for it in entries:
                 if not it["link"] or "#shorts" in it["title"].lower() or YT_SKIP.search(it["title"]):
                     continue
+                posted, date_ok = video_date(it)
                 news.append({
                     "id": hashlib.md5(it["link"].encode()).hexdigest()[:12],
+                    "date_ok": date_ok,
                     "title": it["title"],
                     "summary": it.get("summary") or "",
                     "lang": lang,
                     "source": source,
                     "url": it["link"],
                     "image": it["image"],
-                    "posted": it["date"].isoformat(timespec="seconds") if it["date"] else
-                              old_posted.get(hashlib.md5(it["link"].encode()).hexdigest()[:12]) or _now().isoformat(timespec="seconds"),
+                    "posted": posted,
                 })
         except Exception as e:
             log(f"  fuente de noticias falló ({e.__class__.__name__}): {source}")
