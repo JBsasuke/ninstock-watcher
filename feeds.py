@@ -24,9 +24,13 @@ DEAL_FEEDS = [
     "https://slickdeals.net/newsearch.php?searchin=first&forumchoice%5B%5D=9&rss=1&q=nintendo+switch",
 ]
 # Solo fuentes oficiales de Nintendo
+# (fuente, url, idioma). Solo canales oficiales de Nintendo; la app traduce al otro idioma.
 NEWS_FEEDS = [
-    ("Nintendo", "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg"),
+    ("Nintendo", "https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg", "en"),
 ]
+ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
+YT = "{http://www.youtube.com/xml/schemas/2015}"
 
 KEEP_DAYS = 7
 START = time.monotonic()
@@ -196,6 +200,10 @@ def _parse_date(text):
     try:
         return email.utils.parsedate_to_datetime(text).astimezone(datetime.timezone.utc)
     except Exception:
+        pass
+    try:  # Atom / ISO 8601 (YouTube)
+        return datetime.datetime.fromisoformat(text.strip().replace("Z", "+00:00")).astimezone(datetime.timezone.utc)
+    except Exception:
         return _now()
 
 
@@ -328,16 +336,51 @@ def fetch_deals(previous, log):
     return fresh, ok > 0
 
 
+def _clean_summary(text):
+    """Descripción del video sin links, hashtags ni líneas de ESRB/redes; máx. ~700 letras."""
+    keep = []
+    for line in (text or "").splitlines():
+        line = line.strip()
+        low = line.lower()
+        if not line or "http" in low or line.startswith("#") or "esrb" in low or low.startswith(("subscribe", "follow", "©")):
+            continue
+        keep.append(line)
+    out = " ".join(keep)
+    return (out[:700].rsplit(" ", 1)[0] + "…") if len(out) > 700 else out
+
+
+def _atom_entries(url):
+    r = requests.get(url, headers=HEADERS, timeout=25)
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    for e in root.iter(ATOM + "entry"):
+        link = e.find(ATOM + "link")
+        group = e.find(MEDIA + "group")
+        thumb = group.find(MEDIA + "thumbnail") if group is not None else None
+        vid = e.findtext(YT + "videoId")
+        image = f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg" if vid else (thumb.get("url") if thumb is not None else None)
+        yield {
+            "title": html.unescape((e.findtext(ATOM + "title") or "").strip()),
+            "link": link.get("href") if link is not None else "",
+            "date": _parse_date(e.findtext(ATOM + "published") or ""),
+            "image": image,
+            "summary": _clean_summary(group.findtext(MEDIA + "description") if group is not None else ""),
+        }
+
+
 def fetch_news(previous, log):
     news = []
-    for source, url in NEWS_FEEDS:
+    for source, url, lang in NEWS_FEEDS:
         try:
-            for it in _items(url):
-                if not it["link"]:
+            entries = list(_atom_entries(url)) if "youtube.com/feeds" in url else list(_items(url))
+            for it in entries:
+                if not it["link"] or "#shorts" in it["title"].lower():
                     continue
                 news.append({
                     "id": hashlib.md5(it["link"].encode()).hexdigest()[:12],
                     "title": it["title"],
+                    "summary": it.get("summary") or "",
+                    "lang": lang,
                     "source": source,
                     "url": it["link"],
                     "image": it["image"],
@@ -346,7 +389,8 @@ def fetch_news(previous, log):
         except Exception as e:
             log(f"  fuente de noticias falló ({e.__class__.__name__}): {source}")
     if not news:
-        return previous
+        # nunca dejar noticias de sitios no oficiales guardadas de antes
+        return [n for n in previous or [] if n.get("source") == "Nintendo" and "youtube.com" in n.get("url", "")]
     news.sort(key=lambda n: n["posted"], reverse=True)
     log(f"noticias: {len(news[:MAX_NEWS])}")
     return news[:MAX_NEWS]
@@ -679,4 +723,42 @@ def merge_deals(deals):
         })
     out.sort(key=lambda d: d["posted"], reverse=True)
     return out
+
+
+# ------------------------------------------------------------------ productos de Colección vía Deku Deals
+def parse_deku_rows(page):
+    """Todas las tiendas físicas de la tabla principal, con precio o sin él (sin precio = agotado)."""
+    rows = {}
+    main = page.split("Also available at")[0]
+    for row in re.split(r"<tr\b", main, flags=re.I)[1:]:
+        row = row.split("</tr>")[0]
+        text = html.unescape(" ".join(TAG_RE.sub(" ", row).split()))
+        attrs = " ".join(re.findall(r"(?:alt|title|aria-label)=['\"]([^'\"]+)['\"]", row, re.I))
+        hay = (text + " " + attrs).lower()
+        store = next((st for st in DEKU_STORES if st.lower() in hay), None)
+        if not store or "eshop" in store.lower() or ("digital" in hay and "physical" not in hay):
+            continue
+        href = re.search(r"href=['\"]([^'\"]+)['\"]", row, re.I)
+        url = _clean_store_url(html.unescape(href.group(1))) if href else None
+        if url and not RETAILER_RE.match(url):
+            url = None
+        price = PRICE_ANY_RE.search(text)
+        name = "Nintendo" if "nintendo" in store.lower() else store
+        value = _num(price.group(1)) if price and "unavailable" not in hay else None
+        old = rows.get(name)
+        if not old or (value is not None and (old["price"] is None or value < old["price"])):
+            rows[name] = {"store": name, "price": value, "url": url or (old or {}).get("url")}
+    return list(rows.values())
+
+
+def fetch_deku_rows(url):
+    try:
+        r = requests.get(url, headers=DEKU_HEADERS, timeout=(6, 15))
+        if r.status_code == 200:
+            m = OG_IMAGE_RE.search(r.text)
+            img = html.unescape(m.group(1) or m.group(2)) if m else None
+            return parse_deku_rows(r.text), img
+    except requests.RequestException:
+        pass
+    return None, None
 
