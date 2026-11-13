@@ -226,7 +226,9 @@ def find_image(prod):
             if r.status_code == 200:
                 m = feeds.OG_IMAGE_RE.search(r.text)
                 if m:
-                    return html.unescape(m.group(1) or m.group(2))
+                    img = html.unescape(m.group(1) or m.group(2))
+                    if not re.search(r"social-share|default-news|/logo", img, re.I):   # foto genérica: probar la siguiente
+                        return img
         except requests.RequestException:
             pass
     return None
@@ -464,6 +466,19 @@ def write_feed(catalog, state):
                           "status": status, "since": state.get(key, {}).get("since")})
         deku_stores[p["id"]] = found
 
+    added = state.setdefault("_added", {})
+    for p in catalog:
+        if p["id"] not in added:
+            added[p["id"]] = today
+            state_changed = True
+    release_dates = {}
+    for p in catalog:
+        rd = p.get("release_date")
+        if not rd and p.get("match"):
+            card = next((c for c in cards if re.search(p["match"], c["title"], re.I)), None)
+            rd = card.get("release_date") if card else None
+        release_dates[p["id"]] = rd
+
     feed = {
         "version": 4,
         "raw_slick": slick,
@@ -478,6 +493,8 @@ def write_feed(catalog, state):
                 "kind": p.get("kind", ""),
                 "image": p.get("image") or images.get(p["id"]),
                 "note": p.get("note"),
+                "release_date": release_dates.get(p["id"]),
+                "added": added.get(p["id"]),
                 "stores": deku_stores.get(p["id"], []) + [
                     {
                         "store": store_name(s["store"]),

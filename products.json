@@ -109,7 +109,12 @@
     "kind": "juego",
     "match": "^resident evil 2\\b",
     "note": "Sale el 29 ene 2027",
-    "stores": []
+    "stores": [],
+    "release_date": "2027-01-29",
+    "image_pages": [
+      "https://www.dekudeals.com/items/resident-evil-2-deluxe-edition",
+      "https://www.nintendo.com/us/store/products/resident-evil-2-deluxe-edition-switch-2/"
+    ]
   },
   {
     "id": "re3-ns2",
@@ -117,7 +122,12 @@
     "kind": "juego",
     "match": "^resident evil 3\\b",
     "note": "Sale el 29 ene 2027",
-    "stores": []
+    "stores": [],
+    "release_date": "2027-01-29",
+    "image_pages": [
+      "https://www.dekudeals.com/items/resident-evil-3",
+      "https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/"
+    ]
   },
   {
     "id": "re4-ns2",
@@ -125,7 +135,12 @@
     "kind": "juego",
     "match": "^resident evil 4\\b",
     "note": "Sale el 29 ene 2027",
-    "stores": []
+    "stores": [],
+    "release_date": "2027-01-29",
+    "image_pages": [
+      "https://www.dekudeals.com/items/resident-evil-4-gold-edition",
+      "https://www.nintendo.com/us/store/products/resident-evil-4-gold-edition-switch-2/"
+    ]
   },
   {
     "id": "ff7-revelation-ns2",
@@ -133,6 +148,16 @@
     "kind": "juego",
     "match": "final fantasy vii revelation",
     "note": "Sale el 8 abr 2027",
-    "stores": []
+    "stores": [
+      {
+        "store": "gamestop",
+        "url": "https://www.gamestop.com/products/final-fantasy-vii-revelation/451548.html"
+      }
+    ],
+    "release_date": "2027-04-08",
+    "image_pages": [
+      "https://www.dekudeals.com/items/final-fantasy-vii-revelation",
+      "https://www.nintendo.com/us/store/products/final-fantasy-vii-revelation-switch-2/"
+    ]
   }
 ]
