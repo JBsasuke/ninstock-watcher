@@ -35,13 +35,13 @@
    "posted": "2026-11-14T15:40:04+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-14T16:52:09+00:00",
-   "category_ok": true,
-   "real_price": 34.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20309448&tid=20309448&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=bb2c455ee04b11f19657223d7e45cd56&au=d0b5bf6508e949929b90960b8d6a9e41&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-14T16:52:09+00:00",
+   "real_price": 34.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "7b4d3a644805",
@@ -59,7 +59,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20308014&tid=20308014&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a2c8198ee01911f1896d5292ab933ce1&au=0187d10cbc9b40c39a22a9b69dbe55b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:33+00:00",
+   "checked_at": "2026-11-14T21:03:50+00:00",
    "real_price": 49.97,
    "real_old": null,
    "category_ok": false
@@ -80,7 +80,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306058&pno=1364766&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a3ee4158e01911f19aa2f6465a9c1b89&au=5429cd9871a34bcaa780fc304afdb3b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:35+00:00",
+   "checked_at": "2026-11-14T21:03:52+00:00",
    "real_price": 13.99,
    "real_old": 35.99,
    "category_ok": true
@@ -101,7 +101,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20305164&pno=1364610&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e0df258edfdb11f1899e56fe8f575c4e&au=0f2cfb2da5644dba9d6cf5e6cae1f35e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:44+00:00",
+   "checked_at": "2026-11-14T21:03:59+00:00",
    "real_price": 21.99,
    "real_old": 24.48,
    "category_ok": true
@@ -122,7 +122,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20306874&tid=20306874&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2779c3cdfdb11f19679be817a4c2eaa&au=e4123a569ee242bb99d7f5a7e27a35e9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:46+00:00",
+   "checked_at": "2026-11-14T21:04:02+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": false
@@ -143,7 +143,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306820&tid=20306820&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e3c50980dfdb11f1b8872afecadd407e&au=eba4dbc2c18e476bb27d202e28957e41&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:48+00:00",
+   "checked_at": "2026-11-14T21:04:04+00:00",
    "real_price": 4.99,
    "real_old": 9.99,
    "category_ok": true
@@ -227,7 +227,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306058&tid=20306058&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=078802a4dfba11f18ea10a2c36b8eefb&au=12efb84d2cd14f668ac7a97cab2a1253&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:38+00:00",
+   "checked_at": "2026-11-14T21:03:54+00:00",
    "real_price": 13.99,
    "real_old": 35.99,
    "category_ok": true
@@ -435,7 +435,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20303358&tid=20303358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01a9ea8edf6d11f1938a1ac36c870499&au=e404f118e7e34410b3ad106312f14b0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:14+00:00",
+   "checked_at": "2026-11-14T21:04:29+00:00",
    "real_price": 306.0,
    "real_old": 439.0,
    "category_ok": false,
@@ -457,7 +457,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20303358&tid=20303358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03154580df6d11f18e38062ed13586ab&au=bfd903aaaac44339842b0cc048a3d246&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:17+00:00",
+   "checked_at": "2026-11-14T21:04:31+00:00",
    "real_price": 306.0,
    "real_old": 439.0,
    "category_ok": false
@@ -858,7 +858,7 @@
    "store_url": "https://www.walmart.com/ip/5446374291",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:19+00:00",
+   "checked_at": "2026-11-14T21:03:34+00:00",
    "real_price": 21.97,
    "real_old": 74.0,
    "category_ok": true
@@ -879,7 +879,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295474&tid=20295474&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ff3035e6dee611f1b4f5fe17b98bbba7&au=05ac1281a9a647b3a6cc9f435aa6f731&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:25+00:00",
+   "checked_at": "2026-11-14T21:03:36+00:00",
    "real_price": 24.0,
    "real_old": 57.0,
    "category_ok": true
@@ -898,7 +898,7 @@
    "page_checked": true,
    "link_v": 3,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295474&tid=20295474&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=006af072dee711f1b0a7f6b492836534&au=81f3dd808f9e45de9a6fbd8f5fdb9253&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-14T05:34:28+00:00",
+   "checked_at": "2026-11-14T21:03:38+00:00",
    "real_price": 24.0,
    "real_old": 57.0,
    "needs_cat": false,
@@ -921,7 +921,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20295405&tid=20295405&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01dfa394dee711f18b77565ed767d30c&au=34d764b71e434720b6a3033d07ffbbd2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:30+00:00",
+   "checked_at": "2026-11-14T21:03:40+00:00",
    "real_price": 6.98,
    "real_old": 34.99,
    "category_ok": false
@@ -942,7 +942,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20295354&tid=20295354&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0309dc08dee711f186ac4ede6425320d&au=974889b0ffc14ecb9c1b83bb0dae5cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:33+00:00",
+   "checked_at": "2026-11-14T21:03:42+00:00",
    "real_price": 29.5,
    "real_old": 60.0,
    "category_ok": true
@@ -963,7 +963,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20294577&tid=20294577&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0455f010dee711f1b4f5fe17b98bbba7&au=1ee94ef1654248dcb8e63b9d56cded03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:36+00:00",
+   "checked_at": "2026-11-14T21:03:45+00:00",
    "real_price": 9.99,
    "real_old": 19.99,
    "category_ok": false
@@ -984,7 +984,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=05a6e5aadee711f1a88316428ae3c46e&au=641e7763692d403ca4e6bd3f55d792ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T05:34:39+00:00",
+   "checked_at": "2026-11-14T21:03:48+00:00",
    "real_price": 14.99,
    "real_old": 27.99,
    "category_ok": false
@@ -1003,7 +1003,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20294559&tid=20294559&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=805c65ccdf3711f1b39ce605f9404989&au=48384e5f0fa2497695d308d1444e7a73&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:41+00:00",
+   "checked_at": "2026-11-14T21:03:56+00:00",
    "real_price": 14.99,
    "real_old": 27.99,
    "needs_cat": false,
@@ -1026,7 +1026,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=65e23d4cdf3311f1b8ebfa4411b5dbee&au=19e7654baa224849b1d1437fd8156224&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:50+00:00",
+   "checked_at": "2026-11-14T21:04:06+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1047,7 +1047,7 @@
    "store_url": "https://www.walmart.com/ip/367665426",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:52+00:00",
+   "checked_at": "2026-11-14T21:04:08+00:00",
    "real_price": 10.0,
    "real_old": 19.99,
    "category_ok": true
@@ -1068,7 +1068,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=68605b9edf3311f1b7871e54fc34fdeb&au=295cfea84b314a419530e70c3a30e906&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:55+00:00",
+   "checked_at": "2026-11-14T21:04:10+00:00",
    "real_price": 24.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1089,7 +1089,7 @@
    "store_url": "https://www.walmart.com/ip/367665426",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:57+00:00",
+   "checked_at": "2026-11-14T21:04:12+00:00",
    "real_price": 10.0,
    "real_old": 19.99,
    "category_ok": true
@@ -1110,7 +1110,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20288685&pno=1362888&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=08aaa67edee711f19f87d2de4d7d8d42&au=6fab273653cd4dfe87ac48a999723f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:53:59+00:00",
+   "checked_at": "2026-11-14T21:04:15+00:00",
    "real_price": 24.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1131,7 +1131,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287878&tid=20287878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a284268dee711f1bb78565ed767d30c&au=986ef37da67a415a8ec89231df0cae77&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:01+00:00",
+   "checked_at": "2026-11-14T21:04:17+00:00",
    "real_price": 29.99,
    "real_old": 59.99,
    "category_ok": true
@@ -1152,7 +1152,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287695&pno=1363068&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0d313de8dee711f1948e46842fbe620e&au=8fb2459959a843c09ea3ff7362116285&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:03+00:00",
+   "checked_at": "2026-11-14T21:04:19+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1173,7 +1173,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287413&tid=20287413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e96cfe0dee711f19ac7a2db0cd32287&au=64cf8fb49b2a40ba9601e8052e51cdf2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:06+00:00",
+   "checked_at": "2026-11-14T21:04:22+00:00",
    "real_price": 23.99,
    "real_old": 57.0,
    "category_ok": true
@@ -1194,7 +1194,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20283702&pno=1362315&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6999fd76df3311f1b63d1e54fc34fdeb&au=5aaff84fde864db8a5d6d45231aeff16&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:09+00:00",
+   "checked_at": "2026-11-14T21:04:25+00:00",
    "real_price": 39.99,
    "real_old": 59.99,
    "category_ok": true
@@ -1213,7 +1213,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20287215&tid=20287215&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1015f878dee711f19b91d2de4d7d8d42&au=82ae1bec8b28428fbc00afbc159735b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:12+00:00",
+   "checked_at": "2026-11-14T21:04:27+00:00",
    "real_price": 18.99,
    "real_old": 39.99,
    "needs_cat": false,
@@ -1301,7 +1301,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20277993&pno=1361316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=46fb75f8df3611f196734ad38ecc5606&au=325f887ba3d049bab7967e22824b640d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:20+00:00",
+   "checked_at": "2026-11-14T21:04:35+00:00",
    "real_price": 8.0,
    "real_old": 19.99,
    "category_ok": true
@@ -1322,7 +1322,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20277993&pno=1361316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=481acad8df3611f1b76e8662414121fc&au=a5e396256a2849fcbed1ee88836b6b8d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:24+00:00",
+   "checked_at": "2026-11-14T21:04:36+00:00",
    "real_price": 8.0,
    "real_old": 19.99,
    "category_ok": true
@@ -1343,7 +1343,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20274519&pno=1360977&prop=diavail-true%7Cdincp-2%7Cdinpd-1%7Cdipgavail-true&pv=496356f8df3611f1a57c96c801119e98&au=1a4a8e5bd2874726877eccb42e2f59b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:26+00:00",
+   "checked_at": "2026-11-14T21:04:40+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -1364,7 +1364,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20274519&pno=1360977&prop=diavail-true%7Cdincp-2%7Cdinpd-1%7Cdipgavail-true&pv=4a94b224df3611f18b1bdaa683c46b57&au=bc1813352f3641d580afbfb20d394506&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-14T10:54:32+00:00",
+   "checked_at": "2026-11-14T21:04:41+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -1622,7 +1622,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-14T16:53:17+00:00",
+ "deku_checked": "2026-11-14T21:04:42+00:00",
  "deals": [
   {
    "id": "cf4b90936e42",
@@ -2485,7 +2485,7 @@
      "url": "https://www.amazon.com/dp/B0HR1HNDXH"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "IDEA FACTORY",
    "digital": null,
@@ -2528,7 +2528,7 @@
      "url": "https://www.target.com/p/-/A-1014334840"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Deep Silver",
    "digital": null,
@@ -2546,7 +2546,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": null,
@@ -2564,7 +2564,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "G-MODE",
    "digital": null,
@@ -2582,7 +2582,7 @@
    "release_date": null,
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -2625,7 +2625,7 @@
      "url": "https://www.walmart.com/ip/21043860036"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -2643,7 +2643,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Daybreak Games",
    "digital": null,
@@ -2682,7 +2682,7 @@
      "url": "https://www.walmart.com/ip/20399806019"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MAX ENT GAMES",
    "digital": null,
@@ -2726,7 +2726,7 @@
      "url": "https://www.walmart.com/ip/21226954933"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQUBE",
    "digital": null,
@@ -2744,7 +2744,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bushiroad",
    "digital": null,
@@ -2762,7 +2762,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "iDiOSLAB",
    "digital": null,
@@ -2791,7 +2791,7 @@
      "url": "https://www.gamestop.com/products/007-first-light-legacy-edition/432065.html"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -2834,7 +2834,7 @@
      "url": "https://www.walmart.com/ip/21275204926"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -2878,7 +2878,7 @@
      "url": "https://www.walmart.com/ip/19534412741"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -2921,7 +2921,7 @@
      "url": "https://www.walmart.com/ip/21250172833"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -2939,7 +2939,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Kalypso Media",
    "digital": null,
@@ -2963,7 +2963,7 @@
      "url": "https://www.gamestop.com/products/tomb-raider-legacy-of-atlantis-collectors-edition/447337.html"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -2996,7 +2996,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-and-friends-freeze-tag-party/431538.html"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nighthawk Interactive",
    "digital": {
@@ -3017,7 +3017,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": null,
@@ -3041,7 +3041,7 @@
      "url": "https://www.amazon.com/dp/B0HF5D2S1J"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -3064,7 +3064,7 @@
      "url": "https://www.amazon.com/dp/B0H8XCJLH2"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -3081,7 +3081,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "株式会社カプコン",
    "digital": null,
@@ -3125,7 +3125,7 @@
      "url": "https://www.gamestop.com/products/007-first-light/432061.html"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": null,
@@ -3154,7 +3154,7 @@
      "url": "https://www.gamestop.com/products/spooky-spirit-shooting-gallery/391838.html"
     }
    ],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aksys Games",
    "digital": {
@@ -3175,7 +3175,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-14T10:55:10+00:00",
+   "offers_checked": "2026-11-14T21:05:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nokta Games",
    "digital": null,
@@ -6953,7 +6953,7 @@
    "title": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
    "url": "https://www.dekudeals.com/items/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition",
    "image": "https://cdn.dekudeals.com/images/ae3bb0f74ecab38f3d90c3293aaa4693ced1c34d/w540.jpg",
-   "price": null,
+   "price": 59.99,
    "old_price": null,
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
@@ -8591,18 +8591,6 @@
    "posted": "2026-11-03T23:00:17+00:00"
   },
   {
-   "id": "e792bf957681",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Loves to sing 🎤Cries a lot 😢See how long it takes for you to guess @LadyGaga's favorite Pokémon!",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/shorts/1UhKkbaSKtw",
-   "image": "https://i.ytimg.com/vi/1UhKkbaSKtw/hqdefault.jpg",
-   "posted": "2026-11-02T18:00:29+00:00"
-  },
-  {
    "id": "90330ab079fa",
    "date_ok": true,
    "seeded": true,
@@ -8639,5 +8627,5 @@
    "posted": "2026-11-01T07:00:03+00:00"
   }
  ],
- "updated": "2026-11-14T16:54:30+00:00"
+ "updated": "2026-11-14T21:05:57+00:00"
 }
