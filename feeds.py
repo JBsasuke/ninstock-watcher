@@ -955,10 +955,24 @@ STORE_SEARCH = {
     "Amazon": ("https://www.amazon.com/s", "k"),
     "GameStop": ("https://www.gamestop.com/search/", "q"),
     "Best Buy": ("https://www.bestbuy.com/site/searchpage.jsp", "st"),
+    "Costco": ("https://www.costco.com/CatalogSearch", "keyword"),
+    "Costco Wholesale": ("https://www.costco.com/CatalogSearch", "keyword"),
+    "Sam's Club": ("https://www.samsclub.com/s/", "searchTerm"),
+    "Woot": ("https://www.woot.com/search", "q"),
+    "Newegg": ("https://www.newegg.com/p/pl", "d"),
 }
+# Foto genérica de Slickdeals cuando la oferta no trae foto propia
+FALLBACK_IMG = re.compile(r"deal-image-fallback|/image-pool/products/|no-?image|placeholder", re.I)
+
+
+def real_image(url):
+    return url if url and not FALLBACK_IMG.search(url) else None
 
 
 def is_direct(url):
+    # "Get Deal at Retailer" = Slickdeals no sabe a qué tienda manda: ese link da error ("you are leaving slickdeals")
+    if url and url.startswith("https://slickdeals.net/click") and "trd=Get+Deal+at+Retailer" in url:
+        return False
     return bool(url) and (bool(RETAILER_RE.match(url)) or url.startswith("https://slickdeals.net/click"))
 
 
@@ -1051,8 +1065,9 @@ def merge_deals(deals):
             if d.get("source") != "dekudeals":
                 add(d.get("store"), d.get("price"), d.get("store_url"))
         ranked = sorted(offers.values(), key=lambda o: o["price"])
-        if not ranked:
-            continue   # sin link a una tienda: no se muestra
+        image = next((real_image(d.get("image")) for d in items if real_image(d.get("image"))), None)
+        if not ranked or not image:
+            continue   # sin link bueno a una tienda o sin foto del producto: no se muestra
         best = ranked[0]
         olds = [d["old_price"] for d in items if d.get("old_price")]
         old = max(olds) if olds and max(olds) > best["price"] else None
@@ -1067,7 +1082,7 @@ def merge_deals(deals):
             "store_url": best["url"],
             "url": best["url"],
             "offers": ranked,
-            "image": next((d["image"] for d in items if d.get("image")), None),
+            "image": image,
             "kind": items[0].get("kind", "game"),
             "collector": any(d.get("collector") for d in items),
             "posted": max((d.get("posted") or "") for d in items),
