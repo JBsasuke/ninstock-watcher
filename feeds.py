@@ -66,6 +66,20 @@ IS_POKEMON = re.compile(r"pok[eé]mon", re.I)
 # Reacondicionado / caja abierta / usado: el precio no es el del producto nuevo que la gente ve en la tienda
 IS_REFURB = re.compile(r"refurb|renewed|open[- ]box|pre-?owned|\bused\b|good condition|fair condition|"
                        r"excellent condition|certified restored|seller refurbished", re.I)
+# Cosas de otras consolas (ej. "Xbox Series S ... and Nintendo Switch", capturadoras "for PC, Switch 2, PS5")
+IS_OTHER_PLATFORM = re.compile(r"\bxbox\b|\bseries [sx]\b|playstation|\bps[45]\b|steam deck|meta quest|"
+                               r"\brog ally\b|legion go|\biphone\b|\bipad\b|\bandroid\b", re.I)
+# Tiendas poco fiables o de "solo en la app" que no queremos mostrar
+BAD_STORE = re.compile(r"tiktok|aliexpress|temu|shein|\bwish\b|dhgate|ebay", re.I)
+
+
+def not_for_app(d):
+    """True si la oferta no debe salir: otra consola, tienda poco fiable."""
+    t = d.get("title", "")
+    return bool(IS_OTHER_PLATFORM.search(t) or re.search(r"tiktok shop|aliexpress|\bapp only\b", t, re.I)
+                or BAD_STORE.search(d.get("store", "")) or BAD_STORE.search(d.get("store_url") or ""))
+
+
 IS_NINTENDO_WORD = re.compile(r"nintendo|joy-?con|amiibo|\bnsw\b", re.I)
 # Productos de Pokémon que no son juegos: cartas (TCG), peluches, figuras
 IS_POKEMON_MERCH = re.compile(r"\btcg\b|trading card|elite trainer|booster|premium collection|collection box|\bbinder\b|"
@@ -994,7 +1008,7 @@ def _search_url(store, name):
 def merge_deals(deals):
     groups = {}
     for d in deals:
-        if d.get("expired") or (d.get("needs_cat") and not d.get("category_ok")):
+        if d.get("expired") or (d.get("needs_cat") and not d.get("category_ok")) or not_for_app(d):
             continue
         key = game_key(d["title"])
         if d.get("refurb"):
