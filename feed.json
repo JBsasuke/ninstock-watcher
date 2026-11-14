@@ -14,13 +14,13 @@
    "posted": "2026-11-14T01:18:21+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-14T03:31:29+00:00",
-   "category_ok": true,
-   "real_price": 21.99,
-   "real_old": 24.48,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20305164&pno=1364610&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e0df258edfdb11f1899e56fe8f575c4e&au=0f2cfb2da5644dba9d6cf5e6cae1f35e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-14T03:31:29+00:00",
+   "real_price": 21.99,
+   "real_old": 24.48,
+   "category_ok": true
   },
   {
    "id": "ba057dc42a47",
@@ -35,13 +35,13 @@
    "posted": "2026-11-14T01:13:46+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-14T03:31:32+00:00",
-   "category_ok": false,
-   "real_price": 19.99,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20306874&tid=20306874&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2779c3cdfdb11f19679be817a4c2eaa&au=e4123a569ee242bb99d7f5a7e27a35e9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-14T03:31:32+00:00",
+   "real_price": 19.99,
+   "real_old": 29.99,
+   "category_ok": false
   },
   {
    "id": "3a24303a7bef",
@@ -56,11 +56,32 @@
    "posted": "2026-11-14T00:56:06+00:00",
    "needs_cat": false,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306820&tid=20306820&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e3c50980dfdb11f1b8872afecadd407e&au=eba4dbc2c18e476bb27d202e28957e41&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3,
    "checked_at": "2026-11-14T03:31:34+00:00",
+   "real_price": 4.99,
+   "real_old": 9.99,
+   "category_ok": true
+  },
+  {
+   "id": "18ab9130b716",
+   "title": "Charging Dock for Nintendo Switch 2 Joy-Cons (2025) – $4.99 (50% Off, No Promo Code Needed)",
+   "price": 4.99,
+   "old_price": 9.99,
+   "store": "Amazon",
+   "kind": "hardware",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20306820-charging-dock-for-nintendo-switch-2-joy-cons-2025-4-99-50-off-no-promo-code-needed?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/1/9/1/1/6/9/300x300/22347171.thumb",
+   "posted": "2026-11-14T00:56:06+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-14T04:55:07+00:00",
    "category_ok": true,
    "real_price": 4.99,
    "real_old": 9.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306820&tid=20306820&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e3c50980dfdb11f1b8872afecadd407e&au=eba4dbc2c18e476bb27d202e28957e41&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20306820&tid=20306820&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90318670dfe711f1b5b452120c59c7f7&au=af796b944e984094a1181ea8e03a1aa8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3
   },
@@ -143,7 +164,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+TikTok+Shop&sdtid=20305731&tid=20305731&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=091f8ab0dfba11f193760abc0d9525b4&au=472189a763804b7eb20e4781279e97ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-13T23:29:14+00:00",
+   "checked_at": "2026-11-14T04:55:26+00:00",
    "category_ok": true
   },
   {
@@ -183,7 +204,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20305518&tid=20305518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bf73ab2dfba11f1a5c72e1d7ef2cc6f&au=cafc51277218482892afc96e68902806&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-13T23:29:18+00:00",
+   "checked_at": "2026-11-14T04:55:28+00:00",
    "real_price": 144.53,
    "real_old": 299.99,
    "category_ok": false
@@ -264,13 +285,14 @@
    "posted": "2026-11-13T17:03:57+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-13T17:59:49+00:00",
+   "checked_at": "2026-11-14T04:55:11+00:00",
    "category_ok": true,
    "real_price": 10.99,
    "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20304639&tid=20304639&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=04a9043adf8c11f19b614ef67c94676a&au=cf53b1d4f2b446e188e2cf3fb0491ff9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "expired": true
   },
   {
    "id": "be94d13cd74c",
@@ -430,7 +452,7 @@
    "url": "https://slickdeals.net/f/20302461-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-kingdom-of-hyrule-pokemon-mario-more-29-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22335417.thumb",
    "posted": "2026-11-13T09:59:13+00:00",
-   "checked_at": "2026-11-13T17:59:52+00:00",
+   "checked_at": "2026-11-14T04:55:13+00:00",
    "real_price": 29.99,
    "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20302461&tid=20302461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a8b1a4fadf4c11f1b92b362b7fc8f737&au=cb5e65a1383446dbbb2f41ab725b0683&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -451,7 +473,7 @@
    "url": "https://slickdeals.net/f/20302461-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-kingdom-of-hyrule-pokemon-mario-more-29-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22335417.thumb",
    "posted": "2026-11-13T09:59:13+00:00",
-   "checked_at": "2026-11-13T17:59:54+00:00",
+   "checked_at": "2026-11-14T04:55:15+00:00",
    "real_price": 29.99,
    "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20302461&tid=20302461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a9f481f2df4c11f1b0851ac36c870499&au=01f839f7ae63468f8e69873c3d33090c&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -477,7 +499,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20302461&tid=20302461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ab0e5b62df4c11f18b3e4e8d2b069233&au=7a9dcd3158c549a0a9bdf7dc51378c09&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-13T17:59:56+00:00",
+   "checked_at": "2026-11-14T04:55:18+00:00",
    "real_price": 29.99,
    "real_old": 59.99,
    "category_ok": true
@@ -493,7 +515,7 @@
    "url": "https://slickdeals.net/f/20302428-powera-nintendo-switch-enhanced-wired-controller-mario-or-sonic-boost-14-99-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22335303.thumb",
    "posted": "2026-11-13T09:46:36+00:00",
-   "checked_at": "2026-11-13T18:00:00+00:00",
+   "checked_at": "2026-11-14T04:55:21+00:00",
    "real_price": 14.99,
    "real_old": 27.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20302428&tid=20302428&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=ac2df25adf4c11f1bb30da3bad962d06&au=324106a692a5477da04b0f14af3b6e55&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -519,7 +541,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20302428&tid=20302428&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=ad6a29b8df4c11f1bd82326024ed6d42&au=b4a249719bd64f1698398963dd80973f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-13T18:00:04+00:00",
+   "checked_at": "2026-11-14T04:55:24+00:00",
    "real_price": 14.99,
    "real_old": 27.99,
    "category_ok": true
@@ -1537,7 +1559,7 @@
    "category_ok": false
   }
  ],
- "deku_checked": "2026-11-14T03:32:42+00:00",
+ "deku_checked": "2026-11-14T04:55:29+00:00",
  "deals": [
   {
    "id": "28f33bb19aa6",
@@ -1650,28 +1672,6 @@
    "refurb": false
   },
   {
-   "id": "f8d4c113e801",
-   "title": "Xbox Series S 512GB Refurbished and Nintendo Switch Refurbish TikTok Shop APP only",
-   "price": 422.99,
-   "old_price": null,
-   "store": "TikTok Shop",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+TikTok+Shop&sdtid=20305731&tid=20305731&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=091f8ab0dfba11f193760abc0d9525b4&au=472189a763804b7eb20e4781279e97ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+TikTok+Shop&sdtid=20305731&tid=20305731&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=091f8ab0dfba11f193760abc0d9525b4&au=472189a763804b7eb20e4781279e97ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "TikTok Shop",
-     "price": 422.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+TikTok+Shop&sdtid=20305731&tid=20305731&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=091f8ab0dfba11f193760abc0d9525b4&au=472189a763804b7eb20e4781279e97ef&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-13T20:45:28+00:00",
-   "digital": null,
-   "refurb": true
-  },
-  {
    "id": "a023822846b6",
    "title": "313-Piece Mega Pokémon Action Figure Building Set Mini Motion Golbat",
    "price": 8.93,
@@ -1692,28 +1692,6 @@
    "posted": "2026-11-13T20:38:11+00:00",
    "digital": null,
    "refurb": false
-  },
-  {
-   "id": "6cbcf9d34671",
-   "title": "Refurb: Elgato - 4K Pro – 8K60 Passthrough/4K60 Capture for PC, Nintendo Switch 2, PS5, Xbox Series X with HDMI 2.1, VRR, HDR10",
-   "price": 144.53,
-   "old_price": 299.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20305518&tid=20305518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bf73ab2dfba11f1a5c72e1d7ef2cc6f&au=cafc51277218482892afc96e68902806&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20305518&tid=20305518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bf73ab2dfba11f1a5c72e1d7ef2cc6f&au=cafc51277218482892afc96e68902806&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 144.53,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20305518&tid=20305518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bf73ab2dfba11f1a5c72e1d7ef2cc6f&au=cafc51277218482892afc96e68902806&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22344054.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-13T19:43:54+00:00",
-   "digital": null,
-   "refurb": true
   },
   {
    "id": "3db580171bc6",
@@ -1760,28 +1738,6 @@
    "refurb": false
   },
   {
-   "id": "bac0303802be",
-   "title": "Persona 5 Tactica (Nintendo Switch)",
-   "price": 10.99,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20304639&tid=20304639&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=04a9043adf8c11f19b614ef67c94676a&au=cf53b1d4f2b446e188e2cf3fb0491ff9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20304639&tid=20304639&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=04a9043adf8c11f19b614ef67c94676a&au=cf53b1d4f2b446e188e2cf3fb0491ff9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 10.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20304639&tid=20304639&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=04a9043adf8c11f19b614ef67c94676a&au=cf53b1d4f2b446e188e2cf3fb0491ff9&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22341750.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-13T17:03:57+00:00",
-   "digital": null,
-   "refurb": false
-  },
-  {
    "id": "86634a33a5bf",
    "title": "BEST BUY FS RWDS - NEXT - Precision Thumbstick 4-Pack for Nintendo Switch and Nintendo Switch 2 Pro Controllers - Multi Color",
    "price": 3.99,
@@ -1800,28 +1756,6 @@
    "kind": "hardware",
    "collector": false,
    "posted": "2026-11-13T14:34:21+00:00",
-   "digital": null,
-   "refurb": false
-  },
-  {
-   "id": "2ccd641f045e",
-   "title": "Nintendo Switch 32GB Console with Neon Blue and Neon Red Joy-Con",
-   "price": 306.0,
-   "old_price": 439.0,
-   "store": "AliExpress",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20303358&tid=20303358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01a9ea8edf6d11f1938a1ac36c870499&au=e404f118e7e34410b3ad106312f14b0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20303358&tid=20303358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01a9ea8edf6d11f1938a1ac36c870499&au=e404f118e7e34410b3ad106312f14b0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "AliExpress",
-     "price": 306.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20303358&tid=20303358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01a9ea8edf6d11f1938a1ac36c870499&au=e404f118e7e34410b3ad106312f14b0f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22337592.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-13T14:11:33+00:00",
    "digital": null,
    "refurb": false
   },
@@ -4142,7 +4076,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -4159,7 +4093,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -4202,7 +4136,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -4223,7 +4157,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "LEVEL-5",
    "digital": null,
@@ -4241,7 +4175,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -4287,7 +4221,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -4326,7 +4260,7 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4374,7 +4308,7 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": null,
@@ -4412,7 +4346,7 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -4458,7 +4392,7 @@
      "url": "https://www.walmart.com/ip/20081864427"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Stormind Games",
    "digital": null,
@@ -4502,7 +4436,7 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -4549,7 +4483,7 @@
      "url": "https://www.walmart.com/ip/20272673772"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": null,
@@ -4567,7 +4501,7 @@
    "release_date": "2026-12-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -4614,7 +4548,7 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
@@ -4632,7 +4566,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4670,7 +4604,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": null,
@@ -4699,7 +4633,7 @@
      "url": "https://www.bestbuy.com/site/6669894.p?skuId=6669894"
     }
    ],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
    "digital": null,
@@ -4716,7 +4650,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4764,7 +4698,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-13T13:37:32+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -4790,11 +4724,6 @@
      "url": "https://www.amazon.com/dp/B0HHGDQ83K"
     },
     {
-     "store": "GameStop",
-     "price": 49.99,
-     "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
-    },
-    {
      "store": "Target",
      "price": 49.99,
      "url": "https://www.target.com/p/-/A-1013451336"
@@ -4803,9 +4732,14 @@
      "store": "Best Buy",
      "price": 49.99,
      "url": "https://www.bestbuy.com/site/6691304.p?skuId=6691304"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4838,7 +4772,7 @@
      "url": "https://www.walmart.com/ip/21285952515"
     }
    ],
-   "offers_checked": "2026-11-13T18:00:22+00:00",
+   "offers_checked": "2026-11-14T04:55:46+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -4861,7 +4795,13 @@
    "offers": [],
    "first_seen": "2026-11-13T14:38:54+00:00",
    "game_key": true,
-   "nintendo": false
+   "nintendo": false,
+   "digital": {
+    "price": 17.99,
+    "url": "https://www.nintendo.com/us/store/products/moomin-midsummer-madness-switch-2/"
+   },
+   "publisher": "Shochiku",
+   "offers_checked": "2026-11-14T04:55:46+00:00"
   },
   {
    "id": "deku-metaphor-refantazio",
@@ -4873,10 +4813,42 @@
    "release": "November 12, 2026",
    "release_date": "2026-11-12",
    "collector": false,
-   "offers": [],
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0HHG6DYHY"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/metaphor-refantazio/451476.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1013451337"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6691303.p?skuId=6691303"
+    },
+    {
+     "store": "Walmart",
+     "price": 39.99,
+     "url": "https://www.walmart.com/ip/20940150125"
+    }
+   ],
    "first_seen": "2026-11-13T14:38:54+00:00",
    "game_key": true,
-   "nintendo": false
+   "nintendo": false,
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.amazon.com/dp/B0HPRB98NH"
+   },
+   "publisher": "SEGA",
+   "offers_checked": "2026-11-14T04:55:46+00:00"
   },
   {
    "id": "deku-prinny-party-going-overboard",
@@ -4891,7 +4863,13 @@
    "offers": [],
    "first_seen": "2026-11-13T14:38:54+00:00",
    "game_key": true,
-   "nintendo": false
+   "nintendo": false,
+   "digital": {
+    "price": 29.99,
+    "url": "https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-switch-2/"
+   },
+   "publisher": "NIS America",
+   "offers_checked": "2026-11-14T04:55:46+00:00"
   },
   {
    "id": "deku-dreamworks-shrek-2-remastered",
@@ -4906,7 +4884,13 @@
    "offers": [],
    "first_seen": "2026-11-13T14:38:54+00:00",
    "game_key": true,
-   "nintendo": false
+   "nintendo": false,
+   "digital": {
+    "price": 26.99,
+    "url": "https://www.nintendo.com/us/store/products/shrek-2-remastered-switch-2/"
+   },
+   "publisher": "Aspyr",
+   "offers_checked": "2026-11-14T04:55:46+00:00"
   },
   {
    "id": "deku-stellar-blade-complete-edition-steelbook-edition",
@@ -8606,5 +8590,5 @@
    "posted": "2026-11-01T15:00:25+00:00"
   }
  ],
- "updated": "2026-11-14T03:34:10+00:00"
+ "updated": "2026-11-14T04:56:58+00:00"
 }
