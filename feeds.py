@@ -1147,27 +1147,28 @@ TECH_CATS = [
     ("pc", "Computadoras", 1, r"\blaptop|notebook|macbook|chromebook|\bdesktop\b|gaming pc|mini pc|mac mini|mac studio|"
                               r"imac|all-in-one|\bnuc\b|dgx spark|workstation|surface (pro|laptop)|tuf gaming|\brog\b|legion|zenbook|"
                               r"vivobook|thinkpad|ideapad|yoga|\bomen\b|victus|predator|nitro|alienware|\bxps\b|inspiron|"
-                              r"spectre|envy|pavilion|galaxy book|razer blade"),
+                              r"spectre|envy|pavilion|galaxy book|razer blade|omnibook|elitebook|probook|copilot\+ pc"),
+    ("tablet", "Tablets y teléfonos", 5, r"\bipad\b|tablet|galaxy tab|idea ?tab|\btab \w?\d|\biphone\b|galaxy s\d|pixel \d|smartphone|"
+                                        r"apple watch|galaxy watch|smartwatch"),
     ("parts", "Componentes", 2, r"\brtx ?\d|\bgtx\b|geforce|radeon|\brx ?\d{4}|graphics card|video card|\bgpu\b|"
                                 r"\bryzen\b|intel core|core ultra|\bcpu\b|processor|motherboard|\bddr[45]\b|\bram\b|"
                                 r"\bssd\b|\bnvme\b|hard drive|\bhdd\b|power supply|\bpsu\b|nvidia|\bamd\b"),
     ("tv", "Televisores", 3, r"\btv\b|television|\boled\b|\bqled\b|mini-?led|projector|soundbar|roku|fire tv|"
                              r"chromecast|apple tv"),
-    ("monitor", "Monitores", 4, r"\bmonitor\b|display\b"),
-    ("tablet", "Tablets y teléfonos", 5, r"\bipad\b|tablet|galaxy tab|\biphone\b|galaxy s\d|pixel \d|smartphone|"
-                                        r"apple watch|galaxy watch|smartwatch"),
+    ("monitor", "Monitores", 4, r"\bmonitor\b|\b\d{2}\"? (?:\w+ )?(?:gaming )?display\b"),
     ("home", "Hogar", 20, r"vacuum|roomba|robot vac|air fryer|instant pot|pressure cooker|blender|ninja|kitchenaid|keurig|"
                           r"coffee maker|espresso|microwave|refrigerator|fridge|washer|dryer|dishwasher|air purifier|"
                           r"humidifier|space heater|\bfan\b|thermostat|smart plug|smart bulb|ring doorbell|security camera|"
                           r"\bnest\b|alexa|echo (dot|show)|mattress|cookware|knife set|dyson|shark|tool set|drill|"
-                          r"\bdewalt\b|milwaukee|ryobi|grill|lawn"),
+                          r"\bdewalt\b|milwaukee|ryobi|craftsman|\bego\b|snow|shovel|blower|mower|chainsaw|trimmer|grill|lawn|"
+                          r"tape measure"),
     ("audio", "Audio", 6, r"airpods|headphones|earbuds|headset|speaker|bose|sonos|\bjbl\b|beats"),
     ("net", "Redes y accesorios", 7, r"router|mesh wi-?fi|wifi 7|\bnas\b|keyboard|mouse|webcam|usb-?c hub|dock(ing)? station|"
                                      r"charger|power bank|microsd|flash drive|external drive|printer"),
 ]
 TECH_RES = [(c, label, prio, re.compile(rx, re.I)) for c, label, prio, rx in TECH_CATS]
 # Cosas que no van en esta pestaña: videojuegos/consolas (van en Inicio), ropa, comida, servicios
-TECH_SKIP = re.compile(r"\b\d+(\.\d+)?-?\s?oz\b|k-?cups?|starbucks|drink|\bcoffee\b(?! maker)|nintendo|switch 2|\bps5\b|playstation|xbox|steam deck|\bgame\b|video game|amiibo|pok[eé]mon|"
+TECH_SKIP = re.compile(r"rog ally|legion go|handheld|\b\d+(\.\d+)?-?\s?oz\b|k-?cups?|starbucks|drink|\bcoffee\b(?! maker)|nintendo|switch 2|\bps5\b|playstation|xbox|steam deck|\bgame\b|video game|amiibo|pok[eé]mon|"
                        r"gift card|subscription|\bapp\b|t-?shirt|shoes|jacket|hoodie|\bfood\b|snack|coffee beans|"
                        r"vitamin|supplement|credit card|\bcasino\b", re.I)
 TECH_KEEP_DAYS = 5
