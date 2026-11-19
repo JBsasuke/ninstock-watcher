@@ -479,6 +479,13 @@ def write_feed(catalog, state):
             rd = card.get("release_date") if card else None
         release_dates[p["id"]] = rd
 
+    # Pestaña Tecnología y Hogar
+    try:
+        raw_tech, tech = feeds.fetch_tech(old.get("raw_tech", []), log)
+    except Exception as e:
+        log(f"tecnología falló ({e.__class__.__name__}): se mantienen las de antes")
+        raw_tech, tech = old.get("raw_tech", []), old.get("tech", [])
+
     feed = {
         "version": 4,
         "raw_slick": slick,
@@ -508,6 +515,8 @@ def write_feed(catalog, state):
             for p in catalog
         ],
         "news": feeds.fetch_news(old.get("news", []), log),
+        "raw_tech": raw_tech,
+        "tech": tech,
     }
     if {k: v for k, v in old.items() if k != "updated"} == feed:
         log("feed.json sin cambios")
