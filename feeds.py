@@ -1130,3 +1130,138 @@ def fetch_deku_rows(url):
         pass
     return None, None
 
+
+
+# ------------------------------------------------------------------ Tecnología y Hogar (pestaña aparte)
+# Ofertas de todo lo electrónico (computadoras, TV, mini PC, componentes...) y del hogar.
+# La tecnología siempre va arriba; los videojuegos y consolas no entran aquí (van en Inicio).
+TECH_FEEDS = [
+    "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
+] + [f"https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q={q}" for q in (
+    "laptop", "tv", "monitor", "mini+pc", "mac+mini", "macbook", "ipad", "nvidia", "rtx", "radeon", "ryzen",
+    "intel+core", "ssd", "desktop", "gaming+pc", "airpods", "headphones", "router", "dgx+spark")]
+
+# (categoría, etiqueta, prioridad: más bajo = más arriba, regex)
+TECH_CATS = [
+    ("pc", "Computadoras", 1, r"\blaptop|notebook|macbook|chromebook|\bdesktop\b|gaming pc|mini pc|mac mini|mac studio|"
+                              r"imac|all-in-one|\bnuc\b|dgx spark|workstation|surface (pro|laptop)"),
+    ("parts", "Componentes", 2, r"\brtx ?\d|\bgtx\b|geforce|radeon|\brx ?\d{4}|graphics card|video card|\bgpu\b|"
+                                r"\bryzen\b|intel core|core ultra|\bcpu\b|processor|motherboard|\bddr[45]\b|\bram\b|"
+                                r"\bssd\b|\bnvme\b|hard drive|\bhdd\b|power supply|\bpsu\b|nvidia|\bamd\b"),
+    ("tv", "Televisores", 3, r"\btv\b|television|\boled\b|\bqled\b|mini-?led|projector|soundbar|roku|fire tv|"
+                             r"chromecast|apple tv"),
+    ("monitor", "Monitores", 4, r"\bmonitor\b|display\b"),
+    ("tablet", "Tablets y teléfonos", 5, r"\bipad\b|tablet|galaxy tab|\biphone\b|galaxy s\d|pixel \d|smartphone|"
+                                        r"apple watch|galaxy watch|smartwatch"),
+    ("audio", "Audio", 6, r"airpods|headphones|earbuds|headset|speaker|bose|sonos|\bjbl\b|beats"),
+    ("net", "Redes y accesorios", 7, r"router|mesh wi-?fi|wifi 7|\bnas\b|keyboard|mouse|webcam|usb-?c hub|dock(ing)? station|"
+                                     r"charger|power bank|microsd|flash drive|external drive|printer"),
+    ("home", "Hogar", 20, r"vacuum|roomba|robot vac|air fryer|instant pot|pressure cooker|blender|ninja|kitchenaid|keurig|"
+                          r"coffee maker|espresso|microwave|refrigerator|fridge|washer|dryer|dishwasher|air purifier|"
+                          r"humidifier|space heater|\bfan\b|thermostat|smart plug|smart bulb|ring doorbell|security camera|"
+                          r"\bnest\b|alexa|echo (dot|show)|mattress|cookware|knife set|dyson|shark|tool set|drill|"
+                          r"\bdewalt\b|milwaukee|ryobi|grill|lawn"),
+]
+TECH_RES = [(c, label, prio, re.compile(rx, re.I)) for c, label, prio, rx in TECH_CATS]
+# Cosas que no van en esta pestaña: videojuegos/consolas (van en Inicio), ropa, comida, servicios
+TECH_SKIP = re.compile(r"nintendo|switch 2|\bps5\b|playstation|xbox|steam deck|\bgame\b|video game|amiibo|pok[eé]mon|"
+                       r"gift card|subscription|\bapp\b|t-?shirt|shoes|jacket|hoodie|\bfood\b|snack|coffee beans|"
+                       r"vitamin|supplement|credit card|\bcasino\b", re.I)
+TECH_KEEP_DAYS = 5
+TECH_MAX = 120
+TECH_LOOKUPS = 20        # páginas de oferta que se abren por corrida (para el link directo y el precio real)
+
+
+def tech_category(title):
+    if TECH_SKIP.search(title):
+        return None
+    for c, label, prio, rx in TECH_RES:
+        if rx.search(title):
+            return c, label, prio
+    return None
+
+
+def fetch_tech(previous, log):
+    deals = {d["id"]: d for d in previous or []}
+    for url in TECH_FEEDS:
+        try:
+            for it in _items(url):
+                t = it["title"]
+                if not it["link"]:
+                    continue
+                cat = tech_category(t)
+                if not cat:
+                    continue
+                did = "t" + hashlib.md5(it["link"].encode()).hexdigest()[:11]
+                prev = deals.get(did) or {}
+                price, old = _prices(t)
+                d = {"id": did, "title": t, "price": price, "old_price": old, "store": _store(t),
+                     "url": it["link"], "image": it["image"] or prev.get("image"),
+                     "posted": it["date"].isoformat(timespec="seconds"),
+                     "cat": cat[0], "cat_label": cat[1], "prio": cat[2], "refurb": bool(IS_REFURB.search(t))}
+                for k in ("store_url", "checked_at", "expired", "real_price", "real_old", "store"):
+                    if k in prev and prev[k]:
+                        d[k] = prev[k]
+                deals[did] = d
+        except Exception as e:
+            log(f"  tecnología: fuente falló ({e.__class__.__name__})")
+        time.sleep(0.5)
+    cutoff = _now() - datetime.timedelta(days=TECH_KEEP_DAYS)
+    fresh = [d for d in deals.values() if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
+    # abrir la página de las que aún no tienen link directo (las más nuevas primero) o que hace 6 h no se miran
+    lookups = 0
+    order = sorted(fresh, key=lambda d: d.get("posted") or "", reverse=True)     # lo más nuevo primero
+    order.sort(key=lambda d: bool(d.get("checked_at")))                           # y antes las nunca revisadas
+    for d in order:
+        if lookups >= TECH_LOOKUPS:
+            break
+        if d.get("expired"):
+            continue
+        if d.get("checked_at"):
+            try:
+                if _now() - datetime.datetime.fromisoformat(d["checked_at"]) < datetime.timedelta(hours=RECHECK_H):
+                    continue
+            except ValueError:
+                pass
+        lookups += 1
+        img, store_url, store, click, info = _deal_page(d["url"])
+        d["checked_at"] = _now().isoformat(timespec="seconds")
+        if info.get("expired"):
+            d["expired"] = True
+        if info.get("price"):
+            d["real_price"] = info["price"]
+            d["real_old"] = info["list"] if info.get("list", 0) > info["price"] else None
+        if img and not real_image(d.get("image")):
+            d["image"] = img
+        if store:
+            d["store"] = store
+        link = store_url or click
+        if link and is_direct(link):
+            d["store_url"] = link
+        time.sleep(1)
+    out, seen = [], set()
+    for d in fresh:
+        if d.get("real_price"):
+            d["price"], d["old_price"] = d["real_price"], d.get("real_old")
+        key = re.sub(r"[^a-z0-9]+", " ", clean_name(d["title"]).lower()).strip()[:60]
+        if (d.get("expired") or not d.get("store_url") or not real_image(d.get("image")) or d.get("price") is None
+                or key in seen or BAD_STORE.search(d.get("store") or "")):
+            continue
+        seen.add(key)
+        out.append(d)
+    # tecnología arriba (por tipo), hogar abajo; dentro de cada grupo, lo más nuevo primero
+    out.sort(key=lambda d: d["posted"], reverse=True)
+    out.sort(key=lambda d: 0 if d["prio"] < 20 else 1)
+    keep = sorted(fresh, key=lambda d: d["posted"], reverse=True)[:TECH_MAX * 2]
+    log(f"tecnología y hogar: {len(out)} ofertas listas ({lookups} páginas revisadas)")
+    for d in out:   # nunca mostrar "Slickdeals" como tienda
+        if not d.get("store") or d["store"] == "Slickdeals":
+            d["store"] = store_from_url(d["store_url"]) or "Tienda"
+    app = [{"id": d["id"], "title": clean_name(d["title"]), "price": d["price"], "old_price": d.get("old_price"),
+            "store": d["store"], "store_url": d["store_url"], "url": d["store_url"],
+            "image": d["image"], "posted": d["posted"], "kind": "tech", "section": "home" if d["prio"] >= 20 else "tech",
+            "cat": d["cat"], "cat_label": d["cat_label"], "refurb": d.get("refurb", False),
+            "offers": [{"store": d["store"], "price": d["price"], "url": d["store_url"]}]}
+           for d in out[:TECH_MAX]]
+    return keep, app
