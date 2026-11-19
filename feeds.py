@@ -209,13 +209,13 @@ def _deal_page(url):
         if r.status_code != 200:
             return None, None, None, None, info
         page = r.text
-        fp = re.search(r'"finalPrice":"?([\d.]+)', page)
-        lp = re.search(r'"listPrice":"?([\d.]+)', page)
+        fp = re.search(r'"finalPrice":"?([\d,]+(?:\.\d+)?)', page)
+        lp = re.search(r'"listPrice":"?([\d,]+(?:\.\d+)?)', page)
         ex = re.search(r'"isExpiredDeal":"?(Yes|No|true|false)', page, re.I)
         if fp:
-            info["price"] = float(fp.group(1))
+            info["price"] = float(fp.group(1).replace(",", ""))
         if lp:
-            info["list"] = float(lp.group(1))
+            info["list"] = float(lp.group(1).replace(",", ""))
         if ex:
             info["expired"] = ex.group(1).lower() in ("yes", "true")
         pc = re.search(r'"primaryCategory":"([^"]*)"', page)
@@ -1145,7 +1145,9 @@ TECH_FEEDS = [
 # (categoría, etiqueta, prioridad: más bajo = más arriba, regex)
 TECH_CATS = [
     ("pc", "Computadoras", 1, r"\blaptop|notebook|macbook|chromebook|\bdesktop\b|gaming pc|mini pc|mac mini|mac studio|"
-                              r"imac|all-in-one|\bnuc\b|dgx spark|workstation|surface (pro|laptop)"),
+                              r"imac|all-in-one|\bnuc\b|dgx spark|workstation|surface (pro|laptop)|tuf gaming|\brog\b|legion|zenbook|"
+                              r"vivobook|thinkpad|ideapad|yoga|\bomen\b|victus|predator|nitro|alienware|\bxps\b|inspiron|"
+                              r"spectre|envy|pavilion|galaxy book|razer blade"),
     ("parts", "Componentes", 2, r"\brtx ?\d|\bgtx\b|geforce|radeon|\brx ?\d{4}|graphics card|video card|\bgpu\b|"
                                 r"\bryzen\b|intel core|core ultra|\bcpu\b|processor|motherboard|\bddr[45]\b|\bram\b|"
                                 r"\bssd\b|\bnvme\b|hard drive|\bhdd\b|power supply|\bpsu\b|nvidia|\bamd\b"),
@@ -1154,18 +1156,18 @@ TECH_CATS = [
     ("monitor", "Monitores", 4, r"\bmonitor\b|display\b"),
     ("tablet", "Tablets y teléfonos", 5, r"\bipad\b|tablet|galaxy tab|\biphone\b|galaxy s\d|pixel \d|smartphone|"
                                         r"apple watch|galaxy watch|smartwatch"),
-    ("audio", "Audio", 6, r"airpods|headphones|earbuds|headset|speaker|bose|sonos|\bjbl\b|beats"),
-    ("net", "Redes y accesorios", 7, r"router|mesh wi-?fi|wifi 7|\bnas\b|keyboard|mouse|webcam|usb-?c hub|dock(ing)? station|"
-                                     r"charger|power bank|microsd|flash drive|external drive|printer"),
     ("home", "Hogar", 20, r"vacuum|roomba|robot vac|air fryer|instant pot|pressure cooker|blender|ninja|kitchenaid|keurig|"
                           r"coffee maker|espresso|microwave|refrigerator|fridge|washer|dryer|dishwasher|air purifier|"
                           r"humidifier|space heater|\bfan\b|thermostat|smart plug|smart bulb|ring doorbell|security camera|"
                           r"\bnest\b|alexa|echo (dot|show)|mattress|cookware|knife set|dyson|shark|tool set|drill|"
                           r"\bdewalt\b|milwaukee|ryobi|grill|lawn"),
+    ("audio", "Audio", 6, r"airpods|headphones|earbuds|headset|speaker|bose|sonos|\bjbl\b|beats"),
+    ("net", "Redes y accesorios", 7, r"router|mesh wi-?fi|wifi 7|\bnas\b|keyboard|mouse|webcam|usb-?c hub|dock(ing)? station|"
+                                     r"charger|power bank|microsd|flash drive|external drive|printer"),
 ]
 TECH_RES = [(c, label, prio, re.compile(rx, re.I)) for c, label, prio, rx in TECH_CATS]
 # Cosas que no van en esta pestaña: videojuegos/consolas (van en Inicio), ropa, comida, servicios
-TECH_SKIP = re.compile(r"nintendo|switch 2|\bps5\b|playstation|xbox|steam deck|\bgame\b|video game|amiibo|pok[eé]mon|"
+TECH_SKIP = re.compile(r"\b\d+(\.\d+)?-?\s?oz\b|k-?cups?|starbucks|drink|\bcoffee\b(?! maker)|nintendo|switch 2|\bps5\b|playstation|xbox|steam deck|\bgame\b|video game|amiibo|pok[eé]mon|"
                        r"gift card|subscription|\bapp\b|t-?shirt|shoes|jacket|hoodie|\bfood\b|snack|coffee beans|"
                        r"vitamin|supplement|credit card|\bcasino\b", re.I)
 TECH_KEEP_DAYS = 5
@@ -1207,6 +1209,14 @@ def fetch_tech(previous, log):
         except Exception as e:
             log(f"  tecnología: fuente falló ({e.__class__.__name__})")
         time.sleep(0.5)
+    for d in deals.values():   # precios mal leídos antes (ej. "1" de "1,299"): volver a revisar
+        if d.get("real_price") is not None and d["real_price"] < 5:
+            d.pop("real_price", None); d.pop("real_old", None); d.pop("checked_at", None)
+        cat = tech_category(d["title"])           # reclasificar con las reglas nuevas
+        if cat:
+            d["cat"], d["cat_label"], d["prio"] = cat
+        else:
+            d["expired"] = True
     cutoff = _now() - datetime.timedelta(days=TECH_KEEP_DAYS)
     fresh = [d for d in deals.values() if datetime.datetime.fromisoformat(d["posted"]) >= cutoff]
     # abrir la página de las que aún no tienen link directo (las más nuevas primero) o que hace 6 h no se miran
