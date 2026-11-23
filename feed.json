@@ -14,13 +14,13 @@
    "posted": "2026-11-23T22:20:36+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-23T22:24:26+00:00",
-   "category_ok": true,
-   "real_price": 19.93,
-   "real_old": 24.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374854&pno=1372302&prop=diavail-true%7Cdincp-1%7Cdinpd-19%7Cdipgavail-true&pv=a449cc92e78c11f1b08ca63b62af86b5&au=be9920e0d8144618b0a6e119981fae1d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T22:24:26+00:00",
+   "real_price": 19.93,
+   "real_old": 24.99,
+   "category_ok": true
   },
   {
    "id": "fb0491666adb",
@@ -11333,10 +11333,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/11940364715",
    "checked_at": "2026-11-23T22:25:21+00:00",
    "real_price": 169.95,
-   "real_old": 299.95,
-   "store_url": "https://www.walmart.com/ip/11940364715"
+   "real_old": 299.95
   },
   {
    "id": "te19ae7c74a5",
@@ -11351,10 +11351,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/17374970774",
    "checked_at": "2026-11-23T22:25:23+00:00",
    "real_price": 279.99,
-   "real_old": 399.99,
-   "store_url": "https://www.walmart.com/ip/17374970774"
+   "real_old": 399.99
   },
   {
    "id": "tf12f7040966",
@@ -11369,9 +11369,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "DREAMERV05",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20304948&pno=1372290&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d277f294e78a11f1a62796fe147dd7f2&au=0941e43e00ff47d0bebf359a4e7e31c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T22:11:25+00:00",
    "real_price": 199.0,
@@ -11554,9 +11551,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -11675,6 +11669,24 @@
    "checked_at": "2026-11-23T19:48:28+00:00",
    "real_price": 12.91,
    "real_old": 29.99
+  },
+  {
+   "id": "t72aefb392a3",
+   "title": "Lenovo Accounts: Yoga Tab - Snapdragon 8 Gen 3, 11.1\" 144Hz, 12GB RAM, 256GB UFS 4.0 w/ Keyboard & Pen - $379.99",
+   "price": 380.0,
+   "old_price": 660.0,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20379987-lenovo-accounts-yoga-tab-snapdragon-8-gen-3-11-1-144hz-12gb-ram-256gb-ufs-4-0-w-keyboard-pen-379-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/7/6/7/8/0/6/300x300/22546908.thumb",
+   "posted": "2026-11-23T19:31:49+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-23T22:29:58+00:00",
+   "real_price": 380.0,
+   "real_old": 660.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20379987&tid=20379987&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6a5088fee78d11f1ae443ad29bc0f464&au=a6401a833bbf481ea6225e2079329934&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t26469c93f52",
@@ -11875,8 +11887,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c72adcb0e78c11f1a4362a3525c0b165&au=64b9a0e455c748b8b3912b49ca20afe7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T22:25:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b997234e78d11f19a6cea1872aeed82&au=a826e2f75c9449278df5b1e3c0d5a0e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T22:30:01+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14804,8 +14816,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c8536544e78c11f1ac9fe69b63e4651d&au=e987859aa7dc475aa81470a280753843&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T22:25:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d4f14d0e78d11f196100aaf12b3b72c&au=ee80e747c9e64a9586605c5a426992d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T22:30:04+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -14876,8 +14888,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9a463d0e78c11f1b21c8af2fbc4f239&au=f50d339d562f4bc2979224f55fb68015&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T22:25:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6ef1e7a4e78d11f1a3c0ee3f68672930&au=ba780030bcba4351a0492381ad70f076&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T22:30:06+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -15147,9 +15159,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20359284&pno=1370358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b9150866e5c111f1b5895203a9087548&au=71c4ee69036b425381bc68ef442b2962&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-21T15:39:22+00:00",
    "real_price": 949.99,
@@ -15640,24 +15649,6 @@
    "real_price": 179.0,
    "real_old": 249.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20361792&tid=20361792&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3bac9efee57e11f1a4396e25f3805cd9&au=3e91a833bf9a4a6188ac26d289737762&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "te5da8fa3128",
-   "title": "$149: DEWALT DCS359B 20V MAX XR Oscillating Multi-Tool at Fasteners Inc",
-   "price": 149.0,
-   "old_price": 249.0,
-   "store": "Fasteners Inc",
-   "url": "https://slickdeals.net/f/20361783-149-dewalt-dcs359b-20v-max-xr-oscillating-multi-tool-at-fasteners-inc?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22503492.thumb",
-   "posted": "2026-11-21T05:30:06+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-21T07:36:17+00:00",
-   "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20361783&tid=20361783&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3cdf33f4e57e11f192f2d2f06b6502c3&au=6ac8b6b9711b404cb2d9553aa336a46f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -16009,6 +16000,33 @@
      "store": "Amazon",
      "price": 32.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20357202&pno=1369869&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1fa19f66e54211f1bbb1fe4aab4804d8&au=3c118d4ab15e440ab6aa790ec2dd4b70&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t72aefb392a3",
+   "title": "Lenovo Accounts: Yoga Tab - Snapdragon 8 Gen 3, 11.1\" 144Hz, 12GB RAM, 256GB UFS 4.0",
+   "price": 380.0,
+   "old_price": 660.0,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20379987&tid=20379987&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6a5088fee78d11f1ae443ad29bc0f464&au=a6401a833bbf481ea6225e2079329934&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20379987&tid=20379987&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6a5088fee78d11f1ae443ad29bc0f464&au=a6401a833bbf481ea6225e2079329934&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/7/6/7/8/0/6/300x300/22546908.thumb",
+   "posted": "2026-11-23T19:31:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 380.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20379987&tid=20379987&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6a5088fee78d11f1ae443ad29bc0f464&au=a6401a833bbf481ea6225e2079329934&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18861,34 +18879,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+LG+Electronics&sdtid=20360583&pno=1370715&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=98328074e64d11f18d412e06c157e3d5&au=ff1dc73d43a84686919a1af757534179&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t86f13ef0052",
-   "title": "Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD & More + Free S&H",
-   "price": 1849.0,
-   "old_price": 1999.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20339487&pno=1370676&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d7b954ce61311f18a5956808124360d&au=0fd61f35df47447aadcdfa0116f6640c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20339487&pno=1370676&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d7b954ce61311f18a5956808124360d&au=0fd61f35df47447aadcdfa0116f6640c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22438422.thumb",
-   "posted": "2026-11-22T00:42:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 1849.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20339487&pno=1370676&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d7b954ce61311f18a5956808124360d&au=0fd61f35df47447aadcdfa0116f6640c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-23T22:26:17+00:00"
+ "updated": "2026-11-23T22:30:56+00:00"
 }
