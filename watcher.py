@@ -35,6 +35,7 @@ HISTORY_DAYS = 400
 GENERAL_TOPIC = "ninstock-alerts"   # coleccionistas: disponibles y ediciones nuevas
 DEALS_TOPIC = "ninstock-deals"      # ofertas buenas (30 % o más)
 GOOD_DEAL_PCT = 30
+MAX_GLITCH_ALERTS = 8       # avisos de errores de precio por corrida
 MAX_DEAL_ALERTS = 15        # avisos de ofertas buenas por corrida (las demás, en la próxima)
 DROP_PCT = 10                       # bajada mínima para avisar de un juego guardado
 TZ = "America/New_York"
@@ -489,12 +490,25 @@ def write_feed(catalog, state):
             rd = card.get("release_date") if card else None
         release_dates[p["id"]] = rd
 
-    # Pestaña Tecnología y Hogar
+    # Errores de precio (juegos, tecnología, hogar...): aviso fuerte, una sola vez por oferta
+    glitch_done = state.setdefault("_glitch_notified", [])
     try:
         raw_tech, tech = feeds.fetch_tech(old.get("raw_tech", []), log)
     except Exception as e:
         log(f"tecnología falló ({e.__class__.__name__}): se mantienen las de antes")
         raw_tech, tech = old.get("raw_tech", []), old.get("tech", [])
+    if not first_run:
+        nuevos = [d for d in deals + tech if d.get("glitch") and d["id"] not in set(glitch_done)]
+        for d in nuevos[:MAX_GLITCH_ALERTS]:
+            antes = f" (antes ${d['old_price']:.2f})" if d.get("old_price") else ""
+            pct = pct_off(d.get("price"), d.get("old_price"))
+            notify("⚡ ¡Posible error de precio!" + (f" -{pct}%" if pct else ""),
+                   f"{d['title']}: ${d['price']:.2f}{antes} en {d['store']}. Puede durar poco.",
+                   d.get("store_url") or d["url"], topics=(DEALS_TOPIC, GENERAL_TOPIC), urgent=True)
+            glitch_done.append(d["id"])
+            state_changed = True
+        if len(glitch_done) > 500:
+            del glitch_done[:-500]
 
     feed = {
         "version": 4,
