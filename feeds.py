@@ -308,6 +308,26 @@ def find_code(text, posted=None):
     return code, until
 
 
+def promo_until(text, posted=None):
+    """Fecha de fin dicha en el texto ("Valid thru 11/30"), como 'AAAA-MM-DD', o None."""
+    m = CODE_END_RE.search(text or "")
+    if not m:
+        return None
+    base = (posted or _now()).date()
+    try:
+        if m.group(1):
+            mo, day, yr = int(m.group(1)), int(m.group(2)), m.group(3)
+        else:
+            mo, day, yr = _MESES[m.group(4).lower()[:3]], int(m.group(5)), m.group(6)
+        year = (int(yr) + 2000 if yr and int(yr) < 100 else int(yr)) if yr else base.year
+        dt = datetime.date(year, mo, day)
+        if not yr and (base - dt).days > 60:
+            dt = datetime.date(year + 1, mo, day)
+        return dt.isoformat() if (dt - base).days <= 120 else None
+    except (ValueError, KeyError):
+        return None
+
+
 def code_expired(d):
     """El código ya venció (se da todo ese día por válido, hora del Pacífico)."""
     u = d.get("code_until")
@@ -1257,7 +1277,7 @@ TECH_FEEDS = [
     "laptop", "tv", "monitor", "mini+pc", "mac+mini", "macbook", "ipad", "nvidia", "rtx", "radeon", "ryzen",
     "intel+core", "ssd", "desktop", "gaming+pc", "airpods", "headphones", "router", "dgx+spark",
     "price+mistake", "price+error", "glitch",
-    "promo+code", "coupon+code", "samsung", "lg", "lenovo", "dell", "hp", "sony", "apple", "google+pixel")]
+    "promo+code", "coupon+code", "sitewide", "storewide", "coupon", "extra+off", "samsung", "lg", "lenovo", "dell", "hp", "sony", "apple", "google+pixel")]
 
 # (categoría, etiqueta, prioridad: más bajo = más arriba, regex)
 TECH_CATS = [
@@ -1294,6 +1314,23 @@ CODE_RECHECK_H = 2       # las ofertas con código se vuelven a mirar cada 2 h; 
 TECH_LOOKUPS = 25        # páginas de oferta que se abren por corrida (para el link directo y el precio real)
 
 
+# Promos de toda la tienda ("Samsung: Extra 30% Off w/ code", "40% Off Sitewide"): no traen precio, sino un porcentaje
+PROMO_PCT_RE = re.compile(r"(?:up to\s+)?(?:(?:an\s+)?extra\s+)?\d{1,2}%\s*off", re.I)
+PROMO_WORD_RE = re.compile(r"site-?wide|store-?wide|entire (?:store|site|order|purchase)|everything|coupon|promo code|\bcode\b", re.I)
+PROMO_SKIP = re.compile(r"subscription|subscribers?|members?\b|gift card|credit card|\bcasino\b|\bymmv\b|chase offer|amex offer|"
+                        r"tickets?|\bplan\b|audible|rebate", re.I)
+
+
+def store_promo(title, price, has_code):
+    """Texto de la promo ("Extra 30% Off") si la oferta es un descuento general de tienda, sin precio."""
+    if price is not None or PROMO_SKIP.search(title):
+        return None
+    m = PROMO_PCT_RE.search(title)
+    if not m or not (has_code or PROMO_WORD_RE.search(title)):
+        return None
+    return re.sub(r"\s+", " ", m.group(0)).strip().capitalize().replace("% off", "% Off")
+
+
 TECH_BRANDS = re.compile(r"samsung|\blg\b|lenovo|\bdell\b|\bhp\b|\basus\b|\bacer\b|\bmsi\b|\bsony\b|\bapple\b|"
                          r"google|pixel|motorola|oneplus|anker|ugreen|logitech|razer|corsair|best buy|newegg|"
                          r"b&h|micro center|\bphone\b|\b5g\b|unlocked", re.I)
@@ -1321,18 +1358,24 @@ def fetch_tech(previous, log):
                 if not it["link"]:
                     continue
                 code, until = find_code(it.get("desc"), it["date"])
-                cat = tech_category(t, bool(code))
+                price, old = _prices(t)
+                promo = store_promo(t, price, bool(code))
+                if promo:
+                    cat = ("cupones", "Códigos de tienda", 16)
+                    if not until:          # fecha dicha en el título: "Valid thru 11/30", "Ends December 4, 2026"
+                        until = promo_until(t, it["date"])
+                else:
+                    cat = tech_category(t, bool(code))
                 if not cat:
                     continue
                 did = "t" + hashlib.md5(it["link"].encode()).hexdigest()[:11]
                 prev = deals.get(did) or {}
-                price, old = _prices(t)
                 d = {"id": did, "title": t, "price": price, "old_price": old, "store": _store(t),
                      "url": it["link"], "image": it["image"] or prev.get("image"),
                      "posted": it["date"].isoformat(timespec="seconds"),
                      "cat": cat[0], "cat_label": cat[1], "prio": cat[2], "refurb": bool(IS_REFURB.search(t))}
-                if code:
-                    d["code"], d["code_until"] = code, until
+                if code or promo:
+                    d["code"], d["code_until"], d["promo"] = code, until, promo
                 for k in ("store_url", "checked_at", "expired", "real_price", "real_old", "store"):
                     if k in prev and prev[k]:
                         d[k] = prev[k]
@@ -1344,6 +1387,8 @@ def fetch_tech(previous, log):
         if d.get("real_price") is not None and d["real_price"] < 5:
             d.pop("real_price", None); d.pop("real_old", None); d.pop("checked_at", None)
         cat = tech_category(d["title"], bool(d.get("code")))           # reclasificar con las reglas nuevas
+        if d.get("promo"):
+            cat = ("cupones", "Códigos de tienda", 16)
         if cat:
             d["cat"], d["cat_label"], d["prio"] = cat
         else:
@@ -1361,7 +1406,7 @@ def fetch_tech(previous, log):
             continue
         if d.get("checked_at"):
             try:
-                horas = CODE_RECHECK_H if d.get("code") else RECHECK_H
+                horas = CODE_RECHECK_H if (d.get("code") or d.get("promo")) else RECHECK_H
                 if _now() - datetime.datetime.fromisoformat(d["checked_at"]) < datetime.timedelta(hours=horas):
                     continue
             except ValueError:
@@ -1387,8 +1432,14 @@ def fetch_tech(previous, log):
         if d.get("real_price"):
             d["price"], d["old_price"] = d["real_price"], d.get("real_old")
         key = re.sub(r"[^a-z0-9]+", " ", clean_name(d["title"]).lower()).strip()[:60]
-        if (d.get("expired") or code_expired(d) or not d.get("store_url") or not real_image(d.get("image"))
-                or d.get("price") is None or key in seen or BAD_STORE.search(d.get("store") or "")):
+        es_promo = bool(d.get("promo"))     # las promos de tienda no llevan precio y pueden no tener foto
+        if not es_promo and (not real_image(d.get("image")) or d.get("price") is None):
+            continue
+        if es_promo:
+            d["price"] = d["old_price"] = None
+            d["image"] = real_image(d.get("image"))
+        if (d.get("expired") or code_expired(d) or not d.get("store_url")
+                or key in seen or BAD_STORE.search(d.get("store") or "")):
             continue
         seen.add(key)
         out.append(d)
@@ -1404,8 +1455,9 @@ def fetch_tech(previous, log):
             "store": d["store"], "store_url": d["store_url"], "url": d["store_url"],
             "image": d["image"], "posted": d["posted"], "kind": "tech", "section": "home" if d["prio"] >= 20 else "tech",
             "cat": d["cat"], "cat_label": d["cat_label"], "refurb": d.get("refurb", False),
-            "glitch": bool(GLITCH_RE.search(d["title"])) or (d["price"] >= 1 and _disc(d) >= GLITCH_PCT),
-            "code": d.get("code"), "code_until": d.get("code_until"),
-            "offers": [{"store": d["store"], "price": d["price"], "url": d["store_url"]}]}
+            "glitch": d["price"] is not None and (bool(GLITCH_RE.search(d["title"]))
+                                                  or (d["price"] >= 1 and _disc(d) >= GLITCH_PCT)),
+            "code": d.get("code"), "code_until": d.get("code_until"), "promo": d.get("promo"),
+            "offers": [{"store": d["store"], "price": d["price"], "url": d["store_url"]}] if d["price"] is not None else []}
            for d in out[:TECH_MAX]]
     return keep, app
