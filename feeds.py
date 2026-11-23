@@ -360,6 +360,12 @@ def _apply_real_price(d):
         d["old_price"] = d.get("real_old")
 
 
+# Errores de precio: Slickdeals los marca en el título, o el descuento es enorme (85 % o más)
+GLITCH_RE = re.compile(r"price mistake|price error|pricing error|pricing mistake|price glitch|\bglitch\b|"
+                       r"possible mistake|misprice", re.I)
+GLITCH_PCT = 85
+
+
 def _disc(d):
     p, o = d.get("price"), d.get("old_price")
     return round((1 - p / o) * 100) if p and o and o > p else 0
@@ -1109,7 +1115,14 @@ def merge_deals(deals):
             continue   # sin link bueno a una tienda o sin foto del producto: no se muestra
         best = ranked[0]
         olds = [d["old_price"] for d in items if d.get("old_price")]
+        # juegos y accesorios: un "precio normal" de más de $90 no es creíble (viene de vendedores externos);
+        # solo se acepta en consolas y ediciones de coleccionista
+        es_consola = any(re.search(r"console|system|\boled\b|\blite\b", d.get("title", ""), re.I) for d in items)
+        if not es_consola and not any(d.get("collector") for d in items):
+            olds = [o for o in olds if o <= 90]
         old = max(olds) if olds and max(olds) > best["price"] else None
+        pct = round((1 - best["price"] / old) * 100) if old and best["price"] else 0
+        glitch = any(GLITCH_RE.search(d.get("title", "")) for d in items) or pct >= GLITCH_PCT
         deku = next((d for d in items if d.get("source") == "dekudeals"), None)
         name = clean_name((deku or min(items, key=lambda d: len(d["title"])))["title"])
         out.append({
@@ -1127,6 +1140,7 @@ def merge_deals(deals):
             "posted": max((d.get("posted") or "") for d in items),
             "digital": next((d["digital"] for d in items if d.get("digital")), None),
             "refurb": any(d.get("refurb") for d in items),
+            "glitch": glitch,
         })
     out.sort(key=lambda d: d["posted"], reverse=True)
     return out
@@ -1179,7 +1193,8 @@ TECH_FEEDS = [
     "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
 ] + [f"https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q={q}" for q in (
     "laptop", "tv", "monitor", "mini+pc", "mac+mini", "macbook", "ipad", "nvidia", "rtx", "radeon", "ryzen",
-    "intel+core", "ssd", "desktop", "gaming+pc", "airpods", "headphones", "router", "dgx+spark")]
+    "intel+core", "ssd", "desktop", "gaming+pc", "airpods", "headphones", "router", "dgx+spark",
+    "price+mistake", "price+error", "glitch")]
 
 # (categoría, etiqueta, prioridad: más bajo = más arriba, regex)
 TECH_CATS = [
@@ -1221,6 +1236,8 @@ def tech_category(title):
     for c, label, prio, rx in TECH_RES:
         if rx.search(title):
             return c, label, prio
+    if GLITCH_RE.search(title):          # error de precio de cualquier otra cosa
+        return "otros", "Otros", 15
     return None
 
 
@@ -1312,6 +1329,7 @@ def fetch_tech(previous, log):
             "store": d["store"], "store_url": d["store_url"], "url": d["store_url"],
             "image": d["image"], "posted": d["posted"], "kind": "tech", "section": "home" if d["prio"] >= 20 else "tech",
             "cat": d["cat"], "cat_label": d["cat_label"], "refurb": d.get("refurb", False),
+            "glitch": bool(GLITCH_RE.search(d["title"])) or (d["price"] >= 1 and _disc(d) >= GLITCH_PCT),
             "offers": [{"store": d["store"], "price": d["price"], "url": d["store_url"]}]}
            for d in out[:TECH_MAX]]
     return keep, app
