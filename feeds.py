@@ -53,7 +53,7 @@ ALDIA_NINTENDO = re.compile(r"nintendo|switch|zelda|mario|pok[eé]mon|kirby|metr
 
 KEEP_DAYS = 14   # las ofertas se quedan 2 semanas (si se agotan, la app pasa a la siguiente tienda)
 START = time.monotonic()
-LINKS_BUDGET_S = 180      # máximo 3 min por corrida buscando links de ofertas
+LINKS_BUDGET_S = 300      # máximo 5 min por corrida buscando links de ofertas
 DEKU_BUDGET_S = 150       # máximo 2,5 min por corrida abriendo páginas de juegos
 DEBUG_DIR = None  # carpeta para copias de páginas (la pone watcher.py)
 MAX_DEALS = 150
@@ -97,7 +97,7 @@ IMG_TAG_RE = re.compile(r"<img[^>]+src=[\"'](https?://[^\"']+)[\"']", re.I)
 MEDIA_RE = re.compile(r"(?:url|href)=[\"'](https?://[^\"']+)[\"'][^>]*(?:image|medium=[\"']image)", re.I)
 OG_IMAGE_RE = re.compile(r"<meta[^>]+property=[\"']og:image[\"'][^>]+content=[\"'](https?://[^\"']+)[\"']"
                          r"|<meta[^>]+content=[\"'](https?://[^\"']+)[\"'][^>]+property=[\"']og:image[\"']", re.I)
-MAX_PAGE_LOOKUPS = 30   # páginas de oferta que se abren por corrida (foto + link de la tienda)
+MAX_PAGE_LOOKUPS = 60   # páginas de oferta que se abren por corrida (foto + link de la tienda)
 RETAILER_DOMAINS = r"(walmart\.com|target\.com|amazon\.com|bestbuy\.com|gamestop\.com|nintendo\.com|costco\.com|" \
                    r"samsclub\.com|woot\.com|ebay\.com|newegg\.com|meijer\.com|kohls\.com|macys\.com|bjs\.com)"
 RETAILER_RE = re.compile(r"https?://(?:www\.)?" + RETAILER_DOMAINS + r"/[^\s\"'<>]+", re.I)
@@ -296,6 +296,26 @@ def _store(title):
     return max(found)[1] if found else "Slickdeals"
 
 
+# El enlace de Slickdeals suele traer la tienda en la dirección: ".../...-at-walmart", "-amazon-"
+SLUG_STORE = [("walmart", "Walmart"), ("amazon", "Amazon"), ("target", "Target"), ("best-buy", "Best Buy"),
+              ("bestbuy", "Best Buy"), ("gamestop", "GameStop"), ("costco", "Costco"), ("sams-club", "Sam's Club"),
+              ("woot", "Woot"), ("newegg", "Newegg"), ("my-nintendo", "Nintendo"), ("nintendo-store", "Nintendo")]
+
+
+def store_from_slug(url):
+    """Tienda adivinada desde la dirección de la oferta en Slickdeals (no abre nada)."""
+    try:
+        slug = urlparse(url).path.lower()
+    except Exception:
+        return None
+    if "slickdeals.net" not in (url or ""):
+        return None
+    for key, name in SLUG_STORE:
+        if key in slug:
+            return name
+    return None
+
+
 def store_from_url(url):
     try:
         host = urlparse(url).netloc.lower().removeprefix("www.")
@@ -340,6 +360,11 @@ def _apply_real_price(d):
         d["old_price"] = d.get("real_old")
 
 
+def _disc(d):
+    p, o = d.get("price"), d.get("old_price")
+    return round((1 - p / o) * 100) if p and o and o > p else 0
+
+
 def fetch_deals(previous, log):
     """Junta ofertas nuevas con las de antes y quita las de más de KEEP_DAYS días."""
     deals = {d["id"]: d for d in previous}
@@ -366,7 +391,7 @@ def fetch_deals(previous, log):
                     "title": t,
                     "price": price,
                     "old_price": old,
-                    "store": _store(t),
+                    "store": _store(t) if _store(t) != "Slickdeals" else (store_from_slug(it["link"]) or "Slickdeals"),
                     "kind": "merch" if pokemon_merch else ("hardware" if IS_HARDWARE.search(t) else "game"),
                     "collector": bool(IS_COLLECTOR.search(t)),
                     "url": it["link"],
@@ -393,6 +418,8 @@ def fetch_deals(previous, log):
         d["refurb"] = bool(IS_REFURB.search(t))
         if "needs_cat" not in d:
             d["needs_cat"] = not (IS_NINTENDO_WORD.search(t) or IS_POKEMON.search(t) or NINTENDO_HINT.search(t))
+        if d.get("store") in (None, "Slickdeals") and not d.get("store_url"):
+            d["store"] = store_from_slug(d.get("url", "")) or d.get("store") or "Slickdeals"
         _apply_real_price(d)   # precio de la página de Slickdeals (más fiable que el título)
     cutoff = _now() - datetime.timedelta(days=KEEP_DAYS)
     # Reacondicionadas: Best Buy les cambia el precio rápido y el vigilante no puede ver su página,
@@ -414,8 +441,20 @@ def fetch_deals(previous, log):
             return _now() - datetime.datetime.fromisoformat(d["checked_at"]) > datetime.timedelta(hours=hours)
         except (KeyError, ValueError):
             return True
-    # primero las que nunca se han revisado, después las más viejas
-    for d in sorted(fresh, key=lambda d: (bool(d.get("checked_at")), d.get("checked_at") or "")):
+    # Orden para abrir páginas: primero las nunca revisadas; dentro de esas, primero las que no tienen
+    # ningún link usable (hay que abrirlas o se pierden), luego mayor descuento y precio más bajo
+    # (los doorbusters). Al final, las ya revisadas por antigüedad.
+    def _needs_link(d):
+        return not d.get("store_url") and d.get("store") not in STORE_SEARCH
+
+    def _order_key(d):
+        nuevo = not d.get("checked_at")
+        return (bool(d.get("checked_at")),
+                0 if (nuevo and _needs_link(d)) else 1,
+                -_disc(d) if nuevo else 0,
+                (d.get("price") or 99999) if nuevo else 0,
+                d.get("checked_at") or "")
+    for d in sorted(fresh, key=_order_key):
         if d.get("expired") or not due(d) or lookups >= MAX_PAGE_LOOKUPS:
             continue
         if time.monotonic() - t0 > LINKS_BUDGET_S:
