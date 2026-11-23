@@ -35,6 +35,7 @@ HISTORY_DAYS = 400
 GENERAL_TOPIC = "ninstock-alerts"   # coleccionistas: disponibles y ediciones nuevas
 DEALS_TOPIC = "ninstock-deals"      # ofertas buenas (30 % o más)
 GOOD_DEAL_PCT = 30
+MAX_DEAL_ALERTS = 15        # avisos de ofertas buenas por corrida (las demás, en la próxima)
 DROP_PCT = 10                       # bajada mínima para avisar de un juego guardado
 TZ = "America/New_York"
 
@@ -375,18 +376,27 @@ def write_feed(catalog, state):
     deals = feeds.merge_deals(slick + feeds.deku_deals(cards + archive))
     log(f"ofertas en la app (sin repetidos): {len(deals)}")
 
-    # 1) Ofertas buenas nuevas (30 % o más) -> quien activó "buenas ofertas"
+    # 1) Ofertas buenas nuevas (30 % o más) -> quien activó "buenas ofertas".
+    #    Se avisa de las mejores primero (mayor descuento) y, si hay muchas de golpe,
+    #    las que sobren quedan pendientes para avisar en las próximas corridas (no se pierden).
     seen = {d["id"] for d in old_deals}
+    notified = state.setdefault("_deal_notified", [])   # ids de ofertas ya avisadas
+    notified_set = set(notified)
     if not first_run:
-        sent = 0
-        for d in deals:
+        nuevas = [d for d in deals
+                  if d["id"] not in notified_set and pct_off(d.get("price"), d.get("old_price")) >= GOOD_DEAL_PCT]
+        nuevas.sort(key=lambda d: pct_off(d.get("price"), d.get("old_price")), reverse=True)
+        for d in nuevas[:MAX_DEAL_ALERTS]:
             pct = pct_off(d.get("price"), d.get("old_price"))
-            if d["id"] in seen or pct < GOOD_DEAL_PCT or sent >= 3:
-                continue
             notify(f"¡Buena oferta! -{pct}%",
                    f"{d['title']}: ${d['price']:.2f} (antes ${d['old_price']:.2f}) en {d['store']}",
                    d.get("store_url") or d["url"], topics=(DEALS_TOPIC,))
-            sent += 1
+            notified.append(d["id"])
+            state_changed = True
+        if len(nuevas) > MAX_DEAL_ALERTS:
+            log(f"  {len(nuevas) - MAX_DEAL_ALERTS} ofertas buenas quedan pendientes para la próxima corrida")
+        if len(notified) > 800:          # no dejar crecer la lista sin fin
+            del notified[:-800]
         # 2) Ediciones de coleccionista nuevas (ofertas y anuncios) -> avisos generales
         old_release_ids = {c["id"] for c in old.get("releases", [])}
         seen_raw = {d["id"] for d in raw_old}
