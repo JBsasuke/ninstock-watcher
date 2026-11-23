@@ -11593,6 +11593,7 @@
    "refurb": false,
    "code": "7MWFXOR9",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20357202&pno=1369869&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1fa19f66e54211f1bbb1fe4aab4804d8&au=3c118d4ab15e440ab6aa790ec2dd4b70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-21T00:25:59+00:00",
    "real_price": 32.99,
@@ -11631,6 +11632,7 @@
    "refurb": false,
    "code": "MAKZAC2P",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377431&pno=1372173&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=da65e880e77611f1b42706e4005daeaa&au=928d9bfc1a25447e9fb21f13089f5458&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T19:48:28+00:00",
    "real_price": 12.91,
@@ -11651,6 +11653,7 @@
    "refurb": false,
    "code": "CR4L9NCE",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377647&pno=1372167&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=db9bd1a6e77611f196518abcc2552c10&au=c39890b5b9b54ff78e3a6ed4b9677ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T19:48:30+00:00",
    "real_price": 15.99,
@@ -11761,6 +11764,7 @@
    "refurb": false,
    "code": "CYBERFINDS20",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376636&pno=1372152&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e09991cae77611f1b42706e4005daeaa&au=f58feab87d8743ab8c324888ca3e3a69&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T19:48:38+00:00",
    "real_price": 71.99,
@@ -11833,8 +11837,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=23333d88e78111f19cf4425b60879883&au=47f38a7d5eda447583dc4b8f356370c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:02:05+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd240a16e78111f1a62ba6aecaa87574&au=33aadf274a6e4d5fbddea899721eb364&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:06:50+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -12337,10 +12341,11 @@
    "refurb": true,
    "code": "NICEFIND10",
    "code_until": null,
+   "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20377092&tid=20377092&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=24595a30e78111f1b1da8af2fbc4f239&au=2a678c2827e24a5299871ea4bfc7b8a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T21:02:07+00:00",
    "real_price": 134.99,
-   "real_old": 349.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20377092&tid=20377092&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=24595a30e78111f1b1da8af2fbc4f239&au=2a678c2827e24a5299871ea4bfc7b8a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 349.99
   },
   {
    "id": "tb91218d66a1",
@@ -12631,6 +12636,24 @@
    "real_price": 1199.0
   },
   {
+   "id": "t97047dbcf0c",
+   "title": "45mm Garmin Instinct 3 Outdoor GPS Smartwatch $299.99 + Free Shipping",
+   "price": 299.99,
+   "old_price": 499.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20375496-45mm-garmin-instinct-3-outdoor-gps-smartwatch-299-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22534881.thumb",
+   "posted": "2026-11-23T09:21:07+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-23T21:06:52+00:00",
+   "real_price": 299.99,
+   "real_old": 499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375496&tid=20375496&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ce5c32c8e78111f18254ce9fa2643dbc&au=1219b9e731fc48e3b069b20fca703920&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb4460902778",
    "title": "The Real Ghostbusters Animated Series: Volumes 1-10 (1986) (Digital SD TV Show) $10",
    "price": 9.99,
@@ -12752,6 +12775,7 @@
    "refurb": false,
    "code": "W4IGDMSF",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367702&pno=1371708&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3bbf0cc6e72f11f1931c2aac26795ca8&au=57a3969660ea419aadecf4aca791ca89&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T11:15:48+00:00",
    "real_price": 9.99,
@@ -12862,6 +12886,27 @@
    "real_price": 139.0,
    "real_old": 140.0,
    "store_url": "https://www.walmart.com/ip/18990910374"
+  },
+  {
+   "id": "t7a039c25740",
+   "title": "DiscountMugs Sale: up to 70% Off Clearance + Sitewide Savings Coupon 20% Off",
+   "price": null,
+   "old_price": null,
+   "store": "DiscountMugs",
+   "url": "https://slickdeals.net/f/20364201-discountmugs-sale-up-to-70-off-clearance-sitewide-savings-coupon-20-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22509609.thumb",
+   "posted": "2026-11-23T05:18:53+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "BFCM26",
+   "code_until": "2026-11-29",
+   "promo": "Up to 70% Off",
+   "checked_at": "2026-11-23T21:06:54+00:00",
+   "real_price": 56.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DiscountMugs&sdtid=20364201&pno=1371582&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfa21e5ee78111f185ffce96705cd8bd&au=5577d3e0f37c4168aac5840e4b50adf0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc34e733ea30",
@@ -13112,6 +13157,7 @@
    "refurb": false,
    "code": "JHCE9926",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20359407&pno=1371444&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6bc1b28ce6e611f1b55a568e9bfe9d2e&au=b3f6160d6cba47eaad1bb03d54822fc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T02:34:35+00:00",
    "real_price": 749.0,
@@ -13132,6 +13178,7 @@
    "refurb": true,
    "code": "DEVICES30",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20367558&pno=1371432&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d212540e6e611f1aa0a827564c16f86&au=53a2f9cd0742482e848c930232cb6425&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T02:34:37+00:00",
    "real_price": 8.39,
@@ -13150,6 +13197,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "WS24T8172",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20331114&pno=1371420&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6e39920ae6e611f1b7bfda043891c185&au=73bad00274954eefb5669fbe2e7e5cec&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T02:34:39+00:00",
    "real_price": 259.99,
@@ -13224,6 +13274,7 @@
    "refurb": false,
    "code": "X223A9CO",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336967&pno=1371372&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b19e786e78011f18565520b16fb8673&au=31852bda54c64bcf8d4cdd9c62fc6d12&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:57:50+00:00",
    "real_price": 14.99,
@@ -13788,6 +13839,27 @@
    "real_old": 359.0
   },
   {
+   "id": "t72342ab4fea",
+   "title": "Under Armour Black Friday Sale: Up to Extra 40% Off + Extra 10% Off + Free S&H",
+   "price": null,
+   "old_price": null,
+   "store": "Under Armour",
+   "url": "https://slickdeals.net/f/20367216-under-armour-black-friday-sale-up-to-extra-40-off-extra-10-off-free-shipping-no-minimum?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22516242.thumb",
+   "posted": "2026-11-22T12:18:47+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "BLACKFRIDAY",
+   "code_until": null,
+   "promo": "Up to extra 40% Off",
+   "checked_at": "2026-11-23T21:06:56+00:00",
+   "real_price": 59.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Under+Armour&sdtid=20367216&pno=1371009&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0c4bcb0e78111f1addee6b827e99815&au=2f65476f93054511ba53650d1e5aaa2d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4d34b78e58b",
    "title": "$69.88, FS, HD, RYOBI ONE+ 18V Cordless 2-Tool Combo Kit w/ Random Orbit Sander & Corner Cat Finish Sander (Tools Only) w/ Assorted Sandpaper",
    "price": 69.88,
@@ -14126,6 +14198,7 @@
    "refurb": false,
    "code": "0XKV56JN",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20364000&pno=1370889&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=93a3b2d8e78011f1a4b87a7dd3757516&au=5f4a888c5c244d9fa7c5a1f569da3bf4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:58:04+00:00",
    "real_price": 15.99,
@@ -14256,6 +14329,27 @@
    "checked_at": "2026-11-22T08:20:28+00:00",
    "real_price": 600.0,
    "real_old": 1400.0
+  },
+  {
+   "id": "t1aeb6b83895",
+   "title": "Mitywah MagSafe for iPhone 15 Pro Max Case w/ Kickstand (Black) $8",
+   "price": 7.99,
+   "old_price": 15.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20364195-mitywah-for-iphone-15-pro-max-case-with-stand-strong-magnetic-cover-fit-for-magsafe-7-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22509564.thumb",
+   "posted": "2026-11-22T03:00:18+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "code": "LV2UM9XD",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-23T21:06:58+00:00",
+   "real_price": 7.99,
+   "real_old": 15.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20364195&pno=1370793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1e3115ae78111f1bae2ce46b345a71d&au=121323ecaea9487bbe107defb8551fc7&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t460915ac381",
@@ -14504,8 +14598,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25985086e78111f1b4d916b5dfe6cbc7&au=21ccba8719c1488380fac678675a138f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:02:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d314041ce78111f1babaa6aecaa87574&au=c6138eaa51be4adcae61a42bb8a7f550&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:07:00+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -14576,8 +14670,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=270d7680e78111f19f20520b16fb8673&au=914b45c0b9dc4ee2b2f0f2e3820855a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:02:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d47f145ee78111f1b9a8e6b827e99815&au=7a8c67f382544aa5ad6c083a1f59677a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:07:03+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -15497,6 +15591,7 @@
    "refurb": false,
    "code": "WITEA4ZA",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20353707&pno=1370112&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9b8d8e9ce78011f1989c520b16fb8673&au=f1c01c5c29fd436899bd496abe1aedef&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:58:18+00:00",
    "expired": true,
@@ -15626,6 +15721,7 @@
    "refurb": false,
    "code": "VEVORBF2026",
    "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Vevor&sdtid=20356587&pno=1370064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50d22822e5f011f1b14f52640fec93ee&au=869a128d26ba4e089595cad293ab2fb6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-21T21:12:54+00:00",
    "real_price": 33.88,
@@ -15644,8 +15740,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20354223&pno=1370061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=28419e50e78111f1b6f97a7dd3757516&au=9af29afcb6fe483f8e85a325b19f7dff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:02:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20354223&pno=1370061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5e5397ce78111f1b903425b60879883&au=b56ae3ea33304bde9d657a40aa7476f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:07:05+00:00",
    "real_price": 4.99,
    "real_old": 59.99
   },
@@ -15702,78 +15798,6 @@
    "checked_at": "2026-11-21T21:13:00+00:00",
    "real_price": 379.0,
    "real_old": 649.99
-  },
-  {
-   "id": "t4a9d21b80a2",
-   "title": "Acer Predator Desktop: Ultra 7 265KF, RTX 5070, 32GB DDR5, 1TB SSD $1950 + Free S&H",
-   "price": 1949.99,
-   "old_price": 2379.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20340441-acer-predator-orion-gaming-desktop-intel-ultra-7-265kf-rtx-5070-32gb-ddr5-1tb-ssd-1949-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22441938.thumb",
-   "posted": "2026-11-21T00:57:15+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20340441&pno=1370013&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=55b38674e5f011f1b0e022148bf1fc17&au=57e4e63897884f6ca35cc4bedbcff69b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T21:13:02+00:00",
-   "real_price": 1949.99,
-   "real_old": 2379.99
-  },
-  {
-   "id": "t10579c51b01",
-   "title": "Anker 715 Nano II 65W GaN II PPS USB-C Fast Charger $20",
-   "price": 19.99,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20340477-anker-715-nano-ii-65w-gan-ii-pps-usb-c-fast-charger-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22442064.thumb",
-   "posted": "2026-11-21T00:41:09+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340477&pno=1369998&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=573c47f6e5f011f1a79abe2f0df184ba&au=3c03744651dd44de95b166848672ac04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T21:13:04+00:00",
-   "real_price": 19.99,
-   "real_old": 29.99
-  },
-  {
-   "id": "t0eb9bad2fe7",
-   "title": "40\" TCL Q3CR FHD 60Hz QLED Roku TV (2026) $100 + Free S&H",
-   "price": 99.99,
-   "old_price": 299.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20339196-99-99-tcl-40-q3cr-series-1080p-fhd-qled-smart-tv-with-roku-2026-at-bestbuy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22500396.thumb",
-   "posted": "2026-11-21T00:39:48+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20339196&pno=1369995&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=58b9d0bce5f011f1acfe22148bf1fc17&au=f340f554c6024073b0dfdb1733140d10&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T21:13:07+00:00",
-   "real_price": 99.99,
-   "real_old": 299.99
-  },
-  {
-   "id": "t1d06fa61019",
-   "title": "JLab JBuds ANC 3 True Wireless Earbuds w/ Active Noise Cancellation & Multipoint Connect (Black) $33.25 + Free Shipping w/ Prime or on $35+",
-   "price": 33.25,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20360460-jlab-jbuds-anc-3-true-wireless-earbuds-w-active-noise-cancellation-multipoint-connect-black-33-25-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22500372.thumb",
-   "posted": "2026-11-21T00:35:33+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-23T21:02:16+00:00",
-   "real_price": 33.25,
-   "real_old": 64.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20360460&tid=20360460&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=298f9848e78111f18349da8cc710b865&au=2432b1b7e4dc4d3d969809af6ad58f4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -15795,6 +15819,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15821,6 +15846,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15847,6 +15873,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15873,6 +15900,7 @@
    "glitch": false,
    "code": "7MWFXOR9",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15899,6 +15927,7 @@
    "glitch": false,
    "code": "CR4L9NCE",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15925,6 +15954,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -15951,6 +15981,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Mint Mobile",
@@ -15977,6 +16008,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16003,6 +16035,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16029,6 +16062,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -16055,6 +16089,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16081,6 +16116,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16107,6 +16143,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
@@ -16133,6 +16170,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16159,6 +16197,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -16185,6 +16224,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Home Depot",
@@ -16211,6 +16251,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16237,6 +16278,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16263,6 +16305,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16289,6 +16332,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16315,6 +16359,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Staples",
@@ -16341,6 +16386,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16367,6 +16413,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16393,6 +16440,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16419,6 +16467,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16445,6 +16494,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16471,6 +16521,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16497,6 +16548,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16523,6 +16575,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -16549,6 +16602,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
@@ -16575,6 +16629,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16601,6 +16656,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16627,6 +16683,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Woot!",
@@ -16653,6 +16710,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16679,6 +16737,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Newegg",
@@ -16705,6 +16764,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16731,6 +16791,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16757,6 +16818,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16783,11 +16845,39 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
      "price": 1199.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20370318&pno=1371480&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=32d1263ae72f11f199722aac26795ca8&au=e55f06934de54d85a7ad4c22cb86cb93&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t97047dbcf0c",
+   "title": "45mm Garmin Instinct 3 Outdoor GPS Smartwatch",
+   "price": 299.99,
+   "old_price": 499.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375496&tid=20375496&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ce5c32c8e78111f18254ce9fa2643dbc&au=1219b9e731fc48e3b069b20fca703920&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375496&tid=20375496&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ce5c32c8e78111f18254ce9fa2643dbc&au=1219b9e731fc48e3b069b20fca703920&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22534881.thumb",
+   "posted": "2026-11-23T09:21:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 299.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375496&tid=20375496&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ce5c32c8e78111f18254ce9fa2643dbc&au=1219b9e731fc48e3b069b20fca703920&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16809,6 +16899,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16835,6 +16926,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16861,6 +16953,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16887,6 +16980,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16913,6 +17007,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16939,6 +17034,7 @@
    "glitch": false,
    "code": "W4IGDMSF",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -16965,6 +17061,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16991,6 +17088,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -16998,6 +17096,27 @@
      "url": "https://www.walmart.com/ip/5127015143"
     }
    ]
+  },
+  {
+   "id": "t7a039c25740",
+   "title": "DiscountMugs Sale: up to 70% Off Clearance + Sitewide Savings Coupon 20% Off",
+   "price": null,
+   "old_price": null,
+   "store": "DiscountMugs",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DiscountMugs&sdtid=20364201&pno=1371582&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfa21e5ee78111f185ffce96705cd8bd&au=5577d3e0f37c4168aac5840e4b50adf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+DiscountMugs&sdtid=20364201&pno=1371582&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfa21e5ee78111f185ffce96705cd8bd&au=5577d3e0f37c4168aac5840e4b50adf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22509609.thumb",
+   "posted": "2026-11-23T05:18:53+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "BFCM26",
+   "code_until": "2026-11-29",
+   "promo": "Up to 70% Off",
+   "offers": []
   },
   {
    "id": "tc34e733ea30",
@@ -17017,6 +17136,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17043,6 +17163,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17069,6 +17190,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Greentoe",
@@ -17095,6 +17217,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17121,6 +17244,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Woot!",
@@ -17147,6 +17271,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17173,6 +17298,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17199,6 +17325,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17225,6 +17352,7 @@
    "glitch": false,
    "code": "JHCE9926",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Adorama",
@@ -17251,6 +17379,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17277,6 +17406,7 @@
    "glitch": false,
    "code": "X223A9CO",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17303,6 +17433,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17329,6 +17460,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17355,6 +17487,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17381,6 +17514,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17407,6 +17541,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17433,6 +17568,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17459,6 +17595,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17485,6 +17622,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17511,6 +17649,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
@@ -17537,6 +17676,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
@@ -17563,6 +17703,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17589,6 +17730,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17615,6 +17757,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17641,6 +17784,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -17667,6 +17811,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17693,6 +17838,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17719,6 +17865,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17745,6 +17892,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Lenovo",
@@ -17771,6 +17919,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Crutchfield",
@@ -17797,6 +17946,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17804,6 +17954,27 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20353356&pno=1371045&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=28ce3fa8e69211f1a23636357871b871&au=1066e514ef794a6595051d02d4d44ff3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
+  },
+  {
+   "id": "t72342ab4fea",
+   "title": "Under Armour Black Friday Sale: Up to Extra 40% Off + Extra 10% Off + Free S&H",
+   "price": null,
+   "old_price": null,
+   "store": "Under Armour",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Under+Armour&sdtid=20367216&pno=1371009&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0c4bcb0e78111f1addee6b827e99815&au=2f65476f93054511ba53650d1e5aaa2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Under+Armour&sdtid=20367216&pno=1371009&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0c4bcb0e78111f1addee6b827e99815&au=2f65476f93054511ba53650d1e5aaa2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22516242.thumb",
+   "posted": "2026-11-22T12:18:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "BLACKFRIDAY",
+   "code_until": null,
+   "promo": "Up to extra 40% Off",
+   "offers": []
   },
   {
    "id": "teb8c163ccb8",
@@ -17823,6 +17994,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17849,6 +18021,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17875,6 +18048,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -17901,6 +18075,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -17927,6 +18102,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Target",
@@ -17953,6 +18129,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Target",
@@ -17979,6 +18156,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18005,6 +18183,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18031,6 +18210,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18057,6 +18237,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Adorama",
@@ -18083,6 +18264,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Adorama",
@@ -18109,6 +18291,7 @@
    "glitch": false,
    "code": "0XKV56JN",
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18135,6 +18318,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18161,6 +18345,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -18187,6 +18372,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
@@ -18213,6 +18399,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18239,6 +18426,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -18265,11 +18453,39 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Samsung",
      "price": 600.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20359053&pno=1370799&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92f6cdcce64d11f190a7d631093c3003&au=8ef6b47cc9ae44e8829a757ea24404b5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t1aeb6b83895",
+   "title": "Mitywah MagSafe for iPhone 15 Pro Max Case",
+   "price": 7.99,
+   "old_price": 15.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20364195&pno=1370793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1e3115ae78111f1bae2ce46b345a71d&au=121323ecaea9487bbe107defb8551fc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20364195&pno=1370793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1e3115ae78111f1bae2ce46b345a71d&au=121323ecaea9487bbe107defb8551fc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22509564.thumb",
+   "posted": "2026-11-22T03:00:18+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": "LV2UM9XD",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 7.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20364195&pno=1370793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1e3115ae78111f1bae2ce46b345a71d&au=121323ecaea9487bbe107defb8551fc7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18291,6 +18507,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -18317,6 +18534,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18343,6 +18561,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Shokz",
@@ -18369,6 +18588,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -18395,6 +18615,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "LG Electronics",
@@ -18421,6 +18642,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -18447,6 +18669,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18461,8 +18684,8 @@
    "price": 0.99,
    "old_price": 6.99,
    "store": "Frndly TV",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25985086e78111f1b4d916b5dfe6cbc7&au=21ccba8719c1488380fac678675a138f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25985086e78111f1b4d916b5dfe6cbc7&au=21ccba8719c1488380fac678675a138f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d314041ce78111f1babaa6aecaa87574&au=c6138eaa51be4adcae61a42bb8a7f550&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d314041ce78111f1babaa6aecaa87574&au=c6138eaa51be4adcae61a42bb8a7f550&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/8/8/1/8/1/300x300/22512948.thumb",
    "posted": "2026-11-21T22:51:56+00:00",
    "kind": "tech",
@@ -18473,11 +18696,12 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Frndly TV",
      "price": 0.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25985086e78111f1b4d916b5dfe6cbc7&au=21ccba8719c1488380fac678675a138f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d314041ce78111f1babaa6aecaa87574&au=c6138eaa51be4adcae61a42bb8a7f550&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18499,6 +18723,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18525,6 +18750,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18551,6 +18777,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Walmart",
@@ -18577,6 +18804,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18603,6 +18831,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18629,6 +18858,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Best Buy",
@@ -18655,6 +18885,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18681,6 +18912,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18707,6 +18939,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "AT&T Wireless",
@@ -18733,6 +18966,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Micro Center",
@@ -18759,6 +18993,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Amazon",
@@ -18785,6 +19020,7 @@
    "glitch": false,
    "code": null,
    "code_until": null,
+   "promo": null,
    "offers": [
     {
      "store": "Fasteners Inc",
@@ -18792,111 +19028,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20362491&tid=20362491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4e1f4538e5f011f18f27625a66184cd5&au=9f95b41d5a7544a6b101d116eb64348c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t3789af48f74",
-   "title": "The North Face Vault Everyday Laptop Backpack, Cedar, One Size - Amazon",
-   "price": 49.0,
-   "old_price": 70.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20362371&tid=20362371&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c209eb9ee5c111f194d5daff6e9cdfb4&au=9c10796f56244325a37701e3a6e0a706&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20362371&tid=20362371&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c209eb9ee5c111f194d5daff6e9cdfb4&au=9c10796f56244325a37701e3a6e0a706&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22505091.thumb",
-   "posted": "2026-11-21T08:34:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 49.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20362371&tid=20362371&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c209eb9ee5c111f194d5daff6e9cdfb4&au=9c10796f56244325a37701e3a6e0a706&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t2d977119b06",
-   "title": "Lenovo LOQ Essential Laptop: 15.3\" 2K 165Hz, Ultra X7 358H, 16GB RAM, 512GB SSD + Free S&H",
-   "price": 799.99,
-   "old_price": 1449.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20351907&pno=1370280&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=c47dc918e5c111f1a780b2ea223b7d27&au=38dfbb3a41dc405f948e6caa517655c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20351907&pno=1370280&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=c47dc918e5c111f1a780b2ea223b7d27&au=38dfbb3a41dc405f948e6caa517655c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22504866.thumb",
-   "posted": "2026-11-21T08:05:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 799.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20351907&pno=1370280&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=c47dc918e5c111f1a780b2ea223b7d27&au=38dfbb3a41dc405f948e6caa517655c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t901878d558a",
-   "title": "Shokz OpenRun Wireless Bone Conduction Open-Ear Standard Headphones (Grey) + Free S&H",
-   "price": 64.95,
-   "old_price": 129.95,
-   "store": "Shokz",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20360712&pno=1370283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c5c58f9ae5c111f18a8db24d24f9fe63&au=9536544f71c5497883b056f7224e5fcd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20360712&pno=1370283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c5c58f9ae5c111f18a8db24d24f9fe63&au=9536544f71c5497883b056f7224e5fcd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/5/9/6/8/4/7/300x300/22500879.thumb",
-   "posted": "2026-11-21T08:05:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "offers": [
-    {
-     "store": "Shokz",
-     "price": 64.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20360712&pno=1370283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c5c58f9ae5c111f18a8db24d24f9fe63&au=9536544f71c5497883b056f7224e5fcd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t7f3d4f59440",
-   "title": "Lenovo Tab One 8.7\" Tablet: 1340x800, MediaTek Helio G85, 4GB RAM, 64GB eMMC + Free S&H",
-   "price": 89.99,
-   "old_price": 199.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338986&pno=1370265&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bbbb1c4e57e11f18952ba5854a9ec80&au=04a538eee2444f788d9e34a56a3e6225&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338986&pno=1370265&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bbbb1c4e57e11f18952ba5854a9ec80&au=04a538eee2444f788d9e34a56a3e6225&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22435338.thumb",
-   "posted": "2026-11-21T07:30:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 89.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338986&pno=1370265&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bbbb1c4e57e11f18952ba5854a9ec80&au=04a538eee2444f788d9e34a56a3e6225&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-23T21:03:04+00:00"
+ "updated": "2026-11-23T21:07:46+00:00"
 }
