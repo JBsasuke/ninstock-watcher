@@ -14,13 +14,13 @@
    "posted": "2026-11-23T20:28:56+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-23T20:36:30+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375586&pno=1372206&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8fcca4bae77d11f183307e65aa5791f0&au=141cde3dfab54022901c34a59297c404&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T20:36:30+00:00",
+   "real_price": 30.0,
+   "real_old": 59.99,
+   "category_ok": true
   },
   {
    "id": "75ecbe5b85ee",
@@ -630,13 +630,13 @@
    "posted": "2026-11-23T09:46:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-23T20:36:32+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375586&pno=1372206&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=911cbf8ae77d11f1be548af2fbc4f239&au=27408bfcea304af8b6adf60b5515edc1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T20:36:32+00:00",
+   "real_price": 30.0,
+   "real_old": 59.99,
+   "category_ok": true
   },
   {
    "id": "a87927cd0cca",
@@ -903,13 +903,13 @@
    "posted": "2026-11-23T07:10:31+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-23T20:37:30+00:00",
-   "category_ok": true,
-   "real_price": 24.88,
-   "real_old": 60.0,
    "store_url": "https://www.walmart.com/ip/19492359868",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T20:37:30+00:00",
+   "real_price": 24.88,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "7ba2fdef2396",
@@ -11292,10 +11292,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20328180&pno=1372209&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d38314aae77d11f1bc2dce96705cd8bd&au=8968c2d05cc14a5baf953cf535ec5abc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:23+00:00",
    "real_price": 597.6,
-   "real_old": 999.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20328180&pno=1372209&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d38314aae77d11f1bc2dce96705cd8bd&au=8968c2d05cc14a5baf953cf535ec5abc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 999.99
   },
   {
    "id": "t3fcaf4abd68",
@@ -11310,10 +11310,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
-   "real_old": 174.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 174.0
   },
   {
    "id": "t59031796bc4",
@@ -11328,10 +11328,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20363037&pno=1372200&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=d5ddd5b4e77d11f1a4828af2fbc4f239&au=745379f01f9f4441a5a19a113061c37b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:27+00:00",
    "real_price": 99.0,
-   "real_old": 159.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20363037&pno=1372200&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=d5ddd5b4e77d11f1a4828af2fbc4f239&au=745379f01f9f4441a5a19a113061c37b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 159.97
   },
   {
    "id": "t00d787645fb",
@@ -11346,10 +11346,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20361564&pno=1372197&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d719e364e77d11f19692c285b9c1f9ee&au=6e56d4647f8b4f57b22c3e9fd0f9b4d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:29+00:00",
    "real_price": 99.0,
-   "real_old": 168.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20361564&pno=1372197&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d719e364e77d11f19692c285b9c1f9ee&au=6e56d4647f8b4f57b22c3e9fd0f9b4d3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 168.97
   },
   {
    "id": "t7b162445c7c",
@@ -11382,10 +11382,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380176&tid=20380176&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=d83ac038e77d11f18244521a38e05133&au=b0dd708cf2524605bc31774791de83cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:31+00:00",
    "real_price": 59.99,
-   "real_old": 109.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380176&tid=20380176&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=d83ac038e77d11f18244521a38e05133&au=b0dd708cf2524605bc31774791de83cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 109.99
   },
   {
    "id": "tc433cb04322",
@@ -11490,10 +11490,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379810&tid=20379810&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d95da264e77d11f197df4ab603200b14&au=06205fcb89834e4c80426757885ee358&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:33+00:00",
    "real_price": 23.99,
-   "real_old": 29.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379810&tid=20379810&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d95da264e77d11f197df4ab603200b14&au=06205fcb89834e4c80426757885ee358&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.99
   },
   {
    "id": "te076c84177f",
@@ -11598,10 +11598,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "checked_at": "2026-11-23T20:38:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=31b075c2e77e11f1ae857e65aa5791f0&au=23daf642770b44b5b5814c21a292a788&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T20:41:01+00:00",
    "real_price": 3.29,
-   "real_old": 32.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=da6d7396e77d11f1a2e93ad29bc0f464&au=c0d9a9e26ec64d6ea277b58e238a6d5a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 32.99
   },
   {
    "id": "tb9f4fece0bf",
@@ -12010,10 +12010,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377224&tid=20377224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dcb28952e77d11f1bf70be996e4f63d3&au=47e32f8131974f71a94a75acac901d7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:38+00:00",
    "real_price": 1730.99,
-   "real_old": 2749.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377224&tid=20377224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dcb28952e77d11f1bf70be996e4f63d3&au=47e32f8131974f71a94a75acac901d7d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2749.99
   },
   {
    "id": "t50659920589",
@@ -12028,10 +12028,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376861&tid=20376861&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ddddc12ae77d11f1b186be996e4f63d3&au=931f3a15745f420a908ea92224736bad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:41+00:00",
    "real_price": 287.99,
-   "real_old": 505.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376861&tid=20376861&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ddddc12ae77d11f1b186be996e4f63d3&au=931f3a15745f420a908ea92224736bad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 505.99
   },
   {
    "id": "t321afe741c8",
@@ -12566,10 +12566,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/14280620660",
    "checked_at": "2026-11-23T20:38:45+00:00",
    "real_price": 99.0,
-   "real_old": 299.0,
-   "store_url": "https://www.walmart.com/ip/14280620660"
+   "real_old": 299.0
   },
   {
    "id": "t5af944f338a",
@@ -12584,10 +12584,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/17835006350",
    "checked_at": "2026-11-23T20:38:47+00:00",
    "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://www.walmart.com/ip/17835006350"
+   "real_old": 249.0
   },
   {
    "id": "t7af473d06d9",
@@ -12620,10 +12620,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20348886&pno=1371546&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=e4f1ed1ae77d11f1bbd0c6295f85c67c&au=a636cc2703744e5c93e64c4d15777213&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:52+00:00",
    "real_price": 99.0,
-   "real_old": 198.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20348886&pno=1371546&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=e4f1ed1ae77d11f1bbd0c6295f85c67c&au=a636cc2703744e5c93e64c4d15777213&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 198.0
   },
   {
    "id": "tdf11c2c42a2",
@@ -12638,10 +12638,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Greentoe&sdtid=20372022&pno=1371534&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e634db9ce77d11f18a9c16b5dfe6cbc7&au=6c208d74f5344d0ba660f56b583e877a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:54+00:00",
    "real_price": 1199.0,
-   "real_old": 1546.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Greentoe&sdtid=20372022&pno=1371534&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e634db9ce77d11f18a9c16b5dfe6cbc7&au=6c208d74f5344d0ba660f56b583e877a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1546.99
   },
   {
    "id": "tda7953ca830",
@@ -12656,10 +12656,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20370753&pno=1371516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7877d88e77d11f194eb7e65aa5791f0&au=b72d3d20291544ccb08faad28f1bf1ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:57+00:00",
    "real_price": 1499.99,
-   "real_old": 2499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20370753&pno=1371516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7877d88e77d11f194eb7e65aa5791f0&au=b72d3d20291544ccb08faad28f1bf1ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2499.99
   },
   {
    "id": "t39c3e1418d3",
@@ -12674,10 +12674,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20363223&pno=1371504&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e8bf5892e77d11f18698ce96705cd8bd&au=47170ea9a36d47a8915ea221499e02b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:59+00:00",
    "real_price": 214.99,
-   "real_old": 499.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20363223&pno=1371504&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e8bf5892e77d11f18698ce96705cd8bd&au=47170ea9a36d47a8915ea221499e02b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 499.0
   },
   {
    "id": "t597b41bc209",
@@ -12692,10 +12692,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367114&pno=1371492&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=ea0dc292e77d11f1af3a8af2fbc4f239&au=8d935915321447d7b3a44ed90b94d58c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:39:01+00:00",
    "real_price": 49.99,
-   "real_old": 69.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367114&pno=1371492&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=ea0dc292e77d11f1af3a8af2fbc4f239&au=8d935915321447d7b3a44ed90b94d58c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 69.99
   },
   {
    "id": "te459f4d4ab0",
@@ -13367,15 +13367,20 @@
    "id": "t73e8962cb47",
    "title": "8.7\" Amazon Echo Show 8 HD Smart Display (Graphite) $56 + Free S&H",
    "price": 56.0,
-   "old_price": null,
-   "store": "Amazon",
+   "old_price": 199.0,
+   "store": "Target",
    "url": "https://slickdeals.net/f/20368665-amazon-echo-show-8-graphite-56?utm_source=rss&utm_content=fp&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/3/3/2/6/7/0/300x300/22519488.thumb",
    "posted": "2026-11-22T11:24:03+00:00",
    "cat": "home",
    "cat_label": "Hogar",
    "prio": 20,
-   "refurb": false
+   "refurb": false,
+   "checked_at": "2026-11-23T20:41:03+00:00",
+   "expired": true,
+   "real_price": 56.0,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Visit+Target&sdtid=20368665&pno=1371000&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=32de9e10e77e11f1894fda8cc710b865&au=eec7afca0cc6418b885532a51af4742c&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t50e7076b7ab",
@@ -13955,8 +13960,8 @@
   {
    "id": "t5db12d5a3a0",
    "title": "New Subscribers: 3-Months Frndly TV Streaming Service Plan $1/Month",
-   "price": 1.0,
-   "old_price": null,
+   "price": 0.99,
+   "old_price": 6.99,
    "store": "Frndly TV",
    "url": "https://slickdeals.net/f/20363895-frndly-tv-50-channel-streaming-service-hallmark-lifetime-history-channel-and-more-99c-a-month-for-3-months?utm_source=rss&utm_content=fp&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/3/8/8/1/8/1/300x300/22512948.thumb",
@@ -13965,7 +13970,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760e35dae6e611f180a28e24669f0999&au=b09425ccc6c64a58a99f19e20779a525&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34170628e77e11f188288e8de5a7e9e6&au=f7a3f54ed6784513bc341866281ebb0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T20:41:05+00:00",
+   "real_price": 0.99,
+   "real_old": 6.99
   },
   {
    "id": "te3faf68b28a",
@@ -14016,7 +14024,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=777fca5ae6e611f1bdb41276783eb66b&au=5cad9cdb8dce443ba9274df3fa416bf8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=35693a1ee77e11f1a9be3ad29bc0f464&au=3b354412cc6843d1afda90705bca2e0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T20:41:07+00:00",
+   "real_price": 0.98,
+   "real_old": 5.48
   },
   {
    "id": "tbb9e1637190",
@@ -14077,14 +14088,18 @@
    "title": "iBUYPOWER Element SE Gaming Desktop (Ryzen 7 9700F / RTX 5060 Ti 8GB / 16GB / 1TB) $1299",
    "price": 1299.0,
    "old_price": null,
-   "store": "Slickdeals",
+   "store": "Walmart",
    "url": "https://slickdeals.net/f/20364852-ibuypower-element-se-gaming-desktop-ryzen-7-9700f-rtx-5060-ti-8gb-16gb-1tb-1299?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22510941.thumb",
    "posted": "2026-11-21T18:57:19+00:00",
    "cat": "pc",
    "cat_label": "Computadoras",
    "prio": 1,
-   "refurb": false
+   "refurb": false,
+   "checked_at": "2026-11-23T20:41:09+00:00",
+   "real_price": 1299.0,
+   "real_old": null,
+   "store_url": "https://www.walmart.com/ip/18407959738"
   },
   {
    "id": "t3d8c4be257c",
@@ -14343,15 +14358,19 @@
    "id": "t2e8eb5ceeb9",
    "title": "$99, FS, HD, Milwaukee SHOCKWAVE 3/8 in. Drive SAE and Metric 6 Point Impact Socket Set (43-Piece)",
    "price": 99.0,
-   "old_price": null,
-   "store": "Slickdeals",
+   "old_price": 159.97,
+   "store": "Home Depot",
    "url": "https://slickdeals.net/f/20363037-99-fs-hd-milwaukee-shockwave-3-8-in-drive-sae-and-metric-6-point-impact-socket-set-43-piece?utm_source=rss&utm_content=ht&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22506711.thumb",
    "posted": "2026-11-21T12:29:13+00:00",
    "cat": "home",
    "cat_label": "Hogar",
    "prio": 20,
-   "refurb": false
+   "refurb": false,
+   "checked_at": "2026-11-23T20:41:11+00:00",
+   "real_price": 99.0,
+   "real_old": 159.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20363037&pno=1372200&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=37e834b6e77e11f1a95cd2173370f50c&au=adab8c5288814cf998e2bca482b39739&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4f1c1a882ce",
@@ -17773,11 +17792,11 @@
   {
    "id": "t5db12d5a3a0",
    "title": "New Subscribers: 3-Months Frndly TV Streaming Service Plan /Month",
-   "price": 1.0,
-   "old_price": null,
+   "price": 0.99,
+   "old_price": 6.99,
    "store": "Frndly TV",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760e35dae6e611f180a28e24669f0999&au=b09425ccc6c64a58a99f19e20779a525&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760e35dae6e611f180a28e24669f0999&au=b09425ccc6c64a58a99f19e20779a525&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34170628e77e11f188288e8de5a7e9e6&au=f7a3f54ed6784513bc341866281ebb0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34170628e77e11f188288e8de5a7e9e6&au=f7a3f54ed6784513bc341866281ebb0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/8/8/1/8/1/300x300/22512948.thumb",
    "posted": "2026-11-21T22:51:56+00:00",
    "kind": "tech",
@@ -17789,8 +17808,8 @@
    "offers": [
     {
      "store": "Frndly TV",
-     "price": 1.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760e35dae6e611f180a28e24669f0999&au=b09425ccc6c64a58a99f19e20779a525&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "price": 0.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34170628e77e11f188288e8de5a7e9e6&au=f7a3f54ed6784513bc341866281ebb0c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17839,6 +17858,30 @@
      "store": "Amazon",
      "price": 247.98,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20355156&pno=1370535&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=43dd764ee5f011f1ada9de11bed7723f&au=d623b9f4afb9459e863f99f3f0555d67&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t29be31d236e",
+   "title": "iBUYPOWER Element SE Gaming Desktop (Ryzen 7 9700F / RTX 5060 Ti 8GB / 16GB / 1TB)",
+   "price": 1299.0,
+   "old_price": null,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18407959738",
+   "url": "https://www.walmart.com/ip/18407959738",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22510941.thumb",
+   "posted": "2026-11-21T18:57:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 1299.0,
+     "url": "https://www.walmart.com/ip/18407959738"
     }
    ]
   },
@@ -18417,31 +18460,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20339898&pno=1370109&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45215010e57e11f1b465de29db9d49d2&au=c78ab965a398460982632c672eae2c89&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tbc7aa4504ec",
-   "title": "Ryzen 9800X3D + ASUS X870E-PLUS Board + 32GB V-COLOR DDR5 + 240mm MSI AIO + Free S&H",
-   "price": 959.98,
-   "old_price": 1239.97,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20349063&pno=1370076&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc04bd2ce5c111f186ebb62893609a61&au=f7c83b8b644e4cfc8665ca7efda28a5b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20349063&pno=1370076&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc04bd2ce5c111f186ebb62893609a61&au=f7c83b8b644e4cfc8665ca7efda28a5b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22469517.thumb",
-   "posted": "2026-11-21T02:12:24+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 959.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20349063&pno=1370076&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc04bd2ce5c111f186ebb62893609a61&au=f7c83b8b644e4cfc8665ca7efda28a5b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-23T20:39:04+00:00"
+ "updated": "2026-11-23T20:41:45+00:00"
 }
