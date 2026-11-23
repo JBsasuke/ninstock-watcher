@@ -3163,7 +3163,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-23T20:48:40+00:00",
+ "deku_checked": "2026-11-23T21:52:23+00:00",
  "deals": [
   {
    "id": "cf4b90936e42",
@@ -6795,11 +6795,11 @@
      "url": "https://www.walmart.com/ip/21103052265"
     }
    ],
+   "offers_checked": "2026-11-23T20:48:57+00:00",
    "first_seen": "2026-11-23T19:46:34+00:00",
-   "nintendo": false,
-   "digital": null,
    "publisher": "Clear River Games",
-   "offers_checked": "2026-11-23T20:48:57+00:00"
+   "digital": null,
+   "nintendo": false
   },
   {
    "id": "deku-fitness-boxing-touken-ranbu-shutsujin-exercise-honmaru",
@@ -6855,7 +6855,7 @@
      "url": "https://www.walmart.com/ip/19503674092"
     }
    ],
-   "offers_checked": "2026-11-22T22:00:32+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Spike Chunsoft",
    "digital": null,
@@ -6899,7 +6899,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -6916,7 +6916,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -6959,7 +6959,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -6980,7 +6980,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -7000,7 +7000,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Level-5",
    "digital": {
@@ -7047,7 +7047,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -7081,11 +7081,6 @@
      "url": "https://www.gamestop.com/products/xenoblade-chronicles-3-nintendo-switch-2-edition/440812.html"
     },
     {
-     "store": "Nintendo",
-     "price": 69.99,
-     "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-nintendo-switch-2-edition-125685/"
-    },
-    {
      "store": "Target",
      "price": 69.99,
      "url": "https://www.target.com/p/-/A-1012015072"
@@ -7096,7 +7091,7 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": null,
@@ -7134,7 +7129,7 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -7180,7 +7175,7 @@
      "url": "https://www.walmart.com/ip/20081864427"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Stormind Games",
    "digital": null,
@@ -7200,31 +7195,26 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 39.99,
+     "price": 29.99,
      "url": "https://www.amazon.com/dp/B0H34K6KSD"
     },
     {
+     "store": "Walmart",
+     "price": 29.99,
+     "url": "https://www.walmart.com/ip/20272673772"
+    },
+    {
      "store": "Best Buy",
-     "price": 39.99,
+     "price": 29.99,
      "url": "https://www.bestbuy.com/site/6680893.p?skuId=6680893"
     },
     {
      "store": "GameStop",
      "price": 39.99,
      "url": "https://www.gamestop.com/products/rayman-legends-retold/447026.html"
-    },
-    {
-     "store": "Target",
-     "price": 39.99,
-     "url": "https://www.target.com/p/-/A-1011839194"
-    },
-    {
-     "store": "Walmart",
-     "price": 39.99,
-     "url": "https://www.walmart.com/ip/20272673772"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -7271,7 +7261,7 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -7318,7 +7308,7 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
@@ -7336,7 +7326,7 @@
    "release_date": "2026-12-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -7357,7 +7347,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7395,11 +7385,12 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
-   "nintendo": false
+   "nintendo": false,
+   "publisher": "Silver Lining"
   },
   {
    "id": "deku-gothic-3",
@@ -7433,7 +7424,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": null,
@@ -7452,15 +7443,18 @@
    "collector": false,
    "offers": [
     {
-     "store": "Best Buy",
+     "store": "GameStop",
      "price": 69.99,
-     "url": "https://www.bestbuy.com/site/6669894.p?skuId=6669894"
+     "url": "https://www.gamestop.com/products/the-binding-of-isaac-repentance/436131.html"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
-   "digital": null,
+   "digital": {
+    "price": 69.99,
+    "url": "https://www.nintendo.com/us/store/products/the-binding-of-isaac-repentance-plus-switch-2/"
+   },
    "nintendo": false
   },
   {
@@ -7474,7 +7468,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7522,7 +7516,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7542,7 +7536,7 @@
    "release_date": "2026-11-12",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Shochiku",
    "digital": {
@@ -7565,12 +7559,12 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 39.99,
+     "price": 29.99,
      "url": "https://www.amazon.com/dp/B0HHG6DYHY"
     },
     {
      "store": "Best Buy",
-     "price": 39.99,
+     "price": 29.99,
      "url": "https://www.bestbuy.com/site/6691303.p?skuId=6691303"
     },
     {
@@ -7584,7 +7578,7 @@
      "url": "https://www.target.com/p/-/A-1013451337"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA",
    "digital": {
@@ -7621,7 +7615,7 @@
      "url": "https://www.walmart.com/ip/21285952515"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -7644,26 +7638,26 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 49.99,
+     "price": 39.99,
      "url": "https://www.amazon.com/dp/B0HHGDQ83K"
     },
     {
      "store": "Best Buy",
-     "price": 49.99,
+     "price": 39.99,
      "url": "https://www.bestbuy.com/site/6691304.p?skuId=6691304"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1013451336"
     },
     {
      "store": "GameStop",
      "price": 49.99,
      "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
-    },
-    {
-     "store": "Target",
-     "price": 49.99,
-     "url": "https://www.target.com/p/-/A-1013451336"
     }
    ],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7680,7 +7674,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-19T04:10:49+00:00",
+   "offers_checked": "2026-11-23T21:52:40+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -11376,6 +11370,24 @@
    "real_old": 1299.0
   },
   {
+   "id": "t916808e68b5",
+   "title": "Google Pixel Watch 5 Smartwatch: 45mm GPS $330, 41mm GPS $300 & More + Free S&H",
+   "price": 300.0,
+   "old_price": 400.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20338332-google-pixel-watch-5-smartwatches-various-sizes-colors-frpm-300-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22432668.thumb",
+   "posted": "2026-11-23T21:48:12+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-23T21:54:28+00:00",
+   "real_price": 300.0,
+   "real_old": 400.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td942765bfb3",
    "title": "3' 100W Baseus 2-in-1 Retractable USB-C Cable w/ 2.5W Apple Watch Wireless Charger $13.50 & More",
    "price": 13.49,
@@ -11816,8 +11828,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4b82462e78711f1ba3bbe996e4f63d3&au=5c7be07133314bf5bcbd76f02318bec1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:48:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7608285ae78811f1b8cabe4ed0ec16f4&au=f96dd03a1fd84780abc09d0439023c3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:54:31+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -12404,6 +12416,27 @@
    "real_old": 349.99
   },
   {
+   "id": "tc7528d3bf42",
+   "title": "Refurb: Lenovo ThinkPad X1 Carbon Gen 9 Laptop Intel Core i7-1165G7 16GB 512GB 14\" W11P $431.99",
+   "price": 431.99,
+   "old_price": 608.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20377002-refurb-lenovo-thinkpad-x1-carbon-gen-9-laptop-intel-core-i7-1165g7-16gb-512gb-14-w11p-431-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22538346.thumb",
+   "posted": "2026-11-23T13:55:21+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-23T21:54:33+00:00",
+   "real_price": 431.99,
+   "real_old": 608.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20377002&tid=20377002&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7734c116e78811f1bb21e69b63e4651d&au=8fbec6053ea94e39a170ccc39434e56b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb91218d66a1",
    "title": "Select Samsung EPP/EDU Members: Galaxy Buds4 Pro ANC Wireless Earbuds $123.75 + Free S&H",
    "price": 123.75,
@@ -12708,6 +12741,24 @@
    "checked_at": "2026-11-23T21:06:52+00:00",
    "real_price": 299.99,
    "real_old": 499.99
+  },
+  {
+   "id": "t053092ea281",
+   "title": "Ridgid 18V NUKE SubCompact Brushless 2-Tool Combo Kit w/ (2) MAX Batteries, & Charger w/ 18V 1/2 in. Mid-Torque Impact Wrench $239",
+   "price": 239.0,
+   "old_price": 458.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20375343-ridgid-18v-nuke-subcompact-brushless-2-tool-combo-kit-w-2-max-batteries-charger-w-18v-1-2-in-mid-torque-impact-wrench-239?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22534539.thumb",
+   "posted": "2026-11-23T08:44:30+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-23T21:54:35+00:00",
+   "real_price": 239.0,
+   "real_old": 458.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20375343&tid=20375343&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=7879c076e78811f18c4f7e65aa5791f0&au=14bef7276f1d44159906596e30e7cd5e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb4460902778",
@@ -14670,8 +14721,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a60a6c12e78711f1b5c58af2fbc4f239&au=30f5f4e0b2d94095a34bb25cf562ae33&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:48:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=79f2cbb4e78811f18559ce46b345a71d&au=0bfee390c9aa40de880b5108675a4630&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:54:38+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -14742,8 +14793,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a778b02ce78711f1b0487e65aa5791f0&au=756fbf677187448c80d7857f90d54371&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:48:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7ba8b180e78811f1ad59521a38e05133&au=7a022b71e1e5484089fb7549b6d1ed62&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:54:40+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -15650,64 +15701,6 @@
    "real_price": 99.0,
    "real_old": 168.97,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20361546&tid=20361546&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c9a60cd4e5c111f1a7b222148bf1fc17&au=cadb9b28484444eea1d14a12d3a2919a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t26cd707d355",
-   "title": "37\" Ackima 3-In-1 Magnetic Selfie Stick Tripod for iPhone w/ Wireless Remote $10.30",
-   "price": 10.29,
-   "old_price": 24.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20353707-37-ackima-3-in-1-magnetic-selfie-stick-tripod-for-iphone-w-wireless-remote-10-29-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22482243.thumb",
-   "posted": "2026-11-21T03:28:36+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "WITEA4ZA",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20353707&pno=1370112&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9b8d8e9ce78011f1989c520b16fb8673&au=f1c01c5c29fd436899bd496abe1aedef&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:58:18+00:00",
-   "expired": true,
-   "real_price": 10.29,
-   "real_old": 24.99
-  },
-  {
-   "id": "teedcf4b9aae",
-   "title": "27\" onn 1920x1080 FHD 200Hz Curved Monitor $90.30 + Free S&H",
-   "price": 90.3,
-   "old_price": 129.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20335179-90-30-onn-27-in-curved-fhd-1920-x-1080-amd-freesync-gaming-monitor-200hz?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22435161.thumb",
-   "posted": "2026-11-21T03:27:51+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/831948783",
-   "checked_at": "2026-11-21T07:36:27+00:00",
-   "real_price": 90.3,
-   "real_old": 129.0
-  },
-  {
-   "id": "t20bef7a6d26",
-   "title": "Edifier M90 100W Desktop Speakers w/ Bluetooth 6.0, HDMI eARC & LDAC (2 Colors) $250 + Free S&H",
-   "price": 249.99,
-   "old_price": 369.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20350359-edifier-m90-100w-desktop-speakers-w-bluetooth-6-0-hdmi-earc-ldac-black-or-white-249-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22473366.thumb",
-   "posted": "2026-11-21T03:20:30+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20350359&pno=1370121&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=43f04e4ee57e11f1abdad6ac6bfb9fd6&au=d3e57d1fc13e44e399a154165071646c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T07:36:29+00:00",
-   "real_price": 249.99,
-   "real_old": 369.99
   }
  ],
  "tech": [
@@ -15762,6 +15755,33 @@
      "store": "Amazon",
      "price": 989.1,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375349&pno=1371753&prop=diavail-true%7Cdincp-1%7Cdinpd-16%7Cdipgavail-true&pv=c3684620e77e11f19eaba2793bd6e5bc&au=5b874581115f45e1a5e9341f88dd1568&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t916808e68b5",
+   "title": "Google Pixel Watch 5 Smartwatch: 45mm GPS 41mm GPS & More + Free S&H",
+   "price": 300.0,
+   "old_price": 400.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22432668.thumb",
+   "posted": "2026-11-23T21:48:12+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 300.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16977,6 +16997,33 @@
      "store": "Amazon",
      "price": 299.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375496&tid=20375496&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ce5c32c8e78111f18254ce9fa2643dbc&au=1219b9e731fc48e3b069b20fca703920&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t053092ea281",
+   "title": "Ridgid 18V NUKE SubCompact Brushless 2-Tool Combo Kit",
+   "price": 239.0,
+   "old_price": 458.0,
+   "store": "Home Depot",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20375343&tid=20375343&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=7879c076e78811f18c4f7e65aa5791f0&au=14bef7276f1d44159906596e30e7cd5e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20375343&tid=20375343&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=7879c076e78811f18c4f7e65aa5791f0&au=14bef7276f1d44159906596e30e7cd5e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22534539.thumb",
+   "posted": "2026-11-23T08:44:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Home Depot",
+     "price": 239.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20375343&tid=20375343&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=7879c076e78811f18c4f7e65aa5791f0&au=14bef7276f1d44159906596e30e7cd5e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18783,8 +18830,8 @@
    "price": 0.99,
    "old_price": 6.99,
    "store": "Frndly TV",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a60a6c12e78711f1b5c58af2fbc4f239&au=30f5f4e0b2d94095a34bb25cf562ae33&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a60a6c12e78711f1b5c58af2fbc4f239&au=30f5f4e0b2d94095a34bb25cf562ae33&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=79f2cbb4e78811f18559ce46b345a71d&au=0bfee390c9aa40de880b5108675a4630&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=79f2cbb4e78811f18559ce46b345a71d&au=0bfee390c9aa40de880b5108675a4630&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/8/8/1/8/1/300x300/22512948.thumb",
    "posted": "2026-11-21T22:51:56+00:00",
    "kind": "tech",
@@ -18800,7 +18847,7 @@
     {
      "store": "Frndly TV",
      "price": 0.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a60a6c12e78711f1b5c58af2fbc4f239&au=30f5f4e0b2d94095a34bb25cf562ae33&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=79f2cbb4e78811f18559ce46b345a71d&au=0bfee390c9aa40de880b5108675a4630&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18884,61 +18931,7 @@
      "url": "https://www.walmart.com/ip/18407959738"
     }
    ]
-  },
-  {
-   "id": "t3d8c4be257c",
-   "title": "Beats Studio Buds + True Wireless Active Noise Cancelling Earbuds (Various) from + Free S&H",
-   "price": 89.95,
-   "old_price": 169.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20361018&pno=1370487&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=46197f8ee5f011f1ade122148bf1fc17&au=aed424c11747476f891bf56051dc1f51&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20361018&pno=1370487&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=46197f8ee5f011f1ade122148bf1fc17&au=aed424c11747476f891bf56051dc1f51&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22510890.thumb",
-   "posted": "2026-11-21T18:40:55+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 89.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20361018&pno=1370487&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=46197f8ee5f011f1ade122148bf1fc17&au=aed424c11747476f891bf56051dc1f51&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t8ed70e73a5c",
-   "title": "ACEMAGIC Mini PC: Ryzen 7 7735HS, 24GB DDR5, 512GB SSD + Free S&H",
-   "price": 426.29,
-   "old_price": 669.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324001&pno=1370427&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4a522330e5f011f1a79abe2f0df184ba&au=c473353fdb8d473fb6e2ca9db0964f2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324001&pno=1370427&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4a522330e5f011f1a79abe2f0df184ba&au=c473353fdb8d473fb6e2ca9db0964f2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22510023.thumb",
-   "posted": "2026-11-21T16:55:45+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 426.29,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324001&pno=1370427&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4a522330e5f011f1a79abe2f0df184ba&au=c473353fdb8d473fb6e2ca9db0964f2d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-23T21:49:36+00:00"
+ "updated": "2026-11-23T21:55:31+00:00"
 }
