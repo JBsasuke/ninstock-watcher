@@ -266,6 +266,59 @@ def _parse_date(text):
         return _now()
 
 
+# Códigos de descuento: "apply promo code ABC123", "w/ code SAVE30"... (el código va en mayúsculas/números)
+CODE_RE = re.compile(r"(?i:\b(?:promo(?:tional)?|coupon|discount|checkout)\s+code|\b(?:w/|with|use|using|apply|enter)\s+code)"
+                     r":?\s*[*\"“”'‘’]*([A-Z0-9][A-Z0-9_\-]{2,24})(?![a-z])")
+CODE_STOP = {"AND", "THE", "FOR", "FREE", "OFF", "AT", "CHECKOUT", "REQUIRED", "NEEDED", "BELOW", "ABOVE", "FROM", "CODE"}
+_MESES = {m: i + 1 for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split())}
+CODE_END_RE = re.compile(r"(?:through|thru|until|till|expires?(?:\s+on)?|expiring|ends?(?:\s+on)?|ending|valid\s+(?:to|thru|through|until))"
+                         r"\s+(?:(?:mon|tue|wed|thu|fri|sat|sun)[a-z]*\.?,?\s+)?"
+                         r"(?:(\d{1,2})/(\d{1,2})(?:/(\d{2,4}))?|"
+                         r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?(?:,?\s+(\d{4}))?)", re.I)
+
+
+def find_code(text, posted=None):
+    """Devuelve (código, vence 'AAAA-MM-DD' o None) si el texto de la oferta trae un código de descuento."""
+    code, pos = None, 0
+    for m in CODE_RE.finditer(text or ""):
+        c = m.group(1).strip("-_")
+        if c in CODE_STOP or len(c) < 3 or (len(c) < 4 and not any(ch.isdigit() for ch in c)):
+            continue
+        code, pos = c, m.start()
+        break
+    if not code:
+        return None, None
+    until = None
+    base = (posted or _now()).date()
+    m = CODE_END_RE.search(text[max(0, pos - 250):pos + 350])    # solo fechas dichas junto al código
+    if m:
+        try:
+            if m.group(1):
+                mo, day, yr = int(m.group(1)), int(m.group(2)), m.group(3)
+            else:
+                mo, day, yr = _MESES[m.group(4).lower()[:3]], int(m.group(5)), m.group(6)
+            year = (int(yr) + 2000 if yr and int(yr) < 100 else int(yr)) if yr else base.year
+            dt = datetime.date(year, mo, day)
+            if not yr and (base - dt).days > 60:       # "through 1/5" publicado en diciembre -> enero del año siguiente
+                dt = datetime.date(year + 1, mo, day)
+            if (dt - base).days <= 120:
+                until = dt.isoformat()
+        except (ValueError, KeyError):
+            pass
+    return code, until
+
+
+def code_expired(d):
+    """El código ya venció (se da todo ese día por válido, hora del Pacífico)."""
+    u = d.get("code_until")
+    return bool(u) and (_now() - datetime.timedelta(hours=8)).date().isoformat() > u
+
+
+def _text(raw):
+    t = html.unescape(html.unescape(raw))
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t)).strip()
+
+
 def _items(url):
     r = requests.get(url, headers=HEADERS, timeout=25)
     r.raise_for_status()
@@ -277,6 +330,7 @@ def _items(url):
             "link": (item.findtext("link") or "").strip(),
             "date": _parse_date(item.findtext("pubDate") or ""),
             "image": _find_image(raw),
+            "desc": _text(raw),
         }
 
 
@@ -406,6 +460,9 @@ def fetch_deals(previous, log):
                     "needs_cat": needs_cat,
                     "refurb": bool(IS_REFURB.search(t)),
                 }
+                code, until = find_code(it.get("desc"), it["date"])
+                if code:
+                    deals[did]["code"], deals[did]["code_until"] = code, until
                 for k in ("store_url", "page_checked", "link_v", "store", "checked_at", "expired", "real_price", "real_old",
                           "category_ok"):
                     if k in prev:
@@ -443,7 +500,7 @@ def fetch_deals(previous, log):
         if not (d.get("page_checked") and d.get("link_v") == LINK_VERSION):
             return True
         try:   # cada 6 horas se vuelve a mirar si sigue activa y a qué precio
-            hours = 2 if d.get("refurb") else RECHECK_H   # las reacondicionadas se acaban rápido
+            hours = 2 if (d.get("refurb") or d.get("code")) else RECHECK_H   # las reacondicionadas se acaban rápido
             return _now() - datetime.datetime.fromisoformat(d["checked_at"]) > datetime.timedelta(hours=hours)
         except (KeyError, ValueError):
             return True
@@ -1067,7 +1124,7 @@ def _search_url(store, name):
 def merge_deals(deals):
     groups = {}
     for d in deals:
-        if d.get("expired") or (d.get("needs_cat") and not d.get("category_ok")) or not_for_app(d):
+        if d.get("expired") or code_expired(d) or (d.get("needs_cat") and not d.get("category_ok")) or not_for_app(d):
             continue
         key = game_key(d["title"])
         if d.get("refurb"):
@@ -1125,6 +1182,9 @@ def merge_deals(deals):
         glitch = any(GLITCH_RE.search(d.get("title", "")) for d in items) or pct >= GLITCH_PCT
         deku = next((d for d in items if d.get("source") == "dekudeals"), None)
         name = clean_name((deku or min(items, key=lambda d: len(d["title"])))["title"])
+        # código de descuento: solo si es de la oferta que da el mejor precio (misma tienda)
+        con_code = next((d for d in items if d.get("code") and d.get("store") == best["store"]
+                         and (d.get("price") is None or d["price"] <= best["price"] + 0.01)), None)
         out.append({
             "id": hashlib.md5(key.encode()).hexdigest()[:12],
             "title": name,
@@ -1141,6 +1201,8 @@ def merge_deals(deals):
             "digital": next((d["digital"] for d in items if d.get("digital")), None),
             "refurb": any(d.get("refurb") for d in items),
             "glitch": glitch,
+            "code": con_code["code"] if con_code else None,
+            "code_until": con_code.get("code_until") if con_code else None,
         })
     out.sort(key=lambda d: d["posted"], reverse=True)
     return out
@@ -1194,7 +1256,8 @@ TECH_FEEDS = [
 ] + [f"https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1&q={q}" for q in (
     "laptop", "tv", "monitor", "mini+pc", "mac+mini", "macbook", "ipad", "nvidia", "rtx", "radeon", "ryzen",
     "intel+core", "ssd", "desktop", "gaming+pc", "airpods", "headphones", "router", "dgx+spark",
-    "price+mistake", "price+error", "glitch")]
+    "price+mistake", "price+error", "glitch",
+    "promo+code", "coupon+code", "samsung", "lg", "lenovo", "dell", "hp", "sony", "apple", "google+pixel")]
 
 # (categoría, etiqueta, prioridad: más bajo = más arriba, regex)
 TECH_CATS = [
@@ -1227,16 +1290,24 @@ TECH_SKIP = re.compile(r"rog ally|legion go|handheld|\b\d+(\.\d+)?-?\s?oz\b|k-?c
                        r"vitamin|supplement|credit card|\bcasino\b", re.I)
 TECH_KEEP_DAYS = 5
 TECH_MAX = 120
-TECH_LOOKUPS = 20        # páginas de oferta que se abren por corrida (para el link directo y el precio real)
+CODE_RECHECK_H = 2       # las ofertas con código se vuelven a mirar cada 2 h; si ya vencieron, se quitan
+TECH_LOOKUPS = 25        # páginas de oferta que se abren por corrida (para el link directo y el precio real)
 
 
-def tech_category(title):
+TECH_BRANDS = re.compile(r"samsung|\blg\b|lenovo|\bdell\b|\bhp\b|\basus\b|\bacer\b|\bmsi\b|\bsony\b|\bapple\b|"
+                         r"google|pixel|motorola|oneplus|anker|ugreen|logitech|razer|corsair|best buy|newegg|"
+                         r"b&h|micro center|\bphone\b|\b5g\b|unlocked", re.I)
+
+
+def tech_category(title, has_code=False):
     if TECH_SKIP.search(title):
         return None
     for c, label, prio, rx in TECH_RES:
         if rx.search(title):
             return c, label, prio
     if GLITCH_RE.search(title):          # error de precio de cualquier otra cosa
+        return "otros", "Otros", 15
+    if has_code and TECH_BRANDS.search(title):   # código de descuento de una marca/tienda de tecnología
         return "otros", "Otros", 15
     return None
 
@@ -1249,7 +1320,8 @@ def fetch_tech(previous, log):
                 t = it["title"]
                 if not it["link"]:
                     continue
-                cat = tech_category(t)
+                code, until = find_code(it.get("desc"), it["date"])
+                cat = tech_category(t, bool(code))
                 if not cat:
                     continue
                 did = "t" + hashlib.md5(it["link"].encode()).hexdigest()[:11]
@@ -1259,6 +1331,8 @@ def fetch_tech(previous, log):
                      "url": it["link"], "image": it["image"] or prev.get("image"),
                      "posted": it["date"].isoformat(timespec="seconds"),
                      "cat": cat[0], "cat_label": cat[1], "prio": cat[2], "refurb": bool(IS_REFURB.search(t))}
+                if code:
+                    d["code"], d["code_until"] = code, until
                 for k in ("store_url", "checked_at", "expired", "real_price", "real_old", "store"):
                     if k in prev and prev[k]:
                         d[k] = prev[k]
@@ -1269,7 +1343,7 @@ def fetch_tech(previous, log):
     for d in deals.values():   # precios mal leídos antes (ej. "1" de "1,299"): volver a revisar
         if d.get("real_price") is not None and d["real_price"] < 5:
             d.pop("real_price", None); d.pop("real_old", None); d.pop("checked_at", None)
-        cat = tech_category(d["title"])           # reclasificar con las reglas nuevas
+        cat = tech_category(d["title"], bool(d.get("code")))           # reclasificar con las reglas nuevas
         if cat:
             d["cat"], d["cat_label"], d["prio"] = cat
         else:
@@ -1287,7 +1361,8 @@ def fetch_tech(previous, log):
             continue
         if d.get("checked_at"):
             try:
-                if _now() - datetime.datetime.fromisoformat(d["checked_at"]) < datetime.timedelta(hours=RECHECK_H):
+                horas = CODE_RECHECK_H if d.get("code") else RECHECK_H
+                if _now() - datetime.datetime.fromisoformat(d["checked_at"]) < datetime.timedelta(hours=horas):
                     continue
             except ValueError:
                 pass
@@ -1312,8 +1387,8 @@ def fetch_tech(previous, log):
         if d.get("real_price"):
             d["price"], d["old_price"] = d["real_price"], d.get("real_old")
         key = re.sub(r"[^a-z0-9]+", " ", clean_name(d["title"]).lower()).strip()[:60]
-        if (d.get("expired") or not d.get("store_url") or not real_image(d.get("image")) or d.get("price") is None
-                or key in seen or BAD_STORE.search(d.get("store") or "")):
+        if (d.get("expired") or code_expired(d) or not d.get("store_url") or not real_image(d.get("image"))
+                or d.get("price") is None or key in seen or BAD_STORE.search(d.get("store") or "")):
             continue
         seen.add(key)
         out.append(d)
@@ -1330,6 +1405,7 @@ def fetch_tech(previous, log):
             "image": d["image"], "posted": d["posted"], "kind": "tech", "section": "home" if d["prio"] >= 20 else "tech",
             "cat": d["cat"], "cat_label": d["cat_label"], "refurb": d.get("refurb", False),
             "glitch": bool(GLITCH_RE.search(d["title"])) or (d["price"] >= 1 and _disc(d) >= GLITCH_PCT),
+            "code": d.get("code"), "code_until": d.get("code_until"),
             "offers": [{"store": d["store"], "price": d["price"], "url": d["store_url"]}]}
            for d in out[:TECH_MAX]]
     return keep, app
