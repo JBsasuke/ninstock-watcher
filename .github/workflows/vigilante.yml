@@ -1,28 +1,35 @@
 name: Vigilante NinStock
 
+# El vigilante corre "en cadena": cada corrida se queda revisando cada pocos minutos durante unas
+# 5 horas y, al terminar, lanza la siguiente. Así no depende del reloj de GitHub (que se atrasa horas).
 on:
   schedule:
-    - cron: "*/5 * * * *"   # cada 5 minutos (GitHub a veces se atrasa unos minutos)
-  workflow_dispatch:         # botón "Run workflow" para probar a mano
+    - cron: "17,47 * * * *"  # respaldo: si la cadena se cae, esto la vuelve a arrancar
+  workflow_dispatch:         # botón "Run workflow": reinicia la cadena al momento
     inputs:
       prueba:
         description: "Mandar notificación de prueba"
         type: boolean
         default: false
+      cadena:
+        description: "(interno) siguiente eslabón de la cadena"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: vigilante
-  cancel-in-progress: false
+  # Solo el botón manual corta la corrida en marcha; el respaldo y la cadena esperan su turno
+  cancel-in-progress: ${{ github.event_name == 'workflow_dispatch' && !inputs.cadena }}
 
 jobs:
   revisar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 345
     steps:
-      # Siempre la versión más nueva del repo (no la de cuando se lanzó la corrida)
       - uses: actions/checkout@v4
         with:
           ref: main
@@ -35,51 +42,64 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Revisar productos
-        timeout-minutes: 12
+      - name: Revisar productos (en bucle)
         env:
           PYTHONDONTWRITEBYTECODE: "1"
           BESTBUY_API_KEY: ${{ secrets.BESTBUY_API_KEY }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: |
-          if [ "${{ inputs.prueba }}" = "true" ]; then
-            python watcher.py --test
-          else
-            python watcher.py
-          fi
-
-      - name: Guardar estado
+          GH_TOKEN: ${{ github.token }}
+          PRUEBA: ${{ inputs.prueba }}
+          CADA_S: "240"        # una revisión cada 4 minutos como mínimo
+          DURA_S: "18600"      # 5 h 10 min por eslabón
         run: |
           git config user.name "ninstock-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git rm -r -q --cached __pycache__ 2>/dev/null || true
-          if git diff --staged --quiet; then
-            echo "Sin cambios que guardar"
-            exit 0
+
+          guardar() {
+            git add -A
+            git rm -r -q --cached __pycache__ 2>/dev/null || true
+            if git diff --staged --quiet; then
+              echo "Sin cambios que guardar"; return 0
+            fi
+            git commit -q -m "Estado actualizado"
+            # Si el repo cambió mientras corría, se juntan los cambios (gana lo de esta corrida)
+            for intento in 1 2 3 4 5; do
+              if git push -q origin HEAD:main; then echo "Guardado"; return 0; fi
+              echo "El repo cambió mientras corría; juntando cambios (intento $intento)…"
+              git fetch -q origin main
+              mio=$(git rev-parse HEAD)
+              if ! git rebase -X theirs origin/main; then
+                git rebase --abort
+                git reset -q --hard origin/main
+                git checkout "$mio" -- feed.json state.json 2>/dev/null || true
+                git checkout "$mio" -- history debug 2>/dev/null || true
+                git add -A
+                git diff --staged --quiet || git commit -q -m "Estado actualizado"
+              fi
+              sleep $((intento * 3))
+            done
+            echo "No se pudo guardar después de 5 intentos"; return 1
+          }
+
+          if [ "$PRUEBA" = "true" ]; then
+            python watcher.py --test || true
+            guardar || true
           fi
-          git commit -m "Estado actualizado"
-          # Si otra corrida guardó algo mientras tanto, se juntan los cambios
-          # (gana lo de esta corrida, que es lo más reciente) y se reintenta.
-          for intento in 1 2 3 4 5; do
-            if git push origin HEAD:main; then
-              echo "Guardado"
-              exit 0
-            fi
-            echo "El repo cambió mientras corría; juntando cambios (intento $intento)…"
-            git fetch origin main
-            mio=$(git rev-parse HEAD)
-            if ! git rebase -X theirs origin/main; then
-              # Plan B: partir de lo último del repo y poner encima solo los archivos que genera el vigilante
-              git rebase --abort
-              git reset --hard origin/main
-              git checkout "$mio" -- feed.json state.json 2>/dev/null || true
-              git checkout "$mio" -- history debug 2>/dev/null || true
-              git add -A
-              git diff --staged --quiet || git commit -m "Estado actualizado"
-            fi
-            sleep $((intento * 3))
+
+          inicio=$(date +%s); vuelta=0
+          while [ $(( $(date +%s) - inicio )) -lt "$DURA_S" ]; do
+            t0=$(date +%s); vuelta=$((vuelta + 1))
+            echo "::group::Vuelta $vuelta — $(date -u +%H:%M:%S) UTC"
+            # Siempre el código más nuevo del repo (los cambios entran solos en la siguiente vuelta)
+            git fetch -q origin main && git reset -q --hard origin/main
+            timeout 720 python watcher.py || echo "La revisión falló o tardó demasiado; se sigue con la próxima"
+            guardar || true
+            echo "::endgroup::"
+            falta=$(( CADA_S - ( $(date +%s) - t0 ) ))
+            [ "$falta" -gt 0 ] && sleep "$falta"
           done
-          echo "No se pudo guardar después de 5 intentos"
-          exit 1
+
+          # Siguiente eslabón de la cadena
+          gh workflow run vigilante.yml --repo "$GITHUB_REPOSITORY" --ref main -f cadena=true \
+            || echo "No se pudo lanzar el siguiente eslabón; el respaldo lo arrancará"
