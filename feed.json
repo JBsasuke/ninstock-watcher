@@ -14,13 +14,13 @@
    "posted": "2026-11-23T21:10:02+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-23T21:10:39+00:00",
-   "category_ok": true,
-   "real_price": 24.88,
-   "real_old": 49.99,
    "store_url": "https://www.walmart.com/ip/19492359868",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T21:10:39+00:00",
+   "real_price": 24.88,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "fb12a38b6689",
@@ -35,13 +35,13 @@
    "posted": "2026-11-23T21:09:32+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-23T21:10:35+00:00",
-   "category_ok": true,
-   "real_price": 9.99,
-   "real_old": 26.24,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52c2dd6ee78211f1a3d5be4ed0ec16f4&au=fbf7382c99ab4200aad873cd8f4a793f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T21:10:35+00:00",
+   "real_price": 9.99,
+   "real_old": 26.24,
+   "category_ok": true
   },
   {
    "id": "3f12f052d6e2",
@@ -56,13 +56,13 @@
    "posted": "2026-11-23T21:09:32+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-23T21:10:37+00:00",
-   "category_ok": true,
-   "real_price": 9.99,
-   "real_old": 26.24,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5417526ce78211f194de16b5dfe6cbc7&au=4db4f73b515c4582a77f6f28d3e055e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-23T21:10:37+00:00",
+   "real_price": 9.99,
+   "real_old": 26.24,
+   "category_ok": true
   },
   {
    "id": "45fc52c43038",
@@ -11766,8 +11766,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7500352ae78211f199c9c2cd35930657&au=0b41f8547a474ba08712350c1dd73da7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:11:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d0dbfdae78311f1ba705e59ab53ac00&au=fc02b43a2b604820a89b78c604358beb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:16:14+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -11968,6 +11968,24 @@
    "checked_at": "2026-11-23T19:49:03+00:00",
    "real_price": 1199.0,
    "real_old": 1499.0
+  },
+  {
+   "id": "t4e9d73af035",
+   "title": "Insignia 75-inch Class F50 Series LED 2160p 4K UHD Smart Fire TV $349.99",
+   "price": 349.99,
+   "old_price": 599.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20378985-insignia-75-inch-class-f50-series-led-2160p-4k-uhd-smart-fire-tv-349-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22544541.thumb",
+   "posted": "2026-11-23T17:27:15+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-23T21:16:16+00:00",
+   "real_price": 349.99,
+   "real_old": 599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9b60954ffb8",
@@ -14525,8 +14543,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7631d49ee78211f1b48c0ec439c10e4e&au=2fabbbf6e9554139a413d25b6b16d5c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:11:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1fc0c11ee78311f1b529da8cc710b865&au=5b40a6c439bf4882bfe0f19cec03b92d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:16:18+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -14597,8 +14615,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=77ccb260e78211f18c08164c2c0ab85d&au=515c238ad4b04f67920e7a360a19f46d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:11:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=21051da4e78311f18b36ce9fa2643dbc&au=7dad3ded272f42b7859147f595fb683b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:16:21+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -14868,9 +14886,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20359284&pno=1370358&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b9150866e5c111f1b5895203a9087548&au=71c4ee69036b425381bc68ef442b2962&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-21T15:39:22+00:00",
    "real_price": 949.99,
@@ -15670,8 +15685,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20354223&pno=1370061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=79313b26e78211f1ad7a164c2c0ab85d&au=f83ff6162af04cb197770db841440bf8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:11:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20354223&pno=1370061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22769a82e78311f1b3e4da8cc710b865&au=1e961022f8514d909c42b07d77fde8f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-23T21:16:23+00:00",
    "real_price": 4.99,
    "real_old": 59.99
   },
@@ -15710,24 +15725,6 @@
    "checked_at": "2026-11-21T21:12:58+00:00",
    "real_price": 79.99,
    "real_old": 199.95
-  },
-  {
-   "id": "t8b79277b753",
-   "title": "27\" Alienware AW2725D QD-OLED 360Hz QHD Gaming Monitor w/ Adjustable Stand $379 + Free S&H",
-   "price": 379.0,
-   "old_price": 649.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20353176-379-27-alienware-aw2725d-qd-oled-360hz-gaming-monitor-w-adjustable-stand-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22480620.thumb",
-   "posted": "2026-11-21T01:06:59+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20353176&pno=1370028&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=54686b90e5f011f18434625a66184cd5&au=8ea33846b62a4ff3b88ed5a6ae0a977b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T21:13:00+00:00",
-   "real_price": 379.0,
-   "real_old": 649.99
   }
  ],
  "tech": [
@@ -16241,6 +16238,33 @@
      "store": "Amazon",
      "price": 1199.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377602&pno=1372086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ef1567d8e77611f195e8c613b2c17df0&au=3755c2c8be1a4c9e996993278975879e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t4e9d73af035",
+   "title": "Insignia 75-inch Class F50 Series LED 2160p 4K UHD Smart Fire TV",
+   "price": 349.99,
+   "old_price": 599.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22544541.thumb",
+   "posted": "2026-11-23T17:27:15+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18614,8 +18638,8 @@
    "price": 0.99,
    "old_price": 6.99,
    "store": "Frndly TV",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7631d49ee78211f1b48c0ec439c10e4e&au=2fabbbf6e9554139a413d25b6b16d5c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7631d49ee78211f1b48c0ec439c10e4e&au=2fabbbf6e9554139a413d25b6b16d5c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1fc0c11ee78311f1b529da8cc710b865&au=5b40a6c439bf4882bfe0f19cec03b92d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1fc0c11ee78311f1b529da8cc710b865&au=5b40a6c439bf4882bfe0f19cec03b92d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/8/8/1/8/1/300x300/22512948.thumb",
    "posted": "2026-11-21T22:51:56+00:00",
    "kind": "tech",
@@ -18631,7 +18655,7 @@
     {
      "store": "Frndly TV",
      "price": 0.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7631d49ee78211f1b48c0ec439c10e4e&au=2fabbbf6e9554139a413d25b6b16d5c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1fc0c11ee78311f1b529da8cc710b865&au=5b40a6c439bf4882bfe0f19cec03b92d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18931,34 +18955,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20339538&pno=1368351&prop=diavail-true%7Cdincp-1%7Cdinpd-10%7Cdipgavail-true&pv=be723d7ee5c111f1b30902ea75347856&au=13f230400c6b45f1967bcc3e32d78f51&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t384a7136b7c",
-   "title": ": Makita BL1850BDC2X1 18V LXT® Battery and Rapid Optimum Charger Starter Pack (5.0Ah)",
-   "price": 129.0,
-   "old_price": 369.0,
-   "store": "Fasteners Inc",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20362491&tid=20362491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4e1f4538e5f011f18f27625a66184cd5&au=9f95b41d5a7544a6b101d116eb64348c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20362491&tid=20362491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4e1f4538e5f011f18f27625a66184cd5&au=9f95b41d5a7544a6b101d116eb64348c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22505439.thumb",
-   "posted": "2026-11-21T09:26:10+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Fasteners Inc",
-     "price": 129.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20362491&tid=20362491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4e1f4538e5f011f18f27625a66184cd5&au=9f95b41d5a7544a6b101d116eb64348c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-23T21:12:32+00:00"
+ "updated": "2026-11-23T21:17:11+00:00"
 }
