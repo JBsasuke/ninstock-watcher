@@ -13327,6 +13327,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -13560,9 +13563,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376606&pno=1372353&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c91b8720e79311f1a1086622a2b90021&au=6c62290adc1c42c3b4e4527a49f5fe83&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T23:15:35+00:00",
    "real_price": 37.16,
@@ -14257,9 +14257,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -14689,8 +14686,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9eae4554e80111f19c9c9e8359c3e013&au=60b7cf24728143e7b4d7d3e80866ade3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:21:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=426c5460e80211f1a2a09e8359c3e013&au=3b50a133a28c4ef2806c24495f48b1cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:26:23+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15526,8 +15523,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a02ced7ce80111f1a2cfb6ae1fe76f64&au=22e2da94cd6344ac9aa0003f3891eeda&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:21:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=43a2c8dce80211f1933fd67b8df3b168&au=7f8747c25fa44ea59fcc4695802ca95f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:26:25+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -19559,5 +19556,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T12:22:44+00:00"
+ "updated": "2026-11-24T12:27:21+00:00"
 }
