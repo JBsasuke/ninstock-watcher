@@ -98,13 +98,13 @@
    "posted": "2026-11-24T00:39:53+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T00:52:55+00:00",
-   "category_ok": true,
-   "real_price": 49.99,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62524a98e7a111f1ae215e59ab53ac00&au=dde065c85ea3492f8660d1b3f1398611&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T00:52:55+00:00",
+   "real_price": 49.99,
+   "real_old": null,
+   "category_ok": true
   },
   {
    "id": "a7171c289b71",
@@ -11743,6 +11743,24 @@
    "real_old": 1299.0
   },
   {
+   "id": "tfde18a97e7f",
+   "title": "Samsung EPP/EDU: 40\" Odyssey G7 G75F 4K VA 180Hz 1ms Curved Gaming Monitor $585 + Free S&H",
+   "price": 585.0,
+   "old_price": 1000.0,
+   "store": "Samsung",
+   "url": "https://slickdeals.net/f/20335983-samsung-epp-edu-40-odyssey-g75f-5120x2160-180hz-va-1000r-curved-monitor-584-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/6/1/4/3/300x300/22425231.thumb",
+   "posted": "2026-11-24T00:54:33+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-24T00:58:17+00:00",
+   "real_price": 585.0,
+   "real_old": 1000.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20335983&pno=1372416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22634684e7a211f1bfee8e9183e511cb&au=8bfb1fe9588243639268ad7fc4a4c4e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t058001c5fa8",
    "title": "DEWALT 20V MAX Cordless Jobsite Fan (Tool Only) $72 + Free S&H w/ Prime",
    "price": 71.99,
@@ -12421,9 +12439,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -12796,8 +12811,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80d86218e7a111f1a097cad321e15c30&au=f74b5d1d9b8a445aa50d2979119e6618&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:53:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2381a038e7a211f1b724a63b62af86b5&au=6ce8015eec694ed293019c0943b18fdb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:58:19+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -13361,8 +13376,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=81f62676e7a111f1a4930aaf12b3b72c&au=2d22e5424c1c453691fc2117d85fa5f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:53:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=24a08236e7a211f1adca96fe147dd7f2&au=e1df38f32a9e44ffbe235a8204c2bdd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:58:21+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -15967,8 +15982,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83500104e7a111f183527e1c11f798ab&au=7d4853e9958b4446bce718ed8daf8087&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:53:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25d5acd0e7a211f193a0ea5407b93174&au=cc2cf1f67f404d74ad05c6b9ad25b409&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:58:23+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -16039,8 +16054,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=84d968d0e7a111f1978b8e9183e511cb&au=dda130f9964f40b99a53e79a974d15a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:53:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=27197fc2e7a211f1a9b90aaf12b3b72c&au=232aff24f5b145928d39d53f11946635&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:58:25+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -16061,24 +16076,6 @@
    "real_price": 29.99,
    "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20362803&pno=1370547&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42aa9b94e5f011f194b7aabbcc321805&au=eeeaee56cbd148da8bf14e0d950232ff&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t01a1f75e230",
-   "title": "50\" Hisense E6SR Series Hi-QLED 4K UHD TV $248 + Free S&H",
-   "price": 247.98,
-   "old_price": 349.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20355156-50-hisense-e6sr-series-hi-qled-4k-uhd-tv-248-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22486671.thumb",
-   "posted": "2026-11-21T19:45:48+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20355156&pno=1370535&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=43dd764ee5f011f1ada9de11bed7723f&au=d623b9f4afb9459e863f99f3f0555d67&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T21:12:32+00:00",
-   "real_price": 247.98,
-   "real_old": 349.99
   }
  ],
  "tech": [
@@ -16133,6 +16130,33 @@
      "store": "Amazon",
      "price": 989.1,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375349&pno=1371753&prop=diavail-true%7Cdincp-1%7Cdinpd-16%7Cdipgavail-true&pv=c3684620e77e11f19eaba2793bd6e5bc&au=5b874581115f45e1a5e9341f88dd1568&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tfde18a97e7f",
+   "title": "Samsung EPP/EDU: 40\" Odyssey G7 G75F 4K VA 180Hz 1ms Curved Gaming Monitor + Free S&H",
+   "price": 585.0,
+   "old_price": 1000.0,
+   "store": "Samsung",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20335983&pno=1372416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22634684e7a211f1bfee8e9183e511cb&au=8bfb1fe9588243639268ad7fc4a4c4e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20335983&pno=1372416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22634684e7a211f1bfee8e9183e511cb&au=8bfb1fe9588243639268ad7fc4a4c4e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/6/1/4/3/300x300/22425231.thumb",
+   "posted": "2026-11-24T00:54:33+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Samsung",
+     "price": 585.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20335983&pno=1372416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22634684e7a211f1bfee8e9183e511cb&au=8bfb1fe9588243639268ad7fc4a4c4e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17546,8 +17570,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=81f62676e7a111f1a4930aaf12b3b72c&au=2d22e5424c1c453691fc2117d85fa5f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=81f62676e7a111f1a4930aaf12b3b72c&au=2d22e5424c1c453691fc2117d85fa5f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=24a08236e7a211f1adca96fe147dd7f2&au=e1df38f32a9e44ffbe235a8204c2bdd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=24a08236e7a211f1adca96fe147dd7f2&au=e1df38f32a9e44ffbe235a8204c2bdd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -17563,7 +17587,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=81f62676e7a111f1a4930aaf12b3b72c&au=2d22e5424c1c453691fc2117d85fa5f5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=24a08236e7a211f1adca96fe147dd7f2&au=e1df38f32a9e44ffbe235a8204c2bdd4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19282,34 +19306,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20329365&pno=1369293&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=848906d8e64d11f1ad48061a0f492b30&au=d2ce0c346d3d474d83a5834dc04a29f3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tc95c825f2c2",
-   "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor + Free S&H",
-   "price": 854.98,
-   "old_price": 1599.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1370949&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=85b258ace64d11f18d4c7a4e96213ca2&au=aff6248febff4de7b59d651fe8936976&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1370949&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=85b258ace64d11f18d4c7a4e96213ca2&au=aff6248febff4de7b59d651fe8936976&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22496301.thumb",
-   "posted": "2026-11-22T07:56:24+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 854.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1370949&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=85b258ace64d11f18d4c7a4e96213ca2&au=aff6248febff4de7b59d651fe8936976&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T00:54:43+00:00"
+ "updated": "2026-11-24T00:59:12+00:00"
 }
