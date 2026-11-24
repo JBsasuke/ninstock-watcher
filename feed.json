@@ -548,10 +548,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-24T19:31:21+00:00",
+   "expired": true,
    "real_price": 124.99,
    "real_old": null,
-   "category_ok": false,
-   "expired": true
+   "category_ok": false
   },
   {
    "id": "c6b28a282a23",
@@ -1076,7 +1076,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=643d3d2ce7a611f1b7d42eafe04cb2a7&au=c424be32e849472297fee4ced57ba55d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T13:34:52+00:00",
+   "checked_at": "2026-11-24T19:36:10+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -11912,10 +11912,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T19:32:18+00:00",
    "real_price": 69.99,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "t7635ef13b65",
@@ -11973,6 +11973,27 @@
    "checked_at": "2026-11-24T19:09:03+00:00",
    "real_price": 89.0,
    "real_old": 178.0
+  },
+  {
+   "id": "t1038a11763f",
+   "title": "Dyson V15 Detect Cordless Vacuum (Yellow/Nickel, Refurbished) $291.99 + Free Shipping",
+   "price": 291.99,
+   "old_price": 849.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20388774-dyson-v15-detect-cordless-vacuum-yellow-nickel-refurbished-291-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22568712.thumb",
+   "posted": "2026-11-24T19:02:50+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T19:37:05+00:00",
+   "real_price": 291.99,
+   "real_old": 849.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20388774&tid=20388774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6d67aa84e83e11f1b2e64a9e8c57c2e0&au=b9bb7403d0b34416bc875289ed9df98a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t94b4458aabb",
@@ -13049,9 +13070,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -13710,8 +13728,7 @@
    "prio": 5,
    "refurb": false,
    "checked_at": "2026-11-24T19:32:20+00:00",
-   "real_price": 299.0,
-   "real_old": null
+   "real_price": 299.0
   },
   {
    "id": "t89176c1542a",
@@ -14813,8 +14830,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:32:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ea8984ae83e11f1aa02be86e17fbd48&au=7415c0438a084328b62ee3ac9c8e8a02&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T19:37:07+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16252,24 +16269,6 @@
    "checked_at": "2026-11-24T15:55:27+00:00",
    "real_price": 19.99,
    "real_old": 34.99
-  },
-  {
-   "id": "tb8b3d11d4b4",
-   "title": "ECOVACS DEEBOT X12 OMNICYCLONE Robot Vacuum & Mop w/ Bagless Self-Empty Station $849 + Free Shipping",
-   "price": 849.0,
-   "old_price": 1499.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380491-ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-w-bagless-self-empty-station-849-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22548378.thumb",
-   "posted": "2026-11-23T20:46:23+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380491&tid=20380491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=613fd306e82711f197e87a21c797663e&au=f80abe4fbca34eddaf296dc589b99e44&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:52:06+00:00",
-   "real_price": 849.0,
-   "real_old": 1499.99
   }
  ],
  "tech": [
@@ -17261,7 +17260,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18703,8 +18702,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ea8984ae83e11f1aa02be86e17fbd48&au=7415c0438a084328b62ee3ac9c8e8a02&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ea8984ae83e11f1aa02be86e17fbd48&au=7415c0438a084328b62ee3ac9c8e8a02&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18720,7 +18719,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ea8984ae83e11f1aa02be86e17fbd48&au=7415c0438a084328b62ee3ac9c8e8a02&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19508,5 +19507,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T19:33:21+00:00"
+ "updated": "2026-11-24T19:38:02+00:00"
 }
