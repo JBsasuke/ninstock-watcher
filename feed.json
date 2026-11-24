@@ -56,13 +56,13 @@
    "posted": "2026-11-24T19:50:20+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T21:04:08+00:00",
-   "category_ok": true,
-   "real_price": 19.99,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=96c8903ae84a11f1a793ee28fcd547bf&au=499b9fa2051b42b1ab20929103d523f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T21:04:08+00:00",
+   "real_price": 19.99,
+   "real_old": 29.99,
+   "category_ok": true
   },
   {
    "id": "c15cb492b4f6",
@@ -400,10 +400,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386860&tid=20386860&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=bd1cf8ace81811f1b953e655b3794590&au=bf87098fce5f494ca605aff4ccc29b48&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T15:07:17+00:00",
+   "checked_at": "2026-11-24T21:08:48+00:00",
    "real_price": 31.99,
    "real_old": 79.99,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "6c2114579872",
@@ -421,10 +422,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386860&tid=20386860&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=be425984e81811f1a9fce6d967342077&au=06dbcb3b900244c9932dd786f612dda1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T15:07:19+00:00",
+   "checked_at": "2026-11-24T21:08:50+00:00",
    "real_price": 31.99,
    "real_old": 79.99,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "8ee396407c72",
@@ -13405,9 +13407,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -14536,10 +14535,10 @@
    "code": "LOGITECH",
    "code_until": "2026-12-04",
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T21:05:03+00:00",
    "real_price": 22.49,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "te1a29b80904",
@@ -15246,8 +15245,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T21:05:05+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=60426cbae84b11f182631a0ad3898301&au=46412be6dd66482481e9e038ca2c63db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T21:09:46+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -17635,7 +17634,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19104,8 +19103,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=60426cbae84b11f182631a0ad3898301&au=46412be6dd66482481e9e038ca2c63db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=60426cbae84b11f182631a0ad3898301&au=46412be6dd66482481e9e038ca2c63db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -19121,7 +19120,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=60426cbae84b11f182631a0ad3898301&au=46412be6dd66482481e9e038ca2c63db&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19477,5 +19476,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T21:05:59+00:00"
+ "updated": "2026-11-24T21:10:43+00:00"
 }
