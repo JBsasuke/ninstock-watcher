@@ -14,13 +14,13 @@
    "posted": "2026-11-24T18:21:34+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T18:25:49+00:00",
-   "category_ok": true,
-   "real_price": 7.99,
-   "real_old": 10.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=793203aae83411f1b87b8246bc31b55e&au=9795f51f800e4e42bcc2cba293149030&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T18:25:49+00:00",
+   "real_price": 7.99,
+   "real_old": 10.99,
+   "category_ok": true
   },
   {
    "id": "a45b178fa867",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T18:21:34+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T18:25:51+00:00",
-   "category_ok": true,
-   "real_price": 7.99,
-   "real_old": 10.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7a55e8dce83411f1bdabced9e43f0538&au=2f24cbe67aa44b4cabd89909e69d8987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T18:25:51+00:00",
+   "real_price": 7.99,
+   "real_old": 10.99,
+   "category_ok": true
   },
   {
    "id": "c70752cc5188",
@@ -2460,27 +2460,6 @@
    "category_ok": true
   },
   {
-   "id": "25d9f655855d",
-   "title": "GameStop Pro Members: Pre-Owned Video Games (PS5, Xbox, Switch 2 & More) Buy 2 Get 1 Free + Free S&H on $54+",
-   "price": 60.0,
-   "old_price": null,
-   "store": "GameStop",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20367735-gamestop-pro-rewards-early-access-buy-2-get-1-free-all-pre-owned-games?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/2/2/8/9/3/1/300x300/22520583.thumb",
-   "posted": "2026-11-22T18:30:25+00:00",
-   "needs_cat": true,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+GameStop&sdtid=20367735&pno=1371165&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb5188fae6bf11f1bff5463c55730e04&au=cd643a23ff144836b29aef8b652c4d78&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-24T18:25:54+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "category_ok": true
-  },
-  {
    "id": "39920568a862",
    "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
    "price": 49.99,
@@ -3174,6 +3153,27 @@
    "page_checked": true,
    "link_v": 3,
    "expired": true
+  },
+  {
+   "id": "67ff87e16e68",
+   "title": "*Military Only* Select Nintendo Switch & Switch 2 Games - $20 + S&H or FS with MilStar",
+   "price": 19.99,
+   "old_price": 60.0,
+   "store": "Coast Guard Exchange",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20367414-military-only-select-nintendo-switch-switch-2-games-20-s-h-or-fs-with-milstar?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/3/0/1/9/300x300/22516671.thumb",
+   "posted": "2026-11-22T06:07:39+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T18:30:35+00:00",
+   "category_ok": true,
+   "real_price": 19.99,
+   "real_old": 60.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20367414&tid=20367414&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2339d56ce83511f1b257ee55850d810c&au=e425bc8bbb4d4337a3cd9fc5067e4599&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   }
  ],
  "deku_checked": "2026-11-24T17:38:31+00:00",
@@ -11877,6 +11877,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t690fd43de41",
+   "title": "RYOBI ONE+ 18V Cordless High Pressure Inflator (Tool Only) $24.95 + Free S&H",
+   "price": 24.97,
+   "old_price": 39.97,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20384487-ryobi-one-18v-cordless-high-pressure-inflator-tool-only-home-depot-24-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22557201.thumb",
+   "posted": "2026-11-24T18:26:05+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T18:31:30+00:00",
+   "real_price": 24.97,
+   "real_old": 39.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20384487&pno=1373049&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=445075a8e83511f18cbb0e3bc30606d4&au=3fdbd39b43e245ee8ff17d5c7827e5c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tf94ecebcd89",
    "title": "65\" Hisense H5R1 Series 4K UHD HDR Smart Roku TV $228 + Free S&H",
    "price": 228.0,
@@ -12948,16 +12966,16 @@
    "old_price": 499.99,
    "store": "Sam's Club",
    "url": "https://slickdeals.net/f/20385732-1800-watt-ecoflow-delta-3-classic-magnetic-charging-power-bank-299-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/9/3/3/1/8/300x300/22560405.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22568160.thumb",
    "posted": "2026-11-24T12:23:36+00:00",
    "cat": "net",
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T18:26:50+00:00",
    "real_price": 299.98,
-   "real_old": 499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 499.99
   },
   {
    "id": "t506eac31ca1",
@@ -14533,8 +14551,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9e486f76e83411f18a4b3e03dde91432&au=f18946208ac34c7ca9a98a8b82d19c70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:26:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:31:33+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16230,24 +16248,6 @@
    "checked_at": "2026-11-23T19:48:28+00:00",
    "real_price": 12.91,
    "real_old": 29.99
-  },
-  {
-   "id": "te917a410e6a",
-   "title": "Midea 1.7 Cu.ft Mini Fridge, Energy Star Certified, Low Noise for Bedroom | Adjustable Thermostat, Reversible Door,Energy Efficient, Ideal for Dorm, Office $109.99",
-   "price": 109.99,
-   "old_price": 140.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380056-midea-1-7-cu-ft-mini-fridge-energy-star-certified-low-noise-for-bedroom-adjustable-thermostat-reversible-door-energy-efficient-ideal-for-dorm-office-109-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/0/4/4/4/7/7/9/300x300/22547268.thumb",
-   "posted": "2026-11-23T19:40:17+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380056&tid=20380056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=239088dee79b11f18583d67312b95a8b&au=8da7997a9b5747c7a14863d0c475469f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:08:13+00:00",
-   "real_price": 109.99,
-   "real_old": 140.0
   }
  ],
  "tech": [
@@ -17177,7 +17177,7 @@
    "store": "Sam's Club",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/9/3/3/1/8/300x300/22560405.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22568160.thumb",
    "posted": "2026-11-24T12:23:36+00:00",
    "kind": "tech",
    "section": "tech",
@@ -18519,8 +18519,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9e486f76e83411f18a4b3e03dde91432&au=f18946208ac34c7ca9a98a8b82d19c70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9e486f76e83411f18a4b3e03dde91432&au=f18946208ac34c7ca9a98a8b82d19c70&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18536,7 +18536,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9e486f76e83411f18a4b3e03dde91432&au=f18946208ac34c7ca9a98a8b82d19c70&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19486,5 +19486,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T18:27:48+00:00"
+ "updated": "2026-11-24T18:32:27+00:00"
 }
