@@ -245,13 +245,13 @@
    "posted": "2026-11-24T00:07:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T05:55:24+00:00",
-   "category_ok": true,
-   "real_price": 28.45,
-   "real_old": 74.0,
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T05:55:24+00:00",
+   "real_price": 28.45,
+   "real_old": 74.0,
+   "category_ok": true
   },
   {
    "id": "b78e1fc59a34",
@@ -12500,6 +12500,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -13799,8 +13802,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c3c6aba0e7cb11f1ac1a0ea6630843fb&au=e3a8005e33fd4f029bd442cdf068d31c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:56:17+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=654984ace7cc11f18dd1a2485e646a06&au=9bc084b44ace4222a917c65853c0f029&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T06:00:48+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14598,8 +14601,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c4eb96d0e7cb11f1bc8786d189ebb1ac&au=bddd3931638f4af5bc115b089ebd0b56&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:56:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=666dd356e7cc11f19a3302ab7d9f716b&au=a335370a2a974675af50ccd67da480b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T06:00:50+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -18648,8 +18651,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c4eb96d0e7cb11f1bc8786d189ebb1ac&au=bddd3931638f4af5bc115b089ebd0b56&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c4eb96d0e7cb11f1bc8786d189ebb1ac&au=bddd3931638f4af5bc115b089ebd0b56&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=666dd356e7cc11f19a3302ab7d9f716b&au=a335370a2a974675af50ccd67da480b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=666dd356e7cc11f19a3302ab7d9f716b&au=a335370a2a974675af50ccd67da480b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -18665,7 +18668,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c4eb96d0e7cb11f1bc8786d189ebb1ac&au=bddd3931638f4af5bc115b089ebd0b56&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=666dd356e7cc11f19a3302ab7d9f716b&au=a335370a2a974675af50ccd67da480b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19468,5 +19471,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T05:57:08+00:00"
+ "updated": "2026-11-24T06:01:42+00:00"
 }
