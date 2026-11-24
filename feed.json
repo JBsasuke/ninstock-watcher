@@ -3167,13 +3167,13 @@
    "posted": "2026-11-22T06:07:39+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T18:30:35+00:00",
-   "category_ok": true,
-   "real_price": 19.99,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20367414&tid=20367414&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2339d56ce83511f1b257ee55850d810c&au=e425bc8bbb4d4337a3cd9fc5067e4599&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T18:30:35+00:00",
+   "real_price": 19.99,
+   "real_old": 60.0,
+   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-24T17:38:31+00:00",
@@ -11877,6 +11877,24 @@
    "real_old": 249.0
   },
   {
+   "id": "tcd3deb477d0",
+   "title": "Hisense 65\" U8 Series ULED Mini-LED 4K UHD Smart Google TV $900 + Free S&H",
+   "price": 899.99,
+   "old_price": 2199.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20325171-hisense-65-u8-series-uled-mini-led-4k-uhd-smart-google-tv-65u8qg-899-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22393242.thumb",
+   "posted": "2026-11-24T18:32:40+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-24T18:36:10+00:00",
+   "real_price": 899.99,
+   "real_old": 2199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20325171&pno=1373055&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=ead802cee83511f1a03f0e3bc30606d4&au=c4dbf6282f6740f2b251a3998590c909&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t690fd43de41",
    "title": "RYOBI ONE+ 18V Cordless High Pressure Inflator (Tool Only) $24.95 + Free S&H",
    "price": 24.97,
@@ -11889,10 +11907,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20384487&pno=1373049&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=445075a8e83511f18cbb0e3bc30606d4&au=3fdbd39b43e245ee8ff17d5c7827e5c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T18:31:30+00:00",
    "real_price": 24.97,
-   "real_old": 39.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20384487&pno=1373049&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=445075a8e83511f18cbb0e3bc30606d4&au=3fdbd39b43e245ee8ff17d5c7827e5c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.97
   },
   {
    "id": "tf94ecebcd89",
@@ -14551,8 +14569,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:31:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec2b1c92e83511f1ad7b0e5795284c1e&au=01c6819efeb7460d9409f0a8b26acb64&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:36:12+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16227,27 +16245,6 @@
    "checked_at": "2026-11-24T06:14:46+00:00",
    "real_price": 179.99,
    "real_old": 589.99
-  },
-  {
-   "id": "tc433cb04322",
-   "title": "6-pc Astercook Knife Set w/ Block $12.90",
-   "price": 12.91,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20377431-6-piece-astercook-stainless-steel-kitchen-knife-set-w-block-black-or-khaki-12-91-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22539372.thumb",
-   "posted": "2026-11-23T19:46:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "MAKZAC2P",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377431&pno=1372173&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=da65e880e77611f1b42706e4005daeaa&au=928d9bfc1a25447e9fb21f13089f5458&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T19:48:28+00:00",
-   "real_price": 12.91,
-   "real_old": 29.99
   }
  ],
  "tech": [
@@ -16275,6 +16272,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tcd3deb477d0",
+   "title": "Hisense 65\" U8 Series ULED Mini-LED 4K UHD Smart Google TV + Free S&H",
+   "price": 899.99,
+   "old_price": 2199.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20325171&pno=1373055&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=ead802cee83511f1a03f0e3bc30606d4&au=c4dbf6282f6740f2b251a3998590c909&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20325171&pno=1373055&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=ead802cee83511f1a03f0e3bc30606d4&au=c4dbf6282f6740f2b251a3998590c909&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22393242.thumb",
+   "posted": "2026-11-24T18:32:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 899.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20325171&pno=1373055&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=ead802cee83511f1a03f0e3bc30606d4&au=c4dbf6282f6740f2b251a3998590c909&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18519,8 +18543,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec2b1c92e83511f1ad7b0e5795284c1e&au=01c6819efeb7460d9409f0a8b26acb64&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec2b1c92e83511f1ad7b0e5795284c1e&au=01c6819efeb7460d9409f0a8b26acb64&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18536,7 +18560,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=45f1d7b2e83511f1874bb2a77b014734&au=e66a353d1dae4a45ab722012da75cdc7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec2b1c92e83511f1ad7b0e5795284c1e&au=01c6819efeb7460d9409f0a8b26acb64&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19457,34 +19481,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381004&tid=20381004&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0f65dbeee79a11f1be7fce46b345a71d&au=ac2cd31410794123b0f65a31d95e2bf6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t916808e68b5",
-   "title": "Google Pixel Watch 5 Smartwatch: 45mm GPS 41mm GPS & More + Free S&H",
-   "price": 300.0,
-   "old_price": 400.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22432668.thumb",
-   "posted": "2026-11-23T21:48:12+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 300.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20338332&pno=1372272&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=74762e56e78811f18fdfea1872aeed82&au=298958ba3f114f67866e98d6cd58f327&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T18:32:27+00:00"
+ "updated": "2026-11-24T18:37:09+00:00"
 }
