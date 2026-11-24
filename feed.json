@@ -2,6 +2,48 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "a7171c289b71",
+   "title": "$28.45 Stray, Nintendo Switch Game",
+   "price": 28.45,
+   "old_price": 74.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20381622-28-45-stray-nintendo-switch-game?utm_source=rss&utm_content=&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22550910.thumb",
+   "posted": "2026-11-24T00:07:23+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T00:11:54+00:00",
+   "category_ok": true,
+   "real_price": 28.45,
+   "real_old": 74.0,
+   "store_url": "https://www.walmart.com/ip/10498109572",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
+   "id": "602f464b0272",
+   "title": "$28.45 Stray, Nintendo Switch Game",
+   "price": 28.45,
+   "old_price": 74.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20381622-28-45-stray-nintendo-switch-game?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22550910.thumb",
+   "posted": "2026-11-24T00:07:23+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T00:11:57+00:00",
+   "category_ok": true,
+   "real_price": 28.45,
+   "real_old": 74.0,
+   "store_url": "https://www.walmart.com/ip/10498109572",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "b78e1fc59a34",
    "title": "Monopoly: Star Wars Heroes vs. Villains (Nintendo Switch) $15 + Free Pickup",
    "price": 15.0,
@@ -3120,52 +3162,35 @@
    "real_price": 52.99,
    "real_old": 59.99,
    "category_ok": true
-  },
-  {
-   "id": "fb30f6d4467b",
-   "title": "JSAUX Hard PC Carrying Case for Nintendo Switch 2 (Black) $13",
-   "price": 12.98,
-   "old_price": 24.99,
-   "store": "Amazon",
-   "kind": "hardware",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20354658-12-98-jsaux-hard-pc-carrying-case-for-nintendo-switch-2-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22484970.thumb",
-   "posted": "2026-11-21T08:27:59+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354658&pno=1370289&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5409b926e5c111f1a355b2ea223b7d27&au=3ee2a632e5a847ef850ada9f9c7d0ecd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-23T20:04:16+00:00",
-   "real_price": 12.98,
-   "real_old": 24.99,
-   "category_ok": true
-  },
-  {
-   "id": "f108e76bf05e",
-   "title": "Turtle Beach Rematch Wireless Controller for Nintendo Switch 2 (Mario & Luigi or Timmy & Tommy) $39.99 + Free Shipping",
-   "price": 39.99,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "kind": "hardware",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20362020-turtle-beach-rematch-wireless-controller-for-nintendo-switch-2-mario-luigi-or-timmy-tommy-39-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/9/0/8/6/300x300/22503960.thumb",
-   "posted": "2026-11-21T06:45:36+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20362020&tid=20362020&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c2b5af72e57d11f1ab4fde29db9d49d2&au=fff18b41f4544cacb3e1a9978e2c3d8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-23T20:03:35+00:00",
-   "real_price": 39.99,
-   "real_old": 64.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-23T23:58:20+00:00",
  "deals": [
+  {
+   "id": "26fa2776f996",
+   "title": "Stray, Nintendo Switch Game",
+   "price": 28.45,
+   "old_price": 74.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/10498109572",
+   "url": "https://www.walmart.com/ip/10498109572",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 28.45,
+     "url": "https://www.walmart.com/ip/10498109572"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22550910.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-24T00:07:23+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "e3e9f9c1afac",
    "title": "Monopoly: Star Wars Heroes vs. Villains (Nintendo Switch)",
@@ -4838,31 +4863,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-21T09:27:37+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "18d6b3310a92",
-   "title": "JSAUX Hard PC Carrying Case for Nintendo Switch 2 (Black)",
-   "price": 12.98,
-   "old_price": 24.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354658&pno=1370289&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5409b926e5c111f1a355b2ea223b7d27&au=3ee2a632e5a847ef850ada9f9c7d0ecd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354658&pno=1370289&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5409b926e5c111f1a355b2ea223b7d27&au=3ee2a632e5a847ef850ada9f9c7d0ecd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 12.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354658&pno=1370289&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5409b926e5c111f1a355b2ea223b7d27&au=3ee2a632e5a847ef850ada9f9c7d0ecd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22484970.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-21T08:27:59+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11793,6 +11793,24 @@
    "real_old": 1299.0
   },
   {
+   "id": "t93b18416abe",
+   "title": "DEWALT 20V MAX Cordless Grabo Lifter Suction Tool (Tool Only) $169 + Free S&H",
+   "price": 169.0,
+   "old_price": 259.0,
+   "store": "Fasteners Inc",
+   "url": "https://slickdeals.net/f/20358813-dewalt-dce592b-grabo-lifter-20v-265-lb-capacity-vacuum-pump-169?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22496580.thumb",
+   "posted": "2026-11-24T00:11:18+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T00:12:51+00:00",
+   "real_price": 169.0,
+   "real_old": 259.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20358813&pno=1371273&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c95be006e79b11f19cc03ad29bc0f464&au=ce0497e4907c45959d31c37d78de2b59&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6b4e52ce282",
    "title": "6-Qt Instant Pot Duo 7-in-1 Electric Pressure Cooker $60 + Free S&H",
    "price": 59.99,
@@ -11877,6 +11895,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376606&pno=1372353&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c91b8720e79311f1a1086622a2b90021&au=6c62290adc1c42c3b4e4527a49f5fe83&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T23:15:35+00:00",
    "real_price": 37.16,
@@ -12346,9 +12367,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -12481,10 +12499,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380056&tid=20380056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=239088dee79b11f18583d67312b95a8b&au=8da7997a9b5747c7a14863d0c475469f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:08:13+00:00",
    "real_price": 109.99,
-   "real_old": 140.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380056&tid=20380056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=239088dee79b11f18583d67312b95a8b&au=8da7997a9b5747c7a14863d0c475469f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 140.0
   },
   {
    "id": "t72aefb392a3",
@@ -12703,8 +12721,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=255f6dc4e79b11f1a5dece96705cd8bd&au=8c1014b9522643dd86a9d156b77ecce3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:08:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca86f68ce79b11f1adcf7e65aa5791f0&au=e121bfd0f3ab41ed825bf5d3460719e2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:12:53+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -13268,8 +13286,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=268bbfaee79b11f191fc7e65aa5791f0&au=7f19c881b9c34f74ace14ba0f737c4b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:08:18+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:12:55+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -15838,8 +15856,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=27b09e40e79b11f1aa8f5e59ab53ac00&au=91819cba720d4579bde208ef5bd57ab8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:08:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd1971aee79b11f197da1a415d963585&au=610f6cbb7be440ddb90bf85a99a64777&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:12:57+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -15910,8 +15928,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=28f3ce12e79b11f19de72298a799d521&au=86236030c14245e39361aa410cb08173&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:08:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ce52674ce79b11f1b0cf3ad29bc0f464&au=73226d900c3f4c4cb715530b3f23a8f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:12:59+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -16113,24 +16131,6 @@
    "real_price": 99.99,
    "real_old": 495.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20363307&pno=1370355&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b430e04ae5c111f1ab9e22148bf1fc17&au=e862d031543f4b28a7bcf125dfc2791f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t62dd0b2c12a",
-   "title": "DEWALT 20V MAX XR Cordless 3\" Cut-Off Tool (Tool Only) $99 + Free S/H Orders $150+",
-   "price": 99.0,
-   "old_price": 199.0,
-   "store": "Fasteners Inc",
-   "url": "https://slickdeals.net/f/20359740-dewalt-dcs438b-cut-off-tool-20v-max-brushless-motor-20000-rpm-3-in-wheel-diameter-cordless-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22498863.thumb",
-   "posted": "2026-11-21T14:47:05+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-21T15:39:16+00:00",
-   "real_price": 99.0,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20359740&pno=1370370&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b5881cf6e5c111f1bb4722148bf1fc17&au=a75e0331a4824997ae75e11a088a92fd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -17544,8 +17544,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=268bbfaee79b11f191fc7e65aa5791f0&au=7f19c881b9c34f74ace14ba0f737c4b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=268bbfaee79b11f191fc7e65aa5791f0&au=7f19c881b9c34f74ace14ba0f737c4b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -17561,7 +17561,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=268bbfaee79b11f191fc7e65aa5791f0&au=7f19c881b9c34f74ace14ba0f737c4b4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19363,5 +19363,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T00:09:06+00:00"
+ "updated": "2026-11-24T00:13:46+00:00"
 }
