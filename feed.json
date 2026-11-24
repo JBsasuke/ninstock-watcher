@@ -3175,7 +3175,7 @@
    "link_v": 3
   }
  ],
- "deku_checked": "2026-11-24T16:37:19+00:00",
+ "deku_checked": "2026-11-24T17:38:31+00:00",
  "deals": [
   {
    "id": "b309e42a7d33",
@@ -6315,7 +6315,7 @@
    "title": "Metroid Ravenous Special Edition",
    "url": "https://www.dekudeals.com/items/metroid-ravenous-special-edition",
    "image": "https://cdn.dekudeals.com/images/ee56651a3730a3001a2504a17ecf812811bc591e/w540.jpg?c=0.392.2000.1211",
-   "price": null,
+   "price": 119.99,
    "old_price": null,
    "release": "January 28, 2027",
    "release_date": "2027-01-28",
@@ -7323,12 +7323,17 @@
    "collector": false,
    "offers": [
     {
+     "store": "Best Buy",
+     "price": 29.99,
+     "url": "https://www.bestbuy.com/site/6698350.p?skuId=6698350"
+    },
+    {
      "store": "GameStop",
      "price": 29.99,
      "url": "https://www.gamestop.com/products/shrek-2-remastered/454733.html"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -7351,11 +7356,11 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 149.99,
-     "url": "https://www.amazon.com/dp/B0HNKQ6VFD"
+     "price": 119.99,
+     "url": "https://www.amazon.com/dp/B0HJDPPY7Q"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7397,7 +7402,7 @@
      "url": "https://www.target.com/p/-/A-1012297500"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -7449,7 +7454,7 @@
      "url": "https://www.target.com/p/-/A-1012827386"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7490,7 +7495,7 @@
      "url": "https://www.walmart.com/ip/20963512878"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "SHIFT UP",
    "digital": {
@@ -7531,7 +7536,7 @@
      "url": "https://www.target.com/p/-/A-1014334835"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CDE Entertainment",
    "digital": {
@@ -7552,7 +7557,7 @@
    "release_date": "2026-11-04",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7589,12 +7594,17 @@
      "url": "https://www.gamestop.com/products/godzilla-destroy-all-monsters-melee-remastered/447510.html"
     },
     {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1012019669"
+    },
+    {
      "store": "Walmart",
      "price": 39.99,
      "url": "https://www.walmart.com/ip/20315570005"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -7625,14 +7635,14 @@
      "url": "https://www.gamestop.com/products/sonic-racing-crossworlds-year-one-edition/452979.html"
     },
     {
+     "store": "Target",
+     "price": 59.99,
+     "url": "https://www.target.com/p/-/A-1014586467"
+    },
+    {
      "store": "Best Buy",
      "price": 59.99,
      "url": "https://www.bestbuy.com/site/6695306.p?skuId=6695306"
-    },
-    {
-     "store": "Target",
-     "price": 59.99,
-     "url": "https://www.target.com/p/-/A-1014586466"
     },
     {
      "store": "Walmart",
@@ -7640,7 +7650,7 @@
      "url": "https://www.walmart.com/ip/21144069234"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7656,7 +7666,7 @@
    "release_date": "2026-11-03",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7683,12 +7693,17 @@
      "url": "https://www.amazon.com/dp/B0HCWYRD79"
     },
     {
+     "store": "Target",
+     "price": 44.99,
+     "url": "https://www.target.com/p/-/A-1012886378"
+    },
+    {
      "store": "Best Buy",
      "price": 49.99,
      "url": "https://www.bestbuy.com/site/6688411.p?skuId=6688411"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7725,7 +7740,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-party-land-premium-edition/447590.html"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7768,7 +7783,7 @@
      "url": "https://www.walmart.com/ip/20214621641"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Spike Chunsoft US",
    "digital": {
@@ -7794,6 +7809,11 @@
      "url": "https://www.amazon.com/dp/B0H34G4ZGL"
     },
     {
+     "store": "Target",
+     "price": 69.99,
+     "url": "https://www.target.com/p/-/A-1011777703"
+    },
+    {
      "store": "Walmart",
      "price": 69.99,
      "url": "https://www.walmart.com/ip/20195622114"
@@ -7807,14 +7827,9 @@
      "store": "GameStop",
      "price": 69.99,
      "url": "https://www.gamestop.com/products/steins-gate-re-boot-steelbook-edition/447152.html"
-    },
-    {
-     "store": "Target",
-     "price": 69.99,
-     "url": "https://www.target.com/p/-/A-1011777705"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7856,7 +7871,7 @@
      "url": "https://www.walmart.com/ip/21065851721"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7898,7 +7913,7 @@
      "url": "https://www.target.com/p/-/A-1012019664"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -7925,7 +7940,7 @@
      "url": "https://www.amazon.com/dp/B0HQ7JJ5JK"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7972,7 +7987,7 @@
      "url": "https://www.walmart.com/ip/21107563569"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Raw Fury",
    "digital": {
@@ -8013,7 +8028,7 @@
      "url": "https://www.target.com/p/-/A-1012856127"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -8065,7 +8080,7 @@
      "url": "https://www.target.com/p/-/A-1013027743"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -8102,7 +8117,7 @@
      "url": "https://www.gamestop.com/products/village-in-the-shade/445455.html"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -8123,7 +8138,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -8165,7 +8180,7 @@
      "url": "https://www.gamestop.com/products/warrior-cats-clans-of-the-forest-feral-edition/450383.html"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -8186,7 +8201,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -8238,7 +8253,7 @@
      "url": "https://www.target.com/p/-/A-1012015069"
     }
    ],
-   "offers_checked": "2026-11-24T11:34:45+00:00",
+   "offers_checked": "2026-11-24T17:38:51+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -12652,6 +12667,24 @@
    "real_old": 39.04
   },
   {
+   "id": "tf21db167e7b",
+   "title": "PARGRILL 3-Shelf Grill Cart 46.6\" x 20\" x 33‘’ with Foldable Side Table $69.99 + Free S&H at Walmart",
+   "price": 69.99,
+   "old_price": 169.9,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20386008-pargrill-3-shelf-grill-cart-46-6-x-20-x-33-with-foldable-side-table-69-99-free-s-h-at-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22561044.thumb",
+   "posted": "2026-11-24T13:11:15+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T17:40:44+00:00",
+   "real_price": 69.99,
+   "real_old": 169.9,
+   "store_url": "https://www.walmart.com/ip/17301212579"
+  },
+  {
    "id": "t440ead1df7c",
    "title": "2-Pk Jeenek 100W USB-C Fast Charger w/ 3', 6' & 2x 10' Cables $14.25",
    "price": 14.24,
@@ -12664,9 +12697,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16198,24 +16228,6 @@
    "checked_at": "2026-11-23T19:48:38+00:00",
    "real_price": 71.99,
    "real_old": 89.99
-  },
-  {
-   "id": "t57e8be9d3dd",
-   "title": "Samsung 27” Odyssey G5 G53F 1440p 200Hz Refresh Rate, IPS Panel Gaming Monitor $159.99",
-   "price": 159.99,
-   "old_price": 195.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20379768-samsung-27-odyssey-g5-g53f-1440p-200hz-refresh-rate-ips-panel-gaming-monitor-159-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22546521.thumb",
-   "posted": "2026-11-23T19:01:53+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "checked_at": "2026-11-23T20:05:07+00:00",
-   "real_price": 159.99,
-   "real_old": 195.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379768&tid=20379768&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2da65776e77911f1813e029104a8714d&au=1959e53fabed463b85cce1fccd4a9755&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -16937,7 +16949,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19454,5 +19466,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T17:35:45+00:00"
+ "updated": "2026-11-24T17:41:44+00:00"
 }
