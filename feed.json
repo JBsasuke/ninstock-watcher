@@ -14,13 +14,13 @@
    "posted": "2026-11-24T15:25:55+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T15:26:34+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6e31e16ee81b11f1bfb58ac1ac0739c8&au=6a7faa6f7a0b49b2ba137f5356071517&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T15:26:34+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "addd4105ce25",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T15:25:55+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T15:26:36+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6f7b06f4e81b11f18e8f0248a79e31ce&au=22070ae8dec240298edebe22d48a135c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T15:26:36+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "8fc646cb1ffc",
@@ -1625,7 +1625,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375451&tid=20375451&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=f1c3c12ee78411f190438af2fbc4f239&au=dca61d97c43d4759b79c0a2252929a2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T09:31:33+00:00",
+   "checked_at": "2026-11-24T15:35:58+00:00",
    "real_price": 15.0,
    "real_old": 34.99,
    "category_ok": true
@@ -3173,7 +3173,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-24T14:35:26+00:00",
+ "deku_checked": "2026-11-24T15:35:59+00:00",
  "deals": [
   {
    "id": "ab4210fefb30",
@@ -5570,7 +5570,7 @@
      "url": "https://www.target.com/p/-/A-95076259"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5586,7 +5586,7 @@
    "release_date": "2027-05-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA of America",
    "digital": null,
@@ -5630,7 +5630,7 @@
      "url": "https://www.walmart.com/ip/20934158284"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -5673,7 +5673,7 @@
      "url": "https://www.walmart.com/ip/20954464637"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -5710,25 +5710,8 @@
      "url": "https://www.target.com/p/-/A-1012070913"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
-   "digital": null,
-   "nintendo": false
-  },
-  {
-   "id": "deku-stardust-nn87dj48fw",
-   "title": "STARDUST: Wish of Witch",
-   "url": "https://www.dekudeals.com/items/stardust-nn87dj48fw",
-   "image": "https://cdn.dekudeals.com/images/f612319110325b81ae35119fad80bc0647919bf9/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "March 31, 2027",
-   "release_date": "2027-03-31",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
-   "first_seen": "2026-11-12T21:57:49+00:00",
-   "publisher": "Silver Lining Interactive",
    "digital": null,
    "nintendo": false
   },
@@ -5759,7 +5742,7 @@
      "url": "https://www.target.com/p/-/A-95076256"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5775,7 +5758,7 @@
    "release_date": "2027-03-20",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5791,7 +5774,7 @@
    "release_date": "2027-03-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5833,7 +5816,7 @@
      "url": "https://www.target.com/p/-/A-94948513"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": {
@@ -5880,7 +5863,7 @@
      "url": "https://www.walmart.com/ip/20969569759"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Marvelous USA (XSEED)",
    "digital": null,
@@ -5918,7 +5901,7 @@
      "url": "https://www.walmart.com/ip/21127017185"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5960,7 +5943,7 @@
      "url": "https://www.target.com/p/-/A-1013551453"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6002,7 +5985,7 @@
      "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -6044,7 +6027,7 @@
      "url": "https://www.walmart.com/ip/20983303920"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6081,7 +6064,7 @@
      "url": "https://www.walmart.com/ip/20944173701"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6123,7 +6106,7 @@
      "url": "https://www.walmart.com/ip/20958523571"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KONAMI",
    "digital": {
@@ -6170,7 +6153,7 @@
      "url": "https://www.walmart.com/ip/20299574937"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -6217,7 +6200,7 @@
      "url": "https://www.walmart.com/ip/20354268698"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -6264,7 +6247,7 @@
      "url": "https://www.walmart.com/ip/20926366396"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6311,7 +6294,7 @@
      "url": "https://www.target.com/p/-/A-1013551450"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6331,7 +6314,7 @@
    "release_date": "2027-01-28",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -6373,7 +6356,7 @@
      "url": "https://www.walmart.com/ip/20980064944"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6410,7 +6393,7 @@
      "url": "https://www.walmart.com/ip/21103052265"
     }
    ],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-23T19:46:34+00:00",
    "publisher": "Clear River Games",
    "digital": null,
@@ -6427,7 +6410,7 @@
    "release_date": "2027-01-15",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T09:27:42+00:00",
+   "offers_checked": "2026-11-24T15:36:17+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6517,6 +6500,23 @@
    "offers_checked": "2026-11-24T10:30:52+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
+   "digital": null,
+   "nintendo": false
+  },
+  {
+   "id": "deku-stardust-nn87dj48fw",
+   "title": "STARDUST: Wish of Witch",
+   "url": "https://www.dekudeals.com/items/stardust-nn87dj48fw",
+   "image": "https://cdn.dekudeals.com/images/f612319110325b81ae35119fad80bc0647919bf9/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "December 14, 2026",
+   "release_date": "2026-12-14",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-24T15:36:17+00:00",
+   "first_seen": "2026-11-12T21:57:49+00:00",
+   "publisher": "Silver Lining Interactive",
    "digital": null,
    "nintendo": false
   },
@@ -10583,7 +10583,7 @@
    "title": "FZ: Formation Z",
    "url": "https://www.dekudeals.com/items/fz-formation-z",
    "image": "https://cdn.dekudeals.com/images/5cf6bd123b3b2c8c069c9b558651d2eb94370ebd/w540.jpg",
-   "price": null,
+   "price": 49.99,
    "old_price": null,
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
@@ -11830,6 +11830,26 @@
  ],
  "raw_tech": [
   {
+   "id": "tad6c2e76781",
+   "title": "T-Mobile 5G Home Internet: Up to $200 Prepaid Mastercard + One Month on Us Offer from $35/month w/ New Signup",
+   "price": 59.0,
+   "old_price": null,
+   "store": "T-Mobile 5G Home Internet",
+   "url": "https://slickdeals.net/f/20280000-t-mobile-5g-home-internet-plans-from-30-monthly-w-autopay-voice-plus-get-a-month-on-them-up-to-200-back?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22564575.thumb",
+   "posted": "2026-11-24T15:32:34+00:00",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "prio": 15,
+   "refurb": false,
+   "code": "MONTHONUS",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T15:38:11+00:00",
+   "real_price": 59.0,
+   "real_old": null
+  },
+  {
    "id": "tb64dd30ef51",
    "title": "ASUS Vivobook S16  Laptop: Snapdragon X2 Elite, 16\" FHD+ OLED, 32GB RAM, 1TB SSD $1000 + $15 S&H",
    "price": 999.99,
@@ -11919,10 +11939,10 @@
    "code": "APPLETEN",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20386575&tid=20386575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9131a37ae81b11f1aac742d345ed7abe&au=5502fe23777a49bf90c7c4dedbf2b3a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T15:27:33+00:00",
    "real_price": 1142.0,
-   "real_old": 1699.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20386575&tid=20386575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9131a37ae81b11f1aac742d345ed7abe&au=5502fe23777a49bf90c7c4dedbf2b3a8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1699.0
   },
   {
    "id": "t7d3b6a2b029",
@@ -12034,6 +12054,24 @@
    "checked_at": "2026-11-24T14:03:45+00:00",
    "real_price": 55.0,
    "real_old": 79.0
+  },
+  {
+   "id": "ta37ca7ba5a5",
+   "title": "*Starts 11/26 9AM EST* Creality K2 Combo Multi-Color 3D Printer w/ CFS $359.20 +free s/h *4-hours only.",
+   "price": 359.2,
+   "old_price": null,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20386218-starts-11-26-9am-est-creality-k2-combo-multi-color-3d-printer-w-cfs-359-20-free-s-h-4-hours-only?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22561701.thumb",
+   "posted": "2026-11-24T13:41:48+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-24T15:38:13+00:00",
+   "real_price": 359.2,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&tid=20386218&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ef7ada8e81d11f18fe036a07b886a53&au=786a2fe8fe1544d48f6699c8fe8e11a8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t81c92cd8f2a",
@@ -13949,6 +13987,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -14864,6 +14905,24 @@
    "real_old": 59.99
   },
   {
+   "id": "t48e03250b24",
+   "title": "Alienware 34\" AW3426DWM 3440x1440 WQHD 240Hz VA Curved Gaming Monitor $269.99 + Free Shipping",
+   "price": 269.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20380485-alienware-34-aw3426dwm-3440x1440-wqhd-240hz-va-curved-gaming-monitor-269-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548360.thumb",
+   "posted": "2026-11-23T20:44:42+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T15:38:15+00:00",
+   "real_price": 269.99,
+   "real_old": 399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380485&tid=20380485&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1029feece81d11f1ac40aa3c0bb811ca&au=3469df9387f44762a55d7d66e55b0f44&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfdfc6e63c6e",
    "title": "2-Bay UGREEN DXP2800 GT NAS $350 & More + Free S&H",
    "price": 349.99,
@@ -15359,8 +15418,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92bcc0a8e81b11f1aa880e0f65445b81&au=116d0f823c394a0796910975281df6df&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:27:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=119832f8e81d11f19082ee9930747a0f&au=68fceca1dbc945a18fce16cecda22db5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T15:38:17+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16162,62 +16221,6 @@
    "checked_at": "2026-11-23T20:05:25+00:00",
    "real_price": 379.0,
    "real_old": 448.0
-  },
-  {
-   "id": "tbf33bc2acb6",
-   "title": "$99 TCL TAB 8 Gen 2 8.7\" HD Display Tablet with 128GB Storage and Android 15 - Black",
-   "price": 99.0,
-   "old_price": null,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20377623-99-tcl-tab-8-gen-2-8-7-hd-display-tablet-with-128gb-storage-and-android-15-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22540401.thumb",
-   "posted": "2026-11-23T15:00:38+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/20208906185",
-   "checked_at": "2026-11-23T21:25:38+00:00",
-   "real_price": 99.0
-  },
-  {
-   "id": "t8fa65d398e6",
-   "title": "8-Gallon Shop-Vac 6.0 Peak HP Wet/Dry Vacuum $40 + Free S&H",
-   "price": 39.98,
-   "old_price": 74.97,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373714-shop-vac-8-gallon-6-0-peak-hp-wet-dry-vacuum-39-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22530513.thumb",
-   "posted": "2026-11-23T15:00:11+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/18990910374",
-   "checked_at": "2026-11-23T20:57:41+00:00",
-   "real_price": 39.98,
-   "real_old": 74.97
-  },
-  {
-   "id": "tf59b5e87214",
-   "title": "Prime: Walifrey Women's High-Waisted Yoga Leggings $4.75 + Free Shipping",
-   "price": 4.75,
-   "old_price": 7.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20377617-prime-walifrey-women-s-high-waisted-yoga-leggings-4-75-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
-   "posted": "2026-11-23T14:59:45+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "2H22ENH6",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=94923480e81b11f18e8f0248a79e31ce&au=61a57d416eca4a089eb111f3be706045&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:27:38+00:00",
-   "real_price": 4.75,
-   "real_old": 7.0
   }
  ],
  "tech": [
@@ -18943,6 +18946,33 @@
    ]
   },
   {
+   "id": "t48e03250b24",
+   "title": "Alienware 34\" AW3426DWM 3440x1440 WQHD 240Hz VA Curved Gaming Monitor",
+   "price": 269.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380485&tid=20380485&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1029feece81d11f1ac40aa3c0bb811ca&au=3469df9387f44762a55d7d66e55b0f44&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380485&tid=20380485&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1029feece81d11f1ac40aa3c0bb811ca&au=3469df9387f44762a55d7d66e55b0f44&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548360.thumb",
+   "posted": "2026-11-23T20:44:42+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 269.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380485&tid=20380485&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1029feece81d11f1ac40aa3c0bb811ca&au=3469df9387f44762a55d7d66e55b0f44&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tfdfc6e63c6e",
    "title": "2-Bay UGREEN DXP2800 GT NAS & More + Free S&H",
    "price": 349.99,
@@ -19427,34 +19457,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20379588&tid=20379588&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b616b28ae81011f18aa0d295a8c6b196&au=6786e7c90695461fb30f6a014a7ff0ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb2d89de9c71",
-   "title": "Soundcore Select 4 Go IP67 Waterproof Bluetooth Shower Speaker by Anker (various) from",
-   "price": 19.99,
-   "old_price": 34.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20353110&pno=1372125&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=e8579cd6e77611f193a1ee61e834f305&au=28f8a057d3154acab5ae452d231c8543&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20353110&pno=1372125&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=e8579cd6e77611f193a1ee61e834f305&au=28f8a057d3154acab5ae452d231c8543&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/6/3/5/4/7/1/300x300/22480362.thumb",
-   "posted": "2026-11-23T18:18:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 19.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20353110&pno=1372125&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=e8579cd6e77611f193a1ee61e834f305&au=28f8a057d3154acab5ae452d231c8543&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T15:28:31+00:00"
+ "updated": "2026-11-24T15:39:14+00:00"
 }
