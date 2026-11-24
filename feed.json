@@ -11871,10 +11871,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385501&pno=1372794&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=78c745bce80511f1a739e6d967342077&au=cae90f679848447288c6fae560b1087f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T12:49:22+00:00",
    "real_price": 10.26,
-   "real_old": 20.45,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385501&pno=1372794&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=78c745bce80511f1a739e6d967342077&au=cae90f679848447288c6fae560b1087f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 20.45
   },
   {
    "id": "t1ed9407e748",
@@ -11889,10 +11889,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T12:49:24+00:00",
    "real_price": 20.0,
-   "real_old": 44.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 44.99
   },
   {
    "id": "t9812d58011f",
@@ -12632,10 +12632,10 @@
    "code": "HAQZKPZ8",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T12:49:26+00:00",
    "real_price": 9.99,
-   "real_old": 19.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 19.98
   },
   {
    "id": "t11d29f274e7",
@@ -13393,10 +13393,31 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
    "real_old": 169.0
+  },
+  {
+   "id": "tb23775e93e7",
+   "title": "DEWALT 20V MAX 5Ah, Brushless 9 Power Tools (DCK921P1) $739",
+   "price": 739.0,
+   "old_price": 899.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20381814-dewalt-20v-max-5ah-brushless-9-power-tools-dck921p1-739?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22551339.thumb",
+   "posted": "2026-11-24T00:34:40+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T12:53:59+00:00",
+   "real_price": 739.0,
+   "real_old": 899.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381814&tid=20381814&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=1dd1eb70e80611f1b14906b2793bd035&au=1a67fefe599d41ebb6881bd49cb8f6bd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t1d7b265025a",
@@ -14767,8 +14788,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7c552294e80511f1bb9ede6ea830e0d8&au=0733fc294bbe4e609a2accb1a334f0a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:49:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f44e62ee80611f1bffad295a8c6b196&au=a719d1d5ce2e40fbb8a0b2ad826c6266&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:54:02+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15604,8 +15625,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7dda4ba8e80511f18855a2459dfa5d65&au=eca9aafc52f14af5a5bd06133d8b2621&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:49:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=20e071d8e80611f1a5ecb6ae1fe76f64&au=667482920eb54642984caa7c693f578a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:54:04+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16255,24 +16276,6 @@
    "real_price": 29.0,
    "real_old": 53.0,
    "store_url": "https://www.walmart.com/ip/5126097483"
-  },
-  {
-   "id": "t0c3ca5902c0",
-   "title": "42mm Apple Watch Series 12 GPS Smartwatch (various) $299 + Free S&H",
-   "price": 299.0,
-   "old_price": 449.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20374926-299-apple-watch-series-12-gps-42mm-smartwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22535448.thumb",
-   "posted": "2026-11-23T10:22:13+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "checked_at": "2026-11-23T11:15:22+00:00",
-   "real_price": 299.0,
-   "real_old": 449.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374926&pno=1371765&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c89e99ce72f11f1a7d55204ca69ee0b&au=8ad5176a049c4f9d9c4c50be1fd86436&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -19505,5 +19508,5 @@
    "offers": []
   }
  ],
- "updated": "2026-11-24T12:50:19+00:00"
+ "updated": "2026-11-24T12:54:57+00:00"
 }
