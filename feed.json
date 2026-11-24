@@ -459,7 +459,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:11:23+00:00",
+   "checked_at": "2026-11-24T18:11:32+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -480,7 +480,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:11:25+00:00",
+   "checked_at": "2026-11-24T18:11:34+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -818,7 +818,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:11:27+00:00",
+   "checked_at": "2026-11-24T18:11:37+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -839,7 +839,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:11:29+00:00",
+   "checked_at": "2026-11-24T18:11:39+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11869,10 +11869,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T18:07:42+00:00",
    "real_price": 228.0,
-   "real_old": 398.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 398.0
   },
   {
    "id": "t8044d60d99f",
@@ -12805,6 +12805,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -12844,10 +12847,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20385897&tid=20385897&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f288b7cee83111f180d90e5795284c1e&au=c85568eeda7d4651a135693d0f51f38a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T18:07:44+00:00",
    "real_price": 15.0,
-   "real_old": 30.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20385897&tid=20385897&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f288b7cee83111f180d90e5795284c1e&au=c85568eeda7d4651a135693d0f51f38a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 30.0
   },
   {
    "id": "tddd2e2921dd",
@@ -14495,8 +14498,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f3d6d368e83111f1b9ae8246bc31b55e&au=c0eaae7b4f7d400190113336530e9d99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:07:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:12:35+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -17057,7 +17060,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18472,8 +18475,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f3d6d368e83111f1b9ae8246bc31b55e&au=c0eaae7b4f7d400190113336530e9d99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f3d6d368e83111f1b9ae8246bc31b55e&au=c0eaae7b4f7d400190113336530e9d99&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18489,7 +18492,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f3d6d368e83111f1b9ae8246bc31b55e&au=c0eaae7b4f7d400190113336530e9d99&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19466,5 +19469,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T18:08:44+00:00"
+ "updated": "2026-11-24T18:13:36+00:00"
 }
