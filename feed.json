@@ -11842,10 +11842,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:14:28+00:00",
    "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.0
   },
   {
    "id": "t397c9c97b35",
@@ -11863,10 +11863,10 @@
    "code": "81VY0TZS",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20349876&pno=1372917&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20d7e420e82211f1953596da51652c35&au=306c93c740244ba78847bcfe3279c634&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:14:30+00:00",
    "real_price": 34.54,
-   "real_old": 59.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20349876&pno=1372917&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20d7e420e82211f1953596da51652c35&au=306c93c740244ba78847bcfe3279c634&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.97
   },
   {
    "id": "td403266b3c1",
@@ -12086,10 +12086,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386674&tid=20386674&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=221ec146e82211f18d289e8359c3e013&au=8cf4e5f665514472a99296a0dfd3bd04&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:14:33+00:00",
    "real_price": 26.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386674&tid=20386674&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=221ec146e82211f18d289e8359c3e013&au=8cf4e5f665514472a99296a0dfd3bd04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.99
   },
   {
    "id": "t7f048f99ddf",
@@ -14264,6 +14264,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -15710,8 +15713,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=23a96e76e82211f18d20661262ce3583&au=36c75da24c75491c95cbf637ed9cb7d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:14:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c853e1a4e82211f1834a06a1b14004dc&au=eeeec9a6de5f4ae981b2afb7e5add739&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T16:19:11+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16216,6 +16219,33 @@
  ],
  "tech": [
   {
+   "id": "t0b6fe4d53a4",
+   "title": "Apple AirPods Pro 3 Wireless Earbuds",
+   "price": 149.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22565010.thumb",
+   "posted": "2026-11-25T05:00:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 149.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "td403266b3c1",
    "title": "TALIX AuraHalo G1 Clip-On Wireless Bluetooth Open Ear Earbuds + Free S&H",
    "price": 15.99,
@@ -16293,33 +16323,6 @@
      "store": "Amazon",
      "price": 899.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386461&pno=1372905&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=cabd38cae82011f1a65d8ac1ac0739c8&au=751f7b4c20b647719a7ecb808bc96467&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td8522ca9365",
-   "title": "Apple AirPods Pro 3 Wireless Earbuds",
-   "price": 149.0,
-   "old_price": 249.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd205662e81e11f181401ad6b9984a23&au=9319af29b0fb4cf787cdb8a706912288&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd205662e81e11f181401ad6b9984a23&au=9319af29b0fb4cf787cdb8a706912288&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22565010.thumb",
-   "posted": "2026-11-24T15:47:00+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd205662e81e11f181401ad6b9984a23&au=9319af29b0fb4cf787cdb8a706912288&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19450,5 +19453,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T16:15:29+00:00"
+ "updated": "2026-11-24T16:20:12+00:00"
 }
