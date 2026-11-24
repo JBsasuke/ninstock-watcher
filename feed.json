@@ -77,13 +77,13 @@
    "posted": "2026-11-24T06:06:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T08:38:13+00:00",
-   "category_ok": true,
-   "real_price": 17.97,
-   "real_old": 77.0,
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T08:38:13+00:00",
+   "real_price": 17.97,
+   "real_old": 77.0,
+   "category_ok": true
   },
   {
    "id": "8f2b97e15460",
@@ -563,7 +563,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375586&pno=1372206&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8fcca4bae77d11f183307e65aa5791f0&au=141cde3dfab54022901c34a59297c404&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:40:59+00:00",
+   "checked_at": "2026-11-24T08:42:42+00:00",
    "real_price": 30.0,
    "real_old": 59.99,
    "category_ok": true
@@ -962,7 +962,7 @@
    "posted": "2026-11-23T11:10:28+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T02:41:04+00:00",
+   "checked_at": "2026-11-24T08:42:46+00:00",
    "category_ok": true,
    "real_price": 32.99,
    "real_old": 49.99,
@@ -986,7 +986,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20375961&tid=20375961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca5ffca2e72e11f1a2019a0a1bd4da77&au=3ce6c8986baf4110bd6d7e0d05bb37b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:06+00:00",
+   "checked_at": "2026-11-24T08:42:48+00:00",
    "real_price": 32.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1157,13 +1157,14 @@
    "posted": "2026-11-23T10:49:58+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T02:41:08+00:00",
+   "checked_at": "2026-11-24T08:42:51+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375862&tid=20375862&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=d2c4b6a8e72e11f1a2019a0a1bd4da77&au=e44ee4eed47a4b88bec6f335427dd4bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "expired": true
   },
   {
    "id": "ef0e121d6fe2",
@@ -1181,10 +1182,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375862&tid=20375862&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=d3e3e040e72e11f194c80a032cbdb8b5&au=3d0e42b4c94a42d39f634182bb03c7ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:10+00:00",
+   "checked_at": "2026-11-24T08:42:53+00:00",
    "real_price": 15.0,
    "real_old": 59.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "fc0837d2e7af",
@@ -1202,7 +1204,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375586&tid=20375586&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d517a78ae72e11f1a4a2024cfae61a1a&au=ccbbd05f6bdc4c8cbb8eb6bc976f9fdd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:13+00:00",
+   "checked_at": "2026-11-24T08:42:55+00:00",
    "real_price": 30.0,
    "real_old": 59.99,
    "category_ok": true
@@ -1223,7 +1225,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375586&pno=1372206&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=911cbf8ae77d11f1be548af2fbc4f239&au=27408bfcea304af8b6adf60b5515edc1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:02+00:00",
+   "checked_at": "2026-11-24T08:42:44+00:00",
    "real_price": 30.0,
    "real_old": 59.99,
    "category_ok": true
@@ -1244,7 +1246,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20375499&tid=20375499&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=d67e70a4e72e11f18874024cfae61a1a&au=4354985888bf4723b9e541030a7b6d40&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:14+00:00",
+   "checked_at": "2026-11-24T08:42:57+00:00",
    "real_price": 15.0,
    "real_old": 143.0,
    "category_ok": true
@@ -1265,7 +1267,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375451&tid=20375451&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=d7b25378e72e11f1ab024a651817549e&au=592a460d020c43a0bec8eedeea8e93a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:17+00:00",
+   "checked_at": "2026-11-24T08:43:00+00:00",
    "real_price": 15.0,
    "real_old": 34.99,
    "category_ok": true
@@ -1307,7 +1309,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375145&tid=20375145&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d8f62f0ce72e11f1aa8a5204ca69ee0b&au=e9b384d22b1e44c690f92aeb58c06f87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:19+00:00",
+   "checked_at": "2026-11-24T08:43:03+00:00",
    "real_price": 53.19,
    "real_old": 69.99,
    "category_ok": true
@@ -1350,7 +1352,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375085&tid=20375085&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=db77c1c8e72e11f183b92aac26795ca8&au=225769ef8524474eac10351449722f28&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:24+00:00",
+   "checked_at": "2026-11-24T08:43:06+00:00",
    "real_price": 30.0,
    "real_old": 50.0,
    "category_ok": true
@@ -1392,7 +1394,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374935&tid=20374935&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=dcb4d210e72e11f1ac56024cfae61a1a&au=fa2b6add00db4f2abfcd53bfec1af28d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:27+00:00",
+   "checked_at": "2026-11-24T08:43:08+00:00",
    "real_price": 15.0,
    "real_old": 19.49,
    "category_ok": true
@@ -1413,7 +1415,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20374929&tid=20374929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ddec6242e72e11f1bfea96db1a505e68&au=3f6b10db41d54143bf47ca4d63d980bb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:29+00:00",
+   "checked_at": "2026-11-24T08:43:10+00:00",
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
@@ -1434,7 +1436,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374893&tid=20374893&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=df43fbbee72e11f1ad5c9a0a1bd4da77&au=b3f7687bfeb54ed78ba6eeda52ca3b86&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:31+00:00",
+   "checked_at": "2026-11-24T08:43:13+00:00",
    "real_price": 15.0,
    "real_old": 24.88,
    "category_ok": true
@@ -1455,7 +1457,7 @@
    "store_url": "https://www.walmart.com/ip/17461955577",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:33+00:00",
+   "checked_at": "2026-11-24T08:43:15+00:00",
    "real_price": 15.0,
    "real_old": 29.83,
    "category_ok": true
@@ -1476,7 +1478,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374854&tid=20374854&prop=diavail-true%7Cdincp-1%7Cdinpd-19%7Cdipgavail-true&pv=e1d14026e72e11f189b1ee7a44725314&au=ce59c5cc45cf486a9163fc5cdde68a49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:35+00:00",
+   "checked_at": "2026-11-24T08:43:17+00:00",
    "real_price": 19.93,
    "real_old": 24.99,
    "category_ok": true
@@ -1497,7 +1499,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374839&tid=20374839&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e2f876e0e72e11f1ad5c9a0a1bd4da77&au=b9a08d9bd8824bb891e0a48624f8b373&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:37+00:00",
+   "checked_at": "2026-11-24T08:43:20+00:00",
    "real_price": 15.0,
    "real_old": 148.0,
    "category_ok": true
@@ -1518,7 +1520,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374821&tid=20374821&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=e4386a06e72e11f1a459a64b5469ab5e&au=ef7cb3d8ffe5480ba1bc404fa12bb596&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:40+00:00",
+   "checked_at": "2026-11-24T08:43:23+00:00",
    "real_price": 20.0,
    "real_old": 134.0,
    "category_ok": true
@@ -1539,7 +1541,7 @@
    "store_url": "https://www.walmart.com/ip/19492359868",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:42+00:00",
+   "checked_at": "2026-11-24T08:43:25+00:00",
    "real_price": 24.88,
    "real_old": 49.99,
    "category_ok": true
@@ -1582,7 +1584,7 @@
    "store_url": "https://www.walmart.com/ip/18031454889",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:44+00:00",
+   "checked_at": "2026-11-24T08:43:27+00:00",
    "real_price": 15.0,
    "real_old": 34.99,
    "category_ok": true
@@ -1603,7 +1605,7 @@
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:46+00:00",
+   "checked_at": "2026-11-24T08:43:29+00:00",
    "real_price": 15.0,
    "real_old": 34.99,
    "category_ok": true
@@ -1621,7 +1623,7 @@
    "posted": "2026-11-23T06:39:28+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T02:41:48+00:00",
+   "checked_at": "2026-11-24T08:43:31+00:00",
    "category_ok": true,
    "real_price": 25.0,
    "real_old": 57.0,
@@ -1645,7 +1647,7 @@
    "store_url": "https://www.walmart.com/ip/19254459434",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:41:51+00:00",
+   "checked_at": "2026-11-24T08:43:34+00:00",
    "real_price": 15.0,
    "real_old": 39.88,
    "category_ok": true
@@ -11921,6 +11923,27 @@
    "real_old": 299.99
   },
   {
+   "id": "tf2c74a262a8",
+   "title": "[Prime] 25W Lisen Qi2.2 MagSafe Wireless Charging Pad w/ Active Cooling Fan & 36W Power Adapter (Black) $19.99 + Free Shipping",
+   "price": 19.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20383902-prime-25w-lisen-qi2-2-magsafe-wireless-charging-pad-w-active-cooling-fan-36w-power-adapter-black-19-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22555716.thumb",
+   "posted": "2026-11-24T06:05:20+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "0HFGHD19",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T08:44:25+00:00",
+   "real_price": 19.99,
+   "real_old": 39.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383902&tid=20383902&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=407967d4e7e311f181ed4a93657aed19&au=afe03c99d78e46e88a8cfbad8b06c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5849c981e05",
    "title": "WOLFBOX 4000A 12V 24000mAh Portable Car Jump Starter w/ 65W Quick Charger $60 + Free S&H",
    "price": 60.0,
@@ -12685,10 +12708,9 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20382048&tid=20382048&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=810b2a5ee7e211f19c154a4a8e39fccc&au=5d15d79f9cbc4a32865bbc0e9b29a222&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T08:39:04+00:00",
-   "real_price": 563.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20382048&tid=20382048&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=810b2a5ee7e211f19c154a4a8e39fccc&au=5d15d79f9cbc4a32865bbc0e9b29a222&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 563.0
   },
   {
    "id": "t140f43d3b89",
@@ -12793,9 +12815,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "SPECIAL10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -14137,8 +14156,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=825865fce7e211f1853c2e7fc0556dec&au=84c6de03b2184b55904ef88608db942a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T08:39:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=41d5561ae7e311f1800d2e7fc0556dec&au=08541a457e1548bca195b4780c3f343b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T08:44:27+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14954,8 +14973,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=838101bee7e211f1ae5f4a4a8e39fccc&au=84d6fd7803464d8c82e66ce49f3a6dad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T08:39:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=430227fce7e311f181c806b2793bd035&au=0dff4ae877624dad93e400967b9305cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T08:44:29+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16221,24 +16240,6 @@
    "checked_at": "2026-11-23T20:05:47+00:00",
    "real_price": 749.0,
    "real_old": 1399.99
-  },
-  {
-   "id": "t82196e8e4b9",
-   "title": "Beats Studio Pro Wireless Headphones (Matte White) $99 + Free S&H",
-   "price": 99.0,
-   "old_price": 299.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373420-w-live-11-23-beats-studio-pro-wireless-headphones-matte-white-99-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22529703.thumb",
-   "posted": "2026-11-23T05:01:32+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-23T20:38:43+00:00",
-   "real_price": 99.0,
-   "real_old": 299.0,
-   "store_url": "https://www.walmart.com/ip/14280620660"
   }
  ],
  "tech": [
@@ -19056,8 +19057,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=838101bee7e211f1ae5f4a4a8e39fccc&au=84d6fd7803464d8c82e66ce49f3a6dad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=838101bee7e211f1ae5f4a4a8e39fccc&au=84d6fd7803464d8c82e66ce49f3a6dad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=430227fce7e311f181c806b2793bd035&au=0dff4ae877624dad93e400967b9305cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=430227fce7e311f181c806b2793bd035&au=0dff4ae877624dad93e400967b9305cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -19073,7 +19074,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=838101bee7e211f1ae5f4a4a8e39fccc&au=84d6fd7803464d8c82e66ce49f3a6dad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=430227fce7e311f181c806b2793bd035&au=0dff4ae877624dad93e400967b9305cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19477,5 +19478,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T08:39:58+00:00"
+ "updated": "2026-11-24T08:45:21+00:00"
 }
