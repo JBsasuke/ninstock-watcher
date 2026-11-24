@@ -1035,10 +1035,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-24T02:41:22+00:00",
+   "expired": true,
    "real_price": 15.0,
    "real_old": 49.99,
-   "category_ok": true,
-   "expired": true
+   "category_ok": true
   },
   {
    "id": "6c5b739843e9",
@@ -11932,10 +11932,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380656&pno=1372482&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=baf44a48e7b011f190aea2ca4dc6e540&au=8faa7924fa1148daa331adbe2d4a80fb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T02:42:46+00:00",
    "real_price": 232.7,
-   "real_old": 309.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380656&pno=1372482&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=baf44a48e7b011f190aea2ca4dc6e540&au=8faa7924fa1148daa331adbe2d4a80fb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 309.95
   },
   {
    "id": "t13c2d710ad6",
@@ -12080,6 +12080,24 @@
    "checked_at": "2026-11-24T01:50:01+00:00",
    "real_price": 1779.0,
    "real_old": 1999.0
+  },
+  {
+   "id": "t8841624fe85",
+   "title": "HP OmniBook X Flip 14\" 2K OLED 2-in-1 Laptop (Ryzen AI 5 430 / 16GB / 512GB) Open-Box Excellent $565.99",
+   "price": 565.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20382360-hp-omnibook-x-flip-14-2k-oled-2-in-1-laptop-ryzen-ai-5-430-16gb-512gb-open-box-excellent-565-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22552290.thumb",
+   "posted": "2026-11-24T01:41:00+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": true,
+   "checked_at": "2026-11-24T02:45:51+00:00",
+   "real_price": 565.99,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&tid=20382360&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=28f02396e7b111f1ba1006a1b14004dc&au=e1dc07dd91524f4e9e4f6e7791b8fbe3&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t87a654352e7",
@@ -13408,8 +13426,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc4abee0e7b011f1a2cba2485e646a06&au=4fe45393900f45f0af0df8f06832b030&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T02:42:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a163706e7b111f1a33b02b434a0647c&au=a64726fe1c2642d38f23158c7b6bad6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T02:45:53+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14150,8 +14168,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd728834e7b011f1baeda2485e646a06&au=32e32a2e28bd442b919be0eeb5725a88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T02:42:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2b72f38ce7b111f1bf251e62be9d22c2&au=a132d32152f74aaeb6b4fcf4534b74db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T02:45:55+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16252,24 +16270,6 @@
    "real_price": 69.88,
    "real_old": 142.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20369148&tid=20369148&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2b65df00e69211f198482689e6341ec5&au=e46d0b1b1a434bd49d335cebefec8a22&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "teb8c163ccb8",
-   "title": "LEGO Creator 3-in-1 Set: Typewriter w/ Flowers, Keytar on Stand, & Flowerpot w/ Pen & Notebook $16.79 + Free Shipping w/ Prime or on $35+",
-   "price": 16.79,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20369073-lego-creator-3-in-1-set-typewriter-w-flowers-keytar-on-stand-flowerpot-w-pen-notebook-16-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22520694.thumb",
-   "posted": "2026-11-22T12:06:16+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-22T16:31:31+00:00",
-   "real_price": 16.79,
-   "real_old": 29.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369073&tid=20369073&prop=diavail-true%7Cdincp-2%7Cdinpd-8%7Cdipgavail-true&pv=2cafde60e69211f1babc82411e6db206&au=fc6d9efcf9094c4891cf6e0cf6e7768e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -16486,6 +16486,33 @@
      "store": "B&H Photo Video",
      "price": 1779.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20360187&pno=1372437&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b5194eee7a911f18babbe02872d8e2a&au=4e76dc0325424bd3af74e915e76b1242&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t8841624fe85",
+   "title": "HP OmniBook X Flip 14\" 2K OLED 2-in-1 Laptop (Ryzen AI 5 430 / 16GB / 512GB) Open-Box Excellent",
+   "price": 565.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&tid=20382360&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=28f02396e7b111f1ba1006a1b14004dc&au=e1dc07dd91524f4e9e4f6e7791b8fbe3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&tid=20382360&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=28f02396e7b111f1ba1006a1b14004dc&au=e1dc07dd91524f4e9e4f6e7791b8fbe3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22552290.thumb",
+   "posted": "2026-11-24T01:41:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 565.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&tid=20382360&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=28f02396e7b111f1ba1006a1b14004dc&au=e1dc07dd91524f4e9e4f6e7791b8fbe3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18250,8 +18277,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd728834e7b011f1baeda2485e646a06&au=32e32a2e28bd442b919be0eeb5725a88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd728834e7b011f1baeda2485e646a06&au=32e32a2e28bd442b919be0eeb5725a88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2b72f38ce7b111f1bf251e62be9d22c2&au=a132d32152f74aaeb6b4fcf4534b74db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2b72f38ce7b111f1bf251e62be9d22c2&au=a132d32152f74aaeb6b4fcf4534b74db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -18267,7 +18294,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd728834e7b011f1baeda2485e646a06&au=32e32a2e28bd442b919be0eeb5725a88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2b72f38ce7b111f1bf251e62be9d22c2&au=a132d32152f74aaeb6b4fcf4534b74db&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19473,34 +19500,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20368509&pno=1371213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a90dc52e6c011f1a55d7eb7f58e2b17&au=7507444f736c43369d79c266049abe39&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t76ef7f86c9e",
-   "title": "Legion 5i Laptop: 15.3\" 1600p OLED 165Hz, Core 7 245HX RTX 5060, 16GB, 512GB + Free S&H",
-   "price": 1199.99,
-   "old_price": 1899.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20343156&pno=1369080&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c988566e48b11f1a4271a0da69ed8a0&au=6a61f387ec1b4c078bbff9b6dd6762a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20343156&pno=1369080&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c988566e48b11f1a4271a0da69ed8a0&au=6a61f387ec1b4c078bbff9b6dd6762a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22525113.thumb",
-   "posted": "2026-11-22T19:44:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 1199.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20343156&pno=1369080&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c988566e48b11f1a4271a0da69ed8a0&au=6a61f387ec1b4c078bbff9b6dd6762a6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T02:43:43+00:00"
+ "updated": "2026-11-24T02:46:48+00:00"
 }
