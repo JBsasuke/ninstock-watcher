@@ -14,13 +14,13 @@
    "posted": "2026-11-24T12:42:08+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T12:43:40+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=accc3166e80411f1b17abe4ed0ec16f4&au=c3ff7c4b22034d00b320970f37d99ba0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T12:43:40+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "d6609374578c",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T12:42:08+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T12:43:42+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=ade5163ae80411f1af5da2459dfa5d65&au=3209f0fe83e749859277da27bc921da4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T12:43:42+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "000154426291",
@@ -353,7 +353,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&pno=1372410&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1e7af2d0e7a011f186aee20ac5a09123&au=a2cd6679e7ea4485a2c97e48001ce229&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T06:45:09+00:00",
+   "checked_at": "2026-11-24T12:48:28+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -374,7 +374,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c16bba0e7a011f1bcbd96fe147dd7f2&au=293c1ddb301a4311beaf1e247c569169&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T06:45:05+00:00",
+   "checked_at": "2026-11-24T12:48:24+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -395,7 +395,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d664f16e7a011f18cef22f10dfae1bd&au=0a5300df3e914c8e8f95c174274ab129&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T06:45:07+00:00",
+   "checked_at": "2026-11-24T12:48:26+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11859,6 +11859,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tddd2e2921dd",
+   "title": "94-Ct Finish Power Dishwasher Detergent Pods $10.25 w/ S&S",
+   "price": 10.26,
+   "old_price": 20.45,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385501-sns-ac-10-26-or-9-24-94-ct-finish-power-dishwasher-detergent-pods-at-amazon-10-9-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22559904.thumb",
+   "posted": "2026-11-24T12:46:30+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T12:49:22+00:00",
+   "real_price": 10.26,
+   "real_old": 20.45,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385501&pno=1372794&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=78c745bce80511f1a739e6d967342077&au=cae90f679848447288c6fae560b1087f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t1ed9407e748",
+   "title": "furReal 11\" Daisy the Yoga Goat Interactive Plush Toy $20",
+   "price": 20.0,
+   "old_price": 44.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20377053-11-inch-furreal-daisy-the-yoga-goat-interactive-toy-20-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560810.thumb",
+   "posted": "2026-11-24T12:44:50+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T12:49:24+00:00",
+   "real_price": 20.0,
+   "real_old": 44.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9812d58011f",
    "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet w/ Surface Keyboard $1000 + Free S&H",
    "price": 999.99,
@@ -11910,10 +11946,10 @@
    "code": "9D2FWS7L",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385462&tid=20385462&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ce3dec04e80411f1844fa2459dfa5d65&au=177821093f3c426b8cff5bd5e3221a7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T12:44:36+00:00",
    "real_price": 19.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385462&tid=20385462&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ce3dec04e80411f1844fa2459dfa5d65&au=177821093f3c426b8cff5bd5e3221a7d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.99
   },
   {
    "id": "t670c894741b",
@@ -12579,6 +12615,27 @@
    "checked_at": "2026-11-24T04:43:55+00:00",
    "real_price": 217.0,
    "real_old": 379.0
+  },
+  {
+   "id": "t0a79d0c5ea0",
+   "title": "15W Esr HaloLock MagSafe Wireless Charger & Kickstand w/ 5' Cable (Black or White) $9.99 + Free Shipping w/ Prime or on $35+",
+   "price": 9.99,
+   "old_price": 19.98,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20383485-15w-esr-halolock-magsafe-wireless-charger-kickstand-w-5-cable-black-or-white-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22554798.thumb",
+   "posted": "2026-11-24T04:38:57+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "HAQZKPZ8",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T12:49:26+00:00",
+   "real_price": 9.99,
+   "real_old": 19.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t11d29f274e7",
@@ -14710,8 +14767,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfbc1fc4e80411f1923906b2793bd035&au=444182b5c3714aacbd84c6643346474c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:44:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7c552294e80511f1bb9ede6ea830e0d8&au=0733fc294bbe4e609a2accb1a334f0a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:49:28+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15547,8 +15604,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d1031a40e80411f1aa5d2ed6ae9f9af3&au=37123eb8bb3042159a0e7365c40c0589&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:44:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7dda4ba8e80511f18855a2459dfa5d65&au=eca9aafc52f14af5a5bd06133d8b2621&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T12:49:31+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16216,63 +16273,36 @@
    "real_price": 299.0,
    "real_old": 449.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374926&pno=1371765&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c89e99ce72f11f1a7d55204ca69ee0b&au=8ad5176a049c4f9d9c4c50be1fd86436&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t3f9c39da02e",
-   "title": "INIU 10000mAh 45W Fast Charging Portable Charger (2 Colors) $10.85",
-   "price": 10.83,
-   "old_price": 24.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20374887-ac-10-83-iniu-10000mah-45w-fast-charging-portable-charger-smaller-travel-power-bank-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22533654.thumb",
-   "posted": "2026-11-23T10:14:15+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "checked_at": "2026-11-23T11:15:24+00:00",
-   "real_price": 10.83,
-   "real_old": 24.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374887&pno=1371762&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2dc7112ce72f11f1bffb024cfae61a1a&au=d144a211f7c54746a830633b1b0d47e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "tc3e9f919ee4",
-   "title": "Cuisinart 1.1 cu ft. 1000W Digital Countertop Oven Microwave (Black) $50 + Free S&H",
-   "price": 49.99,
-   "old_price": 109.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20371155-cuisinart-1-1-cu-ft-1000w-countertop-microwave-oven-black-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22535376.thumb",
-   "posted": "2026-11-23T10:14:05+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-23T11:15:26+00:00",
-   "real_price": 49.99,
-   "real_old": 109.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20371155&pno=1371759&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2efff5aee72f11f1a5b1ee7a44725314&au=cefbe38dfa5240238b3d7d5a89ff1ff6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "taa1526c325f",
-   "title": "JBL Vibe Flex 2 True Wireless Earbuds (Black, White, Pink) - $19.94 @ Walmart",
-   "price": 19.94,
-   "old_price": 59.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20375664-jbl-vibe-flex-2-true-wireless-earbuds-black-white-pink-19-94-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22535328.thumb",
-   "posted": "2026-11-23T10:07:06+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20375664&tid=20375664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c63c1044e7d211f18ecf2e4988c4deaa&au=1f2b45867f4d4ed6a8fbd9d284da5cd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:46:28+00:00",
-   "real_price": 19.94,
-   "real_old": 59.0
   }
  ],
  "tech": [
+  {
+   "id": "t1ed9407e748",
+   "title": "furReal 11\" Daisy the Yoga Goat Interactive Plush Toy",
+   "price": 20.0,
+   "old_price": 44.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560810.thumb",
+   "posted": "2026-11-24T12:44:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 20.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t9812d58011f",
    "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet",
@@ -16918,6 +16948,33 @@
      "store": "Amazon",
      "price": 989.1,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375349&pno=1371753&prop=diavail-true%7Cdincp-1%7Cdinpd-16%7Cdipgavail-true&pv=c3684620e77e11f19eaba2793bd6e5bc&au=5b874581115f45e1a5e9341f88dd1568&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0a79d0c5ea0",
+   "title": "15W Esr HaloLock MagSafe Wireless Charger & Kickstand",
+   "price": 9.99,
+   "old_price": 19.98,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22554798.thumb",
+   "posted": "2026-11-24T04:38:57+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "HAQZKPZ8",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 9.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383485&tid=20383485&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b1c5a46e80511f19af0be4ed0ec16f4&au=7cc0b72c4dbb469ca416d7b50d097a2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19446,61 +19503,7 @@
    "code_until": null,
    "promo": "30% Off",
    "offers": []
-  },
-  {
-   "id": "tdbf506f5324",
-   "title": "34\" Samsung Odyssey G5 G55H UWQHD VA 180Hz FreeSync Curved Gaming Monitor + Free S&H",
-   "price": 179.0,
-   "old_price": 279.0,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373693&pno=1372002&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=3452a3fee77911f1a01e52378ccfbab6&au=8fd1bb7fa58941bbbbc5098d32a2ddf3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373693&pno=1372002&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=3452a3fee77911f1a01e52378ccfbab6&au=8fd1bb7fa58941bbbbc5098d32a2ddf3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22541952.thumb",
-   "posted": "2026-11-23T15:44:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 179.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373693&pno=1372002&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=3452a3fee77911f1a01e52378ccfbab6&au=8fd1bb7fa58941bbbbc5098d32a2ddf3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t01a6ae3df75",
-   "title": "Anker 3-Port up to 167.5W USB C Fast Charging Car Charger",
-   "price": 32.28,
-   "old_price": 53.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375175&pno=1371969&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3593d67ae77911f1a2955a41bb171c23&au=c83981a2b2584b2aad94f9d2b16501c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375175&pno=1371969&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3593d67ae77911f1a2955a41bb171c23&au=c83981a2b2584b2aad94f9d2b16501c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22534227.thumb",
-   "posted": "2026-11-23T15:15:49+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 32.28,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375175&pno=1371969&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3593d67ae77911f1a2955a41bb171c23&au=c83981a2b2584b2aad94f9d2b16501c2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T12:45:36+00:00"
+ "updated": "2026-11-24T12:50:19+00:00"
 }
