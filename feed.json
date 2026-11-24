@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "c15cb492b4f6",
+   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red) $31.95",
+   "price": 31.97,
+   "old_price": 44.99,
+   "store": "Amazon",
+   "kind": "hardware",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20378010-31-97-nintendo-joy-con-controllers-for-nintendo-switch-consoles-r-neon-red-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
+   "posted": "2026-11-24T19:45:26+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T19:49:41+00:00",
+   "category_ok": true,
+   "real_price": 31.97,
+   "real_old": 44.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "2f9fc53fed71",
    "title": "Select Accts: Pokémon Legends: Z-A Nintendo Switch 2 Edition [Physical] w/Filler item - $39.98",
    "price": 39.98,
@@ -3157,31 +3178,35 @@
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
-  },
-  {
-   "id": "adde1b9fba3c",
-   "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
-   "price": 49.99,
-   "old_price": 69.99,
-   "store": "Best Buy",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20367696-donkey-kong-bananza-switch-2-50-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22518861.thumb",
-   "posted": "2026-11-22T08:51:45+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367696&pno=1370955&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d911c354e69111f18d02fad540dd66ac&au=b508da29ecf5452485b72534a46cdc9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-24T14:08:43+00:00",
-   "real_price": 49.99,
-   "real_old": 69.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-24T19:40:48+00:00",
  "deals": [
+  {
+   "id": "cf5f1f73e921",
+   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red)",
+   "price": 31.97,
+   "old_price": 44.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 31.97,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-24T19:45:26+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "e01dfbf022b7",
    "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition (Nintendo Switch 2)",
@@ -3786,31 +3811,6 @@
    "code_until": null
   },
   {
-   "id": "cf5f1f73e921",
-   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red)",
-   "price": 31.97,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 31.97,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-23T15:36:30+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
    "id": "db0648056249",
    "title": "Diablo IV Age of Hatred Collection (Nintendo Switch 2 Code in a Box)",
    "price": 49.99,
@@ -4228,11 +4228,6 @@
      "store": "Amazon",
      "price": 49.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367819&pno=1371006&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b8afe1b8e69111f1adc736357871b871&au=960f8fa6822d49ad8ef19651c0d499c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    },
-    {
-     "store": "Best Buy",
-     "price": 49.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367696&pno=1370955&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d911c354e69111f18d02fad540dd66ac&au=b508da29ecf5452485b72534a46cdc9c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ],
    "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22531152.thumb",
@@ -11956,6 +11951,24 @@
    "real_old": 379.99
   },
   {
+   "id": "td2c962d3d3b",
+   "title": "$699* | Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD at Amazon",
+   "price": 699.0,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20388807-699-apple-macbook-neo-laptop-13-2408x1506-a18-pro-chip-8gb-ram-512gb-ssd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22568769.thumb",
+   "posted": "2026-11-24T19:08:33+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T19:50:37+00:00",
+   "real_price": 699.0,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388807&tid=20388807&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5163340ae84011f18f06d23070ce9744&au=cf12d8b8862a40b9bfa168519f97a1c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6e7169fb8c1",
    "title": "43\" onn 1080p FHD Vizio Smart TV $89 + Free S&H",
    "price": 89.0,
@@ -14868,8 +14881,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aac72480e83f11f1a3add6a4b2029493&au=954b0ce0402247da9f8f06c8964451c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:45:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52983c62e84011f190bbd23070ce9744&au=d8110cc09c0c4e3b910b2e13311a3f5f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T19:50:39+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -15337,6 +15350,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -16254,24 +16270,6 @@
    "checked_at": "2026-11-24T01:38:45+00:00",
    "real_price": 379.99,
    "real_old": 799.99
-  },
-  {
-   "id": "t0fa083fb188",
-   "title": "Shark Stratos 2-in-1 Robot Vacuum & Mop w/ NeverTouch Self-Cleaning Base (RV2720ZE, White) $349.99 + Free Shipping",
-   "price": 349.99,
-   "old_price": 799.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20380560-shark-stratos-2-in-1-robot-vacuum-mop-w-nevertouch-self-cleaning-base-rv2720ze-white-349-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22548471.thumb",
-   "posted": "2026-11-23T21:00:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20380560&tid=20380560&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ede825ce79411f1bce6a2793bd6e5bc&au=44218ab168bc4b82a85fa91605003417&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T23:20:13+00:00",
-   "real_price": 349.99,
-   "real_old": 799.99
   }
  ],
  "tech": [
@@ -16353,6 +16351,33 @@
      "store": "Woot!",
      "price": 199.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20374302&pno=1373091&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2663c9e0e83b11f195251a19d74c094d&au=a17f42c05dfc4c0a94385234351cbe55&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "td2c962d3d3b",
+   "title": "Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD",
+   "price": 699.0,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388807&tid=20388807&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5163340ae84011f18f06d23070ce9744&au=cf12d8b8862a40b9bfa168519f97a1c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388807&tid=20388807&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5163340ae84011f18f06d23070ce9744&au=cf12d8b8862a40b9bfa168519f97a1c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22568769.thumb",
+   "posted": "2026-11-24T19:08:33+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 699.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388807&tid=20388807&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5163340ae84011f18f06d23070ce9744&au=cf12d8b8862a40b9bfa168519f97a1c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18759,8 +18784,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aac72480e83f11f1a3add6a4b2029493&au=954b0ce0402247da9f8f06c8964451c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aac72480e83f11f1a3add6a4b2029493&au=954b0ce0402247da9f8f06c8964451c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52983c62e84011f190bbd23070ce9744&au=d8110cc09c0c4e3b910b2e13311a3f5f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52983c62e84011f190bbd23070ce9744&au=d8110cc09c0c4e3b910b2e13311a3f5f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18776,7 +18801,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aac72480e83f11f1a3add6a4b2029493&au=954b0ce0402247da9f8f06c8964451c7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52983c62e84011f190bbd23070ce9744&au=d8110cc09c0c4e3b910b2e13311a3f5f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19481,34 +19506,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20371944&pno=1372338&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=709d9950e79111f18ffbfad864b311f9&au=5754116583114f7588d567d30cb039a8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t58ee6855114",
-   "title": "Apple MacBook Pro M6 14.2\" Laptop",
-   "price": 2249.0,
-   "old_price": 2399.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381316&tid=20381316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1353c78e7dd11f1acf63a785a703b11&au=d5ef5636b7ce4c1e98502e360fa3b943&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381316&tid=20381316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1353c78e7dd11f1acf63a785a703b11&au=d5ef5636b7ce4c1e98502e360fa3b943&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22550214.thumb",
-   "posted": "2026-11-23T22:52:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 2249.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381316&tid=20381316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1353c78e7dd11f1acf63a785a703b11&au=d5ef5636b7ce4c1e98502e360fa3b943&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T19:46:54+00:00"
+ "updated": "2026-11-24T19:51:35+00:00"
 }
