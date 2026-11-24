@@ -563,7 +563,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T11:20:31+00:00",
+   "checked_at": "2026-11-24T17:24:28+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -584,7 +584,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=915137f8e7c611f1b6415e022035647f&au=7d48aa662676483f842ff13af29fc313&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T11:20:33+00:00",
+   "checked_at": "2026-11-24T17:24:30+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -11839,6 +11839,24 @@
    "real_old": 249.0
   },
   {
+   "id": "tc95c825f2c2",
+   "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor $855 + Free S&H",
+   "price": 854.98,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20358648-samsung-49-odyssey-g93sc-qd-oled-curved-gaming-monitor-854-98-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566972.thumb",
+   "posted": "2026-11-24T17:23:37+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-24T17:25:26+00:00",
+   "real_price": 854.98,
+   "real_old": 1599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te1582ea8324",
    "title": "DeWALT 20V MAX Cordless Drill + Impact Driver Combo Kit w/ 2x 1.3Ah Batteries $129 + Free S&H",
    "price": 129.0,
@@ -11851,10 +11869,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380647&pno=1372980&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55be19a8e82b11f1b42c7e1be0eec0f3&au=31d014b0c3a345cba0a076a97309617c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:20:25+00:00",
    "real_price": 129.0,
-   "real_old": 239.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380647&pno=1372980&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55be19a8e82b11f1b42c7e1be0eec0f3&au=31d014b0c3a345cba0a076a97309617c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 239.0
   },
   {
    "id": "t9ea2c502fa5",
@@ -11869,10 +11887,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20369238&pno=1372971&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=570694ace82b11f1952612c3402d77cf&au=b019191bd2d04600b76103a97b3b8d3a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:20:27+00:00",
    "real_price": 99.99,
-   "real_old": 229.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20369238&pno=1372971&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=570694ace82b11f1952612c3402d77cf&au=b019191bd2d04600b76103a97b3b8d3a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 229.99
   },
   {
    "id": "t5c88a850bb1",
@@ -11944,10 +11962,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20387925&tid=20387925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58459714e82b11f196527a2a619e0816&au=d35dc37e11a84d9ebad224aa58133bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:20:29+00:00",
-   "real_price": 69.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20387925&tid=20387925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58459714e82b11f196527a2a619e0816&au=d35dc37e11a84d9ebad224aa58133bed&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 69.99
   },
   {
    "id": "td54327d950b",
@@ -12627,6 +12644,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16194,24 +16214,6 @@
    "checked_at": "2026-11-23T19:48:40+00:00",
    "real_price": 1849.99,
    "real_old": 2499.99
-  },
-  {
-   "id": "t69d6848e010",
-   "title": "100\" Hisense Class E6 Series QLED 4K UHD Smart Fire TV $1400 + Free S/H",
-   "price": 1399.99,
-   "old_price": 2699.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20375811-hisense-100-class-e6-series-qled-4k-144hz-uhd-smart-fire-tv-100e6qf-2025-1399-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22535595.thumb",
-   "posted": "2026-11-23T18:53:30+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375811&pno=1372146&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=e32f515ee77611f1a8a0c2ea0ec8d3d5&au=ac2b15423e8e44c988773d9f67645c30&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T19:48:43+00:00",
-   "real_price": 1399.99,
-   "real_old": 2699.99
   }
  ],
  "tech": [
@@ -16239,6 +16241,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tc95c825f2c2",
+   "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor + Free S&H",
+   "price": 854.98,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566972.thumb",
+   "posted": "2026-11-24T17:23:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 854.98,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16906,7 +16935,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19421,34 +19450,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380728&tid=20380728&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=8495f144e78911f1a533c6295f85c67c&au=56239df0b24143a291580a79000e5dac&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tcde5b026031",
-   "title": "AMD Ryzen 5 9600X 6-Core/12-Thread Unlocked Desktop Processor + Free S&H",
-   "price": 169.0,
-   "old_price": 220.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374401&pno=1372248&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=6aacac6ee78411f1bd302a0797922970&au=aeafd5bf08414c84bc93581696304c46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374401&pno=1372248&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=6aacac6ee78411f1bd302a0797922970&au=aeafd5bf08414c84bc93581696304c46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22548852.thumb",
-   "posted": "2026-11-23T21:21:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 169.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374401&pno=1372248&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=6aacac6ee78411f1bd302a0797922970&au=aeafd5bf08414c84bc93581696304c46&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T17:21:25+00:00"
+ "updated": "2026-11-24T17:26:24+00:00"
 }
