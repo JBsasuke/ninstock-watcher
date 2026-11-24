@@ -56,13 +56,13 @@
    "posted": "2026-11-24T23:01:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T23:14:26+00:00",
-   "category_ok": false,
-   "real_price": 60.0,
-   "real_old": 120.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cac420a4e85c11f1a98a725e37dd070f&au=b491d97d6cf1433693c722608f324bba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T23:14:26+00:00",
+   "real_price": 60.0,
+   "real_old": 120.0,
+   "category_ok": false
   },
   {
    "id": "8889b00166e9",
@@ -77,13 +77,13 @@
    "posted": "2026-11-24T23:01:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T23:14:28+00:00",
-   "category_ok": false,
-   "real_price": 60.0,
-   "real_old": 120.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc053b6ae85c11f188d94e2eae10b5bf&au=3085a14be9a247919f15ec6caa0d721d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T23:14:28+00:00",
+   "real_price": 60.0,
+   "real_old": 120.0,
+   "category_ok": false
   },
   {
    "id": "bce9c498a70f",
@@ -11942,10 +11942,10 @@
    "code": "7FD9RN0U",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&tid=20389590&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ecc981f8e85c11f18a212a8aae4cbb64&au=5aef1fbba1fe446d88091731082e6283&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T23:15:23+00:00",
    "real_price": 35.99,
-   "real_old": 69.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&tid=20389590&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ecc981f8e85c11f18a212a8aae4cbb64&au=5aef1fbba1fe446d88091731082e6283&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 69.99
   },
   {
    "id": "tf73c6485de8",
@@ -13766,6 +13766,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -14912,10 +14915,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/18861017662",
    "checked_at": "2026-11-24T23:15:25+00:00",
    "real_price": 145.0,
-   "real_old": 146.0,
-   "store_url": "https://www.walmart.com/ip/18861017662"
+   "real_old": 146.0
   },
   {
    "id": "te1a29b80904",
@@ -15661,8 +15664,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ef48b930e85c11f1a3a0564b66b64140&au=1c792f824b984231a9ebe54573bbe6f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T23:15:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=90e701ace85d11f1940d5205667f8650&au=50204e0b8bc5424884a1a7d6d0b7e3a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T23:19:59+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -17938,7 +17941,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19354,5 +19357,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T23:16:21+00:00"
+ "updated": "2026-11-24T23:20:57+00:00"
 }
