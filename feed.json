@@ -547,10 +547,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20383734&pno=1372653&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a4880c4e7d811f18a323e9a85a06e1e&au=4125cdacddd24598b00d314260b0e35e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T13:30:13+00:00",
+   "checked_at": "2026-11-24T19:31:21+00:00",
    "real_price": 124.99,
    "real_old": null,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "c6b28a282a23",
@@ -3488,31 +3489,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-24T10:18:36+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "ee48478f7ef8",
-   "title": "Costco Members: 2-Pk Pokémon TCG: Perfect Order Elite Trainer Box + Booster Bundle + Free S&H",
-   "price": 124.99,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "store_url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members%3A+2-Pk+Pok%C3%A9mon+TCG%3A+Perfect+Order+Elite+Trainer+Box+%2B+Booster+Bundle+%2B+Free+S%26H",
-   "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members%3A+2-Pk+Pok%C3%A9mon+TCG%3A+Perfect+Order+Elite+Trainer+Box+%2B+Booster+Bundle+%2B+Free+S%26H",
-   "offers": [
-    {
-     "store": "Costco Wholesale",
-     "price": 124.99,
-     "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members%3A+2-Pk+Pok%C3%A9mon+TCG%3A+Perfect+Order+Elite+Trainer+Box+%2B+Booster+Bundle+%2B+Free+S%26H"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22556880.thumb",
-   "kind": "merch",
-   "collector": true,
-   "posted": "2026-11-24T07:23:20+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11924,6 +11900,24 @@
    "real_old": 249.0
   },
   {
+   "id": "tb37f61bda40",
+   "title": "UGREEN Nexode 165W 20,000mAh Power Bank w/ Retractable Cable $70 & More + Free S&H",
+   "price": 69.99,
+   "old_price": 99.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20367201-ugreen-nexode-165w-20-000mah-power-bank-with-retractable-cable-3-port-portable-charger-69-99-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/5/5/0/5/3/6/300x300/22516152.thumb",
+   "posted": "2026-11-24T19:30:44+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-24T19:32:18+00:00",
+   "real_price": 69.99,
+   "real_old": 99.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7635ef13b65",
    "title": "KitchenAid 5.5-Quart Bowl Lift Stand Mixer & Accessories (various) $250 + Free S&H",
    "price": 249.98,
@@ -13055,6 +13049,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -13698,6 +13695,23 @@
    "checked_at": "2026-11-24T11:53:21+00:00",
    "real_price": 39.99,
    "real_old": 84.99
+  },
+  {
+   "id": "t5109a8aa0ab",
+   "title": "costco apple watch series 12",
+   "price": 299.0,
+   "old_price": null,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20384784-costco-apple-watch-series-12?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-24T09:21:34+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-24T19:32:20+00:00",
+   "real_price": 299.0,
+   "real_old": null
   },
   {
    "id": "t89176c1542a",
@@ -14799,8 +14813,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=19f828a2e83d11f1afd6968f0df958e3&au=7168b3a9032140a5a02281b6769a62c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:27:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T19:32:22+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16256,42 +16270,6 @@
    "checked_at": "2026-11-24T16:52:06+00:00",
    "real_price": 849.0,
    "real_old": 1499.99
-  },
-  {
-   "id": "t48e03250b24",
-   "title": "Alienware 34\" AW3426DWM 3440x1440 WQHD 240Hz VA Curved Gaming Monitor $269.99 + Free Shipping",
-   "price": 269.99,
-   "old_price": 399.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380485-alienware-34-aw3426dwm-3440x1440-wqhd-240hz-va-curved-gaming-monitor-269-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548360.thumb",
-   "posted": "2026-11-23T20:44:42+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380485&tid=20380485&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1029feece81d11f1ac40aa3c0bb811ca&au=3469df9387f44762a55d7d66e55b0f44&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:38:15+00:00",
-   "real_price": 269.99,
-   "real_old": 399.99
-  },
-  {
-   "id": "tfdfc6e63c6e",
-   "title": "2-Bay UGREEN DXP2800 GT NAS $350 & More + Free S&H",
-   "price": 349.99,
-   "old_price": 509.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20337477-ugreen-dxp2800-gt-nas-for-smart-home-enthusiasts-creators-freelancers-349-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/6/4/8/2/2/0/300x300/22429677.thumb",
-   "posted": "2026-11-23T20:43:41+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20337477&pno=1372218&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c496ffbee77e11f19c34164c2c0ab85d&au=85cd8ddeecf54a30821e53e8488b1edb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:45:08+00:00",
-   "real_price": 349.99,
-   "real_old": 509.99
   }
  ],
  "tech": [
@@ -16319,6 +16297,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb37f61bda40",
+   "title": "UGREEN Nexode 165W 20,000mAh Power Bank",
+   "price": 69.99,
+   "old_price": 99.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/5/5/0/5/3/6/300x300/22516152.thumb",
+   "posted": "2026-11-24T19:30:44+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17256,7 +17261,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18698,8 +18703,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=19f828a2e83d11f1afd6968f0df958e3&au=7168b3a9032140a5a02281b6769a62c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=19f828a2e83d11f1afd6968f0df958e3&au=7168b3a9032140a5a02281b6769a62c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18715,7 +18720,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=19f828a2e83d11f1afd6968f0df958e3&au=7168b3a9032140a5a02281b6769a62c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c524499ae83d11f1ac2b3a755d3aa194&au=45b27dd1303047b0be83208e3311e13f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19501,34 +19506,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20378862&pno=1372323&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4e7c73ce78e11f1b5743ad29bc0f464&au=b83d5519a85e4ebfa3434ed1cf5c4895&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tba8695f90f1",
-   "title": "27\" Alienware AW2725QF 27 Dual Resolution 4K IPS 360Hz LED NVIDIA G-SYNC Monitor + Free S&H",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Staples",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20368299&pno=1372314&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1030d2e2e78e11f1bef98ecf6cdfcc70&au=1b84a34182af4ee085636a0cd29111ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20368299&pno=1372314&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1030d2e2e78e11f1bef98ecf6cdfcc70&au=1b84a34182af4ee085636a0cd29111ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22518942.thumb",
-   "posted": "2026-11-23T22:30:08+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Staples",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20368299&pno=1372314&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1030d2e2e78e11f1bef98ecf6cdfcc70&au=1b84a34182af4ee085636a0cd29111ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T19:28:33+00:00"
+ "updated": "2026-11-24T19:33:21+00:00"
 }
