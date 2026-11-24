@@ -498,13 +498,13 @@
    "posted": "2026-11-23T15:02:26+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T04:07:09+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377653&tid=20377653&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=84663fa2e7bc11f1afa0624c26fb8718&au=fb266fe0e15f4c95b15e56f1d482badf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T04:07:09+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "52e8393cb22b",
@@ -1733,7 +1733,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+GameStop&sdtid=20367735&pno=1371165&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb5188fae6bf11f1bff5463c55730e04&au=cd643a23ff144836b29aef8b652c4d78&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T02:08:19+00:00",
+   "checked_at": "2026-11-24T04:11:42+00:00",
    "real_price": 60.0,
    "real_old": null,
    "category_ok": true
@@ -3170,7 +3170,7 @@
    "link_v": 3
   }
  ],
- "deku_checked": "2026-11-24T03:08:12+00:00",
+ "deku_checked": "2026-11-24T04:11:43+00:00",
  "deals": [
   {
    "id": "4346930adf15",
@@ -6562,7 +6562,7 @@
      "url": "https://www.walmart.com/ip/19503674092"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Spike Chunsoft",
    "digital": null,
@@ -6606,7 +6606,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -6623,7 +6623,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -6666,7 +6666,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -6687,7 +6687,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -6707,7 +6707,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Level-5",
    "digital": {
@@ -6754,7 +6754,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -6798,7 +6798,7 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": null,
@@ -6836,7 +6836,7 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -6882,7 +6882,7 @@
      "url": "https://www.walmart.com/ip/20081864427"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Stormind Games",
    "digital": null,
@@ -6901,11 +6901,6 @@
    "collector": false,
    "offers": [
     {
-     "store": "Amazon",
-     "price": 29.99,
-     "url": "https://www.amazon.com/dp/B0H34K6KSD"
-    },
-    {
      "store": "Walmart",
      "price": 29.99,
      "url": "https://www.walmart.com/ip/20272673772"
@@ -6916,12 +6911,17 @@
      "url": "https://www.bestbuy.com/site/6680893.p?skuId=6680893"
     },
     {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0H34K6KSD"
+    },
+    {
      "store": "GameStop",
      "price": 39.99,
      "url": "https://www.gamestop.com/products/rayman-legends-retold/447026.html"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -6968,7 +6968,7 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -7015,7 +7015,7 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
@@ -7033,7 +7033,7 @@
    "release_date": "2026-12-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -7054,7 +7054,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7092,7 +7092,7 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Silver Lining",
    "digital": null,
@@ -7131,7 +7131,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": null,
@@ -7150,12 +7150,17 @@
    "collector": false,
    "offers": [
     {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://www.bestbuy.com/site/6669894.p?skuId=6669894"
+    },
+    {
      "store": "GameStop",
      "price": 69.99,
      "url": "https://www.gamestop.com/products/the-binding-of-isaac-repentance/436131.html"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
    "digital": {
@@ -7175,7 +7180,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7223,7 +7228,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7243,7 +7248,7 @@
    "release_date": "2026-11-12",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Shochiku",
    "digital": {
@@ -7285,7 +7290,7 @@
      "url": "https://www.target.com/p/-/A-1013451337"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA",
    "digital": {
@@ -7322,7 +7327,7 @@
      "url": "https://www.walmart.com/ip/21285952515"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -7364,7 +7369,7 @@
      "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
     }
    ],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7381,7 +7386,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-23T21:52:40+00:00",
+   "offers_checked": "2026-11-24T04:12:00+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -12105,10 +12110,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20382531&tid=20382531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a423dcb4e7bc11f1ad1486799d049eea&au=04c1dc197ec34cec8fe6cfbb81df2a52&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T04:08:02+00:00",
    "real_price": 2229.99,
-   "real_old": 3668.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20382531&tid=20382531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a423dcb4e7bc11f1ad1486799d049eea&au=04c1dc197ec34cec8fe6cfbb81df2a52&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 3668.99
   },
   {
    "id": "tb01d351fcb9",
@@ -13154,9 +13159,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -13565,8 +13567,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a59a623ee7bc11f19a940ede06900ebe&au=7a37c03814ce43f9ab3aaaa7f15ff05a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T04:08:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71a79734e7bd11f18318161ca257c495&au=7fbcb1181f0e4e1bb525fd1c171d128a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T04:13:47+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14325,8 +14327,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a6d07ecce7bc11f1a866aef6ad6650d0&au=39456b0c355345569a5c28e902f4895d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T04:08:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=72d41010e7bd11f1943ab6e9dd23cf1f&au=5c039eaeb72243e89b5d510f47ad7203&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T04:13:49+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -18443,8 +18445,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a6d07ecce7bc11f1a866aef6ad6650d0&au=39456b0c355345569a5c28e902f4895d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a6d07ecce7bc11f1a866aef6ad6650d0&au=39456b0c355345569a5c28e902f4895d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=72d41010e7bd11f1943ab6e9dd23cf1f&au=5c039eaeb72243e89b5d510f47ad7203&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=72d41010e7bd11f1943ab6e9dd23cf1f&au=5c039eaeb72243e89b5d510f47ad7203&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -18460,7 +18462,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a6d07ecce7bc11f1a866aef6ad6650d0&au=39456b0c355345569a5c28e902f4895d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=72d41010e7bd11f1943ab6e9dd23cf1f&au=5c039eaeb72243e89b5d510f47ad7203&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19479,5 +19481,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T04:08:55+00:00"
+ "updated": "2026-11-24T04:14:41+00:00"
 }
