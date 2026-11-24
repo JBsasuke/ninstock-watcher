@@ -56,13 +56,13 @@
    "posted": "2026-11-24T12:42:08+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T13:07:01+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=efd4c506e80711f1ac672ed6ae9f9af3&au=16b4f5f8847349bdaacc1c3a54480c6d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T13:07:01+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "000154426291",
@@ -11846,10 +11846,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "tddd2e2921dd",
@@ -11886,6 +11886,24 @@
    "checked_at": "2026-11-24T12:49:24+00:00",
    "real_price": 20.0,
    "real_old": 44.99
+  },
+  {
+   "id": "t3ea56b37848",
+   "title": "[Prime] $29.99 | Baseus Power Bank 20000mAh, Laptop Portable Charger Built-in Retractable USB C Cable at Amazon",
+   "price": 29.99,
+   "old_price": 99.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385741-prime-29-99-baseus-power-bank-20000mah-laptop-portable-charger-built-in-retractable-usb-c-cable-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560474.thumb",
+   "posted": "2026-11-24T12:24:43+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T13:12:32+00:00",
+   "real_price": 29.99,
+   "real_old": 99.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9812d58011f",
@@ -13386,6 +13404,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -14349,9 +14370,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -14781,8 +14799,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1128a844e80811f1bc9eeebc583ae364&au=549d0ebeee694c09b2f2414828cc60f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:07:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b601ce22e80811f1af293a785a703b11&au=c4f3ff5418c941588c13c66d83b4a76b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T13:12:34+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15618,8 +15636,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=126e182ee80811f1bba52e7fc0556dec&au=1d6e80aae61a4e6bb11631215ef86eb8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:07:59+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b73b0deee80811f19dcf9ab27e0d7e36&au=f0ce2e2241ac438abdf05c23eebae47b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T13:12:36+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16233,24 +16251,6 @@
    "checked_at": "2026-11-23T11:15:18+00:00",
    "real_price": 438.94,
    "real_old": 877.99
-  },
-  {
-   "id": "t6e44c62fc2a",
-   "title": "Greenworks 24V 12\" Cordless Brushless Chainsaw (CS24L00, Tool Only) $61.09 + Free Shipping",
-   "price": 61.09,
-   "old_price": 105.89,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20375889-greenworks-24v-12-cordless-brushless-chainsaw-cs24l00-tool-only-61-09-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22535889.thumb",
-   "posted": "2026-11-23T10:53:02+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375889&tid=20375889&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=6f1e9d8ae79c11f19f70565ac6f00961&au=eac8cbe1701b4143b48d2cc7b76da490&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:17:29+00:00",
-   "real_price": 61.09,
-   "real_old": 105.89
   }
  ],
  "tech": [
@@ -16305,6 +16305,33 @@
      "store": "Amazon",
      "price": 20.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3ea56b37848",
+   "title": "[Prime] | Baseus Power Bank 20000mAh, Laptop Portable Charger Built-in Retractable USB C Cable",
+   "price": 29.99,
+   "old_price": 99.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560474.thumb",
+   "posted": "2026-11-24T12:24:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19460,34 +19487,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378226&tid=20378226&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=872ecd92e7aa11f1975762192a2e9fa5&au=53dd6e1908fd4a9ba6a3a1e98c932142&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t3b79f786353",
-   "title": "LISEN 67\" One-Hand Open Phone Tripod Selfie Stick",
-   "price": 14.99,
-   "old_price": 33.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&tid=20378178&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=07517810e7c111f190de624c26fb8718&au=5ac6e7cb41614dd08aa25905ba56f318&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&tid=20378178&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=07517810e7c111f190de624c26fb8718&au=5ac6e7cb41614dd08aa25905ba56f318&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22542135.thumb",
-   "posted": "2026-11-23T15:52:22+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "refurb": false,
-   "glitch": false,
-   "code": "JDY82MQ0",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&tid=20378178&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=07517810e7c111f190de624c26fb8718&au=5ac6e7cb41614dd08aa25905ba56f318&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T13:08:51+00:00"
+ "updated": "2026-11-24T13:13:29+00:00"
 }
