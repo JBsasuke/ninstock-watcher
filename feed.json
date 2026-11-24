@@ -39,13 +39,13 @@
    "refurb": false,
    "code": "SAVE3X",
    "code_until": null,
-   "checked_at": "2026-11-24T18:44:17+00:00",
-   "category_ok": true,
-   "real_price": 39.98,
-   "real_old": 69.99,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T18:44:17+00:00",
+   "real_price": 39.98,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "3f18f0a2786f",
@@ -760,7 +760,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&pno=1372410&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1e7af2d0e7a011f186aee20ac5a09123&au=a2cd6679e7ea4485a2c97e48001ce229&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:48:28+00:00",
+   "checked_at": "2026-11-24T18:49:16+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -781,7 +781,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c16bba0e7a011f1bcbd96fe147dd7f2&au=293c1ddb301a4311beaf1e247c569169&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:48:24+00:00",
+   "checked_at": "2026-11-24T18:49:11+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -802,7 +802,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d664f16e7a011f18cef22f10dfae1bd&au=0a5300df3e914c8e8f95c174274ab129&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:48:26+00:00",
+   "checked_at": "2026-11-24T18:49:13+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11924,6 +11924,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t0cf7f3678ad",
+   "title": "Edifier M60 Compact Desktop 2.0 Bluetooth Speakers (Pair, 3 colors) $150 + Free S&H",
+   "price": 149.99,
+   "old_price": 199.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20342433-149-99-edifier-m60-compact-desktop-2-0-bluetooth-speakers-pair-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22449855.thumb",
+   "posted": "2026-11-24T18:44:05+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T18:50:13+00:00",
+   "real_price": 149.99,
+   "real_old": 199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342433&pno=1373061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1a7ada6e83711f1bab206a1b14004dc&au=b6b4f33aa645439c8835c290b74f3724&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tcd3deb477d0",
    "title": "Hisense 65\" U8 Series ULED Mini-LED 4K UHD Smart Google TV $900 + Free S&H",
    "price": 899.99,
@@ -12008,8 +12026,7 @@
    "prio": 5,
    "refurb": false,
    "checked_at": "2026-11-24T18:45:17+00:00",
-   "real_price": 57.0,
-   "real_old": null
+   "real_price": 57.0
   },
   {
    "id": "ta20052a1f9a",
@@ -14651,8 +14668,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:45:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e2fd4ae4e83711f1b5f8ee5853b8c4ea&au=f92a7a1c47cb49b9a0b690f13ecee901&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:50:15+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16270,27 +16287,6 @@
    "checked_at": "2026-11-23T22:02:07+00:00",
    "real_price": 119.99,
    "real_old": 300.0
-  },
-  {
-   "id": "t7b162445c7c",
-   "title": "4-Port wegear 140W GaN USB-C Wall Charger w/ Touch Smart Display & 5' 240W Cable $33 + Free S&H",
-   "price": 32.99,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20357202-4-port-wegear-140w-gan-usb-c-wall-charger-w-touch-smart-display-5-240w-cable-33-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22547808.thumb",
-   "posted": "2026-11-23T20:09:18+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "7MWFXOR9",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20357202&pno=1369869&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1fa19f66e54211f1bbb1fe4aab4804d8&au=3c118d4ab15e440ab6aa790ec2dd4b70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-21T00:25:59+00:00",
-   "real_price": 32.99,
-   "real_old": 64.99
   }
  ],
  "tech": [
@@ -16318,6 +16314,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0cf7f3678ad",
+   "title": "Edifier M60 Compact Desktop 2.0 Bluetooth Speakers (Pair, 3 colors) + Free S&H",
+   "price": 149.99,
+   "old_price": 199.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342433&pno=1373061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1a7ada6e83711f1bab206a1b14004dc&au=b6b4f33aa645439c8835c290b74f3724&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342433&pno=1373061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1a7ada6e83711f1bab206a1b14004dc&au=b6b4f33aa645439c8835c290b74f3724&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22449855.thumb",
+   "posted": "2026-11-24T18:44:05+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 149.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342433&pno=1373061&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1a7ada6e83711f1bab206a1b14004dc&au=b6b4f33aa645439c8835c290b74f3724&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18589,8 +18612,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e2fd4ae4e83711f1b5f8ee5853b8c4ea&au=f92a7a1c47cb49b9a0b690f13ecee901&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e2fd4ae4e83711f1b5f8ee5853b8c4ea&au=f92a7a1c47cb49b9a0b690f13ecee901&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18606,7 +18629,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e2fd4ae4e83711f1b5f8ee5853b8c4ea&au=f92a7a1c47cb49b9a0b690f13ecee901&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19500,34 +19523,7 @@
      "url": "https://www.walmart.com/ip/17374970774"
     }
    ]
-  },
-  {
-   "id": "tbef25a0ef21",
-   "title": "Razer Kishi V2 Mobile Gaming Controller for iPhone (Lightning)",
-   "price": 39.0,
-   "old_price": 99.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381004&tid=20381004&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0f65dbeee79a11f1be7fce46b345a71d&au=ac2cd31410794123b0f65a31d95e2bf6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381004&tid=20381004&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0f65dbeee79a11f1be7fce46b345a71d&au=ac2cd31410794123b0f65a31d95e2bf6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22549461.thumb",
-   "posted": "2026-11-23T21:59:34+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381004&tid=20381004&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0f65dbeee79a11f1be7fce46b345a71d&au=ac2cd31410794123b0f65a31d95e2bf6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T18:46:19+00:00"
+ "updated": "2026-11-24T18:51:13+00:00"
 }
