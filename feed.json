@@ -16,7 +16,30 @@
    "refurb": false,
    "code": "SAVE3X",
    "code_until": null,
+   "store_url": "https://www.walmart.com/ip/16759855795",
+   "page_checked": true,
+   "link_v": 3,
    "checked_at": "2026-11-24T18:39:59+00:00",
+   "real_price": 39.98,
+   "real_old": 69.99,
+   "category_ok": true
+  },
+  {
+   "id": "cc3cbdffdc32",
+   "title": "Select Accts: Pokémon Legends: Z-A Nintendo Switch 2 Edition [Physical] w/Filler item - $39.98",
+   "price": 39.98,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20388591-select-accts-pok-mon-legends-z-a-nintendo-switch-2-edition-physical-w-filler-item-39-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568403.thumb",
+   "posted": "2026-11-24T18:39:11+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "checked_at": "2026-11-24T18:44:17+00:00",
    "category_ok": true,
    "real_price": 39.98,
    "real_old": 69.99,
@@ -356,7 +379,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=accc3166e80411f1b17abe4ed0ec16f4&au=c3ff7c4b22034d00b320970f37d99ba0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:43:40+00:00",
+   "checked_at": "2026-11-24T18:44:19+00:00",
    "real_price": 15.0,
    "real_old": 60.0,
    "category_ok": true
@@ -377,7 +400,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=ade5163ae80411f1af5da2459dfa5d65&au=3209f0fe83e749859277da27bc921da4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:43:42+00:00",
+   "checked_at": "2026-11-24T18:44:21+00:00",
    "real_price": 15.0,
    "real_old": 60.0,
    "category_ok": true
@@ -3154,27 +3177,6 @@
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
-  },
-  {
-   "id": "9e11b274c1b1",
-   "title": "$49.99: Donkey Kong Bananza - Nintendo Switch 2 at Target",
-   "price": 49.99,
-   "old_price": 69.99,
-   "store": "Target",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20368251-49-99-donkey-kong-bananza-nintendo-switch-2-at-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22518831.thumb",
-   "posted": "2026-11-22T08:50:38+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20368251&tid=20368251&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=da3d2656e69111f18a980a5f47fd849e&au=cca082fc28804951ad5937155a601459&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-24T14:08:45+00:00",
-   "real_price": 49.99,
-   "real_old": 69.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-24T18:40:00+00:00",
@@ -4244,7 +4246,7 @@
     {
      "store": "Target",
      "price": 49.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20368251&tid=20368251&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=da3d2656e69111f18a980a5f47fd849e&au=cca082fc28804951ad5937155a601459&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20368251&pno=1371120&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eca437b6e6bf11f1aebb7ed68c98cfba&au=a73dc1ef5ab34a14a67a5d07aa0c2b52&action_source=Deal+Details+-+Sticky+Bar+CTA"
     },
     {
      "store": "Amazon",
@@ -11993,6 +11995,23 @@
    "real_old": 69.98
   },
   {
+   "id": "tc745fede5dd",
+   "title": "Straight Talk Prepaid Smartphones: Apple iPhone 16e $199, Samsung Galaxy A27 $99.99 w/ Plan Purchase",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Slickdeals",
+   "url": "https://slickdeals.net/f/20388315-straight-talk-prepaid-smartphones-apple-iphone-16e-199-samsung-galaxy-a27-99-99-w-plan-purchase?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22567461.thumb",
+   "posted": "2026-11-24T17:49:52+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-24T18:45:17+00:00",
+   "real_price": 57.0,
+   "real_old": null
+  },
+  {
    "id": "ta20052a1f9a",
    "title": "ASUS ROG Flow Z13 Tablet: 13.4” QHD+ IPS 180Hz, Ryzen AI MAX 390, 32GB RAM, 1TB SSD $1700 + Free S&H",
    "price": 1699.99,
@@ -12999,10 +13018,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/19881062881",
    "checked_at": "2026-11-24T18:42:10+00:00",
    "real_price": 178.96,
-   "real_old": 349.99,
-   "store_url": "https://www.walmart.com/ip/19881062881"
+   "real_old": 349.99
   },
   {
    "id": "t68aec35f620",
@@ -14632,8 +14651,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c33523f4e83611f1b8d28eaa3db92ed5&au=6b69b191e9ed4556b26e6aa2b1fc354e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:42:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:45:19+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -15660,10 +15679,10 @@
    "code": "FBIMWNJ6",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381136&tid=20381136&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=c484ccd2e83611f1b2ac8246bc31b55e&au=3ed08d384fac4869a3964e4e4f8b1df2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T18:42:15+00:00",
    "real_price": 52.0,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381136&tid=20381136&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=c484ccd2e83611f1b2ac8246bc31b55e&au=3ed08d384fac4869a3964e4e4f8b1df2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "t9e2ea20cc46",
@@ -16272,24 +16291,6 @@
    "checked_at": "2026-11-21T00:25:59+00:00",
    "real_price": 32.99,
    "real_old": 64.99
-  },
-  {
-   "id": "te0294e4584c",
-   "title": "[Prime] 360mm Thermalright Dynamic Vision Pro 360 ARGB AIO Liquid CPU Cooler w/ 5.5\" LCD (Black and White) $95.12 + Free Shipping",
-   "price": 95.12,
-   "old_price": 118.9,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380203-prime-360mm-thermalright-dynamic-vision-pro-360-argb-aio-liquid-cpu-cooler-w-5-5-lcd-black-and-white-95-12-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22547610.thumb",
-   "posted": "2026-11-23T20:03:57+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380203&tid=20380203&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82f30efee7a611f180ee3640f3539c4c&au=58c870c42c0446b1bc6fc4ce17345833&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:29:37+00:00",
-   "real_price": 95.12,
-   "real_old": 118.9
   }
  ],
  "tech": [
@@ -18588,8 +18589,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c33523f4e83611f1b8d28eaa3db92ed5&au=6b69b191e9ed4556b26e6aa2b1fc354e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c33523f4e83611f1b8d28eaa3db92ed5&au=6b69b191e9ed4556b26e6aa2b1fc354e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18605,7 +18606,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c33523f4e83611f1b8d28eaa3db92ed5&au=6b69b191e9ed4556b26e6aa2b1fc354e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3262f620e83711f1a53bd6e4018a4d97&au=eeecfe30514a4138a924ab3abf15e67e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19528,5 +19529,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T18:43:09+00:00"
+ "updated": "2026-11-24T18:46:19+00:00"
 }
