@@ -266,13 +266,13 @@
    "posted": "2026-11-23T21:09:32+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T01:28:46+00:00",
-   "category_ok": true,
-   "real_price": 9.99,
-   "real_old": 26.24,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=643d3d2ce7a611f1b7d42eafe04cb2a7&au=c424be32e849472297fee4ced57ba55d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T01:28:46+00:00",
+   "real_price": 9.99,
+   "real_old": 26.24,
+   "category_ok": true
   },
   {
    "id": "45fc52c43038",
@@ -12112,6 +12112,24 @@
    "real_old": 585.0
   },
   {
+   "id": "ta8666d1353b",
+   "title": "$54.95 Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones for Sports (in 2 colors)",
+   "price": 54.95,
+   "old_price": 60.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20381703-54-95-shokz-openmove-bone-conduction-wireless-bluetooth-headphones-for-sports-in-2-colors?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
+   "posted": "2026-11-24T00:20:07+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-24T01:34:14+00:00",
+   "real_price": 54.95,
+   "real_old": 60.0,
+   "store_url": "https://www.walmart.com/ip/571079221"
+  },
+  {
    "id": "t93b18416abe",
    "title": "DEWALT 20V MAX Cordless Grabo Lifter Suction Tool (Tool Only) $169 + Free S&H",
    "price": 169.0,
@@ -12925,10 +12943,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380203&tid=20380203&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82f30efee7a611f180ee3640f3539c4c&au=58c870c42c0446b1bc6fc4ce17345833&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T01:29:37+00:00",
    "real_price": 95.12,
-   "real_old": 118.9,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380203&tid=20380203&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82f30efee7a611f180ee3640f3539c4c&au=58c870c42c0446b1bc6fc4ce17345833&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 118.9
   },
   {
    "id": "tb6dbcd78189",
@@ -13043,6 +13061,24 @@
    "checked_at": "2026-11-23T19:48:30+00:00",
    "real_price": 15.99,
    "real_old": 34.99
+  },
+  {
+   "id": "t91df76fdbf4",
+   "title": "Asus Rog Strix Z890-E Gaming WiFi ATX Motherboard $239.99 + Free Shipping",
+   "price": 239.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20379933-asus-rog-strix-z890-e-gaming-wifi-atx-motherboard-239-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22546878.thumb",
+   "posted": "2026-11-23T19:25:09+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T01:34:16+00:00",
+   "real_price": 239.99,
+   "real_old": 399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb1e5adff5d2",
@@ -13222,8 +13258,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=84556e54e7a611f18d0c2e932c652167&au=deb840a063e547978f3aee15cc4ecba6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:29:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a1778bee7a711f1b419c285b9c1f9ee&au=60f794ede8894a36a858f722fc3da79e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T01:34:18+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -13262,6 +13298,24 @@
    "real_price": 329.99,
    "real_old": 799.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20379615&tid=20379615&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e472381ae77611f1a295fa8653e7740e&au=fa600cbb2873424cb3bbdc0b269c6c57&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tfaedd3256ae",
+   "title": "360mm ARCTIC Liquid Freezer III Pro Triple-Fan AIO CPU Cooler (Black) $65.99 + Free Shipping",
+   "price": 65.99,
+   "old_price": 69.89,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20379597-360mm-arctic-liquid-freezer-iii-pro-triple-fan-aio-cpu-cooler-black-65-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22546164.thumb",
+   "posted": "2026-11-23T18:41:40+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-24T01:34:20+00:00",
+   "real_price": 65.99,
+   "real_old": 69.89,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t90c2f876335",
@@ -13388,6 +13442,23 @@
    "checked_at": "2026-11-23T19:48:59+00:00",
    "real_price": 199.0,
    "real_old": 538.0
+  },
+  {
+   "id": "t8ed5ef72d3f",
+   "title": "Alienware AW3226Q 4K 32 “ OLED Monitor $599.99",
+   "price": 599.99,
+   "old_price": 699.99,
+   "store": "Dell Technologies",
+   "url": "https://slickdeals.net/f/20379339-alienware-aw3226q-4k-32-oled-monitor-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-23T18:03:36+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T01:34:21+00:00",
+   "real_price": 599.99,
+   "real_old": 699.99
   },
   {
    "id": "t841afcb8ccc",
@@ -13805,8 +13876,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=856f3112e7a611f1963a5e59ab53ac00&au=4070902ebad849d4a261c42c63f55e54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:29:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2dc47f02e7a711f18628565af36734fd&au=810b7a97664f49dd936bf973ffe35df8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T01:34:24+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -14686,6 +14757,27 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DiscountMugs&sdtid=20364201&pno=1371582&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfa21e5ee78111f185ffce96705cd8bd&au=5577d3e0f37c4168aac5840e4b50adf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T21:06:54+00:00",
    "real_price": 56.0
+  },
+  {
+   "id": "t354ee20c9cd",
+   "title": "Oneisall LM6 9-in-1 400W Dog Grooming Vacuum Kit $39.99 + Free Shipping",
+   "price": 39.99,
+   "old_price": 152.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20373564-oneisall-lm6-9-in-1-400w-dog-grooming-vacuum-kit-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22529778.thumb",
+   "posted": "2026-11-23T05:04:56+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "3JVHRPBY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T01:34:26+00:00",
+   "real_price": 39.99,
+   "real_old": 152.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373564&tid=20373564&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f12265ce7a711f1b4652e932c652167&au=baf0331001344d87856280ff214469c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc34e733ea30",
@@ -16253,96 +16345,6 @@
    "checked_at": "2026-11-22T08:20:37+00:00",
    "real_price": 1619.99,
    "real_old": 1925.98
-  },
-  {
-   "id": "t954f797a19e",
-   "title": "RYOBI ONE+ HP 18V Brushless 1/2\" Impact (Tool Only) + 11-Pc Impact Sockets $139 + Free S&H",
-   "price": 139.0,
-   "old_price": 243.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20352789-one-hp-18v-brushless-cordless-1-2-in-impact-wrench-tool-only-with-1-2-in-metric-deep-impact-socket-set-11-pc-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/0/7/2/6/3/3/300x300/22479486.thumb",
-   "posted": "2026-11-22T01:18:46+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20352789&pno=1370706&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a6a2f1ce61311f19e930e57eae3dd5e&au=cdc525addcc54f52a17f674cdbcf1c45&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-22T01:22:49+00:00",
-   "real_price": 139.0,
-   "real_old": 243.97
-  },
-  {
-   "id": "t354c0df2efa",
-   "title": "Wyze 1080p WiFi Indoor Window Security Camera w/ Color Night Vision $20",
-   "price": 19.98,
-   "old_price": 34.98,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20331651-wyze-1080p-wifi-indoor-window-security-camera-w-color-night-vision-21-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22514070.thumb",
-   "posted": "2026-11-22T01:06:42+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-22T01:22:52+00:00",
-   "real_price": 19.98,
-   "real_old": 34.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20331651&pno=1370691&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c319ecae61311f1ad4f0e57eae3dd5e&au=aac32a74996a467ea7e27e69f1872891&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t86f13ef0052",
-   "title": "Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD $1849 & More + Free S&H",
-   "price": 1849.0,
-   "old_price": 1999.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20339487-apple-macbook-pro-late-2026-14-m6-16gb-ram-1tb-ssd-more-1849?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22438422.thumb",
-   "posted": "2026-11-22T00:42:26+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20339487&pno=1370676&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d7b954ce61311f18a5956808124360d&au=0fd61f35df47447aadcdfa0116f6640c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-22T01:22:53+00:00",
-   "real_price": 1849.0,
-   "real_old": 1999.0
-  },
-  {
-   "id": "te891ba19309",
-   "title": "Baseus 4-Port PD3.1 up to 140W USB-C GaN Wall Charger (1x USB-A, 3x USB-C) $34.40 + Free S&H",
-   "price": 34.39,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20329455-baseus-4-port-pd3-1-up-to-140w-usb-c-gan-wall-charger-1x-usb-a-3x-usb-c-34-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22405608.thumb",
-   "posted": "2026-11-22T00:40:48+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "checked_at": "2026-11-22T01:22:55+00:00",
-   "real_price": 34.39,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20329455&pno=1370673&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=3e9cef7ae61311f199f5c225a12c05ca&au=5dbbf223261d40a49a61c83524b050da&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t24fb99bbede",
-   "title": "DeWALT 20V MAX 3-Tool Drill, Impact Driver & Multi-Tool Kit + Free Bonus Tool $399 + Free S&H",
-   "price": 399.0,
-   "old_price": 648.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20345334-dewalt-20-volt-max-lithium-ion-cordless-combo-kit-3-tool-3-battery-charger-free-tool-of-choice-14-options-399?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22459077.thumb",
-   "posted": "2026-11-21T23:54:58+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20345334&pno=1370661&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=3fbe4cc8e61311f1a3d11a31801f12fb&au=6382e62ad77f407d8c34ff246ea4822f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-22T01:22:57+00:00",
-   "real_price": 399.0,
-   "real_old": 648.0
   }
  ],
  "tech": [
@@ -16478,6 +16480,33 @@
      "store": "US Mobile",
      "price": 288.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+US+Mobile&sdtid=20381781&tid=20381781&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=980d6958e79f11f192d5e24b215b1704&au=f28679b4c539492a9c5ee8832eff4304&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta8666d1353b",
+   "title": "Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones for Sports (in 2 colors)",
+   "price": 54.95,
+   "old_price": 60.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/571079221",
+   "url": "https://www.walmart.com/ip/571079221",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
+   "posted": "2026-11-24T00:20:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 54.95,
+     "url": "https://www.walmart.com/ip/571079221"
     }
    ]
   },
@@ -17184,6 +17213,33 @@
    ]
   },
   {
+   "id": "t91df76fdbf4",
+   "title": "Asus Rog Strix Z890-E Gaming WiFi ATX Motherboard",
+   "price": 239.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22546878.thumb",
+   "posted": "2026-11-23T19:25:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 239.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tb1e5adff5d2",
    "title": "BLUETTI Solar Generator Elite 300 & Charger 2 Alternator Charger 3014.4Wh",
    "price": 1413.0,
@@ -17396,6 +17452,33 @@
      "store": "Samsung",
      "price": 329.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20379615&tid=20379615&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e472381ae77611f1a295fa8653e7740e&au=fa600cbb2873424cb3bbdc0b269c6c57&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tfaedd3256ae",
+   "title": "360mm ARCTIC Liquid Freezer III Pro Triple-Fan AIO CPU Cooler (Black)",
+   "price": 65.99,
+   "old_price": 69.89,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22546164.thumb",
+   "posted": "2026-11-23T18:41:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 65.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17945,8 +18028,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=856f3112e7a611f1963a5e59ab53ac00&au=4070902ebad849d4a261c42c63f55e54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=856f3112e7a611f1963a5e59ab53ac00&au=4070902ebad849d4a261c42c63f55e54&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2dc47f02e7a711f18628565af36734fd&au=810b7a97664f49dd936bf973ffe35df8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2dc47f02e7a711f18628565af36734fd&au=810b7a97664f49dd936bf973ffe35df8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -17962,7 +18045,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=856f3112e7a611f1963a5e59ab53ac00&au=4070902ebad849d4a261c42c63f55e54&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2dc47f02e7a711f18628565af36734fd&au=810b7a97664f49dd936bf973ffe35df8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19498,82 +19581,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20353356&pno=1371045&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=28ce3fa8e69211f1a23636357871b871&au=1066e514ef794a6595051d02d4d44ff3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t72342ab4fea",
-   "title": "Under Armour Black Friday Sale: Up to Extra 40% Off + Extra 10% Off + Free S&H",
-   "price": null,
-   "old_price": null,
-   "store": "Under Armour",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Under+Armour&sdtid=20367216&pno=1371009&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0c4bcb0e78111f1addee6b827e99815&au=2f65476f93054511ba53650d1e5aaa2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Under+Armour&sdtid=20367216&pno=1371009&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0c4bcb0e78111f1addee6b827e99815&au=2f65476f93054511ba53650d1e5aaa2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22516242.thumb",
-   "posted": "2026-11-22T12:18:47+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "BLACKFRIDAY",
-   "code_until": null,
-   "promo": "Up to extra 40% Off",
-   "offers": []
-  },
-  {
-   "id": "teb8c163ccb8",
-   "title": "LEGO Creator 3-in-1 Set: Typewriter",
-   "price": 16.79,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369073&tid=20369073&prop=diavail-true%7Cdincp-2%7Cdinpd-8%7Cdipgavail-true&pv=2cafde60e69211f1babc82411e6db206&au=fc6d9efcf9094c4891cf6e0cf6e7768e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369073&tid=20369073&prop=diavail-true%7Cdincp-2%7Cdinpd-8%7Cdipgavail-true&pv=2cafde60e69211f1babc82411e6db206&au=fc6d9efcf9094c4891cf6e0cf6e7768e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22520694.thumb",
-   "posted": "2026-11-22T12:06:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 16.79,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369073&tid=20369073&prop=diavail-true%7Cdincp-2%7Cdinpd-8%7Cdipgavail-true&pv=2cafde60e69211f1babc82411e6db206&au=fc6d9efcf9094c4891cf6e0cf6e7768e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t50e7076b7ab",
-   "title": "Samsung Galaxy Watch 7 44mm LTE Smartwatch (Green)",
-   "price": 179.99,
-   "old_price": 329.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368866&tid=20368866&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2dd6ac9ce69211f1a1b382411e6db206&au=8e65bc648945480481f114db9755397b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368866&tid=20368866&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2dd6ac9ce69211f1a1b382411e6db206&au=8e65bc648945480481f114db9755397b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/0/4/2/3/2/7/300x300/22520103.thumb",
-   "posted": "2026-11-22T11:16:24+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 179.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368866&tid=20368866&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2dd6ac9ce69211f1a1b382411e6db206&au=8e65bc648945480481f114db9755397b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T01:30:36+00:00"
+ "updated": "2026-11-24T01:35:06+00:00"
 }
