@@ -161,13 +161,13 @@
    "posted": "2026-11-24T11:00:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T14:53:09+00:00",
-   "category_ok": true,
-   "real_price": 159.95,
-   "real_old": 199.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T14:53:09+00:00",
+   "real_price": 159.95,
+   "real_old": 199.99,
+   "category_ok": true
   },
   {
    "id": "474532126ac8",
@@ -11825,10 +11825,10 @@
    "code": "BOESKB1M",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T14:54:06+00:00",
    "real_price": 12.49,
-   "real_old": 26.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 26.0
   },
   {
    "id": "t9812940db94",
@@ -11940,6 +11940,24 @@
    "checked_at": "2026-11-24T14:03:45+00:00",
    "real_price": 55.0,
    "real_old": 79.0
+  },
+  {
+   "id": "t81c92cd8f2a",
+   "title": "JOIOT Adjustable Aluminum Laptop Stand, Ergonomic Riser for 11-16\" Laptops - $19.99",
+   "price": 19.99,
+   "old_price": 23.74,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20386206-joiot-adjustable-aluminum-laptop-stand-ergonomic-riser-for-11-16-laptops-19-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/9/6/9/300x300/22561713.thumb",
+   "posted": "2026-11-24T13:39:37+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T14:58:46+00:00",
+   "real_price": 19.99,
+   "real_old": 23.74,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9fbf0aad6b1",
@@ -12098,10 +12116,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T14:54:08+00:00",
    "real_price": 29.99,
-   "real_old": 156.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 156.0
   },
   {
    "id": "t9812d58011f",
@@ -13819,9 +13837,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "SPECIAL10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -15214,8 +15229,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7bab34ee81611f1b7f1362389f81dcb&au=d005008e7ed2424f9f4ff4e013f8c5b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:54:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8dace790e81711f1a10c9e8359c3e013&au=14056798ab784d6db7f62376aa8e613f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T14:58:48+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16069,8 +16084,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e944f6e8e81611f1ba3b6e58a13da2f2&au=298dc0ef5f1b4946b8467834e2a3708e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:54:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=8ef4b24ae81711f191b4661262ce3583&au=deb8571134704af78d69ee3cd0e54a35&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T14:58:50+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16189,24 +16204,6 @@
    "checked_at": "2026-11-23T21:20:55+00:00",
    "real_price": 792.12,
    "real_old": 1259.99
-  },
-  {
-   "id": "te237a2fba84",
-   "title": "$479.99 | 256GB Apple 11-inch iPad A16 (Blue, Wi-Fi) at Amazon",
-   "price": 479.99,
-   "old_price": 549.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20377287-479-99-256gb-apple-11-inch-ipad-a16-blue-wi-fi-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22555323.thumb",
-   "posted": "2026-11-23T14:32:39+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377287&tid=20377287&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4b075c78e7c611f1ad42aef6ad6650d0&au=a0a4c9a3ec164b9ab24a6f8911b44ee0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:17:07+00:00",
-   "real_price": 479.99,
-   "real_old": 549.0
   }
  ],
  "tech": [
@@ -16342,6 +16339,33 @@
      "store": "Amazon",
      "price": 55.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302086&pno=1372827&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=dc7417e8e80f11f1b81b6636fa90d852&au=0a241062b6c04779b014a3115dd8a95a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t81c92cd8f2a",
+   "title": "JOIOT Adjustable Aluminum Laptop Stand, Ergonomic Riser for 11-16\" Laptops",
+   "price": 19.99,
+   "old_price": 23.74,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/9/6/9/300x300/22561713.thumb",
+   "posted": "2026-11-24T13:39:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 19.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19416,34 +19440,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374509&pno=1372089&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=837a37d8e78011f1856f8af2fbc4f239&au=19cde85b1ca441aab452e84080d7665a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t1072ccd12b9",
-   "title": "Edifier G5 MAX Wireless Gaming Headset",
-   "price": 99.99,
-   "old_price": 149.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379081&tid=20379081&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac156e6ae7c111f1afe742ca7b90c9af&au=c9aa78fbaa2e4cf8b2bab90f13949f23&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379081&tid=20379081&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac156e6ae7c111f1afe742ca7b90c9af&au=c9aa78fbaa2e4cf8b2bab90f13949f23&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22544853.thumb",
-   "posted": "2026-11-23T17:37:01+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 99.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379081&tid=20379081&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac156e6ae7c111f1afe742ca7b90c9af&au=c9aa78fbaa2e4cf8b2bab90f13949f23&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T14:55:04+00:00"
+ "updated": "2026-11-24T14:59:46+00:00"
 }
