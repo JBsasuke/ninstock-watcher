@@ -11851,10 +11851,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:10:52+00:00",
    "real_price": 499.99,
-   "real_old": 699.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 699.99
   },
   {
    "id": "t5a01ba6f786",
@@ -11872,10 +11872,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20378427&pno=1372965&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01ba0390e82a11f189f3dac570ddc035&au=854ff3f509a943da88b115dbc11b82f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:10:54+00:00",
    "real_price": 555.99,
-   "real_old": 1419.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20378427&pno=1372965&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01ba0390e82a11f189f3dac570ddc035&au=854ff3f509a943da88b115dbc11b82f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1419.99
   },
   {
    "id": "t19e60eac19d",
@@ -12573,6 +12573,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16172,8 +16175,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=037394e4e82a11f18d1792797b6adada&au=95b490bb5b5f4750b52e53b9547f1710&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:10:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab3ff366e82a11f187c012c3402d77cf&au=bda5cccfa725494bbff61a66f62211f1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T17:15:38+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16879,7 +16882,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19450,5 +19453,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T17:11:53+00:00"
+ "updated": "2026-11-24T17:16:41+00:00"
 }
