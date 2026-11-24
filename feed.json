@@ -189,7 +189,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T20:45:54+00:00",
+   "checked_at": "2026-11-24T22:47:10+00:00",
    "real_price": 39.98,
    "real_old": 69.99,
    "category_ok": true
@@ -317,7 +317,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367816&pno=1372938&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=94476a94e82611f1b869ee654f1d2dfa&au=55c150176b274be88d91d73f98bf30d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T16:46:22+00:00",
+   "checked_at": "2026-11-24T22:47:07+00:00",
    "real_price": 48.97,
    "real_old": 69.99,
    "category_ok": true
@@ -3192,7 +3192,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-24T21:46:32+00:00",
+ "deku_checked": "2026-11-24T22:47:11+00:00",
  "deals": [
   {
    "id": "ab4210fefb30",
@@ -6387,7 +6387,7 @@
      "url": "https://www.walmart.com/ip/19503674092"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Spike Chunsoft",
    "digital": null,
@@ -6431,7 +6431,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -6465,7 +6465,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -6508,7 +6508,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -6529,7 +6529,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -6549,7 +6549,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Level-5",
    "digital": {
@@ -6596,7 +6596,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -6640,10 +6640,13 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
-   "digital": null,
+   "digital": {
+    "price": 69.99,
+    "url": "https://www.bestbuy.com/site/6698367.p?skuId=6698367"
+   },
    "nintendo": true
   },
   {
@@ -6678,7 +6681,7 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -6724,7 +6727,7 @@
      "url": "https://www.walmart.com/ip/20081864427"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Stormind Games",
    "digital": null,
@@ -6763,7 +6766,7 @@
      "url": "https://www.walmart.com/ip/20272673772"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -6810,7 +6813,7 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6857,7 +6860,7 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
@@ -6875,7 +6878,7 @@
    "release_date": "2026-12-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6896,7 +6899,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6934,7 +6937,7 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Silver Lining",
    "digital": null,
@@ -6973,7 +6976,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ NORDIC",
    "digital": null,
@@ -6992,17 +6995,17 @@
    "collector": false,
    "offers": [
     {
+     "store": "Amazon",
+     "price": 69.99,
+     "url": "https://www.amazon.com/dp/B0FV6WL9ZL"
+    },
+    {
      "store": "Best Buy",
      "price": 69.99,
      "url": "https://www.bestbuy.com/site/6669894.p?skuId=6669894"
-    },
-    {
-     "store": "GameStop",
-     "price": 69.99,
-     "url": "https://www.gamestop.com/products/the-binding-of-isaac-repentance/436131.html"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
    "digital": {
@@ -7022,7 +7025,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7070,7 +7073,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7090,7 +7093,7 @@
    "release_date": "2026-11-12",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Shochiku",
    "digital": {
@@ -7132,7 +7135,7 @@
      "url": "https://www.target.com/p/-/A-1013451337"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA",
    "digital": {
@@ -7169,7 +7172,7 @@
      "url": "https://www.walmart.com/ip/21285952515"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -7211,7 +7214,7 @@
      "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
     }
    ],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7228,7 +7231,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T16:37:37+00:00",
+   "offers_checked": "2026-11-24T22:47:27+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -11808,6 +11811,24 @@
    "real_old": 498.0
   },
   {
+   "id": "t8b0b69e1943",
+   "title": "Prime Members: Energizer Smart 2K Wired Indoor Security Camera (White) $9.99 + Free Shipping",
+   "price": 9.99,
+   "old_price": 19.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389902-prime-members-energizer-smart-2k-wired-indoor-security-camera-white-9-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22571835.thumb",
+   "posted": "2026-11-24T22:13:19+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T22:49:15+00:00",
+   "real_price": 9.99,
+   "real_old": 19.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389902&tid=20389902&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4609bc0ae85911f19c13de6eac097450&au=3d9b01ff640446b49376c30595c3057e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t8867b98cb22",
    "title": "Straight Talk 128GB Apple iPhone 16e (Locked) + 30-Day Bronze 10GB Plan $234 & More + Free S&H",
    "price": 234.0,
@@ -12172,6 +12193,24 @@
    "real_price": 40.0,
    "real_old": 199.98,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&tid=20389056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b5b2a38e84111f1b8d69654d370949e&au=88338357cd2b4b44af08280ba0236c7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t4858b65ed69",
+   "title": "$99.99 | Shark NeverChange Compact Pro Air Purifier, HP071BRN, Winter Fog at Amazon",
+   "price": 99.99,
+   "old_price": 159.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20388978-99-99-shark-neverchange-compact-pro-air-purifier-hp071brn-winter-fog-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22569234.thumb",
+   "posted": "2026-11-24T19:35:03+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T22:49:17+00:00",
+   "real_price": 99.99,
+   "real_old": 159.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388978&tid=20388978&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=473f2696e85911f19eea4a6d31896d7a&au=032a04b94af148f89fe400bf552b8da1&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te60974dbe74",
@@ -13625,6 +13664,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15481,8 +15523,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7525e866e85811f19d4e76a6fa3bae94&au=d18c028d11464d4688a9f31c487ba4ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T22:43:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=48ba2f02e85911f1b24752a93c12b4af&au=4d19f91de6554ed29e62417fe8c8c386&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T22:49:20+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16116,42 +16158,6 @@
    "real_price": 59.99,
    "real_old": 109.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380176&pno=1372386&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=4eed31a6e79811f1870bc285b9c1f9ee&au=8a3c848456e44839b46e29ebd1fd7786&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t5577e1d56ae",
-   "title": "6-Qt Instant Pot Duo 7-in-1 Electric Pressure Cooker $60 + Free S&H",
-   "price": 59.99,
-   "old_price": 109.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380176-6-qt-instant-pot-duo-7-in-1-electric-pressure-cooker-60-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22547595.thumb",
-   "posted": "2026-11-23T23:46:28+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380176&pno=1372386&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=ddb02d76e79811f1af678ecf6cdfcc70&au=dee386a7f5474cfb8de41a41af1ac378&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T23:51:57+00:00",
-   "real_price": 59.99,
-   "real_old": 109.99
-  },
-  {
-   "id": "t6ae15ff8154",
-   "title": "New Customers: Mint Mobile 512GB Google Pixel 11 Smartphone + 1-Yr Unlimited Plan $545 + Free S&H",
-   "price": 545.0,
-   "old_price": 1199.0,
-   "store": "Mint Mobile",
-   "url": "https://slickdeals.net/f/20379819-mint-mobile-google-pixel-11-512gb-365-1-year-unlimited-service-180-545?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/6/6/1/8/300x300/22547256.thumb",
-   "posted": "2026-11-23T23:44:02+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Mint+Mobile&sdtid=20379819&pno=1372389&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50727f5ee79811f18061329914419110&au=5d4891e874f44c7a820098156a36da6d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T23:47:59+00:00",
-   "real_price": 545.0,
-   "real_old": 1199.0
   }
  ],
  "tech": [
@@ -17791,7 +17797,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19287,8 +19293,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7525e866e85811f19d4e76a6fa3bae94&au=d18c028d11464d4688a9f31c487ba4ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7525e866e85811f19d4e76a6fa3bae94&au=d18c028d11464d4688a9f31c487ba4ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=48ba2f02e85911f1b24752a93c12b4af&au=4d19f91de6554ed29e62417fe8c8c386&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=48ba2f02e85911f1b24752a93c12b4af&au=4d19f91de6554ed29e62417fe8c8c386&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -19304,7 +19310,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7525e866e85811f19d4e76a6fa3bae94&au=d18c028d11464d4688a9f31c487ba4ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=48ba2f02e85911f1b24752a93c12b4af&au=4d19f91de6554ed29e62417fe8c8c386&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19390,5 +19396,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T22:44:21+00:00"
+ "updated": "2026-11-24T22:50:16+00:00"
 }
