@@ -44,6 +44,27 @@
    "category_ok": true
   },
   {
+   "id": "60fc7cb167e2",
+   "title": "$19.99 | Sifu (Nintendo Switch) at Amazon",
+   "price": 19.99,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20389107-19-99-sifu-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22569564.thumb",
+   "posted": "2026-11-24T19:50:20+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T21:04:08+00:00",
+   "category_ok": true,
+   "real_price": 19.99,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=96c8903ae84a11f1a793ee28fcd547bf&au=499b9fa2051b42b1ab20929103d523f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "c15cb492b4f6",
    "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red) $31.95",
    "price": 31.97,
@@ -3161,27 +3182,6 @@
    "checked_at": "2026-11-24T20:08:50+00:00",
    "real_price": 39.99,
    "real_old": 49.99,
-   "category_ok": true
-  },
-  {
-   "id": "ada88edbc7a6",
-   "title": "Call of Duty: Modern Warfare 4 (PS5, XSX, Switch 2) - $59.99 @ Target",
-   "price": 59.99,
-   "old_price": 69.99,
-   "store": "Target",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20368386-call-of-duty-modern-warfare-4-ps5-xsx-switch-2-59-99-target?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22519077.thumb",
-   "posted": "2026-11-22T09:06:06+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20368386&tid=20368386&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d27e7f96e69111f1a800964b140b28eb&au=b3708a5a9aee49a88a38c03675f52f3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-24T20:08:53+00:00",
-   "real_price": 59.99,
-   "real_old": 69.99,
    "category_ok": true
   }
  ],
@@ -11877,10 +11877,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340510&pno=1373169&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0d3fddc8e84a11f1afee3acabd27a35c&au=9749896c021f4ae3935fbd6d2759e4f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T21:00:17+00:00",
    "real_price": 989.99,
-   "real_old": 1599.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340510&pno=1373169&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0d3fddc8e84a11f1afee3acabd27a35c&au=9749896c021f4ae3935fbd6d2759e4f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1599.99
   },
   {
    "id": "t84230817f69",
@@ -12211,10 +12211,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388693&tid=20388693&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0e81a11ce84a11f19875024f8ebbeae0&au=8cb78e778bd447188e742d4bfb2381fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T21:00:19+00:00",
    "real_price": 135.0,
-   "real_old": 136.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388693&tid=20388693&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0e81a11ce84a11f19875024f8ebbeae0&au=8cb78e778bd447188e742d4bfb2381fd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 136.0
   },
   {
    "id": "t94b4458aabb",
@@ -13405,6 +13405,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -14518,6 +14521,27 @@
    "real_old": 49.0
   },
   {
+   "id": "t71acb9b209c",
+   "title": "$22.49: Logitech MK470 Slim Wireless Keyboard & Mouse Combo (New, Open Box) at Woot!",
+   "price": 22.49,
+   "old_price": 49.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20384064-22-49-logitech-mk470-slim-wireless-keyboard-mouse-combo-new-open-box-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22556061.thumb",
+   "posted": "2026-11-24T06:30:23+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": true,
+   "code": "LOGITECH",
+   "code_until": "2026-12-04",
+   "promo": null,
+   "checked_at": "2026-11-24T21:05:03+00:00",
+   "real_price": 22.49,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te1a29b80904",
    "title": "Technics Reference Class Hi-Fi Wireless Earbuds w/ Technics Earbuds Case (Various) $150 + Free S&H",
    "price": 149.99,
@@ -15222,8 +15246,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0fc2a490e84a11f19fc3be65d06667c7&au=1930bee798b749dfb5a7598008f38985&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T21:00:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T21:05:05+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -15691,9 +15715,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "SPECIAL10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -16218,24 +16239,6 @@
    "checked_at": "2026-11-23T22:25:21+00:00",
    "real_price": 169.95,
    "real_old": 299.95
-  },
-  {
-   "id": "te19ae7c74a5",
-   "title": "27\" TCL G64 1440p 180Hz 1ms QLED FreeSync Premium Monitor $280 + Free S&H",
-   "price": 279.99,
-   "old_price": 399.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20363247-279-99-tcl-27-g64-series-qhd-hdr-qd-mini-led-gaming-monitor-180hz-1ms-amd-freesync-2560x1440-27g64?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22507035.thumb",
-   "posted": "2026-11-23T22:19:53+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/17374970774",
-   "checked_at": "2026-11-23T22:25:23+00:00",
-   "real_price": 279.99,
-   "real_old": 399.99
   }
  ],
  "tech": [
@@ -17632,7 +17635,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18454,6 +18457,33 @@
    ]
   },
   {
+   "id": "t71acb9b209c",
+   "title": ": Logitech MK470 Slim Wireless Keyboard & Mouse Combo (New, Open Box)",
+   "price": 22.49,
+   "old_price": 49.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22556061.thumb",
+   "posted": "2026-11-24T06:30:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": true,
+   "glitch": false,
+   "code": "LOGITECH",
+   "code_until": "2026-12-04",
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 22.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "te1a29b80904",
    "title": "Technics Reference Class Hi-Fi Wireless Earbuds",
    "price": 149.99,
@@ -19074,8 +19104,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0fc2a490e84a11f19fc3be65d06667c7&au=1930bee798b749dfb5a7598008f38985&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0fc2a490e84a11f19fc3be65d06667c7&au=1930bee798b749dfb5a7598008f38985&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -19091,7 +19121,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0fc2a490e84a11f19fc3be65d06667c7&au=1930bee798b749dfb5a7598008f38985&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b8ffebe4e84a11f1bc0ece6f301e7c6d&au=8f04d47303f64799842e0ff143ab7edf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19445,34 +19475,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20382012&tid=20382012&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=94523810e7b411f1a87b42ca7b90c9af&au=af1da3777f414d90a332b3ba32d6ae5f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9fc7cb9c78a",
-   "title": "Sonos: Ultimate Immersive Set (Arc Ultra Soundbar + Sub 4 + Pair of Era 300 Speakers, Black)",
-   "price": 2199.0,
-   "old_price": 2996.0,
-   "store": "Sonos",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sonos&sdtid=20381985&tid=20381985&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69e909dee7a811f1b86feae338eccd1e&au=19ea0df609384cbf9531c67e6696e05d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sonos&sdtid=20381985&tid=20381985&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69e909dee7a811f1b86feae338eccd1e&au=19ea0df609384cbf9531c67e6696e05d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/9/2/4/0/9/300x300/22551858.thumb",
-   "posted": "2026-11-24T00:55:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Sonos",
-     "price": 2199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sonos&sdtid=20381985&tid=20381985&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69e909dee7a811f1b86feae338eccd1e&au=19ea0df609384cbf9531c67e6696e05d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T21:01:20+00:00"
+ "updated": "2026-11-24T21:05:59+00:00"
 }
