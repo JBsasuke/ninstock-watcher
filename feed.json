@@ -56,13 +56,13 @@
    "posted": "2026-11-24T15:25:55+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T15:40:21+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=5bb422f2e81d11f1be81ee9930747a0f&au=91a7644090c64eaca1e75495e8aa6700&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T15:40:21+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "8fc646cb1ffc",
@@ -11862,10 +11862,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&tid=20387043&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7e25e64ae81d11f1a50a1e9b45453fcb&au=5cbbefeb1c6c4ba28b11db6d4c8d5901&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T15:41:19+00:00",
    "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&tid=20387043&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7e25e64ae81d11f1a50a1e9b45453fcb&au=5cbbefeb1c6c4ba28b11db6d4c8d5901&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.0
   },
   {
    "id": "tb64dd30ef51",
@@ -12157,6 +12157,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -12434,6 +12437,24 @@
    "checked_at": "2026-11-24T11:39:35+00:00",
    "real_price": 14.24,
    "real_old": 39.99
+  },
+  {
+   "id": "t3fe0d9cccf0",
+   "title": "$179 Samsung 34\" Odyssey G5 G55H Ultra WQHD 180Hz Gaming Monitor",
+   "price": 179.0,
+   "old_price": null,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20385162-179-samsung-34-odyssey-g5-g55h-ultra-wqhd-180hz-gaming-monitor?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22558845.thumb",
+   "posted": "2026-11-24T10:40:57+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-24T15:46:01+00:00",
+   "real_price": 179.0,
+   "real_old": null,
+   "store_url": "https://www.walmart.com/ip/20309319436"
   },
   {
    "id": "ta9bc2143354",
@@ -14004,9 +14025,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "SPECIAL10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -15435,8 +15453,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f6819cee81d11f19ff6ca1b104bb133&au=3c87b0415b5a4a888edbe659e285a323&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:41:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=274b5d04e81e11f1998d06b2793bd035&au=eefad422c985475ab1d330e8c747c2f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T15:46:03+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16199,27 +16217,6 @@
    "checked_at": "2026-11-23T20:05:22+00:00",
    "real_price": 1279.99,
    "real_old": 1499.99
-  },
-  {
-   "id": "ta3b4377f43b",
-   "title": "Refurb: Acer Aspire 14 AI 14\" WUXGA Intel Ultra 9 288V 32GB RAM 1TB SSD Arc 140V $717.66",
-   "price": 717.66,
-   "old_price": 1399.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20377698-refurb-acer-aspire-14-ai-14-wuxga-intel-ultra-9-288v-32gb-ram-1tb-ssd-arc-140v-717-66?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22540659.thumb",
-   "posted": "2026-11-23T15:06:29+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": true,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20377698&tid=20377698&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=72617ac4e79411f1a6e46622a2b90021&au=bc89d6aa041f419dbaeb74a9c7b2eadb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T23:20:18+00:00",
-   "real_price": 717.66,
-   "real_old": 1399.99
   }
  ],
  "tech": [
@@ -16536,7 +16533,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16760,6 +16757,33 @@
      "store": "Amazon",
      "price": 14.24,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&tid=20385228&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b8c6d556e7fb11f19b3fd280f369f2fc&au=c758aa3f3e06488f9271285f2388a736&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3fe0d9cccf0",
+   "title": "Samsung 34\" Odyssey G5 G55H Ultra WQHD 180Hz Gaming Monitor",
+   "price": 179.0,
+   "old_price": null,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/20309319436",
+   "url": "https://www.walmart.com/ip/20309319436",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22558845.thumb",
+   "posted": "2026-11-24T10:40:57+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 179.0,
+     "url": "https://www.walmart.com/ip/20309319436"
     }
    ]
   },
@@ -19429,34 +19453,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20379615&tid=20379615&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e472381ae77611f1a295fa8653e7740e&au=fa600cbb2873424cb3bbdc0b269c6c57&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tfaedd3256ae",
-   "title": "360mm ARCTIC Liquid Freezer III Pro Triple-Fan AIO CPU Cooler (Black)",
-   "price": 65.99,
-   "old_price": 69.89,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22546164.thumb",
-   "posted": "2026-11-23T18:41:40+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 65.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T15:42:18+00:00"
+ "updated": "2026-11-24T15:46:59+00:00"
 }
