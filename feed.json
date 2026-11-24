@@ -11298,6 +11298,18 @@
  ],
  "news": [
   {
+   "id": "2e973dc6a726",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Choose your Operator challenge. Who are you deploying with?",
+   "summary": "Play Call of Duty: Modern Warfare 4 on Nintendo Switch 2 today:",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/shorts/pwEIqVsZ0ps",
+   "image": "https://i.ytimg.com/vi/pwEIqVsZ0ps/hqdefault.jpg",
+   "posted": "2026-11-24T17:00:25+00:00"
+  },
+  {
    "id": "aldia-6c2444adf5",
    "title": "Wave Race: Blue Storm llega a Switch 2 para suscriptores de Nintendo Switch Online",
    "summary": "Nintendo añade a su catálogo de GameCube un clásico de carreras de motos de agua para Switch 2. Sus circuitos cambian el clima en plena carrera.",
@@ -11805,18 +11817,6 @@
    "url": "https://www.youtube.com/watch?v=3ShCCyHTu1A",
    "image": "https://i.ytimg.com/vi/3ShCCyHTu1A/hqdefault.jpg",
    "posted": "2026-11-13T23:00:14+00:00"
-  },
-  {
-   "id": "35cc1dcc240d",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Metaphor: ReFantazio – Launch Trailer – Nintendo Switch 2",
-   "summary": "Enter the royal tournament to fight for the throne. Control your destiny, face your fears, and awaken magical “Archetype” powers that lie dormant in your heart. Team up with a compelling cast of characters and embark on an immersive journey. Hours of captivating exploration, dynamic turn-based combat with a blend of real-time action, and exhilarating discovery await!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=MnW00Oo7Gs8",
-   "image": "https://i.ytimg.com/vi/MnW00Oo7Gs8/hqdefault.jpg",
-   "posted": "2026-11-13T21:00:50+00:00"
   }
  ],
  "raw_tech": [
@@ -11839,6 +11839,45 @@
    "real_old": 249.0
   },
   {
+   "id": "t5c88a850bb1",
+   "title": "Samsung Galaxy S26 FE 5G 6.7\" Unlocked Smartphone: 256GB $600 or 128GB $500 + Free S&H",
+   "price": 499.99,
+   "old_price": 699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20340138-samsung-galaxy-s26-fe-5g-unlocked-smartphone-3-colors-128gb-499-99-256gb-599-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566639.thumb",
+   "posted": "2026-11-24T17:09:19+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-24T17:10:52+00:00",
+   "real_price": 499.99,
+   "real_old": 699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t5a01ba6f786",
+   "title": "Refurbished - Good: 512GB Samsung Galaxy S25 Ultra AI Unlocked Smartphone $556 + Free S&H",
+   "price": 555.99,
+   "old_price": 1419.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20378427-refurb-512gb-samsung-galaxy-s25-ultra-unlocked-smartphone-3-colors-good-555-99-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22566633.thumb",
+   "posted": "2026-11-24T17:08:03+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T17:10:54+00:00",
+   "real_price": 555.99,
+   "real_old": 1419.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20378427&pno=1372965&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=01ba0390e82a11f189f3dac570ddc035&au=854ff3f509a943da88b115dbc11b82f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t19e60eac19d",
    "title": "50\" VIZIO Mini LED Quantum 4K 60Hz QLED Smart TV (VQM50C-10) $198 + Free S&H",
    "price": 198.0,
@@ -11851,10 +11890,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/7745104180",
    "checked_at": "2026-11-24T17:06:09+00:00",
    "real_price": 198.0,
-   "real_old": 248.0,
-   "store_url": "https://www.walmart.com/ip/7745104180"
+   "real_old": 248.0
   },
   {
    "id": "td54327d950b",
@@ -12001,10 +12040,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387340&tid=20387340&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=594f918ee82911f18905aa3c0bb811ca&au=377412bf46fd4c76b3bb5a35f990ba6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:06:11+00:00",
    "real_price": 599.99,
-   "real_old": 899.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387340&tid=20387340&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=594f918ee82911f18905aa3c0bb811ca&au=377412bf46fd4c76b3bb5a35f990ba6f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 899.99
   },
   {
    "id": "t8b16e494191",
@@ -12145,10 +12184,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20386944&tid=20386944&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=5a9c104ee82911f1a861ba3afc020c7c&au=7e5489e8edc747069090dbb31612aefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:06:14+00:00",
    "real_price": 59.0,
-   "real_old": 89.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20386944&tid=20386944&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=5a9c104ee82911f1a861ba3afc020c7c&au=7e5489e8edc747069090dbb31612aefc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.0
   },
   {
    "id": "tae8261e3711",
@@ -12534,9 +12573,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -13206,10 +13242,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T17:06:16+00:00",
    "real_price": 1299.99,
-   "real_old": 1699.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1699.99
   },
   {
    "id": "tcf9f5e39998",
@@ -16136,8 +16172,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5d60ae84e82911f1870272351a84d088&au=2fa7c26668f8483a8d09a498d9b23d7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:06:18+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=037394e4e82a11f18d1792797b6adada&au=95b490bb5b5f4750b52e53b9547f1710&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T17:10:57+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16176,42 +16212,6 @@
    "real_price": 329.99,
    "real_old": 799.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20379615&tid=20379615&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e472381ae77611f1a295fa8653e7740e&au=fa600cbb2873424cb3bbdc0b269c6c57&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "tfaedd3256ae",
-   "title": "360mm ARCTIC Liquid Freezer III Pro Triple-Fan AIO CPU Cooler (Black) $65.99 + Free Shipping",
-   "price": 65.99,
-   "old_price": 69.89,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20379597-360mm-arctic-liquid-freezer-iii-pro-triple-fan-aio-cpu-cooler-black-65-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22546164.thumb",
-   "posted": "2026-11-23T18:41:40+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379597&tid=20379597&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2b5aedf0e7a711f18a4eee9385357a66&au=59dae3769df44b889232d1faebdfe458&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:34:20+00:00",
-   "real_price": 65.99,
-   "real_old": 69.89
-  },
-  {
-   "id": "te3e54609bfb",
-   "title": "$49.95 JBL Tune 670NC Adaptive Noise Cancelling Wireless On-Ear Headphones (Black)",
-   "price": 49.95,
-   "old_price": 149.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20379588-49-95-jbl-tune-670nc-adaptive-noise-cancelling-wireless-on-ear-headphones-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22546137.thumb",
-   "posted": "2026-11-23T18:40:29+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20379588&tid=20379588&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b616b28ae81011f18aa0d295a8c6b196&au=6786e7c90695461fb30f6a014a7ff0ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:09:50+00:00",
-   "real_price": 49.95,
-   "real_old": 149.0
   }
  ],
  "tech": [
@@ -16239,6 +16239,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t5c88a850bb1",
+   "title": "Samsung Galaxy S26 FE 5G 6.7\" Unlocked Smartphone: 256GB or 128GB + Free S&H",
+   "price": 499.99,
+   "old_price": 699.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566639.thumb",
+   "posted": "2026-11-24T17:09:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16852,7 +16879,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19421,34 +19448,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380656&tid=20380656&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=115dcabce78e11f181673ad29bc0f464&au=f0f3b8298c14413694ac1341a646fa39&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t3e3f68fdc0c",
-   "title": "ASRock Challenger Radeon RX 9070 16GB GDDR6 Graphics Card + ASRock Rock 360 AIO Cooler",
-   "price": 750.0,
-   "old_price": 812.0,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20380653&tid=20380653&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=00044e3ce78711f18f2a22392b649e5e&au=301c990aeb764480a6feaa346be847fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20380653&tid=20380653&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=00044e3ce78711f18f2a22392b649e5e&au=301c990aeb764480a6feaa346be847fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548750.thumb",
-   "posted": "2026-11-23T21:14:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 750.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20380653&tid=20380653&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=00044e3ce78711f18f2a22392b649e5e&au=301c990aeb764480a6feaa346be847fa&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T17:07:09+00:00"
+ "updated": "2026-11-24T17:11:53+00:00"
 }
