@@ -14,13 +14,13 @@
    "posted": "2026-11-24T05:25:36+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T05:28:11+00:00",
-   "category_ok": false,
-   "real_price": 124.99,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20383734&tid=20383734&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d65fda60e7c711f1897edea332fecdec&au=8f7f93599079400f903bce7ce8b7cd2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T05:28:11+00:00",
+   "real_price": 124.99,
+   "real_old": null,
+   "category_ok": false
   },
   {
    "id": "35ac16ea0582",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T05:25:36+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T05:28:12+00:00",
-   "category_ok": false,
-   "real_price": 124.99,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20383734&tid=20383734&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d7792582e7c711f1b72ed2623918946f&au=339d851a141c4424a22f950e55e69059&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T05:28:12+00:00",
+   "real_price": 124.99,
+   "real_old": null,
+   "category_ok": false
   },
   {
    "id": "1b7b23f50b3e",
@@ -12117,10 +12117,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382867&tid=20382867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f735fe7ce7c711f1b5ec2e4988c4deaa&au=a4074f4bed77490c95d35bf9ac136099&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T05:29:06+00:00",
    "real_price": 47.99,
-   "real_old": 79.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382867&tid=20382867&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f735fe7ce7c711f1b5ec2e4988c4deaa&au=a4074f4bed77490c95d35bf9ac136099&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 79.99
   },
   {
    "id": "tf82f6c2fe16",
@@ -13385,9 +13385,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -13796,8 +13793,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f8899c5ce7c711f1b8b9be02872d8e2a&au=65f40c95aa864463876d4e0ab9419055&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:29:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=997965ace7c811f1beb3161ca257c495&au=4cbb798d39d749019308a13cd7347dc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T05:33:38+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14595,8 +14592,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f9a952f8e7c711f19b23ae59fb369ac1&au=da215cb1e8ee41fe8c34ae0d36008887&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:29:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ac7c0ace7c811f182de021f840d60d5&au=df1957b0838148b2b2f50d6026b55118&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T05:33:40+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -15751,6 +15748,24 @@
    "real_old": 70.82
   },
   {
+   "id": "ta9f245a33f5",
+   "title": "TCL 75\" Class S4-Series 4K UHD HDR Smart Roku TV  $398",
+   "price": 398.0,
+   "old_price": 500.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20373798-tcl-75-class-s4-series-4k-uhd-hdr-smart-roku-tv-398?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22530795.thumb",
+   "posted": "2026-11-23T05:22:02+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-24T05:33:42+00:00",
+   "real_price": 398.0,
+   "real_old": 500.0,
+   "store_url": "https://www.walmart.com/ip/20073412709"
+  },
+  {
    "id": "t7a039c25740",
    "title": "DiscountMugs Sale: up to 70% Off Clearance + Sitewide Savings Coupon 20% Off",
    "price": null,
@@ -16269,24 +16284,6 @@
    "checked_at": "2026-11-23T02:34:45+00:00",
    "real_price": 1199.0,
    "real_old": 1899.0
-  },
-  {
-   "id": "t7efac848a6a",
-   "title": "INIU 20000mAh Up to 45W Power Bank w/ Built-in USB C Cable $28 + Free S&H",
-   "price": 27.99,
-   "old_price": 49.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20368464-iniu-portable-charger-compact-20000mah-pd-power-bank-with-built-in-cable-digital-display-for-iphone-samsung-etc-black-27-99-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22519212.thumb",
-   "posted": "2026-11-22T22:38:43+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20368464&pno=1371285&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7376cf1ce6e611f1a269161159bc52d2&au=94218a0595db4af7b453a5708f0132bb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T02:34:48+00:00",
-   "real_price": 27.99,
-   "real_old": 49.99
   }
  ],
  "tech": [
@@ -18645,8 +18642,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f9a952f8e7c711f19b23ae59fb369ac1&au=da215cb1e8ee41fe8c34ae0d36008887&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f9a952f8e7c711f19b23ae59fb369ac1&au=da215cb1e8ee41fe8c34ae0d36008887&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ac7c0ace7c811f182de021f840d60d5&au=df1957b0838148b2b2f50d6026b55118&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ac7c0ace7c811f182de021f840d60d5&au=df1957b0838148b2b2f50d6026b55118&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -18662,7 +18659,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f9a952f8e7c711f19b23ae59fb369ac1&au=da215cb1e8ee41fe8c34ae0d36008887&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ac7c0ace7c811f182de021f840d60d5&au=df1957b0838148b2b2f50d6026b55118&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19390,6 +19387,33 @@
    ]
   },
   {
+   "id": "ta9f245a33f5",
+   "title": "TCL 75\" Class S4-Series 4K UHD HDR Smart Roku TV",
+   "price": 398.0,
+   "old_price": 500.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/20073412709",
+   "url": "https://www.walmart.com/ip/20073412709",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22530795.thumb",
+   "posted": "2026-11-23T05:22:02+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 398.0,
+     "url": "https://www.walmart.com/ip/20073412709"
+    }
+   ]
+  },
+  {
    "id": "t7a039c25740",
    "title": "DiscountMugs Sale: up to 70% Off Clearance + Sitewide Savings Coupon 20% Off",
    "price": null,
@@ -19490,34 +19514,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373390&tid=20373390&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=35dea7f4e79711f197cc2eafe04cb2a7&au=db32077ffdfe461489384f679fe1c741&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tdf11c2c42a2",
-   "title": "65\" Samsung S90H 4K 165Hz HDR Smart OLED TV (2026) + Free S&H",
-   "price": 1199.0,
-   "old_price": 1546.99,
-   "store": "Greentoe",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Greentoe&sdtid=20372022&pno=1371534&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e634db9ce77d11f18a9c16b5dfe6cbc7&au=6c208d74f5344d0ba660f56b583e877a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Greentoe&sdtid=20372022&pno=1371534&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e634db9ce77d11f18a9c16b5dfe6cbc7&au=6c208d74f5344d0ba660f56b583e877a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22526439.thumb",
-   "posted": "2026-11-23T03:44:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Greentoe",
-     "price": 1199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Greentoe&sdtid=20372022&pno=1371534&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e634db9ce77d11f18a9c16b5dfe6cbc7&au=6c208d74f5344d0ba660f56b583e877a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T05:30:00+00:00"
+ "updated": "2026-11-24T05:34:30+00:00"
 }
