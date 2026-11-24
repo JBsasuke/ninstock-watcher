@@ -14,13 +14,13 @@
    "posted": "2026-11-24T00:07:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T00:11:54+00:00",
-   "category_ok": true,
-   "real_price": 28.45,
-   "real_old": 74.0,
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T00:11:54+00:00",
+   "real_price": 28.45,
+   "real_old": 74.0,
+   "category_ok": true
   },
   {
    "id": "602f464b0272",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T00:07:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T00:11:57+00:00",
-   "category_ok": true,
-   "real_price": 28.45,
-   "real_old": 74.0,
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T00:11:57+00:00",
+   "real_price": 28.45,
+   "real_old": 74.0,
+   "category_ok": true
   },
   {
    "id": "b78e1fc59a34",
@@ -11805,10 +11805,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20358813&pno=1371273&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c95be006e79b11f19cc03ad29bc0f464&au=ce0497e4907c45959d31c37d78de2b59&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:12:51+00:00",
    "real_price": 169.0,
-   "real_old": 259.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20358813&pno=1371273&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c95be006e79b11f19cc03ad29bc0f464&au=ce0497e4907c45959d31c37d78de2b59&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 259.0
   },
   {
    "id": "t6b4e52ce282",
@@ -11895,9 +11895,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376606&pno=1372353&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c91b8720e79311f1a1086622a2b90021&au=6c62290adc1c42c3b4e4527a49f5fe83&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T23:15:35+00:00",
    "real_price": 37.16,
@@ -12721,8 +12718,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca86f68ce79b11f1adcf7e65aa5791f0&au=e121bfd0f3ab41ed825bf5d3460719e2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:12:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c9ae3cae79c11f19b66a63b62af86b5&au=5dfeaaca77bd43b999e4ee11b0bea144&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:17:25+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -13286,8 +13283,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:12:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6df4df78e79c11f19b61ea5407b93174&au=974ecfbbe1ea4c2a83aa4fc03cce07f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:17:27+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -13626,6 +13623,24 @@
    "checked_at": "2026-11-23T11:15:18+00:00",
    "real_price": 438.94,
    "real_old": 877.99
+  },
+  {
+   "id": "t6e44c62fc2a",
+   "title": "Greenworks 24V 12\" Cordless Brushless Chainsaw (CS24L00, Tool Only) $61.09 + Free Shipping",
+   "price": 61.09,
+   "old_price": 105.89,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20375889-greenworks-24v-12-cordless-brushless-chainsaw-cs24l00-tool-only-61-09-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22535889.thumb",
+   "posted": "2026-11-23T10:53:02+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T00:17:29+00:00",
+   "real_price": 61.09,
+   "real_old": 105.89,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375889&tid=20375889&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=6f1e9d8ae79c11f19f70565ac6f00961&au=eac8cbe1701b4143b48d2cc7b76da490&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "td2b99e297da",
@@ -15856,8 +15871,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd1971aee79b11f197da1a415d963585&au=610f6cbb7be440ddb90bf85a99a64777&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:12:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Frndly+TV&sdtid=20363895&pno=1370619&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=70393590e79c11f19cc62a3525c0b165&au=a2689564cbfc44ada493f0c74308e115&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:17:31+00:00",
    "real_price": 0.99,
    "real_old": 6.99
   },
@@ -15928,8 +15943,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ce52674ce79b11f1b0cf3ad29bc0f464&au=73226d900c3f4c4cb715530b3f23a8f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:12:59+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20362353&pno=1370556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71c9a4eee79c11f1aea34601a3dc6309&au=da55400ae5924537838da2ce5757802d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T00:17:33+00:00",
    "real_price": 0.98,
    "real_old": 5.48
   },
@@ -16113,24 +16128,6 @@
    "checked_at": "2026-11-23T20:58:15+00:00",
    "real_price": 299.99,
    "real_old": 549.99
-  },
-  {
-   "id": "t77ec01643f0",
-   "title": "Harman Kardon Onyx Studio 8 Portable Stereo Bluetooth Speaker (3 colors) $100 + Free S&H",
-   "price": 99.99,
-   "old_price": 495.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20363307-harman-kardon-onyx-studio-8-portable-stereo-bluetooth-speaker-black-blue-champagne-99-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/2/7/2/2/2/3/300x300/22507176.thumb",
-   "posted": "2026-11-21T14:49:16+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-21T15:39:14+00:00",
-   "real_price": 99.99,
-   "real_old": 495.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20363307&pno=1370355&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b430e04ae5c111f1ab9e22148bf1fc17&au=e862d031543f4b28a7bcf125dfc2791f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -17544,8 +17541,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6df4df78e79c11f19b61ea5407b93174&au=974ecfbbe1ea4c2a83aa4fc03cce07f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6df4df78e79c11f19b61ea5407b93174&au=974ecfbbe1ea4c2a83aa4fc03cce07f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -17561,7 +17558,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=cc072d6ae79b11f19f845e59ab53ac00&au=8dbcd7d3d5be4e42a7a656f5a92d737b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6df4df78e79c11f19b61ea5407b93174&au=974ecfbbe1ea4c2a83aa4fc03cce07f8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19363,5 +19360,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T00:13:46+00:00"
+ "updated": "2026-11-24T00:18:23+00:00"
 }
