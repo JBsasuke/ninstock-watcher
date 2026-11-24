@@ -14546,9 +14546,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "SPECIAL10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -15494,10 +15491,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380491&tid=20380491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=613fd306e82711f197e87a21c797663e&au=f80abe4fbca34eddaf296dc589b99e44&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:52:06+00:00",
    "real_price": 849.0,
-   "real_old": 1499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380491&tid=20380491&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=613fd306e82711f197e87a21c797663e&au=f80abe4fbca34eddaf296dc589b99e44&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1499.99
   },
   {
    "id": "t48e03250b24",
@@ -16013,8 +16010,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62745feee82711f1a0a18ac1ac0739c8&au=7e319716c87a491cb82efa958bc996ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:52:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0748ee90e82811f19ef54631e5823f05&au=e99e9cb1649348958759b7d67062e683&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T16:56:44+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -19453,5 +19450,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T16:53:02+00:00"
+ "updated": "2026-11-24T16:57:43+00:00"
 }
