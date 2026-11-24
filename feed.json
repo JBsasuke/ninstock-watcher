@@ -14,13 +14,13 @@
    "posted": "2026-11-24T14:39:47+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T14:44:30+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&pno=1372845&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=8e05643ae81511f1994bc27db0f71e28&au=ad50ab4be6bc435988e1360ee34f8478&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T14:44:30+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "5041d9a83b36",
@@ -147,6 +147,27 @@
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
+  },
+  {
+   "id": "2144a1cde8f7",
+   "title": "2,050-Pc LEGO Pokémon Pikachu and Poké Ball (72152) $159.95 + Free Shipping",
+   "price": 159.95,
+   "old_price": 199.99,
+   "store": "Amazon",
+   "kind": "merch",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20385288-2-050-pc-lego-pok-mon-pikachu-and-pok-ball-72152-159-95-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22559184.thumb",
+   "posted": "2026-11-24T11:00:10+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-24T14:53:09+00:00",
+   "category_ok": true,
+   "real_price": 159.95,
+   "real_old": 199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "474532126ac8",
@@ -3150,27 +3171,6 @@
    "real_price": 59.99,
    "real_old": 79.99,
    "category_ok": true
-  },
-  {
-   "id": "79e2197d22a2",
-   "title": "$59.99 | KINGDOM HEARTS Collection [I–III] Amazon Exclusive Edition - Nintendo Switch 2 at Amazon",
-   "price": 59.99,
-   "old_price": 74.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20367828-59-99-kingdom-hearts-collection-i-iii-amazon-exclusive-edition-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22517640.thumb",
-   "posted": "2026-11-22T08:04:15+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367828&tid=20367828&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34b20010e64d11f19b5d061a0f492b30&au=876b83969f1643e0ababbaf312be1911&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-24T13:54:45+00:00",
-   "real_price": 59.99,
-   "real_old": 74.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-24T14:35:26+00:00",
@@ -4381,11 +4381,6 @@
      "store": "Target",
      "price": 59.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20368542&tid=20368542&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c4975f56e69111f18ead1af39ad20cf5&au=f81f4c2966dd4f599a524ac6a322fccc&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    },
-    {
-     "store": "Amazon",
-     "price": 59.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367828&tid=20367828&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34b20010e64d11f19b5d061a0f492b30&au=876b83969f1643e0ababbaf312be1911&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ],
    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22519326.thumb",
@@ -11815,6 +11810,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t9bcd151ef43",
+   "title": "2-pk 45W wegear Nano Foldable USB-C Wall Charger (Black or White) $12.50",
+   "price": 12.49,
+   "old_price": 26.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20230272-2-pack-wegear-45w-gan-usb-c-nano-charger-block-white-or-black-12-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563513.thumb",
+   "posted": "2026-11-24T14:50:19+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "BOESKB1M",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T14:54:06+00:00",
+   "real_price": 12.49,
+   "real_old": 26.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9812940db94",
    "title": "65\" Samsung M80H Series 4K Mini LED Smart TV (2026) $498 + Free S&H",
    "price": 498.0,
@@ -11827,10 +11843,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T14:46:13+00:00",
    "real_price": 498.0,
-   "real_old": 799.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 799.0
   },
   {
    "id": "t71601825f8c",
@@ -12068,6 +12084,24 @@
    "checked_at": "2026-11-24T13:37:07+00:00",
    "real_price": 17.98,
    "real_old": 60.0
+  },
+  {
+   "id": "ta0e6a13a651",
+   "title": "$29.99 Logitech G502 HERO Wired Optical Gaming Mouse with RGB Lighting - Wired - Black",
+   "price": 29.99,
+   "old_price": 156.0,
+   "store": "Target",
+   "url": "https://slickdeals.net/f/20385639-29-99-logitech-g502-hero-wired-optical-gaming-mouse-with-rgb-lighting-wired-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
+   "posted": "2026-11-24T12:08:46+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-24T14:54:08+00:00",
+   "real_price": 29.99,
+   "real_old": 156.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9812d58011f",
@@ -12559,10 +12593,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20384244&tid=20384244&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ccccec2ee81511f1a4bc66315ce6db43&au=825367e9db494555be1e49a04282d86c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T14:46:15+00:00",
    "real_price": 34.0,
-   "real_old": 79.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20384244&tid=20384244&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ccccec2ee81511f1a4bc66315ce6db43&au=825367e9db494555be1e49a04282d86c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 79.99
   },
   {
    "id": "tb7057f58dc1",
@@ -13132,10 +13166,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383242&tid=20383242&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=ce220d0ce81511f18d1e2a881380f11b&au=a84f3a591bf74ea4b4b92b3e5304b271&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T14:46:17+00:00",
    "real_price": 18.69,
-   "real_old": 26.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383242&tid=20383242&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=ce220d0ce81511f18d1e2a881380f11b&au=a84f3a591bf74ea4b4b92b3e5304b271&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 26.99
   },
   {
    "id": "tc159c7adffd",
@@ -13785,6 +13819,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -15177,8 +15214,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf591544e81511f187f86e58a13da2f2&au=2524b9f0ad204a94bf88242b693e4390&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:46:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7bab34ee81611f1b7f1362389f81dcb&au=d005008e7ed2424f9f4ff4e013f8c5b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T14:54:10+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16032,8 +16069,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d0c0d5f2e81511f1a31d6636fa90d852&au=8669533452ac448f874c33c22b2301f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:46:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e944f6e8e81611f1ba3b6e58a13da2f2&au=298dc0ef5f1b4946b8467834e2a3708e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T14:54:13+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16170,45 +16207,36 @@
    "checked_at": "2026-11-24T05:17:07+00:00",
    "real_price": 479.99,
    "real_old": 549.0
-  },
-  {
-   "id": "tb179430538b",
-   "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD (Various) from $1169.10 + Free S&H",
-   "price": 1169.1,
-   "old_price": 1599.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20374140-1299-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-1tb-ssd-silver-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22539015.thumb",
-   "posted": "2026-11-23T14:31:14+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374140&pno=1371918&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3b1b9d80e77911f1ae91e6bea182c8ee&au=1619c3f3fd3a4c04a353e0f731bf9a6d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:05:30+00:00",
-   "real_price": 1169.1,
-   "real_old": 1599.0
-  },
-  {
-   "id": "te5d95326752",
-   "title": "Open Box Excellent: HP OMEN - 35L Gaming Desktop - AMD Ryzen 7 8700F - 32GB DDR5 Memory - NVIDIA GeForce RTX 5070 - 1TB SSD - Panda Metal $1730.99",
-   "price": 1730.99,
-   "old_price": 2749.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20377224-open-box-excellent-hp-omen-35l-gaming-desktop-amd-ryzen-7-8700f-32gb-ddr5-memory-nvidia-geforce-rtx-5070-1tb-ssd-panda-metal-1730-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22538820.thumb",
-   "posted": "2026-11-23T14:21:48+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377224&tid=20377224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dcb28952e77d11f1bf70be996e4f63d3&au=47e32f8131974f71a94a75acac901d7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:38:38+00:00",
-   "real_price": 1730.99,
-   "real_old": 2749.99
   }
  ],
  "tech": [
+  {
+   "id": "t9bcd151ef43",
+   "title": "2-pk 45W wegear Nano Foldable USB-C Wall Charger (Black or White)",
+   "price": 12.49,
+   "old_price": 26.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563513.thumb",
+   "posted": "2026-11-24T14:50:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "BOESKB1M",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 12.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t9812940db94",
    "title": "65\" Samsung M80H Series 4K Mini LED Smart TV (2026) + Free S&H",
@@ -16449,6 +16477,33 @@
      "store": "Amazon",
      "price": 29.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta0e6a13a651",
+   "title": "Logitech G502 HERO Wired Optical Gaming Mouse with RGB Lighting - Wired - Black",
+   "price": 29.99,
+   "old_price": 156.0,
+   "store": "Target",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
+   "posted": "2026-11-24T12:08:46+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Target",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19388,61 +19443,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379081&tid=20379081&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac156e6ae7c111f1afe742ca7b90c9af&au=c9aa78fbaa2e4cf8b2bab90f13949f23&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9123f484094",
-   "title": "15.3\" Apple MacBook Air (2026): M5 10-Core Chip, 16GB Memory, 512GB SSD + Free S&H",
-   "price": 1199.0,
-   "old_price": 1499.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377602&pno=1372086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ef1567d8e77611f195e8c613b2c17df0&au=3755c2c8be1a4c9e996993278975879e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377602&pno=1372086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ef1567d8e77611f195e8c613b2c17df0&au=3755c2c8be1a4c9e996993278975879e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22544700.thumb",
-   "posted": "2026-11-23T17:35:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377602&pno=1372086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ef1567d8e77611f195e8c613b2c17df0&au=3755c2c8be1a4c9e996993278975879e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t4e9d73af035",
-   "title": "Insignia 75-inch Class F50 Series LED 2160p 4K UHD Smart Fire TV",
-   "price": 349.99,
-   "old_price": 599.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22544541.thumb",
-   "posted": "2026-11-23T17:27:15+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 349.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&tid=20378985&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1e48d236e78311f1b43abe996e4f63d3&au=9030a97273ec4da7ab899f66fd02e39d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T14:47:12+00:00"
+ "updated": "2026-11-24T14:55:04+00:00"
 }
