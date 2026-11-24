@@ -755,7 +755,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:16:11+00:00",
+   "checked_at": "2026-11-24T18:16:25+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -776,7 +776,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T12:16:14+00:00",
+   "checked_at": "2026-11-24T18:16:28+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -12805,9 +12805,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -14498,8 +14495,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:12:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bff1888e83311f192e0d27045f7dddc&au=6bee11d9d5534bef9ab9d51813e6224d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T18:17:24+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -14967,6 +14964,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "SPECIAL10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20377473&pno=1372407&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=96b50d7ce79f11f1a491e20ac5a09123&au=ca1744ddc8fd41d1928eaf7af7fd6edf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T00:40:04+00:00",
    "real_price": 71.99,
@@ -17060,7 +17060,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18475,8 +18475,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bff1888e83311f192e0d27045f7dddc&au=6bee11d9d5534bef9ab9d51813e6224d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bff1888e83311f192e0d27045f7dddc&au=6bee11d9d5534bef9ab9d51813e6224d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18492,7 +18492,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f8066e8e83211f188ce969632148664&au=ffe9f7a897884ff2bcfd242c09cf8bed&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bff1888e83311f192e0d27045f7dddc&au=6bee11d9d5534bef9ab9d51813e6224d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19469,5 +19469,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T18:13:36+00:00"
+ "updated": "2026-11-24T18:18:22+00:00"
 }
