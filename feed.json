@@ -14,13 +14,13 @@
    "posted": "2026-11-24T16:20:00+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T16:23:00+00:00",
-   "category_ok": true,
-   "real_price": 59.88,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369271&pno=1371522&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=50c800c4e82311f1ad5272351a84d088&au=acfe6db78b0646f0b1e0862c18d64475&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T16:23:00+00:00",
+   "real_price": 59.88,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "5611479c74a7",
@@ -836,7 +836,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374854&pno=1372302&prop=diavail-true%7Cdincp-1%7Cdinpd-19%7Cdipgavail-true&pv=a449cc92e78c11f1b08ca63b62af86b5&au=be9920e0d8144618b0a6e119981fae1d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T10:26:03+00:00",
+   "checked_at": "2026-11-24T16:27:57+00:00",
    "real_price": 19.93,
    "real_old": 24.99,
    "category_ok": true
@@ -11828,6 +11828,24 @@
    "real_old": 249.0
   },
   {
+   "id": "tf4eff67aacd",
+   "title": "RYOBI 4-Tool USB Lithium Project Kit w/ 2x 2Ah Batteries + Charging Cable $99 + Free S&H",
+   "price": 99.0,
+   "old_price": 255.97,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20384496-ryobi-usb-lithium-project-kit-with-rotary-tool-inspection-light-screwdriver-glue-pen-2-2-ah-batteries-charging-cable-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22557213.thumb",
+   "posted": "2026-11-24T16:23:42+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T16:28:54+00:00",
+   "real_price": 99.0,
+   "real_old": 255.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20384496&pno=1372926&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=238ff7a0e82411f1b9324631e5823f05&au=7d478c8223b7425b91e9c6db8f7028b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t397c9c97b35",
    "title": "LEXIVON 2-IN-1 Laser & Tape Measure (Tape 16', Laser 140') $34.55 + Free S&H",
    "price": 34.54,
@@ -12087,10 +12105,10 @@
    "code": "FIRSTGRUV15",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Gruv&sdtid=20386617&tid=20386617&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=77b0106ee82311f189c4eef62b4f788e&au=b4bfa3773dc2458fa5d04c64729544a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:24:06+00:00",
    "real_price": 9.99,
-   "real_old": 60.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Gruv&sdtid=20386617&tid=20386617&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=77b0106ee82311f189c4eef62b4f788e&au=b4bfa3773dc2458fa5d04c64729544a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 60.0
   },
   {
    "id": "t7f048f99ddf",
@@ -12237,10 +12255,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386377&tid=20386377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=793464dae82311f19ca2d280f369f2fc&au=8cc038c30a4c448788bd06d8ea9e8d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T16:24:08+00:00",
    "real_price": 119.99,
-   "real_old": 219.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386377&tid=20386377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=793464dae82311f19ca2d280f369f2fc&au=8cc038c30a4c448788bd06d8ea9e8d5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 219.99
   },
   {
    "id": "t4a602c1aee6",
@@ -12259,6 +12277,24 @@
    "checked_at": "2026-11-24T14:03:45+00:00",
    "real_price": 55.0,
    "real_old": 79.0
+  },
+  {
+   "id": "tf1ecac7599e",
+   "title": "Lamicall 15W for MagSafe Car Mount Charger, 360° Wireless Car Phone Holde $13.99",
+   "price": 13.99,
+   "old_price": 38.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20386335-lamicall-15w-for-magsafe-car-mount-charger-360-wireless-car-phone-holde-13-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22562271.thumb",
+   "posted": "2026-11-24T13:54:43+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-24T16:28:56+00:00",
+   "real_price": 13.99,
+   "real_old": 38.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&tid=20386335&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=250e057ce82411f1a59aee654f1d2dfa&au=b519d479774348a8b6e913d13de0aee4&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "ta37ca7ba5a5",
@@ -12344,6 +12380,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15300,9 +15339,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -15732,8 +15768,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7ad9f926e82311f1a2339ab27e0d7e36&au=e090d58a36e8457a8a2111280bd8a524&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:24:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2648080ce82411f18e3716ec92524b89&au=c0c0692b5d154b08a45ef2584962a092&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T16:28:59+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -16162,42 +16198,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20374611&pno=1372074&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f247ea52e77611f1ab9442c654074995&au=856e19d43aba43c882f5fce1e198a420&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T19:49:08+00:00",
    "real_price": 169.0
-  },
-  {
-   "id": "td10f55ae8cb",
-   "title": "[Prime Members] Happy Nuts Ballber Pro Waterproof Body & Groin Trimmer for Men $39.99 w/ Code + Free Shipping",
-   "price": 39.99,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20378748-prime-members-happy-nuts-ballber-pro-waterproof-body-groin-trimmer-for-men-39-99-w-code-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/4/5/8/0/4/3/300x300/22543890.thumb",
-   "posted": "2026-11-23T17:05:42+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-23T20:05:11+00:00",
-   "real_price": 39.99,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378748&tid=20378748&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3033c91ae77911f1ad7a6e8c80e91624&au=74e62c35bfa740e1b2c8ff1e8d201831&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "te0058a8e461",
-   "title": "Anycubic Kobra X Multicolor 3D Printer w/ Built-In 4-Color Printing (Up to 600mm/s, 260 x 260 x 260mm Build Volume) $279.99 + Free Shipping",
-   "price": 279.99,
-   "old_price": 359.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20378739-anycubic-kobra-x-multicolor-3d-printer-w-built-in-4-color-printing-up-to-600mm-s-260-x-260-x-260mm-build-volume-279-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22543791.thumb",
-   "posted": "2026-11-23T17:04:02+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378739&tid=20378739&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cb8988cce7a711f197c3cad321e15c30&au=7e2c64aa095d4236acd51b6b86c91736&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:38:48+00:00",
-   "real_price": 279.99,
-   "real_old": 359.99
   }
  ],
  "tech": [
@@ -16607,6 +16607,33 @@
    ]
   },
   {
+   "id": "tf1ecac7599e",
+   "title": "Lamicall 15W for MagSafe Car Mount Charger, 360° Wireless Car Phone Holde",
+   "price": 13.99,
+   "old_price": 38.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&tid=20386335&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=250e057ce82411f1a59aee654f1d2dfa&au=b519d479774348a8b6e913d13de0aee4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&tid=20386335&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=250e057ce82411f1a59aee654f1d2dfa&au=b519d479774348a8b6e913d13de0aee4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22562271.thumb",
+   "posted": "2026-11-24T13:54:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 13.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&tid=20386335&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=250e057ce82411f1a59aee654f1d2dfa&au=b519d479774348a8b6e913d13de0aee4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t81c92cd8f2a",
    "title": "JOIOT Adjustable Aluminum Laptop Stand, Ergonomic Riser for 11-16\" Laptops",
    "price": 19.99,
@@ -16676,7 +16703,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19407,34 +19434,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377647&pno=1372167&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=db9bd1a6e77611f196518abcc2552c10&au=c39890b5b9b54ff78e3a6ed4b9677ad4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t91df76fdbf4",
-   "title": "Asus Rog Strix Z890-E Gaming WiFi ATX Motherboard",
-   "price": 239.99,
-   "old_price": 399.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22546878.thumb",
-   "posted": "2026-11-23T19:25:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 239.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379933&tid=20379933&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=28e52432e7a711f1b0bc2298a799d521&au=cd52fb370a994203ae1260972251410a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T16:25:08+00:00"
+ "updated": "2026-11-24T16:29:49+00:00"
 }
