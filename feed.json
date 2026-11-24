@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "3f71bd3937ca",
+   "title": "Final Fantasy VII: Rebirth (Switch 2) $24.90",
+   "price": 24.88,
+   "old_price": 50.0,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20367879-final-fantasy-vii-rebirth-nintendo-switch-2-standard-edition-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22558506.thumb",
+   "posted": "2026-11-24T10:18:36+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-24T10:21:32+00:00",
+   "category_ok": true,
+   "real_price": 24.88,
+   "real_old": 50.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&pno=1372239&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=d1a563f4e7f011f18f446636fa90d852&au=bb5b9f9ed3ff403ea2f615376b6ff829&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "ef3d8060716d",
    "title": "Costco Members: 2-Pk Pokémon TCG: Perfect Order Elite Trainer Box + Booster Bundle $125 + Free S&H",
    "price": 124.99,
@@ -3149,31 +3170,40 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367708&tid=20367708&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3dfc9e32e64d11f19e4ec221b4ffd1db&au=a8554c091c864f56a68fc4c826a8302c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3
-  },
-  {
-   "id": "0d6f0fbeb1cb",
-   "title": "Kirby Air Riders (Nintendo Switch 2) - $49.99 @ Amazon & Best Buy",
-   "price": 49.99,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20367708-kirby-air-riders-nintendo-switch-2-49-99-amazon-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22517352.thumb",
-   "posted": "2026-11-22T07:15:17+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "checked_at": "2026-11-24T08:02:51+00:00",
-   "category_ok": true,
-   "real_price": 49.99,
-   "real_old": 69.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367708&tid=20367708&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3f3923f6e64d11f1af3626f7e5683798&au=e06dd59c90964d079709ce170883ecd8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3
   }
  ],
  "deku_checked": "2026-11-24T09:27:26+00:00",
  "deals": [
+  {
+   "id": "cf4b90936e42",
+   "title": "Final Fantasy VII: Rebirth (Switch 2)",
+   "price": 24.0,
+   "old_price": 50.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 24.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    },
+    {
+     "store": "Walmart",
+     "price": 24.88,
+     "url": "https://www.walmart.com/ip/19492359868"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22558506.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-24T10:18:36+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "ee48478f7ef8",
    "title": "Costco Members: 2-Pack Pokémon TCG: Perfect Order Elite Trainer Box + Booster Bundle",
@@ -3383,36 +3413,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-23T22:20:36+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "cf4b90936e42",
-   "title": "Final Fantasy VII: Rebirth (Switch 2)",
-   "price": 24.0,
-   "old_price": 50.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 24.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&tid=20367879&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=2e9f4bf6e64d11f18a050ad5c2e4b0a5&au=89a00cbbf68b4cb7b6f205d9b5d6a0a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    },
-    {
-     "store": "Walmart",
-     "price": 24.88,
-     "url": "https://www.walmart.com/ip/19492359868"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/22533447.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-23T21:10:02+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11845,7 +11845,7 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "Q4CB0BWP",
+   "code": "BASEUSAM52",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20322684&pno=1372746&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=638fda68e7ee11f1bed57a25e8b8752c&au=b907604b609842fc9813fc3d46ada2b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -13910,6 +13910,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376612&pno=1372194&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d4a4a830e77d11f1bee68e5bc8f9eeb2&au=4595b37f569b4f39bddb580856d00988&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T20:38:25+00:00",
    "real_price": 40.76,
@@ -14339,8 +14342,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4dfb3b96e7f011f1a84306b2793bd035&au=47b89b11f0a04f3185da45551621f203&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T10:17:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1681d94e7f011f1b50706b2793bd035&au=4841598e896d44d0adb3bca7499ed454&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T10:22:25+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15156,8 +15159,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4f8e4408e7f011f1bf343e9a85a06e1e&au=786e13085b854dde843bcd3bb2240314&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T10:17:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f2a1363ce7f011f183df6636fa90d852&au=d45e69a45ad44c03a3edffd7e8f1db62&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T10:22:27+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16258,7 +16261,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "Q4CB0BWP",
+   "code": "BASEUSAM52",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19299,8 +19302,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4f8e4408e7f011f1bf343e9a85a06e1e&au=786e13085b854dde843bcd3bb2240314&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4f8e4408e7f011f1bf343e9a85a06e1e&au=786e13085b854dde843bcd3bb2240314&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f2a1363ce7f011f183df6636fa90d852&au=d45e69a45ad44c03a3edffd7e8f1db62&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f2a1363ce7f011f183df6636fa90d852&au=d45e69a45ad44c03a3edffd7e8f1db62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -19316,7 +19319,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4f8e4408e7f011f1bf343e9a85a06e1e&au=786e13085b854dde843bcd3bb2240314&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f2a1363ce7f011f183df6636fa90d852&au=d45e69a45ad44c03a3edffd7e8f1db62&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19483,5 +19486,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T10:18:48+00:00"
+ "updated": "2026-11-24T10:23:19+00:00"
 }
