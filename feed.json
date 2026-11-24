@@ -446,7 +446,7 @@
    "id": "84b4e5b6e8ef",
    "title": "$28.45 Stray, Nintendo Switch Game",
    "price": 28.45,
-   "old_price": 74.0,
+   "old_price": 39.88,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -458,9 +458,9 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T05:55:24+00:00",
+   "checked_at": "2026-11-24T11:57:06+00:00",
    "real_price": 28.45,
-   "real_old": 74.0,
+   "real_old": 39.88,
    "category_ok": true
   },
   {
@@ -3363,7 +3363,7 @@
    "id": "26fa2776f996",
    "title": "Stray, Nintendo Switch Game",
    "price": 28.45,
-   "old_price": 74.0,
+   "old_price": 39.88,
    "store": "Walmart",
    "store_url": "https://www.walmart.com/ip/10498109572",
    "url": "https://www.walmart.com/ip/10498109572",
@@ -11386,6 +11386,41 @@
  ],
  "news": [
   {
+   "id": "aldia-6c2444adf5",
+   "title": "Wave Race: Blue Storm llega a Switch 2 para suscriptores de Nintendo Switch Online",
+   "summary": "Nintendo añade a su catálogo de GameCube un clásico de carreras de motos de agua para Switch 2. Sus circuitos cambian el clima en plena carrera.",
+   "lang": "es",
+   "source": "Nintendo",
+   "url": "https://aldiard.com/n/6c2444adf5.html",
+   "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+   "posted": "2026-11-24T11:53:46.180940+00:00",
+   "video": null,
+   "es": {
+    "title": "Wave Race: Blue Storm llega a Switch 2 para suscriptores de Nintendo Switch Online",
+    "summary": "Nintendo añade a su catálogo de GameCube un clásico de carreras de motos de agua para Switch 2. Sus circuitos cambian el clima en plena carrera.",
+    "body": [
+     "Nintendo añadió a la aplicación Nintendo GameCube – Nintendo Classics de Switch 2 el juego Wave Race: Blue Storm. La novedad está disponible para los suscriptores de Nintendo Switch Online + Paquete de expansión, según la propia compañía.",
+     "El título es de carreras con motos de agua y fue lanzado en 2001. Es la secuela de Wave Race 64, de Nintendo 64, y la tercera entrega de una saga que comenzó con Wave Race en Game Boy. Según Vandal, en España el juego llegó en 2002.",
+     "El juego permite competir contra tres amigos, buscar atajos para reducir tiempos y usar una función de turbo. Incluye ocho circuitos, ocho personajes y tres niveles de dificultad, además de modos como Campeonato y Maniobras, donde se ejecutan saltos y trucos.",
+     "Una de sus características principales es el clima variable. Las condiciones pueden cambiar durante una carrera y afectar la visibilidad, el nivel del agua y la altura de las olas. Nintendo describe esta mecánica como una experiencia basada en las olas que obliga al jugador a estar siempre atento.",
+     "Nintendo Switch Online + Paquete de expansión también ofrece juegos de Nintendo 64, Mega Drive, Game Boy Advance y Virtual Boy. En Switch 2, la suscripción incluye además títulos de GameCube como Star Fox Adventures, Super Mario Sunshine y Pokémon XD: Tempestad Oscura."
+    ],
+    "url": "https://aldiard.com/n/6c2444adf5.html"
+   },
+   "en": {
+    "title": "Wave Race: Blue Storm Arrives on Switch 2 for Nintendo Switch Online Members",
+    "summary": "Nintendo adds a GameCube racing classic to Switch 2, where the weather can change mid-race. Here's what subscribers get.",
+    "body": [
+     "Nintendo has added Wave Race: Blue Storm to the Nintendo GameCube – Nintendo Classics app on Switch 2. The game is available to Nintendo Switch Online + Expansion Pack subscribers, according to the company.",
+     "The jet-ski racing game was released in 2001. It is the sequel to Wave Race 64 on Nintendo 64 and the third entry in a series that began with Wave Race on Game Boy. According to Vandal, the game arrived in Spain in 2002.",
+     "Players can race against three friends, look for shortcuts to cut their times, and use a turbo function. The game includes eight courses, eight characters, and three difficulty levels, along with modes such as Championship and Maneuvers, where players perform jumps and tricks.",
+     "One of its main features is variable weather. Conditions can change during a race and affect visibility, water levels, and wave height. Nintendo describes the experience as wave-based, requiring players to stay alert at all times.",
+     "Nintendo Switch Online + Expansion Pack also includes games from Nintendo 64, Mega Drive, Game Boy Advance, and Virtual Boy. On Switch 2, the membership adds GameCube titles such as Star Fox Adventures, Super Mario Sunshine, and Pokémon XD: Gale of Darkness."
+    ],
+    "url": "https://aldiard.com/en/n/6c2444adf5.html"
+   }
+  },
+  {
    "id": "aldia-900d025d0a",
    "title": "Así quedaron los campeones del Pokémon Latin America International Championships 2027",
    "summary": "Los mejores entrenadores de Latinoamérica ya tienen sus nombres. El torneo inaugural de la temporada 2027 se disputó en São Paulo, Brasil.",
@@ -11870,18 +11905,6 @@
    "url": "https://www.youtube.com/watch?v=MnW00Oo7Gs8",
    "image": "https://i.ytimg.com/vi/MnW00Oo7Gs8/hqdefault.jpg",
    "posted": "2026-11-13T21:00:50+00:00"
-  },
-  {
-   "id": "810042c8d147",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – Overview Trailer",
-   "summary": "The Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy Upgrade Pack is also available. Take on the challenges in the new mode, Dandori Academy, and unlock in-game rewards! Plus, check out improved visuals and give commands to your loyal pup, Oatchi, using the built-in microphone on the Nintendo Switch 2 system.",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=FOqxuzEr4R4",
-   "image": "https://i.ytimg.com/vi/FOqxuzEr4R4/hqdefault.jpg",
-   "posted": "2026-11-12T15:00:22+00:00"
   }
  ],
  "raw_tech": [
@@ -11902,6 +11925,24 @@
    "checked_at": "2026-11-24T11:36:32+00:00",
    "real_price": 349.99,
    "real_old": 599.99
+  },
+  {
+   "id": "t3ecfaf657f2",
+   "title": "$204.99 | COWAY Airmega Mighty2 Air Purifier at Amazon",
+   "price": 204.99,
+   "old_price": 269.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385330-204-99-coway-airmega-mighty2-air-purifier-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22559319.thumb",
+   "posted": "2026-11-24T11:08:40+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T11:58:00+00:00",
+   "real_price": 204.99,
+   "real_old": 269.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385330&tid=20385330&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=4b5f02ece7fe11f1a15e664236605cd6&au=abcc42be627e43d3afa35c28d4a74260&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t1c7360e51c2",
@@ -12012,10 +12053,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384817&tid=20384817&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a4f66814e7fd11f181c62e7fc0556dec&au=b4eec33d9c0148dca7a0e517f95ae491&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T11:53:21+00:00",
    "real_price": 39.99,
-   "real_old": 84.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384817&tid=20384817&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a4f66814e7fd11f181c62e7fc0556dec&au=b4eec33d9c0148dca7a0e517f95ae491&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 84.99
   },
   {
    "id": "t907edc524d6",
@@ -14535,8 +14576,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6af3064e7fd11f1b8640e22f5754784&au=afe6dd6b57ab4d448bcc9d82877bf371&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T11:53:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cc6dddae7fe11f1a8106acf27e32b71&au=e5dded5d21f04f7d934005f0462f1e4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T11:58:03+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -15372,8 +15413,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a8416834e7fd11f1b92f9ab27e0d7e36&au=bcd1c25b1fbf47f795e2bd43859349a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T11:53:26+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4eae5fece7fe11f1a0d60e22f5754784&au=95fc49190b5e46b9bbd45bd5edaabdd9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T11:58:05+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16274,23 +16315,6 @@
    "checked_at": "2026-11-23T21:54:35+00:00",
    "real_price": 239.0,
    "real_old": 458.0
-  },
-  {
-   "id": "tb4460902778",
-   "title": "The Real Ghostbusters Animated Series: Volumes 1-10 (1986) (Digital SD TV Show) $10",
-   "price": 9.99,
-   "old_price": 230.84,
-   "store": "Fandango At Home",
-   "url": "https://slickdeals.net/f/20364441-fandango-at-home-real-ghostbusters-complete-series-volumes-1-10-digital-9-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22534500.thumb",
-   "posted": "2026-11-23T08:41:53+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-23T11:15:35+00:00",
-   "real_price": 9.99,
-   "real_old": 230.84
   }
  ],
  "tech": [
@@ -19507,8 +19531,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a8416834e7fd11f1b92f9ab27e0d7e36&au=bcd1c25b1fbf47f795e2bd43859349a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a8416834e7fd11f1b92f9ab27e0d7e36&au=bcd1c25b1fbf47f795e2bd43859349a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4eae5fece7fe11f1a0d60e22f5754784&au=95fc49190b5e46b9bbd45bd5edaabdd9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4eae5fece7fe11f1a0d60e22f5754784&au=95fc49190b5e46b9bbd45bd5edaabdd9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -19524,10 +19548,10 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a8416834e7fd11f1b92f9ab27e0d7e36&au=bcd1c25b1fbf47f795e2bd43859349a4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4eae5fece7fe11f1a0d60e22f5754784&au=95fc49190b5e46b9bbd45bd5edaabdd9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-24T11:54:19+00:00"
+ "updated": "2026-11-24T11:59:03+00:00"
 }
