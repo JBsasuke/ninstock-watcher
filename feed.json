@@ -10,17 +10,17 @@
    "kind": "merch",
    "collector": false,
    "url": "https://slickdeals.net/f/20390181-pokemon-tcg-destined-rivals-etb-75-44?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/4/7/5/1/2/300x300/22572465.thumb",
    "posted": "2026-11-24T23:01:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T23:05:13+00:00",
-   "category_ok": false,
-   "real_price": 75.44,
-   "real_old": 120.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80ff1f42e85b11f1bd3d52a93c12b4af&au=23e42684bd1a4ef1a040f9264bc72e89&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T23:05:13+00:00",
+   "real_price": 75.44,
+   "real_old": 120.0,
+   "category_ok": false
   },
   {
    "id": "df693039d0f3",
@@ -31,17 +31,17 @@
    "kind": "merch",
    "collector": false,
    "url": "https://slickdeals.net/f/20390181-pokemon-tcg-destined-rivals-etb-75-44?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/4/7/5/1/2/300x300/22572465.thumb",
    "posted": "2026-11-24T23:01:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T23:05:15+00:00",
-   "category_ok": false,
-   "real_price": 75.44,
-   "real_old": 120.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82193412e85b11f1850a7e20dcc2ad43&au=bfb1f0879f3e4a52b8c17ef3adbfb52a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T23:05:15+00:00",
+   "real_price": 75.44,
+   "real_old": 120.0,
+   "category_ok": false
   },
   {
    "id": "bce9c498a70f",
@@ -11750,6 +11750,24 @@
    "real_old": 249.0
   },
   {
+   "id": "tff79596b153",
+   "title": "34L adidas Excel School Backpack w/ 16\" Laptop Sleeve (Grey) $17.85",
+   "price": 17.83,
+   "old_price": 21.1,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20384556-17-83-adidas-excel-backpack-34l-16-laptop-sleeve-multiple-pockets-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22557387.thumb",
+   "posted": "2026-11-24T23:06:50+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T23:10:45+00:00",
+   "real_price": 17.83,
+   "real_old": 21.1,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&pno=1373286&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=470a1070e85c11f19d199668c4e04009&au=3cd5b45b1ee34be1a109324cb786517c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t67f793e8e15",
    "title": "Acer Nitro V Laptop: Intel Core 7 240H, 16\" WUXGA 165Hz, RTX 5060, 16GB RAM $1050 + Free S&H",
    "price": 1049.99,
@@ -12025,6 +12043,24 @@
    "checked_at": "2026-11-24T20:48:00+00:00",
    "real_price": 9.0,
    "real_old": 19.88
+  },
+  {
+   "id": "t3530bdcb494",
+   "title": "$132.57* | BOSCH GXS18V-11N25 CORE18V Starter Kit (2) 4.0Ah Batteries & Charger at Amazon",
+   "price": 132.57,
+   "old_price": 245.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389338-132-57-bosch-gxs18v-11n25-core18v-starter-kit-2-4-0ah-batteries-charger-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22570338.thumb",
+   "posted": "2026-11-24T20:35:06+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-24T23:10:47+00:00",
+   "real_price": 132.57,
+   "real_old": 245.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389338&tid=20389338&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=48280dd6e85c11f1a01e7ab09e679b66&au=85b2baf7df0a4138bd641a306880f254&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t552183b4b8b",
@@ -12388,10 +12424,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388777&tid=20388777&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a52abac0e85b11f1aee8d62a03b18558&au=e95dfd3d4c8b4810968d34665456c91e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T23:06:14+00:00",
    "real_price": 35.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388777&tid=20388777&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a52abac0e85b11f1aee8d62a03b18558&au=e95dfd3d4c8b4810968d34665456c91e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "t1038a11763f",
@@ -15612,8 +15648,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a6a9889ae85b11f199d9f6389cdd4239&au=aa81899f8d1a423991695fdbd61d7776&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T23:06:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=49b1ec26e85c11f19f2476db4c307c39&au=4864fbd7d8454c848b301cc2df68221b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T23:10:50+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16103,42 +16139,6 @@
    "checked_at": "2026-11-24T12:53:59+00:00",
    "real_price": 739.0,
    "real_old": 899.0
-  },
-  {
-   "id": "t1d7b265025a",
-   "title": "US Mobile - Black Friday Deal - 18 months of Unlimited Premium $288 / Googe Pixel 11 Pro $299 w/ Plan",
-   "price": 288.0,
-   "old_price": 585.0,
-   "store": "US Mobile",
-   "url": "https://slickdeals.net/f/20381781-us-mobile-black-friday-deal-18-months-of-unlimited-premium-288-googe-pixel-11-pro-299-w-plan?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/2/1/8/8/0/9/1/300x300/22551252.thumb",
-   "posted": "2026-11-24T00:29:56+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+US+Mobile&sdtid=20381781&tid=20381781&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=980d6958e79f11f192d5e24b215b1704&au=f28679b4c539492a9c5ee8832eff4304&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:40:06+00:00",
-   "real_price": 288.0,
-   "real_old": 585.0
-  },
-  {
-   "id": "ta8666d1353b",
-   "title": "$54.95 Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones for Sports (in 2 colors)",
-   "price": 54.95,
-   "old_price": 60.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20381703-54-95-shokz-openmove-bone-conduction-wireless-bluetooth-headphones-for-sports-in-2-colors?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
-   "posted": "2026-11-24T00:20:07+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/571079221",
-   "checked_at": "2026-11-24T01:34:14+00:00",
-   "real_price": 54.95,
-   "real_old": 60.0
   }
  ],
  "tech": [
@@ -16166,6 +16166,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tff79596b153",
+   "title": "34L adidas Excel School Backpack",
+   "price": 17.83,
+   "old_price": 21.1,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&pno=1373286&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=470a1070e85c11f19d199668c4e04009&au=3cd5b45b1ee34be1a109324cb786517c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&pno=1373286&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=470a1070e85c11f19d199668c4e04009&au=3cd5b45b1ee34be1a109324cb786517c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22557387.thumb",
+   "posted": "2026-11-24T23:06:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 17.83,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&pno=1373286&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=470a1070e85c11f19d199668c4e04009&au=3cd5b45b1ee34be1a109324cb786517c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16430,6 +16457,33 @@
      "store": "Walmart",
      "price": 9.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373930&pno=1373157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=55e81f6ae84811f1b381725e37dd070f&au=871aca232b384dbfb282f8f3e92d21e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3530bdcb494",
+   "title": "BOSCH GXS18V-11N25 CORE18V Starter Kit (2) 4.0Ah Batteries & Charger",
+   "price": 132.57,
+   "old_price": 245.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389338&tid=20389338&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=48280dd6e85c11f1a01e7ab09e679b66&au=85b2baf7df0a4138bd641a306880f254&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389338&tid=20389338&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=48280dd6e85c11f1a01e7ab09e679b66&au=85b2baf7df0a4138bd641a306880f254&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22570338.thumb",
+   "posted": "2026-11-24T20:35:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 132.57,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389338&tid=20389338&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=48280dd6e85c11f1a01e7ab09e679b66&au=85b2baf7df0a4138bd641a306880f254&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19321,55 +19375,7 @@
      "url": "https://www.walmart.com/ip/921623760"
     }
    ]
-  },
-  {
-   "id": "t777acd17083",
-   "title": "512GB 13\" Apple iPad Pro M5 Chip Wi-Fi Tablet (Silver) + Free S&H",
-   "price": 1349.0,
-   "old_price": 1699.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376018&pno=1372518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=422bdd6ee7b611f18e8fced9e43f0538&au=429bc1d043b646cc8a580c7a19617995&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376018&pno=1372518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=422bdd6ee7b611f18e8fced9e43f0538&au=429bc1d043b646cc8a580c7a19617995&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22553691.thumb",
-   "posted": "2026-11-24T03:20:45+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1349.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376018&pno=1372518&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=422bdd6ee7b611f18e8fced9e43f0538&au=429bc1d043b646cc8a580c7a19617995&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "ta85810af93e",
-   "title": "Extra 15% Off: Pre-Black Friday Doorbusters",
-   "price": null,
-   "old_price": null,
-   "store": "Ashford",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&tid=20382876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bcce1e9ae80311f180859ab27e0d7e36&au=81f0aca7dd2f43ea8b135e24a38e5e3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&tid=20382876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bcce1e9ae80311f180859ab27e0d7e36&au=81f0aca7dd2f43ea8b135e24a38e5e3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22553412.thumb",
-   "posted": "2026-11-24T02:52:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "PRE15",
-   "code_until": null,
-   "promo": "Extra 15% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-24T23:07:08+00:00"
+ "updated": "2026-11-24T23:11:40+00:00"
 }
