@@ -1972,7 +1972,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375085&tid=20375085&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=95cecc74e7ac11f18cbaced9e43f0538&au=b97565151a81493180e8d3fa0c66b23f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T14:16:43+00:00",
+   "checked_at": "2026-11-24T20:16:52+00:00",
    "real_price": 30.0,
    "real_old": 50.0,
    "category_ok": true
@@ -2568,7 +2568,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367846&pno=1371417&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=040dbed8e6e611f1beaa827564c16f86&au=ddf0b41933aa4511bb0081f21cd0a604&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T14:16:36+00:00",
+   "checked_at": "2026-11-24T20:16:45+00:00",
    "real_price": 24.99,
    "real_old": 29.99,
    "category_ok": true
@@ -2589,7 +2589,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369496&pno=1371270&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0552237ee6e611f1acab3e74b4cca950&au=6bd81b40e87f4adba1653395d84209c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T14:16:38+00:00",
+   "checked_at": "2026-11-24T20:16:48+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -2733,7 +2733,7 @@
    "posted": "2026-11-22T13:22:59+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T14:16:40+00:00",
+   "checked_at": "2026-11-24T20:16:50+00:00",
    "category_ok": true,
    "real_price": 29.99,
    "real_old": 49.99,
@@ -11856,6 +11856,42 @@
    "real_old": 249.0
   },
   {
+   "id": "t30a9c2ccbbd",
+   "title": "Lenovo Wireless Headphone 2000 Over Ear Bluetooth Headphones $20",
+   "price": 19.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20384631-19-99-lenovo-wireless-headphone-2000-over-ear-bluetooth-headphones-with-40-mm-drivers-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22557570.thumb",
+   "posted": "2026-11-24T20:16:09+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-24T20:17:47+00:00",
+   "real_price": 19.99,
+   "real_old": 39.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384631&pno=1373139&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=1d32bb70e84411f1b14bc201a6b7009c&au=31f0c954598c4fb0bbb7cee4a1c5aa90&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tb6dd0fdd25d",
+   "title": "Samsung EPP/EDU: 65\" Neo QLED QN90H 4K 144Hz Mini LED TV + Music Studio 5 Speaker $1080 & More + Free S&H",
+   "price": 1079.99,
+   "old_price": 1499.98,
+   "store": "Samsung",
+   "url": "https://slickdeals.net/f/20380755-epp-edu-samsung-neo-qled-qn90h-4k-144hz-mini-led-smart-tv-music-studio-smart-speaker-65-1080-75-1350-85-1800-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548957.thumb",
+   "posted": "2026-11-24T20:12:30+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-24T20:17:49+00:00",
+   "real_price": 1079.99,
+   "real_old": 1499.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t23e6b4b56ca",
    "title": "27\" MSI PRO MP273Q E7 Monitor + MAG MT201 Desk Mount $40 & More + Free S&H",
    "price": 40.0,
@@ -12868,6 +12904,24 @@
    "real_old": 59.99
   },
   {
+   "id": "t8ed59b7983f",
+   "title": "Ryobi One+ HP 18V Brushless Cordless Compact Router (Tool Only) $79",
+   "price": 79.0,
+   "old_price": 129.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20386641-ryobi-one-hp-18v-brushless-cordless-compact-router-tool-only-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22563267.thumb",
+   "posted": "2026-11-24T14:33:48+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T20:17:51+00:00",
+   "real_price": 79.0,
+   "real_old": 129.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20386641&tid=20386641&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1fc5316ae84411f18d1c725e37dd070f&au=ca62ed43720b434e8f8f232971bb58ea&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t398714bfda1",
    "title": "Gruv's Black Friday Holiday 4K Movies: Dr. Seuss' How the Grinch Stole Christmas!, Charlie Brown: A Charlie Brown Thanksgiving, Frosty the Snowman $9.99 or Less & More",
    "price": 9.99,
@@ -13194,6 +13248,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15011,8 +15068,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=705579f6e84311f19f4d3295aa46e244&au=047831eea58b4c2482378558ed6e0c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T20:12:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=21280ae6e84411f19897725e37dd070f&au=0716975d06e747b49bd036a3103ee9aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T20:17:54+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16175,63 +16232,6 @@
    "checked_at": "2026-11-24T01:43:16+00:00",
    "real_price": 99.99,
    "real_old": 149.99
-  },
-  {
-   "id": "td942765bfb3",
-   "title": "3' 100W Baseus 2-in-1 Retractable USB-C Cable w/ 2.5W Apple Watch Wireless Charger $13.50 & More",
-   "price": 13.49,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336325-3-100w-baseus-2-in-1-retractable-usb-c-cable-w-2-5w-apple-watch-wireless-charger-13-49-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22426299.thumb",
-   "posted": "2026-11-23T21:35:37+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "UWZQRJFQ",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336325&pno=1372260&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5bb5b6cce78611f191a88af2fbc4f239&au=15ef2d8b86b746b293ba67c94daae938&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T21:39:27+00:00",
-   "real_price": 13.49,
-   "real_old": 29.99
-  },
-  {
-   "id": "tc69e6182576",
-   "title": "Simzlife 130 Can Beverage Refrigerator with Glass Door for Home w Auto Defrost Feature $165.28",
-   "price": 165.28,
-   "old_price": 347.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20380773-simzlife-130-can-beverage-refrigerator-with-glass-door-for-home-w-auto-defrost-feature-165-28?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22549017.thumb",
-   "posted": "2026-11-23T21:29:48+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/1231635726",
-   "checked_at": "2026-11-24T01:25:08+00:00",
-   "real_price": 165.28,
-   "real_old": 347.99
-  },
-  {
-   "id": "t168733bed77",
-   "title": "[EPP/EDU] Samsung Neo QLED QN90H 4K 144Hz Mini LED Smart TV + Music Studio Smart Speaker: 65\" $1080; 75\" $1350; 85\" $1800 + Free S/H",
-   "price": 1080.0,
-   "old_price": 1500.0,
-   "store": "Samsung",
-   "url": "https://slickdeals.net/f/20380755-epp-edu-samsung-neo-qled-qn90h-4k-144hz-mini-led-smart-tv-music-studio-smart-speaker-65-1080-75-1350-85-1800-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548957.thumb",
-   "posted": "2026-11-23T21:26:15+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&tid=20380755&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6a50832e79e11f181a9ee61e834f305&au=73419740f1ee48efbe458be7476e7f8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T00:35:35+00:00",
-   "real_price": 1080.0,
-   "real_old": 1500.0
   }
  ],
  "tech": [
@@ -16259,6 +16259,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb6dd0fdd25d",
+   "title": "Samsung EPP/EDU: 65\" Neo QLED QN90H 4K 144Hz Mini LED TV + Music Studio 5 Speaker & More + Free S&H",
+   "price": 1079.99,
+   "old_price": 1499.98,
+   "store": "Samsung",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548957.thumb",
+   "posted": "2026-11-24T20:12:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Samsung",
+     "price": 1079.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17439,7 +17466,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18908,8 +18935,8 @@
    "price": 4.0,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=705579f6e84311f19f4d3295aa46e244&au=047831eea58b4c2482378558ed6e0c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=705579f6e84311f19f4d3295aa46e244&au=047831eea58b4c2482378558ed6e0c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=21280ae6e84411f19897725e37dd070f&au=0716975d06e747b49bd036a3103ee9aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=21280ae6e84411f19897725e37dd070f&au=0716975d06e747b49bd036a3103ee9aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22553316.thumb",
    "posted": "2026-11-24T02:47:32+00:00",
    "kind": "tech",
@@ -18925,7 +18952,7 @@
     {
      "store": "Amazon",
      "price": 4.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=705579f6e84311f19f4d3295aa46e244&au=047831eea58b4c2482378558ed6e0c10&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=21280ae6e84411f19897725e37dd070f&au=0716975d06e747b49bd036a3103ee9aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19441,34 +19468,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381526&tid=20381526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=be03f9d8e80311f1a460d280f369f2fc&au=ff2441867ac94f1c80c28aa90b57ac12&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t5627c328a5a",
-   "title": "ASUS ROG XG27AQNGV 27 Inch 1440p 360Hz IPS G-SYNC Pulsar Gaming Monitor",
-   "price": 349.99,
-   "old_price": 599.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381508&tid=20381508&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=354438bee7e611f1993806b2793bd035&au=308e647ee7eb43c9a7f5212de75b8196&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381508&tid=20381508&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=354438bee7e611f1993806b2793bd035&au=308e647ee7eb43c9a7f5212de75b8196&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22550667.thumb",
-   "posted": "2026-11-23T23:48:32+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 349.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381508&tid=20381508&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=354438bee7e611f1993806b2793bd035&au=308e647ee7eb43c9a7f5212de75b8196&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T20:13:56+00:00"
+ "updated": "2026-11-24T20:18:48+00:00"
 }
