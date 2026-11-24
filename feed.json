@@ -14,13 +14,13 @@
    "posted": "2026-11-24T06:06:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T06:09:05+00:00",
-   "category_ok": true,
-   "real_price": 17.97,
-   "real_old": 76.0,
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T06:09:05+00:00",
+   "real_price": 17.97,
+   "real_old": 76.0,
+   "category_ok": true
   },
   {
    "id": "4f6a03202f19",
@@ -35,13 +35,13 @@
    "posted": "2026-11-24T06:06:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T06:09:07+00:00",
-   "category_ok": true,
-   "real_price": 17.97,
-   "real_old": 76.0,
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T06:09:07+00:00",
+   "real_price": 17.97,
+   "real_old": 76.0,
+   "category_ok": true
   },
   {
    "id": "8f2b97e15460",
@@ -236,7 +236,7 @@
    "id": "a7171c289b71",
    "title": "$28.45 Stray, Nintendo Switch Game",
    "price": 28.45,
-   "old_price": 74.0,
+   "old_price": 39.88,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -248,16 +248,16 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T00:11:54+00:00",
+   "checked_at": "2026-11-24T06:13:44+00:00",
    "real_price": 28.45,
-   "real_old": 74.0,
+   "real_old": 39.88,
    "category_ok": true
   },
   {
    "id": "602f464b0272",
    "title": "$28.45 Stray, Nintendo Switch Game",
    "price": 28.45,
-   "old_price": 74.0,
+   "old_price": 39.88,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -269,9 +269,9 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T00:11:57+00:00",
+   "checked_at": "2026-11-24T06:13:46+00:00",
    "real_price": 28.45,
-   "real_old": 74.0,
+   "real_old": 39.88,
    "category_ok": true
   },
   {
@@ -308,13 +308,13 @@
    "posted": "2026-11-24T00:07:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T06:09:09+00:00",
-   "category_ok": true,
-   "real_price": 28.45,
-   "real_old": 39.88,
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T06:09:09+00:00",
+   "real_price": 28.45,
+   "real_old": 39.88,
+   "category_ok": true
   },
   {
    "id": "d83dff78d02d",
@@ -329,13 +329,13 @@
    "posted": "2026-11-24T00:07:23+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T06:09:11+00:00",
-   "category_ok": true,
-   "real_price": 28.45,
-   "real_old": 39.88,
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-24T06:09:11+00:00",
+   "real_price": 28.45,
+   "real_old": 39.88,
+   "category_ok": true
   },
   {
    "id": "b78e1fc59a34",
@@ -1909,7 +1909,7 @@
   {
    "id": "25d9f655855d",
    "title": "GameStop Pro Members: Pre-Owned Video Games (PS5, Xbox, Switch 2 & More) Buy 2 Get 1 Free + Free S&H on $54+",
-   "price": 60.0,
+   "price": 59.0,
    "old_price": null,
    "store": "GameStop",
    "kind": "game",
@@ -1922,8 +1922,8 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+GameStop&sdtid=20367735&pno=1371165&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb5188fae6bf11f1bff5463c55730e04&au=cd643a23ff144836b29aef8b652c4d78&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T04:11:42+00:00",
-   "real_price": 60.0,
+   "checked_at": "2026-11-24T06:13:48+00:00",
+   "real_price": 59.0,
    "real_old": null,
    "category_ok": true
   },
@@ -11823,10 +11823,10 @@
    "code": "WB2026MV24",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20197590&pno=1372506&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b1ccb80ce7cd11f1ba42021f840d60d5&au=ce2dc6678371473ea34fd9d7ced26895&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T06:10:06+00:00",
    "real_price": 60.0,
-   "real_old": 146.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20197590&pno=1372506&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b1ccb80ce7cd11f1ba42021f840d60d5&au=ce2dc6678371473ea34fd9d7ced26895&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 146.99
   },
   {
    "id": "t2ffbc5ed3d0",
@@ -12102,6 +12102,24 @@
    "real_old": 54.89
   },
   {
+   "id": "ta9f785ea991",
+   "title": "$105 FS Lowes Blink Outdoor 4 - Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk, Sync Module Core included - 5 camera",
+   "price": 137.0,
+   "old_price": 138.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20382882-105-fs-lowes-blink-outdoor-4-wireless-smart-security-camera-two-year-battery-life-1080p-hd-day-and-infrared-night-live-view-two-way-talk-sync-module-core-included-5-camera?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22553442.thumb",
+   "posted": "2026-11-24T02:54:41+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-24T06:14:43+00:00",
+   "real_price": 137.0,
+   "real_old": 138.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20382882&tid=20382882&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=567ca330e7ce11f1a7f2021f840d60d5&au=c8c4559375fd45929223c172d6357d1f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta3682cc1141",
    "title": "SmallRig 4121 Universal Smartphone Video Cage with Handles $47.99 + Free Shipping",
    "price": 47.99,
@@ -12172,6 +12190,24 @@
    "checked_at": "2026-11-24T02:23:21+00:00",
    "real_price": 119.99,
    "real_old": 300.0
+  },
+  {
+   "id": "ta4d300d6453",
+   "title": "ACEMAGIC G3A Mini PC Workstation i9-13900F / RTX 2000 Ada 16GB, 32GB RAM, 1TB SSD $2,099.99 $2099.99",
+   "price": 2099.99,
+   "old_price": 2599.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20382693-acemagic-g3a-mini-pc-workstation-i9-13900f-rtx-2000-ada-16gb-32gb-ram-1tb-ssd-2-099-99-2099-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/6/2/3/8/9/8/300x300/22552893.thumb",
+   "posted": "2026-11-24T02:16:49+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-24T06:14:44+00:00",
+   "real_price": 2099.99,
+   "real_old": 2599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382693&tid=20382693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=57aa0bb2e7ce11f1865d4e0d1baa59a9&au=d0142915c16e4b34b1dc30cd4f15d15f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te319bae5e12",
@@ -12724,6 +12760,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20376606&pno=1372353&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c91b8720e79311f1a1086622a2b90021&au=6c62290adc1c42c3b4e4527a49f5fe83&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-23T23:15:35+00:00",
    "real_price": 37.16,
@@ -13517,6 +13556,27 @@
    "real_old": 109.99
   },
   {
+   "id": "tcea92e0c89b",
+   "title": "Refurb: Dyson V8 Absolute Cordless Vacuum (Silver/Black, Refurbished) $179.99 + Free Shipping",
+   "price": 179.99,
+   "old_price": 589.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20380095-refurb-dyson-v8-absolute-cordless-vacuum-silver-black-refurbished-179-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22547391.thumb",
+   "posted": "2026-11-23T19:49:12+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-24T06:14:46+00:00",
+   "real_price": 179.99,
+   "real_old": 589.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20380095&tid=20380095&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58b169d8e7ce11f19e951210360b3c21&au=dbc5dfb3cd50415099a7e47dae073c50&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc433cb04322",
    "title": "6-pc Astercook Knife Set w/ Block $12.90",
    "price": 12.91,
@@ -13808,8 +13868,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b301ec1ae7cd11f1bc496a0b4436de9c&au=3d250cf66d4d480cb568a449bd7d2d00&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:10:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20379687&tid=20379687&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59d7fe26e7ce11f19dec86d189ebb1ac&au=efa0d371434049f0b858bcf7991a7082&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T06:14:48+00:00",
    "real_price": 3.29,
    "real_old": 32.99
   },
@@ -14607,8 +14667,8 @@
    "code": "2H22ENH6",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b43efb5ee7cd11f19f5edeb54f6a3920&au=31da96fc8468486faab12d558064d06b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:10:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5b463908e7ce11f19d4362192a2e9fa5&au=37e24e8e43f34e368a2f1d377df07b09&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-24T06:14:50+00:00",
    "real_price": 4.75,
    "real_old": 7.0
   },
@@ -16152,63 +16212,6 @@
    "real_price": 7.62,
    "real_old": 29.19,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20371842&pno=1371411&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6f6cb9b8e6e611f1b1beeecb3b0a0284&au=ad022c720f7f4cecab3acf7dc86f2497&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t8a105a295d1",
-   "title": "RYOBI ONE+ 18V Cordless Jig Saw w/ 18V 4Ah HP Battery, 2Ah HP Battery & Charger $99 + Free S&H",
-   "price": 99.0,
-   "old_price": 178.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20352903-ryobi-one-18v-kit-w-4-0-ah-battery-2-0-ah-battery-charger-free-one-cordless-jig-saw-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/300x300/22527840.thumb",
-   "posted": "2026-11-23T00:39:40+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20352903&pno=1371384&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=89ac5cb2e78011f18e5a5e59ab53ac00&au=59ff3827d39e413c9dc2592187f0d33e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:57:48+00:00",
-   "real_price": 99.0,
-   "real_old": 178.0
-  },
-  {
-   "id": "t28e50bd50d9",
-   "title": "101W Lisen Avs Fast Car Charger w/ Built-In 65W Retractable USB-C Cable $18.49 + Free Shipping w/ Prime or on $35+",
-   "price": 18.49,
-   "old_price": 30.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20372562-101w-lisen-avs-fast-car-charger-w-built-in-65w-retractable-usb-c-cable-18-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22527783.thumb",
-   "posted": "2026-11-23T00:34:40+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "checked_at": "2026-11-23T02:34:43+00:00",
-   "real_price": 18.49,
-   "real_old": 30.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372562&tid=20372562&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=70b9a24ae6e611f193528e24669f0999&au=69d4d75eef9f4239a6f552359ad192d3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t0122ca55019",
-   "title": "8.35\" Lisen MagSafe Magnetic Car Phone Mount w/ Flexible Memory Alloy Arm $15",
-   "price": 14.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336967-8-35-lisen-magsafe-magnetic-car-phone-mount-w-flexible-memory-alloy-arm-dashboard-suction-black-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22527825.thumb",
-   "posted": "2026-11-23T00:34:28+00:00",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "prio": 15,
-   "refurb": false,
-   "code": "X223A9CO",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336967&pno=1371372&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b19e786e78011f18565520b16fb8673&au=31852bda54c64bcf8d4cdd9c62fc6d12&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-23T20:57:50+00:00",
-   "real_price": 14.99,
-   "real_old": 39.99
   }
  ],
  "tech": [
@@ -16533,6 +16536,33 @@
      "store": "Target",
      "price": 119.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20380299&pno=1372470&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0441b6c0e7ae11f18bfbd2623918946f&au=086f6dd9a1224965af6084500599151e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta4d300d6453",
+   "title": "ACEMAGIC G3A Mini PC Workstation i9-13900F / RTX 2000 Ada 16GB, 32GB RAM, 1TB SSD",
+   "price": 2099.99,
+   "old_price": 2599.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382693&tid=20382693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=57aa0bb2e7ce11f1865d4e0d1baa59a9&au=d0142915c16e4b34b1dc30cd4f15d15f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382693&tid=20382693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=57aa0bb2e7ce11f1865d4e0d1baa59a9&au=d0142915c16e4b34b1dc30cd4f15d15f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/6/2/3/8/9/8/300x300/22552893.thumb",
+   "posted": "2026-11-24T02:16:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 2099.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382693&tid=20382693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=57aa0bb2e7ce11f1865d4e0d1baa59a9&au=d0142915c16e4b34b1dc30cd4f15d15f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18675,8 +18705,8 @@
    "price": 4.75,
    "old_price": 7.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b43efb5ee7cd11f19f5edeb54f6a3920&au=31da96fc8468486faab12d558064d06b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b43efb5ee7cd11f19f5edeb54f6a3920&au=31da96fc8468486faab12d558064d06b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5b463908e7ce11f19d4362192a2e9fa5&au=37e24e8e43f34e368a2f1d377df07b09&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5b463908e7ce11f19d4362192a2e9fa5&au=37e24e8e43f34e368a2f1d377df07b09&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22540386.thumb",
    "posted": "2026-11-23T14:59:45+00:00",
    "kind": "tech",
@@ -18692,7 +18722,7 @@
     {
      "store": "Amazon",
      "price": 4.75,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b43efb5ee7cd11f19f5edeb54f6a3920&au=31da96fc8468486faab12d558064d06b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377617&tid=20377617&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5b463908e7ce11f19d4362192a2e9fa5&au=37e24e8e43f34e368a2f1d377df07b09&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19418,34 +19448,7 @@
      "url": "https://www.walmart.com/ip/5127015143"
     }
    ]
-  },
-  {
-   "id": "ta9f245a33f5",
-   "title": "TCL 75\" Class S4-Series 4K UHD HDR Smart Roku TV",
-   "price": 398.0,
-   "old_price": 500.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/20073412709",
-   "url": "https://www.walmart.com/ip/20073412709",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22530795.thumb",
-   "posted": "2026-11-23T05:22:02+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 398.0,
-     "url": "https://www.walmart.com/ip/20073412709"
-    }
-   ]
   }
  ],
- "updated": "2026-11-24T06:10:58+00:00"
+ "updated": "2026-11-24T06:15:35+00:00"
 }
