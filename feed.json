@@ -1360,7 +1360,7 @@
    "store_url": "https://www.walmart.com/ip/19492359868",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T21:18:19+00:00",
+   "checked_at": "2026-11-25T03:18:31+00:00",
    "real_price": 24.88,
    "real_old": 49.99,
    "category_ok": true
@@ -1381,7 +1381,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52c2dd6ee78211f1a3d5be4ed0ec16f4&au=fbf7382c99ab4200aad873cd8f4a793f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T21:18:15+00:00",
+   "checked_at": "2026-11-25T03:18:27+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -1402,7 +1402,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5417526ce78211f194de16b5dfe6cbc7&au=4db4f73b515c4582a77f6f28d3e055e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T21:18:17+00:00",
+   "checked_at": "2026-11-25T03:18:29+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -11610,6 +11610,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t6f1ae123da1",
+   "title": "Prime: Arlo Essential XL 2K Wireless Outdoor Security Camera (2nd Gen) $30 + Free S&H",
+   "price": 29.99,
+   "old_price": 89.16,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20375457-prime-members-arlo-essential-xl-2k-wireless-outdoor-security-camera-2nd-gen-29-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22534773.thumb",
+   "posted": "2026-11-25T03:14:42+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T03:19:25+00:00",
+   "real_price": 29.99,
+   "real_old": 89.16,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375457&pno=1373457&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0442b166e87f11f1b0f9168f93676bec&au=8361f182f4c541faad8b15d54f623f8c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4e0206bee3f",
    "title": "2-Pk DeWALT 2\" x 10' Auto Retractable Ratchet Straps (Black/Yellow) $45 + Free S&H",
    "price": 44.98,
@@ -11622,10 +11640,28 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354295&pno=1373454&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5bc35086e87e11f1b2539a481e94454d&au=2908fe2d826e4d4fae4d7cfb43502e34&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:14:43+00:00",
    "real_price": 44.98,
-   "real_old": 64.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20354295&pno=1373454&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5bc35086e87e11f1b2539a481e94454d&au=2908fe2d826e4d4fae4d7cfb43502e34&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 64.99
+  },
+  {
+   "id": "t54826894bf1",
+   "title": "WM | straight talk Iphone 16e 128GB - $199 and Samsung A27 - $99 | NO PLAN PURCHASE require| Use on existing Line",
+   "price": 199.0,
+   "old_price": 349.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20391429-wm-straight-talk-iphone-16e-128gb-199-and-samsung-a27-99-no-plan-purchase-require-use-on-existing-line?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/6/3/0/0/8/2/300x300/22575366.thumb",
+   "posted": "2026-11-25T02:49:34+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T03:19:28+00:00",
+   "real_price": 199.0,
+   "real_old": 349.0,
+   "store_url": "https://www.walmart.com/ip/14822456361"
   },
   {
    "id": "t3a9d61c2867",
@@ -11766,8 +11802,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5d149b0ce87e11f1b3fdc62e44a7d2a2&au=6c05ba4e51ee4511bc534bb6f7bafe0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:14:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=06d2388ee87f11f1bb3472ce60d6241f&au=710c08691997483db5a82ea95c1cb060&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T03:19:30+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13085,10 +13121,10 @@
    "code": "UL65636",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:14:47+00:00",
    "real_price": 56.99,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.99
   },
   {
    "id": "t690fd43de41",
@@ -14756,10 +14792,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/20699117464",
    "checked_at": "2026-11-25T03:14:51+00:00",
    "real_price": 360.99,
-   "real_old": 816.98,
-   "store_url": "https://www.walmart.com/ip/20699117464"
+   "real_old": 816.98
   },
   {
    "id": "t3ecfaf657f2",
@@ -15135,10 +15171,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384697&tid=20384697&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=619a840ce87e11f18437766b643ec681&au=0962f911435b4bc0bfb0b11361c915e4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:14:53+00:00",
    "real_price": 152.09,
-   "real_old": 299.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384697&tid=20384697&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=619a840ce87e11f18437766b643ec681&au=0962f911435b4bc0bfb0b11361c915e4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 299.99
   },
   {
    "id": "t89176c1542a",
@@ -15994,42 +16030,6 @@
    "checked_at": "2026-11-24T12:49:26+00:00",
    "real_price": 9.99,
    "real_old": 19.98
-  },
-  {
-   "id": "t8c1de3ee607",
-   "title": "MSI Stealth A18 AI+ (2026): 18\" UHD+ 120Hz Mini LED, Ryzen AI 9 365, RTX 5080, 32GB DDR5, 2TB SSD, Win 11 Pro $2899.99",
-   "price": 2899.99,
-   "old_price": 3499.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383440-msi-stealth-a18-ai-2026-18-uhd-120hz-mini-led-ryzen-ai-9-365-rtx-5080-32gb-ddr5-2tb-ssd-win-11-pro-2899-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22574325.thumb",
-   "posted": "2026-11-24T04:30:23+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383440&tid=20383440&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=00af9a80e86d11f1803052a93c12b4af&au=5c8acf5a571443b9a6c21c955e9868c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T01:10:28+00:00",
-   "real_price": 2899.99,
-   "real_old": 3499.99
-  },
-  {
-   "id": "t11d29f274e7",
-   "title": "Microsoft Surface Laptop 7 (2024): 13.8\" IPS 120Hz Touch, Snapdragon X Elite (12 core), 16GB LPDDR5, 256GB SSD, Sapphire $899.99",
-   "price": 899.99,
-   "old_price": 1369.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383428-microsoft-surface-laptop-7-2024-13-8-ips-120hz-touch-snapdragon-x-elite-12-core-16gb-lpddr5-256gb-ssd-sapphire-899-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22554693.thumb",
-   "posted": "2026-11-24T04:27:29+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383428&tid=20383428&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aa08d17ee7ef11f195a03a785a703b11&au=b60d47c5828143119da2fa0888b72888&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T10:13:16+00:00",
-   "real_price": 899.99,
-   "real_old": 1369.99
   }
  ],
  "tech": [
@@ -16057,6 +16057,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t54826894bf1",
+   "title": "WM | straight talk Iphone 16e 128GB - and Samsung A27 - | NO PLAN PURCHASE require| Use on existing Line",
+   "price": 199.0,
+   "old_price": 349.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/14822456361",
+   "url": "https://www.walmart.com/ip/14822456361",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/6/3/0/0/8/2/300x300/22575366.thumb",
+   "posted": "2026-11-25T02:49:34+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 199.0,
+     "url": "https://www.walmart.com/ip/14822456361"
     }
    ]
   },
@@ -19239,34 +19266,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384199&tid=20384199&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=a385b084e82511f1a090a6c50a6f765c&au=f4f1052af3d64ad1aee590f0d4ae3f64&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb7057f58dc1",
-   "title": "Bose QuietComfort Ultra 2nd Gen Wireless Over-Ear Noise Cancelling Headphones (Midnight Violet)",
-   "price": 335.0,
-   "old_price": 449.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384184&tid=20384184&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=d49bfbc2e7e611f1958e4a93657aed19&au=c483e34953484de59099775493c6a00a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384184&tid=20384184&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=d49bfbc2e7e611f1958e4a93657aed19&au=c483e34953484de59099775493c6a00a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22556355.thumb",
-   "posted": "2026-11-24T06:54:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 335.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384184&tid=20384184&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=d49bfbc2e7e611f1958e4a93657aed19&au=c483e34953484de59099775493c6a00a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T03:15:41+00:00"
+ "updated": "2026-11-25T03:20:25+00:00"
 }
