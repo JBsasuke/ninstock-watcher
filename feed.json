@@ -1406,7 +1406,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T11:09:57+00:00",
+   "checked_at": "2026-11-25T17:11:44+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -1427,7 +1427,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7e96df3ee7f611f1bef92e7fc0556dec&au=7ba28ce00ade4f6581f38ca4a2f13771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T11:09:59+00:00",
+   "checked_at": "2026-11-25T17:11:46+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -10949,6 +10949,18 @@
  ],
  "news": [
   {
+   "id": "9f6aa2e7f3e3",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Treat yo' self. 🍩",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/shorts/5_GJqaYbCY4",
+   "image": "https://i.ytimg.com/vi/5_GJqaYbCY4/hqdefault.jpg",
+   "posted": "2026-11-25T17:00:20+00:00"
+  },
+  {
    "id": "aldia-35baa1beca",
    "title": "Pokémon TCG lanza dos colecciones ultra premium por su 30 aniversario",
    "summary": "Pokémon TCG celebra sus 30 años con dos colecciones de día y de noche, cartas promocionales y accesorios.",
@@ -11496,18 +11508,6 @@
    "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
    "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
    "posted": "2026-11-18T20:00:12+00:00"
-  },
-  {
-   "id": "98816c60f14d",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Rayman Legends Retold – \"Dynamite\" Musical Map Trailer – Nintendo Switch 2",
-   "summary": "Are you ready to dance? Get a first look at this brand-new musical level in Rayman Legends Retold, set to a fresh cover of a tune you might recognize!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
-   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
-   "posted": "2026-11-18T17:00:30+00:00"
   }
  ],
  "raw_tech": [
@@ -11533,6 +11533,27 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20341371&pno=1373943&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=c3f25322e8f211f18ad78a35b5b5354a&au=e210f18cd35143e1ab6808a2d3c58756&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
+   "id": "tec3801ad262",
+   "title": "MANSPOT Manscape Rechargeable Wet/Dry Body Hair Trimmer w/ Guards (Black) $19.50",
+   "price": 19.49,
+   "old_price": 49.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20341371-manspot-manscape-rechargeable-wet-dry-body-hair-trimmer-w-guards-black-19-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22587630.thumb",
+   "posted": "2026-11-25T17:04:31+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "B5TATYOM",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T17:12:44+00:00",
+   "real_price": 19.49,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20341371&pno=1373943&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=6dc09580e8f311f191218e7d4d9503e1&au=ca3ce4b0d2bb478fb0af6927dfbfb6ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te371e78524b",
    "title": "Dreame Aqua10 Ultra Roller Robot Vacuum & Mop $500 + Free S&H",
    "price": 499.99,
@@ -11545,10 +11566,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336439&pno=1373940&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c531102ae8f211f1ac82969abbed4a35&au=a7c3b2504932437b897f87121ec59cc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:08:01+00:00",
    "real_price": 499.99,
-   "real_old": 899.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336439&pno=1373940&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c531102ae8f211f1ac82969abbed4a35&au=a7c3b2504932437b897f87121ec59cc2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 899.99
   },
   {
    "id": "t2445d2e5b2c",
@@ -11680,8 +11701,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c69a9fdae8f211f1a2e7be9fe087b803&au=7652f5bf5ce144c88711747d8ae641aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:08:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6f2df5c0e8f311f1b23e8e7d4d9503e1&au=b9be4d552ec8414b9144530e5b60f6b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:12:47+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -11926,8 +11947,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c7cfb854e8f211f1946812522b6589b1&au=af7bf97ef307406f96b16c16bc2afe71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:08:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=707e5fa0e8f311f1a8c73ad295af2816&au=a3c492a0d86b4f96896c3dce733bf142&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:12:49+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14533,8 +14554,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c91692dce8f211f185c566ba697f1a14&au=52703d57bd8c40b48e64153b195a97ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:08:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=71c2c2fce8f311f1bda34aab403ee3ca&au=2059846ca7514d139e8d1548e57e76b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:12:51+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15906,24 +15927,6 @@
    "checked_at": "2026-11-25T15:23:52+00:00",
    "real_price": 3499.99,
    "real_old": 5499.99
-  },
-  {
-   "id": "t6c20e218193",
-   "title": "$150 | MAG 341CQP QD-OLED X28 + MPG MT201R V2 at Amazon",
-   "price": 40.0,
-   "old_price": 199.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389056-150-mag-341cqp-qd-oled-x28-mpg-mt201r-v2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22569651.thumb",
-   "posted": "2026-11-24T19:44:36+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-24T19:56:16+00:00",
-   "real_price": 40.0,
-   "real_old": 199.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&tid=20389056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b5b2a38e84111f1b8d69654d370949e&au=88338357cd2b4b44af08280ba0236c7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -16095,8 +16098,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c69a9fdae8f211f1a2e7be9fe087b803&au=7652f5bf5ce144c88711747d8ae641aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c69a9fdae8f211f1a2e7be9fe087b803&au=7652f5bf5ce144c88711747d8ae641aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6f2df5c0e8f311f1b23e8e7d4d9503e1&au=b9be4d552ec8414b9144530e5b60f6b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6f2df5c0e8f311f1b23e8e7d4d9503e1&au=b9be4d552ec8414b9144530e5b60f6b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16112,7 +16115,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c69a9fdae8f211f1a2e7be9fe087b803&au=7652f5bf5ce144c88711747d8ae641aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6f2df5c0e8f311f1b23e8e7d4d9503e1&au=b9be4d552ec8414b9144530e5b60f6b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16311,8 +16314,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c7cfb854e8f211f1946812522b6589b1&au=af7bf97ef307406f96b16c16bc2afe71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c7cfb854e8f211f1946812522b6589b1&au=af7bf97ef307406f96b16c16bc2afe71&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=707e5fa0e8f311f1a8c73ad295af2816&au=a3c492a0d86b4f96896c3dce733bf142&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=707e5fa0e8f311f1a8c73ad295af2816&au=a3c492a0d86b4f96896c3dce733bf142&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16328,7 +16331,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c7cfb854e8f211f1946812522b6589b1&au=af7bf97ef307406f96b16c16bc2afe71&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=707e5fa0e8f311f1a8c73ad295af2816&au=a3c492a0d86b4f96896c3dce733bf142&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19168,5 +19171,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T17:08:56+00:00"
+ "updated": "2026-11-25T17:13:42+00:00"
 }
