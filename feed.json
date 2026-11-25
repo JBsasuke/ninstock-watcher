@@ -1423,7 +1423,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374854&pno=1372302&prop=diavail-true%7Cdincp-1%7Cdinpd-19%7Cdipgavail-true&pv=a449cc92e78c11f1b08ca63b62af86b5&au=be9920e0d8144618b0a6e119981fae1d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:28:13+00:00",
+   "checked_at": "2026-11-25T04:28:49+00:00",
    "real_price": 19.93,
    "real_old": 24.99,
    "category_ok": true
@@ -11670,10 +11670,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T04:25:03+00:00",
    "real_price": 349.99,
-   "real_old": 479.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 479.99
   },
   {
    "id": "t44fcd625e1d",
@@ -11783,10 +11783,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T04:25:05+00:00",
    "real_price": 479.99,
-   "real_old": 549.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 549.0
   },
   {
    "id": "t6f1ae123da1",
@@ -11891,10 +11891,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T04:25:07+00:00",
    "real_price": 99.0,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.0
   },
   {
    "id": "t3a9d61c2867",
@@ -12053,8 +12053,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=334d34d2e88811f1ba4a9ae49ba7e0e8&au=89c5d748227c467a85575c3daa9bd9b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:25:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=da0c98b2e88811f197e50a39d7a0ecb9&au=09793564c8e945aa813d684f7fd8a068&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T04:29:50+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16220,6 +16220,33 @@
    ]
   },
   {
+   "id": "tb65f409e914",
+   "title": "256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver)",
+   "price": 479.99,
+   "old_price": 549.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22575948.thumb",
+   "posted": "2026-11-25T03:38:03+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 479.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t6ea21880626",
    "title": ": Samsung 65-Inch Class S85H Series, OLED, 4K 120Hz, Smart TV, 2026 Model",
    "price": 899.99,
@@ -16621,33 +16648,6 @@
      "store": "Walmart",
      "price": 19.94,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20375664&pno=1373301&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=26e04e46e86011f1aba8560d8d4006c9&au=58a5505cd11e46ae83f5ebd4f3f8ff26&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t0e8531da990",
-   "title": "256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver) + Free S&H",
-   "price": 479.99,
-   "old_price": 549.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377287&pno=1373295&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=285b04e6e86011f1b127be2498ef3a49&au=5df80fb3d6da445ca11615819e3d4af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377287&pno=1373295&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=285b04e6e86011f1b127be2498ef3a49&au=5df80fb3d6da445ca11615819e3d4af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22555323.thumb",
-   "posted": "2026-11-24T23:33:07+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 479.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377287&pno=1373295&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=285b04e6e86011f1b127be2498ef3a49&au=5df80fb3d6da445ca11615819e3d4af7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19292,5 +19292,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T04:26:00+00:00"
+ "updated": "2026-11-25T04:30:58+00:00"
 }
