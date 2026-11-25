@@ -1061,7 +1061,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:29:21+00:00",
+   "checked_at": "2026-11-25T18:32:46+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1103,7 +1103,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=793203aae83411f1b87b8246bc31b55e&au=9795f51f800e4e42bcc2cba293149030&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T12:31:56+00:00",
+   "checked_at": "2026-11-25T18:32:42+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1124,7 +1124,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7a55e8dce83411f1bdabced9e43f0538&au=2f24cbe67aa44b4cabd89909e69d8987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T12:31:58+00:00",
+   "checked_at": "2026-11-25T18:32:44+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -3198,7 +3198,7 @@
    "expired": true
   }
  ],
- "deku_checked": "2026-11-25T17:30:44+00:00",
+ "deku_checked": "2026-11-25T18:32:47+00:00",
  "deals": [
   {
    "id": "4f5afea1f599",
@@ -4271,6 +4271,11 @@
      "store": "Best Buy",
      "price": 34.99,
      "url": "https://www.bestbuy.com/site/6687866.p?skuId=6687866"
+    },
+    {
+     "store": "Walmart",
+     "price": 34.99,
+     "url": "https://www.walmart.com/ip/20763517330"
     },
     {
      "store": "GameStop",
@@ -6694,15 +6699,15 @@
    "release_date": "2026-11-25",
    "collector": false,
    "offers": [],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-25T17:30:44+00:00",
-   "game_key": true,
-   "nintendo": false,
+   "publisher": "Systemsoft beta",
    "digital": {
     "price": 59.99,
     "url": "https://www.nintendo.com/us/store/products/daisenryaku-ssb-2-switch-2/"
    },
-   "publisher": "Systemsoft beta",
-   "offers_checked": "2026-11-25T17:31:02+00:00"
+   "game_key": true,
+   "nintendo": false
   },
   {
    "id": "deku-gothic-3",
@@ -6996,7 +7001,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -7028,7 +7033,7 @@
      "url": "https://www.gamestop.com/products/shrek-2-remastered/454733.html"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -7055,7 +7060,7 @@
      "url": "https://www.amazon.com/dp/B0HNKQ6VFD"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7097,7 +7102,7 @@
      "url": "https://www.target.com/p/-/A-1012297500"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -7149,7 +7154,7 @@
      "url": "https://www.target.com/p/-/A-1012827386"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7183,14 +7188,9 @@
      "store": "GameStop",
      "price": 59.99,
      "url": "https://www.gamestop.com/products/stellar-blade-complete-edition/451860.html"
-    },
-    {
-     "store": "Walmart",
-     "price": 59.99,
-     "url": "https://www.walmart.com/ip/20963512878"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "SHIFT UP",
    "digital": {
@@ -7231,7 +7231,7 @@
      "url": "https://www.target.com/p/-/A-1014334835"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CDE Entertainment",
    "digital": {
@@ -7252,7 +7252,7 @@
    "release_date": "2026-11-04",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7299,7 +7299,7 @@
      "url": "https://www.walmart.com/ip/20315570005"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -7325,27 +7325,27 @@
      "url": "https://www.amazon.com/dp/B0HMJW46DZ"
     },
     {
+     "store": "Best Buy",
+     "price": 59.99,
+     "url": "https://www.bestbuy.com/site/6695308.p?skuId=6695308"
+    },
+    {
      "store": "GameStop",
      "price": 59.99,
      "url": "https://www.gamestop.com/products/sonic-racing-crossworlds-year-one-edition/452979.html"
     },
     {
-     "store": "Best Buy",
-     "price": 59.99,
-     "url": "https://www.bestbuy.com/site/6695306.p?skuId=6695306"
-    },
-    {
      "store": "Target",
      "price": 59.99,
-     "url": "https://www.target.com/p/-/A-1014586466"
+     "url": "https://www.target.com/p/-/A-1014586467"
     },
     {
      "store": "Walmart",
      "price": 59.99,
-     "url": "https://www.walmart.com/ip/21144069234"
+     "url": "https://www.walmart.com/ip/21136512085"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7361,7 +7361,7 @@
    "release_date": "2026-11-03",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7388,17 +7388,12 @@
      "url": "https://www.amazon.com/dp/B0HCWYRD79"
     },
     {
-     "store": "Target",
-     "price": 44.99,
-     "url": "https://www.target.com/p/-/A-1012886378"
-    },
-    {
      "store": "Best Buy",
      "price": 49.99,
      "url": "https://www.bestbuy.com/site/6688411.p?skuId=6688411"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7435,7 +7430,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-party-land-premium-edition/447590.html"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7478,7 +7473,7 @@
      "url": "https://www.walmart.com/ip/20214621641"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Spike Chunsoft US",
    "digital": {
@@ -7524,7 +7519,7 @@
      "url": "https://www.target.com/p/-/A-1011777705"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7566,7 +7561,7 @@
      "url": "https://www.walmart.com/ip/21065851721"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7608,7 +7603,7 @@
      "url": "https://www.target.com/p/-/A-1012019664"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -7635,7 +7630,7 @@
      "url": "https://www.amazon.com/dp/B0HQ7JJ5JK"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7682,7 +7677,7 @@
      "url": "https://www.walmart.com/ip/21107563569"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Raw Fury",
    "digital": {
@@ -7713,6 +7708,11 @@
      "url": "https://www.bestbuy.com/site/6687866.p?skuId=6687866"
     },
     {
+     "store": "Walmart",
+     "price": 34.99,
+     "url": "https://www.walmart.com/ip/20763517330"
+    },
+    {
      "store": "GameStop",
      "price": 49.99,
      "url": "https://www.gamestop.com/products/teenage-mutant-ninja-turtles-splintered-fate-legendary-edition/449772.html"
@@ -7723,7 +7723,7 @@
      "url": "https://www.target.com/p/-/A-1012856127"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7770,7 +7770,7 @@
      "url": "https://www.target.com/p/-/A-1013027743"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -7797,17 +7797,17 @@
      "url": "https://www.amazon.com/dp/B0GXH3PYJT"
     },
     {
-     "store": "Best Buy",
-     "price": 49.99,
-     "url": "https://www.bestbuy.com/site/6677475.p?skuId=6677475"
-    },
-    {
      "store": "GameStop",
      "price": 49.99,
      "url": "https://www.gamestop.com/products/village-in-the-shade/445455.html"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://www.bestbuy.com/site/6677477.p?skuId=6677477"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -7829,6 +7829,11 @@
    "collector": false,
    "offers": [
     {
+     "store": "Walmart",
+     "price": 29.83,
+     "url": "https://www.walmart.com/ip/20816705245"
+    },
+    {
      "store": "Amazon",
      "price": 29.97,
      "url": "https://www.amazon.com/dp/B0HD3P8B2L"
@@ -7849,7 +7854,7 @@
      "url": "https://www.gamestop.com/products/warrior-cats-clans-of-the-forest-feral-edition/450383.html"
     }
    ],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7870,7 +7875,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7891,7 +7896,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "offers_checked": "2026-11-25T18:33:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -11535,10 +11540,10 @@
    "code": "NOV50",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T18:28:57+00:00",
    "real_price": 22.0,
-   "real_old": 58.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 58.0
   },
   {
    "id": "tf78199e34fd",
@@ -11553,10 +11558,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T18:29:00+00:00",
    "real_price": 1286.99,
-   "real_old": 2226.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2226.99
   },
   {
    "id": "tf7bf21f8d71",
@@ -11571,10 +11576,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/571079221",
    "checked_at": "2026-11-25T18:29:02+00:00",
    "real_price": 54.95,
-   "real_old": 79.95,
-   "store_url": "https://www.walmart.com/ip/571079221"
+   "real_old": 79.95
   },
   {
    "id": "t2ac827e4306",
@@ -11923,8 +11928,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:29:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eac1ddc2e8fe11f1aa75be9fe087b803&au=cde0977e4bf447c8b6efbc96d200c7c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:34:58+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12169,8 +12174,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:29:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ec1afa46e8fe11f1895c127cddf49957&au=900b035b9d3945a99b3decc6d25c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:35:01+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12227,6 +12232,27 @@
    "checked_at": "2026-11-25T16:06:40+00:00",
    "real_price": 37.0,
    "real_old": 59.99
+  },
+  {
+   "id": "t49239e26479",
+   "title": "Huuger 63\" x 47\" L-Shaped Standing Desk w/ Outlets, Drawers & Keyboard Tray $149.99 (Reg. $299.99) w/ Code",
+   "price": 149.99,
+   "old_price": 299.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20394876-huuger-63-x-47-l-shaped-standing-desk-w-outlets-drawers-keyboard-tray-149-99-reg-299-99-w-code?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22584315.thumb",
+   "posted": "2026-11-25T15:00:53+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "OCV7GXIK",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T18:35:03+00:00",
+   "real_price": 149.99,
+   "real_old": 299.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394876&tid=20394876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edb804b6e8fe11f1bd7e92142a66bc6a&au=1434d71b73134b4dae663e617d8cbf93&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc3d1711ecce",
@@ -13008,7 +13034,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -14909,8 +14935,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1a312f6ee8fe11f18223fec4d078f9e3&au=211f7402425a4c7fb57fe253279b2db5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:29:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ef693276e8fe11f1a6d58a35b5b5354a&au=fe00e267e5c741ea9324fc30529ef48f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:35:07+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15937,24 +15963,6 @@
    "checked_at": "2026-11-24T21:19:13+00:00",
    "real_price": 127.28,
    "real_old": 171.92
-  },
-  {
-   "id": "tb85697058ac",
-   "title": "In-Store Only - ASUS Radeon RX 9070 Prime OC Triple-Fan 16GB $799.99 - Micro Center",
-   "price": 799.99,
-   "old_price": 1019.99,
-   "store": "Micro Center",
-   "url": "https://slickdeals.net/f/20389416-in-store-only-asus-radeon-rx-9070-prime-oc-triple-fan-16gb-799-99-micro-center?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22570593.thumb",
-   "posted": "2026-11-24T20:47:47+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20389416&tid=20389416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1507a2a2e8a411f18dacb69419567349&au=a6d72bf08c0e4045b21a68e954e3e0b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T07:44:45+00:00",
-   "real_price": 799.99,
-   "real_old": 1019.99
   }
  ],
  "tech": [
@@ -16384,8 +16392,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eac1ddc2e8fe11f1aa75be9fe087b803&au=cde0977e4bf447c8b6efbc96d200c7c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eac1ddc2e8fe11f1aa75be9fe087b803&au=cde0977e4bf447c8b6efbc96d200c7c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16401,7 +16409,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eac1ddc2e8fe11f1aa75be9fe087b803&au=cde0977e4bf447c8b6efbc96d200c7c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16600,8 +16608,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ec1afa46e8fe11f1895c127cddf49957&au=900b035b9d3945a99b3decc6d25c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ec1afa46e8fe11f1895c127cddf49957&au=900b035b9d3945a99b3decc6d25c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16617,7 +16625,34 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ec1afa46e8fe11f1895c127cddf49957&au=900b035b9d3945a99b3decc6d25c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t49239e26479",
+   "title": "Huuger 63\" x 47\" L-Shaped Standing Desk",
+   "price": 149.99,
+   "old_price": 299.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394876&tid=20394876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edb804b6e8fe11f1bd7e92142a66bc6a&au=1434d71b73134b4dae663e617d8cbf93&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394876&tid=20394876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edb804b6e8fe11f1bd7e92142a66bc6a&au=1434d71b73134b4dae663e617d8cbf93&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22584315.thumb",
+   "posted": "2026-11-25T15:00:53+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "OCV7GXIK",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 149.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394876&tid=20394876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edb804b6e8fe11f1bd7e92142a66bc6a&au=1434d71b73134b4dae663e617d8cbf93&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17340,7 +17375,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19152,34 +19187,7 @@
      "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20390547&tid=20390547&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a94a798e89711f19cf1ae72dfbc3593&au=7ec1af9d7718468c8804b01affab262f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t11138dcf8f2",
-   "title": "TCL TAB 8 Gen 2 Tablet: MediaTek MT8786 8-Core, 8.7\" 1340x800 90Hz, 128GB + Free S&H",
-   "price": 99.0,
-   "old_price": null,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/20208906185",
-   "url": "https://www.walmart.com/ip/20208906185",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22540401.thumb",
-   "posted": "2026-11-24T23:59:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 99.0,
-     "url": "https://www.walmart.com/ip/20208906185"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T18:29:54+00:00"
+ "updated": "2026-11-25T18:36:06+00:00"
 }
