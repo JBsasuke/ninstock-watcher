@@ -418,7 +418,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=8a58f4a8e8cb11f18b3f9619659f957d&au=646680a4f7be4f739ef59e1a27defd70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T12:27:12+00:00",
+   "checked_at": "2026-11-25T18:27:54+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -1914,7 +1914,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T12:27:15+00:00",
+   "checked_at": "2026-11-25T18:27:57+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -1935,7 +1935,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T12:27:17+00:00",
+   "checked_at": "2026-11-25T18:28:00+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11520,6 +11520,63 @@
  ],
  "raw_tech": [
   {
+   "id": "t1aa2c46d9f7",
+   "title": "adidas Amplifier Backpack (Fits Up to 16\" Laptops, Frozen Purple/Violet) $22 + Free S&H",
+   "price": 22.0,
+   "old_price": 58.0,
+   "store": "ShopSimon",
+   "url": "https://slickdeals.net/f/20392635-adidas-amplifier-backpack-frozen-purple-violet-22-4-95-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22578579.thumb",
+   "posted": "2026-11-25T18:26:48+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "NOV50",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T18:28:57+00:00",
+   "real_price": 22.0,
+   "real_old": 58.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tf78199e34fd",
+   "title": "Lenovo Legion 5a Laptop: 15.3\" OLED, Ryzen 7 250, RTX 5060, 16GB DDR5, 1TB SSD $1287 + Free S/H",
+   "price": 1286.99,
+   "old_price": 2226.99,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20392230-lenovo-legion-5a-gaming-laptop-15-3-qhd-oled-165hz-ryzen-7-250-rtx-5060-16gb-ddr5-1tb-ssd-1286-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22589571.thumb",
+   "posted": "2026-11-25T18:26:40+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T18:29:00+00:00",
+   "real_price": 1286.99,
+   "real_old": 2226.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tf7bf21f8d71",
+   "title": "Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones (2 colors) $54.95 + Free S&H",
+   "price": 54.95,
+   "old_price": 79.95,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20381703-54-95-shokz-openmove-bone-conduction-wireless-bluetooth-headphones-for-sports-in-2-colors?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
+   "posted": "2026-11-25T18:25:58+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-25T18:29:02+00:00",
+   "real_price": 54.95,
+   "real_old": 79.95,
+   "store_url": "https://www.walmart.com/ip/571079221"
+  },
+  {
    "id": "t2ac827e4306",
    "title": "Staples Printing: Personalized Holiday Cards, Labels, Gifts, Wrapping Paper 60% Off + Store Pick Up",
    "price": null,
@@ -11866,8 +11923,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=660b0bd6e8fd11f1b2cb5a511138d167&au=8129fe2f2aee45dd94f712d208fb2093&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:24:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:29:04+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12112,8 +12169,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6735b8bce8fd11f1bfaa1e2915a3b2ea&au=b409b29c9abb48228f0facf7068457a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:24:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:29:06+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12951,7 +13008,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -14852,8 +14909,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=68d3a4eae8fd11f1a7dc5a511138d167&au=3281c2f63cad4b65af6c334c9f86a6a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:24:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1a312f6ee8fe11f18223fec4d078f9e3&au=211f7402425a4c7fb57fe253279b2db5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T18:29:09+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15898,63 +15955,90 @@
    "checked_at": "2026-11-25T07:44:45+00:00",
    "real_price": 799.99,
    "real_old": 1019.99
-  },
-  {
-   "id": "t8b47a70821c",
-   "title": "INNOCN 49\" Curved DQHD 5120 x 1440P 240Hz 1800R Ultrawide Gaming Monitor | HDR400,1ms, FreeSync $599.99",
-   "price": 599.99,
-   "old_price": 844.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389410-innocn-49-curved-dqhd-5120-x-1440p-240hz-1800r-ultrawide-gaming-monitor-hdr400-1ms-freesync-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/3/4/7/0/300x300/22570470.thumb",
-   "posted": "2026-11-24T20:46:30+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389410&tid=20389410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9f1ead2e8de11f1a39592142a66bc6a&au=1441ead057c7482d98073eb1802b16a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:46:20+00:00",
-   "real_price": 599.99,
-   "real_old": 844.99
-  },
-  {
-   "id": "t590f2824b47",
-   "title": "Beckham Hotel Collection Mattress Protectors (King) Viscose or Cotton Blend $20 w/ Prime s/h",
-   "price": 20.0,
-   "old_price": 57.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389386-beckham-hotel-collection-mattress-protectors-king-viscose-or-cotton-blend-20-w-prime-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22570497.thumb",
-   "posted": "2026-11-24T20:43:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389386&tid=20389386&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=371cf7f8e8e411f19e33b655d609ea7e&au=1f262776559b4123aaae0205df295550&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:23:50+00:00",
-   "real_price": 20.0,
-   "real_old": 57.0
-  },
-  {
-   "id": "t84230817f69",
-   "title": "Pocket Juice 20,000mAh Slim Pro Portable Power Bank w/ USB-C & Dual USB-A $9",
-   "price": 9.0,
-   "old_price": 19.88,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373930-pocket-juice-20-000mah-slim-pro-portable-power-bank-w-usb-c-dual-usb-a-9-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22531062.thumb",
-   "posted": "2026-11-24T20:42:51+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373930&pno=1373157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=55e81f6ae84811f1b381725e37dd070f&au=871aca232b384dbfb282f8f3e92d21e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T20:48:00+00:00",
-   "real_price": 9.0,
-   "real_old": 19.88
   }
  ],
  "tech": [
+  {
+   "id": "t1aa2c46d9f7",
+   "title": "adidas Amplifier Backpack (Fits Up to 16\" Laptops, Frozen Purple/Violet) + Free S&H",
+   "price": 22.0,
+   "old_price": 58.0,
+   "store": "ShopSimon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22578579.thumb",
+   "posted": "2026-11-25T18:26:48+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": "NOV50",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "ShopSimon",
+     "price": 22.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tf78199e34fd",
+   "title": "Lenovo Legion 5a Laptop: 15.3\" OLED, Ryzen 7 250, RTX 5060, 16GB DDR5, 1TB SSD",
+   "price": 1286.99,
+   "old_price": 2226.99,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22589571.thumb",
+   "posted": "2026-11-25T18:26:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 1286.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&pno=1374000&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e3d584e8fe11f199625a511138d167&au=10a57ea5f3b14f379a799aaa20f15269&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tf7bf21f8d71",
+   "title": "Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones (2 colors) + Free S&H",
+   "price": 54.95,
+   "old_price": 79.95,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/571079221",
+   "url": "https://www.walmart.com/ip/571079221",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
+   "posted": "2026-11-25T18:25:58+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 54.95,
+     "url": "https://www.walmart.com/ip/571079221"
+    }
+   ]
+  },
   {
    "id": "t2ac827e4306",
    "title": "Staples Printing: Personalized Holiday Cards, Labels, Gifts, Wrapping Paper 60% Off + Store Pick Up",
@@ -16300,8 +16384,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=660b0bd6e8fd11f1b2cb5a511138d167&au=8129fe2f2aee45dd94f712d208fb2093&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=660b0bd6e8fd11f1b2cb5a511138d167&au=8129fe2f2aee45dd94f712d208fb2093&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16317,7 +16401,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=660b0bd6e8fd11f1b2cb5a511138d167&au=8129fe2f2aee45dd94f712d208fb2093&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=177a1704e8fe11f1bddebe9fe087b803&au=8f4fe11de57049d1a927d6d5f3a8b61e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16516,8 +16600,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6735b8bce8fd11f1bfaa1e2915a3b2ea&au=b409b29c9abb48228f0facf7068457a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6735b8bce8fd11f1bfaa1e2915a3b2ea&au=b409b29c9abb48228f0facf7068457a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16533,7 +16617,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6735b8bce8fd11f1bfaa1e2915a3b2ea&au=b409b29c9abb48228f0facf7068457a4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=18c0c13ae8fe11f198bcaef31e383ec0&au=7192361b990a4706b0e86a9e8531d733&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17256,7 +17340,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19095,88 +19179,7 @@
      "url": "https://www.walmart.com/ip/20208906185"
     }
    ]
-  },
-  {
-   "id": "td6633d6ca62",
-   "title": "Verizon : Add a device and line and get Rayban Meta Glasses along with Ipad /mo (Optional), Watch /mo and free airpods.",
-   "price": 10.0,
-   "old_price": null,
-   "store": "Verizon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Verizon&sdtid=20390520&tid=20390520&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9435533ce86611f1a5a9be65d06667c7&au=6ed0898def4f485ea4de82e13b52a4c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Verizon&sdtid=20390520&tid=20390520&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9435533ce86611f1a5a9be65d06667c7&au=6ed0898def4f485ea4de82e13b52a4c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/9/8/2/2/6/3/300x300/22572966.thumb",
-   "posted": "2026-11-24T23:59:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Verizon",
-     "price": 10.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Verizon&sdtid=20390520&tid=20390520&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9435533ce86611f1a5a9be65d06667c7&au=6ed0898def4f485ea4de82e13b52a4c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "te2d7afa4146",
-   "title": "JBL Vibe Flex 2 True Wireless Earbuds (3 Colors)",
-   "price": 19.94,
-   "old_price": 67.26,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20375664&pno=1373301&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=26e04e46e86011f1aba8560d8d4006c9&au=58a5505cd11e46ae83f5ebd4f3f8ff26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20375664&pno=1373301&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=26e04e46e86011f1aba8560d8d4006c9&au=58a5505cd11e46ae83f5ebd4f3f8ff26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22535328.thumb",
-   "posted": "2026-11-24T23:34:22+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 19.94,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20375664&pno=1373301&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=26e04e46e86011f1aba8560d8d4006c9&au=58a5505cd11e46ae83f5ebd4f3f8ff26&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td8c0904faaa",
-   "title": "TP-Link Roam 6 AX3000 Dual-Band WiFi 6 Portable Travel Router + Earn 25% Back",
-   "price": 49.99,
-   "old_price": 79.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372790&pno=1373304&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=816c31e6e85f11f1a3402abd71e35842&au=a23fb30b151a4887840710cace524b46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372790&pno=1373304&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=816c31e6e85f11f1a3402abd71e35842&au=a23fb30b151a4887840710cace524b46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22572753.thumb",
-   "posted": "2026-11-24T23:32:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 49.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372790&pno=1373304&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=816c31e6e85f11f1a3402abd71e35842&au=a23fb30b151a4887840710cace524b46&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T18:25:06+00:00"
+ "updated": "2026-11-25T18:29:54+00:00"
 }
