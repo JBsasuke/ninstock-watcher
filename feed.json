@@ -56,13 +56,13 @@
    "posted": "2026-11-25T08:10:42+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T10:06:25+00:00",
-   "category_ok": true,
-   "real_price": 24.88,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=df43620ae8b711f1bd31c2e14d85113f&au=12e2a60bba1a4ffc950c212a0c5bd7e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T10:06:25+00:00",
+   "real_price": 24.88,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "d1c2faaa97bb",
@@ -119,8 +119,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3199,7 +3197,7 @@
    "link_v": 3
   }
  ],
- "deku_checked": "2026-11-25T09:07:24+00:00",
+ "deku_checked": "2026-11-25T10:10:57+00:00",
  "deals": [
   {
    "id": "15d786c39d49",
@@ -5306,7 +5304,7 @@
      "url": "https://www.target.com/p/-/A-95076259"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5322,7 +5320,7 @@
    "release_date": "2027-05-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA of America",
    "digital": null,
@@ -5366,7 +5364,7 @@
      "url": "https://www.walmart.com/ip/20934158284"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -5409,7 +5407,7 @@
      "url": "https://www.walmart.com/ip/20954464637"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -5446,7 +5444,7 @@
      "url": "https://www.target.com/p/-/A-1012070913"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5478,7 +5476,7 @@
      "url": "https://www.target.com/p/-/A-95076256"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5494,7 +5492,7 @@
    "release_date": "2027-03-20",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5510,7 +5508,7 @@
    "release_date": "2027-03-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5552,7 +5550,7 @@
      "url": "https://www.target.com/p/-/A-94948513"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": {
@@ -5599,7 +5597,7 @@
      "url": "https://www.walmart.com/ip/20969569759"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Marvelous USA (XSEED)",
    "digital": null,
@@ -5637,7 +5635,7 @@
      "url": "https://www.walmart.com/ip/21127017185"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5679,7 +5677,7 @@
      "url": "https://www.target.com/p/-/A-1013551453"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -5721,7 +5719,7 @@
      "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -5763,7 +5761,7 @@
      "url": "https://www.walmart.com/ip/20983303920"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5800,7 +5798,7 @@
      "url": "https://www.walmart.com/ip/20944173701"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5842,7 +5840,7 @@
      "url": "https://www.walmart.com/ip/20958523571"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KONAMI",
    "digital": {
@@ -5889,7 +5887,7 @@
      "url": "https://www.walmart.com/ip/20299574937"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -5936,7 +5934,7 @@
      "url": "https://www.walmart.com/ip/20354268698"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -5983,7 +5981,7 @@
      "url": "https://www.walmart.com/ip/20926366396"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6030,7 +6028,7 @@
      "url": "https://www.target.com/p/-/A-1013551450"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6050,7 +6048,7 @@
    "release_date": "2027-01-28",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -6092,7 +6090,7 @@
      "url": "https://www.walmart.com/ip/20980064944"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6129,7 +6127,7 @@
      "url": "https://www.walmart.com/ip/21103052265"
     }
    ],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-23T19:46:34+00:00",
    "publisher": "Clear River Games",
    "digital": null,
@@ -6146,7 +6144,7 @@
    "release_date": "2027-01-15",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6250,7 +6248,7 @@
    "release_date": "2026-12-14",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T04:01:05+00:00",
+   "offers_checked": "2026-11-25T10:11:13+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Silver Lining Interactive",
    "digital": null,
@@ -11552,6 +11550,48 @@
  ],
  "raw_tech": [
   {
+   "id": "tc1947c2ebad",
+   "title": "Thermaltake LCGS Versa i570S Gaming Desktop: i9-14900KF, 32GB DDR5, RTX 5070 $1746 + Free S&H w/ Amazon Prime",
+   "price": 1745.99,
+   "old_price": 2199.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20392425-thermaltake-lcgs-versa-i570s-i9-14900kf-rtx-5070-32gb-ddr5-1tb-ssd-1745-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22580001.thumb",
+   "posted": "2026-11-25T10:10:42+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T10:12:56+00:00",
+   "real_price": 1745.99,
+   "real_old": 2199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&pno=1373664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa6c0e8b811f1a9bc8647fde6dc56&au=b5a136c528cb4265b2016b2943d0cdad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "te44e8ff2cf2",
+   "title": "Prime Members: Ring Indoor Cam 2K Plug-In Security Camera + 10% Back w/ Prime Card $20 + Free S&H",
+   "price": 19.99,
+   "old_price": 59.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385462-ac-19-99-ring-indoor-cam-2k-plug-in-security-camera-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22579839.thumb",
+   "posted": "2026-11-25T10:06:32+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "9D2FWS7L",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T10:12:58+00:00",
+   "real_price": 19.99,
+   "real_old": 59.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385462&pno=1373688&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=c9b5803ee8b811f1b40a8647fde6dc56&au=dd6153a79abe41fab03a20749bf11c67&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tbee5aa7c403",
    "title": "Ninja 4-Quart 3-Functions Countertop Air Fryer (3 Colors) $59 + Free S&H",
    "price": 59.0,
@@ -11599,10 +11639,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20393058&tid=20393058&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fe44d436e8b711f1abcc72ad2e05b851&au=4703f5a670b249b288b11f7609b75c6d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:07:17+00:00",
-   "real_price": 331.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20393058&tid=20393058&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fe44d436e8b711f1abcc72ad2e05b851&au=4703f5a670b249b288b11f7609b75c6d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 331.99
   },
   {
    "id": "td51a33496b4",
@@ -12777,8 +12816,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fface282e8b711f185c61ef0c9e233e5&au=063d4f91bb744fab9922631dddac17f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:07:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=cb3814a8e8b811f19a2f8647fde6dc56&au=22bbe9f645df432fb9ca4a843582ad89&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T10:13:01+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15947,45 +15986,36 @@
    "checked_at": "2026-11-24T16:00:06+00:00",
    "real_price": 5.29,
    "real_old": 8.99
-  },
-  {
-   "id": "ta0e6a13a651",
-   "title": "$29.99 Logitech G502 HERO Wired Optical Gaming Mouse with RGB Lighting - Wired - Black",
-   "price": 29.99,
-   "old_price": 156.0,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20385639-29-99-logitech-g502-hero-wired-optical-gaming-mouse-with-rgb-lighting-wired-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
-   "posted": "2026-11-24T12:08:46+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20385639&tid=20385639&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=e6860410e81611f1881ac27db0f71e28&au=248032a19624445b920394d39cd1b9b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:54:08+00:00",
-   "real_price": 29.99,
-   "real_old": 156.0
-  },
-  {
-   "id": "t9812d58011f",
-   "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet w/ Surface Keyboard $1000 + Free S&H",
-   "price": 999.99,
-   "old_price": 1429.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20377047-microsoft-surface-pro-pc-13-2880x1920-snapdragon-x-plus-w-keyboard-999?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560108.thumb",
-   "posted": "2026-11-24T11:58:30+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f7ec9f24e7fe11f1b09b0a6123e54392&au=6e9ee1d5ef084fbfbc86573798443088&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:02:50+00:00",
-   "real_price": 999.99,
-   "real_old": 1429.99
   }
  ],
  "tech": [
+  {
+   "id": "tc1947c2ebad",
+   "title": "Thermaltake LCGS Versa i570S Gaming Desktop: i9-14900KF, 32GB DDR5, RTX 5070 + Free S&H",
+   "price": 1745.99,
+   "old_price": 2199.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&pno=1373664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa6c0e8b811f1a9bc8647fde6dc56&au=b5a136c528cb4265b2016b2943d0cdad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&pno=1373664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa6c0e8b811f1a9bc8647fde6dc56&au=b5a136c528cb4265b2016b2943d0cdad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22580001.thumb",
+   "posted": "2026-11-25T10:10:42+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 1745.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&pno=1373664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa6c0e8b811f1a9bc8647fde6dc56&au=b5a136c528cb4265b2016b2943d0cdad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "td51a33496b4",
    "title": "27\" Alienware AW2725QF Dual Resolution 4K/FHD IPS 360Hz Monitor + Free S&H",
@@ -19192,34 +19222,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9812940db94",
-   "title": "65\" Samsung M80H Series 4K Mini LED Smart TV (2026) + Free S&H",
-   "price": 498.0,
-   "old_price": 799.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563351.thumb",
-   "posted": "2026-11-24T14:41:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 498.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T10:08:13+00:00"
+ "updated": "2026-11-25T10:13:54+00:00"
 }
