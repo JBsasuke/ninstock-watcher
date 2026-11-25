@@ -182,6 +182,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11521,10 +11523,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386830&pno=1373727&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=27ca218ae8c711f1ac201ef0c9e233e5&au=787553d3cbfe49e9a2ea98a337354f84&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:55:49+00:00",
    "real_price": 70.0,
-   "real_old": 140.59,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386830&pno=1373727&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=27ca218ae8c711f1ac201ef0c9e233e5&au=787553d3cbfe49e9a2ea98a337354f84&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 140.59
   },
   {
    "id": "tc7016496e9a",
@@ -11612,7 +11614,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -11671,10 +11673,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&tid=20393202&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=28e9edcae8c711f1addcea05b6b8cbf3&au=1f89f8cfaa784b2a950ecccf41c70e20&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:55:51+00:00",
-   "real_price": 79.98,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&tid=20393202&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=28e9edcae8c711f1addcea05b6b8cbf3&au=1f89f8cfaa784b2a950ecccf41c70e20&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 79.98
   },
   {
    "id": "te44e8ff2cf2",
@@ -11851,10 +11852,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&tid=20392923&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=2a28ba40e8c711f1be322a32ae51b81c&au=994538858e3440c2ab70930c3a8ea617&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:55:53+00:00",
    "real_price": 12.97,
-   "real_old": 22.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&tid=20392923&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=2a28ba40e8c711f1be322a32ae51b81c&au=994538858e3440c2ab70930c3a8ea617&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 22.97
   },
   {
    "id": "tcb0ecea6dd1",
@@ -11945,7 +11946,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": "2026-11-25",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12297,6 +12298,24 @@
    "real_old": 259.0
   },
   {
+   "id": "te3b2771db51",
+   "title": "Bstge 30' 416-LED Christmas Snowflake Icicle String Lights (Cool White, Blue White) $18.52 + Free Shipping",
+   "price": 18.52,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392308-bstge-30-416-led-christmas-snowflake-icicle-string-lights-cool-white-blue-white-18-52-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22577577.thumb",
+   "posted": "2026-11-25T05:37:25+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:00:32+00:00",
+   "real_price": 18.52,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392308&tid=20392308&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d095c74ce8c711f18a0d7a55f551cdc8&au=d218cc6cfa5c40ab9e8381a0a62f0e60&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tdfc120dd15d",
    "title": "[Prime] HEORIM 5-Piece Stainless Steel Cheese Knife Set w/ Magnetic Acacia Wood Stand $7.03 + Free Shipping",
    "price": 7.03,
@@ -12527,6 +12546,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -13105,8 +13127,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2b5d5948e8c711f181de2a32ae51b81c&au=e21838c4c681473aaee2b5f878a3d8bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:55:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d1d0f046e8c711f197e27a55f551cdc8&au=d8b00a033c964868bb6a34b5e19787b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T12:00:34+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13685,10 +13707,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389815&tid=20389815&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2cd322bce8c711f1b6e54e2eae10b5bf&au=37685023f4f842c58cf7a552bdbc735c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:55:57+00:00",
    "real_price": 14.19,
-   "real_old": 22.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389815&tid=20389815&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2cd322bce8c711f1b6e54e2eae10b5bf&au=37685023f4f842c58cf7a552bdbc735c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 22.99
   },
   {
    "id": "t8867b98cb22",
@@ -15924,24 +15946,6 @@
    "checked_at": "2026-11-24T16:24:08+00:00",
    "real_price": 119.99,
    "real_old": 219.99
-  },
-  {
-   "id": "t4a602c1aee6",
-   "title": "Nothing Ear (a) Wireless Earbuds (3 Colors) $55 + Free S&H",
-   "price": 55.0,
-   "old_price": 79.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20302086-55-nothing-ear-a-wireless-earbuds-3-colors-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22432134.thumb",
-   "posted": "2026-11-24T13:57:59+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302086&pno=1372827&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=dc7417e8e80f11f1b81b6636fa90d852&au=0a241062b6c04779b014a3115dd8a95a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:03:45+00:00",
-   "real_price": 55.0,
-   "real_old": 79.0
   }
  ],
  "tech": [
@@ -16043,7 +16047,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -16879,7 +16883,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19180,5 +19184,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T11:56:50+00:00"
+ "updated": "2026-11-25T12:01:44+00:00"
 }
