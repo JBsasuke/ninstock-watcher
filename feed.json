@@ -694,7 +694,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=83e1b8fce8bd11f19d2c863ad210ac0e&au=419251c0777341c5b02282f52431d2f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:47:41+00:00",
+   "checked_at": "2026-11-25T22:48:48+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -715,7 +715,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=84facee0e8bd11f186289619659f957d&au=0246afee4f8a4faaa57e757acca7a038&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:47:44+00:00",
+   "checked_at": "2026-11-25T22:48:50+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -880,8 +880,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2339,7 +2337,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374935&pno=1372317&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9598638ce78e11f1b823329914419110&au=8a9508b40c0c409389e6f672a381291f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:47:48+00:00",
+   "checked_at": "2026-11-25T22:48:52+00:00",
    "real_price": 15.0,
    "real_old": 19.49,
    "category_ok": true
@@ -11464,6 +11462,27 @@
  ],
  "raw_tech": [
   {
+   "id": "te2b405058be",
+   "title": "Refurb/Excellent: 40mm Apple Watch SE 3 GPS + Cellular w/ Sport Band (Various) $148.80 + Free S&H",
+   "price": 148.79,
+   "old_price": 185.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20396181-apple-watch-se-3-40mm-gps-cellular-excellent-refurbished-148-79-w-coupon-free-shipping-at-ebay?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/300x300/22594131.thumb",
+   "posted": "2026-11-25T22:46:39+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T22:49:45+00:00",
+   "real_price": 148.79,
+   "real_old": 185.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20396181&pno=1374210&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8275a130e92211f192f07e3e3d2b1b81&au=73dc8a3edebc428bb161c72112f5ba7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t956e011381b",
    "title": "AMD Ryzen 7 9800X3D Desktop Processor + Rosewill FROSTMAX AIO CPU Cooler $370 + Free S&H",
    "price": 369.99,
@@ -11479,10 +11498,10 @@
    "code": "BFF36",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:45:07+00:00",
    "real_price": 369.99,
-   "real_old": 506.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 506.99
   },
   {
    "id": "t88a9af0e4ac",
@@ -12888,8 +12907,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddb8ce92e92111f1b7901e48fdfe72e8&au=32bf815a6f6b4b7c8ca63bd3210657c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:45:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:49:47+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13151,8 +13170,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=def50c80e92111f192203ea1188bd8d8&au=5b66c7f901e04922a7b36e86bb8dd8a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:45:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:49:49+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14196,7 +14215,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15902,24 +15921,6 @@
    "checked_at": "2026-11-25T04:25:07+00:00",
    "real_price": 99.0,
    "real_old": 199.0
-  },
-  {
-   "id": "t0eb3cb9c4f0",
-   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger $99 @HomeDepot",
-   "price": 99.0,
-   "old_price": 199.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20391423-20-volt-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-4-0-ah-battery-and-charger-99-homedepot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575330.thumb",
-   "posted": "2026-11-25T02:48:15+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e99bd5c0e88a11f1a187520a028b95fc&au=ed3fce1668e246b7a1778ab678b03e6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:44:35+00:00",
-   "real_price": 99.0,
-   "real_old": 199.0
   }
  ],
  "tech": [
@@ -17228,8 +17229,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddb8ce92e92111f1b7901e48fdfe72e8&au=32bf815a6f6b4b7c8ca63bd3210657c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddb8ce92e92111f1b7901e48fdfe72e8&au=32bf815a6f6b4b7c8ca63bd3210657c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17245,7 +17246,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddb8ce92e92111f1b7901e48fdfe72e8&au=32bf815a6f6b4b7c8ca63bd3210657c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17417,8 +17418,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=def50c80e92111f192203ea1188bd8d8&au=5b66c7f901e04922a7b36e86bb8dd8a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=def50c80e92111f192203ea1188bd8d8&au=5b66c7f901e04922a7b36e86bb8dd8a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17434,7 +17435,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=def50c80e92111f192203ea1188bd8d8&au=5b66c7f901e04922a7b36e86bb8dd8a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18265,7 +18266,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19140,5 +19141,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T22:46:00+00:00"
+ "updated": "2026-11-25T22:50:46+00:00"
 }
