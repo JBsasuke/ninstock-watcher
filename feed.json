@@ -1362,7 +1362,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:18:55+00:00",
+   "checked_at": "2026-11-25T06:23:36+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -1383,7 +1383,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:18:58+00:00",
+   "checked_at": "2026-11-25T06:23:38+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11577,6 +11577,24 @@
  ],
  "raw_tech": [
   {
+   "id": "te9445f20325",
+   "title": "55\" Insignia F50 Series 4K UHD Smart Fire TV (2025) $170 + Free S&H",
+   "price": 169.99,
+   "old_price": 350.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20338638-insignia-55-class-f50-series-led-4k-uhd-smart-fire-tv-at-bestbuy-169-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22433862.thumb",
+   "posted": "2026-11-25T06:23:06+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T06:24:36+00:00",
+   "real_price": 169.99,
+   "real_old": 350.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t77e37166f69",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse with Haptics - Graphite $72 + Free S&H w/ Prime at Woot!",
    "price": 72.0,
@@ -11592,10 +11610,10 @@
    "code": "20MOUSE",
    "code_until": "2026-11-25",
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&tid=20392449&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=36cb2992e89811f19d068ec4e983430e&au=abbb0a5c970242fd8678f1a808ae4a34&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:19:48+00:00",
    "real_price": 72.0,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&tid=20392449&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=36cb2992e89811f19d068ec4e983430e&au=abbb0a5c970242fd8678f1a808ae4a34&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.99
   },
   {
    "id": "ta4838d0673a",
@@ -11736,6 +11754,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12206,8 +12227,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=37fc1b32e89811f1893fda5c980d6a95&au=959276a1d554466b960ff281bc9bfe5b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:19:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e3d72b22e89811f1b9f62e0c7c445663&au=6bbc623fdd6c4b2bbc20cb67a05f0af9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T06:24:38+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -12974,10 +12995,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20389482&tid=20389482&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=396ec17ce89811f1bc97ea6d627e0380&au=471b4a0707b343a0a48ddf3fa5e228a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:19:52+00:00",
    "real_price": 189.0,
-   "real_old": 259.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20389482&tid=20389482&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=396ec17ce89811f1bc97ea6d627e0380&au=471b4a0707b343a0a48ddf3fa5e228a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 259.0
   },
   {
    "id": "tbe1ba12b69c",
@@ -15961,27 +15982,36 @@
    "checked_at": "2026-11-24T17:06:16+00:00",
    "real_price": 1299.99,
    "real_old": 1699.99
-  },
-  {
-   "id": "tcf9f5e39998",
-   "title": "RYOBI USB Lithium Project Kit with Rotary Tool, Inspection Light, Screwdriver, Glue Pen, (2) 2 Ah Batteries, & Charging Cable $99",
-   "price": 99.0,
-   "old_price": 255.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20384496-ryobi-usb-lithium-project-kit-with-rotary-tool-inspection-light-screwdriver-glue-pen-2-2-ah-batteries-charging-cable-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22557213.thumb",
-   "posted": "2026-11-24T08:09:27+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20384496&tid=20384496&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=fa4c2760e80011f1a99306b2793bd035&au=b95218df3c2749ad9e725432980041c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:17:12+00:00",
-   "real_price": 99.0,
-   "real_old": 255.97
   }
  ],
  "tech": [
+  {
+   "id": "te9445f20325",
+   "title": "55\" Insignia F50 Series 4K UHD Smart Fire TV (2025) + Free S&H",
+   "price": 169.99,
+   "old_price": 350.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22433862.thumb",
+   "posted": "2026-11-25T06:23:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 169.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t77e37166f69",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse with Haptics - Graphite + Free S&H",
@@ -16160,7 +16190,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19188,34 +19218,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385714&tid=20385714&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c8b2a93ae82411f1af611e9b45453fcb&au=25af057ed74b43b78b8b9346e2716369&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tc6a8ec3640d",
-   "title": "[Prime] * | Minthouz 35W Dual-Port GaN Foldable Wall Charger (USB-C & USB-A)",
-   "price": 5.29,
-   "old_price": 8.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&tid=20385648&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=1dd4cbf0e82011f185e89ea8d337c564&au=baf3a9305aca43a18a778fe750a1c42c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&tid=20385648&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=1dd4cbf0e82011f185e89ea8d337c564&au=baf3a9305aca43a18a778fe750a1c42c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560282.thumb",
-   "posted": "2026-11-24T12:11:34+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 5.29,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&tid=20385648&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=1dd4cbf0e82011f185e89ea8d337c564&au=baf3a9305aca43a18a778fe750a1c42c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T06:20:47+00:00"
+ "updated": "2026-11-25T06:25:36+00:00"
 }
