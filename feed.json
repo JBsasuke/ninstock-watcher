@@ -2,6 +2,29 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "d9a45fb89505",
+   "title": "Select Accounts: Pokémon Legends: Z-A (Switch 2 Edition) $40.15 + Free Pickup",
+   "price": 40.14,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20388591-select-accts-pok-mon-legends-z-a-nintendo-switch-2-edition-physical-w-filler-item-39-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22576800.thumb",
+   "posted": "2026-11-25T04:41:17+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "checked_at": "2026-11-25T04:43:34+00:00",
+   "category_ok": true,
+   "real_price": 40.14,
+   "real_old": 69.99,
+   "store_url": "https://www.walmart.com/ip/16759855795",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "af25dbd24615",
    "title": "Puyo Puyo Tetris 2S (Nintendo Switch 2) $15 + Free Shipping w/ Prime or on orders over $35",
    "price": 15.0,
@@ -412,7 +435,7 @@
    "kind": "game",
    "collector": false,
    "url": "https://slickdeals.net/f/20388591-select-accts-pok-mon-legends-z-a-nintendo-switch-2-edition-physical-w-filler-item-39-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568403.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22576800.thumb",
    "posted": "2026-11-24T18:39:11+00:00",
    "needs_cat": false,
    "refurb": false,
@@ -1402,7 +1425,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374935&pno=1372317&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9598638ce78e11f1b823329914419110&au=8a9508b40c0c409389e6f672a381291f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:42:25+00:00",
+   "checked_at": "2026-11-25T04:43:37+00:00",
    "real_price": 15.0,
    "real_old": 19.49,
    "category_ok": true
@@ -3174,31 +3197,35 @@
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
-  },
-  {
-   "id": "12dc7e0bef11",
-   "title": "Donkey Kong Bananza (Switch 2) $50 + Free S&H",
-   "price": 49.99,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20367819-49-99-donkey-kong-bananza-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22517616.thumb",
-   "posted": "2026-11-22T12:42:55+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367819&pno=1371006&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b8afe1b8e69111f1adc736357871b871&au=960f8fa6822d49ad8ef19651c0d499c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-25T02:10:29+00:00",
-   "real_price": 49.99,
-   "real_old": 69.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-25T04:00:47+00:00",
  "deals": [
+  {
+   "id": "0f4a9bc0b71d",
+   "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition (Nintendo Switch 2)",
+   "price": 39.98,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/16759855795",
+   "url": "https://www.walmart.com/ip/16759855795",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 39.98,
+     "url": "https://www.walmart.com/ip/16759855795"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22576800.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-25T04:41:17+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": "SAVE3X",
+   "code_until": null
+  },
   {
    "id": "48f668bc7276",
    "title": "Puyo Puyo Tetris 2S (Nintendo Switch 2)",
@@ -3347,31 +3374,6 @@
    "refurb": false,
    "glitch": false,
    "code": null,
-   "code_until": null
-  },
-  {
-   "id": "e01dfbf022b7",
-   "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition (Nintendo Switch 2)",
-   "price": 39.98,
-   "old_price": 69.99,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/16759855795",
-   "url": "https://www.walmart.com/ip/16759855795",
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 39.98,
-     "url": "https://www.walmart.com/ip/16759855795"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568403.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-24T18:39:11+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": "SAVE3X",
    "code_until": null
   },
   {
@@ -4270,11 +4272,6 @@
      "store": "Target",
      "price": 49.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20368251&pno=1371120&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eca437b6e6bf11f1aebb7ed68c98cfba&au=a73dc1ef5ab34a14a67a5d07aa0c2b52&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    },
-    {
-     "store": "Amazon",
-     "price": 49.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367819&pno=1371006&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b8afe1b8e69111f1adc736357871b871&au=960f8fa6822d49ad8ef19651c0d499c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ],
    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22518831.thumb",
@@ -11897,6 +11894,24 @@
    "real_old": 199.0
   },
   {
+   "id": "t0eb3cb9c4f0",
+   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger $99 @HomeDepot",
+   "price": 99.0,
+   "old_price": 199.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20391423-20-volt-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-4-0-ah-battery-and-charger-99-homedepot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575330.thumb",
+   "posted": "2026-11-25T02:48:15+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:44:35+00:00",
+   "real_price": 99.0,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e99bd5c0e88a11f1a187520a028b95fc&au=ed3fce1668e246b7a1778ab678b03e6f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3a9d61c2867",
    "title": "11-Pc Greenworks Spade & Brad Point Drill Bit Set w/ Storage Case $5.50",
    "price": 5.49,
@@ -12053,8 +12068,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=39c0e118e88a11f1bb38aa2a9418fb79&au=85db23174d4846fe85535459e5e317e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:39:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ead53bd4e88a11f1a268ae72dfbc3593&au=539ffcec044641368bca8298eb33ad80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T04:44:37+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -12906,6 +12921,24 @@
    "checked_at": "2026-11-25T00:15:11+00:00",
    "real_price": 329.99,
    "real_old": 499.99
+  },
+  {
+   "id": "t53199f12d9d",
+   "title": "Buy 3, save 30%: Select Milwaukee Storage at Amazon",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389290-buy-3-save-30-select-milwaukee-storage-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22570137.thumb",
+   "posted": "2026-11-24T20:23:24+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:44:39+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389290&tid=20389290&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec103224e88a11f1a04bea9025c1022d&au=5c5f5566c7cd43e8ba6fe39c72eb633e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t552183b4b8b",
@@ -16018,45 +16051,6 @@
    "checked_at": "2026-11-24T06:36:59+00:00",
    "real_price": 36.0,
    "real_old": 49.0
-  },
-  {
-   "id": "t71acb9b209c",
-   "title": "$22.49: Logitech MK470 Slim Wireless Keyboard & Mouse Combo (New, Open Box) at Woot!",
-   "price": 22.49,
-   "old_price": 49.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20384064-22-49-logitech-mk470-slim-wireless-keyboard-mouse-combo-new-open-box-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22556061.thumb",
-   "posted": "2026-11-24T06:30:23+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": true,
-   "code": "LOGITECH",
-   "code_until": "2026-12-04",
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384064&tid=20384064&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b75ec3b4e84a11f1a490c201a6b7009c&au=78e20281f9194b82b4a6f7b650c241b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T21:05:03+00:00",
-   "real_price": 22.49,
-   "real_old": 49.99
-  },
-  {
-   "id": "t181bf204713",
-   "title": "$98 FS WALMART Hyper Tough 262-Piece Mechanics Tool Set, SAE and Metric",
-   "price": 145.0,
-   "old_price": 146.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20384037-98-fs-walmart-hyper-tough-262-piece-mechanics-tool-set-sae-and-metric?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22556001.thumb",
-   "posted": "2026-11-24T06:25:50+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/18861017662",
-   "checked_at": "2026-11-24T23:15:25+00:00",
-   "real_price": 145.0,
-   "real_old": 146.0
   }
  ],
  "tech": [
@@ -19295,5 +19289,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T04:40:43+00:00"
+ "updated": "2026-11-25T04:45:32+00:00"
 }
