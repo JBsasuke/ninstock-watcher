@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "2b51d632542a",
+   "title": "8Bitdo Ultimate 2 Bluetooth Controller for Switch/Switch 2 & Windows PC (White) $47.40 + Free S&H",
+   "price": 47.39,
+   "old_price": 69.99,
+   "store": "Amazon",
+   "kind": "hardware",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20393397-8bitdo-ultimate-2-bluetooth-controller-for-switch-pc-white-black-47-39-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22580595.thumb",
+   "posted": "2026-11-25T13:55:11+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:58:51+00:00",
+   "category_ok": false,
+   "real_price": 47.39,
+   "real_old": 69.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&pno=1373775&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5811e36ce8d811f185512a916d1f14a1&au=df6070839da64c89a0dc1874c032ad2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "aa47035c72ff",
    "title": "$24.99 | Sonic Racing: CrossWorlds Amazon Exclusive Edition (Nintendo Switch 2) at Amazon",
    "price": 24.99,
@@ -14,13 +35,13 @@
    "posted": "2026-11-25T13:52:40+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T13:54:05+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394312&tid=20394312&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=ad8019dce8d711f1a9852a32ae51b81c&au=829ec0deba0840b8b0dd40141d91548d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T13:54:05+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "3d00eb150615",
@@ -35,13 +56,13 @@
    "posted": "2026-11-25T13:52:40+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T13:54:07+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394312&tid=20394312&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=aebdc452e8d711f199ef7e33eb47bdcd&au=5738583cdce445598708fd7bb1fafaa8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T13:54:07+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "468bce75c95f",
@@ -287,8 +308,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -632,7 +651,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d80fd0a8e84011f1a983aa2a9418fb79&au=d37766cbfd3541c9924682e0d5714f6a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:06+00:00",
+   "checked_at": "2026-11-25T13:58:54+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -653,7 +672,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d94e8126e84011f1884f0227a9c18c33&au=29825d1cb58043058aee60b3951e96a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:08+00:00",
+   "checked_at": "2026-11-25T13:58:56+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -1880,7 +1899,7 @@
    "id": "327cfdd4ad83",
    "title": "Hot Wheels Infinite Rush (Switch 2) - $30 @ Walmart",
    "price": 30.0,
-   "old_price": 131.0,
+   "old_price": 130.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -1892,9 +1911,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20379297&tid=20379297&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=5c589230e77611f1a5a5c2ea0ec8d3d5&au=9d2c870fc2f5449083c49c6a0f07346e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:46+00:00",
+   "checked_at": "2026-11-25T13:59:35+00:00",
    "real_price": 30.0,
-   "real_old": 131.0,
+   "real_old": 130.0,
    "category_ok": true
   },
   {
@@ -1913,7 +1932,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379150&tid=20379150&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=443379c2e77611f18a901e72640ae178&au=99f58fcf9ff84ed3827373cc40fce6f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:16+00:00",
+   "checked_at": "2026-11-25T13:59:06+00:00",
    "real_price": 19.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1934,7 +1953,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20378991&tid=20378991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4d4498b6e77611f1b9c11e72640ae178&au=179fd055a1ff47ae8e1ac11a03590e62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:25+00:00",
+   "checked_at": "2026-11-25T13:59:16+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1976,7 +1995,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378022&tid=20378022&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=f426133ae7a811f18b24be4ed0ec16f4&au=f7a8004e63284678aa7de003ffcf783d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:10+00:00",
+   "checked_at": "2026-11-25T13:58:59+00:00",
    "real_price": 14.99,
    "real_old": 19.99,
    "category_ok": true
@@ -2019,7 +2038,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376171&pno=1371957&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=65efe406e77611f19fd1deb54f6a3920&au=06fe9a3dc799487d89a170bd45f7d99d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:53+00:00",
+   "checked_at": "2026-11-25T13:59:42+00:00",
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
@@ -2084,7 +2103,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377395&tid=20377395&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=4fd966f6e77611f1839e1e72640ae178&au=e8ed2515a23443eb890a5514e5fd6771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:28+00:00",
+   "checked_at": "2026-11-25T13:59:18+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -2127,7 +2146,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&tid=20377035&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=5123931ae77611f1874472a45d12e880&au=71694953aa3e4316854e00095a961588&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:30+00:00",
+   "checked_at": "2026-11-25T13:59:20+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -2170,7 +2189,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376918&tid=20376918&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=52923d78e77611f1a06c5e7f8399db75&au=119bc736c32045bd9a357ddc5fc50b70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:33+00:00",
+   "checked_at": "2026-11-25T13:59:22+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -2213,7 +2232,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374893&pno=1371807&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=5526b0a0e77611f1b74e42c654074995&au=3abd7d5931f74fbe9f9f98624a05c024&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:35+00:00",
+   "checked_at": "2026-11-25T13:59:25+00:00",
    "real_price": 15.0,
    "real_old": 24.88,
    "category_ok": true
@@ -2234,7 +2253,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376171&pno=1371957&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=64b018fee77611f19a82161ca257c495&au=e8ee63847ed443a79c526aab0890a6a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:51+00:00",
+   "checked_at": "2026-11-25T13:59:40+00:00",
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
@@ -2294,7 +2313,7 @@
    "posted": "2026-11-23T11:10:28+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:49+00:00",
+   "checked_at": "2026-11-25T13:59:37+00:00",
    "category_ok": true,
    "real_price": 32.99,
    "real_old": 49.99,
@@ -2978,7 +2997,7 @@
    "posted": "2026-11-23T06:12:58+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:39+00:00",
+   "checked_at": "2026-11-25T13:59:28+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 26.0,
@@ -3002,7 +3021,7 @@
    "store_url": "https://www.walmart.com/ip/17805560597",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:58:41+00:00",
+   "checked_at": "2026-11-25T13:59:30+00:00",
    "real_price": 15.0,
    "real_old": 29.83,
    "category_ok": true
@@ -3020,7 +3039,7 @@
    "posted": "2026-11-23T06:03:19+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:18+00:00",
+   "checked_at": "2026-11-25T13:59:08+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 39.88,
@@ -3041,7 +3060,7 @@
    "posted": "2026-11-23T06:01:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:21+00:00",
+   "checked_at": "2026-11-25T13:59:11+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 34.96,
@@ -3062,7 +3081,7 @@
    "posted": "2026-11-23T06:01:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:23+00:00",
+   "checked_at": "2026-11-25T13:59:13+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 34.96,
@@ -3127,7 +3146,7 @@
    "posted": "2026-11-23T05:46:03+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:44+00:00",
+   "checked_at": "2026-11-25T13:59:32+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 29.83,
@@ -3148,7 +3167,7 @@
    "posted": "2026-11-23T05:36:06+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T07:58:13+00:00",
+   "checked_at": "2026-11-25T13:59:03+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 29.83,
@@ -3177,28 +3196,6 @@
    "real_old": 269.99,
    "category_ok": false,
    "expired": true
-  },
-  {
-   "id": "ef0db8785349",
-   "title": "Pokemon TCG Delta Reign Booster Box & Elite Trainer Bundle $214.98",
-   "price": 214.98,
-   "old_price": 269.99,
-   "store": "Slickdeals",
-   "kind": "merch",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20373906-pokemon-tcg-delta-reign-booster-box-elite-trainer-bundle-214-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/1/0/3/6/300x300/22530993.thumb",
-   "posted": "2026-11-23T05:27:50+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "checked_at": "2026-11-23T22:24:24+00:00",
-   "category_ok": false,
-   "expired": true,
-   "real_price": 214.98,
-   "real_old": 269.99,
-   "store_url": "https://slickdeals.net/click?trd=Visit+Retailer&sdtid=20373906&tid=20373906&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a2ff9bdce78c11f1a9530aaf12b3b72c&au=9c22c66c8e7c4f02a3769ae70d8529a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3
   }
  ],
  "deku_checked": "2026-11-25T13:22:34+00:00",
@@ -11496,10 +11493,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20394072&pno=1373772&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=cf2de5f0e8d711f1a04b129d8f755345&au=20f494d76c5b459f92bf2edc7e7cd9c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:55:02+00:00",
    "real_price": 19.97,
-   "real_old": 39.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20394072&pno=1373772&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=cf2de5f0e8d711f1a04b129d8f755345&au=20f494d76c5b459f92bf2edc7e7cd9c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.97
   },
   {
    "id": "t4439ac256e6",
@@ -11553,6 +11550,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&pno=1373751&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1ffe6348e8d211f190d6820827a865f9&au=3df9721e0dd2459bbc0de5be7091da69&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:14:20+00:00",
    "real_price": 79.98
+  },
+  {
+   "id": "t500d69acf07",
+   "title": "Techni Mobili Sit-to-Stand Rolling Adjustable Height Laptop Cart w/ Storage (Chocolate) $46.13 + Free Shipping",
+   "price": 46.13,
+   "old_price": 66.58,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20394027-techni-mobili-sit-to-stand-rolling-adjustable-height-laptop-cart-w-storage-chocolate-46-13-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581876.thumb",
+   "posted": "2026-11-25T13:04:25+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:00:40+00:00",
+   "real_price": 46.13,
+   "real_old": 66.58,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394027&tid=20394027&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=991fd8d2e8d811f1bc679ab9921fe0c0&au=d6bfd419e8e24353a306d225735bb301&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t17849f04400",
@@ -13513,8 +13528,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d0c0e5f2e8d711f1b4d83295aa46e244&au=4f14578a10c649b0a21a8c0b77a7d7f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:55:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9a9dd6bee8d811f1af3c9ab9921fe0c0&au=c8e7138e50f34080899d761ffccb35cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T14:00:43+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15874,30 +15889,36 @@
    "checked_at": "2026-11-24T15:50:41+00:00",
    "real_price": 149.0,
    "real_old": 249.0
-  },
-  {
-   "id": "tc584f7ad729",
-   "title": "Stondon G-430 Blood Glucose Monitor Kit w/ 50 Test Strips & Lancets $6.49 + Free Shipping w/ Prime or on $35+",
-   "price": 6.49,
-   "old_price": 16.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20387256-stondon-g-430-blood-glucose-monitor-kit-w-50-test-strips-lancets-6-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/3/5/9/2/4/300x300/22564965.thumb",
-   "posted": "2026-11-24T15:46:54+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "code": "Y44DSR9O",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387256&tid=20387256&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1dec42dce84111f1b28d32fcf317ce7b&au=21751e47b5b34dacb9892c192901070c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:56:20+00:00",
-   "real_price": 6.49,
-   "real_old": 16.99
   }
  ],
  "tech": [
+  {
+   "id": "t500d69acf07",
+   "title": "Techni Mobili Sit-to-Stand Rolling Adjustable Height Laptop Cart",
+   "price": 46.13,
+   "old_price": 66.58,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394027&tid=20394027&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=991fd8d2e8d811f1bc679ab9921fe0c0&au=d6bfd419e8e24353a306d225735bb301&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394027&tid=20394027&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=991fd8d2e8d811f1bc679ab9921fe0c0&au=d6bfd419e8e24353a306d225735bb301&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581876.thumb",
+   "posted": "2026-11-25T13:04:25+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 46.13,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394027&tid=20394027&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=991fd8d2e8d811f1bc679ab9921fe0c0&au=d6bfd419e8e24353a306d225735bb301&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t6f6b765c20c",
    "title": "60-Count TUMS Chewy Bites Antacid Tablets (Assorted Berries)",
@@ -19104,34 +19125,7 @@
      "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20388456&tid=20388456&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=496f23a2e86e11f190493a8768f957c0&au=965a09c4d8b14059ad88097f12b404cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te16a619fe5c",
-   "title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 18V Brushless Angle Grinder",
-   "price": 149.0,
-   "old_price": 318.0,
-   "store": "Home Depot",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20388450&tid=20388450&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=ac74eac0e87f11f1960c72ad2e05b851&au=8df5ed266aff482c9fddae2e8b40cb6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20388450&tid=20388450&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=ac74eac0e87f11f1960c72ad2e05b851&au=8df5ed266aff482c9fddae2e8b40cb6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22567872.thumb",
-   "posted": "2026-11-24T18:16:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Home Depot",
-     "price": 149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20388450&tid=20388450&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=ac74eac0e87f11f1960c72ad2e05b851&au=8df5ed266aff482c9fddae2e8b40cb6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T13:56:02+00:00"
+ "updated": "2026-11-25T14:01:50+00:00"
 }
