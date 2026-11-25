@@ -98,8 +98,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11706,7 +11704,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12192,9 +12190,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12653,6 +12648,24 @@
    "real_old": 65.0
   },
   {
+   "id": "tc42fb121cb6",
+   "title": "ZAGG Messenger Folio 2 Wireless Keyboard and Case for Apple iPad 11\" 11th Gen (A16) and 10.9\" 10th Gen $35.99",
+   "price": 35.99,
+   "old_price": 65.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20391261-zagg-messenger-folio-2-wireless-keyboard-and-case-for-apple-ipad-11-11th-gen-a16-and-10-9-10th-gen-35-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/8/9/3/300x300/22574961.thumb",
+   "posted": "2026-11-25T02:17:23+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T09:35:12+00:00",
+   "real_price": 35.99,
+   "real_old": 65.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=83331aaee8b311f1a1b4768fc20c66d0&au=7ed8d0a0c8344513abc7c26894edd841&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta3e3a0a6844",
    "title": "43\" Pioneer Class LED 4K UHD Smart Roku TV $140 + Free S&H",
    "price": 139.99,
@@ -12755,8 +12768,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dfe6909ce8b211f1b881c2e14d85113f&au=4a09f4a41dd74d22a9885dae733dc2d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:30:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=84671736e8b311f188962a916d1f14a1&au=c6a6672104bd4e448313653f52c01948&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:35:15+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16018,24 +16031,6 @@
    "checked_at": "2026-11-24T12:44:36+00:00",
    "real_price": 19.99,
    "real_old": 59.99
-  },
-  {
-   "id": "t670c894741b",
-   "title": "75\" Insignia F50 Series 4K UHD LED Smart Fire TV $350 + Free S&H",
-   "price": 349.99,
-   "old_price": 599.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20378985-insignia-75-inch-class-f50-series-led-2160p-4k-uhd-smart-fire-tv-349-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22559679.thumb",
-   "posted": "2026-11-24T11:34:54+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&pno=1372776&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bfee756e7fb11f19ddcb6ae1fe76f64&au=9114ac646cad4931837a71f9b3d5c583&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T11:36:32+00:00",
-   "real_price": 349.99,
-   "real_old": 599.99
   }
  ],
  "tech": [
@@ -16595,7 +16590,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19274,5 +19269,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T09:31:34+00:00"
+ "updated": "2026-11-25T09:36:14+00:00"
 }
