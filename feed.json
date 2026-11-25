@@ -16,13 +16,13 @@
    "refurb": false,
    "code": "BFF94",
    "code_until": null,
-   "checked_at": "2026-11-25T15:27:35+00:00",
-   "category_ok": true,
-   "real_price": 27.99,
-   "real_old": 58.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T15:27:35+00:00",
+   "real_price": 27.99,
+   "real_old": 58.99,
+   "category_ok": true
   },
   {
    "id": "fbdddebe4f9a",
@@ -1019,7 +1019,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6e31e16ee81b11f1bfb58ac1ac0739c8&au=6a7faa6f7a0b49b2ba137f5356071517&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:29:44+00:00",
+   "checked_at": "2026-11-25T15:31:59+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1040,7 +1040,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6f7b06f4e81b11f18e8f0248a79e31ce&au=22070ae8dec240298edebe22d48a135c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:29:46+00:00",
+   "checked_at": "2026-11-25T15:32:01+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11538,6 +11538,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t626e72d09fc",
+   "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm $209, 40mm $179 & More + Free S&H",
+   "price": 179.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20367915-179-40mm-apple-watch-se-3-gps-smartwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22585575.thumb",
+   "posted": "2026-11-25T15:31:30+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:32:58+00:00",
+   "real_price": 179.0,
+   "real_old": 249.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tcf159c5ba8c",
    "title": "Apple iPad Pro 13\" M4 Chip Tablet (Space Black): 1TB WiFi + Cellular $1286 & More + Free S&H w/ Amazon Prime",
    "price": 1286.1,
@@ -11554,6 +11572,24 @@
    "real_price": 1286.1,
    "real_old": 2099.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bab86e2e8e511f198c3be9fe087b803&au=06ec10cbf77e49c78fbeb59b356a5852&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tee27e6f7b9c",
+   "title": "Apple iPad Pro 13\" M4 Chip Tablet (Space Black): 1TB WiFi + Cellular $1286 & More + Free S&H w/ Amazon Prime",
+   "price": 1286.1,
+   "old_price": 2099.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20394030-apple-ipad-pro-13-m4-chip-tablet-space-black-1tb-wifi-cellular-1286-more-free-s-h-w-amazon-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22585473.thumb",
+   "posted": "2026-11-25T15:27:37+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:33:00+00:00",
+   "real_price": 1286.1,
+   "real_old": 2099.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "teb60e97c588",
@@ -11772,10 +11808,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394225&tid=20394225&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0d1cd990e8e511f18f57aef31e383ec0&au=a72d9e26ccf1489e89b835f5445bb0f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:29:49+00:00",
    "real_price": 99.9,
-   "real_old": 129.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394225&tid=20394225&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0d1cd990e8e511f18f57aef31e383ec0&au=a72d9e26ccf1489e89b835f5445bb0f0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 129.99
   },
   {
    "id": "t4439ac256e6",
@@ -13995,8 +14031,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e9995a6e8e511f198fbfea0be5fc86f&au=3ed2c50c5723427b9c4ab51f157ab8ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:29:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8082d6fae8e511f18a5aae6475442606&au=50794f9b0bcd426a8e34af5c32a95d04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T15:33:03+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14610,10 +14646,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:29:54+00:00",
    "real_price": 14.99,
-   "real_old": 21.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 21.99
   },
   {
    "id": "t7a2e403a67a",
@@ -14646,10 +14682,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389932&tid=20389932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1106f978e8e511f194ccbe4ed03e0f05&au=baf8cb5c90a5466ca04c2860daf3a3da&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:29:56+00:00",
    "real_price": 29.49,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389932&tid=20389932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1106f978e8e511f194ccbe4ed03e0f05&au=baf8cb5c90a5466ca04c2860daf3a3da&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "t8b0b69e1943",
@@ -15905,43 +15941,36 @@
    "checked_at": "2026-11-24T17:57:48+00:00",
    "real_price": 54.99,
    "real_old": 69.98
-  },
-  {
-   "id": "tc745fede5dd",
-   "title": "Straight Talk Prepaid Smartphones: Apple iPhone 16e $199, Samsung Galaxy A27 $99.99 w/ Plan Purchase",
-   "price": 57.0,
-   "old_price": null,
-   "store": "Slickdeals",
-   "url": "https://slickdeals.net/f/20388315-straight-talk-prepaid-smartphones-apple-iphone-16e-199-samsung-galaxy-a27-99-99-w-plan-purchase?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22567461.thumb",
-   "posted": "2026-11-24T17:49:52+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "checked_at": "2026-11-24T18:45:17+00:00",
-   "real_price": 57.0
-  },
-  {
-   "id": "ta20052a1f9a",
-   "title": "ASUS ROG Flow Z13 Tablet: 13.4” QHD+ IPS 180Hz, Ryzen AI MAX 390, 32GB RAM, 1TB SSD $1700 + Free S&H",
-   "price": 1699.99,
-   "old_price": 2099.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20368002-1699-99-asus-rog-flow-z13-tablet-13-4-qhd-ips-180hz-ryzen-ai-max-390-32gb-ram-1tb-ssd-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22567338.thumb",
-   "posted": "2026-11-24T17:48:59+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368002&pno=1373010&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e4da196ce82f11f1a699627e37bd7432&au=8ab27041117946c4b03920ab4f2186c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:53:03+00:00",
-   "real_price": 1699.99,
-   "real_old": 2099.99
   }
  ],
  "tech": [
+  {
+   "id": "t626e72d09fc",
+   "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm 40mm & More + Free S&H",
+   "price": 179.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22585575.thumb",
+   "posted": "2026-11-25T15:31:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 179.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tcf159c5ba8c",
    "title": "Apple iPad Pro 13\" M4 Chip Tablet (Space Black): 1TB WiFi + Cellular & More + Free S&H",
@@ -19148,34 +19177,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1dca3514e85711f18fdebe65d06667c7&au=a71748a694944482b4f43c5c7d46afd7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t89ad1a95a3a",
-   "title": "VIZIO 85\" Class Quantum Series Mini LED 4K Smart TV @Sam'sClub B&M YMMV",
-   "price": 498.0,
-   "old_price": 768.0,
-   "store": "Sam's Club",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc362166e85a11f1add0d62a03b18558&au=f6b320bad0874248a692ae9eebb65ff3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc362166e85a11f1add0d62a03b18558&au=f6b320bad0874248a692ae9eebb65ff3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22572372.thumb",
-   "posted": "2026-11-24T20:01:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Sam's Club",
-     "price": 498.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc362166e85a11f1add0d62a03b18558&au=f6b320bad0874248a692ae9eebb65ff3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T15:30:50+00:00"
+ "updated": "2026-11-25T15:33:55+00:00"
 }
