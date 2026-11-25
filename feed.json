@@ -14,13 +14,13 @@
    "posted": "2026-11-25T03:34:46+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T03:36:52+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=740b2a62e88111f1acba7ab09e679b66&au=a1f3974370384c598526556f414a8ac9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T03:36:52+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "db84f7f427a7",
@@ -35,13 +35,13 @@
    "posted": "2026-11-25T03:34:46+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T03:36:54+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=754b0370e88111f1b8137a55f551cdc8&au=fa2a708684074c2c8243880fafa6bf97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T03:36:54+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "82b19ad9c8f2",
@@ -2215,7 +2215,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375451&tid=20375451&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=f1c3c12ee78411f190438af2fbc4f239&au=dca61d97c43d4759b79c0a2252929a2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T21:37:02+00:00",
+   "checked_at": "2026-11-25T03:41:29+00:00",
    "real_price": 15.0,
    "real_old": 34.99,
    "category_ok": true
@@ -11802,8 +11802,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=95457520e88111f1a4e3fece870858ca&au=e93595bf4a824a74a84e76327a48d5ae&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:37:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ac10564e88211f1b95fde35afce2d72&au=c98a443f630045fb80d68d3e2ac3a65c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T03:42:25+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -11902,6 +11902,24 @@
    "checked_at": "2026-11-25T00:29:04+00:00",
    "real_price": 49.99,
    "real_old": 129.99
+  },
+  {
+   "id": "t58eea55cfad",
+   "title": "Wyze Cam OG, Plug-in Indoor/Outdoor 1080p HD Smart Home Security Camera with Built-In Spotlight",
+   "price": 9.98,
+   "old_price": 29.98,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20390622-wyze-cam-og-plug-in-indoor-outdoor-1080p-hd-smart-home-security-camera-with-built-in-spotlight?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/7/3/9/4/300x300/22574697.thumb",
+   "posted": "2026-11-25T00:12:54+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T03:42:27+00:00",
+   "real_price": 9.98,
+   "real_old": 29.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20390622&tid=20390622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3bf2c40ee88211f1a39d4e2eae10b5bf&au=068c4df6b5f7441e842e3ae19f665b37&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t11138dcf8f2",
@@ -14455,9 +14473,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16005,24 +16020,6 @@
    "checked_at": "2026-11-23T20:45:06+00:00",
    "real_price": 989.1,
    "real_old": 1299.0
-  },
-  {
-   "id": "t03ce6a77755",
-   "title": "EGO POWER+ 56V 21\" Brushless Self-Propelled Lawn Mower w/ 2x 6 Ah Batteries $670 + 10% Back w/ Prime Card + Free S&H",
-   "price": 669.99,
-   "old_price": 879.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20340141-669-99-ego-power-56v-21-brushless-self-propelled-lawn-mower-w-2x-6-ah-batteries-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22554969.thumb",
-   "posted": "2026-11-24T04:49:28+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340141&pno=1372572&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=eca007c8e7c211f192781210360b3c21&au=6633b1a6d0794218b7bbf20affd5cadb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T04:53:00+00:00",
-   "real_price": 669.99,
-   "real_old": 879.99
   }
  ],
  "tech": [
@@ -18547,7 +18544,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19261,5 +19258,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T03:38:43+00:00"
+ "updated": "2026-11-25T03:43:21+00:00"
 }
