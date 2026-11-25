@@ -203,13 +203,13 @@
    "posted": "2026-11-24T21:43:29+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T01:09:31+00:00",
-   "category_ok": true,
-   "real_price": 19.65,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T01:09:31+00:00",
+   "real_price": 19.65,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "2574194d424b",
@@ -11093,6 +11093,18 @@
  ],
  "news": [
   {
+   "id": "e3b397072752",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Mario Kart World – Ver. 1.9.0 Update Available Now – Nintendo Switch 2",
+   "summary": "Eight familiar courses are racing in, each with brand-new twists and turns! Plus, enjoy two new routes in Knockout Tour, and watch replays of past races and battles with the newly enhanced Replay feature.",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=Pn0MuiE7YDQ",
+   "image": "https://i.ytimg.com/vi/Pn0MuiE7YDQ/hqdefault.jpg",
+   "posted": "2026-11-25T01:00:34+00:00"
+  },
+  {
    "id": "81436257cf42",
    "date_ok": true,
    "seeded": true,
@@ -11596,18 +11608,6 @@
    "url": "https://www.youtube.com/watch?v=s-P09UGp4eE",
    "image": "https://i.ytimg.com/vi/s-P09UGp4eE/hqdefault.jpg",
    "posted": "2026-11-17T23:00:01+00:00"
-  },
-  {
-   "id": "a27c99ca5fce",
-   "date_ok": true,
-   "seeded": true,
-   "title": "A Little to the Left Nintendo Switch 2 Edition – Launch Trailer",
-   "summary": "A Little to the Left released 4 years ago. Now, it's back with a Nintendo Switch 2 Edition, along with a free upgrade path available for existing Nintendo Switch players!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=nKRxwgwSEqI",
-   "image": "https://i.ytimg.com/vi/nKRxwgwSEqI/hqdefault.jpg",
-   "posted": "2026-11-17T17:00:13+00:00"
   }
  ],
  "raw_tech": [
@@ -11819,7 +11819,7 @@
    "old_price": 179.0,
    "store": "Amazon",
    "url": "https://slickdeals.net/f/20390232-sonos-roam-2-black-or-white-portable-waterproof-bluetooth-speaker-10-hr-battery-ip67-waterproof-wifi-airplay-2-139?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22572489.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22573815.thumb",
    "posted": "2026-11-24T23:10:29+00:00",
    "cat": "audio",
    "cat_label": "Audio",
@@ -15641,10 +15641,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383440&tid=20383440&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=00af9a80e86d11f1803052a93c12b4af&au=5c8acf5a571443b9a6c21c955e9868c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T01:10:28+00:00",
    "real_price": 2899.99,
-   "real_old": 3499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383440&tid=20383440&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=00af9a80e86d11f1803052a93c12b4af&au=5c8acf5a571443b9a6c21c955e9868c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 3499.99
   },
   {
    "id": "t11d29f274e7",
@@ -15990,8 +15990,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=01dcfd1ce86d11f1b9066e1ecd94c170&au=72d31fd9bc134a3e866f08fd677e2cac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T01:10:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a55c6d42e86d11f1bc16c62e44a7d2a2&au=323c4cbebe1c40e18321b61b76e101ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T01:15:05+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16275,7 +16275,7 @@
    "store": "Amazon",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390232&tid=20390232&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=a1f123e4e86a11f190f5766b643ec681&au=5e41b8d792664334a78ff547e7efb265&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390232&tid=20390232&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=a1f123e4e86a11f190f5766b643ec681&au=5e41b8d792664334a78ff547e7efb265&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22572489.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22573815.thumb",
    "posted": "2026-11-24T23:10:29+00:00",
    "kind": "tech",
    "section": "tech",
@@ -19286,5 +19286,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T01:11:26+00:00"
+ "updated": "2026-11-25T01:16:02+00:00"
 }
