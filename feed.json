@@ -1335,7 +1335,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T21:11:29+00:00",
+   "checked_at": "2026-11-25T23:12:18+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1810,7 +1810,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T17:11:44+00:00",
+   "checked_at": "2026-11-25T23:12:13+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -1831,7 +1831,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7e96df3ee7f611f1bef92e7fc0556dec&au=7ba28ce00ade4f6581f38ca4a2f13771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T17:11:46+00:00",
+   "checked_at": "2026-11-25T23:12:15+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11476,10 +11476,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:08:29+00:00",
    "real_price": 349.99,
-   "real_old": 789.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 789.99
   },
   {
    "id": "t84e1ca7d2ba",
@@ -11632,10 +11632,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398359&tid=20398359&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=21bf16f2e92511f1850ab69afa6fed55&au=b39117f67f364c9388c8affb1f63ac77&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:08:32+00:00",
    "real_price": 89.99,
-   "real_old": 149.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398359&tid=20398359&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=21bf16f2e92511f1850ab69afa6fed55&au=b39117f67f364c9388c8affb1f63ac77&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 149.99
   },
   {
    "id": "t05b635f845d",
@@ -11957,10 +11957,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:08:34+00:00",
    "real_price": 24.96,
-   "real_old": 34.96,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 34.96
   },
   {
    "id": "t40cd481d3dc",
@@ -11979,6 +11979,24 @@
    "checked_at": "2026-11-25T20:26:33+00:00",
    "real_price": 199.0,
    "real_old": 428.0
+  },
+  {
+   "id": "t24ec1959cfc",
+   "title": "Acer Chromebook 315 15.6\" FHD Laptop w/ MediaTek Kompanio 540, 4GB RAM & 64GB eMMC (Silver) $179 + Free Shipping",
+   "price": 179.0,
+   "old_price": 349.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20397552-acer-chromebook-315-15-6-fhd-laptop-w-mediatek-kompanio-540-4gb-ram-64gb-emmc-silver-179-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591512.thumb",
+   "posted": "2026-11-25T20:17:06+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:13:10+00:00",
+   "real_price": 179.0,
+   "real_old": 349.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t2711213a289",
@@ -12389,10 +12407,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20396727&tid=20396727&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=243e99cae92511f18e5ceaef9dc5a9f8&au=ac8906ced711487b862dda48eebe0bd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:08:36+00:00",
    "real_price": 199.0,
-   "real_old": 497.84,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20396727&tid=20396727&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=243e99cae92511f18e5ceaef9dc5a9f8&au=ac8906ced711487b862dda48eebe0bd0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 497.84
   },
   {
    "id": "td6eb6aba47a",
@@ -12714,6 +12732,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:22:14+00:00",
    "real_price": 60.0
+  },
+  {
+   "id": "t9d2bc15329b",
+   "title": "Arlo Ultra 2 4K UHD Wire-Free Security Camera System (2-Camera Kit) $139.99 + Free Shipping",
+   "price": 139.99,
+   "old_price": 279.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20396049-arlo-ultra-2-4k-uhd-wire-free-security-camera-system-2-camera-kit-139-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22587807.thumb",
+   "posted": "2026-11-25T17:17:40+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:13:13+00:00",
+   "real_price": 139.99,
+   "real_old": 279.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396049&tid=20396049&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=c9515524e92511f190c58e9ce954beab&au=e4704e07a40d4259b1f0cc8a18f6aa36&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7e5c499583a",
@@ -13151,8 +13187,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:08:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=caadb57ae92511f18e14a6f64cc7c3ff&au=c78634a18439491caaad9ae165c067d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T23:13:15+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13414,8 +13450,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:08:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cbdb310ce92511f18297c6d4ee8a45e5&au=439d9cdcd70647f68a6c51d28e06035d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T23:13:17+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13636,10 +13672,10 @@
    "code": "BUYDIG50",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:08:42+00:00",
    "real_price": 1999.0,
-   "real_old": 2438.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2438.0
   },
   {
    "id": "te133b0b68cc",
@@ -14048,6 +14084,24 @@
    "real_old": 29.19
   },
   {
+   "id": "t8b6f08dd6db",
+   "title": "[AC] $39.99: Patbrela 7-in-1 Air Fryer, 5QT Glass Basket, 360° Viewing Window, 1400W, LED Touchscreen at Walmart.com",
+   "price": 39.99,
+   "old_price": 98.98,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20394078-ac-39-99-patbrela-7-in-1-air-fryer-5qt-glass-basket-360-viewing-window-1400w-led-touchscreen-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22582023.thumb",
+   "posted": "2026-11-25T13:11:43+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:13:19+00:00",
+   "real_price": 39.99,
+   "real_old": 98.98,
+   "store_url": "https://www.walmart.com/ip/19689408397"
+  },
+  {
    "id": "t660873bb46e",
    "title": "RYOBI ONE+ 18V Cordless High Pressure Inflator (Tool Only) $19.97 + Free S&H",
    "price": 19.97,
@@ -14141,6 +14195,24 @@
    "checked_at": "2026-11-25T14:00:40+00:00",
    "real_price": 46.13,
    "real_old": 66.58
+  },
+  {
+   "id": "t82bfa2c5fb9",
+   "title": "$33.99: SHOUFTW 25 Inch LED Tower Space Heater w/ Remote Control, 15H Timer, 60° Oscillation, Black at Walmart, Free S&H",
+   "price": 33.99,
+   "old_price": 49.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20394021-33-99-shouftw-25-inch-led-tower-space-heater-w-remote-control-15h-timer-60-oscillation-black-at-walmart-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22581909.thumb",
+   "posted": "2026-11-25T13:03:24+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:13:21+00:00",
+   "real_price": 33.99,
+   "real_old": 49.99,
+   "store_url": "https://www.walmart.com/ip/21192918036"
   },
   {
    "id": "t17849f04400",
@@ -14485,6 +14557,24 @@
    "real_old": 119.99
   },
   {
+   "id": "t0148e98b364",
+   "title": "$87.99: Tydimor TV Cabinet Stands for TVs up to 65\" with Storage Shelf (Walmut) at Walmart.com",
+   "price": 87.99,
+   "old_price": 208.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20393358-87-99-tydimor-tv-cabinet-stands-for-tvs-up-to-65-with-storage-shelf-walmut-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22580439.thumb",
+   "posted": "2026-11-25T10:36:46+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:13:24+00:00",
+   "real_price": 87.99,
+   "real_old": 208.99,
+   "store_url": "https://www.walmart.com/ip/18366202875"
+  },
+  {
    "id": "te7a619987ec",
    "title": "2-Pk 64GB Amazon Basics A2 U3 microSDXC Memory Card w/ Adapter $18 + Free S&H w/ Amazon Prime",
    "price": 18.0,
@@ -14498,7 +14588,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15840,99 +15930,6 @@
    "checked_at": "2026-11-25T04:03:03+00:00",
    "real_price": 127.28,
    "real_old": 171.92
-  },
-  {
-   "id": "tc68b124a0ac",
-   "title": "LISEN 67\" Phone Tripod/Selfie Stick w/ Auto-Deploy Base & Remote $15",
-   "price": 14.99,
-   "old_price": 33.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20378178-lisen-67-one-hand-open-phone-tripod-selfie-stick-w-bluetooth-remote-black-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22542135.thumb",
-   "posted": "2026-11-25T03:55:14+00:00",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "prio": 15,
-   "refurb": false,
-   "code": "JDY82MQ0",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:56:59+00:00",
-   "real_price": 14.99,
-   "real_old": 33.99
-  },
-  {
-   "id": "t2c0a391fdcf",
-   "title": "100W PD Reborn USB-C to Dual DisplayPort & HDMI MST Hub Adapter (4K@60Hz, 3-Monitor) $11.49 + Free Shipping w/ Prime or on $35+",
-   "price": 11.49,
-   "old_price": 22.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391759-100w-pd-reborn-usb-c-to-dual-displayport-hdmi-mst-hub-adapter-4k-60hz-3-monitor-11-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22576254.thumb",
-   "posted": "2026-11-25T03:53:27+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:07:10+00:00",
-   "real_price": 11.49,
-   "real_old": 22.99
-  },
-  {
-   "id": "td65a37b9c12",
-   "title": "70-Count Finish Quantum Dishwasher Pods (Fresh) $11.99 w/ S&S + Free Shipping w/ Prime or on $35+",
-   "price": 11.99,
-   "old_price": 21.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391732-70-count-finish-quantum-dishwasher-pods-fresh-11-99-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22576134.thumb",
-   "posted": "2026-11-25T03:49:07+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391732&tid=20391732&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=59dba448e8f711f1bc053639aa82b60b&au=a9f43173ff9b4170a64784942f70b0e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:40:49+00:00",
-   "real_price": 11.99,
-   "real_old": 21.99
-  },
-  {
-   "id": "tb65f409e914",
-   "title": "$479.99 | 256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver) at Amazon",
-   "price": 479.99,
-   "old_price": 549.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391654-479-99-256gb-11-apple-ipad-a16-chip-wi-fi-tablet-11th-gen-blue-or-silver-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576746.thumb",
-   "posted": "2026-11-25T03:38:03+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:25:05+00:00",
-   "real_price": 479.99,
-   "real_old": 549.0
-  },
-  {
-   "id": "t6fe2bc21460",
-   "title": "$22.91 | Apple Watch Band - Sport Band (42mm) - Clementine - M/L at Amazon",
-   "price": 22.91,
-   "old_price": 45.81,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391651-22-91-apple-watch-band-sport-band-42mm-clementine-m-l-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22575939.thumb",
-   "posted": "2026-11-25T03:37:43+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:55:49+00:00",
-   "real_price": 22.91,
-   "real_old": 45.81
   }
  ],
  "tech": [
@@ -16365,6 +16362,33 @@
      "store": "Amazon",
      "price": 24.96,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t24ec1959cfc",
+   "title": "Acer Chromebook 315 15.6\" FHD Laptop",
+   "price": 179.0,
+   "old_price": 349.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591512.thumb",
+   "posted": "2026-11-25T20:17:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 179.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17430,8 +17454,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=caadb57ae92511f18e14a6f64cc7c3ff&au=c78634a18439491caaad9ae165c067d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=caadb57ae92511f18e14a6f64cc7c3ff&au=c78634a18439491caaad9ae165c067d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17447,7 +17471,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=caadb57ae92511f18e14a6f64cc7c3ff&au=c78634a18439491caaad9ae165c067d1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17619,8 +17643,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cbdb310ce92511f18297c6d4ee8a45e5&au=439d9cdcd70647f68a6c51d28e06035d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cbdb310ce92511f18297c6d4ee8a45e5&au=439d9cdcd70647f68a6c51d28e06035d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17636,7 +17660,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cbdb310ce92511f18297c6d4ee8a45e5&au=439d9cdcd70647f68a6c51d28e06035d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18478,6 +18502,33 @@
    ]
   },
   {
+   "id": "t0148e98b364",
+   "title": ": Tydimor TV Cabinet Stands for TVs up to 65\" with Storage Shelf (Walmut)",
+   "price": 87.99,
+   "old_price": 208.99,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18366202875",
+   "url": "https://www.walmart.com/ip/18366202875",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22580439.thumb",
+   "posted": "2026-11-25T10:36:46+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 87.99,
+     "url": "https://www.walmart.com/ip/18366202875"
+    }
+   ]
+  },
+  {
    "id": "te7a619987ec",
    "title": "2-Pk 64GB Amazon Basics A2 U3 microSDXC Memory Card",
    "price": 18.0,
@@ -18494,7 +18545,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19097,61 +19148,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t77e37166f69",
-   "title": "Logitech MX Master 4 Ergonomic Wireless Mouse with Haptics - Graphite + Free S&H",
-   "price": 72.0,
-   "old_price": 119.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&tid=20392449&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=36cb2992e89811f19d068ec4e983430e&au=abbb0a5c970242fd8678f1a808ae4a34&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&tid=20392449&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=36cb2992e89811f19d068ec4e983430e&au=abbb0a5c970242fd8678f1a808ae4a34&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22578063.thumb",
-   "posted": "2026-11-25T06:07:05+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "20MOUSE",
-   "code_until": "2026-11-25",
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 72.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&tid=20392449&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=36cb2992e89811f19d068ec4e983430e&au=abbb0a5c970242fd8678f1a808ae4a34&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tad605137fcb",
-   "title": "Compustar - CSX5305S-KIT 2-Way Remote Starter, 3,000-ft Range, Smartphone Control, DroneMobile, Installation Included - Black",
-   "price": 399.99,
-   "old_price": 649.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=365042fce89a11f1bf883acabd27a35c&au=89f0fe765ae04774af6f058d42f5213d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=365042fce89a11f1bf883acabd27a35c&au=89f0fe765ae04774af6f058d42f5213d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22578042.thumb",
-   "posted": "2026-11-25T06:04:47+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=365042fce89a11f1bf883acabd27a35c&au=89f0fe765ae04774af6f058d42f5213d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T23:09:24+00:00"
+ "updated": "2026-11-25T23:14:07+00:00"
 }
