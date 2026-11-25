@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "0856c887f92a",
+   "title": "DEWALT 20V MAX Cordless 4 1/2 Inch Paddle-Switch Grinder, Bare Tool Only (DCG408B)",
+   "price": 117.0,
+   "old_price": 199.0,
+   "store": "Slickdeals",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20398026-dewalt-20v-max-cordless-4-1-2-inch-paddle-switch-grinder-bare-tool-only-dcg408b?utm_source=rss&utm_content=&utm_medium=RSS2",
+   "image": "https://slickdeals.net/attachment/3/3/5/1/5/6/450x450/22592718.thumb",
+   "posted": "2026-11-25T21:30:03+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:30:29+00:00",
+   "category_ok": false,
+   "real_price": 117.0,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6f3cc78ee91711f18d663ea1188bd8d8&au=5863e0db8ff1431ab9de4b3d310572d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "28e86f909346",
    "title": "$15* | Assassin’s Creed Shadows (Switch 2, Game-Key Card) at Amazon",
    "price": 15.0,
@@ -733,10 +754,12 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T19:25:12+00:00",
+   "checked_at": "2026-11-25T21:30:31+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -3176,27 +3199,6 @@
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
-  },
-  {
-   "id": "4ac624290d58",
-   "title": "Sonic X Shadow Generations (Switch 2) - $15 @ Walmart",
-   "price": 15.0,
-   "old_price": 24.88,
-   "store": "Walmart",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20374893-sonic-x-shadow-generations-switch-2-15-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22533678.thumb",
-   "posted": "2026-11-23T07:32:32+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374893&tid=20374893&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=df43fbbee72e11f1ad5c9a0a1bd4da77&au=b3f7687bfeb54ed78ba6eeda52ca3b86&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-25T20:53:50+00:00",
-   "real_price": 15.0,
-   "real_old": 24.88,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-25T20:35:02+00:00",
@@ -4106,7 +4108,7 @@
   },
   {
    "id": "3de466755d94",
-   "title": "Sonic X Shadow Generations (Switch 2)",
+   "title": "Sonic X Shadow Generations (Nintendo Switch 2 Game-Key Card)",
    "price": 15.0,
    "old_price": 24.88,
    "store": "Walmart",
@@ -11482,6 +11484,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t1ac9b1bc3d0",
+   "title": "HyperX OMEN Laptop: 15.3\" 2.5K 180Hz, Ryzen 9 8940HX, RTX 5070, 16GB, 1TB $1299 + Free S&H",
+   "price": 1299.0,
+   "old_price": 2389.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20373405-w-live-11-23-hyperx-omen-15-3-wqxga-180hz-2-5k-ips-gaming-laptop-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5070-16gb-1tb-ssd-black-1299?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://slickdeals.net/attachment/1/5/0/7/0/1/0/450x450/22529646.thumb",
+   "posted": "2026-11-25T21:27:43+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:31:26+00:00",
+   "real_price": 1299.0,
+   "real_old": 2389.0,
+   "store_url": "https://www.walmart.com/ip/18183070833"
+  },
+  {
    "id": "t0b8ae4fc0c2",
    "title": "Chipotle Mexican Grill Rewards Offer: Any Qualifying Entree Purchase B1G1 Free (Valid 11/25 at 5PM to 9PM Local Time)",
    "price": 57.0,
@@ -11625,10 +11645,10 @@
    "code": "USSEESII",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397525&tid=20397525&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e906c2bee91611f1a0ebf624b5530aa6&au=024ccd62496c4e33a2acc5b599a47f94&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:26:43+00:00",
    "real_price": 19.93,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397525&tid=20397525&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e906c2bee91611f1a0ebf624b5530aa6&au=024ccd62496c4e33a2acc5b599a47f94&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "tbb25c5049a9",
@@ -12574,8 +12594,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ea8fb17ce91611f18c3822a1e57f962e&au=ea78ca6821744d618102af9840714799&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:26:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9294fd14e91711f18ae6e6c0e94954f5&au=4287c09a08ca4e698008197a9371db36&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:31:28+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12837,8 +12857,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ebfd1932e91611f1bfedf624b5530aa6&au=025c825b8c524ede99b044dd1d2d4093&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:26:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=93cd2b20e91711f19b27166b3cd67f10&au=e3fdae72cf05482cb10b4912d4a86d67&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:31:30+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13792,7 +13812,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15767,8 +15787,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ed539f04e91611f1b3ea7e3e3d2b1b81&au=f0f3f1b035144d97a4b1ac12d7b87008&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:26:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=951927a4e91711f19a61e283662d4aca&au=55de0136df7040679ebb406135cc6e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:31:32+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15921,30 +15941,36 @@
    "checked_at": "2026-11-25T01:42:46+00:00",
    "real_price": 1890.0,
    "real_old": 2600.0
-  },
-  {
-   "id": "t7dca8757997",
-   "title": "4\" x 6\" Phomemo Smart Touchscreen Thermal Label Printer (Black) $50 + Free S&H",
-   "price": 49.99,
-   "old_price": 129.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389446-phomemo-pm64d-4x6-thermal-shipping-label-printer-w-touchscreen-bluetooth-5-0-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22570584.thumb",
-   "posted": "2026-11-25T00:24:59+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "J2BFLNAJ",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389446&pno=1373343&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3792b3b2e86711f1a5c1fece870858ca&au=b5436cbca1f542099a9ac9bcf5d7ddc4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:29:04+00:00",
-   "real_price": 49.99,
-   "real_old": 129.99
   }
  ],
  "tech": [
+  {
+   "id": "t1ac9b1bc3d0",
+   "title": "HyperX OMEN Laptop: 15.3\" 2.5K 180Hz, Ryzen 9 8940HX, RTX 5070, 16GB, 1TB + Free S&H",
+   "price": 1299.0,
+   "old_price": 2389.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18183070833",
+   "url": "https://www.walmart.com/ip/18183070833",
+   "image": "https://slickdeals.net/attachment/1/5/0/7/0/1/0/450x450/22529646.thumb",
+   "posted": "2026-11-25T21:27:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 1299.0,
+     "url": "https://www.walmart.com/ip/18183070833"
+    }
+   ]
+  },
   {
    "id": "t7431e096f9e",
    "title": "75\" Hisense QD5 Series Hi-QLED 4K Smart Roku TV (2026, 75QD5SR) + Free S&H",
@@ -16953,8 +16979,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ea8fb17ce91611f18c3822a1e57f962e&au=ea78ca6821744d618102af9840714799&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ea8fb17ce91611f18c3822a1e57f962e&au=ea78ca6821744d618102af9840714799&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9294fd14e91711f18ae6e6c0e94954f5&au=4287c09a08ca4e698008197a9371db36&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9294fd14e91711f18ae6e6c0e94954f5&au=4287c09a08ca4e698008197a9371db36&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16970,7 +16996,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ea8fb17ce91611f18c3822a1e57f962e&au=ea78ca6821744d618102af9840714799&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9294fd14e91711f18ae6e6c0e94954f5&au=4287c09a08ca4e698008197a9371db36&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17142,8 +17168,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ebfd1932e91611f1bfedf624b5530aa6&au=025c825b8c524ede99b044dd1d2d4093&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ebfd1932e91611f1bfedf624b5530aa6&au=025c825b8c524ede99b044dd1d2d4093&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=93cd2b20e91711f19b27166b3cd67f10&au=e3fdae72cf05482cb10b4912d4a86d67&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=93cd2b20e91711f19b27166b3cd67f10&au=e3fdae72cf05482cb10b4912d4a86d67&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17159,7 +17185,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ebfd1932e91611f1bfedf624b5530aa6&au=025c825b8c524ede99b044dd1d2d4093&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=93cd2b20e91711f19b27166b3cd67f10&au=e3fdae72cf05482cb10b4912d4a86d67&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17990,7 +18016,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19133,34 +19159,7 @@
      "url": "https://www.walmart.com/ip/11381374703"
     }
    ]
-  },
-  {
-   "id": "t911f0d31df9",
-   "title": "34\" Samsung Odyssey G5 G55H UWQHD VA 180Hz FreeSync Curved Gaming Monitor + Free S&H",
-   "price": 179.0,
-   "old_price": 279.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/20309319436",
-   "url": "https://www.walmart.com/ip/20309319436",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22558845.thumb",
-   "posted": "2026-11-25T04:10:53+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 179.0,
-     "url": "https://www.walmart.com/ip/20309319436"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T21:27:41+00:00"
+ "updated": "2026-11-25T21:32:19+00:00"
 }
