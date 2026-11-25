@@ -14,13 +14,13 @@
    "posted": "2026-11-25T11:19:01+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T11:23:05+00:00",
-   "category_ok": true,
-   "real_price": 24.88,
-   "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&pno=1373715&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=950148f0e8c211f18626766b643ec681&au=f3854180703644a6bc738ab13cdbb2b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T11:23:05+00:00",
+   "real_price": 24.88,
+   "real_old": 59.99,
+   "category_ok": true
   },
   {
    "id": "4db1a19a1adf",
@@ -11560,7 +11560,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -11839,7 +11839,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -11915,10 +11915,10 @@
    "code": "BESTOFPC",
    "code_until": "2026-12-04",
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392572&tid=20392572&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4affb60e8c211f1af13820827a865f9&au=4471776bdef84ec79e7b563245c2cfe8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:23:58+00:00",
    "real_price": 24.29,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392572&tid=20392572&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4affb60e8c211f1af13820827a865f9&au=4471776bdef84ec79e7b563245c2cfe8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "te9445f20325",
@@ -12421,9 +12421,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -13002,8 +12999,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b629a36ae8c211f180cfde35afce2d72&au=4fa830736bb54327b380f3dcfbd58225&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:24:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=560b400ae8c311f1b5fcde35afce2d72&au=89a5b4d7d434410295ac4a4fbf39923f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:28:28+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16020,7 +16017,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -16829,7 +16826,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19184,5 +19181,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T11:24:53+00:00"
+ "updated": "2026-11-25T11:29:24+00:00"
 }
