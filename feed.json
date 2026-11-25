@@ -11702,6 +11702,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12136,8 +12139,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=50113c50e89011f1849aead78a0a5c38&au=5d0668d40aaf483cbd51419aae763b81&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T05:23:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8319060e89011f18879cea65f5d847b&au=026152055b504bf0a84f48ee617d8574&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T05:27:56+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16112,7 +16115,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19223,5 +19226,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T05:24:12+00:00"
+ "updated": "2026-11-25T05:28:57+00:00"
 }
