@@ -394,6 +394,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -674,7 +676,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&pno=1373217&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=be674ca6e85111f19f775205667f8650&au=82bc946b1adf42b7924c9d6a8f2d3e49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:57:21+00:00",
+   "checked_at": "2026-11-25T16:00:59+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11676,8 +11678,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=deda24bce8e811f1a1006a82603adb7c&au=44722636b7cd45319c3f24d3b4a87ffd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:57:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a87a078e8e911f19e9ab655d609ea7e&au=78a0fdc6dd13436b9599abb4346e56ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T16:01:57+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -11760,16 +11762,16 @@
    "old_price": 999.99,
    "store": "eBay",
    "url": "https://slickdeals.net/f/20394651-acer-aspire-16-ai-cert-refurb-16-fhd-ips-120hz-touch-snapdragon-x-x1-26-100-16gb-lpddr5-512gb-ssd-401-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22586322.thumb",
    "posted": "2026-11-25T14:36:50+00:00",
    "cat": "parts",
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20394651&tid=20394651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e0091366e8e811f194cc8a35b5b5354a&au=7bb05d67c6df4dbaa3db8fc386c4bdd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:57:11+00:00",
    "real_price": 401.2,
-   "real_old": 999.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20394651&tid=20394651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e0091366e8e811f194cc8a35b5b5354a&au=7bb05d67c6df4dbaa3db8fc386c4bdd7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 999.99
   },
   {
    "id": "t0779b4632c2",
@@ -12354,7 +12356,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -12722,6 +12724,24 @@
    "checked_at": "2026-11-25T12:55:47+00:00",
    "real_price": 219.99,
    "real_old": 399.99
+  },
+  {
+   "id": "t502d0dfa85d",
+   "title": "Teenage Mutant Ninja Turtles: The Complete Classic Series Collection (Bundle) $14.99",
+   "price": 14.99,
+   "old_price": 60.0,
+   "store": "Fandango.com",
+   "url": "https://slickdeals.net/f/20392878-teenage-mutant-ninja-turtles-the-complete-classic-series-collection-bundle-14-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/6/300x300/22579002.thumb",
+   "posted": "2026-11-25T08:07:39+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T16:01:59+00:00",
+   "real_price": 14.99,
+   "real_old": 60.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fandango.com&sdtid=20392878&tid=20392878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8bbc822ee8e911f18560ae6475442606&au=66b6f11330d34bb1971a39d34fc3470d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb508a6ac7de",
@@ -14157,8 +14177,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e17656e6e8e811f193a112522b6589b1&au=defd4114f5844a529b9df4f53882e358&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:57:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8cfce57ae8e911f18844969abbed4a35&au=e4b51078738b449b8348460cca78222a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T16:02:03+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15918,27 +15938,6 @@
    "checked_at": "2026-11-24T18:36:10+00:00",
    "real_price": 899.99,
    "real_old": 2199.99
-  },
-  {
-   "id": "tc18fd47ab38",
-   "title": "UGREEN - Nexode Pro 160W 5-Port USB-C Charger Block with Smart Display, Fast GaN Charger for MacBook Pro, Laptops, iPhone Series - Starlight Gray $56.99 + Free Shipping",
-   "price": 56.99,
-   "old_price": 89.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20388528-ugreen-nexode-pro-160w-5-port-usb-c-charger-block-with-smart-display-fast-gan-charger-for-macbook-pro-laptops-iphone-series-starlight-gray-56-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568172.thumb",
-   "posted": "2026-11-24T18:28:34+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "UL65636",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:14:47+00:00",
-   "real_price": 56.99,
-   "real_old": 89.99
   }
  ],
  "tech": [
@@ -16056,8 +16055,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=deda24bce8e811f1a1006a82603adb7c&au=44722636b7cd45319c3f24d3b4a87ffd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=deda24bce8e811f1a1006a82603adb7c&au=44722636b7cd45319c3f24d3b4a87ffd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a87a078e8e911f19e9ab655d609ea7e&au=78a0fdc6dd13436b9599abb4346e56ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a87a078e8e911f19e9ab655d609ea7e&au=78a0fdc6dd13436b9599abb4346e56ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16073,7 +16072,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=deda24bce8e811f1a1006a82603adb7c&au=44722636b7cd45319c3f24d3b4a87ffd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&tid=20395158&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a87a078e8e911f19e9ab655d609ea7e&au=78a0fdc6dd13436b9599abb4346e56ed&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16634,7 +16633,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19177,5 +19176,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T15:58:11+00:00"
+ "updated": "2026-11-25T16:02:55+00:00"
 }
