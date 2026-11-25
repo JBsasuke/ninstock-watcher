@@ -437,7 +437,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=48d587f0e8f111f187846a82603adb7c&au=c6d26ffb52fe4a0795ef7dbdf3035cd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:57:23+00:00",
+   "checked_at": "2026-11-25T22:58:18+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -458,7 +458,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4a473976e8f111f1bf1496c3e30d41b9&au=f1cbefdababb493f8927a51456b917cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:57:26+00:00",
+   "checked_at": "2026-11-25T22:58:21+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1873,7 +1873,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:57:28+00:00",
+   "checked_at": "2026-11-25T22:58:23+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -11464,6 +11464,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t84e1ca7d2ba",
+   "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & 8000mAh Power Bank $20",
+   "price": 20.01,
+   "old_price": 76.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20396697-gooloo-ge1500-1500a-12v-portable-car-jump-starter-power-bank-8000mah-20-01-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22594365.thumb",
+   "posted": "2026-11-25T22:57:18+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "D72RZ4J3",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T22:59:17+00:00",
+   "real_price": 20.01,
+   "real_old": 76.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&pno=1374225&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=d6fb2094e92311f18cd97e3e3d2b1b81&au=76d42b31c9d246538269501b3205704d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te2b405058be",
    "title": "Refurb/Excellent: 40mm Apple Watch SE 3 GPS + Cellular w/ Sport Band (Various) $148.80 + Free S&H",
    "price": 148.79,
@@ -11579,6 +11600,27 @@
    "checked_at": "2026-11-25T22:27:00+00:00",
    "real_price": 209.99,
    "real_old": 269.99
+  },
+  {
+   "id": "t05b635f845d",
+   "title": "Good Refurb: 512GB Samsung Galaxy Z Fold7 Unlocked Smartphone (4-Colors) $691.99 + Free Shipping",
+   "price": 691.99,
+   "old_price": 2199.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20398332-good-refurb-512gb-samsung-galaxy-z-fold7-unlocked-smartphone-4-colors-691-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22593495.thumb",
+   "posted": "2026-11-25T22:14:37+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T22:59:19+00:00",
+   "real_price": 691.99,
+   "real_old": 2199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20398332&tid=20398332&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d84474f0e92311f1b3c4125165339ebf&au=0f55826e68444dd094632b9d319e3401&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t1871c2c4c12",
@@ -11700,10 +11742,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:54:30+00:00",
    "real_price": 33.99,
-   "real_old": 40.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 40.99
   },
   {
    "id": "t1ac9b1bc3d0",
@@ -11825,6 +11867,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -12228,6 +12273,24 @@
    "real_old": 1499.99
   },
   {
+   "id": "tb32d70fed16",
+   "title": "Edifier G1500 MAX 2.1 RGB Gaming Speakers w/ 4\" Wood Subwoofer & 30W RMS $79.99 + Free Shipping",
+   "price": 79.99,
+   "old_price": 149.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20396793-edifier-g1500-max-2-1-rgb-gaming-speakers-w-4-wood-subwoofer-30w-rms-79-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22589847.thumb",
+   "posted": "2026-11-25T18:38:34+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:59:21+00:00",
+   "real_price": 79.99,
+   "real_old": 149.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396793&tid=20396793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d97740c8e92311f1b3c4125165339ebf&au=94ddd4346c1c4e3895f0da8f0081d424&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td6eb6aba47a",
    "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & Power Bank (8000mAh) $20.01 + Free Shipping w/ Walmart+ or on $35+",
    "price": 20.01,
@@ -12612,6 +12675,24 @@
    "real_old": 49.99
   },
   {
+   "id": "td10498710f7",
+   "title": "Apple Watch Series 11 GPS + Cellular 42mm Gold Titanium Case with Gold Milanese Loop",
+   "price": 399.99,
+   "old_price": 749.99,
+   "store": "Target",
+   "url": "https://slickdeals.net/f/20395971-apple-watch-series-11-gps-cellular-42mm-gold-titanium-case-with-gold-milanese-loop?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-25T17:04:17+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:59:23+00:00",
+   "real_price": 399.99,
+   "real_old": 749.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&tid=20395971&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=dad3c36ae92311f1b9925228727de8fe&au=1f32d1330dd54fcfb8c84ce74881c548&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te371e78524b",
    "title": "Dreame Aqua10 Ultra Roller Robot Vacuum & Mop $500 + Free S&H",
    "price": 499.99,
@@ -12667,6 +12748,27 @@
    "checked_at": "2026-11-25T17:50:13+00:00",
    "real_price": 14.89,
    "real_old": 42.99
+  },
+  {
+   "id": "td1b48409737",
+   "title": "FitBeast Magnetic Golf Cart Phone Mount w/ 360° Swivel Foldable Design $10.49 + Free Shipping w/ Prime or on $35+",
+   "price": 10.49,
+   "old_price": 20.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20395914-fitbeast-magnetic-golf-cart-phone-mount-w-360-swivel-foldable-design-10-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22587438.thumb",
+   "posted": "2026-11-25T16:54:52+00:00",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "prio": 15,
+   "refurb": false,
+   "code": "ZX5MFEUE",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T22:59:25+00:00",
+   "real_price": 10.49,
+   "real_old": 20.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t2445d2e5b2c",
@@ -12738,10 +12840,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:54:32+00:00",
    "real_price": 384.29,
-   "real_old": 547.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 547.99
   },
   {
    "id": "t2bdb54a351f",
@@ -12945,8 +13047,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:54:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd215696e92311f18d32ae29761d79cc&au=4c9827a095a744c69c0469ee409c969f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:59:27+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13208,8 +13310,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:54:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=de8a97aee92311f18d32ae29761d79cc&au=711b19aebabd4fc4a851002c8499627f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:59:29+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13248,6 +13350,24 @@
    "checked_at": "2026-11-25T16:36:03+00:00",
    "real_price": 16.9,
    "real_old": 21.42
+  },
+  {
+   "id": "tb66aac6d4f0",
+   "title": "CRAFTSMAN V20 3/8 in. Brushed Cordless Drill/Driver Kit (Battery & Charger) - $39",
+   "price": 39.0,
+   "old_price": 59.0,
+   "store": "Ace Hardware",
+   "url": "https://slickdeals.net/f/20395050-craftsman-v20-3-8-in-brushed-cordless-drill-driver-kit-battery-charger-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22584867.thumb",
+   "posted": "2026-11-25T15:16:22+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:59:31+00:00",
+   "real_price": 39.0,
+   "real_old": 59.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ace+Hardware&sdtid=20395050&tid=20395050&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dfc1abf8e92311f198657e3e3d2b1b81&au=085943ee7d75468c8244f0e433d551b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "teb60e97c588",
@@ -14253,7 +14373,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15813,117 +15933,36 @@
    "checked_at": "2026-11-25T03:14:43+00:00",
    "real_price": 44.98,
    "real_old": 64.99
-  },
-  {
-   "id": "tf4fa18f0917",
-   "title": "$399.50 for Apple Watch Series 11 [GPS + Cellular 46mm] Smartwatch with Natural Titanium Case with Natural Milanese Loop - S/M",
-   "price": 399.5,
-   "old_price": 799.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20391501-399-50-for-apple-watch-series-11-gps-cellular-46mm-smartwatch-with-natural-titanium-case-with-natural-milanese-loop-s-m?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/7/8/8/7/2/300x300/22578051.thumb",
-   "posted": "2026-11-25T03:04:37+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&tid=20391501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad73d81ee89311f18295ea9025c1022d&au=aa8be6ec4cb44ec4b582599eb8221ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T05:47:19+00:00",
-   "real_price": 399.5,
-   "real_old": 799.0
-  },
-  {
-   "id": "t070bd4c6d66",
-   "title": "$36.99: WORKPRO Wet Dry Vacuum 2.5 Gallon 3 Peak Horsepower Portable Shop Vacuum Cleaner Black W125080A at Walmart.com",
-   "price": 36.99,
-   "old_price": 79.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20391495-36-99-workpro-wet-dry-vacuum-2-5-gallon-3-peak-horsepower-portable-shop-vacuum-cleaner-black-w125080a-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22575582.thumb",
-   "posted": "2026-11-25T03:04:35+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/1306600025",
-   "checked_at": "2026-11-25T06:48:13+00:00",
-   "real_price": 36.99,
-   "real_old": 79.99
-  },
-  {
-   "id": "t2db052a474b",
-   "title": "2-Pack Anker Zolo Qi2 15W MagSafe-Compatible Wireless Charger Pad (White or Black) $23.99 + Free Shipping w/ Prime or on $35+",
-   "price": 23.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391486-2-pack-anker-zolo-qi2-15w-magsafe-compatible-wireless-charger-pad-white-or-black-23-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22575039.thumb",
-   "posted": "2026-11-25T03:01:29+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391486&tid=20391486&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e8cb4c64e8af11f1be0c768fc20c66d0&au=916e7488bcdd47f19393e68ab5d651de&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:09:25+00:00",
-   "real_price": 23.99,
-   "real_old": 39.99
-  },
-  {
-   "id": "t6ea21880626",
-   "title": "$899.99: Samsung 65-Inch Class S85H Series, OLED, 4K 120Hz, Smart TV, 2026 Model at Amazon",
-   "price": 899.99,
-   "old_price": 1598.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391480-899-99-samsung-65-inch-class-s85h-series-oled-4k-120hz-smart-tv-2026-model-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22575516.thumb",
-   "posted": "2026-11-25T03:00:41+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&tid=20391480&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=df24e346e88211f184f316d799504fd1&au=40f3952ebce7427bab7038eb78f0df63&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:47:01+00:00",
-   "real_price": 899.99,
-   "real_old": 1598.0
-  },
-  {
-   "id": "t6585271dea0",
-   "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker Pro Sound with Punchy bass",
-   "price": 31.95,
-   "old_price": 49.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391465-jbl-go-4-ultra-portable-waterproof-and-dustproof-bluetooth-speaker-pro-sound-with-punchy-bass?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/1/0/5/6/7/4/300x300/22575489.thumb",
-   "posted": "2026-11-25T02:59:27+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391465&tid=20391465&prop=diavail-true%7Cdincp-3%7Cdinpd-2%7Cdipgavail-true&pv=06ca8342e88d11f1a46dcea65f5d847b&au=dd4c8ea90a1e4079950fee313607f59c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:59:43+00:00",
-   "real_price": 31.95,
-   "real_old": 49.95
-  },
-  {
-   "id": "t54826894bf1",
-   "title": "WM | straight talk Iphone 16e 128GB - $199 and Samsung A27 - $99 | NO PLAN PURCHASE require| Use on existing Line",
-   "price": 199.0,
-   "old_price": 349.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20391429-wm-straight-talk-iphone-16e-128gb-199-and-samsung-a27-99-no-plan-purchase-require-use-on-existing-line?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22576590.thumb",
-   "posted": "2026-11-25T02:49:34+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/14822456361",
-   "checked_at": "2026-11-25T03:19:28+00:00",
-   "real_price": 199.0,
-   "real_old": 349.0
   }
  ],
  "tech": [
+  {
+   "id": "t84e1ca7d2ba",
+   "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & 8000mAh Power Bank",
+   "price": 20.01,
+   "old_price": 76.99,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&pno=1374225&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=d6fb2094e92311f18cd97e3e3d2b1b81&au=76d42b31c9d246538269501b3205704d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&pno=1374225&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=d6fb2094e92311f18cd97e3e3d2b1b81&au=76d42b31c9d246538269501b3205704d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22594365.thumb",
+   "posted": "2026-11-25T22:57:18+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "D72RZ4J3",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 20.01,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&pno=1374225&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=d6fb2094e92311f18cd97e3e3d2b1b81&au=76d42b31c9d246538269501b3205704d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t956e011381b",
    "title": "AMD Ryzen 7 9800X3D Desktop Processor + Rosewill FROSTMAX AIO CPU Cooler + Free S&H",
@@ -16264,7 +16303,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16586,6 +16625,33 @@
    "code_until": "2026-11-27",
    "promo": "60% Off",
    "offers": []
+  },
+  {
+   "id": "tb32d70fed16",
+   "title": "Edifier G1500 MAX 2.1 RGB Gaming Speakers",
+   "price": 79.99,
+   "old_price": 149.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396793&tid=20396793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d97740c8e92311f1b3c4125165339ebf&au=94ddd4346c1c4e3895f0da8f0081d424&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396793&tid=20396793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d97740c8e92311f1b3c4125165339ebf&au=94ddd4346c1c4e3895f0da8f0081d424&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22589847.thumb",
+   "posted": "2026-11-25T18:38:34+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 79.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396793&tid=20396793&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d97740c8e92311f1b3c4125165339ebf&au=94ddd4346c1c4e3895f0da8f0081d424&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
   },
   {
    "id": "td6eb6aba47a",
@@ -16923,6 +16989,33 @@
      "store": "Walmart",
      "price": 14.89,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&tid=20388459&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=aa76d214e8f811f1a83c964dbdae6560&au=b5716f768c1c40ad8b0cdf41fa6eb987&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "td1b48409737",
+   "title": "FitBeast Magnetic Golf Cart Phone Mount",
+   "price": 10.49,
+   "old_price": 20.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22587438.thumb",
+   "posted": "2026-11-25T16:54:52+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "refurb": false,
+   "glitch": false,
+   "code": "ZX5MFEUE",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 10.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17283,8 +17376,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd215696e92311f18d32ae29761d79cc&au=4c9827a095a744c69c0469ee409c969f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd215696e92311f18d32ae29761d79cc&au=4c9827a095a744c69c0469ee409c969f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17300,7 +17393,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd215696e92311f18d32ae29761d79cc&au=4c9827a095a744c69c0469ee409c969f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17472,8 +17565,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=de8a97aee92311f18d32ae29761d79cc&au=711b19aebabd4fc4a851002c8499627f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=de8a97aee92311f18d32ae29761d79cc&au=711b19aebabd4fc4a851002c8499627f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17489,7 +17582,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=de8a97aee92311f18d32ae29761d79cc&au=711b19aebabd4fc4a851002c8499627f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18320,7 +18413,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19058,88 +19151,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t07cfb39d839",
-   "title": "[Prime] UGREEN MagFlow Foldable Magnetic Wireless Charging Station for iPhone & AirPods (Slate Gray)",
-   "price": 14.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392359&tid=20392359&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad4b95f6e8c111f196888647fde6dc56&au=15bfb5d5529248deae318f08e356ca68&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392359&tid=20392359&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad4b95f6e8c111f196888647fde6dc56&au=15bfb5d5529248deae318f08e356ca68&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22577151.thumb",
-   "posted": "2026-11-25T05:48:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392359&tid=20392359&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad4b95f6e8c111f196888647fde6dc56&au=15bfb5d5529248deae318f08e356ca68&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5d955389f5b",
-   "title": "JLab Go Air Pop+ Earbuds from , JLab Go Pop Earbuds from & More",
-   "price": 14.53,
-   "old_price": 26.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577811.thumb",
-   "posted": "2026-11-25T05:48:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "JLAB15",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.53,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "te3147b25d6e",
-   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (4 colors)",
-   "price": 33.99,
-   "old_price": 84.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577604.thumb",
-   "posted": "2026-11-25T05:43:20+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "JLAB15",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 33.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T22:55:28+00:00"
+ "updated": "2026-11-25T23:00:12+00:00"
 }
