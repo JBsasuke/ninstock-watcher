@@ -2936,13 +2936,13 @@
    "posted": "2026-11-23T03:10:45+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T03:56:00+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 26.95,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T03:56:00+00:00",
+   "real_price": 24.99,
+   "real_old": 26.95,
+   "category_ok": true
   },
   {
    "id": "d15e4de6176e",
@@ -3197,7 +3197,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-25T03:00:11+00:00",
+ "deku_checked": "2026-11-25T04:00:47+00:00",
  "deals": [
   {
    "id": "48f668bc7276",
@@ -5384,7 +5384,7 @@
      "url": "https://www.target.com/p/-/A-95076259"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5400,7 +5400,7 @@
    "release_date": "2027-05-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA of America",
    "digital": null,
@@ -5444,7 +5444,7 @@
      "url": "https://www.walmart.com/ip/20934158284"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -5487,7 +5487,7 @@
      "url": "https://www.walmart.com/ip/20954464637"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -5524,7 +5524,7 @@
      "url": "https://www.target.com/p/-/A-1012070913"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5556,7 +5556,7 @@
      "url": "https://www.target.com/p/-/A-95076256"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5572,7 +5572,7 @@
    "release_date": "2027-03-20",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5588,7 +5588,7 @@
    "release_date": "2027-03-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5630,7 +5630,7 @@
      "url": "https://www.target.com/p/-/A-94948513"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": {
@@ -5677,7 +5677,7 @@
      "url": "https://www.walmart.com/ip/20969569759"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Marvelous USA (XSEED)",
    "digital": null,
@@ -5715,7 +5715,7 @@
      "url": "https://www.walmart.com/ip/21127017185"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5757,7 +5757,7 @@
      "url": "https://www.target.com/p/-/A-1013551453"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -5799,7 +5799,7 @@
      "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -5841,7 +5841,7 @@
      "url": "https://www.walmart.com/ip/20983303920"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5878,7 +5878,7 @@
      "url": "https://www.walmart.com/ip/20944173701"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5920,7 +5920,7 @@
      "url": "https://www.walmart.com/ip/20958523571"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KONAMI",
    "digital": {
@@ -5967,7 +5967,7 @@
      "url": "https://www.walmart.com/ip/20299574937"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -6014,7 +6014,7 @@
      "url": "https://www.walmart.com/ip/20354268698"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -6061,7 +6061,7 @@
      "url": "https://www.walmart.com/ip/20926366396"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6108,7 +6108,7 @@
      "url": "https://www.target.com/p/-/A-1013551450"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6128,7 +6128,7 @@
    "release_date": "2027-01-28",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -6170,7 +6170,7 @@
      "url": "https://www.walmart.com/ip/20980064944"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6207,7 +6207,7 @@
      "url": "https://www.walmart.com/ip/21103052265"
     }
    ],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-23T19:46:34+00:00",
    "publisher": "Clear River Games",
    "digital": null,
@@ -6224,7 +6224,7 @@
    "release_date": "2027-01-15",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6328,7 +6328,7 @@
    "release_date": "2026-12-14",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T21:46:49+00:00",
+   "offers_checked": "2026-11-25T04:01:05+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Silver Lining Interactive",
    "digital": null,
@@ -11658,6 +11658,41 @@
    "real_old": 249.0
   },
   {
+   "id": "tcfa6b685ad1",
+   "title": "Ryobi One+ HP 18V Brushless Cordless Compact Router (Tool Only) $79 + Free S&H",
+   "price": 79.0,
+   "old_price": 129.0,
+   "store": "Slickdeals",
+   "url": "https://slickdeals.net/f/20386641-ryobi-one-hp-18v-brushless-cordless-compact-router-tool-only-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22563267.thumb",
+   "posted": "2026-11-25T03:59:30+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:03:01+00:00",
+   "real_price": 79.0,
+   "real_old": 129.0
+  },
+  {
+   "id": "t755e3ce18e9",
+   "title": "AMD Ryzen 5 5600X 3.7GHz Unlocked Desktop Processor w/ Wraith Stealth Cooler $127.30 + Free S&H",
+   "price": 127.28,
+   "old_price": 171.92,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389419-amd-ryzen-5-5600x-6-core-12-thread-cpu-w-wraith-stealth-cooler-127-28-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22570644.thumb",
+   "posted": "2026-11-25T03:59:07+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:03:03+00:00",
+   "real_price": 127.28,
+   "real_old": 171.92,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389419&pno=1373496&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1cafd002e88511f1a3622eb4c94a3dfd&au=c86a0b610c4041958d9f02edf82025d9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc68b124a0ac",
    "title": "LISEN 67\" Phone Tripod/Selfie Stick w/ Auto-Deploy Base & Remote $15",
    "price": 14.99,
@@ -11673,10 +11708,10 @@
    "code": "JDY82MQ0",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:56:59+00:00",
    "real_price": 14.99,
-   "real_old": 33.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 33.99
   },
   {
    "id": "t6f1ae123da1",
@@ -11907,8 +11942,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=44f45b10e88411f1b4f89e245a949712&au=d9e90da1853d43f987cfa97357eec5a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:57:02+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1df230cce88511f19c533a11313efd8b&au=9ced02dd42e84d32a46eea039fe5c3f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T04:03:06+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -11932,6 +11967,24 @@
    "checked_at": "2026-11-25T01:42:44+00:00",
    "real_price": 291.99,
    "real_old": 849.99
+  },
+  {
+   "id": "t1b0ba971616",
+   "title": "Thermaltake TH420 V2 Ultra 420mm ARGB AIO Liquid CPU Cooler w/ LCD (Black) $89.99 (Reg. $209.99) + Free Shipping",
+   "price": 89.99,
+   "old_price": 209.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20391060-thermaltake-th420-v2-ultra-420mm-argb-aio-liquid-cpu-cooler-w-lcd-black-89-99-reg-209-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22574385.thumb",
+   "posted": "2026-11-25T01:35:58+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:03:08+00:00",
+   "real_price": 89.99,
+   "real_old": 209.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391060&tid=20391060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5c4f88e88511f18bea5e9dbaa3f145&au=a3abf3f5c0f3497b80c88d76fc5ef6b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4f7a5df5566",
@@ -11985,10 +12038,10 @@
    "code": "ATQXYM2Q",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:57:04+00:00",
    "real_price": 5.39,
-   "real_old": 9.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 9.99
   },
   {
    "id": "tae4fd31a38e",
@@ -12129,10 +12182,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/15321507729",
    "checked_at": "2026-11-25T03:57:07+00:00",
    "real_price": 179.95,
-   "real_old": 226.97,
-   "store_url": "https://www.walmart.com/ip/15321507729"
+   "real_old": 226.97
   },
   {
    "id": "t9028136e0af",
@@ -12927,6 +12980,23 @@
    "real_price": 40.0,
    "real_old": 199.98,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&tid=20389056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b5b2a38e84111f1b8d69654d370949e&au=88338357cd2b4b44af08280ba0236c7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t84f6898a001",
+   "title": "MSI G274QPF  27\" 1440p 170Hz IPS Nvidia G-Sync Gaming Monitor $129.99",
+   "price": 129.99,
+   "old_price": null,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20389029-msi-g274qpf-27-1440p-170hz-ips-nvidia-g-sync-gaming-monitor-129-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22569390.thumb",
+   "posted": "2026-11-24T19:40:24+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:03:10+00:00",
+   "real_price": 129.99,
+   "real_old": null
   },
   {
    "id": "t4858b65ed69",
@@ -15993,81 +16063,6 @@
    "refurb": false,
    "checked_at": "2026-11-24T05:51:42+00:00",
    "real_price": 129.0
-  },
-  {
-   "id": "td24d4a51c1c",
-   "title": "42mm Apple Watch Series 11 GPS + Cellular Smartwatch w/ Titanium Case & Milanese Loop $400 + Free S&H",
-   "price": 399.99,
-   "old_price": 749.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20382042-apple-watch-series-11-gps-cellular-42mm-natural-titanium-case-with-natural-milanese-loop-399-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22554309.thumb",
-   "posted": "2026-11-24T05:42:14+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20382042&pno=1372596&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=7e3975dce7ca11f1921a46156645e7a5&au=addbdb3a623248499b405b3f86df7741&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T05:47:11+00:00",
-   "real_price": 399.99,
-   "real_old": 749.99
-  },
-  {
-   "id": "td380a97cafc",
-   "title": "*GEEK SQUAD REFURBISHED* Apple - MacBook Air 15-inch Laptop - M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Silver",
-   "price": 1299.0,
-   "old_price": 1749.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20383749-geek-squad-refurbished-apple-macbook-air-15-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-24gb-memory-1tb-ssd-silver?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/5/5/2/8/8/1/300x300/22555425.thumb",
-   "posted": "2026-11-24T05:27:39+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20383749&tid=20383749&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5f7485b2e80911f180c33a785a703b11&au=033ace1c43cc43439443b3b436b2d638&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:17:18+00:00",
-   "real_price": 1299.0,
-   "real_old": 1749.0
-  },
-  {
-   "id": "t46eb3134bb7",
-   "title": "1050W Thermaltake Toughpower GF A3 ATX 3.1 80+ Gold Fully Modular PSU $99.99 + Free Shipping",
-   "price": 99.99,
-   "old_price": 169.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383677-1050w-thermaltake-toughpower-gf-a3-atx-3-1-80-gold-fully-modular-psu-99-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22555338.thumb",
-   "posted": "2026-11-24T05:20:45+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383677&tid=20383677&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=eab86a96e80211f19f866acf27e32b71&au=e3fb799cdaa1415f9db6cee262b0f405&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:31:05+00:00",
-   "real_price": 99.99,
-   "real_old": 169.99
-  },
-  {
-   "id": "t5cadc2160cc",
-   "title": "[Prime] 15W Esr 3-in-1 MagSafe Wireless Compact Charging Station Stand for iPhone, Apple Watch & AirPods (Brown) $11 + Free Shipping",
-   "price": 11.0,
-   "old_price": 25.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383617-prime-15w-esr-3-in-1-magsafe-wireless-compact-charging-station-stand-for-iphone-apple-watch-airpods-brown-11-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22555146.thumb",
-   "posted": "2026-11-24T05:11:57+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "9LI3Y806",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383617&tid=20383617&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e5d567bce7db11f1bee936cc721a8163&au=fb61a57b7b18498e8d8163c7e4b48a09&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T07:51:46+00:00",
-   "real_price": 11.0,
-   "real_old": 25.99
   }
  ],
  "tech": [
@@ -16095,6 +16090,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t755e3ce18e9",
+   "title": "AMD Ryzen 5 5600X 3.7GHz Unlocked Desktop Processor",
+   "price": 127.28,
+   "old_price": 171.92,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389419&pno=1373496&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1cafd002e88511f1a3622eb4c94a3dfd&au=c86a0b610c4041958d9f02edf82025d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389419&pno=1373496&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1cafd002e88511f1a3622eb4c94a3dfd&au=c86a0b610c4041958d9f02edf82025d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22570644.thumb",
+   "posted": "2026-11-25T03:59:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 127.28,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389419&pno=1373496&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1cafd002e88511f1a3622eb4c94a3dfd&au=c86a0b610c4041958d9f02edf82025d9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16311,6 +16333,33 @@
      "store": "Walmart",
      "price": 19.94,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373732&pno=1373391&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=27b5816ce87211f1bd9fbe65d06667c7&au=88de5ab3da424d928b07ea63e33a06c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t1b0ba971616",
+   "title": "Thermaltake TH420 V2 Ultra 420mm ARGB AIO Liquid CPU Cooler",
+   "price": 89.99,
+   "old_price": 209.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391060&tid=20391060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5c4f88e88511f18bea5e9dbaa3f145&au=a3abf3f5c0f3497b80c88d76fc5ef6b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391060&tid=20391060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5c4f88e88511f18bea5e9dbaa3f145&au=a3abf3f5c0f3497b80c88d76fc5ef6b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22574385.thumb",
+   "posted": "2026-11-25T01:35:58+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 89.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391060&tid=20391060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5c4f88e88511f18bea5e9dbaa3f145&au=a3abf3f5c0f3497b80c88d76fc5ef6b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19250,61 +19299,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&tid=20384556&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b35cca50e7f411f19555d280f369f2fc&au=57b84b87e8c64811a155305055d52479&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t8d1f300f7ef",
-   "title": "Mac mini M5 Pro 24GB RAM / 512GB SSD",
-   "price": 1299.99,
-   "old_price": 1699.99,
-   "store": "Micro Center",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22566768.thumb",
-   "posted": "2026-11-24T08:15:23+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Micro Center",
-     "price": 1299.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tb82962a61f3",
-   "title": "Apple Watch Series 12 GPS 42mm Smartwatch in S/M (various colors/bands) + Free S&H",
-   "price": 299.0,
-   "old_price": 399.0,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20377113&pno=1372677&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4be46f0e7db11f1a7e4e6f9c0f5dc04&au=52bec3ef925240528579310f6ff2940c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20377113&pno=1372677&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4be46f0e7db11f1a7e4e6f9c0f5dc04&au=52bec3ef925240528579310f6ff2940c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22557078.thumb",
-   "posted": "2026-11-24T07:49:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 299.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20377113&pno=1372677&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4be46f0e7db11f1a7e4e6f9c0f5dc04&au=52bec3ef925240528579310f6ff2940c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T03:57:59+00:00"
+ "updated": "2026-11-25T04:04:02+00:00"
 }
