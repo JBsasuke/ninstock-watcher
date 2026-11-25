@@ -337,7 +337,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:51:25+00:00",
+   "checked_at": "2026-11-25T02:55:27+00:00",
    "real_price": 39.98,
    "real_old": 69.99,
    "category_ok": true
@@ -444,7 +444,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T20:50:04+00:00",
+   "checked_at": "2026-11-25T02:55:23+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -681,10 +681,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-25T02:46:45+00:00",
+   "expired": true,
    "real_price": 15.0,
    "real_old": 60.0,
-   "category_ok": true,
-   "expired": true
+   "category_ok": true
   },
   {
    "id": "5041d9a83b36",
@@ -831,7 +831,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T20:54:42+00:00",
+   "checked_at": "2026-11-25T02:55:25+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11398,39 +11398,6 @@
    }
   },
   {
-   "id": "aldia-a9e016dc38",
-   "title": "Xenoblade Chronicles 3 llega en versión mejorada para Nintendo Switch 2",
-   "summary": "Nintendo lanza una edición mejorada de Xenoblade Chronicles 3 para Switch 2, con gráficos en 4K y nuevos contenidos.",
-   "lang": "es",
-   "source": "Nintendo",
-   "url": "https://aldiard.com/n/a9e016dc38.html",
-   "image": null,
-   "posted": "2026-11-23T16:55:27.863179+00:00",
-   "video": null,
-   "es": {
-    "title": "Xenoblade Chronicles 3 llega en versión mejorada para Nintendo Switch 2",
-    "summary": "Nintendo lanza una edición mejorada de Xenoblade Chronicles 3 para Switch 2, con gráficos en 4K y nuevos contenidos.",
-    "body": [
-     "Nintendo anunció la edición Nintendo Switch 2 Edition de Xenoblade Chronicles 3, un paquete de mejora para el juego desarrollado por MONOLITHSOFT.",
-     "La versión mejorada ofrece una resolución de 4K en modo televisor, aunque para disfrutar de los gráficos optimizados se necesita un televisor compatible con esa resolución. El juego también funciona a 60 cuadros por segundo.",
-     "Entre las novedades figura un modo de combate a la defensiva, además de un nuevo héroe con una misión propia que no estaba en la versión original.",
-     "La historia sigue a Noah, Mio y sus amigos, que recorren vastos territorios, enfrentan criaturas feroces y buscan romper un ciclo de violencia que azota sus tierras."
-    ],
-    "url": "https://aldiard.com/n/a9e016dc38.html"
-   },
-   "en": {
-    "title": "Xenoblade Chronicles 3 Arrives in Enhanced Version for Nintendo Switch 2",
-    "summary": "Nintendo is releasing an upgraded edition of Xenoblade Chronicles 3 for Switch 2, with 4K visuals and new content.",
-    "body": [
-     "Nintendo has announced the Nintendo Switch 2 Edition of Xenoblade Chronicles 3, an upgrade package for the game developed by MONOLITHSOFT.",
-     "The enhanced version offers 4K resolution in TV mode, though a TV compatible with that resolution is needed to enjoy the improved graphics. The game also runs at 60 frames per second.",
-     "New features include a defensive combat mode, as well as a new hero with a personal quest that was not in the original version.",
-     "The story follows Noah, Mio and friends as they travel vast lands, face fierce creatures and seek to break a cycle of violence that plagues their world."
-    ],
-    "url": "https://aldiard.com/en/n/a9e016dc38.html"
-   }
-  },
-  {
    "id": "6f7b87e3ca87",
    "date_ok": true,
    "seeded": true,
@@ -11609,6 +11576,18 @@
    "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
    "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
    "posted": "2026-11-18T20:00:12+00:00"
+  },
+  {
+   "id": "98816c60f14d",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Rayman Legends Retold – \"Dynamite\" Musical Map Trailer – Nintendo Switch 2",
+   "summary": "Are you ready to dance? Get a first look at this brand-new musical level in Rayman Legends Retold, set to a fresh cover of a tune you might recognize!",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
+   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
+   "posted": "2026-11-18T17:00:30+00:00"
   }
  ],
  "raw_tech": [
@@ -11643,10 +11622,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20346591&pno=1373436&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=b5b22a9ee87a11f19cf8d21340a166e8&au=2307d4b5b2f04d07aac1ec90b4279a15&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T02:48:36+00:00",
    "real_price": 5.49,
-   "real_old": 12.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20346591&pno=1373436&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=b5b22a9ee87a11f19cf8d21340a166e8&au=2307d4b5b2f04d07aac1ec90b4279a15&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 12.99
   },
   {
    "id": "t15a175eff53",
@@ -11769,8 +11748,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b6f078b6e87a11f18b4cf6266c1e6cda&au=0e30e0152ce2467885f7083c6602192f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T02:48:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=cc856230e87b11f1a2841a0ad3898301&au=1d8316be6a1e48d2a7e266d9a5dcef74&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T02:56:23+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14366,9 +14345,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -18491,7 +18467,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19286,5 +19262,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T02:49:38+00:00"
+ "updated": "2026-11-25T02:57:23+00:00"
 }
