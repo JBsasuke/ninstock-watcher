@@ -77,13 +77,13 @@
    "posted": "2026-11-25T10:45:58+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T12:27:12+00:00",
-   "category_ok": false,
-   "real_price": 47.39,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=8a58f4a8e8cb11f18b3f9619659f957d&au=646680a4f7be4f739ef59e1a27defd70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T12:27:12+00:00",
+   "real_price": 47.39,
+   "real_old": 69.99,
+   "category_ok": false
   },
   {
    "id": "bb2e4ba8e8bf",
@@ -723,7 +723,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=793203aae83411f1b87b8246bc31b55e&au=9795f51f800e4e42bcc2cba293149030&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:28:24+00:00",
+   "checked_at": "2026-11-25T12:31:56+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -744,7 +744,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7a55e8dce83411f1bdabced9e43f0538&au=2f24cbe67aa44b4cabd89909e69d8987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:28:26+00:00",
+   "checked_at": "2026-11-25T12:31:58+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -11995,10 +11995,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&tid=20392638&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=adbbe626e8cb11f1930976a6fa3bae94&au=062a193ef3804ea1b1d0cd5b117f6f33&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:28:11+00:00",
    "real_price": 80.99,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&tid=20392638&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=adbbe626e8cb11f1930976a6fa3bae94&au=062a193ef3804ea1b1d0cd5b117f6f33&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.99
   },
   {
    "id": "td31d86dad7a",
@@ -12034,6 +12034,24 @@
    "checked_at": "2026-11-25T06:48:10+00:00",
    "real_price": 199.0,
    "real_old": 349.0
+  },
+  {
+   "id": "t39ba23fe92e",
+   "title": "TOTTE - Smart Bidet Toilet with Touchless Auto Flush, Automatic Lid, Heated Seat & Warm Air Dryer, 12-Inch Rough-In - White $259.99 BestBuy",
+   "price": 259.99,
+   "old_price": 339.97,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20392575-totte-smart-bidet-toilet-with-touchless-auto-flush-automatic-lid-heated-seat-warm-air-dryer-12-inch-rough-in-white-259-99-bestbuy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22578357.thumb",
+   "posted": "2026-11-25T06:26:58+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:32:51+00:00",
+   "real_price": 259.99,
+   "real_old": 339.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392575&tid=20392575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5445dc68e8cc11f1b7349619659f957d&au=558ce96552364cebaa82e3b166895a9b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tcfa0c7629ca",
@@ -12593,6 +12611,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -13171,8 +13192,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=af1131c0e8cb11f196392a916d1f14a1&au=5a3a3a926aed43c89f12de4581d802b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:28:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5574b514e8cc11f1a9c072ad2e05b851&au=8dff02aa9c334721ac2b09294e8046fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T12:32:53+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13537,10 +13558,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20390385&tid=20390385&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=b047bdace8cb11f1abb376a6fa3bae94&au=89bef908b448433e88a85fc5f34eb099&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:28:16+00:00",
    "real_price": 39.0,
-   "real_old": 152.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20390385&tid=20390385&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=b047bdace8cb11f1abb376a6fa3bae94&au=89bef908b448433e88a85fc5f34eb099&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 152.0
   },
   {
    "id": "t410562146b0",
@@ -15894,27 +15915,6 @@
    "checked_at": "2026-11-24T17:01:25+00:00",
    "real_price": 128.0,
    "real_old": 368.0
-  },
-  {
-   "id": "tf2cc0dc8c38",
-   "title": "6000mAh Ultra Slim Card-Size Power Bank w/ Built-In Cables $13.99 (Reg. $27.99) w/ Code + Free Shipping w/ Prime or on $35+",
-   "price": 13.99,
-   "old_price": 27.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386494-6000mah-ultra-slim-card-size-power-bank-w-built-in-cables-13-99-reg-27-99-w-code-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22562799.thumb",
-   "posted": "2026-11-24T14:11:56+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "C9CAE6SV",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386494&tid=20386494&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=29904150e86011f1963fc2e14d85113f&au=02a79e23b89b4fccb9b6e1eb23a24401&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T23:38:34+00:00",
-   "real_price": 13.99,
-   "real_old": 27.99
   }
  ],
  "tech": [
@@ -16933,7 +16933,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19153,5 +19153,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T12:29:11+00:00"
+ "updated": "2026-11-25T12:33:47+00:00"
 }
