@@ -11689,7 +11689,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12103,10 +12103,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388789&pno=1373544&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e7a85ec6e8af11f18fe472ce60d6241f&au=bdd7de2eaa524fa989202c186d2f4d6d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T09:09:23+00:00",
    "real_price": 167.0,
-   "real_old": 359.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388789&pno=1373544&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e7a85ec6e8af11f18fe472ce60d6241f&au=bdd7de2eaa524fa989202c186d2f4d6d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 359.0
   },
   {
    "id": "te627886290f",
@@ -12414,10 +12414,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391486&tid=20391486&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e8cb4c64e8af11f1be0c768fc20c66d0&au=916e7488bcdd47f19393e68ab5d651de&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T09:09:25+00:00",
    "real_price": 23.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391486&tid=20391486&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e8cb4c64e8af11f1be0c768fc20c66d0&au=916e7488bcdd47f19393e68ab5d651de&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "t6ea21880626",
@@ -12612,10 +12612,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e9ef933ee8af11f19a09768fc20c66d0&au=6d67d19ac7274fd38b7834c7aedf680b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T09:09:27+00:00",
    "real_price": 35.99,
-   "real_old": 65.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e9ef933ee8af11f19a09768fc20c66d0&au=6d67d19ac7274fd38b7834c7aedf680b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 65.0
   },
   {
    "id": "ta3e3a0a6844",
@@ -12720,8 +12720,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=eb55e5d4e8af11f19a734e2eae10b5bf&au=587953606ba14c9692960a43c03fc1ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:09:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5091e7b8e8b011f1872c7285e31ac6a6&au=6bfe26f968a145d7892811115aa7c88a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:12:19+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -19275,5 +19275,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T09:10:22+00:00"
+ "updated": "2026-11-25T09:13:15+00:00"
 }
