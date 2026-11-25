@@ -12175,8 +12175,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5314a6f4e89411f1bee0ea6d627e0380&au=8fb77504749f45409e3d6f41f3303ab3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T05:51:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9398e46e89411f1b8f4caea2df91e46&au=69a8f6535a6648b3b708bd2c6832d5f1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T05:56:36+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14986,6 +14986,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -18914,7 +18917,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19223,5 +19226,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T05:52:55+00:00"
+ "updated": "2026-11-25T05:57:33+00:00"
 }
