@@ -35,13 +35,13 @@
    "posted": "2026-11-25T08:10:42+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T08:16:14+00:00",
-   "category_ok": true,
-   "real_price": 24.88,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=7b060f7ce8a811f18999ee8a8e78a124&au=fb42557793b34bed9c603a1b1c01b730&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T08:16:14+00:00",
+   "real_price": 24.88,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "d1c2faaa97bb",
@@ -11837,6 +11837,48 @@
    "real_old": 2199.99
   },
   {
+   "id": "t5d955389f5b",
+   "title": "JLab Go Air Pop+ Earbuds from $14.53, JLab Go Pop Earbuds from $16.11 & More + Free Shipping w/ Prime or on $35+",
+   "price": 14.53,
+   "old_price": 26.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392356-jlab-go-air-pop-earbuds-from-14-53-jlab-go-pop-earbuds-from-16-11-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577811.thumb",
+   "posted": "2026-11-25T05:48:30+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "JLAB15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T08:21:51+00:00",
+   "real_price": 14.53,
+   "real_old": 26.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "te3147b25d6e",
+   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (4 colors) $33.99 + Free Shipping",
+   "price": 33.99,
+   "old_price": 84.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392341-jlab-jbuds-lux-anc-wireless-over-ear-headphones-4-colors-33-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577604.thumb",
+   "posted": "2026-11-25T05:43:20+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "JLAB15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T08:21:53+00:00",
+   "real_price": 33.99,
+   "real_old": 84.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6238cf64482",
    "title": "DEWALT 20V Max 3/8\" Keyless Right Angle Cordless Drill $99 + Free Shipping",
    "price": 99.0,
@@ -12501,10 +12543,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391192&tid=20391192&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9e1bb606e8a811f1a055c60c63a2109f&au=c656cc1c8ee2492aab563260b9bf6df2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T08:17:13+00:00",
    "real_price": 17.99,
-   "real_old": 29.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391192&tid=20391192&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9e1bb606e8a811f1a055c60c63a2109f&au=c656cc1c8ee2492aab563260b9bf6df2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.99
   },
   {
    "id": "tcfd85cd076d",
@@ -12555,8 +12597,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9f8f38c8e8a811f1ab63b69419567349&au=cacabd58b5c04ecfb8c4b7c09c1a891a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:17:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=46044f22e8a911f1b1caee8a8e78a124&au=efe6fbcc626848f69059297a4216ed02&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T08:21:55+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15496,9 +15538,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16015,40 +16054,6 @@
    "checked_at": "2026-11-24T16:42:35+00:00",
    "real_price": 149.99,
    "real_old": 309.99
-  },
-  {
-   "id": "t168bb8b75e1",
-   "title": "$59.99, TSC, JobSmart 180 pc. Mechanic's Tool Set",
-   "price": 59.99,
-   "old_price": null,
-   "store": "Tractor Supply Co",
-   "url": "https://slickdeals.net/f/20385066-59-99-tsc-jobsmart-180-pc-mechanic-s-tool-set?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22558665.thumb",
-   "posted": "2026-11-24T10:29:17+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-25T05:13:49+00:00",
-   "real_price": 59.99
-  },
-  {
-   "id": "t5d9833de274",
-   "title": "$379.99: Roborock Qrevo series S Pro SE Robot Vacuum and Mop, 18,000Pa Suction at Walmart.com",
-   "price": 379.99,
-   "old_price": 699.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20385024-379-99-roborock-qrevo-series-s-pro-se-robot-vacuum-and-mop-18-000pa-suction-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22558530.thumb",
-   "posted": "2026-11-24T10:21:56+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/20268022046",
-   "checked_at": "2026-11-24T19:56:22+00:00",
-   "real_price": 379.99,
-   "real_old": 699.99
   }
  ],
  "tech": [
@@ -16265,6 +16270,60 @@
      "store": "Woot!",
      "price": 1745.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t5d955389f5b",
+   "title": "JLab Go Air Pop+ Earbuds from , JLab Go Pop Earbuds from & More",
+   "price": 14.53,
+   "old_price": 26.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577811.thumb",
+   "posted": "2026-11-25T05:48:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "JLAB15",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 14.53,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&tid=20392356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=439c9a14e8a911f19703b69419567349&au=9065ae496195457989b8a130e23717cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "te3147b25d6e",
+   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (4 colors)",
+   "price": 33.99,
+   "old_price": 84.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577604.thumb",
+   "posted": "2026-11-25T05:43:20+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "JLAB15",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 33.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19231,61 +19290,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20382531&pno=1372821&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=da1b79c8e80f11f18ce766315ce6db43&au=57abac8527654463a64200635deb7bd2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t563e9b3dd08",
-   "title": "iSinbox 4K Auto Focus Outdoor Movie Projector",
-   "price": 119.99,
-   "old_price": 219.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386377&tid=20386377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=793464dae82311f19ca2d280f369f2fc&au=8cc038c30a4c448788bd06d8ea9e8d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386377&tid=20386377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=793464dae82311f19ca2d280f369f2fc&au=8cc038c30a4c448788bd06d8ea9e8d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22562364.thumb",
-   "posted": "2026-11-24T13:58:48+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 119.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386377&tid=20386377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=793464dae82311f19ca2d280f369f2fc&au=8cc038c30a4c448788bd06d8ea9e8d5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t4a602c1aee6",
-   "title": "Nothing Ear (a) Wireless Earbuds (3 Colors) + Free S&H",
-   "price": 55.0,
-   "old_price": 79.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302086&pno=1372827&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=dc7417e8e80f11f1b81b6636fa90d852&au=0a241062b6c04779b014a3115dd8a95a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302086&pno=1372827&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=dc7417e8e80f11f1b81b6636fa90d852&au=0a241062b6c04779b014a3115dd8a95a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22432134.thumb",
-   "posted": "2026-11-24T13:57:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 55.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302086&pno=1372827&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=dc7417e8e80f11f1b81b6636fa90d852&au=0a241062b6c04779b014a3115dd8a95a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T08:18:09+00:00"
+ "updated": "2026-11-25T08:22:52+00:00"
 }
