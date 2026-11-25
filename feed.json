@@ -1040,7 +1040,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367816&pno=1372938&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=94476a94e82611f1b869ee654f1d2dfa&au=55c150176b274be88d91d73f98bf30d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T10:51:26+00:00",
+   "checked_at": "2026-11-25T16:52:36+00:00",
    "real_price": 48.97,
    "real_old": 69.99,
    "category_ok": true
@@ -11562,6 +11562,45 @@
  ],
  "raw_tech": [
   {
+   "id": "t2445d2e5b2c",
+   "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones (various) from $119.95 + Free S&H",
+   "price": 119.95,
+   "old_price": 179.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393094-shokz-openrun-pro-2-open-ear-bone-conduction-bluetooth-headphones-black-124-95-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22587420.thumb",
+   "posted": "2026-11-25T16:52:08+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-25T16:53:32+00:00",
+   "real_price": 119.95,
+   "real_old": 179.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&pno=1373928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=bed9a914e8f011f18a8682b3e8d81f15&au=4b8f937e632c4b62904c691dcbeb0cab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tbcf8dd9d06c",
+   "title": "3-Port TALIX 20000mAh 140W USB-C Power Bank (2x USB-C + USB-A) $36 + Free S&H",
+   "price": 35.99,
+   "old_price": 69.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389590-talix-20000mah-140w-usb-c-laptop-power-bank-w-3-ports-pd-3-1-35-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22571070.thumb",
+   "posted": "2026-11-25T16:50:36+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "7FD9RN0U",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T16:53:34+00:00",
+   "real_price": 35.99,
+   "real_old": 69.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&pno=1373925&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=c012ce1ee8f011f1a72d2a37b02cf3bb&au=25261c5667134014beaa7b4fe541d371&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6fe23ca209e",
    "title": "Refurb/Grade A Unit: 32GB Apple iPad 10.2\" Unlocked Tablet (Silver) $81 & More + Free S&H w/ Amazon Prime",
    "price": 80.99,
@@ -11652,8 +11691,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=14d9956ee8f011f190e0f2c8783961b3&au=6d184bacc76545a59d5e4ba0498d943f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:48:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c165e350e8f011f1bd175a511138d167&au=190b8eb41fda40fcbc324d7f3619d4f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T16:53:36+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -11877,6 +11916,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -11898,8 +11940,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1612cfb8e8f011f19b30e6c0e94954f5&au=e386c0d48cc64263909f6b8d31e7fdf9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:48:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c2b4f0e8e8f011f18e132a37b02cf3bb&au=27ac9f9682d7499e8f98fcaaa28da931&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T16:53:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14505,8 +14547,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=175c2702e8f011f196092a37b02cf3bb&au=061ed2c654ac41e7b4c139a1fbafe64c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:48:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c4416e78e8f011f1b7be8a35b5b5354a&au=307174ecd4dc473686916bef1f9e7edb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T16:53:41+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15930,48 +15972,63 @@
    "checked_at": "2026-11-24T23:29:12+00:00",
    "real_price": 2199.0,
    "real_old": 2996.0
-  },
-  {
-   "id": "te60974dbe74",
-   "title": "Baseus 5000mAh 15W Magnetic Portable Charger w/ Stand $14.69 & More + Free Shipping w/ Prime or orders $35+",
-   "price": 14.69,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20388954-baseus-5000mah-15w-magnetic-portable-charger-w-stand-14-69-more-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22569120.thumb",
-   "posted": "2026-11-24T19:31:32+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "QRRDGCNF",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388954&tid=20388954&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=58039464e84811f1bec62a8aae4cbb64&au=fc1315b901504180ac76c929419f1c8e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T20:48:04+00:00",
-   "real_price": 14.69,
-   "real_old": 29.99
-  },
-  {
-   "id": "tb37f61bda40",
-   "title": "UGREEN Nexode 165W 20,000mAh Power Bank w/ Retractable Cable $70 & More + Free S&H",
-   "price": 69.99,
-   "old_price": 99.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20367201-ugreen-nexode-165w-20-000mah-power-bank-with-retractable-cable-3-port-portable-charger-69-99-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/5/5/0/5/3/6/300x300/22516152.thumb",
-   "posted": "2026-11-24T19:30:44+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:32:18+00:00",
-   "real_price": 69.99,
-   "real_old": 99.99
   }
  ],
  "tech": [
+  {
+   "id": "t2445d2e5b2c",
+   "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones (various) from + Free S&H",
+   "price": 119.95,
+   "old_price": 179.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&pno=1373928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=bed9a914e8f011f18a8682b3e8d81f15&au=4b8f937e632c4b62904c691dcbeb0cab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&pno=1373928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=bed9a914e8f011f18a8682b3e8d81f15&au=4b8f937e632c4b62904c691dcbeb0cab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22587420.thumb",
+   "posted": "2026-11-25T16:52:08+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 119.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&pno=1373928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=bed9a914e8f011f18a8682b3e8d81f15&au=4b8f937e632c4b62904c691dcbeb0cab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tbcf8dd9d06c",
+   "title": "3-Port TALIX 20000mAh 140W USB-C Power Bank (2x USB-C + USB-A) + Free S&H",
+   "price": 35.99,
+   "old_price": 69.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&pno=1373925&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=c012ce1ee8f011f1a72d2a37b02cf3bb&au=25261c5667134014beaa7b4fe541d371&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&pno=1373925&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=c012ce1ee8f011f1a72d2a37b02cf3bb&au=25261c5667134014beaa7b4fe541d371&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22571070.thumb",
+   "posted": "2026-11-25T16:50:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "7FD9RN0U",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 35.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389590&pno=1373925&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=c012ce1ee8f011f1a72d2a37b02cf3bb&au=25261c5667134014beaa7b4fe541d371&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t6fe23ca209e",
    "title": "Refurb/Grade A Unit: 32GB Apple iPad 10.2\" Unlocked Tablet (Silver) & More + Free S&H",
@@ -16086,8 +16143,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=14d9956ee8f011f190e0f2c8783961b3&au=6d184bacc76545a59d5e4ba0498d943f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=14d9956ee8f011f190e0f2c8783961b3&au=6d184bacc76545a59d5e4ba0498d943f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c165e350e8f011f1bd175a511138d167&au=190b8eb41fda40fcbc324d7f3619d4f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c165e350e8f011f1bd175a511138d167&au=190b8eb41fda40fcbc324d7f3619d4f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16103,7 +16160,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=14d9956ee8f011f190e0f2c8783961b3&au=6d184bacc76545a59d5e4ba0498d943f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c165e350e8f011f1bd175a511138d167&au=190b8eb41fda40fcbc324d7f3619d4f0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16302,8 +16359,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1612cfb8e8f011f19b30e6c0e94954f5&au=e386c0d48cc64263909f6b8d31e7fdf9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1612cfb8e8f011f19b30e6c0e94954f5&au=e386c0d48cc64263909f6b8d31e7fdf9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c2b4f0e8e8f011f18e132a37b02cf3bb&au=27ac9f9682d7499e8f98fcaaa28da931&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c2b4f0e8e8f011f18e132a37b02cf3bb&au=27ac9f9682d7499e8f98fcaaa28da931&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16319,7 +16376,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1612cfb8e8f011f19b30e6c0e94954f5&au=e386c0d48cc64263909f6b8d31e7fdf9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c2b4f0e8e8f011f18e132a37b02cf3bb&au=27ac9f9682d7499e8f98fcaaa28da931&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19157,55 +19214,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20374455&pno=1372584&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5052fcf8e84f11f18583a6973395d3ea&au=012995c035be4efd9027251582ef86a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9aeffd8fa07",
-   "title": "43mm Citizen Men's Eco-Drive Disney Mickey Mouse Watch",
-   "price": 151.78,
-   "old_price": 237.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389686&tid=20389686&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0702b0dae87611f18994d21340a166e8&au=79f937d0d6c343a6a3298eae387c150d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389686&tid=20389686&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0702b0dae87611f18994d21340a166e8&au=79f937d0d6c343a6a3298eae387c150d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22571334.thumb",
-   "posted": "2026-11-24T21:32:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 151.78,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389686&tid=20389686&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0702b0dae87611f18994d21340a166e8&au=79f937d0d6c343a6a3298eae387c150d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t9d21e87edf3",
-   "title": "adidas Black Friday Sale Up to 60% Off + Extra 15% Off + Free S&H",
-   "price": null,
-   "old_price": null,
-   "store": "adidas",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+adidas&sdtid=20355708&pno=1373205&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1803428e85911f1932fc2e14d85113f&au=26a385c3b7b74abf9ced57afe43d0a59&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+adidas&sdtid=20355708&pno=1373205&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1803428e85911f1932fc2e14d85113f&au=26a385c3b7b74abf9ced57afe43d0a59&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22571352.thumb",
-   "posted": "2026-11-24T21:31:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "SD15",
-   "code_until": null,
-   "promo": "Up to 60% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-25T16:49:46+00:00"
+ "updated": "2026-11-25T16:54:35+00:00"
 }
