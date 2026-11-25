@@ -711,6 +711,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3108,7 +3110,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375085&tid=20375085&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=95cecc74e7ac11f18cbaced9e43f0538&au=b97565151a81493180e8d3fa0c66b23f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T14:26:38+00:00",
+   "checked_at": "2026-11-25T20:30:24+00:00",
    "real_price": 30.0,
    "real_old": 50.0,
    "category_ok": true
@@ -11515,10 +11517,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392950&pno=1374078&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=80f7a308e90e11f1a13642b59f483a7c&au=1cc9697cf39a44dab183054ab74420f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:26:33+00:00",
    "real_price": 199.0,
-   "real_old": 428.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392950&pno=1374078&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=80f7a308e90e11f1a13642b59f483a7c&au=1cc9697cf39a44dab183054ab74420f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 428.0
   },
   {
    "id": "tbb25c5049a9",
@@ -11555,6 +11557,45 @@
    "real_price": 849.99,
    "real_old": 1444.96,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t1c6fed9c5ed",
+   "title": "Crandall Office: Extra 25% Off Steelcase & Haworth Factory Return Office Chairs + Free Shipping",
+   "price": null,
+   "old_price": null,
+   "store": "Crandall Office",
+   "url": "https://slickdeals.net/f/20397258-crandall-office-extra-25-off-steelcase-haworth-factory-return-office-chairs-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591170.thumb",
+   "posted": "2026-11-25T19:30:48+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "OPENBOX25",
+   "code_until": null,
+   "promo": "Extra 25% Off",
+   "checked_at": "2026-11-25T20:31:17+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&tid=20397258&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a988a76e90f11f1962acabe8a6132c7&au=4fbceffcc51a41c5ad7043b5726c5c6c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t9b78554996e",
+   "title": "At Staples: In-Store Only Airpods 5 ANC with wireless charging $109.00. Ends 11/28/26",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Staples",
+   "url": "https://slickdeals.net/f/20397234-at-staples-in-store-only-airpods-5-anc-with-wireless-charging-109-00-ends-11-28-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/9/1/3/4/300x300/22590732.thumb",
+   "posted": "2026-11-25T19:28:55+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-25T20:31:19+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t44512c9b1bc",
@@ -11597,6 +11638,24 @@
    "checked_at": "2026-11-25T19:31:09+00:00",
    "real_price": 6.96,
    "real_old": 18.99
+  },
+  {
+   "id": "t28968f34fbd",
+   "title": "75\" Toshiba M450 QLED Series 4K UHD Smart Fire TV (2026) $349.99 @Best Buy",
+   "price": 349.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20397156-75-toshiba-m450-qled-series-4k-uhd-smart-fire-tv-2026-349-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22590636.thumb",
+   "posted": "2026-11-25T19:20:32+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T20:31:21+00:00",
+   "real_price": 349.99,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&tid=20397156&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2d0fb7dee90f11f198b68636b3feedc4&au=afacab29969e48c7b756d979bfbfa1ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t512da959703",
@@ -12283,8 +12342,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:26:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2e27db1ae90f11f1bfe3aeed97f2da21&au=5c5ff6bf3894407d81983996c95acef0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:31:23+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12525,9 +12584,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -12549,8 +12605,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:26:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2f56a58ee90f11f1a5ff32033c67b9dc&au=bb055f48d06e4f618f91c808c1a039c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:31:25+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12789,6 +12845,27 @@
    "real_price": 259.99,
    "real_old": 399.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t148120e30f5",
+   "title": "WeurGhy Bluetooth 5.4 Wireless Earbuds, White, 50-Hour Playtime $11.89 + Free Shipping",
+   "price": 11.89,
+   "old_price": 29.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20394567-weurghy-bluetooth-5-4-wireless-earbuds-white-50-hour-playtime-11-89-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22583394.thumb",
+   "posted": "2026-11-25T14:30:22+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "MPR342RJ",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T20:31:28+00:00",
+   "real_price": 11.89,
+   "real_old": 29.99,
+   "store_url": "https://www.walmart.com/ip/18497657003"
   },
   {
    "id": "t9d93d337c63",
@@ -13462,7 +13539,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15419,8 +15496,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=871f8ebce90e11f1a13642b59f483a7c&au=bf88dcc831b7430f9ea0ef51fb33abe9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:26:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3220e7cae90f11f1a9e3220b27a45a82&au=ea794f358736421d8c47c0a552c1a5d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:31:30+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15881,78 +15958,6 @@
    "checked_at": "2026-11-25T00:24:31+00:00",
    "real_price": 9.99,
    "real_old": 22.99
-  },
-  {
-   "id": "t71d50e7f846",
-   "title": "Sonos Roam 2 - Black or White - Portable Waterproof Bluetooth Speaker | 10-Hr Battery | IP67 Waterproof | WiFi & AirPlay 2 $139",
-   "price": 139.0,
-   "old_price": 179.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20390232-sonos-roam-2-black-or-white-portable-waterproof-bluetooth-speaker-10-hr-battery-ip67-waterproof-wifi-airplay-2-139?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22573815.thumb",
-   "posted": "2026-11-24T23:10:29+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390232&tid=20390232&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=a1f123e4e86a11f190f5766b643ec681&au=5e41b8d792664334a78ff547e7efb265&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:53:31+00:00",
-   "real_price": 139.0,
-   "real_old": 179.0
-  },
-  {
-   "id": "tff79596b153",
-   "title": "34L adidas Excel School Backpack w/ 16\" Laptop Sleeve (Grey) $17.85",
-   "price": 17.83,
-   "old_price": 21.1,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20384556-17-83-adidas-excel-backpack-34l-16-laptop-sleeve-multiple-pockets-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22557387.thumb",
-   "posted": "2026-11-24T23:06:50+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384556&pno=1373286&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=470a1070e85c11f19d199668c4e04009&au=3cd5b45b1ee34be1a109324cb786517c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T23:10:45+00:00",
-   "real_price": 17.83,
-   "real_old": 21.1
-  },
-  {
-   "id": "t71040222829",
-   "title": "Samsung Galaxy Buds 4 Pro (2026) AI True Wireless Bluetooth Earbuds, White or Black, US Version, 2 Yr Warranty $169.99",
-   "price": 169.99,
-   "old_price": 249.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20390205-samsung-galaxy-buds-4-pro-2026-ai-true-wireless-bluetooth-earbuds-white-or-black-us-version-2-yr-warranty-169-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22572429.thumb",
-   "posted": "2026-11-24T23:05:00+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390205&tid=20390205&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ef4cc882e86511f1841b766b71f2567f&au=6d4a948936e348c5a9ef1d62482c9e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:19:53+00:00",
-   "real_price": 169.99,
-   "real_old": 249.99
-  },
-  {
-   "id": "t67f793e8e15",
-   "title": "Acer Nitro V Laptop: Intel Core 7 240H, 16\" WUXGA 165Hz, RTX 5060, 16GB RAM $1050 + Free S&H",
-   "price": 1049.99,
-   "old_price": 1799.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20387034-acer-nitro-v-16-fhd-ips-165hz-intel-core-7-240h-rtx-5060-16gb-ddr5-512gb-ssd-1049-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22564308.thumb",
-   "posted": "2026-11-24T22:53:06+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387034&pno=1373274&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=53be176ee85a11f18cae6ee9af86e50e&au=baae370bcd6b462e91712582b4144530&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T22:56:48+00:00",
-   "real_price": 1049.99,
-   "real_old": 1799.99
   }
  ],
  "tech": [
@@ -15980,6 +15985,54 @@
      "store": "Newegg",
      "price": 849.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t1c6fed9c5ed",
+   "title": "Crandall Office: Extra 25% Off Steelcase & Haworth Factory Return Office Chairs",
+   "price": null,
+   "old_price": null,
+   "store": "Crandall Office",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&tid=20397258&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a988a76e90f11f1962acabe8a6132c7&au=4fbceffcc51a41c5ad7043b5726c5c6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&tid=20397258&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a988a76e90f11f1962acabe8a6132c7&au=4fbceffcc51a41c5ad7043b5726c5c6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591170.thumb",
+   "posted": "2026-11-25T19:30:48+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "OPENBOX25",
+   "code_until": null,
+   "promo": "Extra 25% Off",
+   "offers": []
+  },
+  {
+   "id": "t9b78554996e",
+   "title": "At Staples: In-Store Only Airpods 5 ANC with wireless charging . Ends 11/28/26",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Staples",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/9/1/3/4/300x300/22590732.thumb",
+   "posted": "2026-11-25T19:28:55+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Staples",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16034,6 +16087,33 @@
      "store": "Amazon",
      "price": 6.96,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20359212&pno=1374048&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c3e4e6c4e90611f1a803bafbec1ee8c8&au=5b8f2df27ea24f4e81116735dab4acf7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t28968f34fbd",
+   "title": "75\" Toshiba M450 QLED Series 4K UHD Smart Fire TV (2026) @Best Buy",
+   "price": 349.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&tid=20397156&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2d0fb7dee90f11f198b68636b3feedc4&au=afacab29969e48c7b756d979bfbfa1ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&tid=20397156&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2d0fb7dee90f11f198b68636b3feedc4&au=afacab29969e48c7b756d979bfbfa1ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22590636.thumb",
+   "posted": "2026-11-25T19:20:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&tid=20397156&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2d0fb7dee90f11f198b68636b3feedc4&au=afacab29969e48c7b756d979bfbfa1ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16679,8 +16759,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2e27db1ae90f11f1bfe3aeed97f2da21&au=5c5ff6bf3894407d81983996c95acef0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2e27db1ae90f11f1bfe3aeed97f2da21&au=5c5ff6bf3894407d81983996c95acef0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16696,7 +16776,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2e27db1ae90f11f1bfe3aeed97f2da21&au=5c5ff6bf3894407d81983996c95acef0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16868,8 +16948,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2f56a58ee90f11f1a5ff32033c67b9dc&au=bb055f48d06e4f618f91c808c1a039c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2f56a58ee90f11f1a5ff32033c67b9dc&au=bb055f48d06e4f618f91c808c1a039c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16885,7 +16965,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2f56a58ee90f11f1a5ff32033c67b9dc&au=bb055f48d06e4f618f91c808c1a039c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17075,6 +17155,33 @@
      "store": "Amazon",
      "price": 259.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t148120e30f5",
+   "title": "WeurGhy Bluetooth 5.4 Wireless Earbuds, White, 50-Hour Playtime",
+   "price": 11.89,
+   "old_price": 29.99,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18497657003",
+   "url": "https://www.walmart.com/ip/18497657003",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22583394.thumb",
+   "posted": "2026-11-25T14:30:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "MPR342RJ",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 11.89,
+     "url": "https://www.walmart.com/ip/18497657003"
     }
    ]
   },
@@ -17689,7 +17796,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19075,109 +19182,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391486&tid=20391486&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e8cb4c64e8af11f1be0c768fc20c66d0&au=916e7488bcdd47f19393e68ab5d651de&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6ea21880626",
-   "title": ": Samsung 65-Inch Class S85H Series, OLED, 4K 120Hz, Smart TV, 2026 Model",
-   "price": 899.99,
-   "old_price": 1598.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&tid=20391480&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=df24e346e88211f184f316d799504fd1&au=40f3952ebce7427bab7038eb78f0df63&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&tid=20391480&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=df24e346e88211f184f316d799504fd1&au=40f3952ebce7427bab7038eb78f0df63&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22575516.thumb",
-   "posted": "2026-11-25T03:00:41+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 899.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&tid=20391480&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=df24e346e88211f184f316d799504fd1&au=40f3952ebce7427bab7038eb78f0df63&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t6585271dea0",
-   "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker Pro Sound with Punchy bass",
-   "price": 31.95,
-   "old_price": 49.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391465&tid=20391465&prop=diavail-true%7Cdincp-3%7Cdinpd-2%7Cdipgavail-true&pv=06ca8342e88d11f1a46dcea65f5d847b&au=dd4c8ea90a1e4079950fee313607f59c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391465&tid=20391465&prop=diavail-true%7Cdincp-3%7Cdinpd-2%7Cdipgavail-true&pv=06ca8342e88d11f1a46dcea65f5d847b&au=dd4c8ea90a1e4079950fee313607f59c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/1/0/5/6/7/4/300x300/22575489.thumb",
-   "posted": "2026-11-25T02:59:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 31.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391465&tid=20391465&prop=diavail-true%7Cdincp-3%7Cdinpd-2%7Cdipgavail-true&pv=06ca8342e88d11f1a46dcea65f5d847b&au=dd4c8ea90a1e4079950fee313607f59c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t54826894bf1",
-   "title": "WM | straight talk Iphone 16e 128GB - and Samsung A27 - | NO PLAN PURCHASE require| Use on existing Line",
-   "price": 199.0,
-   "old_price": 349.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/14822456361",
-   "url": "https://www.walmart.com/ip/14822456361",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22576590.thumb",
-   "posted": "2026-11-25T02:49:34+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 199.0,
-     "url": "https://www.walmart.com/ip/14822456361"
-    }
-   ]
-  },
-  {
-   "id": "t1de270d0435",
-   "title": "Loft.com Black Friday Event 50% Off Everything plus Extra 70% Off Sale Styles",
-   "price": null,
-   "old_price": null,
-   "store": "Loft",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22575333.thumb",
-   "posted": "2026-11-25T02:48:43+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": "50% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-25T20:27:34+00:00"
+ "updated": "2026-11-25T20:32:14+00:00"
 }
