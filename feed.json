@@ -35,13 +35,13 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T21:35:08+00:00",
-   "category_ok": false,
-   "real_price": 117.0,
-   "real_old": 199.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=15c4081ae91811f1a389ae29761d79cc&au=9a5cf0cf031b4b468e885103c93ed53e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T21:35:08+00:00",
+   "real_price": 117.0,
+   "real_old": 199.0,
+   "category_ok": false
   },
   {
    "id": "7975a0d78cd7",
@@ -56,13 +56,13 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T21:35:10+00:00",
-   "category_ok": false,
-   "real_price": 117.0,
-   "real_old": 199.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=16f9e98ee91811f1b5bc4af6d5f80e5a&au=92472c533e214967a1cf25d39c5ca1bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T21:35:10+00:00",
+   "real_price": 117.0,
+   "real_old": 199.0,
+   "category_ok": false
   },
   {
    "id": "28e86f909346",
@@ -766,7 +766,7 @@
    "id": "68c957d526b8",
    "title": "Prime: KabelDirekt 8K & 4K HDMI Cable 10K, 8K@60Hz & 4K@120Hz, High Speed HDMI – for PS5, Xbox Series X/S, Switch 2, PC & Blu-ray $3.79",
    "price": 3.79,
-   "old_price": 9.0,
+   "old_price": 8.99,
    "store": "Amazon",
    "kind": "game",
    "collector": false,
@@ -778,9 +778,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=04f208d4e8e611f1a34bfea0be5fc86f&au=5ec617cfee0e4c9fb6bce5c9ebd9aec6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T15:36:45+00:00",
+   "checked_at": "2026-11-25T21:39:25+00:00",
    "real_price": 3.79,
-   "real_old": 9.0,
+   "real_old": 8.99,
    "category_ok": false
   },
   {
@@ -11473,6 +11473,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tba40a0deab2",
+   "title": "BLUETTI Solar Generator Elite 300 Power Station & 1200W Alternator Charger 2 $1413 + Free S&H",
+   "price": 1413.0,
+   "old_price": 2299.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20379897-bluetti-solar-generator-elite-300-charger-2-alternator-charger-3014-4wh-1413?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22546851.thumb",
+   "posted": "2026-11-25T21:38:34+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:40:19+00:00",
+   "real_price": 1413.0,
+   "real_old": 2299.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t41992e2bb81",
    "title": "8\" Amazon Echo Show 8 (newest model) $100 + Free S&H",
    "price": 99.99,
@@ -11485,10 +11503,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20371923&pno=1374138&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65b44da8e91811f1b4ac7e3e3d2b1b81&au=6c453b1c4aa244eaa375754c1223b95d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:37:22+00:00",
    "real_price": 99.99,
-   "real_old": 199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20371923&pno=1374138&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65b44da8e91811f1b4ac7e3e3d2b1b81&au=6c453b1c4aa244eaa375754c1223b95d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.99
   },
   {
    "id": "t1ac9b1bc3d0",
@@ -11521,10 +11539,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/18183070833",
    "checked_at": "2026-11-25T21:37:24+00:00",
    "real_price": 1299.0,
-   "real_old": 2389.0,
-   "store_url": "https://www.walmart.com/ip/18183070833"
+   "real_old": 2389.0
   },
   {
    "id": "t0b8ae4fc0c2",
@@ -11628,10 +11646,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20397768&tid=20397768&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6827cfd8e91811f1a1377e3e3d2b1b81&au=3a742112aac048388ed06f9027f1bb00&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:37:26+00:00",
    "real_price": 796.99,
-   "real_old": 2199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20397768&tid=20397768&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6827cfd8e91811f1a1377e3e3d2b1b81&au=3a742112aac048388ed06f9027f1bb00&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2199.99
   },
   {
    "id": "t40cd481d3dc",
@@ -12484,9 +12502,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -12637,10 +12652,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:37:28+00:00",
    "real_price": 39.99,
-   "real_old": 62.49,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 62.49
   },
   {
    "id": "tf6f90601d2a",
@@ -12658,8 +12673,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6abc0cb4e91811f19ed7d66a7c8998b9&au=0aeab9737848445fb9bede98917c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:37:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:40:21+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12921,8 +12936,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6bfd6de8e91811f193c1622a74d2d7ac&au=2d91f28b084c48f6906efc077d55157d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:37:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:40:23+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13876,7 +13891,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15851,8 +15866,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6d615c44e91811f1b204e6c0e94954f5&au=c62bdd6ee9724712820216aa5d6386c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:37:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d29fcaf0e91811f1aa9ca6f64cc7c3ff&au=59e3cd0fc18e4c2d839dc51aabac1584&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:40:25+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15915,27 +15930,36 @@
    "checked_at": "2026-11-25T04:03:08+00:00",
    "real_price": 89.99,
    "real_old": 209.99
-  },
-  {
-   "id": "t4f7a5df5566",
-   "title": "HP OmniBook 3 Laptop: 14\" 2K Touch IPS, Core 3 304, 8GB RAM, 128GB UFS $320 + Free S&H",
-   "price": 319.99,
-   "old_price": 599.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20384328-hp-omnibook-3-laptop-14-2k-touch-ips-core-3-304-8gb-ram-128gb-ufs-320-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22556874.thumb",
-   "posted": "2026-11-25T01:28:51+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20384328&pno=1373379&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=38c62bace87011f19f90aa2a9418fb79&au=86bbaa91cb0e4084ad4315b12dd6df26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T01:33:31+00:00",
-   "real_price": 319.99,
-   "real_old": 599.99
   }
  ],
  "tech": [
+  {
+   "id": "tba40a0deab2",
+   "title": "BLUETTI Solar Generator Elite 300 Power Station & 1200W Alternator Charger 2 + Free S&H",
+   "price": 1413.0,
+   "old_price": 2299.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22546851.thumb",
+   "posted": "2026-11-25T21:38:34+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1413.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t1ac9b1bc3d0",
    "title": "HyperX OMEN Laptop: 15.3\" 2.5K 180Hz, Ryzen 9 8940HX, RTX 5070, 16GB, 1TB + Free S&H",
@@ -16792,7 +16816,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16998,8 +17022,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6abc0cb4e91811f19ed7d66a7c8998b9&au=0aeab9737848445fb9bede98917c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6abc0cb4e91811f19ed7d66a7c8998b9&au=0aeab9737848445fb9bede98917c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17015,7 +17039,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6abc0cb4e91811f19ed7d66a7c8998b9&au=0aeab9737848445fb9bede98917c0324&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17187,8 +17211,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6bfd6de8e91811f193c1622a74d2d7ac&au=2d91f28b084c48f6906efc077d55157d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6bfd6de8e91811f193c1622a74d2d7ac&au=2d91f28b084c48f6906efc077d55157d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17204,7 +17228,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6bfd6de8e91811f193c1622a74d2d7ac&au=2d91f28b084c48f6906efc077d55157d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18035,7 +18059,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19124,34 +19148,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "teee3c5e717c",
-   "title": "AMD Ryzen 7 5700X CPU + Rosewill CPU Air Cooler with Digital Display",
-   "price": 159.0,
-   "old_price": 340.0,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&tid=20391900&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd1b3d48e8c911f1a244ea05b6b8cbf3&au=753225308c2c44f0a062fa23ecee4cf1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&tid=20391900&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd1b3d48e8c911f1a244ea05b6b8cbf3&au=753225308c2c44f0a062fa23ecee4cf1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/2/9/1/5/7/6/300x300/22576503.thumb",
-   "posted": "2026-11-25T04:16:12+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 159.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&tid=20391900&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd1b3d48e8c911f1a244ea05b6b8cbf3&au=753225308c2c44f0a062fa23ecee4cf1&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T21:38:17+00:00"
+ "updated": "2026-11-25T21:41:14+00:00"
 }
