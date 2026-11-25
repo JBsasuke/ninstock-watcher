@@ -250,7 +250,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:42:27+00:00",
+   "checked_at": "2026-11-25T00:46:37+00:00",
    "real_price": 39.98,
    "real_old": 69.99,
    "category_ok": true
@@ -658,10 +658,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=accc3166e80411f1b17abe4ed0ec16f4&au=c3ff7c4b22034d00b320970f37d99ba0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T18:44:19+00:00",
+   "checked_at": "2026-11-25T00:46:33+00:00",
    "real_price": 15.0,
    "real_old": 60.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "d6609374578c",
@@ -679,10 +680,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=ade5163ae80411f1af5da2459dfa5d65&au=3209f0fe83e749859277da27bc921da4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T18:44:21+00:00",
+   "checked_at": "2026-11-25T00:46:35+00:00",
    "real_price": 15.0,
    "real_old": 60.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "01aca43b7181",
@@ -14129,9 +14131,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16048,8 +16047,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=235ad184e86911f1ad17c62e44a7d2a2&au=7c00c890c9994a3ba5abb5e672c58eff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:42:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=cbf950f4e86911f18ea92a32ae51b81c&au=934b2ea0498d4b139994c7a72ee864b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T00:47:32+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -18315,7 +18314,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19380,5 +19379,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T00:43:46+00:00"
+ "updated": "2026-11-25T00:48:30+00:00"
 }
