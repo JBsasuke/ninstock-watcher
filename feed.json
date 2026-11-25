@@ -290,10 +290,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:49:41+00:00",
+   "checked_at": "2026-11-25T01:51:04+00:00",
    "real_price": 31.97,
    "real_old": 44.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "2f9fc53fed71",
@@ -3297,31 +3298,6 @@
    "code_until": null
   },
   {
-   "id": "cf5f1f73e921",
-   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red)",
-   "price": 31.97,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 31.97,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&pno=1373127&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3010ebc6e84011f1aa2d428153ae81e1&au=0275cd39bf87428f9bc3f8f5920e1878&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-24T19:45:26+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
    "id": "e01dfbf022b7",
    "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition (Nintendo Switch 2)",
    "price": 39.98,
@@ -3863,6 +3839,31 @@
    "kind": "game",
    "collector": true,
    "posted": "2026-11-23T17:28:44+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
+  {
+   "id": "cf5f1f73e921",
+   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red)",
+   "price": 31.97,
+   "old_price": 44.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 31.97,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-23T15:36:30+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11642,10 +11643,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373732&pno=1373391&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=27b5816ce87211f1bd9fbe65d06667c7&au=88de5ab3da424d928b07ea63e33a06c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T01:47:21+00:00",
    "real_price": 19.94,
-   "real_old": 39.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373732&pno=1373391&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=27b5816ce87211f1bd9fbe65d06667c7&au=88de5ab3da424d928b07ea63e33a06c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.95
   },
   {
    "id": "t421bcaf5274",
@@ -19284,5 +19285,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T01:48:17+00:00"
+ "updated": "2026-11-25T01:52:56+00:00"
 }
