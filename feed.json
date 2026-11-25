@@ -570,7 +570,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369271&pno=1371522&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=50c800c4e82311f1ad5272351a84d088&au=acfe6db78b0646f0b1e0862c18d64475&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:23:27+00:00",
+   "checked_at": "2026-11-25T04:24:05+00:00",
    "real_price": 59.88,
    "real_old": 69.99,
    "category_ok": true
@@ -957,7 +957,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&pno=1372239&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=d1a563f4e7f011f18f446636fa90d852&au=bb5b9f9ed3ff403ea2f615376b6ff829&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:23:30+00:00",
+   "checked_at": "2026-11-25T04:24:07+00:00",
    "real_price": 24.88,
    "real_old": 50.0,
    "category_ok": true
@@ -11658,6 +11658,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t57985f88828",
+   "title": "AMD Ryzen 7 9800X3D Granite Ridge 4.70Ghz 8-Core Desktop Processor $350 + Free Pickup",
+   "price": 349.99,
+   "old_price": 479.99,
+   "store": "Micro Center",
+   "url": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/8/2/1/4/6/300x300/22563069.thumb",
+   "posted": "2026-11-25T04:23:50+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:25:03+00:00",
+   "real_price": 349.99,
+   "real_old": 479.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t44fcd625e1d",
    "title": "Select Accts: Apple AirPods 4 Wireless Earbud Headphones + Filler Item $79.20 + Store Pick Up",
    "price": 79.0,
@@ -11673,10 +11691,10 @@
    "code": "SAVE3X",
    "code_until": null,
    "promo": null,
+   "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
-   "real_old": 129.99,
-   "store_url": "https://www.walmart.com/ip/11381374703"
+   "real_old": 129.99
   },
   {
    "id": "t911f0d31df9",
@@ -11691,10 +11709,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/20309319436",
    "checked_at": "2026-11-25T04:15:34+00:00",
    "real_price": 179.0,
-   "real_old": 279.0,
-   "store_url": "https://www.walmart.com/ip/20309319436"
+   "real_old": 279.0
   },
   {
    "id": "tcfa6b685ad1",
@@ -11751,6 +11769,24 @@
    "checked_at": "2026-11-25T03:56:59+00:00",
    "real_price": 14.99,
    "real_old": 33.99
+  },
+  {
+   "id": "tb65f409e914",
+   "title": "$479.99 | 256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver) at Amazon",
+   "price": 479.99,
+   "old_price": 549.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20391654-479-99-256gb-11-apple-ipad-a16-chip-wi-fi-tablet-11th-gen-blue-or-silver-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22575948.thumb",
+   "posted": "2026-11-25T03:38:03+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:25:05+00:00",
+   "real_price": 479.99,
+   "real_old": 549.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6f1ae123da1",
@@ -11831,7 +11867,7 @@
    "old_price": 349.0,
    "store": "Walmart",
    "url": "https://slickdeals.net/f/20391429-wm-straight-talk-iphone-16e-128gb-199-and-samsung-a27-99-no-plan-purchase-require-use-on-existing-line?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/6/3/0/0/8/2/300x300/22575366.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22576590.thumb",
    "posted": "2026-11-25T02:49:34+00:00",
    "cat": "tablet",
    "cat_label": "Tablets y teléfonos",
@@ -11841,6 +11877,24 @@
    "checked_at": "2026-11-25T03:19:28+00:00",
    "real_price": 199.0,
    "real_old": 349.0
+  },
+  {
+   "id": "ta03faf6e79b",
+   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
+   "price": 99.0,
+   "old_price": 199.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20391423-20-volt-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-4-0-ah-battery-and-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575327.thumb",
+   "posted": "2026-11-25T02:48:15+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T04:25:07+00:00",
+   "real_price": 99.0,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3a9d61c2867",
@@ -11999,8 +12053,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dd4ef6a2e88611f1ae2b6ae67ff1ca56&au=c9c9a2dcc5664f65a3a0d78cea000617&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:15:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=334d34d2e88811f1ba4a9ae49ba7e0e8&au=89c5d748227c467a85575c3daa9bd9b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T04:25:10+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16000,60 +16054,6 @@
    "checked_at": "2026-11-24T23:15:25+00:00",
    "real_price": 145.0,
    "real_old": 146.0
-  },
-  {
-   "id": "te1a29b80904",
-   "title": "Technics Reference Class Hi-Fi Wireless Earbuds w/ Technics Earbuds Case (Various) $150 + Free S&H",
-   "price": 149.99,
-   "old_price": 299.99,
-   "store": "Technics",
-   "url": "https://slickdeals.net/f/20349552-technics-reference-class-hi-fi-wireless-earbuds-w-free-gift-case-various-149-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22470840.thumb",
-   "posted": "2026-11-24T06:16:06+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Technics&sdtid=20349552&pno=1372611&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=24fa4c1ce7cf11f185aa6ed228acf7bb&au=28e51f3ee7dd4671bf1dc406206e5b14&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:20:29+00:00",
-   "real_price": 149.99,
-   "real_old": 299.99
-  },
-  {
-   "id": "ta5740876de0",
-   "title": "INIU Portable Charger, 10000mAh 30W Fast Charging Power Bank, Built-in USB C Cable and Foldable AC Plug, Travel Essentials Battery Pack for iPhone 16 15, Samsung, MacBook",
-   "price": 18.07,
-   "old_price": 32.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383983-iniu-portable-charger-10000mah-30w-fast-charging-power-bank-built-in-usb-c-cable-and-foldable-ac-plug-travel-essentials-battery-pack-for-iphone-16-15-samsung-macbook?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-24T06:15:54+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383983&tid=20383983&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b4734860e7f411f19cc0b6ae1fe76f64&au=7bb97b04b22e48748aaec4b431e6a362&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T10:49:21+00:00",
-   "real_price": 18.07,
-   "real_old": 32.99
-  },
-  {
-   "id": "t783a2f7acbb",
-   "title": "Cuisinart Air Fryer Toaster Oven 7-in-1, 1800W Stainless Steel CTOA-122NAS $99.99",
-   "price": 99.99,
-   "old_price": 229.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20383977-cuisinart-air-fryer-toaster-oven-7-in-1-1800w-stainless-steel-ctoa-122nas-99-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22555893.thumb",
-   "posted": "2026-11-24T06:14:46+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20383977&tid=20383977&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=b5b06064e7f411f1a38fd280f369f2fc&au=c579f3689dff48e795aebebfd553a1f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T10:49:23+00:00",
-   "real_price": 99.99,
-   "real_old": 229.99
   }
  ],
  "tech": [
@@ -16081,6 +16081,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t57985f88828",
+   "title": "AMD Ryzen 7 9800X3D Granite Ridge 4.70Ghz 8-Core Desktop Processor + Free Pickup",
+   "price": 349.99,
+   "old_price": 479.99,
+   "store": "Micro Center",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/8/2/1/4/6/300x300/22563069.thumb",
+   "posted": "2026-11-25T04:23:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Micro Center",
+     "price": 349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&pno=1373514&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f36fef0e88811f1b5a0968392490112&au=c111a4e2bd47468e817b813b8e9acafd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16227,7 +16254,7 @@
    "store": "Walmart",
    "store_url": "https://www.walmart.com/ip/14822456361",
    "url": "https://www.walmart.com/ip/14822456361",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/6/3/0/0/8/2/300x300/22575366.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22576590.thumb",
    "posted": "2026-11-25T02:49:34+00:00",
    "kind": "tech",
    "section": "tech",
@@ -16243,6 +16270,33 @@
      "store": "Walmart",
      "price": 199.0,
      "url": "https://www.walmart.com/ip/14822456361"
+    }
+   ]
+  },
+  {
+   "id": "ta03faf6e79b",
+   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
+   "price": 99.0,
+   "old_price": 199.0,
+   "store": "Home Depot",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575327.thumb",
+   "posted": "2026-11-25T02:48:15+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Home Depot",
+     "price": 99.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19236,61 +19290,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384871&tid=20384871&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=c044d1eee80e11f183ad362389f81dcb&au=dc4ae751323c428e891c59ce4eb9fcce&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t8b477393193",
-   "title": "AMD Ryzen 7 9850X3D 8-Core Desktop AM5 Processor + Free S&H",
-   "price": 399.99,
-   "old_price": 499.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377965&pno=1372731&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=96c3c1a0e7ea11f19d12b64f9e818762&au=3353683092104bc9b288f970455749dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377965&pno=1372731&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=96c3c1a0e7ea11f19d12b64f9e818762&au=3353683092104bc9b288f970455749dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22558095.thumb",
-   "posted": "2026-11-24T09:34:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377965&pno=1372731&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=96c3c1a0e7ea11f19d12b64f9e818762&au=3353683092104bc9b288f970455749dd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t444916517fa",
-   "title": "NIIMBOT D110 Bluetooth Label Printer Machine (White)",
-   "price": 7.59,
-   "old_price": 15.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381517&pno=1372689&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=97eaf18ee7ea11f19ed56636fa90d852&au=b0560bef9015444788ab0d4584cac7d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381517&pno=1372689&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=97eaf18ee7ea11f19ed56636fa90d852&au=b0560bef9015444788ab0d4584cac7d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/3/0/4/6/1/9/300x300/22550655.thumb",
-   "posted": "2026-11-24T09:33:42+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "5Y3CPPA4",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 7.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381517&pno=1372689&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=97eaf18ee7ea11f19ed56636fa90d852&au=b0560bef9015444788ab0d4584cac7d2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T04:16:34+00:00"
+ "updated": "2026-11-25T04:26:00+00:00"
 }
