@@ -373,13 +373,13 @@
    "posted": "2026-11-25T04:58:12+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T15:36:45+00:00",
-   "category_ok": false,
-   "real_price": 3.79,
-   "real_old": 9.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=04f208d4e8e611f1a34bfea0be5fc86f&au=5ec617cfee0e4c9fb6bce5c9ebd9aec6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T15:36:45+00:00",
+   "real_price": 3.79,
+   "real_old": 9.0,
+   "category_ok": false
   },
   {
    "id": "d9a45fb89505",
@@ -394,8 +394,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -483,7 +481,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=740b2a62e88111f1acba7ab09e679b66&au=a1f3974370384c598526556f414a8ac9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:38:58+00:00",
+   "checked_at": "2026-11-25T15:41:35+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -504,7 +502,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=754b0370e88111f1b8137a55f551cdc8&au=fa2a708684074c2c8243880fafa6bf97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:39:00+00:00",
+   "checked_at": "2026-11-25T15:41:37+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11549,10 +11547,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&pno=1373853&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=294a09ace8e611f1a328aaea4daf1256&au=23ef8422b175460ea1d1a094d41d8446&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:37:46+00:00",
    "real_price": 479.99,
-   "real_old": 549.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&pno=1373853&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=294a09ace8e611f1a328aaea4daf1256&au=23ef8422b175460ea1d1a094d41d8446&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 549.0
   },
   {
    "id": "t626e72d09fc",
@@ -11625,6 +11623,24 @@
    "checked_at": "2026-11-25T15:13:54+00:00",
    "real_price": 19.97,
    "real_old": 24.96
+  },
+  {
+   "id": "t9a2b3d719ae",
+   "title": "Tablet 2026 Latest Android 16 Tablets with 10.1 Inch Incell Display $109.89",
+   "price": 110.0,
+   "old_price": 200.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20394852-tablet-2026-latest-android-16-tablets-with-10-1-inch-incell-display-109-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22584372.thumb",
+   "posted": "2026-11-25T14:58:28+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:42:35+00:00",
+   "real_price": 110.0,
+   "real_old": 200.0,
+   "store_url": "https://www.walmart.com/ip/3508934122"
   },
   {
    "id": "t3ff8bc3bf39",
@@ -12245,7 +12261,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -14048,8 +14064,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2aed2fc8e8e611f1b5352a37b02cf3bb&au=8e0e3962614148a7a8fa31fa61fe0a32&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:37:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d79b6140e8e611f1a1df525bab72f1f8&au=231a21dfcb354bb0931d9e499248ac71&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T15:42:38+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15923,24 +15939,6 @@
    "checked_at": "2026-11-24T21:33:19+00:00",
    "real_price": 99.99,
    "real_old": 129.99
-  },
-  {
-   "id": "tf94ecebcd89",
-   "title": "65\" Hisense H5R1 Series 4K UHD HDR Smart Roku TV $228 + Free S&H",
-   "price": 228.0,
-   "old_price": 398.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373396-65-hisense-h5r1-series-4k-uhd-hdr-smart-roku-tv-65h5r1-2026-model-228-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22533711.thumb",
-   "posted": "2026-11-24T18:03:33+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:07:42+00:00",
-   "real_price": 228.0,
-   "real_old": 398.0
   }
  ],
  "tech": [
@@ -16022,6 +16020,33 @@
      "store": "Woot!",
      "price": 1286.1,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0bab86e2e8e511f198c3be9fe087b803&au=06ec10cbf77e49c78fbeb59b356a5852&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t9a2b3d719ae",
+   "title": "Tablet 2026 Latest Android 16 Tablets with 10.1 Inch Incell Display",
+   "price": 110.0,
+   "old_price": 200.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/3508934122",
+   "url": "https://www.walmart.com/ip/3508934122",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22584372.thumb",
+   "posted": "2026-11-25T14:58:28+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 110.0,
+     "url": "https://www.walmart.com/ip/3508934122"
     }
    ]
   },
@@ -16555,7 +16580,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19150,34 +19175,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384631&pno=1373139&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=1d32bb70e84411f1b14bc201a6b7009c&au=31f0c954598c4fb0bbb7cee4a1c5aa90&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb6dd0fdd25d",
-   "title": "Samsung EPP/EDU: 65\" Neo QLED QN90H 4K 144Hz Mini LED TV + Music Studio 5 Speaker & More + Free S&H",
-   "price": 1079.99,
-   "old_price": 1499.98,
-   "store": "Samsung",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548957.thumb",
-   "posted": "2026-11-24T20:12:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Samsung",
-     "price": 1079.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20380755&pno=1373124&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1e9890ace84411f1bb404e2eae10b5bf&au=bf3720116b874dcc9b776fe7006758c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T15:38:46+00:00"
+ "updated": "2026-11-25T15:43:35+00:00"
 }
