@@ -203,8 +203,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1489,7 +1487,7 @@
    "posted": "2026-11-24T00:39:53+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T07:01:25+00:00",
+   "checked_at": "2026-11-25T13:04:06+00:00",
    "category_ok": true,
    "real_price": 49.99,
    "real_old": null,
@@ -1513,7 +1511,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62524a98e7a111f1ae215e59ab53ac00&au=dde065c85ea3492f8660d1b3f1398611&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:01:27+00:00",
+   "checked_at": "2026-11-25T13:04:07+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11552,10 +11550,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/17824368946",
    "checked_at": "2026-11-25T13:00:21+00:00",
    "real_price": 399.5,
-   "real_old": 799.0,
-   "store_url": "https://www.walmart.com/ip/17824368946"
+   "real_old": 799.0
   },
   {
    "id": "t7fce7df4b4e",
@@ -11696,10 +11694,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:00:23+00:00",
    "real_price": 79.99,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.99
   },
   {
    "id": "te7a619987ec",
@@ -12007,10 +12005,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392917&tid=20392917&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=2e6627bae8d011f196159668c4e04009&au=7b9f62f010c54767bf22e2e4a775b0ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:00:25+00:00",
    "real_price": 86.97,
-   "real_old": 260.94,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392917&tid=20392917&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=2e6627bae8d011f196159668c4e04009&au=7b9f62f010c54767bf22e2e4a775b0ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 260.94
   },
   {
    "id": "t368ea8ae984",
@@ -12119,7 +12117,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -13372,8 +13370,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f9c6464e8d011f1860aea05b6b8cbf3&au=af9051997f8342b18f35de0fc71e6338&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:00:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d2203c56e8d011f199c88e9d9ad631b2&au=503dff387334442897db574c297179b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T13:05:00+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -19144,5 +19142,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T13:01:19+00:00"
+ "updated": "2026-11-25T13:05:56+00:00"
 }
