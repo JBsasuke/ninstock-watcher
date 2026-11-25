@@ -194,7 +194,7 @@
    "id": "bb2e4ba8e8bf",
    "title": "Persona 5 Royal: Standard Edition (Nintendo Switch) $24.88 + Free Shipping w/ Prime or on orders over $35",
    "price": 24.88,
-   "old_price": 60.0,
+   "old_price": 59.99,
    "store": "Amazon",
    "kind": "game",
    "collector": false,
@@ -206,9 +206,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=c738fa4ae8a711f1bbe26ab3f282d846&au=19ffc9f8430742cf9cf76ec65cff4bb4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:11:12+00:00",
+   "checked_at": "2026-11-25T14:12:14+00:00",
    "real_price": 24.88,
-   "real_old": 60.0,
+   "real_old": 59.99,
    "category_ok": true
   },
   {
@@ -1128,7 +1128,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374386&pno=1372824&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7b18e22e80f11f1a246762203ab4945&au=7c4d430b1ecf467281132cf94531d3db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:06:55+00:00",
+   "checked_at": "2026-11-25T14:12:12+00:00",
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
@@ -1513,7 +1513,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=095989d2e7de11f1b520b6ae1fe76f64&au=26207c674dc646bab4012df90e6a62e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:11:32+00:00",
+   "checked_at": "2026-11-25T14:12:18+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -1973,7 +1973,7 @@
    "posted": "2026-11-23T17:28:44+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T08:11:15+00:00",
+   "checked_at": "2026-11-25T14:12:16+00:00",
    "category_ok": true,
    "real_price": 29.99,
    "real_old": 39.99,
@@ -11483,6 +11483,24 @@
  ],
  "raw_tech": [
   {
+   "id": "td1904550772",
+   "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet w/ Surface Keyboard $900 + Free S&H",
+   "price": 899.99,
+   "old_price": 1429.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20377047-microsoft-surface-pro-13-touch-snapdragon-x-plus-tablet-w-surface-keyboard-900-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560108.thumb",
+   "posted": "2026-11-25T14:10:23+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:13:13+00:00",
+   "real_price": 899.99,
+   "real_old": 1429.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "teafb7bf5436",
    "title": "RYOBI ONE+ 18V Cordless High Pressure Inflator (Tool Only) $20 + Free S&H",
    "price": 19.97,
@@ -11552,6 +11570,27 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&pno=1373751&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1ffe6348e8d211f190d6820827a865f9&au=3df9721e0dd2459bbc0de5be7091da69&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:14:20+00:00",
    "real_price": 79.98
+  },
+  {
+   "id": "t18be29618b4",
+   "title": "Apple iPad Pro 13-Inch (M4): Space Black - Brand New with Apple Warranty 512 GB, Wi-Fi+cellular with code BESTOFPC $1142.1",
+   "price": 1142.1,
+   "old_price": 1699.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20394051-apple-ipad-pro-13-inch-m4-space-black-brand-new-with-apple-warranty-512-gb-wi-fi-cellular-with-code-bestofpc-1142-1?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/7/9/3/8/8/9/1/300x300/22581987.thumb",
+   "posted": "2026-11-25T13:09:22+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T14:13:14+00:00",
+   "real_price": 1142.1,
+   "real_old": 1699.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t500d69acf07",
@@ -11710,6 +11749,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386830&pno=1373727&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=27ca218ae8c711f1ac201ef0c9e233e5&au=787553d3cbfe49e9a2ea98a337354f84&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:55:49+00:00",
    "real_price": 70.0,
@@ -12740,6 +12782,24 @@
    "real_old": 2226.99
   },
   {
+   "id": "t5ba7fb07a9d",
+   "title": "Nuwave Bravo XL 30-Qt Air Fryer Convection Oven & Indoor Grill $139.99, Nuwave Bravo XL 30-Qt Pro Smart Toaster Oven Countertop $153.99 + Free Shipping",
+   "price": 139.99,
+   "old_price": 199.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392188-nuwave-bravo-xl-30-qt-air-fryer-convection-oven-indoor-grill-139-99-nuwave-bravo-xl-30-qt-pro-smart-toaster-oven-countertop-153-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22577247.thumb",
+   "posted": "2026-11-25T05:10:52+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:13:17+00:00",
+   "real_price": 139.99,
+   "real_old": 199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392188&tid=20392188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5c026558e8da11f1b1c4f23aa298ae10&au=978e3d91e152430a9792bbc26d71b826&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta4838d0673a",
    "title": "Samsung 65-Inch Class M80H Series Mini LED 4K Smart TV $497.99 - Amazon",
    "price": 497.99,
@@ -13530,8 +13590,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0b5c32cee8d911f1a202c2e14d85113f&au=2c5e97f028cd4930bc00764fc9aed095&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:03:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5d6ca7b4e8da11f1a5aef23aa298ae10&au=42450120e711424badeab5bdf2f26996&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T14:13:19+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15837,63 +15897,63 @@
    "checked_at": "2026-11-24T23:24:35+00:00",
    "real_price": 16.56,
    "real_old": 20.7
-  },
-  {
-   "id": "tc3eecddb5ae",
-   "title": "Legion Tab Gen 5 (8.8\" Snapdragon) 256gb, 12gb RAM, Folio Case Included - $599.99",
-   "price": 599.99,
-   "old_price": 899.99,
-   "store": "Lenovo",
-   "url": "https://slickdeals.net/f/20387340-legion-tab-gen-5-8-8-snapdragon-256gb-12gb-ram-folio-case-included-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22565184.thumb",
-   "posted": "2026-11-24T15:57:17+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387340&tid=20387340&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=594f918ee82911f18905aa3c0bb811ca&au=377412bf46fd4c76b3bb5a35f990ba6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:06:11+00:00",
-   "real_price": 599.99,
-   "real_old": 899.99
-  },
-  {
-   "id": "t8b16e494191",
-   "title": "Shark FacialPro Glow Hydro-Powered Facial System (Blue) $179.99 + Free Shipping",
-   "price": 179.99,
-   "old_price": 249.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20387271-shark-facialpro-glow-hydro-powered-facial-system-blue-179-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22564896.thumb",
-   "posted": "2026-11-24T15:48:21+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387271&tid=20387271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b7434a36e82611f1be8dd2b67c316297&au=c2392601225f4ed99006e1ed8b9d274a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:47:21+00:00",
-   "real_price": 179.99,
-   "real_old": 249.99
-  },
-  {
-   "id": "td8522ca9365",
-   "title": "Apple AirPods Pro 3 Wireless Earbuds w/ Active Noise Cancellation $149 + Free S&H",
-   "price": 149.0,
-   "old_price": 249.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20387043-149-apple-airpods-pro-3-wireless-earbuds-with-active-noise-cancellation-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22565010.thumb",
-   "posted": "2026-11-24T15:47:00+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=cd205662e81e11f181401ad6b9984a23&au=9319af29b0fb4cf787cdb8a706912288&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:50:41+00:00",
-   "real_price": 149.0,
-   "real_old": 249.0
   }
  ],
  "tech": [
+  {
+   "id": "td1904550772",
+   "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet",
+   "price": 899.99,
+   "old_price": 1429.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560108.thumb",
+   "posted": "2026-11-25T14:10:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 899.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t18be29618b4",
+   "title": "Apple iPad Pro 13-Inch (M4): Space Black - Brand New with Apple Warranty 512 GB, Wi-Fi+cellular with code BESTOFPC",
+   "price": 1142.1,
+   "old_price": 1699.0,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/7/9/3/8/8/9/1/300x300/22581987.thumb",
+   "posted": "2026-11-25T13:09:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 1142.1,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t500d69acf07",
    "title": "Techni Mobili Sit-to-Stand Rolling Adjustable Height Laptop Cart",
@@ -19073,61 +19133,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20325171&pno=1373055&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=ead802cee83511f1a03f0e3bc30606d4&au=c4dbf6282f6740f2b251a3998590c909&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tc18fd47ab38",
-   "title": "UGREEN - Nexode Pro 160W 5-Port USB-C Charger Block with Smart Display, Fast GaN Charger for MacBook Pro, Laptops, iPhone Series - Starlight Gray",
-   "price": 56.99,
-   "old_price": 89.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568172.thumb",
-   "posted": "2026-11-24T18:28:34+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": "UL65636",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 56.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&tid=20388528&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5e8db374e87e11f1ae576ee9af86e50e&au=845dcd8fec994ece80ab47592d532fa1&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tf222575f0c5",
-   "title": "ASUS ROG Swift 27\" 2560x1440 QHD OLED 280Hz Gaming Monitor (XG27AQWMG) + Asus Mouse or Asus Mouse Pad",
-   "price": 379.0,
-   "old_price": 649.0,
-   "store": "B&H Photo Video",
-   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20388456&tid=20388456&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=496f23a2e86e11f190493a8768f957c0&au=965a09c4d8b14059ad88097f12b404cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20388456&tid=20388456&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=496f23a2e86e11f190493a8768f957c0&au=965a09c4d8b14059ad88097f12b404cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22567980.thumb",
-   "posted": "2026-11-24T18:17:53+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "B&H Photo Video",
-     "price": 379.0,
-     "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20388456&tid=20388456&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=496f23a2e86e11f190493a8768f957c0&au=965a09c4d8b14059ad88097f12b404cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T14:04:48+00:00"
+ "updated": "2026-11-25T14:14:08+00:00"
 }
