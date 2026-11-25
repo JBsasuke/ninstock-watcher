@@ -98,6 +98,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -164,7 +166,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=740b2a62e88111f1acba7ab09e679b66&au=a1f3974370384c598526556f414a8ac9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T03:36:52+00:00",
+   "checked_at": "2026-11-25T09:38:58+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -185,7 +187,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=754b0370e88111f1b8137a55f551cdc8&au=fa2a708684074c2c8243880fafa6bf97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T03:36:54+00:00",
+   "checked_at": "2026-11-25T09:39:00+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11600,6 +11602,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tbee5aa7c403",
+   "title": "Ninja 4-Quart 3-Functions Countertop Air Fryer (3 Colors) $59 + Free S&H",
+   "price": 59.0,
+   "old_price": 89.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20386944-4-quart-ninja-air-fryer-w-air-fry-reheat-dehydrate-3-colors-59-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22579692.thumb",
+   "posted": "2026-11-25T09:35:28+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T09:39:54+00:00",
+   "real_price": 59.0,
+   "real_old": 89.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20386944&pno=1373679&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2ade47cee8b411f1ac64820827a865f9&au=6cb046461d1546409e0aa0fe5465ce95&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t49d4d5f8b9a",
    "title": "Costco Members: 128GB Apple iPad Mini A20 Pro WiFi Tablet w/ 1-Yr AppleCare+ $600 & More + Free S&H",
    "price": 599.99,
@@ -12190,6 +12210,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12660,10 +12683,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=83331aaee8b311f1a1b4768fc20c66d0&au=7ed8d0a0c8344513abc7c26894edd841&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T09:35:12+00:00",
    "real_price": 35.99,
-   "real_old": 65.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=83331aaee8b311f1a1b4768fc20c66d0&au=7ed8d0a0c8344513abc7c26894edd841&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 65.0
   },
   {
    "id": "ta3e3a0a6844",
@@ -12768,8 +12791,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=84671736e8b311f188962a916d1f14a1&au=c6a6672104bd4e448313653f52c01948&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:35:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2c0d8416e8b411f1b4d32a916d1f14a1&au=96b1cb5bc4b645eeb4ef3962c7325bb6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:39:55+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15709,9 +15732,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16010,27 +16030,6 @@
    "checked_at": "2026-11-24T12:17:08+00:00",
    "real_price": 10.26,
    "real_old": 20.45
-  },
-  {
-   "id": "t483058fbb36",
-   "title": "[AC] $19.99* | Ring Indoor Cam 2K Plug-In Security Camera + 10% Back w/ Prime Visa Card at Amazon",
-   "price": 19.99,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385462-ac-19-99-ring-indoor-cam-2k-plug-in-security-camera-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22559730.thumb",
-   "posted": "2026-11-24T11:40:05+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "9D2FWS7L",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385462&tid=20385462&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ce3dec04e80411f1844fa2459dfa5d65&au=177821093f3c426b8cff5bd5e3221a7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:44:36+00:00",
-   "real_price": 19.99,
-   "real_old": 59.99
   }
  ],
  "tech": [
@@ -16590,7 +16589,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19269,5 +19268,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T09:36:14+00:00"
+ "updated": "2026-11-25T09:40:46+00:00"
 }
