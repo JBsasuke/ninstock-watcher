@@ -841,7 +841,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=8fc52a4ee88d11f1bf6b9e245a949712&au=ba2fc5f183f346a6bf72a07b20b3363b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T17:07:00+00:00",
+   "checked_at": "2026-11-25T23:07:37+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -11464,6 +11464,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t3c95ab44712",
+   "title": "75\" Toshiba Class M450 QLED Series 4K UHD Smart Fire TV (2026) $350 & More + Free S&H",
+   "price": 349.99,
+   "old_price": 789.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20397156-75-toshiba-m450-qled-series-4k-uhd-smart-fire-tv-2026-349-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22590636.thumb",
+   "posted": "2026-11-25T23:04:43+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:08:29+00:00",
+   "real_price": 349.99,
+   "real_old": 789.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t84e1ca7d2ba",
    "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & 8000mAh Power Bank $20",
    "price": 20.01,
@@ -11600,6 +11618,24 @@
    "checked_at": "2026-11-25T22:27:00+00:00",
    "real_price": 209.99,
    "real_old": 269.99
+  },
+  {
+   "id": "t60aca863770",
+   "title": "Greenworks 1600PSI 1.2 GPM Compact Electric Pressure Washer  $89.99 + Free Shipping",
+   "price": 89.99,
+   "old_price": 149.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20398359-greenworks-1600psi-1-2-gpm-compact-electric-pressure-washer-89-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22593645.thumb",
+   "posted": "2026-11-25T22:17:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:08:32+00:00",
+   "real_price": 89.99,
+   "real_old": 149.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398359&tid=20398359&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=21bf16f2e92511f1850ab69afa6fed55&au=b39117f67f364c9388c8affb1f63ac77&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t05b635f845d",
@@ -11796,10 +11832,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20397882&tid=20397882&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7b36fec6e92411f1ac2f36cb607acb7d&au=0c6b5ab1322a4778a7bdfed04769896d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T23:03:52+00:00",
    "real_price": 2279.0,
-   "real_old": 3599.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20397882&tid=20397882&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7b36fec6e92411f1ac2f36cb607acb7d&au=0c6b5ab1322a4778a7bdfed04769896d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 3599.0
   },
   {
    "id": "t0b8ae4fc0c2",
@@ -11885,9 +11921,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -11910,6 +11943,24 @@
    "checked_at": "2026-11-25T21:37:26+00:00",
    "real_price": 796.99,
    "real_old": 2199.99
+  },
+  {
+   "id": "t63d2d7d195e",
+   "title": "Philips Norelco Men's Multi-Groomer All-in-One 3000 13-in-1 Trimmer (MG3939/50) $24.96 + Free Shipping w/ Prime or on $35+",
+   "price": 24.96,
+   "old_price": 34.96,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20397696-philips-norelco-men-s-multi-groomer-all-in-one-3000-13-in-1-trimmer-mg3939-50-24-96-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22591836.thumb",
+   "posted": "2026-11-25T20:41:23+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:08:34+00:00",
+   "real_price": 24.96,
+   "real_old": 34.96,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t40cd481d3dc",
@@ -12324,6 +12375,24 @@
    "checked_at": "2026-11-25T22:59:21+00:00",
    "real_price": 79.99,
    "real_old": 149.99
+  },
+  {
+   "id": "te2e204c0a8b",
+   "title": "Dewalt 20V MAX XR Cordless Brushless Jigsaw with 6.0 Ah and 4.0 Ah Starter Kit @ Home Depot $199",
+   "price": 199.0,
+   "old_price": 497.84,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20396727-dewalt-20v-max-xr-cordless-brushless-jigsaw-with-6-0-ah-and-4-0-ah-starter-kit-home-depot-199?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22589727.thumb",
+   "posted": "2026-11-25T18:30:46+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T23:08:36+00:00",
+   "real_price": 199.0,
+   "real_old": 497.84,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20396727&tid=20396727&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=243e99cae92511f18e5ceaef9dc5a9f8&au=ac8906ced711487b862dda48eebe0bd0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "td6eb6aba47a",
@@ -13082,8 +13151,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7e28b958e92411f1ace88acc9fbbbe66&au=c24777e3cdcd4d5abf867335085215f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:03:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T23:08:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13345,8 +13414,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7fc4e26ee92411f1a7c48e9ce954beab&au=c4bb4f74afc74a71bd55b799f0a174d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:04:00+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T23:08:40+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13550,6 +13619,27 @@
    "checked_at": "2026-11-25T14:46:10+00:00",
    "real_price": 86.97,
    "real_old": 260.94
+  },
+  {
+   "id": "t3f2d5bb4047",
+   "title": "Panasonic Z95BP Series 65 inch OLED 4K Ultra HD Smart Fire TV + Bose TV Speaker Bundle $1999",
+   "price": 1999.0,
+   "old_price": 2438.0,
+   "store": "BuyDig",
+   "url": "https://slickdeals.net/f/20394669-panasonic-z95bp-series-65-inch-oled-4k-ultra-hd-smart-fire-tv-bose-tv-speaker-bundle-1999?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/4/0/6/1/6/0/300x300/22583694.thumb",
+   "posted": "2026-11-25T14:40:27+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "code": "BUYDIG50",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T23:08:42+00:00",
+   "real_price": 1999.0,
+   "real_old": 2438.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te133b0b68cc",
@@ -15843,99 +15933,36 @@
    "checked_at": "2026-11-25T12:55:49+00:00",
    "real_price": 22.91,
    "real_old": 45.81
-  },
-  {
-   "id": "t7ee8ea02f2a",
-   "title": "3-Pack 24-Count Advil Junior Strength Chewable Ibuprofen Tablets, Grape $7.14 ($2.38 per Pack) w/ S&S + Free Shipping w/ Prime or on $35+",
-   "price": 7.14,
-   "old_price": 17.01,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391645-3-pack-24-count-advil-junior-strength-chewable-ibuprofen-tablets-grape-7-14-2-38-per-pack-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/6/4/5/1/8/7/300x300/22575822.thumb",
-   "posted": "2026-11-25T03:36:59+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391645&tid=20391645&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=faf091f6e8dc11f1be146a82603adb7c&au=6f1e0212a9114d72826b2a4e2aeaaca8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:32:03+00:00",
-   "real_price": 7.14,
-   "real_old": 17.01
-  },
-  {
-   "id": "td57a763e832",
-   "title": "$9.55* | DeWALT Retractable Utility Knife w/ Blade Storage at Amazon",
-   "price": 9.55,
-   "old_price": 60.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391627-9-55-dewalt-retractable-utility-knife-w-blade-storage-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22577517.thumb",
-   "posted": "2026-11-25T03:34:31+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391627&tid=20391627&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=fb6718e2e88e11f1be2a8258c73470e0&au=611cb1a2ec494cfabf2c1b7ebff09dba&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T05:13:43+00:00",
-   "real_price": 9.55,
-   "real_old": 60.0
-  },
-  {
-   "id": "ta07767d2e6c",
-   "title": "$609.99* | Coway Airmega ProX Air Purifier w/ Washable HEPA Filters for Large Rooms at Amazon",
-   "price": 609.99,
-   "old_price": 999.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391603-609-99-coway-airmega-prox-air-purifier-w-washable-hepa-filters-for-large-rooms-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22579071.thumb",
-   "posted": "2026-11-25T03:32:01+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391603&tid=20391603&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7be67784e8a711f1a535f69723c7ae1b&au=72cecd7e109849a3b1249977e9fd6e2f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:09:06+00:00",
-   "real_price": 609.99,
-   "real_old": 999.0
-  },
-  {
-   "id": "t6f1ae123da1",
-   "title": "Prime: Arlo Essential XL 2K Wireless Outdoor Security Camera (2nd Gen) $30 + Free S&H",
-   "price": 29.99,
-   "old_price": 89.16,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20375457-prime-members-arlo-essential-xl-2k-wireless-outdoor-security-camera-2nd-gen-29-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22534773.thumb",
-   "posted": "2026-11-25T03:14:42+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375457&pno=1373457&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0442b166e87f11f1b0f9168f93676bec&au=8361f182f4c541faad8b15d54f623f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:19:25+00:00",
-   "real_price": 29.99,
-   "real_old": 89.16
-  },
-  {
-   "id": "t4a93362df82",
-   "title": "Steelite 43\" Extendable Ice Scraper & Snow Brush w/ 180° Pivoting Head (Green) $15.99 + Free Shipping w/ Walmart+ or on $35+",
-   "price": 15.99,
-   "old_price": 39.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20391546-steelite-43-extendable-ice-scraper-snow-brush-w-180-pivoting-head-green-15-99-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22575354.thumb",
-   "posted": "2026-11-25T03:13:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391546&tid=20391546&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=326cd5b0e88611f19d9fb21a18e60083&au=3d999cc849e54341bec099a1e5c416ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:10:50+00:00",
-   "real_price": 15.99,
-   "real_old": 39.99
   }
  ],
  "tech": [
+  {
+   "id": "t3c95ab44712",
+   "title": "75\" Toshiba Class M450 QLED Series 4K UHD Smart Fire TV (2026) & More + Free S&H",
+   "price": 349.99,
+   "old_price": 789.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22590636.thumb",
+   "posted": "2026-11-25T23:04:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&pno=1374237&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=20a64a92e92511f181f1a6f64cc7c3ff&au=76f16c8cbe8e480faea3c558f406d425&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t84e1ca7d2ba",
    "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & 8000mAh Power Bank",
@@ -16303,7 +16330,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16311,6 +16338,33 @@
      "store": "Newegg",
      "price": 159.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t63d2d7d195e",
+   "title": "Philips Norelco Men's Multi-Groomer All-in-One 3000 13-in-1 Trimmer (MG3939/50)",
+   "price": 24.96,
+   "old_price": 34.96,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22591836.thumb",
+   "posted": "2026-11-25T20:41:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 24.96,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397696&tid=20397696&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2325d706e92511f18d6aa6f64cc7c3ff&au=afce42d5f5d044c79704344af6143837&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17376,8 +17430,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7e28b958e92411f1ace88acc9fbbbe66&au=c24777e3cdcd4d5abf867335085215f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7e28b958e92411f1ace88acc9fbbbe66&au=c24777e3cdcd4d5abf867335085215f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17393,7 +17447,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7e28b958e92411f1ace88acc9fbbbe66&au=c24777e3cdcd4d5abf867335085215f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=256b14aee92511f1aa675228727de8fe&au=7064e079c93749ea8cba4938c9eaf5ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17565,8 +17619,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7fc4e26ee92411f1a7c48e9ce954beab&au=c4bb4f74afc74a71bd55b799f0a174d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7fc4e26ee92411f1a7c48e9ce954beab&au=c4bb4f74afc74a71bd55b799f0a174d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17582,7 +17636,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7fc4e26ee92411f1a7c48e9ce954beab&au=c4bb4f74afc74a71bd55b799f0a174d4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=26e179cce92511f1850ab69afa6fed55&au=035fdf5e29884197bb33e3ba504fae30&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17691,6 +17745,33 @@
      "store": "Walmart",
      "price": 110.0,
      "url": "https://www.walmart.com/ip/3508934122"
+    }
+   ]
+  },
+  {
+   "id": "t3f2d5bb4047",
+   "title": "Panasonic Z95BP Series 65 inch OLED 4K Ultra HD Smart Fire TV + Bose TV Speaker Bundle",
+   "price": 1999.0,
+   "old_price": 2438.0,
+   "store": "BuyDig",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/4/0/6/1/6/0/300x300/22583694.thumb",
+   "posted": "2026-11-25T14:40:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": "BUYDIG50",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "BuyDig",
+     "price": 1999.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19070,88 +19151,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=365042fce89a11f1bf883acabd27a35c&au=89f0fe765ae04774af6f058d42f5213d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te605b9453d7",
-   "title": "Thermaltake LCGS Versa i570S: i9-14900KF, RTX 5070, 32GB DDR5, 1TB SSD",
-   "price": 1745.99,
-   "old_price": 2199.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22578015.thumb",
-   "posted": "2026-11-25T06:03:23+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 1745.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t567b3cdfcfd",
-   "title": "Woot! Best Of PC; Extra 10% Off: Acer Mouse 570 Wireless , MSI MAG A650GN II Gaming Power Supply & More + FS",
-   "price": 22.99,
-   "old_price": 59.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392410&tid=20392410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b57d2ace8de11f185ec32033c67b9dc&au=998ed81691fa45f3a2c594f6fa5af8bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392410&tid=20392410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b57d2ace8de11f185ec32033c67b9dc&au=998ed81691fa45f3a2c594f6fa5af8bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22577697.thumb",
-   "posted": "2026-11-25T06:00:52+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": "BESTOFPC",
-   "code_until": "2026-12-05",
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 22.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392410&tid=20392410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b57d2ace8de11f185ec32033c67b9dc&au=998ed81691fa45f3a2c594f6fa5af8bd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tddd230ebadd",
-   "title": "iYofe 24V 2-Seater Licensed 1970 Dodge Charger R/T Kids Ride-On Car",
-   "price": 250.0,
-   "old_price": 529.99,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/4/1/0/9/7/300x300/22577955.thumb",
-   "posted": "2026-11-25T06:00:46+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 250.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T23:04:48+00:00"
+ "updated": "2026-11-25T23:09:24+00:00"
 }
