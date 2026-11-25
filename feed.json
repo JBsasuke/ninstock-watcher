@@ -163,13 +163,13 @@
    "posted": "2026-11-25T03:46:52+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T09:52:37+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391711&tid=20391711&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=f207a074e8b511f1bf04768fc20c66d0&au=59b13c221bd94fe2973ca3172b748ee3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T09:52:37+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "fa46bc07ed85",
@@ -355,7 +355,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&pno=1373217&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=be674ca6e85111f19f775205667f8650&au=82bc946b1adf42b7924c9d6a8f2d3e49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T03:56:03+00:00",
+   "checked_at": "2026-11-25T09:57:21+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -3067,7 +3067,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T03:56:00+00:00",
+   "checked_at": "2026-11-25T09:57:18+00:00",
    "real_price": 24.99,
    "real_old": 26.95,
    "category_ok": true
@@ -11665,6 +11665,24 @@
    "real_old": 1599.99
   },
   {
+   "id": "tdac461aa80f",
+   "title": "16800mAh Magnetic Wireless Power Bank w/ Built-In Cables & 4 Outputs (Black) $12.99 + Free Shipping w/ Prime or on $35+",
+   "price": 12.99,
+   "old_price": 16.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392707-16800mah-magnetic-wireless-power-bank-w-built-in-cables-4-outputs-black-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22578657.thumb",
+   "posted": "2026-11-25T07:06:36+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T09:58:12+00:00",
+   "real_price": 12.99,
+   "real_old": 16.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392707&tid=20392707&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9e09d76e8b611f1a5d98647fde6dc56&au=edbb2091c0d94a389c1bfc5c42540c8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2f71ae75f11",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics (Graphite) $72 + Free S&H w/ Prime",
    "price": 71.99,
@@ -12766,8 +12784,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=16db76aae8b611f182393295aa46e244&au=335668380afa4f2da24ea44edd6db426&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:53:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=bb3785eae8b611f199209668c4e04009&au=1d97f21657f04e9186b90c920430e224&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:58:15+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15990,24 +16008,6 @@
    "checked_at": "2026-11-24T13:55:46+00:00",
    "real_price": 695.0,
    "real_old": 1150.0
-  },
-  {
-   "id": "t7e031205dc3",
-   "title": "[SnS, AC] $10.26 or $9.24* | 94-Ct Finish Power Dishwasher Detergent Pods at Amazon (10.9￠ each)",
-   "price": 10.26,
-   "old_price": 20.45,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385501-sns-ac-10-26-or-9-24-94-ct-finish-power-dishwasher-detergent-pods-at-amazon-10-9-each?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22559904.thumb",
-   "posted": "2026-11-24T11:44:12+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385501&tid=20385501&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f7c6ec0ae80011f1b62c56dc11596320&au=20f4dba6eb994165b9cfd4224122b7cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T12:17:08+00:00",
-   "real_price": 10.26,
-   "real_old": 20.45
   }
  ],
  "tech": [
@@ -16062,6 +16062,33 @@
      "store": "Amazon",
      "price": 1299.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tdac461aa80f",
+   "title": "16800mAh Magnetic Wireless Power Bank",
+   "price": 12.99,
+   "old_price": 16.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392707&tid=20392707&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9e09d76e8b611f1a5d98647fde6dc56&au=edbb2091c0d94a389c1bfc5c42540c8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392707&tid=20392707&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9e09d76e8b611f1a5d98647fde6dc56&au=edbb2091c0d94a389c1bfc5c42540c8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22578657.thumb",
+   "posted": "2026-11-25T07:06:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 12.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392707&tid=20392707&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9e09d76e8b611f1a5d98647fde6dc56&au=edbb2091c0d94a389c1bfc5c42540c8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19217,34 +19244,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t7f048f99ddf",
-   "title": "Gigabyte AMD Radeon RX 9070 XT Gaming Overclocked Triple Fan 16GB",
-   "price": 899.99,
-   "old_price": 1199.99,
-   "store": "Micro Center",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386614&tid=20386614&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d343fbee81911f1bfd12a881380f11b&au=f9d7210b10b844e9b50ca6d4740dc473&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386614&tid=20386614&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d343fbee81911f1bfd12a881380f11b&au=f9d7210b10b844e9b50ca6d4740dc473&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/7/3/8/1/9/9/300x300/22563195.thumb",
-   "posted": "2026-11-24T14:30:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Micro Center",
-     "price": 899.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386614&tid=20386614&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d343fbee81911f1bfd12a881380f11b&au=f9d7210b10b844e9b50ca6d4740dc473&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T09:54:32+00:00"
+ "updated": "2026-11-25T09:59:09+00:00"
 }
