@@ -61,7 +61,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:43:34+00:00",
+   "checked_at": "2026-11-25T06:47:10+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11577,6 +11577,42 @@
  ],
  "raw_tech": [
   {
+   "id": "td31d86dad7a",
+   "title": "Apple Watch Ultra (Grade A Refurbished) w/ 1-Year Warranty $271 + Free S&H w/ Prime",
+   "price": 270.99,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20384115-grade-a-refurbished-apple-watch-ultra-w-1-year-warranty-various-colors-styles-270-99-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22556145.thumb",
+   "posted": "2026-11-25T06:44:06+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "checked_at": "2026-11-25T06:48:08+00:00",
+   "real_price": 270.99,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t16f0b410b0c",
+   "title": "Straight Talk 128GB Apple iPhone 16e Smartphone (Locked) $199 & More + Free S&H",
+   "price": 199.0,
+   "old_price": 349.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20391429-wm-straight-talk-iphone-16e-128gb-199-and-samsung-a27-99-no-plan-purchase-require-use-on-existing-line?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578531.thumb",
+   "posted": "2026-11-25T06:42:13+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T06:48:10+00:00",
+   "real_price": 199.0,
+   "real_old": 349.0,
+   "store_url": "https://www.walmart.com/ip/14822456361"
+  },
+  {
    "id": "te9445f20325",
    "title": "55\" Insignia F50 Series 4K UHD Smart Fire TV (2025) $170 + Free S&H",
    "price": 169.99,
@@ -11667,10 +11703,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82f702f2e89b11f18061f6b31f8e8f7a&au=17b2ae5ac2a14758a14fc05273d44a78&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:43:24+00:00",
    "real_price": 399.99,
-   "real_old": 649.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82f702f2e89b11f18061f6b31f8e8f7a&au=17b2ae5ac2a14758a14fc05273d44a78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 649.99
   },
   {
    "id": "ta4838d0673a",
@@ -12037,6 +12073,24 @@
    "real_old": 799.0
   },
   {
+   "id": "t070bd4c6d66",
+   "title": "$36.99: WORKPRO Wet Dry Vacuum 2.5 Gallon 3 Peak Horsepower Portable Shop Vacuum Cleaner Black W125080A at Walmart.com",
+   "price": 36.99,
+   "old_price": 79.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20391495-36-99-workpro-wet-dry-vacuum-2-5-gallon-3-peak-horsepower-portable-shop-vacuum-cleaner-black-w125080a-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22575582.thumb",
+   "posted": "2026-11-25T03:04:35+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T06:48:13+00:00",
+   "real_price": 36.99,
+   "real_old": 79.99,
+   "store_url": "https://www.walmart.com/ip/1306600025"
+  },
+  {
    "id": "t6ea21880626",
    "title": "$899.99: Samsung 65-Inch Class S85H Series, OLED, 4K 120Hz, Smart TV, 2026 Model at Amazon",
    "price": 899.99,
@@ -12301,8 +12355,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8444996ce89b11f19bfbae72dfbc3593&au=cafd9197d0ee4e23b14219980d880542&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:43:26+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=30acf5f0e89c11f191baeab3c3ff5ade&au=3c186e5be80b42df8c19ff30099f4cd1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T06:48:15+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15941,59 +15995,63 @@
    "checked_at": "2026-11-24T11:53:21+00:00",
    "real_price": 39.99,
    "real_old": 84.99
-  },
-  {
-   "id": "t5109a8aa0ab",
-   "title": "costco apple watch series 12",
-   "price": 299.0,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20384784-costco-apple-watch-series-12?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-24T09:21:34+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "checked_at": "2026-11-24T19:32:20+00:00",
-   "real_price": 299.0
-  },
-  {
-   "id": "tfbfea0a5695",
-   "title": "Garmin vivoactive 5 42mm Health & Fitness GPS Smartwatch (Orchid) $152.09",
-   "price": 152.09,
-   "old_price": 299.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20384697-garmin-vivoactive-5-42mm-health-fitness-gps-smartwatch-orchid-152-09?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/0/4/2/3/2/7/300x300/22557765.thumb",
-   "posted": "2026-11-24T09:00:01+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384697&tid=20384697&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=619a840ce87e11f18437766b643ec681&au=0962f911435b4bc0bfb0b11361c915e4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:14:53+00:00",
-   "real_price": 152.09,
-   "real_old": 299.99
-  },
-  {
-   "id": "t89176c1542a",
-   "title": "Cresee iPhone 17 Pro Max Case w/ 360° Rotating Magnetic Ring Stand - $3.74",
-   "price": 3.74,
-   "old_price": 57.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20384679-cresee-iphone-17-pro-max-case-w-360-rotating-magnetic-ring-stand-3-74?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22557711.thumb",
-   "posted": "2026-11-24T08:55:28+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20384679&tid=20384679&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25363762e80c11f184f906b2793bd035&au=1beb855e3c81453f963c56d3c2030711&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "expired": true
   }
  ],
  "tech": [
+  {
+   "id": "td31d86dad7a",
+   "title": "Apple Watch Ultra (Grade A Refurbished)",
+   "price": 270.99,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22556145.thumb",
+   "posted": "2026-11-25T06:44:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 270.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t16f0b410b0c",
+   "title": "Straight Talk 128GB Apple iPhone 16e Smartphone (Locked) & More + Free S&H",
+   "price": 199.0,
+   "old_price": 349.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/14822456361",
+   "url": "https://www.walmart.com/ip/14822456361",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578531.thumb",
+   "posted": "2026-11-25T06:42:13+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 199.0,
+     "url": "https://www.walmart.com/ip/14822456361"
+    }
+   ]
+  },
   {
    "id": "te9445f20325",
    "title": "55\" Insignia F50 Series 4K UHD Smart Fire TV (2025) + Free S&H",
@@ -19173,61 +19231,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t1ed9407e748",
-   "title": "furReal 11\" Daisy the Yoga Goat Interactive Plush Toy",
-   "price": 20.0,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560810.thumb",
-   "posted": "2026-11-24T12:44:50+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 20.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377053&pno=1372791&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=79ec98d4e80511f187110a6123e54392&au=f7666ff82ac74eaca1e2e7ab398ae89b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t68aec35f620",
-   "title": "[AC] | Baseus Picogo Power Bank, Smallest 5000mAh Magnetic Portable Charger with Stand",
-   "price": 18.89,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385759&tid=20385759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ba6ee98e80911f1891d3a785a703b11&au=00226c0150024e6091b847cf34765851&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385759&tid=20385759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ba6ee98e80911f1891d3a785a703b11&au=00226c0150024e6091b847cf34765851&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560504.thumb",
-   "posted": "2026-11-24T12:26:38+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 18.89,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385759&tid=20385759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ba6ee98e80911f1891d3a785a703b11&au=00226c0150024e6091b847cf34765851&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T06:44:21+00:00"
+ "updated": "2026-11-25T06:49:06+00:00"
 }
