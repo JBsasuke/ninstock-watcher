@@ -719,7 +719,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369271&pno=1371522&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=50c800c4e82311f1ad5272351a84d088&au=acfe6db78b0646f0b1e0862c18d64475&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:24:05+00:00",
+   "checked_at": "2026-11-25T10:24:06+00:00",
    "real_price": 59.88,
    "real_old": 69.99,
    "category_ok": true
@@ -1106,7 +1106,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&pno=1372239&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=d1a563f4e7f011f18f446636fa90d852&au=bb5b9f9ed3ff403ea2f615376b6ff829&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:24:07+00:00",
+   "checked_at": "2026-11-25T10:24:08+00:00",
    "real_price": 24.88,
    "real_old": 50.0,
    "category_ok": true
@@ -11711,10 +11711,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/20208717259",
    "checked_at": "2026-11-25T10:20:23+00:00",
    "real_price": 299.0,
-   "real_old": 479.0,
-   "store_url": "https://www.walmart.com/ip/20208717259"
+   "real_old": 479.0
   },
   {
    "id": "tdac461aa80f",
@@ -12255,6 +12255,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12833,8 +12836,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d4577a96e8b911f1af507285e31ac6a6&au=7541a7f72dd44729aac9a72b17aeee85&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:20:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=77f359d6e8ba11f187588647fde6dc56&au=6f77ce424b384056b472e406bd5e2eef&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T10:25:00+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16625,7 +16628,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19223,5 +19226,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T10:21:20+00:00"
+ "updated": "2026-11-25T10:25:56+00:00"
 }
