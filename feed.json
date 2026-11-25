@@ -699,7 +699,7 @@
    "posted": "2026-11-24T18:39:06+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T06:42:28+00:00",
+   "checked_at": "2026-11-25T12:45:40+00:00",
    "category_ok": true,
    "real_price": 21.24,
    "real_old": 24.99,
@@ -11625,12 +11625,30 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
    "real_price": 18.0,
    "real_old": 59.99
+  },
+  {
+   "id": "td2e707ba250",
+   "title": "$29.99* | Refurb: NETGEAR Nighthawk RAX43 5-Stream AX5 WiFi 6 Wireless Router at Amazon",
+   "price": 29.99,
+   "old_price": 126.93,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393229-29-99-refurb-netgear-nighthawk-rax43-5-stream-ax5-wifi-6-wireless-router-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580031.thumb",
+   "posted": "2026-11-25T10:11:44+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": true,
+   "checked_at": "2026-11-25T12:46:35+00:00",
+   "real_price": 29.99,
+   "real_old": 126.93,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393229&tid=20393229&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=3f4fca60e8ce11f19a449ab9921fe0c0&au=03c7d518720b4c199f01486b5bda4f77&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t191e13330e4",
@@ -11863,10 +11881,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392950&tid=20392950&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f737008ce8cc11f18047c618b39872ef&au=99d6307d8b754fc8b9f9c183027839a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:37:24+00:00",
    "real_price": 199.0,
-   "real_old": 428.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392950&tid=20392950&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f737008ce8cc11f18047c618b39872ef&au=99d6307d8b754fc8b9f9c183027839a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 428.0
   },
   {
    "id": "t24ad8121a07",
@@ -11975,7 +11993,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -13210,8 +13228,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8b5e2c0e8cc11f1a47c3295aa46e244&au=9e5c05f5ab3f4043b8b3b3c5ea5e24a4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:37:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=40c93c78e8ce11f1b8114e2eae10b5bf&au=a42779c5065145b0bd4400f6782fa7b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T12:46:37+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15897,24 +15915,6 @@
    "checked_at": "2026-11-24T15:27:33+00:00",
    "real_price": 1142.0,
    "real_old": 1699.0
-  },
-  {
-   "id": "t7d3b6a2b029",
-   "title": "AMD Ryzen 7 9800X3D Granite Ridge AM5 4.70GHz 8-Core Boxed Processor $350",
-   "price": 350.0,
-   "old_price": 479.99,
-   "store": "Micro Center",
-   "url": "https://slickdeals.net/f/20386572-amd-ryzen-7-9800x3d-granite-ridge-am5-4-70ghz-8-core-boxed-processor-350?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/8/2/1/4/6/300x300/22563069.thumb",
-   "posted": "2026-11-24T14:23:33+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386572&tid=20386572&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e978884e81911f19bba52dd1a53985c&au=b08cecaf24f24ea8a01193601cac00af&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:13:09+00:00",
-   "real_price": 350.0,
-   "real_old": 479.99
   }
  ],
  "tech": [
@@ -16043,13 +16043,40 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
      "store": "Woot!",
      "price": 18.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "td2e707ba250",
+   "title": "Refurb: NETGEAR Nighthawk RAX43 5-Stream AX5 WiFi 6 Wireless Router",
+   "price": 29.99,
+   "old_price": 126.93,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393229&tid=20393229&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=3f4fca60e8ce11f19a449ab9921fe0c0&au=03c7d518720b4c199f01486b5bda4f77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393229&tid=20393229&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=3f4fca60e8ce11f19a449ab9921fe0c0&au=03c7d518720b4c199f01486b5bda4f77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580031.thumb",
+   "posted": "2026-11-25T10:11:44+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393229&tid=20393229&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=3f4fca60e8ce11f19a449ab9921fe0c0&au=03c7d518720b4c199f01486b5bda4f77&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19124,34 +19151,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387874&tid=20387874&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=fdd5f4fee88e11f186c482ae886e9f7c&au=e66a5102c17c41d899f635b44f6368f8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t06668cd4b71",
-   "title": "5kg ELEGOO TPU 72D 3D Printer Filament",
-   "price": 79.0,
-   "old_price": null,
-   "store": "ELEGOO",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ELEGOO&sdtid=20387754&tid=20387754&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a34b962e88511f1925fde89afd0bba1&au=113f951b41984a9e80f4abe1f3e8595b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+ELEGOO&sdtid=20387754&tid=20387754&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a34b962e88511f1925fde89afd0bba1&au=113f951b41984a9e80f4abe1f3e8595b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22565976.thumb",
-   "posted": "2026-11-24T16:40:37+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "ELEGOO",
-     "price": 79.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+ELEGOO&sdtid=20387754&tid=20387754&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a34b962e88511f1925fde89afd0bba1&au=113f951b41984a9e80f4abe1f3e8595b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T12:38:18+00:00"
+ "updated": "2026-11-25T12:47:31+00:00"
 }
