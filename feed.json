@@ -478,10 +478,12 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T15:12:56+00:00",
+   "checked_at": "2026-11-25T17:21:16+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11510,6 +11512,27 @@
  ],
  "raw_tech": [
   {
+   "id": "tce306fe73c2",
+   "title": "Ashford: Black Friday Doorbusters (Watches, Sunglasses & More) Extra 20% Off",
+   "price": null,
+   "old_price": null,
+   "store": "Ashford",
+   "url": "https://slickdeals.net/f/20382876-extra-15-off-pre-black-friday-doorbusters-at-ashford?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22587837.thumb",
+   "posted": "2026-11-25T17:18:22+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "PRE15",
+   "code_until": null,
+   "promo": "Extra 20% Off",
+   "checked_at": "2026-11-25T17:22:14+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7e5c499583a",
    "title": "Superone 360° Magnetic Vacuum Suction Car Phone Holder/Mount (Clamp Suction) $6",
    "price": 5.99,
@@ -11525,10 +11548,10 @@
    "code": "GH9SZ552",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388468&pno=1373949&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=16abfa36e8f411f1babc5e187ee7ac18&au=4c74922d64b24b8387d2501b658a9d66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:17:28+00:00",
    "real_price": 5.99,
-   "real_old": 11.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388468&pno=1373949&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=16abfa36e8f411f1babc5e187ee7ac18&au=4c74922d64b24b8387d2501b658a9d66&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 11.99
   },
   {
    "id": "te8a14c6e8a5",
@@ -11720,8 +11743,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1819d9b0e8f411f19286aaea4daf1256&au=dd67b5f648a34850b202a4d94e9422f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:17:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c28f1054e8f411f18134f2ee5f77406d&au=f185154696254369adda7519e62787a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:22:16+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -11966,8 +11989,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=193a5856e8f411f1803c5a511138d167&au=0183c54b05894433a51037ecec44aba3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:17:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c3e541a8e8f411f1a56e52d4671160e3&au=437491e2751d40b1a3b40793fd03b56a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:22:18+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12132,6 +12155,24 @@
    "checked_at": "2026-11-25T15:57:11+00:00",
    "real_price": 401.2,
    "real_old": 999.99
+  },
+  {
+   "id": "tbcef30ff191",
+   "title": "UGREEN - Nexode 145W Laptop Power Bank, 25,000mAh Portable Charger with 240W USB-C Cable, 3-Port Fast Charging, Airline Approved  $59.98",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20394624-ugreen-nexode-145w-laptop-power-bank-25-000mah-portable-charger-with-240w-usb-c-cable-3-port-fast-charging-airline-approved-59-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22583604.thumb",
+   "posted": "2026-11-25T14:35:44+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T17:22:21+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0779b4632c2",
@@ -12517,10 +12558,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393859&tid=20393859&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1a6a731ee8f411f1bee8ae6475442606&au=a3224808657541e7bf475b428ac63ff2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:17:34+00:00",
    "real_price": 20.68,
-   "real_old": 62.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393859&tid=20393859&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1a6a731ee8f411f1bee8ae6475442606&au=a3224808657541e7bf475b428ac63ff2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 62.0
   },
   {
    "id": "t73a589f3a3c",
@@ -13341,6 +13382,27 @@
    "checked_at": "2026-11-25T06:48:10+00:00",
    "real_price": 199.0,
    "real_old": 349.0
+  },
+  {
+   "id": "t175f4e1e258",
+   "title": "$45: ASUS Prime A620A-PLUS WiFi AMD ATX Motherboard, DDR5, WiFi 6, 1Gb LAN at Woot!",
+   "price": 45.0,
+   "old_price": 140.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20392602-45-asus-prime-a620a-plus-wifi-amd-atx-motherboard-ddr5-wifi-6-1gb-lan-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22578450.thumb",
+   "posted": "2026-11-25T06:34:23+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T17:22:23+00:00",
+   "real_price": 45.0,
+   "real_old": 140.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392602&tid=20392602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c6a5ea3ce8f411f1aea57a6f4a44c31f&au=3fbaaac46a4c4d4e98c69ad19e5c4116&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t39ba23fe92e",
@@ -14327,6 +14389,27 @@
    "real_old": 349.0
   },
   {
+   "id": "t1de270d0435",
+   "title": "Loft.com Black Friday Event 50% Off Everything plus Extra 70% Off Sale Styles",
+   "price": null,
+   "old_price": null,
+   "store": "Loft",
+   "url": "https://slickdeals.net/f/20391426-loft-com-black-friday-event-50-off-everything-plus-extra-70-off-sale-styles?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22575333.thumb",
+   "posted": "2026-11-25T02:48:43+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": null,
+   "code_until": null,
+   "promo": "50% Off",
+   "checked_at": "2026-11-25T17:22:25+00:00",
+   "real_price": 56.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta03faf6e79b",
    "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
    "price": 99.0,
@@ -14591,8 +14674,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1c0fc142e8f411f1bad1665d004879ef&au=faed110abf9e4ba08421889e27d7c8d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:17:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c96d12b8e8f411f18c24461d83d1f2e5&au=79a08857054a4b6dbcc18502cf90752f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:22:28+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15857,81 +15940,30 @@
    "checked_at": "2026-11-24T22:14:58+00:00",
    "real_price": 9.49,
    "real_old": 19.99
-  },
-  {
-   "id": "t1be38187958",
-   "title": "VIZIO 85\" Class Quantum Series Mini LED 4K Smart TV",
-   "price": 498.0,
-   "old_price": 999.99,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20389188-vizio-85-class-quantum-series-mini-led-4k-smart-tv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/5/2/8/6/6/300x300/22569741.thumb",
-   "posted": "2026-11-24T20:01:06+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1dca3514e85711f18fdebe65d06667c7&au=a71748a694944482b4f43c5c7d46afd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T22:33:48+00:00",
-   "real_price": 498.0,
-   "real_old": 999.99
-  },
-  {
-   "id": "t89ad1a95a3a",
-   "title": "VIZIO 85\" Class Quantum Series Mini LED 4K Smart TV $498 @Sam'sClub B&M YMMV",
-   "price": 498.0,
-   "old_price": 768.0,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20389188-vizio-85-class-quantum-series-mini-led-4k-smart-tv-498-sam-sclub-b-m-ymmv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22572372.thumb",
-   "posted": "2026-11-24T20:01:06+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-24T23:01:30+00:00",
-   "real_price": 498.0,
-   "real_old": 768.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20389188&tid=20389188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fc362166e85a11f1add0d62a03b18558&au=f6b320bad0874248a692ae9eebb65ff3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t23e6b4b56ca",
-   "title": "27\" MSI PRO MP273Q E7 Monitor + MAG MT201 Desk Mount $40 & More + Free S&H",
-   "price": 40.0,
-   "old_price": 199.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389056-150-mag-341cqp-qd-oled-x28-mpg-mt201r-v2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22569672.thumb",
-   "posted": "2026-11-24T19:56:40+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "checked_at": "2026-11-24T19:59:18+00:00",
-   "real_price": 40.0,
-   "real_old": 199.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&pno=1373133&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8812c24ee84111f1a7ea2a916d1f14a1&au=353a1e15963d4c4db1723f9e7e2574db&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t7f820918248",
-   "title": "27\" MSI PRO MP273Q E7 Monitor + MAG MT201 Desk Mount $40 & More + Free S&H",
-   "price": 40.0,
-   "old_price": 199.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389056-27-msi-pro-mp273q-e7-monitor-mag-mt201-desk-mount-40-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22569672.thumb",
-   "posted": "2026-11-24T19:56:40+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&pno=1373133&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=32d81cbae84211f1a32cd203b73e408b&au=52beec8a533c43128bfdcf6f4fd0029a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T20:04:05+00:00",
-   "real_price": 40.0,
-   "real_old": 199.98
   }
  ],
  "tech": [
+  {
+   "id": "tce306fe73c2",
+   "title": "Ashford: Black Friday Doorbusters (Watches, Sunglasses & More) Extra 20% Off",
+   "price": null,
+   "old_price": null,
+   "store": "Ashford",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22587837.thumb",
+   "posted": "2026-11-25T17:18:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "PRE15",
+   "code_until": null,
+   "promo": "Extra 20% Off",
+   "offers": []
+  },
   {
    "id": "t2445d2e5b2c",
    "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones (various) from + Free S&H",
@@ -16100,8 +16132,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1819d9b0e8f411f19286aaea4daf1256&au=dd67b5f648a34850b202a4d94e9422f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1819d9b0e8f411f19286aaea4daf1256&au=dd67b5f648a34850b202a4d94e9422f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c28f1054e8f411f18134f2ee5f77406d&au=f185154696254369adda7519e62787a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c28f1054e8f411f18134f2ee5f77406d&au=f185154696254369adda7519e62787a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16117,7 +16149,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1819d9b0e8f411f19286aaea4daf1256&au=dd67b5f648a34850b202a4d94e9422f6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c28f1054e8f411f18134f2ee5f77406d&au=f185154696254369adda7519e62787a1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16316,8 +16348,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=193a5856e8f411f1803c5a511138d167&au=0183c54b05894433a51037ecec44aba3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=193a5856e8f411f1803c5a511138d167&au=0183c54b05894433a51037ecec44aba3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c3e541a8e8f411f1a56e52d4671160e3&au=437491e2751d40b1a3b40793fd03b56a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c3e541a8e8f411f1a56e52d4671160e3&au=437491e2751d40b1a3b40793fd03b56a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16333,7 +16365,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=193a5856e8f411f1803c5a511138d167&au=0183c54b05894433a51037ecec44aba3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c3e541a8e8f411f1a56e52d4671160e3&au=437491e2751d40b1a3b40793fd03b56a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16415,6 +16447,33 @@
      "store": "Best Buy",
      "price": 15.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&tid=20394666&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b8ff3fd8e8ee11f18b677697f74658a6&au=b09e702b49fa4415a08e44e9039976e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tbcef30ff191",
+   "title": "UGREEN - Nexode 145W Laptop Power Bank, 25,000mAh Portable Charger with 240W USB-C Cable, 3-Port Fast Charging, Airline Approved",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22583604.thumb",
+   "posted": "2026-11-25T14:35:44+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17445,6 +17504,33 @@
    ]
   },
   {
+   "id": "t175f4e1e258",
+   "title": ": ASUS Prime A620A-PLUS WiFi AMD ATX Motherboard, DDR5, WiFi 6, 1Gb LAN",
+   "price": 45.0,
+   "old_price": 140.0,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392602&tid=20392602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c6a5ea3ce8f411f1aea57a6f4a44c31f&au=3fbaaac46a4c4d4e98c69ad19e5c4116&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392602&tid=20392602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c6a5ea3ce8f411f1aea57a6f4a44c31f&au=3fbaaac46a4c4d4e98c69ad19e5c4116&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22578450.thumb",
+   "posted": "2026-11-25T06:34:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 45.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392602&tid=20392602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c6a5ea3ce8f411f1aea57a6f4a44c31f&au=3fbaaac46a4c4d4e98c69ad19e5c4116&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tcfa0c7629ca",
    "title": ": Hyper HyperDrive 6-in-1 USB C Hub for iPad with Media Controls",
    "price": 24.29,
@@ -18363,6 +18449,27 @@
    ]
   },
   {
+   "id": "t1de270d0435",
+   "title": "Loft.com Black Friday Event 50% Off Everything plus Extra 70% Off Sale Styles",
+   "price": null,
+   "old_price": null,
+   "store": "Loft",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22575333.thumb",
+   "posted": "2026-11-25T02:48:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": "50% Off",
+   "offers": []
+  },
+  {
    "id": "ta03faf6e79b",
    "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
    "price": 99.0,
@@ -19063,115 +19170,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390013&tid=20390013&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82b08c3ce85f11f1b9792a916d1f14a1&au=61bc9fc2087b4e83a303a2764e628b82&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb14281b35cb",
-   "title": "HP OmniBook X Flip 2-in-1 Touch Laptop: 16\" FHD+ IPS, Ultra 7 256V, 16GB, 1TB SSD",
-   "price": 749.99,
-   "old_price": 1199.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385021&pno=1373244&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=75e64770e85611f1abc0863ad210ac0e&au=203bc91f2aa74660a4f3a5bcd75b26ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385021&pno=1373244&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=75e64770e85611f1abc0863ad210ac0e&au=203bc91f2aa74660a4f3a5bcd75b26ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22558524.thumb",
-   "posted": "2026-11-24T22:24:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 749.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385021&pno=1373244&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=75e64770e85611f1abc0863ad210ac0e&au=203bc91f2aa74660a4f3a5bcd75b26ec&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t1c2af932e15",
-   "title": "monTEK Full Motion TV Wall Mount for 13-43\" TVs (Black)",
-   "price": 14.99,
-   "old_price": 21.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22571931.thumb",
-   "posted": "2026-11-24T22:22:44+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t7a2e403a67a",
-   "title": "75\" TCL S4 Series 4K Ultra HD 60Hz Smart LED Roku TV + Free S&H",
-   "price": 398.0,
-   "old_price": 498.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/20073412709",
-   "url": "https://www.walmart.com/ip/20073412709",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22571928.thumb",
-   "posted": "2026-11-24T22:21:32+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 398.0,
-     "url": "https://www.walmart.com/ip/20073412709"
-    }
-   ]
-  },
-  {
-   "id": "t6b00144db69",
-   "title": "monTEK Dual Monitor Stand",
-   "price": 29.49,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389932&tid=20389932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1106f978e8e511f194ccbe4ed03e0f05&au=baf8cb5c90a5466ca04c2860daf3a3da&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389932&tid=20389932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1106f978e8e511f194ccbe4ed03e0f05&au=baf8cb5c90a5466ca04c2860daf3a3da&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22571883.thumb",
-   "posted": "2026-11-24T22:18:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 29.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389932&tid=20389932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1106f978e8e511f194ccbe4ed03e0f05&au=baf8cb5c90a5466ca04c2860daf3a3da&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T17:18:29+00:00"
+ "updated": "2026-11-25T17:23:12+00:00"
 }
