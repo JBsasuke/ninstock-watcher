@@ -182,8 +182,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11511,6 +11509,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t4d83c11f989",
+   "title": "10x 1kg ELEGOO PLA PLA+, Rapid PLA+, ASA, & More 3D Printer Filament Rolls from $70 + Free S&H",
+   "price": 70.0,
+   "old_price": 140.59,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20386830-10x-1-kg-elegoo-pla-pla-rapid-pla-asa-3d-printer-filament-mix-match-from-70-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22562160.thumb",
+   "posted": "2026-11-25T11:54:09+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:55:49+00:00",
+   "real_price": 70.0,
+   "real_old": 140.59,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386830&pno=1373727&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=27ca218ae8c711f1ac201ef0c9e233e5&au=787553d3cbfe49e9a2ea98a337354f84&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc7016496e9a",
    "title": "242-Pc CRAFTSMAN VERSASTACK SAE & Metric Mechanics Tool Set w/ Case $99 + Free S&H",
    "price": 99.0,
@@ -11523,10 +11539,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20392647&pno=1373724&prop=diavail-true%7Cdincp-1%7Cdinpd-13%7Cdipgavail-true&pv=84473f3ee8c611f1aa7572ad2e05b851&au=d77e9459f8cd4b018342a363980860b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:51:14+00:00",
    "real_price": 99.0,
-   "real_old": 229.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20392647&pno=1373724&prop=diavail-true%7Cdincp-1%7Cdinpd-13%7Cdipgavail-true&pv=84473f3ee8c611f1aa7572ad2e05b851&au=d77e9459f8cd4b018342a363980860b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 229.0
   },
   {
    "id": "t417ae34125f",
@@ -11596,7 +11612,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -11641,6 +11657,24 @@
    "checked_at": "2026-11-25T10:12:56+00:00",
    "real_price": 1745.99,
    "real_old": 2199.99
+  },
+  {
+   "id": "t09ee2cb0f38",
+   "title": "$79.98* | DeWALT 9-Gallon 5 Peak HP Poly Wet/Dry Vacuum at Amazon",
+   "price": 79.98,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393202-79-98-dewalt-9-gallon-5-peak-hp-poly-wet-dry-vacuum-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22579902.thumb",
+   "posted": "2026-11-25T10:07:27+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:55:51+00:00",
+   "real_price": 79.98,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&tid=20393202&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=28e9edcae8c711f1addcea05b6b8cbf3&au=1f89f8cfaa784b2a950ecccf41c70e20&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te44e8ff2cf2",
@@ -11803,6 +11837,24 @@
    "checked_at": "2026-11-25T08:54:08+00:00",
    "real_price": 599.99,
    "real_old": 699.0
+  },
+  {
+   "id": "t24ad8121a07",
+   "title": "Milwaukee SHOCKWAVE Impact Duty Alloy Steel Screw Driver Bit Set (35-Piece) @ Home Depot $12.97",
+   "price": 12.97,
+   "old_price": 22.97,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20392923-milwaukee-shockwave-impact-duty-alloy-steel-screw-driver-bit-set-35-piece-home-depot-12-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579095.thumb",
+   "posted": "2026-11-25T08:15:23+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:55:53+00:00",
+   "real_price": 12.97,
+   "real_old": 22.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&tid=20392923&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=2a28ba40e8c711f1be322a32ae51b81c&au=994538858e3440c2ab70930c3a8ea617&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tcb0ecea6dd1",
@@ -12475,9 +12527,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -13056,8 +13105,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=859e8d9ce8c611f19b7b9668c4e04009&au=4c9dd9add5c243c0bd67c24c592472f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:51:17+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2b5d5948e8c711f181de2a32ae51b81c&au=e21838c4c681473aaee2b5f878a3d8bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:55:55+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13622,6 +13671,24 @@
    "checked_at": "2026-11-24T22:49:15+00:00",
    "real_price": 9.99,
    "real_old": 19.99
+  },
+  {
+   "id": "t94ae86ff24b",
+   "title": "[SnS] $14.19 or $12.70 | 84-Count Finish Dishwasher Pods (Free & Clear) at Amazon",
+   "price": 14.19,
+   "old_price": 22.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389815-sns-14-19-or-12-70-84-count-finish-dishwasher-pods-free-clear-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22571667.thumb",
+   "posted": "2026-11-24T21:59:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:55:57+00:00",
+   "real_price": 14.19,
+   "real_old": 22.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389815&tid=20389815&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2cd322bce8c711f1b6e54e2eae10b5bf&au=37685023f4f842c58cf7a552bdbc735c&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t8867b98cb22",
@@ -15875,77 +15942,6 @@
    "checked_at": "2026-11-24T14:03:45+00:00",
    "real_price": 55.0,
    "real_old": 79.0
-  },
-  {
-   "id": "tf1ecac7599e",
-   "title": "Lamicall 15W for MagSafe Car Mount Charger, 360° Wireless Car Phone Holde $13.99",
-   "price": 13.99,
-   "old_price": 38.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386335-lamicall-15w-for-magsafe-car-mount-charger-360-wireless-car-phone-holde-13-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22562271.thumb",
-   "posted": "2026-11-24T13:54:43+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&tid=20386335&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=250e057ce82411f1a59aee654f1d2dfa&au=b519d479774348a8b6e913d13de0aee4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:28:56+00:00",
-   "real_price": 13.99,
-   "real_old": 38.99
-  },
-  {
-   "id": "ta37ca7ba5a5",
-   "title": "*Starts 11/26 9AM EST* Creality K2 Combo Multi-Color 3D Printer w/ CFS $359.20 +free s/h *4-hours only.",
-   "price": 359.2,
-   "old_price": null,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20386218-starts-11-26-9am-est-creality-k2-combo-multi-color-3d-printer-w-cfs-359-20-free-s-h-4-hours-only?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22561701.thumb",
-   "posted": "2026-11-24T13:41:48+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&tid=20386218&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ef7ada8e81d11f18fe036a07b886a53&au=786a2fe8fe1544d48f6699c8fe8e11a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:38:13+00:00",
-   "real_price": 359.2
-  },
-  {
-   "id": "tc07ff8ab091",
-   "title": "256GB USB 3.0 Flash Drive, Up to 150MB/s, USB C Metal Thumb Drive | USB 3.2 Gen 1 $30.59",
-   "price": 30.59,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386212-256gb-usb-3-0-flash-drive-up-to-150mb-s-usb-c-metal-thumb-drive-usb-3-2-gen-1-30-59?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22561782.thumb",
-   "posted": "2026-11-24T13:40:15+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386212&tid=20386212&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7892960ee85611f1b5e83295aa46e244&au=e4f7c20712e5444ab585bb76f4710c1c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T22:29:11+00:00",
-   "real_price": 30.59,
-   "real_old": 39.99
-  },
-  {
-   "id": "t81c92cd8f2a",
-   "title": "JOIOT Adjustable Aluminum Laptop Stand, Ergonomic Riser for 11-16\" Laptops - $19.99",
-   "price": 19.99,
-   "old_price": 23.74,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386206-joiot-adjustable-aluminum-laptop-stand-ergonomic-riser-for-11-16-laptops-19-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/9/6/9/300x300/22561713.thumb",
-   "posted": "2026-11-24T13:39:37+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:58:46+00:00",
-   "real_price": 19.99,
-   "real_old": 23.74
   }
  ],
  "tech": [
@@ -16047,7 +16043,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -16883,7 +16879,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19184,5 +19180,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T11:52:11+00:00"
+ "updated": "2026-11-25T11:56:50+00:00"
 }
