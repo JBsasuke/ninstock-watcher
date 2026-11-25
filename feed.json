@@ -296,7 +296,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:00:06+00:00",
+   "checked_at": "2026-11-25T00:04:50+00:00",
    "real_price": 39.98,
    "real_old": 69.99,
    "category_ok": true
@@ -1187,7 +1187,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T18:01:54+00:00",
+   "checked_at": "2026-11-25T00:04:47+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11736,10 +11736,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/20208906185",
    "checked_at": "2026-11-25T00:01:00+00:00",
-   "real_price": 99.0,
-   "real_old": null,
-   "store_url": "https://www.walmart.com/ip/20208906185"
+   "real_price": 99.0
   },
   {
    "id": "t0f378b93b4a",
@@ -12110,6 +12109,27 @@
    "checked_at": "2026-11-24T21:00:17+00:00",
    "real_price": 989.99,
    "real_old": 1599.99
+  },
+  {
+   "id": "tbe1ba12b69c",
+   "title": "1000W ASRock Phantom Gaming Full Modular Power Supply $93.14 + Free Shipping",
+   "price": 93.14,
+   "old_price": 189.99,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20389452-1000w-asrock-phantom-gaming-full-modular-power-supply-93-14-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22570671.thumb",
+   "posted": "2026-11-24T20:51:46+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BFUS12",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T00:05:44+00:00",
+   "real_price": 93.14,
+   "real_old": 189.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20389452&tid=20389452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f54e3542e86311f19866aa2a9418fb79&au=95aac1798825429e9047cfc8fe320b1c&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t42bae53ba91",
@@ -13997,9 +14017,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15916,8 +15933,8 @@
    "code": "W0PZKFC7",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4df6167ae86311f197283acabd27a35c&au=647c749780bc404f95c4a18674a8164d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:01:03+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382855&tid=20382855&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f67bf490e86311f1872ac62e44a7d2a2&au=84b948ac77ae4f09a018975c7d75bcbb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T00:05:46+00:00",
    "real_price": 4.0,
    "real_old": 15.99
   },
@@ -16118,24 +16135,6 @@
    "checked_at": "2026-11-24T01:53:27+00:00",
    "real_price": 1196.1,
    "real_old": 1499.0
-  },
-  {
-   "id": "tb235e46158e",
-   "title": "RYOBI ONE+ 18V 13\" String Trimmer w/ 2.0 Ah Battery, 4.0 Ah Battery & Charger $99 + Free S&H",
-   "price": 99.0,
-   "old_price": 168.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20361546-ryobi-one-18v-lithium-starter-kit-w-1-2-0-ah-battery-1-4-0-ah-battery-charger-w-one-18v-13-string-trimmer-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22502994.thumb",
-   "posted": "2026-11-24T01:47:20+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20361546&pno=1372443&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a242c9ee7a911f1ba3ddea332fecdec&au=97925913f88343438c68d609e25b30b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T01:49:57+00:00",
-   "real_price": 99.0,
-   "real_old": 168.97
   }
  ],
  "tech": [
@@ -18201,7 +18200,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19374,5 +19373,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T00:02:01+00:00"
+ "updated": "2026-11-25T00:06:45+00:00"
 }
