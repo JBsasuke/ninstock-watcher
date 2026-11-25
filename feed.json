@@ -16,13 +16,13 @@
    "refurb": false,
    "code": "SAVE3X",
    "code_until": null,
-   "checked_at": "2026-11-25T04:43:34+00:00",
-   "category_ok": true,
-   "real_price": 40.14,
-   "real_old": 69.99,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T04:43:34+00:00",
+   "real_price": 40.14,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "af25dbd24615",
@@ -406,7 +406,7 @@
   {
    "id": "2f9fc53fed71",
    "title": "Select Accts: Pokémon Legends: Z-A Nintendo Switch 2 Edition [Physical] w/Filler item - $39.98",
-   "price": 39.98,
+   "price": 40.14,
    "old_price": 69.99,
    "store": "Walmart",
    "kind": "game",
@@ -421,8 +421,8 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T02:47:40+00:00",
-   "real_price": 39.98,
+   "checked_at": "2026-11-25T04:48:48+00:00",
+   "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
   },
@@ -572,7 +572,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367816&pno=1372938&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=94476a94e82611f1b869ee654f1d2dfa&au=55c150176b274be88d91d73f98bf30d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T22:47:07+00:00",
+   "checked_at": "2026-11-25T04:48:45+00:00",
    "real_price": 48.97,
    "real_old": 69.99,
    "category_ok": true
@@ -11906,10 +11906,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e99bd5c0e88a11f1a187520a028b95fc&au=ed3fce1668e246b7a1778ab678b03e6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T04:44:35+00:00",
    "real_price": 99.0,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=e99bd5c0e88a11f1a187520a028b95fc&au=ed3fce1668e246b7a1778ab678b03e6f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.0
   },
   {
    "id": "t3a9d61c2867",
@@ -12068,8 +12068,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ead53bd4e88a11f1a268ae72dfbc3593&au=539ffcec044641368bca8298eb33ad80&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:44:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a46f48bee88b11f1ac9f3eab9f2deb0a&au=508fa5b0ff3c4896b74b92ac552f86d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T04:49:48+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -12935,10 +12935,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389290&tid=20389290&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec103224e88a11f1a04bea9025c1022d&au=5c5f5566c7cd43e8ba6fe39c72eb633e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T04:44:39+00:00",
-   "real_price": 57.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389290&tid=20389290&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec103224e88a11f1a04bea9025c1022d&au=5c5f5566c7cd43e8ba6fe39c72eb633e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 57.0
   },
   {
    "id": "t552183b4b8b",
@@ -19289,5 +19288,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T04:45:32+00:00"
+ "updated": "2026-11-25T04:50:53+00:00"
 }
