@@ -378,10 +378,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cac420a4e85c11f1a98a725e37dd070f&au=b491d97d6cf1433693c722608f324bba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:17:29+00:00",
+   "checked_at": "2026-11-25T11:18:31+00:00",
    "real_price": 83.72,
    "real_old": 120.0,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "8889b00166e9",
@@ -399,10 +400,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc053b6ae85c11f188d94e2eae10b5bf&au=3085a14be9a247919f15ec6caa0d721d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:17:31+00:00",
+   "checked_at": "2026-11-25T11:18:32+00:00",
    "real_price": 83.72,
    "real_old": 120.0,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "bce9c498a70f",
@@ -11508,6 +11510,18 @@
    "posted": "2026-11-21T01:35:10+00:00"
   },
   {
+   "id": "538e8caf3a3f",
+   "date_ok": true,
+   "seeded": true,
+   "title": "GO Day 1 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 1 of all of the GO competition taking place at the 2027 Pokémon Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=6FnDoxOyQbo",
+   "image": "https://i.ytimg.com/vi/6FnDoxOyQbo/hqdefault.jpg",
+   "posted": "2026-11-20T22:26:11+00:00"
+  },
+  {
    "id": "0d8a4671249f",
    "date_ok": true,
    "seeded": true,
@@ -11518,18 +11532,6 @@
    "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
    "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
    "posted": "2026-11-18T20:00:12+00:00"
-  },
-  {
-   "id": "98816c60f14d",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Rayman Legends Retold – \"Dynamite\" Musical Map Trailer – Nintendo Switch 2",
-   "summary": "Are you ready to dance? Get a first look at this brand-new musical level in Rayman Legends Retold, set to a fresh cover of a tune you might recognize!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
-   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
-   "posted": "2026-11-18T17:00:30+00:00"
   }
  ],
  "raw_tech": [
@@ -11546,10 +11548,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&pno=1373712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9902422e8c111f1b0883295aa46e244&au=424f70eb48f0445ea9395b5e1640ac54&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:30+00:00",
    "real_price": 399.99,
-   "real_old": 649.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&pno=1373712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9902422e8c111f1b0883295aa46e244&au=424f70eb48f0445ea9395b5e1640ac54&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 649.99
   },
   {
    "id": "td1595fccdce",
@@ -11603,10 +11605,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393226&tid=20393226&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=aae0be18e8c111f1b2de7a55f551cdc8&au=8846c55c6731483fb822445ac830753d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:32+00:00",
    "real_price": 199.99,
-   "real_old": 279.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393226&tid=20393226&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=aae0be18e8c111f1b2de7a55f551cdc8&au=8846c55c6731483fb822445ac830753d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 279.99
   },
   {
    "id": "tc1947c2ebad",
@@ -11716,10 +11718,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&tid=20393094&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ac1ee4e4e8c111f1aba3820827a865f9&au=55643ef9ed4a46fbbf28fc4f6878ad88&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:34+00:00",
    "real_price": 124.95,
-   "real_old": 179.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393094&tid=20393094&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=ac1ee4e4e8c111f1aba3820827a865f9&au=55643ef9ed4a46fbbf28fc4f6878ad88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.95
   },
   {
    "id": "tba66f5c65b6",
@@ -12109,10 +12111,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392359&tid=20392359&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad4b95f6e8c111f196888647fde6dc56&au=15bfb5d5529248deae318f08e356ca68&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:36+00:00",
    "real_price": 14.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392359&tid=20392359&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad4b95f6e8c111f196888647fde6dc56&au=15bfb5d5529248deae318f08e356ca68&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "t5d955389f5b",
@@ -12244,10 +12246,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&tid=20392230&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae68729ce8c111f19841863ad210ac0e&au=e06ee00629d7400285226d0d9ac28057&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:38+00:00",
    "real_price": 1286.99,
-   "real_old": 2226.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&tid=20392230&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae68729ce8c111f19841863ad210ac0e&au=e06ee00629d7400285226d0d9ac28057&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2226.99
   },
   {
    "id": "ta4838d0673a",
@@ -13004,8 +13006,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=aff1384ce8c111f18fd9820827a865f9&au=8093bb30e3014c8c97be88629afe617d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:16:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=120e3c1ee8c211f19b9b766b643ec681&au=0944bbb3da5c421a82968dabd60238b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:19:25+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14419,10 +14421,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Google+Store&sdtid=20388696&tid=20388696&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b151a686e8c111f1b6723295aa46e244&au=8eaa86620c0b4726bf05537b36bb90a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:16:43+00:00",
-   "real_price": 610.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Google+Store&sdtid=20388696&tid=20388696&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b151a686e8c111f1b6723295aa46e244&au=8eaa86620c0b4726bf05537b36bb90a6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 610.0
   },
   {
    "id": "t6afe4ea7fb8",
@@ -19208,5 +19209,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T11:17:25+00:00"
+ "updated": "2026-11-25T11:20:20+00:00"
 }
