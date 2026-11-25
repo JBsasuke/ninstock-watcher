@@ -733,8 +733,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1318,7 +1316,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T14:58:39+00:00",
+   "checked_at": "2026-11-25T21:02:07+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1705,7 +1703,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T14:58:41+00:00",
+   "checked_at": "2026-11-25T21:02:11+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11484,6 +11482,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tc34e733ea30",
+   "title": "ABS Cyclone PC: i5-14400F, RTX 5060 8GB, 16GB DDR4, 1TB SSD $749 + Free S&H",
+   "price": 749.0,
+   "old_price": 1399.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20373408-abs-cyclone-pc-i5-14400f-rtx-5060-8gb-16gb-ddr4-1tb-ssd-749-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22592172.thumb",
+   "posted": "2026-11-25T21:02:12+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:03:08+00:00",
+   "real_price": 749.0,
+   "real_old": 1399.99,
+   "store_url": "https://www.walmart.com/ip/20940963207"
+  },
+  {
+   "id": "tcbf76d2f79c",
+   "title": "Roborock Qrevo series S Pro SE Robot Vacuum & Mop $380 + Free S&H",
+   "price": 379.99,
+   "old_price": 699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385024-379-99-roborock-qrevo-series-s-pro-se-robot-vacuum-and-mop-18-000pa-suction-at-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22558530.thumb",
+   "posted": "2026-11-25T21:01:58+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:03:10+00:00",
+   "real_price": 379.99,
+   "real_old": 699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385024&pno=1374105&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=9ea18ab8e91311f19cd902636677f240&au=d0cf7173dba6411ea9c136a0d535aa96&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb5947061108",
    "title": "AMD Ryzen 7 5700X AM4 CPU + 120mm Rosewill CPU Air Cooler w/ Digital Display $159 + Free S&H",
    "price": 159.0,
@@ -11800,10 +11834,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&tid=20396895&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=efe9eef2e91211f1b4698a1cdd17fe9c&au=ea144d330208426dae6ccf2f067d5ce8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:58:17+00:00",
    "real_price": 259.95,
-   "real_old": 579.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&tid=20396895&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=efe9eef2e91211f1b4698a1cdd17fe9c&au=ea144d330208426dae6ccf2f067d5ce8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 579.95
   },
   {
    "id": "tb8c0cdfb850",
@@ -12466,8 +12500,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f113828ee91211f18848166b3cd67f10&au=2c6a8b58e85a402faeca304827d53611&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:58:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9fda4762e91311f1b491d66a7c8998b9&au=8ae4a37cdd64483696bd780b72c1f23b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:03:12+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12708,9 +12742,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -12732,8 +12763,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f24c726ee91211f1826556624a28bda6&au=aa5bd9feed784e8da343abb77935fc4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:58:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=a11a4b2ce91311f1a0dfe6c0e94954f5&au=19ce7f9bcdcb4543b536fd4ca21aa2b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:03:14+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13121,6 +13152,27 @@
    "checked_at": "2026-11-25T14:13:13+00:00",
    "real_price": 899.99,
    "real_old": 1429.99
+  },
+  {
+   "id": "tf26fb20880e",
+   "title": "[Prime] Tiloqua A7 Pro Wireless Earbuds w/ ENC Noise Cancellation & 40Hr Battery (White) $7.03 + Free Shipping",
+   "price": 7.03,
+   "old_price": 15.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20394396-prime-tiloqua-a7-pro-wireless-earbuds-w-enc-noise-cancellation-40hr-battery-white-7-03-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22582755.thumb",
+   "posted": "2026-11-25T14:06:33+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "HB011EEG",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T21:03:16+00:00",
+   "real_price": 7.03,
+   "real_old": 15.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4bcb0ef1103",
@@ -15641,8 +15693,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f3858878e91211f1a41256624a28bda6&au=c11632ac7b054c5d8cec010abd179819&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:58:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a3904ab4e91311f1a27ae283662d4aca&au=0dcbff74cb6940a6860ff1bf344a1c4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:03:18+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15887,61 +15939,36 @@
    "checked_at": "2026-11-25T00:24:28+00:00",
    "real_price": 99.0,
    "real_old": 134.0
-  },
-  {
-   "id": "td6633d6ca62",
-   "title": "YMMV Verizon : Add a device and line and get Rayban Meta Glasses along with Ipad $10/mo (Optional), Watch $7.50/mo and free airpods.",
-   "price": 10.0,
-   "old_price": null,
-   "store": "Verizon",
-   "url": "https://slickdeals.net/f/20390520-ymmv-verizon-add-a-device-and-line-and-get-rayban-meta-glasses-along-with-ipad-10-mo-optional-watch-7-50-mo-and-free-airpods?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/9/8/2/2/6/3/300x300/22572966.thumb",
-   "posted": "2026-11-24T23:59:21+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Verizon&sdtid=20390520&tid=20390520&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9435533ce86611f1a5a9be65d06667c7&au=6ed0898def4f485ea4de82e13b52a4c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T00:24:29+00:00"
-  },
-  {
-   "id": "t0a4f9dd910e",
-   "title": "JH Williams WSH-43TB 43-Piece 3/4-Inch Drive Socket and Drive Tool Set with Tool Box $1264.72",
-   "price": 1264.72,
-   "old_price": 2047.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20390505-jh-williams-wsh-43tb-43-piece-3-4-inch-drive-socket-and-drive-tool-set-with-tool-box-1264-72?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22572960.thumb",
-   "posted": "2026-11-24T23:56:46+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390505&tid=20390505&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=227712a0e8d211f1a33bfece3728cd6c&au=e3396aaf9b9d4b79be4e98addc450e76&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:14:24+00:00",
-   "real_price": 1264.72,
-   "real_old": 2047.99
-  },
-  {
-   "id": "t0f378b93b4a",
-   "title": "RYOBI ONE+ 18V Cordless VORTEX Power Scrubber Kit w/ 2.0 Ah Battery & Charger $69 + Free S&H",
-   "price": 69.0,
-   "old_price": 99.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20376639-ryobi-one-18v-cordless-vortex-power-electric-scrubber-kit-with-2-0-ah-battery-and-charger-69-homedepot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22537545.thumb",
-   "posted": "2026-11-24T23:52:31+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20376639&pno=1373325&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a66a28bae86211f18d1c863ad210ac0e&au=52d80ec615804109923448d11bceb93e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T23:56:22+00:00",
-   "real_price": 69.0,
-   "real_old": 99.0
   }
  ],
  "tech": [
+  {
+   "id": "tc34e733ea30",
+   "title": "ABS Cyclone PC: i5-14400F, RTX 5060 8GB, 16GB DDR4, 1TB SSD + Free S&H",
+   "price": 749.0,
+   "old_price": 1399.99,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/20940963207",
+   "url": "https://www.walmart.com/ip/20940963207",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22592172.thumb",
+   "posted": "2026-11-25T21:02:12+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 749.0,
+     "url": "https://www.walmart.com/ip/20940963207"
+    }
+   ]
+  },
   {
    "id": "tb5947061108",
    "title": "AMD Ryzen 7 5700X AM4 CPU + 120mm Rosewill CPU Air Cooler",
@@ -16226,6 +16253,33 @@
    "code_until": "2026-11-27",
    "promo": "60% Off",
    "offers": []
+  },
+  {
+   "id": "t6b27c5bb768",
+   "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones",
+   "price": 259.95,
+   "old_price": 579.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&tid=20396895&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=efe9eef2e91211f1b4698a1cdd17fe9c&au=ea144d330208426dae6ccf2f067d5ce8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&tid=20396895&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=efe9eef2e91211f1b4698a1cdd17fe9c&au=ea144d330208426dae6ccf2f067d5ce8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22590027.thumb",
+   "posted": "2026-11-25T18:50:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 259.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&tid=20396895&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=efe9eef2e91211f1b4698a1cdd17fe9c&au=ea144d330208426dae6ccf2f067d5ce8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
   },
   {
    "id": "td6eb6aba47a",
@@ -16842,8 +16896,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f113828ee91211f18848166b3cd67f10&au=2c6a8b58e85a402faeca304827d53611&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f113828ee91211f18848166b3cd67f10&au=2c6a8b58e85a402faeca304827d53611&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9fda4762e91311f1b491d66a7c8998b9&au=8ae4a37cdd64483696bd780b72c1f23b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9fda4762e91311f1b491d66a7c8998b9&au=8ae4a37cdd64483696bd780b72c1f23b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16859,7 +16913,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f113828ee91211f18848166b3cd67f10&au=2c6a8b58e85a402faeca304827d53611&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9fda4762e91311f1b491d66a7c8998b9&au=8ae4a37cdd64483696bd780b72c1f23b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17031,8 +17085,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f24c726ee91211f1826556624a28bda6&au=aa5bd9feed784e8da343abb77935fc4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f24c726ee91211f1826556624a28bda6&au=aa5bd9feed784e8da343abb77935fc4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=a11a4b2ce91311f1a0dfe6c0e94954f5&au=19ce7f9bcdcb4543b536fd4ca21aa2b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=a11a4b2ce91311f1a0dfe6c0e94954f5&au=19ce7f9bcdcb4543b536fd4ca21aa2b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17048,7 +17102,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f24c726ee91211f1826556624a28bda6&au=aa5bd9feed784e8da343abb77935fc4b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=a11a4b2ce91311f1a0dfe6c0e94954f5&au=19ce7f9bcdcb4543b536fd4ca21aa2b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17296,33 +17350,6 @@
    ]
   },
   {
-   "id": "t4eb9142ad08",
-   "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones + Free S&H",
-   "price": 299.95,
-   "old_price": 579.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393703&pno=1373793&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=8a9f133ce8dc11f1a3eb969abbed4a35&au=a31feb006d5b4c788c6ce056cb4a9bde&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393703&pno=1373793&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=8a9f133ce8dc11f1a3eb969abbed4a35&au=a31feb006d5b4c788c6ce056cb4a9bde&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22581195.thumb",
-   "posted": "2026-11-25T14:24:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 299.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393703&pno=1373793&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=8a9f133ce8dc11f1a3eb969abbed4a35&au=a31feb006d5b4c788c6ce056cb4a9bde&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
    "id": "t8b6573b93ed",
    "title": "Air Tracker Tags-4 Pack for Apple Find My, iOS Only, Official MFi Certified Mini Bluetooth Key Finder locator with sound",
    "price": 9.87,
@@ -17427,6 +17454,33 @@
      "store": "Best Buy",
      "price": 899.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tf26fb20880e",
+   "title": "[Prime] Tiloqua A7 Pro Wireless Earbuds",
+   "price": 7.03,
+   "old_price": 15.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22582755.thumb",
+   "posted": "2026-11-25T14:06:33+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "HB011EEG",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 7.03,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19103,61 +19157,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t2c0a391fdcf",
-   "title": "100W PD Reborn USB-C to Dual DisplayPort & HDMI MST Hub Adapter (4K@60Hz, 3-Monitor)",
-   "price": 11.49,
-   "old_price": 22.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22576254.thumb",
-   "posted": "2026-11-25T03:53:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 11.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tb65f409e914",
-   "title": "256GB 11\" Apple iPad A16 Chip Wi-Fi Tablet (11th Gen, Blue or Silver)",
-   "price": 479.99,
-   "old_price": 549.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576746.thumb",
-   "posted": "2026-11-25T03:38:03+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 479.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T20:59:16+00:00"
+ "updated": "2026-11-25T21:04:03+00:00"
 }
