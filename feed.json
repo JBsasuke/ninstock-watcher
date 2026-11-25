@@ -103,7 +103,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T15:27:35+00:00",
+   "checked_at": "2026-11-25T17:30:43+00:00",
    "real_price": 27.99,
    "real_old": 58.99,
    "category_ok": true
@@ -478,8 +478,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3199,7 +3197,7 @@
    "link_v": 3
   }
  ],
- "deku_checked": "2026-11-25T16:29:22+00:00",
+ "deku_checked": "2026-11-25T17:30:44+00:00",
  "deals": [
   {
    "id": "f0fe5e2c0056",
@@ -4591,6 +4589,140 @@
    "nintendo": false
   },
   {
+   "id": "deku-atelier-karia",
+   "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+   "url": "https://www.dekudeals.com/items/atelier-karia",
+   "image": "https://cdn.dekudeals.com/images/613e4d61007462434573ced8eceacd454c275841/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 69.99,
+     "url": "https://www.amazon.com/dp/B0HJXVKDK4"
+    },
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://www.bestbuy.com/site/6692670.p?skuId=6692670"
+    },
+    {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/atelier-karia-the-night-kingdom-and-the-guide-of-memories/451993.html"
+    },
+    {
+     "store": "Target",
+     "price": 69.99,
+     "url": "https://www.target.com/p/-/A-1014049415"
+    },
+    {
+     "store": "Walmart",
+     "price": 69.99,
+     "url": "https://www.walmart.com/ip/21043860036"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "KOEI TECMO America",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2-extreme-bundle",
+   "title": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 1+2+Extreme Bundle",
+   "url": "https://www.dekudeals.com/items/yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2-extreme-bundle",
+   "image": "https://cdn.dekudeals.com/images/145e0f532d05ae35791f2f9e9e47264fee2dcf54/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "D3PUBLISHER",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-kitaria-fables-2",
+   "title": "Kitaria Fables 2",
+   "url": "https://www.dekudeals.com/items/kitaria-fables-2",
+   "image": "https://cdn.dekudeals.com/images/02cee851c77105d0d3213cbb9506fa5551f1d016/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0HN7ML57N"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6695424.p?skuId=6695424"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/kitaria-fables-2/453279.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1014719540"
+    },
+    {
+     "store": "Walmart",
+     "price": 39.99,
+     "url": "https://www.walmart.com/ip/21226954933"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "PQUBE",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-007-first-light-legacy-edition",
+   "title": "007 First Light Legacy Edition",
+   "url": "https://www.dekudeals.com/items/007-first-light-legacy-edition",
+   "image": "https://cdn.dekudeals.com/images/22f466d8ea1b9d21784b0f88a356eb4b82bc7b4d/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 155.03,
+     "url": "https://www.amazon.com/dp/B0FN6T3WFD"
+    },
+    {
+     "store": "GameStop",
+     "price": 299.99,
+     "url": "https://www.gamestop.com/products/007-first-light-legacy-edition/432065.html"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
    "id": "deku-the-apothecary-diaries-the-false-imperial-brother",
    "title": "The Apothecary Diaries: The False Imperial Brother",
    "url": "https://www.dekudeals.com/items/the-apothecary-diaries-the-false-imperial-brother",
@@ -4631,244 +4763,6 @@
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-spooky-spirit-shooting-gallery",
-   "title": "Spooky Spirit Shooting Gallery",
-   "url": "https://www.dekudeals.com/items/spooky-spirit-shooting-gallery",
-   "image": "https://cdn.dekudeals.com/images/3f171825f976d8e4b2c76c83374597e36e0a7d3a/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 20.99,
-     "url": "https://www.amazon.com/dp/B0BW2J7N63"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/spooky-spirit-shooting-gallery/391838.html"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Aksys Games",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.nintendo.com/us/store/products/spooky-spirit-shooting-gallery-switch/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-wo-long-2-wings-of-ember",
-   "title": "Wo Long 2: Wings of Ember",
-   "url": "https://www.dekudeals.com/items/wo-long-2-wings-of-ember",
-   "image": "https://cdn.dekudeals.com/images/a641f7cb6247b71b17dee878da593ab14812fad7/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 69.99,
-     "url": "https://www.amazon.com/dp/B0HPMNB1GH"
-    },
-    {
-     "store": "Best Buy",
-     "price": 69.99,
-     "url": "https://www.bestbuy.com/site/6696810.p?skuId=6696810"
-    },
-    {
-     "store": "GameStop",
-     "price": 69.99,
-     "url": "https://www.gamestop.com/products/wo-long-2-wings-of-ember/454340.html"
-    },
-    {
-     "store": "Target",
-     "price": 69.99,
-     "url": "https://www.target.com/p/-/A-1015451231"
-    },
-    {
-     "store": "Walmart",
-     "price": 69.99,
-     "url": "https://www.walmart.com/ip/21250172833"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "KOEI TECMO America",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-weiss-schwarz-online",
-   "title": "Weiß Schwarz Online",
-   "url": "https://www.dekudeals.com/items/weiss-schwarz-online",
-   "image": "https://cdn.dekudeals.com/images/54f9560716c23497496d2cd0104dafef4ea83b12/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Bushiroad",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-tomb-raider-legacy-of-atlantis-collectors-edition",
-   "title": "Tomb Raider: Legacy of Atlantis Collector's Edition",
-   "url": "https://www.dekudeals.com/items/tomb-raider-legacy-of-atlantis-collectors-edition",
-   "image": "https://cdn.dekudeals.com/images/8b5b5a33b47d1ffce0b5fc462d611cbafa3cb474/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": true,
-   "offers": [
-    {
-     "store": "GameStop",
-     "price": 199.99,
-     "url": "https://www.gamestop.com/products/tomb-raider-legacy-of-atlantis-collectors-edition/447337.html"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-delve-survivors",
-   "title": "Delve Survivors",
-   "url": "https://www.dekudeals.com/items/delve-survivors",
-   "image": "https://cdn.dekudeals.com/images/4781883f8695440bd10392a52c3a4be14d44bf8c/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "iDiOSLAB",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2-extreme-bundle",
-   "title": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 1+2+Extreme Bundle",
-   "url": "https://www.dekudeals.com/items/yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2-extreme-bundle",
-   "image": "https://cdn.dekudeals.com/images/145e0f532d05ae35791f2f9e9e47264fee2dcf54/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "D3PUBLISHER",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-danganronpa-2x2-psycho-tropical-vacation-package-edition",
-   "title": "Danganronpa 2x2 Psycho Tropical Vacation Package Edition",
-   "url": "https://www.dekudeals.com/items/danganronpa-2x2-psycho-tropical-vacation-package-edition",
-   "image": "https://cdn.dekudeals.com/images/a47f2fa490cb26b3d66084fac6a42709eece879a/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 139.99,
-     "url": "https://www.amazon.com/dp/B0GMRNV7WK"
-    },
-    {
-     "store": "Best Buy",
-     "price": 139.99,
-     "url": "https://www.bestbuy.com/site/6672424.p?skuId=6672424"
-    },
-    {
-     "store": "GameStop",
-     "price": 139.99,
-     "url": "https://www.gamestop.com/products/danganronpa-2x2-psycho-tropical-vacation-package-edition/442631.html"
-    },
-    {
-     "store": "Target",
-     "price": 139.99,
-     "url": "https://www.target.com/p/-/A-95279524"
-    },
-    {
-     "store": "Walmart",
-     "price": 139.99,
-     "url": "https://www.walmart.com/ip/19534412741"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-hello-kitty-and-friends-freeze-tag-party",
-   "title": "HELLO KITTY AND FRIENDS: FREEZE TAG PARTY",
-   "url": "https://www.dekudeals.com/items/hello-kitty-and-friends-freeze-tag-party",
-   "image": "https://cdn.dekudeals.com/images/5cb052fe81702a2e17da249c6cfd8b4b811c8495/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 26.0,
-     "url": "https://www.amazon.com/dp/B0FNRW37LM"
-    },
-    {
-     "store": "Target",
-     "price": 26.49,
-     "url": "https://www.target.com/p/-/A-94938070"
-    },
-    {
-     "store": "Best Buy",
-     "price": 29.99,
-     "url": "https://www.bestbuy.com/site/6644481.p?skuId=6644481"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/hello-kitty-and-friends-freeze-tag-party/431538.html"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Nighthawk Interactive",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.nintendo.com/us/store/products/hello-kitty-and-friends-freeze-tag-party-switch/"
-   },
    "game_key": true,
    "nintendo": false
   },
@@ -4917,10 +4811,28 @@
    "nintendo": false
   },
   {
-   "id": "deku-smalland-2-lost-realms",
-   "title": "Smalland 2: Lost Realms",
-   "url": "https://www.dekudeals.com/items/smalland-2-lost-realms",
-   "image": "https://cdn.dekudeals.com/images/9df798e3de58dea11007b67f81f9987f63e48040/w540.jpg",
+   "id": "deku-supermarket-simulator-supermarket-super-bundle",
+   "title": "Supermarket Simulator – Supermarket Super Bundle",
+   "url": "https://www.dekudeals.com/items/supermarket-simulator-supermarket-super-bundle",
+   "image": "https://cdn.dekudeals.com/images/daef2ea3dd7be97d87429e376e4ab62f1de880bf/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Nokta Games",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-danganronpa-2x2-psycho-tropical-vacation-package-edition",
+   "title": "Danganronpa 2x2 Psycho Tropical Vacation Package Edition",
+   "url": "https://www.dekudeals.com/items/danganronpa-2x2-psycho-tropical-vacation-package-edition",
+   "image": "https://cdn.dekudeals.com/images/a47f2fa490cb26b3d66084fac6a42709eece879a/w540.jpg",
    "price": null,
    "old_price": null,
    "release": null,
@@ -4929,29 +4841,65 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 49.99,
-     "url": "https://www.amazon.com/dp/B0H4HMTNW9"
+     "price": 139.99,
+     "url": "https://www.amazon.com/dp/B0GMRNV7WK"
+    },
+    {
+     "store": "Best Buy",
+     "price": 139.99,
+     "url": "https://www.bestbuy.com/site/6672424.p?skuId=6672424"
     },
     {
      "store": "GameStop",
-     "price": 49.99,
-     "url": "https://www.gamestop.com/products/smalland-2-lost-realms/448152.html"
+     "price": 139.99,
+     "url": "https://www.gamestop.com/products/danganronpa-2x2-psycho-tropical-vacation-package-edition/442631.html"
     },
     {
      "store": "Target",
-     "price": 49.99,
-     "url": "https://www.target.com/p/-/A-1011989863"
+     "price": 139.99,
+     "url": "https://www.target.com/p/-/A-95279524"
     },
     {
      "store": "Walmart",
-     "price": 49.99,
-     "url": "https://www.walmart.com/ip/20399806019"
+     "price": 139.99,
+     "url": "https://www.walmart.com/ip/19534412741"
     }
    ],
    "offers_checked": "2026-11-25T15:27:53+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "MAX ENT GAMES",
    "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-spooky-spirit-shooting-gallery",
+   "title": "Spooky Spirit Shooting Gallery",
+   "url": "https://www.dekudeals.com/items/spooky-spirit-shooting-gallery",
+   "image": "https://cdn.dekudeals.com/images/3f171825f976d8e4b2c76c83374597e36e0a7d3a/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 20.99,
+     "url": "https://www.amazon.com/dp/B0BW2J7N63"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/spooky-spirit-shooting-gallery/391838.html"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Aksys Games",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.nintendo.com/us/store/products/spooky-spirit-shooting-gallery-switch/"
+   },
    "game_key": true,
    "nintendo": false
   },
@@ -4997,6 +4945,24 @@
    "nintendo": false
   },
   {
+   "id": "deku-delve-survivors",
+   "title": "Delve Survivors",
+   "url": "https://www.dekudeals.com/items/delve-survivors",
+   "image": "https://cdn.dekudeals.com/images/4781883f8695440bd10392a52c3a4be14d44bf8c/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "iDiOSLAB",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
    "id": "deku-aliens-fireteam-elite-2",
    "title": "Aliens: Fireteam Elite 2",
    "url": "https://www.dekudeals.com/items/aliens-fireteam-elite-2",
@@ -5011,6 +4977,48 @@
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Daybreak Games",
    "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-hello-kitty-and-friends-freeze-tag-party",
+   "title": "HELLO KITTY AND FRIENDS: FREEZE TAG PARTY",
+   "url": "https://www.dekudeals.com/items/hello-kitty-and-friends-freeze-tag-party",
+   "image": "https://cdn.dekudeals.com/images/5cb052fe81702a2e17da249c6cfd8b4b811c8495/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 26.0,
+     "url": "https://www.amazon.com/dp/B0FNRW37LM"
+    },
+    {
+     "store": "Target",
+     "price": 26.49,
+     "url": "https://www.target.com/p/-/A-94938070"
+    },
+    {
+     "store": "Best Buy",
+     "price": 29.99,
+     "url": "https://www.bestbuy.com/site/6644481.p?skuId=6644481"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/hello-kitty-and-friends-freeze-tag-party/431538.html"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Nighthawk Interactive",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.nintendo.com/us/store/products/hello-kitty-and-friends-freeze-tag-party-switch/"
+   },
    "game_key": true,
    "nintendo": false
   },
@@ -5038,43 +5046,20 @@
    "nintendo": false
   },
   {
-   "id": "deku-next-the-portopia-serial-murder-case",
-   "title": "Portopia Serial Murder Case",
-   "url": "https://www.dekudeals.com/items/next-the-portopia-serial-murder-case",
-   "image": "https://cdn.dekudeals.com/images/2d3e56497ccb7dc57a09965bb226c605406a0629/w540.jpg",
+   "id": "deku-tomb-raider-legacy-of-atlantis-collectors-edition",
+   "title": "Tomb Raider: Legacy of Atlantis Collector's Edition",
+   "url": "https://www.dekudeals.com/items/tomb-raider-legacy-of-atlantis-collectors-edition",
+   "image": "https://cdn.dekudeals.com/images/8b5b5a33b47d1ffce0b5fc462d611cbafa3cb474/w540.jpg",
    "price": null,
    "old_price": null,
    "release": null,
    "release_date": null,
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "G-MODE",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-007-first-light-legacy-edition",
-   "title": "007 First Light Legacy Edition",
-   "url": "https://www.dekudeals.com/items/007-first-light-legacy-edition",
-   "image": "https://cdn.dekudeals.com/images/22f466d8ea1b9d21784b0f88a356eb4b82bc7b4d/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
+   "collector": true,
    "offers": [
     {
-     "store": "Amazon",
-     "price": 155.03,
-     "url": "https://www.amazon.com/dp/B0FN6T3WFD"
-    },
-    {
      "store": "GameStop",
-     "price": 299.99,
-     "url": "https://www.gamestop.com/products/007-first-light-legacy-edition/432065.html"
+     "price": 199.99,
+     "url": "https://www.gamestop.com/products/tomb-raider-legacy-of-atlantis-collectors-edition/447337.html"
     }
    ],
    "offers_checked": "2026-11-25T15:27:53+00:00",
@@ -5102,6 +5087,125 @@
    "nintendo": false
   },
   {
+   "id": "deku-weiss-schwarz-online",
+   "title": "Weiß Schwarz Online",
+   "url": "https://www.dekudeals.com/items/weiss-schwarz-online",
+   "image": "https://cdn.dekudeals.com/images/54f9560716c23497496d2cd0104dafef4ea83b12/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Bushiroad",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-wo-long-2-wings-of-ember",
+   "title": "Wo Long 2: Wings of Ember",
+   "url": "https://www.dekudeals.com/items/wo-long-2-wings-of-ember",
+   "image": "https://cdn.dekudeals.com/images/a641f7cb6247b71b17dee878da593ab14812fad7/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 69.99,
+     "url": "https://www.amazon.com/dp/B0HPMNB1GH"
+    },
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://www.bestbuy.com/site/6696810.p?skuId=6696810"
+    },
+    {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/wo-long-2-wings-of-ember/454340.html"
+    },
+    {
+     "store": "Target",
+     "price": 69.99,
+     "url": "https://www.target.com/p/-/A-1015451231"
+    },
+    {
+     "store": "Walmart",
+     "price": 69.99,
+     "url": "https://www.walmart.com/ip/21250172833"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "KOEI TECMO America",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-next-the-portopia-serial-murder-case",
+   "title": "Portopia Serial Murder Case",
+   "url": "https://www.dekudeals.com/items/next-the-portopia-serial-murder-case",
+   "image": "https://cdn.dekudeals.com/images/2d3e56497ccb7dc57a09965bb226c605406a0629/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "G-MODE",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-smalland-2-lost-realms",
+   "title": "Smalland 2: Lost Realms",
+   "url": "https://www.dekudeals.com/items/smalland-2-lost-realms",
+   "image": "https://cdn.dekudeals.com/images/9df798e3de58dea11007b67f81f9987f63e48040/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": null,
+   "release_date": null,
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/dp/B0H4HMTNW9"
+    },
+    {
+     "store": "GameStop",
+     "price": 49.99,
+     "url": "https://www.gamestop.com/products/smalland-2-lost-realms/448152.html"
+    },
+    {
+     "store": "Target",
+     "price": 49.99,
+     "url": "https://www.target.com/p/-/A-1011989863"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/20399806019"
+    }
+   ],
+   "offers_checked": "2026-11-25T15:27:53+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "MAX ENT GAMES",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
    "id": "deku-dragon-quest-vii-reimagined-collectors-edition",
    "title": "Dragon Quest VII Reimagined Collector's Edition",
    "url": "https://www.dekudeals.com/items/dragon-quest-vii-reimagined-collectors-edition",
@@ -5114,112 +5218,6 @@
    "offers": [],
    "offers_checked": "2026-11-25T15:27:53+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-atelier-karia",
-   "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
-   "url": "https://www.dekudeals.com/items/atelier-karia",
-   "image": "https://cdn.dekudeals.com/images/613e4d61007462434573ced8eceacd454c275841/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 69.99,
-     "url": "https://www.amazon.com/dp/B0HJXVKDK4"
-    },
-    {
-     "store": "Best Buy",
-     "price": 69.99,
-     "url": "https://www.bestbuy.com/site/6692670.p?skuId=6692670"
-    },
-    {
-     "store": "GameStop",
-     "price": 69.99,
-     "url": "https://www.gamestop.com/products/atelier-karia-the-night-kingdom-and-the-guide-of-memories/451993.html"
-    },
-    {
-     "store": "Target",
-     "price": 69.99,
-     "url": "https://www.target.com/p/-/A-1014049415"
-    },
-    {
-     "store": "Walmart",
-     "price": 69.99,
-     "url": "https://www.walmart.com/ip/21043860036"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "KOEI TECMO America",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-supermarket-simulator-supermarket-super-bundle",
-   "title": "Supermarket Simulator – Supermarket Super Bundle",
-   "url": "https://www.dekudeals.com/items/supermarket-simulator-supermarket-super-bundle",
-   "image": "https://cdn.dekudeals.com/images/daef2ea3dd7be97d87429e376e4ab62f1de880bf/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Nokta Games",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-kitaria-fables-2",
-   "title": "Kitaria Fables 2",
-   "url": "https://www.dekudeals.com/items/kitaria-fables-2",
-   "image": "https://cdn.dekudeals.com/images/02cee851c77105d0d3213cbb9506fa5551f1d016/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": null,
-   "release_date": null,
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://www.amazon.com/dp/B0HN7ML57N"
-    },
-    {
-     "store": "Best Buy",
-     "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6695424.p?skuId=6695424"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/kitaria-fables-2/453279.html"
-    },
-    {
-     "store": "Target",
-     "price": 39.99,
-     "url": "https://www.target.com/p/-/A-1014719540"
-    },
-    {
-     "store": "Walmart",
-     "price": 39.99,
-     "url": "https://www.walmart.com/ip/21226954933"
-    }
-   ],
-   "offers_checked": "2026-11-25T15:27:53+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "PQUBE",
    "digital": null,
    "game_key": true,
    "nintendo": false
@@ -5374,7 +5372,7 @@
    "title": "Muramasa: Revenant Blades Limited Edition",
    "url": "https://www.dekudeals.com/items/muramasa-revenant-blades-limited-edition",
    "image": "https://cdn.dekudeals.com/images/af40d0d88a77fc67db417c6f07976edf22eedd92/w540.jpg?c=135.243.412.631",
-   "price": 99.99,
+   "price": null,
    "old_price": null,
    "release": "March 31, 2027",
    "release_date": "2027-03-31",
@@ -5598,6 +5596,48 @@
    "nintendo": false
   },
   {
+   "id": "deku-ys-viii-lacrimosa-of-dana",
+   "title": "Ys VIII: Lacrimosa of DANA",
+   "url": "https://www.dekudeals.com/items/ys-viii-lacrimosa-of-dana",
+   "image": "https://cdn.dekudeals.com/images/dec30b100a1e662200746cdd3c4a5d526058ec4c/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "February 25, 2027",
+   "release_date": "2027-02-25",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 49.99,
+     "url": "https://www.amazon.com/dp/B0HQ844L38"
+    },
+    {
+     "store": "Best Buy",
+     "price": 49.99,
+     "url": "https://www.bestbuy.com/site/6696852.p?skuId=6696852"
+    },
+    {
+     "store": "Walmart",
+     "price": 49.99,
+     "url": "https://www.walmart.com/ip/21330318716"
+    },
+    {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
+    }
+   ],
+   "offers_checked": "2026-11-25T16:29:39+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "NIS America",
+   "digital": {
+    "price": 19.99,
+    "url": "https://www.nintendo.com/us/store/products/ys-viii-lacrimosa-of-dana-switch/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
    "id": "deku-hyrule-warriors-age-of-calamity-definitive-edition",
    "title": "Hyrule Warriors: Age of Calamity – Definitive Edition",
    "url": "https://www.dekudeals.com/items/hyrule-warriors-age-of-calamity-definitive-edition",
@@ -5643,48 +5683,6 @@
    },
    "game_key": true,
    "nintendo": true
-  },
-  {
-   "id": "deku-ys-viii-lacrimosa-of-dana",
-   "title": "Ys VIII: Lacrimosa of DANA",
-   "url": "https://www.dekudeals.com/items/ys-viii-lacrimosa-of-dana",
-   "image": "https://cdn.dekudeals.com/images/dec30b100a1e662200746cdd3c4a5d526058ec4c/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "February 25, 2027",
-   "release_date": "2027-02-25",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 49.99,
-     "url": "https://www.amazon.com/dp/B0HQ844L38"
-    },
-    {
-     "store": "Best Buy",
-     "price": 49.99,
-     "url": "https://www.bestbuy.com/site/6696852.p?skuId=6696852"
-    },
-    {
-     "store": "Walmart",
-     "price": 49.99,
-     "url": "https://www.walmart.com/ip/21330318716"
-    },
-    {
-     "store": "GameStop",
-     "price": 69.99,
-     "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
-    }
-   ],
-   "offers_checked": "2026-11-25T16:29:39+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "NIS America",
-   "digital": {
-    "price": 19.99,
-    "url": "https://www.nintendo.com/us/store/products/ys-viii-lacrimosa-of-dana-switch/"
-   },
-   "game_key": true,
-   "nintendo": false
   },
   {
    "id": "deku-rain-world-anthology",
@@ -6144,7 +6142,7 @@
      "url": "https://www.walmart.com/ip/19503674092"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Spike Chunsoft",
    "digital": null,
@@ -6188,7 +6186,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -6222,7 +6220,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -6265,7 +6263,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -6286,7 +6284,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -6306,7 +6304,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Level-5",
    "digital": {
@@ -6353,7 +6351,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -6397,7 +6395,7 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6438,99 +6436,13 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
     "price": 29.99,
     "url": "https://www.nintendo.com/us/store/products/thief-the-dark-project-remastered-nintendo-switch-2-edition-switch-2/"
    },
-   "nintendo": false
-  },
-  {
-   "id": "deku-remothered-red-nuns-legacy",
-   "title": "Remothered: Red Nun's Legacy",
-   "url": "https://www.dekudeals.com/items/remothered-red-nuns-legacy",
-   "image": "https://cdn.dekudeals.com/images/d2f4014398f812328638463d4994afefd774ebbb/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "December 3, 2026",
-   "release_date": "2026-12-03",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://www.amazon.com/dp/B0GXCDJP2T"
-    },
-    {
-     "store": "Best Buy",
-     "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6677886.p?skuId=6677886"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/remothered-red-nuns-legacy/445466.html"
-    },
-    {
-     "store": "Target",
-     "price": 39.99,
-     "url": "https://www.target.com/p/-/A-1011165373"
-    },
-    {
-     "store": "Walmart",
-     "price": 39.99,
-     "url": "https://www.walmart.com/ip/20081864427"
-    }
-   ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Stormind Games",
-   "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-rayman-legends-retold",
-   "title": "Rayman Legends Retold",
-   "url": "https://www.dekudeals.com/items/rayman-legends-retold",
-   "image": "https://cdn.dekudeals.com/images/954107aac41b4badc9dccae6f1b4303d7eaa3d22/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "December 3, 2026",
-   "release_date": "2026-12-03",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Target",
-     "price": 29.99,
-     "url": "https://www.target.com/p/-/A-1011839194"
-    },
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://www.amazon.com/dp/B0H34K6KSD"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/rayman-legends-retold/447026.html"
-    },
-    {
-     "store": "Walmart",
-     "price": 39.99,
-     "url": "https://www.walmart.com/ip/20272673772"
-    }
-   ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Ubisoft",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
-   },
-   "game_key": true,
    "nintendo": false
   },
   {
@@ -6570,12 +6482,124 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
     "price": 59.99,
     "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-withered-world-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-remothered-red-nuns-legacy",
+   "title": "Remothered: Red Nun's Legacy",
+   "url": "https://www.dekudeals.com/items/remothered-red-nuns-legacy",
+   "image": "https://cdn.dekudeals.com/images/d2f4014398f812328638463d4994afefd774ebbb/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "December 3, 2026",
+   "release_date": "2026-12-03",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0GXCDJP2T"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6677886.p?skuId=6677886"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/remothered-red-nuns-legacy/445466.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1011165373"
+    },
+    {
+     "store": "Walmart",
+     "price": 39.99,
+     "url": "https://www.walmart.com/ip/20081864427"
+    }
+   ],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Stormind Games",
+   "digital": null,
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-rayman-legends-retold",
+   "title": "Rayman Legends Retold",
+   "url": "https://www.dekudeals.com/items/rayman-legends-retold",
+   "image": "https://cdn.dekudeals.com/images/954107aac41b4badc9dccae6f1b4303d7eaa3d22/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "December 3, 2026",
+   "release_date": "2026-12-03",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Target",
+     "price": 29.99,
+     "url": "https://www.target.com/p/-/A-1011839194"
+    },
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0H34K6KSD"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6680893.p?skuId=6680893"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/rayman-legends-retold/447026.html"
+    },
+    {
+     "store": "Walmart",
+     "price": 39.99,
+     "url": "https://www.walmart.com/ip/20272673772"
+    }
+   ],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Ubisoft",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.nintendo.com/us/store/products/rayman-legends-retold-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-dragon-quest-monsters-the-withered-world-digital-deluxe-edition",
+   "title": "DRAGON QUEST MONSTERS: The Withered World DELUXE EDITION",
+   "url": "https://www.dekudeals.com/items/dragon-quest-monsters-the-withered-world-digital-deluxe-edition",
+   "image": "https://cdn.dekudeals.com/images/a99d282d9ded84e11f65c63228accb920aec8088/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "December 1, 2026",
+   "release_date": "2026-12-01",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "SQUARE ENIX",
+   "digital": {
+    "price": 94.99,
+    "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-withered-world-digital-deluxe-edition-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -6617,31 +6641,10 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-dragon-quest-monsters-the-withered-world-digital-deluxe-edition",
-   "title": "DRAGON QUEST MONSTERS: The Withered World DELUXE EDITION",
-   "url": "https://www.dekudeals.com/items/dragon-quest-monsters-the-withered-world-digital-deluxe-edition",
-   "image": "https://cdn.dekudeals.com/images/a99d282d9ded84e11f65c63228accb920aec8088/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "December 1, 2026",
-   "release_date": "2026-12-01",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "SQUARE ENIX",
-   "digital": {
-    "price": 94.99,
-    "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-withered-world-digital-deluxe-edition-switch-2/"
-   },
    "game_key": true,
    "nintendo": false
   },
@@ -6656,7 +6659,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6694,12 +6697,36 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Silver Lining Interactive",
-   "digital": null,
+   "digital": {
+    "price": 37.49,
+    "url": "https://www.nintendo.com/us/store/products/supermarket-simulator-fully-stocked-edition-switch-2/"
+   },
    "game_key": true,
    "nintendo": false
+  },
+  {
+   "id": "deku-ssb2",
+   "title": "大戦略SSB2",
+   "url": "https://www.dekudeals.com/items/ssb2",
+   "image": "https://cdn.dekudeals.com/images/219c99df5d78ef3dc0372d50bfd3e6fe2dc800b0/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "November 25, 2026",
+   "release_date": "2026-11-25",
+   "collector": false,
+   "offers": [],
+   "first_seen": "2026-11-25T17:30:44+00:00",
+   "game_key": true,
+   "nintendo": false,
+   "digital": {
+    "price": 59.99,
+    "url": "https://www.nintendo.com/us/store/products/daisenryaku-ssb-2-switch-2/"
+   },
+   "publisher": "Systemsoft beta",
+   "offers_checked": "2026-11-25T17:31:02+00:00"
   },
   {
    "id": "deku-gothic-3",
@@ -6733,7 +6760,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ NORDIC",
    "digital": null,
@@ -6757,12 +6784,17 @@
      "url": "https://www.amazon.com/dp/B0FV6WL9ZL"
     },
     {
+     "store": "GameStop",
+     "price": 69.99,
+     "url": "https://www.gamestop.com/products/the-binding-of-isaac-repentance/436131.html"
+    },
+    {
      "store": "Best Buy",
      "price": 69.99,
      "url": "https://www.bestbuy.com/site/6669894.p?skuId=6669894"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
    "digital": {
@@ -6782,7 +6814,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6830,7 +6862,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6840,22 +6872,38 @@
    "nintendo": true
   },
   {
-   "id": "deku-moomin-midsummer-madness",
-   "title": "Moomin: Midsummer Madness",
-   "url": "https://www.dekudeals.com/items/moomin-midsummer-madness",
-   "image": "https://cdn.dekudeals.com/images/5a2a1b2c9c1afe9f4e7faf1cd2280ef543003d2b/w540.jpg",
+   "id": "deku-adorable-adventures",
+   "title": "Adorable Adventures",
+   "url": "https://www.dekudeals.com/items/adorable-adventures",
+   "image": "https://cdn.dekudeals.com/images/10bf2a7c787a031d5a4ebe636df61da9eb0f7c89/w540.jpg",
    "price": null,
    "old_price": null,
    "release": "November 12, 2026",
    "release_date": "2026-11-12",
    "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6696591.p?skuId=6696591"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/adorable-adventures/453776.html"
+    },
+    {
+     "store": "Walmart",
+     "price": 39.99,
+     "url": "https://www.walmart.com/ip/21285952515"
+    }
+   ],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Shochiku",
+   "publisher": "PQube",
    "digital": {
-    "price": 17.99,
-    "url": "https://www.nintendo.com/us/store/products/moomin-midsummer-madness-switch-2/"
+    "price": 15.99,
+    "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -6892,7 +6940,7 @@
      "url": "https://www.target.com/p/-/A-1013451337"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA",
    "digital": {
@@ -6903,38 +6951,22 @@
    "nintendo": false
   },
   {
-   "id": "deku-adorable-adventures",
-   "title": "Adorable Adventures",
-   "url": "https://www.dekudeals.com/items/adorable-adventures",
-   "image": "https://cdn.dekudeals.com/images/10bf2a7c787a031d5a4ebe636df61da9eb0f7c89/w540.jpg",
+   "id": "deku-moomin-midsummer-madness",
+   "title": "Moomin: Midsummer Madness",
+   "url": "https://www.dekudeals.com/items/moomin-midsummer-madness",
+   "image": "https://cdn.dekudeals.com/images/5a2a1b2c9c1afe9f4e7faf1cd2280ef543003d2b/w540.jpg",
    "price": null,
    "old_price": null,
    "release": "November 12, 2026",
    "release_date": "2026-11-12",
    "collector": false,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6696591.p?skuId=6696591"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/adorable-adventures/453776.html"
-    },
-    {
-     "store": "Walmart",
-     "price": 39.99,
-     "url": "https://www.walmart.com/ip/21285952515"
-    }
-   ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers": [],
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "PQube",
+   "publisher": "Shochiku",
    "digital": {
-    "price": 15.99,
-    "url": "https://www.nintendo.com/us/store/products/adorable-adventures-switch-2/"
+    "price": 17.99,
+    "url": "https://www.nintendo.com/us/store/products/moomin-midsummer-madness-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -6971,7 +7003,7 @@
      "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
     }
    ],
-   "offers_checked": "2026-11-25T11:14:44+00:00",
+   "offers_checked": "2026-11-25T17:31:02+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7810,27 +7842,6 @@
    "nintendo": false
   },
   {
-   "id": "deku-one-piece-grand-gourmet",
-   "title": "ONE PIECE: Grand Gourmet",
-   "url": "https://www.dekudeals.com/items/one-piece-grand-gourmet",
-   "image": "https://cdn.dekudeals.com/images/12af66342742f4da7ad1f5cb90a1aa62442fbb5c/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 23, 2026",
-   "release_date": "2026-10-23",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T12:18:38+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Bandai Namco Entertainment",
-   "digital": {
-    "price": 19.99,
-    "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
    "id": "deku-warrior-cats-clans-of-the-forest-feral-edition",
    "title": "Warrior Cats: Clans of the Forest - Feral Edition",
    "url": "https://www.dekudeals.com/items/warrior-cats-clans-of-the-forest-feral-edition",
@@ -7889,6 +7900,27 @@
    "digital": {
     "price": 20.99,
     "url": "https://www.nintendo.com/us/store/products/warrior-cats-clans-of-the-forest-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-one-piece-grand-gourmet",
+   "title": "ONE PIECE: Grand Gourmet",
+   "url": "https://www.dekudeals.com/items/one-piece-grand-gourmet",
+   "image": "https://cdn.dekudeals.com/images/12af66342742f4da7ad1f5cb90a1aa62442fbb5c/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 23, 2026",
+   "release_date": "2026-10-23",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T12:18:38+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Bandai Namco Entertainment",
+   "digital": {
+    "price": 19.99,
+    "url": "https://www.nintendo.com/us/store/products/one-piece-grand-gourmet-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -8109,22 +8141,48 @@
    "nintendo": false
   },
   {
-   "id": "deku-resident-evil-4-gold-edition",
-   "title": "Resident Evil 4 Gold Edition",
-   "url": "https://www.dekudeals.com/items/resident-evil-4-gold-edition",
-   "image": "https://cdn.dekudeals.com/images/b27a3aa4ecaa7ef1554336815644bee3a2a105bb/w540.jpg",
+   "id": "deku-rudolph-the-red-nosed-reindeer-holiday-play-edition",
+   "title": "Rudolph the Red-Nosed Reindeer - Holiday Play Edition",
+   "url": "https://www.dekudeals.com/items/rudolph-the-red-nosed-reindeer-holiday-play-edition",
+   "image": "https://cdn.dekudeals.com/images/0f55ea5323e4b85935c19bcefc5a125378d24e51/w540.jpg",
    "price": null,
    "old_price": null,
    "release": "October 16, 2026",
    "release_date": "2026-10-16",
    "collector": false,
-   "offers": [],
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 19.93,
+     "url": "https://www.walmart.com/ip/21112114286"
+    },
+    {
+     "store": "Amazon",
+     "price": 19.99,
+     "url": "https://www.amazon.com/dp/B0HK5W521D"
+    },
+    {
+     "store": "Best Buy",
+     "price": 19.99,
+     "url": "https://www.bestbuy.com/site/6692788.p?skuId=6692788"
+    },
+    {
+     "store": "Target",
+     "price": 19.99,
+     "url": "https://www.target.com/p/-/A-1012938572"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/rudolph-the-red-nosed-reindeer-holiday-play-edition/452471.html"
+    }
+   ],
    "offers_checked": "2026-11-25T13:22:51+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "CAPCOM",
+   "publisher": "Game Mill",
    "digital": {
-    "price": 49.99,
-    "url": "https://www.amazon.com/dp/B0HKYKVM9Y"
+    "price": 39.99,
+    "url": "https://www.nintendo.com/us/store/products/rudolph-the-red-nosed-reindeer-holiday-play-edition-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -8177,95 +8235,6 @@
    "nintendo": false
   },
   {
-   "id": "deku-resident-evil-2-deluxe-edition",
-   "title": "RESIDENT EVIL 2 Deluxe Edition",
-   "url": "https://www.dekudeals.com/items/resident-evil-2-deluxe-edition",
-   "image": "https://cdn.dekudeals.com/images/1bb55517bc6ee1cfcd4e94694de70f221ac811c7/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 16, 2026",
-   "release_date": "2026-10-16",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T13:22:51+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "CAPCOM",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.amazon.com/dp/B0HKY46147"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-rudolph-the-red-nosed-reindeer-holiday-play-edition",
-   "title": "Rudolph the Red-Nosed Reindeer - Holiday Play Edition",
-   "url": "https://www.dekudeals.com/items/rudolph-the-red-nosed-reindeer-holiday-play-edition",
-   "image": "https://cdn.dekudeals.com/images/0f55ea5323e4b85935c19bcefc5a125378d24e51/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 16, 2026",
-   "release_date": "2026-10-16",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 19.93,
-     "url": "https://www.walmart.com/ip/21112114286"
-    },
-    {
-     "store": "Amazon",
-     "price": 19.99,
-     "url": "https://www.amazon.com/dp/B0HK5W521D"
-    },
-    {
-     "store": "Best Buy",
-     "price": 19.99,
-     "url": "https://www.bestbuy.com/site/6692788.p?skuId=6692788"
-    },
-    {
-     "store": "Target",
-     "price": 19.99,
-     "url": "https://www.target.com/p/-/A-1012938572"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/rudolph-the-red-nosed-reindeer-holiday-play-edition/452471.html"
-    }
-   ],
-   "offers_checked": "2026-11-25T13:22:51+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Game Mill",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.nintendo.com/us/store/products/rudolph-the-red-nosed-reindeer-holiday-play-edition-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-resident-evil-3",
-   "title": "RESIDENT EVIL 3",
-   "url": "https://www.dekudeals.com/items/resident-evil-3",
-   "image": "https://cdn.dekudeals.com/images/0f039a7077ca614cd971bee85232fad84bc25907/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 16, 2026",
-   "release_date": "2026-10-16",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T13:22:51+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "CAPCOM",
-   "digital": {
-    "price": 29.99,
-    "url": "https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
    "id": "deku-biohazard-re3-z-version",
    "title": "BIOHAZARD RE:3 Z Version",
    "url": "https://www.dekudeals.com/items/biohazard-re3-z-version",
@@ -8300,6 +8269,69 @@
    "digital": {
     "price": 29.99,
     "url": "https://www.nintendo.com/us/store/products/tales-of-eternia-remastered-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-resident-evil-2-deluxe-edition",
+   "title": "RESIDENT EVIL 2 Deluxe Edition",
+   "url": "https://www.dekudeals.com/items/resident-evil-2-deluxe-edition",
+   "image": "https://cdn.dekudeals.com/images/1bb55517bc6ee1cfcd4e94694de70f221ac811c7/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 16, 2026",
+   "release_date": "2026-10-16",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T13:22:51+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "CAPCOM",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.amazon.com/dp/B0HKY46147"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-resident-evil-4-gold-edition",
+   "title": "Resident Evil 4 Gold Edition",
+   "url": "https://www.dekudeals.com/items/resident-evil-4-gold-edition",
+   "image": "https://cdn.dekudeals.com/images/b27a3aa4ecaa7ef1554336815644bee3a2a105bb/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 16, 2026",
+   "release_date": "2026-10-16",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T13:22:51+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "CAPCOM",
+   "digital": {
+    "price": 49.99,
+    "url": "https://www.amazon.com/dp/B0HKYKVM9Y"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-resident-evil-3",
+   "title": "RESIDENT EVIL 3",
+   "url": "https://www.dekudeals.com/items/resident-evil-3",
+   "image": "https://cdn.dekudeals.com/images/0f039a7077ca614cd971bee85232fad84bc25907/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 16, 2026",
+   "release_date": "2026-10-16",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T13:22:51+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "CAPCOM",
+   "digital": {
+    "price": 29.99,
+    "url": "https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -8452,48 +8484,6 @@
    "nintendo": false
   },
   {
-   "id": "deku-tormented-souls-2",
-   "title": "Tormented Souls 2",
-   "url": "https://www.dekudeals.com/items/tormented-souls-2",
-   "image": "https://cdn.dekudeals.com/images/882ca59725d0a31b451c80f260ff36366a5873b9/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 15, 2026",
-   "release_date": "2026-10-15",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 29.99,
-     "url": "https://www.amazon.com/dp/B0H8ZY557G"
-    },
-    {
-     "store": "Target",
-     "price": 29.99,
-     "url": "https://www.target.com/p/-/A-1012616003"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/tormented-souls-2/449233.html"
-    },
-    {
-     "store": "Best Buy",
-     "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6686949.p?skuId=6686949"
-    }
-   ],
-   "offers_checked": "2026-11-25T13:22:51+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "PQube",
-   "digital": {
-    "price": 29.99,
-    "url": "https://www.nintendo.com/us/store/products/tormented-souls-2-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
    "id": "deku-blueys-happy-snaps-deluxe-edition",
    "title": "Bluey's Happy Snaps: Deluxe Edition",
    "url": "https://www.dekudeals.com/items/blueys-happy-snaps-deluxe-edition",
@@ -8516,48 +8506,6 @@
    "digital": {
     "price": 38.49,
     "url": "https://www.nintendo.com/us/store/products/blueys-happy-snaps-deluxe-edition-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-blueys-happy-snaps",
-   "title": "Bluey's Happy Snaps",
-   "url": "https://www.dekudeals.com/items/blueys-happy-snaps",
-   "image": "https://cdn.dekudeals.com/images/0b01738985dfa63bcf52a977f78ef8857abae6a1/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 15, 2026",
-   "release_date": "2026-10-15",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 15.0,
-     "url": "https://www.walmart.com/ip/19921109812"
-    },
-    {
-     "store": "Best Buy",
-     "price": 29.99,
-     "url": "https://www.bestbuy.com/site/6675495.p?skuId=6675495"
-    },
-    {
-     "store": "GameStop",
-     "price": 29.99,
-     "url": "https://www.gamestop.com/products/blueys-happy-snaps/444517.html"
-    },
-    {
-     "store": "Target",
-     "price": 29.99,
-     "url": "https://www.target.com/p/-/A-1010809630"
-    }
-   ],
-   "offers_checked": "2026-11-25T13:22:51+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Gameloft",
-   "digital": {
-    "price": 39.99,
-    "url": "https://www.amazon.com/dp/B0HJFGTTJ9"
    },
    "game_key": true,
    "nintendo": false
@@ -8605,6 +8553,90 @@
    "digital": {
     "price": 29.99,
     "url": "https://www.nintendo.com/us/store/products/it-takes-two-70010000121106-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-blueys-happy-snaps",
+   "title": "Bluey's Happy Snaps",
+   "url": "https://www.dekudeals.com/items/blueys-happy-snaps",
+   "image": "https://cdn.dekudeals.com/images/0b01738985dfa63bcf52a977f78ef8857abae6a1/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 15, 2026",
+   "release_date": "2026-10-15",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 15.0,
+     "url": "https://www.walmart.com/ip/19921109812"
+    },
+    {
+     "store": "Best Buy",
+     "price": 29.99,
+     "url": "https://www.bestbuy.com/site/6675495.p?skuId=6675495"
+    },
+    {
+     "store": "GameStop",
+     "price": 29.99,
+     "url": "https://www.gamestop.com/products/blueys-happy-snaps/444517.html"
+    },
+    {
+     "store": "Target",
+     "price": 29.99,
+     "url": "https://www.target.com/p/-/A-1010809630"
+    }
+   ],
+   "offers_checked": "2026-11-25T13:22:51+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Gameloft",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.amazon.com/dp/B0HJFGTTJ9"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-tormented-souls-2",
+   "title": "Tormented Souls 2",
+   "url": "https://www.dekudeals.com/items/tormented-souls-2",
+   "image": "https://cdn.dekudeals.com/images/882ca59725d0a31b451c80f260ff36366a5873b9/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 15, 2026",
+   "release_date": "2026-10-15",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.99,
+     "url": "https://www.amazon.com/dp/B0H8ZY557G"
+    },
+    {
+     "store": "Target",
+     "price": 29.99,
+     "url": "https://www.target.com/p/-/A-1012616003"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/tormented-souls-2/449233.html"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6686949.p?skuId=6686949"
+    }
+   ],
+   "offers_checked": "2026-11-25T13:22:51+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "PQube",
+   "digital": {
+    "price": 29.99,
+    "url": "https://www.nintendo.com/us/store/products/tormented-souls-2-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -8793,27 +8825,6 @@
    "nintendo": false
   },
   {
-   "id": "deku-mamon-king",
-   "title": "Mamon King",
-   "url": "https://www.dekudeals.com/items/mamon-king",
-   "image": "https://cdn.dekudeals.com/images/ca619e64198d9c589cbe990feb0210f55895bcbe/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 8, 2026",
-   "release_date": "2026-10-08",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T14:26:58+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "LiTMUS",
-   "digital": {
-    "price": 12.99,
-    "url": "https://www.nintendo.com/us/store/products/mamon-king-switch/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
    "id": "deku-hell-is-us",
    "title": "Hell is Us",
    "url": "https://www.dekudeals.com/items/hell-is-us",
@@ -8868,43 +8879,22 @@
    "nintendo": false
   },
   {
-   "id": "deku-clive-barkers-hellraiser-revival",
-   "title": "Clive Barker’s Hellraiser: Revival",
-   "url": "https://www.dekudeals.com/items/clive-barkers-hellraiser-revival",
-   "image": "https://cdn.dekudeals.com/images/367814df457887d6c3b0d503296c0e0d34391273/w540.jpg",
+   "id": "deku-once-upon-a-katamari-plus-rolling-live-highlights-edition",
+   "title": "Once Upon A KATAMARI - Rolling Live Highlights Edition",
+   "url": "https://www.dekudeals.com/items/once-upon-a-katamari-plus-rolling-live-highlights-edition",
+   "image": "https://cdn.dekudeals.com/images/bb7d42878668803ab5b923848ad498a0bdbcbe25/w540.jpg",
    "price": null,
    "old_price": null,
    "release": "October 8, 2026",
    "release_date": "2026-10-08",
    "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://www.amazon.com/dp/B0HJT6ZGYJ"
-    },
-    {
-     "store": "Best Buy",
-     "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6692587.p?skuId=6692587"
-    },
-    {
-     "store": "GameStop",
-     "price": 39.99,
-     "url": "https://www.gamestop.com/products/clive-barker-s-hellraiser-revival/451934.html"
-    },
-    {
-     "store": "Target",
-     "price": 39.99,
-     "url": "https://www.target.com/p/-/A-1014334839"
-    }
-   ],
+   "offers": [],
    "offers_checked": "2026-11-25T14:26:58+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Saber Interactive Incorporated",
+   "publisher": "Bandai Namco Entertainment",
    "digital": {
-    "price": 39.99,
-    "url": "https://www.nintendo.com/us/store/products/clive-barkers-hellraiser-revival-switch-2/"
+    "price": 49.99,
+    "url": "https://www.nintendo.com/us/store/products/once-upon-a-katamari-rolling-live-highlights-edition-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -8957,10 +8947,79 @@
    "nintendo": false
   },
   {
-   "id": "deku-once-upon-a-katamari-plus-rolling-live-highlights-edition",
-   "title": "Once Upon A KATAMARI - Rolling Live Highlights Edition",
-   "url": "https://www.dekudeals.com/items/once-upon-a-katamari-plus-rolling-live-highlights-edition",
-   "image": "https://cdn.dekudeals.com/images/bb7d42878668803ab5b923848ad498a0bdbcbe25/w540.jpg",
+   "id": "deku-earth-defense-force-5",
+   "title": "EARTH DEFENSE FORCE 5",
+   "url": "https://www.dekudeals.com/items/earth-defense-force-5",
+   "image": "https://cdn.dekudeals.com/images/4212aca1167f26e1680d3a3d449f1485951562ed/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 8, 2026",
+   "release_date": "2026-10-08",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 44.99,
+     "url": "https://www.amazon.com/dp/B0HN4W45QG"
+    }
+   ],
+   "offers_checked": "2026-11-25T14:26:58+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "D3PUBLISHER",
+   "digital": {
+    "price": 29.99,
+    "url": "https://www.nintendo.com/us/store/products/earth-defense-force5-for-nintendo-switch-2-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-clive-barkers-hellraiser-revival",
+   "title": "Clive Barker’s Hellraiser: Revival",
+   "url": "https://www.dekudeals.com/items/clive-barkers-hellraiser-revival",
+   "image": "https://cdn.dekudeals.com/images/367814df457887d6c3b0d503296c0e0d34391273/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 8, 2026",
+   "release_date": "2026-10-08",
+   "collector": false,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://www.amazon.com/dp/B0HJT6ZGYJ"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6692587.p?skuId=6692587"
+    },
+    {
+     "store": "GameStop",
+     "price": 39.99,
+     "url": "https://www.gamestop.com/products/clive-barker-s-hellraiser-revival/451934.html"
+    },
+    {
+     "store": "Target",
+     "price": 39.99,
+     "url": "https://www.target.com/p/-/A-1014334839"
+    }
+   ],
+   "offers_checked": "2026-11-25T14:26:58+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "Saber Interactive Incorporated",
+   "digital": {
+    "price": 39.99,
+    "url": "https://www.nintendo.com/us/store/products/clive-barkers-hellraiser-revival-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
+   "id": "deku-mamon-king",
+   "title": "Mamon King",
+   "url": "https://www.dekudeals.com/items/mamon-king",
+   "image": "https://cdn.dekudeals.com/images/ca619e64198d9c589cbe990feb0210f55895bcbe/w540.jpg",
    "price": null,
    "old_price": null,
    "release": "October 8, 2026",
@@ -8969,10 +9028,10 @@
    "offers": [],
    "offers_checked": "2026-11-25T14:26:58+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "Bandai Namco Entertainment",
+   "publisher": "LiTMUS",
    "digital": {
-    "price": 49.99,
-    "url": "https://www.nintendo.com/us/store/products/once-upon-a-katamari-rolling-live-highlights-edition-switch-2/"
+    "price": 12.99,
+    "url": "https://www.nintendo.com/us/store/products/mamon-king-switch/"
    },
    "game_key": true,
    "nintendo": false
@@ -9015,33 +9074,6 @@
    "digital": {
     "price": 74.99,
     "url": "https://www.amazon.com/dp/B0HKY1GPL4"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-earth-defense-force-5",
-   "title": "EARTH DEFENSE FORCE 5",
-   "url": "https://www.dekudeals.com/items/earth-defense-force-5",
-   "image": "https://cdn.dekudeals.com/images/4212aca1167f26e1680d3a3d449f1485951562ed/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 8, 2026",
-   "release_date": "2026-10-08",
-   "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 44.99,
-     "url": "https://www.amazon.com/dp/B0HN4W45QG"
-    }
-   ],
-   "offers_checked": "2026-11-25T14:26:58+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "D3PUBLISHER",
-   "digital": {
-    "price": 29.99,
-    "url": "https://www.nintendo.com/us/store/products/earth-defense-force5-for-nintendo-switch-2-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -9203,6 +9235,27 @@
    "nintendo": false
   },
   {
+   "id": "deku-octopath-traveler-plus-octopath-traveler-ii-bundle",
+   "title": "OCTOPATH TRAVELER + OCTOPATH TRAVELER II Bundle",
+   "url": "https://www.dekudeals.com/items/octopath-traveler-plus-octopath-traveler-ii-bundle",
+   "image": "https://cdn.dekudeals.com/images/2ba40a85c1e4a68585f1762c348533fae10af40e/w540.jpg",
+   "price": null,
+   "old_price": null,
+   "release": "October 1, 2026",
+   "release_date": "2026-10-01",
+   "collector": false,
+   "offers": [],
+   "offers_checked": "2026-11-25T14:26:58+00:00",
+   "first_seen": "2026-11-13T14:38:54+00:00",
+   "publisher": "SQUARE ENIX",
+   "digital": {
+    "price": 74.99,
+    "url": "https://www.nintendo.com/us/store/products/octopath-traveler-plus-octopath-traveler-ii-bundle-switch-2/"
+   },
+   "game_key": true,
+   "nintendo": false
+  },
+  {
    "id": "deku-octopath-traveler",
    "title": "Octopath Traveler",
    "url": "https://www.dekudeals.com/items/octopath-traveler",
@@ -9267,27 +9320,6 @@
    "digital": {
     "price": 39.99,
     "url": "https://www.nintendo.com/us/store/products/dynasty-warriors-3-complete-edition-remastered-switch-2/"
-   },
-   "game_key": true,
-   "nintendo": false
-  },
-  {
-   "id": "deku-octopath-traveler-plus-octopath-traveler-ii-bundle",
-   "title": "OCTOPATH TRAVELER + OCTOPATH TRAVELER II Bundle",
-   "url": "https://www.dekudeals.com/items/octopath-traveler-plus-octopath-traveler-ii-bundle",
-   "image": "https://cdn.dekudeals.com/images/2ba40a85c1e4a68585f1762c348533fae10af40e/w540.jpg",
-   "price": null,
-   "old_price": null,
-   "release": "October 1, 2026",
-   "release_date": "2026-10-01",
-   "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-25T14:26:58+00:00",
-   "first_seen": "2026-11-13T14:38:54+00:00",
-   "publisher": "SQUARE ENIX",
-   "digital": {
-    "price": 74.99,
-    "url": "https://www.nintendo.com/us/store/products/octopath-traveler-plus-octopath-traveler-ii-bundle-switch-2/"
    },
    "game_key": true,
    "nintendo": false
@@ -10465,7 +10497,7 @@
    "title": "The Disney Afternoon Collection",
    "url": "https://www.dekudeals.com/items/the-disney-afternoon-collection",
    "image": "https://cdn.dekudeals.com/images/1aa27decb0fee1c699c3bfd19a1f5e918b79d630/w540.jpg",
-   "price": 34.99,
+   "price": 32.95,
    "old_price": 39.99,
    "release": "February 26, 2026",
    "release_date": "2026-02-26",
@@ -11527,10 +11559,10 @@
    "code": "W4IGDMSF",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367702&pno=1373961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6a0559c4e8f511f1961eaef31e383ec0&au=f019e51732294e21a951c0ca1c5c4d15&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:26:57+00:00",
    "real_price": 9.99,
-   "real_old": 19.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367702&pno=1373961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6a0559c4e8f511f1961eaef31e383ec0&au=f019e51732294e21a951c0ca1c5c4d15&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 19.99
   },
   {
    "id": "tce306fe73c2",
@@ -11724,10 +11756,10 @@
    "code": "FCGI149",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T17:26:59+00:00",
    "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.0
   },
   {
    "id": "td2d3d6843ff",
@@ -11784,8 +11816,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6c9e1b80e8f511f183237a6f4a44c31f&au=bb49317614c3446e9dddb94e65137368&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:27:02+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=3f3a0644e8f611f19bcf92142a66bc6a&au=2f448eecac9944188048b7a31c251610&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:32:54+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12030,8 +12062,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6e03d73ae8f511f18e323ad295af2816&au=ed1bfc7cc9794606a005ab9da2712ee1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:27:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4057c368e8f611f1aeb3aef31e383ec0&au=db024a0d47914e30b9054e9d150156c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:32:56+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12851,7 +12883,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -14713,8 +14745,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6f754874e8f511f1a777461d83d1f2e5&au=2e856350fff04c76873924da37ba38ae&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:27:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=41cac376e8f611f1b9657697f74658a6&au=7f1b721504394df3843359ede27f814c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T17:32:59+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16186,8 +16218,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6c9e1b80e8f511f183237a6f4a44c31f&au=bb49317614c3446e9dddb94e65137368&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6c9e1b80e8f511f183237a6f4a44c31f&au=bb49317614c3446e9dddb94e65137368&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=3f3a0644e8f611f19bcf92142a66bc6a&au=2f448eecac9944188048b7a31c251610&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=3f3a0644e8f611f19bcf92142a66bc6a&au=2f448eecac9944188048b7a31c251610&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16203,7 +16235,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6c9e1b80e8f511f183237a6f4a44c31f&au=bb49317614c3446e9dddb94e65137368&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=3f3a0644e8f611f19bcf92142a66bc6a&au=2f448eecac9944188048b7a31c251610&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16402,8 +16434,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6e03d73ae8f511f18e323ad295af2816&au=ed1bfc7cc9794606a005ab9da2712ee1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6e03d73ae8f511f18e323ad295af2816&au=ed1bfc7cc9794606a005ab9da2712ee1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4057c368e8f611f1aeb3aef31e383ec0&au=db024a0d47914e30b9054e9d150156c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4057c368e8f611f1aeb3aef31e383ec0&au=db024a0d47914e30b9054e9d150156c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16419,7 +16451,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=6e03d73ae8f511f18e323ad295af2816&au=ed1bfc7cc9794606a005ab9da2712ee1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4057c368e8f611f1aeb3aef31e383ec0&au=db024a0d47914e30b9054e9d150156c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17115,7 +17147,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19172,5 +19204,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T17:27:55+00:00"
+ "updated": "2026-11-25T17:33:55+00:00"
 }
