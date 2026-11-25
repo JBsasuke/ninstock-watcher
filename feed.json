@@ -1429,7 +1429,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&pno=1372410&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1e7af2d0e7a011f186aee20ac5a09123&au=a2cd6679e7ea4485a2c97e48001ce229&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:52:00+00:00",
+   "checked_at": "2026-11-25T12:54:51+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1450,7 +1450,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c16bba0e7a011f1bcbd96fe147dd7f2&au=293c1ddb301a4311beaf1e247c569169&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:51:55+00:00",
+   "checked_at": "2026-11-25T12:54:47+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -1471,7 +1471,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d664f16e7a011f18cef22f10dfae1bd&au=0a5300df3e914c8e8f95c174274ab129&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:51:58+00:00",
+   "checked_at": "2026-11-25T12:54:49+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11486,6 +11486,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t17849f04400",
+   "title": "Little Tikes Gas 'n Go Mower Interactive Toy $16.50",
+   "price": 16.49,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385978-little-tikes-gas-n-go-mower-kids-and-toddler-toy-16-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22581720.thumb",
+   "posted": "2026-11-25T12:53:02+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:55:43+00:00",
+   "real_price": 16.49,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385978&pno=1373748&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=86384b22e8cf11f1941072ad2e05b851&au=db3508ad90b5423bb58d1cc69dfc3d69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "taea1f6bfc88",
    "title": "35-Pc Milwaukee SHOCKWAVE Impact Duty Alloy Steel Screw Driver Bit Set $12.95 + Free S&H",
    "price": 12.97,
@@ -11498,10 +11516,28 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&pno=1373745&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=e1ba112ae8ce11f1a55aba4d17c5a071&au=ec6c39e0b0604efd9bea4fb3191b5751&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:51:07+00:00",
    "real_price": 12.97,
-   "real_old": 22.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&pno=1373745&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=e1ba112ae8ce11f1a55aba4d17c5a071&au=ec6c39e0b0604efd9bea4fb3191b5751&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 22.97
+  },
+  {
+   "id": "tf8e8d8a1a44",
+   "title": "Crucial P3 PCIe Gen3 NVMe 1TB SSD, Up to 3,500MB/s Read, Laptop & Desktop (PC) Compatible, Solid State Drive – CT1000P3SSD8 $71.11",
+   "price": 71.11,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393883-crucial-p3-pcie-gen3-nvme-1tb-ssd-up-to-3-500mb-s-read-laptop-desktop-pc-compatible-solid-state-drive-ct1000p3ssd8-71-11?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/3/7/3/2/0/1/300x300/22581615.thumb",
+   "posted": "2026-11-25T12:44:01+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:55:45+00:00",
+   "real_price": 71.11,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7fce7df4b4e",
@@ -11921,6 +11957,24 @@
    "checked_at": "2026-11-25T11:55:53+00:00",
    "real_price": 12.97,
    "real_old": 22.97
+  },
+  {
+   "id": "t368ea8ae984",
+   "title": "$219.99: LG S6FTR 5.1 ch. Home Theater Soundbar with Rear Surround Speakers at Amazon",
+   "price": 219.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392905-219-99-lg-s6ftr-5-1-ch-home-theater-soundbar-with-rear-surround-speakers-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22579047.thumb",
+   "posted": "2026-11-25T08:12:00+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:55:47+00:00",
+   "real_price": 219.99,
+   "real_old": 399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tcb0ecea6dd1",
@@ -12784,6 +12838,24 @@
    "real_old": 549.0
   },
   {
+   "id": "t6fe2bc21460",
+   "title": "$22.91 | Apple Watch Band - Sport Band (42mm) - Clementine - M/L at Amazon",
+   "price": 22.91,
+   "old_price": 45.81,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20391651-22-91-apple-watch-band-sport-band-42mm-clementine-m-l-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22575939.thumb",
+   "posted": "2026-11-25T03:37:43+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:55:49+00:00",
+   "real_price": 22.91,
+   "real_old": 45.81,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td57a763e832",
    "title": "$9.55* | DeWALT Retractable Utility Knife w/ Blade Storage at Amazon",
    "price": 9.55,
@@ -13246,8 +13318,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e2ff0e82e8ce11f19ccd3295aa46e244&au=57e18c1fdb35495898c9b3f74f53c23b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:51:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8b4341eee8cf11f1893bc618b39872ef&au=b28a2cd39c0a46379b58d33c3be48a26&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T12:55:52+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15837,84 +15909,36 @@
    "checked_at": "2026-11-24T14:46:13+00:00",
    "real_price": 498.0,
    "real_old": 799.0
-  },
-  {
-   "id": "ta1fbffdcba4",
-   "title": "Tilswall  Shark 600 Ultra-Light HVLP Electric Spray Paint Gun $26.99",
-   "price": 26.99,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386674-tilswall-shark-600-ultra-light-hvlp-electric-spray-paint-gun-26-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22563375.thumb",
-   "posted": "2026-11-24T14:41:22+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386674&tid=20386674&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=221ec146e82211f18d289e8359c3e013&au=8cf4e5f665514472a99296a0dfd3bd04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:14:33+00:00",
-   "real_price": 26.99,
-   "real_old": 59.99
-  },
-  {
-   "id": "t8ed59b7983f",
-   "title": "Ryobi One+ HP 18V Brushless Cordless Compact Router (Tool Only) $79",
-   "price": 79.0,
-   "old_price": 129.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20386641-ryobi-one-hp-18v-brushless-cordless-compact-router-tool-only-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22563267.thumb",
-   "posted": "2026-11-24T14:33:48+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20386641&tid=20386641&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1fc5316ae84411f18d1c725e37dd070f&au=ca62ed43720b434e8f8f232971bb58ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T20:17:51+00:00",
-   "real_price": 79.0,
-   "real_old": 129.0
-  },
-  {
-   "id": "t398714bfda1",
-   "title": "Gruv's Black Friday Holiday 4K Movies: Dr. Seuss' How the Grinch Stole Christmas!, Charlie Brown: A Charlie Brown Thanksgiving, Frosty the Snowman $9.99 or Less & More",
-   "price": 9.99,
-   "old_price": 60.0,
-   "store": "Gruv",
-   "url": "https://slickdeals.net/f/20386617-gruv-s-black-friday-holiday-4k-movies-dr-seuss-how-the-grinch-stole-christmas-charlie-brown-a-charlie-brown-thanksgiving-frosty-the-snowman-9-99-or-less-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22563114.thumb",
-   "posted": "2026-11-24T14:31:03+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "FIRSTGRUV15",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Gruv&sdtid=20386617&tid=20386617&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=77b0106ee82311f189c4eef62b4f788e&au=b4bfa3773dc2458fa5d04c64729544a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:24:06+00:00",
-   "real_price": 9.99,
-   "real_old": 60.0
-  },
-  {
-   "id": "t7f048f99ddf",
-   "title": "Gigabyte AMD Radeon RX 9070 XT Gaming Overclocked Triple Fan 16GB $899.99",
-   "price": 899.99,
-   "old_price": 1199.99,
-   "store": "Micro Center",
-   "url": "https://slickdeals.net/f/20386614-gigabyte-amd-radeon-rx-9070-xt-gaming-overclocked-triple-fan-16gb-899-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/7/3/8/1/9/9/300x300/22563195.thumb",
-   "posted": "2026-11-24T14:30:59+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20386614&tid=20386614&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d343fbee81911f1bfd12a881380f11b&au=f9d7210b10b844e9b50ca6d4740dc473&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T15:13:07+00:00",
-   "real_price": 899.99,
-   "real_old": 1199.99
   }
  ],
  "tech": [
+  {
+   "id": "tf8e8d8a1a44",
+   "title": "Crucial P3 PCIe Gen3 NVMe 1TB SSD, Up to 3,500MB/s Read, Laptop & Desktop (PC) Compatible, Solid State Drive – CT1000P3SSD8",
+   "price": 71.11,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/3/7/3/2/0/1/300x300/22581615.thumb",
+   "posted": "2026-11-25T12:44:01+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 71.11,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t585098d5da9",
    "title": "27\" MSI MAG 274CQPDF X32 1440P 320Hz IPS Gaming Monitor",
@@ -16209,6 +16233,33 @@
      "store": "Amazon",
      "price": 279.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t368ea8ae984",
+   "title": ": LG S6FTR 5.1 ch. Home Theater Soundbar with Rear Surround Speakers",
+   "price": 219.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22579047.thumb",
+   "posted": "2026-11-25T08:12:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 219.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17100,6 +17151,33 @@
      "store": "Amazon",
      "price": 479.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6fe2bc21460",
+   "title": "Apple Watch Band - Sport Band (42mm) - Clementine - M/L",
+   "price": 22.91,
+   "old_price": 45.81,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22575939.thumb",
+   "posted": "2026-11-25T03:37:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 22.91,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19067,88 +19145,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t19e60eac19d",
-   "title": "50\" VIZIO Mini LED Quantum 4K 60Hz QLED Smart TV (VQM50C-10) + Free S&H",
-   "price": 198.0,
-   "old_price": 248.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/7745104180",
-   "url": "https://www.walmart.com/ip/7745104180",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22529985.thumb",
-   "posted": "2026-11-24T17:03:28+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 198.0,
-     "url": "https://www.walmart.com/ip/7745104180"
-    }
-   ]
-  },
-  {
-   "id": "t461633d6808",
-   "title": "Beats Pill Gen 3 Portable Bluetooth Speaker (Light Gray)",
-   "price": 69.99,
-   "old_price": null,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20387925&tid=20387925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58459714e82b11f196527a2a619e0816&au=d35dc37e11a84d9ebad224aa58133bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20387925&tid=20387925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58459714e82b11f196527a2a619e0816&au=d35dc37e11a84d9ebad224aa58133bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22566387.thumb",
-   "posted": "2026-11-24T16:58:37+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 69.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20387925&tid=20387925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58459714e82b11f196527a2a619e0816&au=d35dc37e11a84d9ebad224aa58133bed&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td4fc413c7f7",
-   "title": "Bose SoundLink Micro Portable Bluetooth Speaker (2nd Gen, Blue Dusk)",
-   "price": 79.0,
-   "old_price": 129.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387874&tid=20387874&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=fdd5f4fee88e11f186c482ae886e9f7c&au=e66a5102c17c41d899f635b44f6368f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387874&tid=20387874&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=fdd5f4fee88e11f186c482ae886e9f7c&au=e66a5102c17c41d899f635b44f6368f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/7/8/8/9/1/7/300x300/22566276.thumb",
-   "posted": "2026-11-24T16:53:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 79.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387874&tid=20387874&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=fdd5f4fee88e11f186c482ae886e9f7c&au=e66a5102c17c41d899f635b44f6368f8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T12:52:01+00:00"
+ "updated": "2026-11-25T12:56:38+00:00"
 }
