@@ -182,6 +182,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11509,6 +11511,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t417ae34125f",
+   "title": "Apple Watch Series 11 46mm w/ Natural Milanese Loop in S/M (GPS + Cellular) $399.50 + Free S&H",
+   "price": 399.5,
+   "old_price": 799.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20391501-399-50-for-apple-watch-series-11-gps-cellular-46mm-smartwatch-with-natural-titanium-case-with-natural-milanese-loop-s-m?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22581078.thumb",
+   "posted": "2026-11-25T11:40:41+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:42:08+00:00",
+   "real_price": 399.5,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&pno=1373721&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ebf01dce8c511f1a420ea05b6b8cbf3&au=31c38cfd54c446e5a112512fce768029&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tcbc9666111c",
    "title": "Compustar 2-Way Remote Car Starter Kit w/ Smartphone Control $400 + Free S&H & Install",
    "price": 399.99,
@@ -11656,10 +11676,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393139&tid=20393139&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=9ba23488e8c411f19b5d863ad210ac0e&au=500188e8c50248f0bcbfe66e96f62fd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:37:35+00:00",
    "real_price": 179.2,
-   "real_old": 299.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393139&tid=20393139&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=9ba23488e8c411f19b5d863ad210ac0e&au=500188e8c50248f0bcbfe66e96f62fd0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 299.0
   },
   {
    "id": "tbee5aa7c403",
@@ -11855,7 +11875,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": "2026-11-25",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -13018,8 +13038,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9d48cfa4e8c411f1b670863ad210ac0e&au=fd7d9a97dd4642428578424f4d9c224f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:37:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3fe3ef96e8c511f1b0731ef0c9e233e5&au=6a648b16119c40d584efabd8a8d15885&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:42:10+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15926,27 +15946,36 @@
    "checked_at": "2026-11-24T13:37:04+00:00",
    "real_price": 29.6,
    "real_old": 54.89
-  },
-  {
-   "id": "t69744099782",
-   "title": "JBL Tune 510BT Wireless On-Ear Headphones (Black) $20",
-   "price": 19.94,
-   "old_price": 39.04,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383272-jbl-tune-510bt-wireless-on-ear-headphones-black-19-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22554393.thumb",
-   "posted": "2026-11-24T13:15:28+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383272&pno=1372803&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a60306ce80911f1909ceebc583ae364&au=c96cc09edce14333b155f911d8bac76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:17:09+00:00",
-   "real_price": 19.94,
-   "real_old": 39.04
   }
  ],
  "tech": [
+  {
+   "id": "t417ae34125f",
+   "title": "Apple Watch Series 11 46mm",
+   "price": 399.5,
+   "old_price": 799.0,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&pno=1373721&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ebf01dce8c511f1a420ea05b6b8cbf3&au=31c38cfd54c446e5a112512fce768029&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&pno=1373721&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ebf01dce8c511f1a420ea05b6b8cbf3&au=31c38cfd54c446e5a112512fce768029&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22581078.thumb",
+   "posted": "2026-11-25T11:40:41+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 399.5,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&pno=1373721&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ebf01dce8c511f1a420ea05b6b8cbf3&au=31c38cfd54c446e5a112512fce768029&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tcbc9666111c",
    "title": "Compustar 2-Way Remote Car Starter Kit",
@@ -19153,34 +19182,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374161&pno=1372932&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=9e78cf72e82511f1bd9f9ea8d337c564&au=29ec23eb9ea54fdcbf0e557694b54a25&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tce2c798a186",
-   "title": "ORICO Magnetic M.2 2230/2242 NVMe SSD Enclosure for iPhone",
-   "price": 20.15,
-   "old_price": 35.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387493&tid=20387493&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=dbcad670e89a11f189a3ae72dfbc3593&au=247b024ee20947f1af9de5a36cd8a193&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387493&tid=20387493&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=dbcad670e89a11f189a3ae72dfbc3593&au=247b024ee20947f1af9de5a36cd8a193&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22565442.thumb",
-   "posted": "2026-11-24T16:14:42+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": "ORICOM2SSD30",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 20.15,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387493&tid=20387493&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=dbcad670e89a11f189a3ae72dfbc3593&au=247b024ee20947f1af9de5a36cd8a193&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T11:38:29+00:00"
+ "updated": "2026-11-25T11:43:06+00:00"
 }
