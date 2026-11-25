@@ -14,13 +14,13 @@
    "posted": "2026-11-25T03:46:52+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T03:51:07+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391711&tid=20391711&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=71bca40ae88311f1a420ead78a0a5c38&au=220a66fcd8e84d518b621f17b808699a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T03:51:07+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "52db27e669ee",
@@ -35,13 +35,13 @@
    "posted": "2026-11-25T03:46:52+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T03:51:09+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391711&tid=20391711&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=7307c448e88311f1a3216ae67ff1ca56&au=9e11fa270bdf40d48f2b880f63cd894c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T03:51:09+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "fa46bc07ed85",
@@ -227,7 +227,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&pno=1373217&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=be674ca6e85111f19f775205667f8650&au=82bc946b1adf42b7924c9d6a8f2d3e49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T21:55:21+00:00",
+   "checked_at": "2026-11-25T03:56:03+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2924,6 +2924,27 @@
    "expired": true
   },
   {
+   "id": "3ef9a6e873d4",
+   "title": "Mega Man Battle Network Legacy Collection - Switch",
+   "price": 24.99,
+   "old_price": 26.95,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20373117-mega-man-battle-network-legacy-collection-switch?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/7/0/5/5/300x300/22528932.thumb",
+   "posted": "2026-11-23T03:10:45+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-25T03:56:00+00:00",
+   "category_ok": true,
+   "real_price": 24.99,
+   "real_old": 26.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "d15e4de6176e",
    "title": "Final Fantasy Tactics: The Ivalice Chronicles (Nintendo Switch) $25",
    "price": 24.99,
@@ -3172,27 +3193,6 @@
    "link_v": 3,
    "checked_at": "2026-11-25T02:10:29+00:00",
    "real_price": 49.99,
-   "real_old": 69.99,
-   "category_ok": true
-  },
-  {
-   "id": "62c7d35fcdfc",
-   "title": "Pre-Order | Metroid Ravenous (Nintendo Switch 2 [Physical]) - $59.88",
-   "price": 59.88,
-   "old_price": 69.99,
-   "store": "Walmart",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20369271-pre-order-metroid-ravenous-nintendo-switch-2-physical-59-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22521045.thumb",
-   "posted": "2026-11-22T12:38:04+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/20973300457",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-25T02:10:31+00:00",
-   "real_price": 59.88,
    "real_old": 69.99,
    "category_ok": true
   }
@@ -4176,6 +4176,31 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-23T06:03:19+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
+  {
+   "id": "436ce5ad2037",
+   "title": "Mega Man Battle Network Legacy Collection - Switch",
+   "price": 24.99,
+   "old_price": 26.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 24.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373117&tid=20373117&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=20761cf6e88411f1bade32abb7427c9f&au=245de89916f94c779cd9c0ea6080bf16&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/3/5/7/0/5/5/300x300/22528932.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-23T03:10:45+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11052,6 +11077,41 @@
  ],
  "news": [
   {
+   "id": "aldia-d210f3a5f3",
+   "title": "Pokémon Champions estrena el Regulation Set M-D con 24 nuevos Pokémon y cuatro Megaevoluciones",
+   "summary": "Llegan nuevos Pokémon y Megaevoluciones a las batallas clasificatorias de Pokémon Champions, incluidos Heatran y Tatsugiri.",
+   "lang": "es",
+   "source": "Pokemon.com",
+   "url": "https://aldiard.com/n/d210f3a5f3.html",
+   "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/2026/11/24/pokemon-champions-169-en.png",
+   "posted": "2026-11-25T03:53:26.689661+00:00",
+   "video": null,
+   "es": {
+    "title": "Pokémon Champions estrena el Regulation Set M-D con 24 nuevos Pokémon y cuatro Megaevoluciones",
+    "summary": "Llegan nuevos Pokémon y Megaevoluciones a las batallas clasificatorias de Pokémon Champions, incluidos Heatran y Tatsugiri.",
+    "body": [
+     "Pokémon Champions recibe una nueva regulación de combate. El Regulation Set M-D estará disponible desde el miércoles 2 de diciembre de 2026, a las 6:00 p.m. PST, hasta el miércoles 3 de marzo de 2027, a las 5:59 p.m. PST.",
+     "Durante este periodo, los Pokémon que ya podían participar en las batallas clasificatorias conservan su elegibilidad. A ellos se suman nuevos competidores como Heatran, Dondozo y Tatsugiri.",
+     "La actualización también trae cuatro Megaevoluciones, entre ellas Mega Heatran y Mega Tatsugiri. En total, el set incorpora 24 Pokémon nuevos para combatir.",
+     "Para ver la lista completa en el juego, los entrenadores deben ir a Reclutar, seleccionar Reclutar Pokémon y luego Información del equipo.",
+     "El juego está disponible para Nintendo Switch, iOS y Android."
+    ],
+    "url": "https://aldiard.com/n/d210f3a5f3.html"
+   },
+   "en": {
+    "title": "Pokémon Champions Launches Regulation Set M-D With 24 New Pokémon and Four Mega Evolutions",
+    "summary": "New Pokémon and Mega Evolutions join Pokémon Champions Ranked Battles, including Heatran and Tatsugiri.",
+    "body": [
+     "Pokémon Champions is getting a new battle regulation. Regulation Set M-D will be active from Wednesday, December 2, 2026, at 6:00 p.m. PST, until Wednesday, March 3, 2027, at 5:59 p.m. PST.",
+     "Pokémon that were already eligible for Ranked Battles will stay eligible. They are joined by new competitors such as Heatran, Dondozo, and Tatsugiri.",
+     "The update also brings four Mega Evolutions, including Mega Heatran and Mega Tatsugiri. In total, the set adds 24 new Pokémon for battle.",
+     "To view the full roster in the game, trainers can go to Recruit, select Recruit Pokémon, and then choose Roster Info.",
+     "The game is available on Nintendo Switch, iOS, and Android."
+    ],
+    "url": "https://aldiard.com/en/n/d210f3a5f3.html"
+   }
+  },
+  {
    "id": "aldia-45728aff68",
    "title": "Pikachu y Eevee desfilarán en el Desfile de Acción de Gracias de Macy's número 100",
    "summary": "Pikachu y Eevee participarán en el centenario del tradicional desfile de Macy's. Esto es lo que se sabe sobre su participación.",
@@ -11576,18 +11636,6 @@
    "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
    "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
    "posted": "2026-11-18T20:00:12+00:00"
-  },
-  {
-   "id": "98816c60f14d",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Rayman Legends Retold – \"Dynamite\" Musical Map Trailer – Nintendo Switch 2",
-   "summary": "Are you ready to dance? Get a first look at this brand-new musical level in Rayman Legends Retold, set to a fresh cover of a tune you might recognize!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
-   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
-   "posted": "2026-11-18T17:00:30+00:00"
   }
  ],
  "raw_tech": [
@@ -11608,6 +11656,27 @@
    "checked_at": "2026-11-24T16:14:28+00:00",
    "real_price": 149.0,
    "real_old": 249.0
+  },
+  {
+   "id": "tc68b124a0ac",
+   "title": "LISEN 67\" Phone Tripod/Selfie Stick w/ Auto-Deploy Base & Remote $15",
+   "price": 14.99,
+   "old_price": 33.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20378178-lisen-67-one-hand-open-phone-tripod-selfie-stick-w-bluetooth-remote-black-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22542135.thumb",
+   "posted": "2026-11-25T03:55:14+00:00",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "prio": 15,
+   "refurb": false,
+   "code": "JDY82MQ0",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T03:56:59+00:00",
+   "real_price": 14.99,
+   "real_old": 33.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6f1ae123da1",
@@ -11802,10 +11871,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391132&tid=20391132&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=981e9ab8e88311f192c21e83d656e152&au=baa1583192d54ceab9eb4326532f4d2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T03:52:12+00:00",
    "real_price": 19.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391132&tid=20391132&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=981e9ab8e88311f192c21e83d656e152&au=baa1583192d54ceab9eb4326532f4d2c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "td7ed3384040",
@@ -11838,8 +11907,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=99660d98e88311f1a98842d60bedfcd3&au=de983996784944bab5ab8fe1f7b12c64&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:52:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=44f45b10e88411f1b4f89e245a949712&au=d9e90da1853d43f987cfa97357eec5a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T03:57:02+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -11899,6 +11968,27 @@
    "checked_at": "2026-11-25T01:24:18+00:00",
    "real_price": 14.43,
    "real_old": 22.0
+  },
+  {
+   "id": "t44dadaecc95",
+   "title": "[Prime] Joyroom Foldable Apple Watch Charging Stand w/ 120° Adjustable Viewing Angle (Black) $5.39 + Free Shipping",
+   "price": 5.39,
+   "old_price": 9.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20390862-prime-joyroom-foldable-apple-watch-charging-stand-w-120-adjustable-viewing-angle-black-5-39-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22573704.thumb",
+   "posted": "2026-11-25T01:03:05+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "code": "ATQXYM2Q",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T03:57:04+00:00",
+   "real_price": 5.39,
+   "real_old": 9.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tae4fd31a38e",
@@ -12025,6 +12115,24 @@
    "checked_at": "2026-11-24T23:56:22+00:00",
    "real_price": 69.0,
    "real_old": 99.0
+  },
+  {
+   "id": "tc2b73752de7",
+   "title": "Blackstone Original Pre-Seasoned Outdoor Griddle, 28 inch 2-Burner Flat Top Grill with Omnivore Griddle Top and Hard Cover with Blackstone 28 inch Griddle Cover $179.95",
+   "price": 179.95,
+   "old_price": 226.97,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20390448-blackstone-original-pre-seasoned-outdoor-griddle-28-inch-2-burner-flat-top-grill-with-omnivore-griddle-top-and-hard-cover-with-blackstone-28-inch-griddle-cover-179-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/1/5/0/9/6/9/300x300/22572837.thumb",
+   "posted": "2026-11-24T23:44:39+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T03:57:07+00:00",
+   "real_price": 179.95,
+   "real_old": 226.97,
+   "store_url": "https://www.walmart.com/ip/15321507729"
   },
   {
    "id": "t9028136e0af",
@@ -14509,9 +14617,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15963,66 +16068,6 @@
    "checked_at": "2026-11-24T07:51:46+00:00",
    "real_price": 11.0,
    "real_old": 25.99
-  },
-  {
-   "id": "t15097d1ecaa",
-   "title": "SwissGear 1900 ScanSmart 31L 17\" Laptop Backpack (Navy Ballistic) for $39 (Reg. $99) + Free Shipping",
-   "price": 39.0,
-   "old_price": 99.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383602-swissgear-1900-scansmart-31l-17-laptop-backpack-navy-ballistic-for-39-reg-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22555089.thumb",
-   "posted": "2026-11-24T05:07:00+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383602&tid=20383602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c2625ff0e7d211f1ad93e2f8a6961cda&au=19335eda2c6a4fe5b7f991ebe371bb2a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:46:21+00:00",
-   "real_price": 39.0,
-   "real_old": 99.0
-  },
-  {
-   "id": "t36b4e88b1fd",
-   "title": "TECKNET Bone Conduction Headphones $14.99",
-   "price": 14.99,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383596-tecknet-bone-conduction-headphones-14-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22555125.thumb",
-   "posted": "2026-11-24T05:04:00+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "3W6R98RP",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383596&tid=20383596&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=564c8434e85a11f1a1a69ab9921fe0c0&au=6fddb8fba0534db289b26248fcb3d80f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T22:56:52+00:00",
-   "real_price": 14.99,
-   "real_old": 29.99
-  },
-  {
-   "id": "t1b065563797",
-   "title": "[Prime] 15W Esr MagSafe Car Mount Charger w/ Vent & Dashboard Mount (3.3' Cable Included) $7.59 + Free Shipping",
-   "price": 7.59,
-   "old_price": 18.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20383587-prime-15w-esr-magsafe-car-mount-charger-w-vent-dashboard-mount-3-3-cable-included-7-59-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22555008.thumb",
-   "posted": "2026-11-24T05:01:01+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "WJRHBA2Y",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383587&tid=20383587&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=63febbbae7d311f18f9c42ca7b90c9af&au=98d46137981f44588b8a12bb40c2bc30&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:50:53+00:00",
-   "real_price": 7.59,
-   "real_old": 18.99
   }
  ],
  "tech": [
@@ -16050,6 +16095,33 @@
      "store": "Amazon",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1372887&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1f8f51d4e82211f1b25c661262ce3583&au=364df787dd4245dbb62cd8e1eb817b21&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tc68b124a0ac",
+   "title": "LISEN 67\" Phone Tripod/Selfie Stick",
+   "price": 14.99,
+   "old_price": 33.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22542135.thumb",
+   "posted": "2026-11-25T03:55:14+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "refurb": false,
+   "glitch": false,
+   "code": "JDY82MQ0",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 14.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378178&pno=1373493&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=439d81d8e88411f1b4f89e245a949712&au=cb4b78a510ae4c148a79fe82edd16f31&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16266,6 +16338,33 @@
      "store": "Best Buy",
      "price": 319.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20384328&pno=1373379&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=38c62bace87011f19f90aa2a9418fb79&au=86bbaa91cb0e4084ad4315b12dd6df26&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t44dadaecc95",
+   "title": "[Prime] Joyroom Foldable Apple Watch Charging Stand",
+   "price": 5.39,
+   "old_price": 9.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22573704.thumb",
+   "posted": "2026-11-25T01:03:05+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": "ATQXYM2Q",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 5.39,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390862&tid=20390862&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=466eb26ae88411f198b16abd90e6f5c4&au=2a867ff4cb3d4d74b78fff94e28622ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18574,7 +18673,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19205,61 +19304,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20377113&pno=1372677&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4be46f0e7db11f1a7e4e6f9c0f5dc04&au=52bec3ef925240528579310f6ff2940c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "td412655660e",
-   "title": "HP - OmniBook 3 - 14\" 2K Touchscreen Laptop - Intel Core 3 304 (2026) - 8GB Memory BestBuy- 128GB Storage - Glacier Silver",
-   "price": 319.99,
-   "old_price": 599.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20384328&tid=20384328&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9006cb08e81911f1ba7d3a785a703b11&au=d47e4813e5894ecb828a28ee76a75602&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20384328&tid=20384328&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9006cb08e81911f1ba7d3a785a703b11&au=d47e4813e5894ecb828a28ee76a75602&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22556874.thumb",
-   "posted": "2026-11-24T07:22:05+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 319.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20384328&tid=20384328&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9006cb08e81911f1ba7d3a785a703b11&au=d47e4813e5894ecb828a28ee76a75602&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tfac7c7e3ad2",
-   "title": "WAVLINK 7-in-1 Laptop Docking Station",
-   "price": 25.0,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20347008&pno=1372647&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=426ad4d0e7d711f1951ae623a19e689e&au=6332e8429d9445a2866c595f83782ff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20347008&pno=1372647&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=426ad4d0e7d711f1951ae623a19e689e&au=6332e8429d9445a2866c595f83782ff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22556844.thumb",
-   "posted": "2026-11-24T07:17:12+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 25.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20347008&pno=1372647&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=426ad4d0e7d711f1951ae623a19e689e&au=6332e8429d9445a2866c595f83782ff8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T03:53:12+00:00"
+ "updated": "2026-11-25T03:57:59+00:00"
 }
