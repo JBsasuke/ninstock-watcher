@@ -334,7 +334,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20390805&tid=20390805&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=eba9e624e86a11f18f876ee9af86e50e&au=1ab893735eff4b359a635a9acfe78d65&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:56:41+00:00",
+   "checked_at": "2026-11-25T12:59:23+00:00",
    "real_price": 127.0,
    "real_old": 128.0,
    "category_ok": true
@@ -355,7 +355,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20390805&tid=20390805&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ecce407ce86a11f1b5a0be65d06667c7&au=6b58e6a33df44d25b07022ac00690753&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:56:43+00:00",
+   "checked_at": "2026-11-25T12:59:24+00:00",
    "real_price": 127.0,
    "real_old": 128.0,
    "category_ok": true
@@ -635,7 +635,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T10:56:01+00:00",
+   "checked_at": "2026-11-25T12:59:27+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11498,10 +11498,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385978&pno=1373748&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=86384b22e8cf11f1941072ad2e05b851&au=db3508ad90b5423bb58d1cc69dfc3d69&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:55:43+00:00",
    "real_price": 16.49,
-   "real_old": 29.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385978&pno=1373748&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=86384b22e8cf11f1941072ad2e05b851&au=db3508ad90b5423bb58d1cc69dfc3d69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.99
   },
   {
    "id": "taea1f6bfc88",
@@ -11534,10 +11534,28 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:55:45+00:00",
    "real_price": 71.11,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.99
+  },
+  {
+   "id": "t73a589f3a3c",
+   "title": "46mm Apple Watch Series 11 GPS + Cellular (Slate Titanium w/ Slate Milanese Loop, S/M) $399.50 + Free Shipping",
+   "price": 399.5,
+   "old_price": 799.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20393850-46mm-apple-watch-series-11-gps-cellular-slate-titanium-w-slate-milanese-loop-s-m-399-50-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22581492.thumb",
+   "posted": "2026-11-25T12:39:35+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:00:21+00:00",
+   "real_price": 399.5,
+   "real_old": 799.0,
+   "store_url": "https://www.walmart.com/ip/17824368946"
   },
   {
    "id": "t7fce7df4b4e",
@@ -11664,6 +11682,24 @@
    "checked_at": "2026-11-25T11:10:52+00:00",
    "real_price": 899.99,
    "real_old": 1597.99
+  },
+  {
+   "id": "t22849e025f9",
+   "title": "$79.99 | Zoom G1X Four Guitar Multi-Effects Processor with Expression Pedal at Amazon",
+   "price": 79.99,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393502-79-99-zoom-g1x-four-guitar-multi-effects-processor-with-expression-pedal-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580892.thumb",
+   "posted": "2026-11-25T11:05:09+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:00:23+00:00",
+   "real_price": 79.99,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te7a619987ec",
@@ -11959,6 +11995,24 @@
    "real_old": 22.97
   },
   {
+   "id": "t03a4f6d4db1",
+   "title": "RYOBI ONE+ 30th Anniversary 18V Brushless Cordless Multi-Tool Kit w/ 2Ah Battery, Charger & 1-1/8 in. Wood Blade Set (3PC) $86.97",
+   "price": 86.97,
+   "old_price": 260.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20392917-ryobi-one-30th-anniversary-18v-brushless-cordless-multi-tool-kit-w-2ah-battery-charger-1-1-8-in-wood-blade-set-3pc-86-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579068.thumb",
+   "posted": "2026-11-25T08:12:50+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:00:25+00:00",
+   "real_price": 86.97,
+   "real_old": 260.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392917&tid=20392917&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=2e6627bae8d011f196159668c4e04009&au=7b9f62f010c54767bf22e2e4a775b0ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t368ea8ae984",
    "title": "$219.99: LG S6FTR 5.1 ch. Home Theater Soundbar with Rear Surround Speakers at Amazon",
    "price": 219.99,
@@ -11971,10 +12025,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:55:47+00:00",
    "real_price": 219.99,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392905&tid=20392905&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=88ba87f2e8cf11f1ad284e2eae10b5bf&au=53216c644fdc43ca893dabeeb7ca920b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "tcb0ecea6dd1",
@@ -12065,7 +12119,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": "2026-11-25",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12850,10 +12904,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:55:49+00:00",
    "real_price": 22.91,
-   "real_old": 45.81,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391651&tid=20391651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89da1ef4e8cf11f19286ba4d17c5a071&au=1ac31a9b10f5434d9d6bbb859cf6375d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 45.81
   },
   {
    "id": "td57a763e832",
@@ -13318,8 +13372,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8b4341eee8cf11f1893bc618b39872ef&au=b28a2cd39c0a46379b58d33c3be48a26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:55:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f9c6464e8d011f1860aea05b6b8cbf3&au=af9051997f8342b18f35de0fc71e6338&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T13:00:27+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15852,63 +15906,6 @@
    "checked_at": "2026-11-24T19:27:33+00:00",
    "real_price": 255.0,
    "real_old": 449.99
-  },
-  {
-   "id": "t8514eaa0e92",
-   "title": "10x 1-kg ELEGOO PLA PLA+, Rapid PLA+, ASA 3D Printer Filament (mix & match) from $70 + Free S&H",
-   "price": 70.0,
-   "old_price": 139.0,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20386830-10x-1-kg-elegoo-pla-pla-rapid-pla-asa-3d-printer-filament-mix-match-from-70-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22562157.thumb",
-   "posted": "2026-11-24T15:00:29+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386830&tid=20386830&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8427f89ae83a11f1b4663a2e0ca96ef4&au=8d14a982a7d24276bfe51037b41162ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:09:05+00:00",
-   "real_price": 70.0,
-   "real_old": 139.0
-  },
-  {
-   "id": "t9bcd151ef43",
-   "title": "2-pk 45W wegear Nano Foldable USB-C Wall Charger (Black or White) $12.50",
-   "price": 12.49,
-   "old_price": 26.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20230272-2-pack-wegear-45w-gan-usb-c-nano-charger-block-white-or-black-12-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563513.thumb",
-   "posted": "2026-11-24T14:50:19+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "BOESKB1M",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:54:06+00:00",
-   "real_price": 12.49,
-   "real_old": 26.0
-  },
-  {
-   "id": "t9812940db94",
-   "title": "65\" Samsung M80H Series 4K Mini LED Smart TV (2026) $498 + Free S&H",
-   "price": 498.0,
-   "old_price": 799.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20317398-65-samsung-m80h-series-4k-mini-led-smart-tv-2026-498-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563351.thumb",
-   "posted": "2026-11-24T14:41:59+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20317398&pno=1372848&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cb99da10e81511f1924192797b6adada&au=d3886ce116ee44a884eb3ed9b5342f4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:46:13+00:00",
-   "real_price": 498.0,
-   "real_old": 799.0
   }
  ],
  "tech": [
@@ -15936,6 +15933,33 @@
      "store": "Amazon",
      "price": 71.11,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t73a589f3a3c",
+   "title": "46mm Apple Watch Series 11 GPS + Cellular (Slate Titanium",
+   "price": 399.5,
+   "old_price": 799.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/17824368946",
+   "url": "https://www.walmart.com/ip/17824368946",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22581492.thumb",
+   "posted": "2026-11-25T12:39:35+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 399.5,
+     "url": "https://www.walmart.com/ip/17824368946"
     }
    ]
   },
@@ -16044,6 +16068,33 @@
      "store": "Amazon",
      "price": 899.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t22849e025f9",
+   "title": "Zoom G1X Four Guitar Multi-Effects Processor with Expression Pedal",
+   "price": 79.99,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580892.thumb",
+   "posted": "2026-11-25T11:05:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 79.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19091,61 +19142,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388162&tid=20388162&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=348f9fdae85e11f19e88f6389cdd4239&au=c5cfc3d664b44e8c85b4a2b39c6c6aab&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tc95c825f2c2",
-   "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor + Free S&H",
-   "price": 854.98,
-   "old_price": 1599.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566972.thumb",
-   "posted": "2026-11-24T17:23:37+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 854.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5c88a850bb1",
-   "title": "Samsung Galaxy S26 FE 5G 6.7\" Unlocked Smartphone: 256GB or 128GB + Free S&H",
-   "price": 499.99,
-   "old_price": 699.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566639.thumb",
-   "posted": "2026-11-24T17:09:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 499.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20340138&pno=1372962&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=001dfc1ce82a11f198924631e5823f05&au=427b71a6f1ad4b3aba8901af043fc9b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T12:56:38+00:00"
+ "updated": "2026-11-25T13:01:19+00:00"
 }
