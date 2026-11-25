@@ -593,7 +593,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:16:17+00:00",
+   "checked_at": "2026-11-25T10:19:31+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11699,6 +11699,24 @@
    "real_old": 1599.99
   },
   {
+   "id": "t540863be810",
+   "title": "HP OmniBook 3: 16\" FHD+ IPS, Intel Core 3 304, 8GB RAM, 128GB UFS $299",
+   "price": 299.0,
+   "old_price": 479.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20392716-hp-omnibook-3-16-fhd-ips-intel-core-3-304-8gb-ram-128gb-ufs-299?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22578672.thumb",
+   "posted": "2026-11-25T07:15:16+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T10:20:23+00:00",
+   "real_price": 299.0,
+   "real_old": 479.0,
+   "store_url": "https://www.walmart.com/ip/20208717259"
+  },
+  {
    "id": "tdac461aa80f",
    "title": "16800mAh Magnetic Wireless Power Bank w/ Built-In Cables & 4 Outputs (Black) $12.99 + Free Shipping w/ Prime or on $35+",
    "price": 12.99,
@@ -12237,9 +12255,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12818,8 +12833,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=30a9fd06e8b911f1a5f2de35afce2d72&au=b01409d9b78b4181bc7935ff8a8ac181&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:15:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d4577a96e8b911f1af507285e31ac6a6&au=7541a7f72dd44729aac9a72b17aeee85&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T10:20:25+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15759,6 +15774,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15967,24 +15985,6 @@
    "checked_at": "2026-11-24T13:37:07+00:00",
    "real_price": 17.98,
    "real_old": 60.0
-  },
-  {
-   "id": "tc6a8ec3640d",
-   "title": "[Prime] $5.29* | Minthouz 35W Dual-Port GaN Foldable Wall Charger (USB-C & USB-A) at Amazon",
-   "price": 5.29,
-   "old_price": 8.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385648-prime-5-29-minthouz-35w-dual-port-gan-foldable-wall-charger-usb-c-usb-a-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560282.thumb",
-   "posted": "2026-11-24T12:11:34+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&tid=20385648&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=1dd4cbf0e82011f185e89ea8d337c564&au=baf3a9305aca43a18a778fe750a1c42c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:00:06+00:00",
-   "real_price": 5.29,
-   "real_old": 8.99
   }
  ],
  "tech": [
@@ -16066,6 +16066,33 @@
      "store": "Amazon",
      "price": 1299.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t540863be810",
+   "title": "HP OmniBook 3: 16\" FHD+ IPS, Intel Core 3 304, 8GB RAM, 128GB UFS",
+   "price": 299.0,
+   "old_price": 479.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/20208717259",
+   "url": "https://www.walmart.com/ip/20208717259",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22578672.thumb",
+   "posted": "2026-11-25T07:15:16+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 299.0,
+     "url": "https://www.walmart.com/ip/20208717259"
     }
    ]
   },
@@ -16598,7 +16625,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19194,34 +19221,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386914&tid=20386914&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=9fad8e78e82511f1ab5cea98c3ab4c18&au=eb90192e9d27469c9aed85c5fc2a67ae&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9bcd151ef43",
-   "title": "2-pk 45W wegear Nano Foldable USB-C Wall Charger (Black or White)",
-   "price": 12.49,
-   "old_price": 26.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22563513.thumb",
-   "posted": "2026-11-24T14:50:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "BOESKB1M",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 12.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1372854&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e4ff022ce81611f189c5a287211e2230&au=1ed020f57ae84954b2b89862617f0868&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T10:16:46+00:00"
+ "updated": "2026-11-25T10:21:20+00:00"
 }
