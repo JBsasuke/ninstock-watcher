@@ -740,7 +740,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=5bb422f2e81d11f1be81ee9930747a0f&au=91a7644090c64eaca1e75495e8aa6700&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T03:46:08+00:00",
+   "checked_at": "2026-11-25T09:48:05+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11724,7 +11724,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12210,6 +12210,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12788,8 +12791,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=cbdcbe76e8b411f1aaa3c2e14d85113f&au=962adad07e3c453985f437dfdc5ed1e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:44:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6f2a197ae8b511f1b3aa9ab9921fe0c0&au=7722aab0ff324d5b8bdc9e45c0535766&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:48:58+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16589,7 +16592,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19268,5 +19271,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T09:45:21+00:00"
+ "updated": "2026-11-25T09:49:53+00:00"
 }
