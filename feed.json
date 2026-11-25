@@ -463,7 +463,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:48:48+00:00",
+   "checked_at": "2026-11-25T06:52:03+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1257,7 +1257,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&pno=1372410&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1e7af2d0e7a011f186aee20ac5a09123&au=a2cd6679e7ea4485a2c97e48001ce229&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:51:23+00:00",
+   "checked_at": "2026-11-25T06:52:00+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1278,7 +1278,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c16bba0e7a011f1bcbd96fe147dd7f2&au=293c1ddb301a4311beaf1e247c569169&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:51:18+00:00",
+   "checked_at": "2026-11-25T06:51:55+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -1299,7 +1299,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d664f16e7a011f18cef22f10dfae1bd&au=0a5300df3e914c8e8f95c174274ab129&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:51:20+00:00",
+   "checked_at": "2026-11-25T06:51:58+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11577,6 +11577,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t2f71ae75f11",
+   "title": "Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics (Graphite) $72 + Free S&H w/ Prime",
+   "price": 71.99,
+   "old_price": 119.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20392449-logitech-mx-master-4-ergonomic-wireless-mouse-with-haptics-graphite-71-99-free-s-h-w-prime-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578612.thumb",
+   "posted": "2026-11-25T06:50:09+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "20MOUSE",
+   "code_until": "2026-11-25",
+   "promo": null,
+   "checked_at": "2026-11-25T06:52:59+00:00",
+   "real_price": 71.99,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d971c314e89c11f18687ead78a0a5c38&au=fecfd80b075748f2b37feb4ebade27b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td31d86dad7a",
    "title": "Apple Watch Ultra (Grade A Refurbished) w/ 1-Year Warranty $271 + Free S&H w/ Prime",
    "price": 270.99,
@@ -11589,10 +11610,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:48:08+00:00",
-   "real_price": 270.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 270.99
   },
   {
    "id": "t16f0b410b0c",
@@ -11607,10 +11627,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/14822456361",
    "checked_at": "2026-11-25T06:48:10+00:00",
    "real_price": 199.0,
-   "real_old": 349.0,
-   "store_url": "https://www.walmart.com/ip/14822456361"
+   "real_old": 349.0
   },
   {
    "id": "te9445f20325",
@@ -12085,10 +12105,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/1306600025",
    "checked_at": "2026-11-25T06:48:13+00:00",
    "real_price": 36.99,
-   "real_old": 79.99,
-   "store_url": "https://www.walmart.com/ip/1306600025"
+   "real_old": 79.99
   },
   {
    "id": "t6ea21880626",
@@ -12355,8 +12375,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=30acf5f0e89c11f191baeab3c3ff5ade&au=3c186e5be80b42df8c19ff30099f4cd1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:48:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dac879e2e89c11f1b71796d65cddf46e&au=94579465ee59472e91951d37749f9237&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T06:53:01+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15977,27 +15997,36 @@
    "checked_at": "2026-11-24T09:36:58+00:00",
    "real_price": 7.59,
    "real_old": 15.99
-  },
-  {
-   "id": "t067fb6a0f02",
-   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (3 colors) $39.99 + Free Shipping",
-   "price": 39.99,
-   "old_price": 84.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20384817-jlab-jbuds-lux-anc-wireless-over-ear-headphones-3-colors-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22557981.thumb",
-   "posted": "2026-11-24T09:30:00+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20384817&tid=20384817&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a4f66814e7fd11f181c62e7fc0556dec&au=b4eec33d9c0148dca7a0e517f95ae491&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T11:53:21+00:00",
-   "real_price": 39.99,
-   "real_old": 84.99
   }
  ],
  "tech": [
+  {
+   "id": "t2f71ae75f11",
+   "title": "Logitech MX Master 4 Ergonomic Wireless Mouse",
+   "price": 71.99,
+   "old_price": 119.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d971c314e89c11f18687ead78a0a5c38&au=fecfd80b075748f2b37feb4ebade27b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d971c314e89c11f18687ead78a0a5c38&au=fecfd80b075748f2b37feb4ebade27b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578612.thumb",
+   "posted": "2026-11-25T06:50:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "20MOUSE",
+   "code_until": "2026-11-25",
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 71.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d971c314e89c11f18687ead78a0a5c38&au=fecfd80b075748f2b37feb4ebade27b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "td31d86dad7a",
    "title": "Apple Watch Ultra (Grade A Refurbished)",
@@ -19204,34 +19233,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383272&pno=1372803&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a60306ce80911f1909ceebc583ae364&au=c96cc09edce14333b155f911d8bac76e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t440ead1df7c",
-   "title": "2-Pk Jeenek 100W USB-C Fast Charger",
-   "price": 14.24,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/4/0/4/0/0/9/300x300/22558968.thumb",
-   "posted": "2026-11-24T13:06:07+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.24,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T06:49:06+00:00"
+ "updated": "2026-11-25T06:53:54+00:00"
 }
