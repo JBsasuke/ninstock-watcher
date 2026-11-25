@@ -14,13 +14,13 @@
    "posted": "2026-11-25T10:45:58+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T10:46:48+00:00",
-   "category_ok": false,
-   "real_price": 47.39,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=83e1b8fce8bd11f19d2c863ad210ac0e&au=419251c0777341c5b02282f52431d2f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T10:46:48+00:00",
+   "real_price": 47.39,
+   "real_old": 69.99,
+   "category_ok": false
   },
   {
    "id": "afa07c5ef230",
@@ -35,13 +35,13 @@
    "posted": "2026-11-25T10:45:58+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T10:46:50+00:00",
-   "category_ok": false,
-   "real_price": 47.39,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=84facee0e8bd11f186289619659f957d&au=0246afee4f8a4faaa57e757acca7a038&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T10:46:50+00:00",
+   "real_price": 47.39,
+   "real_old": 69.99,
+   "category_ok": false
   },
   {
    "id": "bb2e4ba8e8bf",
@@ -738,7 +738,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367816&pno=1372938&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=94476a94e82611f1b869ee654f1d2dfa&au=55c150176b274be88d91d73f98bf30d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:48:45+00:00",
+   "checked_at": "2026-11-25T10:51:26+00:00",
    "real_price": 48.97,
    "real_old": 69.99,
    "category_ok": true
@@ -11538,7 +11538,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -11586,6 +11586,24 @@
    "checked_at": "2026-11-25T10:12:58+00:00",
    "real_price": 19.99,
    "real_old": 59.99
+  },
+  {
+   "id": "tfad9b7066a6",
+   "title": "Milwaukee 2105 100-Lumen Aluminum LED Pen Light w/ Clip (IP67 Waterproof) $14.74 + Free Shipping w/ Prime or on $35+",
+   "price": 14.74,
+   "old_price": 19.97,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393154-milwaukee-2105-100-lumen-aluminum-led-pen-light-w-clip-ip67-waterproof-14-74-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22579734.thumb",
+   "posted": "2026-11-25T09:41:44+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T10:52:19+00:00",
+   "real_price": 14.74,
+   "real_old": 19.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393154&tid=20393154&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=4925bd16e8be11f183f37a55f551cdc8&au=c7e5fe0c8d72491581d8c0e06d0dcb59&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tbee5aa7c403",
@@ -11763,7 +11781,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12073,10 +12091,10 @@
    "code": "QXXHWQJE",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392299&tid=20392299&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6ac6878e8bd11f183c42a916d1f14a1&au=957bbb5255124156b4dfbca196971a8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:47:47+00:00",
    "real_price": 7.03,
-   "real_old": 15.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392299&tid=20392299&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6ac6878e8bd11f183c42a916d1f14a1&au=957bbb5255124156b4dfbca196971a8a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 15.99
   },
   {
    "id": "taafbe65788e",
@@ -12851,8 +12869,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a8313714e8bd11f1a3b3c2e14d85113f&au=a107cb4ac2004a33be2068fc56d4fe04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:47:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4aa10948e8be11f189bdde35afce2d72&au=358e896e131a424f99a1aed25776dec2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T10:52:22+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15949,24 +15967,6 @@
    "checked_at": "2026-11-24T13:12:32+00:00",
    "real_price": 29.99,
    "real_old": 99.99
-  },
-  {
-   "id": "t47ac63e8330",
-   "title": "1800 Watt EcoFlow Delta 3 Classic + Magnetic Charging Power Bank $299.98",
-   "price": 299.98,
-   "old_price": 499.99,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20385732-1800-watt-ecoflow-delta-3-classic-magnetic-charging-power-bank-299-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22568160.thumb",
-   "posted": "2026-11-24T12:23:36+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T18:26:50+00:00",
-   "real_price": 299.98,
-   "real_old": 499.99
   }
  ],
  "tech": [
@@ -15987,7 +15987,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19205,5 +19205,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T10:48:41+00:00"
+ "updated": "2026-11-25T10:53:13+00:00"
 }
