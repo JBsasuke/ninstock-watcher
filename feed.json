@@ -182,6 +182,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -658,7 +660,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T10:19:31+00:00",
+   "checked_at": "2026-11-25T12:22:38+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1202,7 +1204,7 @@
    "id": "c6b28a282a23",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 76.0,
+   "old_price": 77.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -1214,16 +1216,16 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:18:42+00:00",
+   "checked_at": "2026-11-25T12:22:29+00:00",
    "real_price": 17.97,
-   "real_old": 76.0,
+   "real_old": 77.0,
    "category_ok": true
   },
   {
    "id": "4f6a03202f19",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 76.0,
+   "old_price": 77.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -1235,9 +1237,9 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:18:45+00:00",
+   "checked_at": "2026-11-25T12:22:31+00:00",
    "real_price": 17.97,
-   "real_old": 76.0,
+   "real_old": 77.0,
    "category_ok": true
   },
   {
@@ -1574,7 +1576,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:18:48+00:00",
+   "checked_at": "2026-11-25T12:22:33+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -1595,7 +1597,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:18:51+00:00",
+   "checked_at": "2026-11-25T12:22:35+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11527,6 +11529,24 @@
    "real_old": 19.97
   },
   {
+   "id": "t585098d5da9",
+   "title": "27\" MSI MAG 274CQPDF X32 1440P 320Hz IPS Gaming Monitor $194.45",
+   "price": 194.45,
+   "old_price": 279.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393670-27-msi-mag-274cqpdf-x32-1440p-320hz-ips-gaming-monitor-194-45?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22581147.thumb",
+   "posted": "2026-11-25T11:57:30+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-25T12:23:31+00:00",
+   "real_price": 194.45,
+   "real_old": 279.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393670&tid=20393670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0679f5f6e8cb11f1ae422a916d1f14a1&au=b2d6779048a34a388085ec318f3c6a1b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4d83c11f989",
    "title": "10x 1kg ELEGOO PLA PLA+, Rapid PLA+, ASA, & More 3D Printer Filament Rolls from $70 + Free S&H",
    "price": 70.0,
@@ -11962,7 +11982,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": null,
+   "code_until": "2026-11-25",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -12580,9 +12600,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -13161,8 +13178,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9776fcb2e8ca11f1ae323295aa46e244&au=c24357ac51334eea9f02003578409882&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:20:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=07bc6016e8cb11f1bd8276a6fa3bae94&au=1d110c9fa9f84ed7a123dd6b91ed38ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T12:23:33+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15254,10 +15271,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387622&tid=20387622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=98b889c4e8ca11f181621ef0c9e233e5&au=c2ea62bd0e1443b189fc940111ce294f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T12:20:27+00:00",
    "real_price": 429.99,
-   "real_old": 649.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387622&tid=20387622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=98b889c4e8ca11f181621ef0c9e233e5&au=c2ea62bd0e1443b189fc940111ce294f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 649.99
   },
   {
    "id": "tf4eff67aacd",
@@ -15923,30 +15940,36 @@
    "checked_at": "2026-11-24T22:01:04+00:00",
    "real_price": 11.99,
    "real_old": 14.99
-  },
-  {
-   "id": "td01ee012a80",
-   "title": "KitchenAid 5.5-Quart Bowl Lift Stand Mixer & Accessories $249.98 + Free Shipping",
-   "price": 249.98,
-   "old_price": 499.0,
-   "store": "QVC",
-   "url": "https://slickdeals.net/f/20386410-kitchenaid-5-5-quart-bowl-lift-stand-mixer-accessories-249-98-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22562406.thumb",
-   "posted": "2026-11-24T14:03:47+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "CELEBRATE",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+QVC&sdtid=20386410&tid=20386410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9c794280e81411f1a846d295a8c6b196&au=ae0783c7b46d422b830e7aaac52992ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T14:37:45+00:00",
-   "real_price": 249.98,
-   "real_old": 499.0
   }
  ],
  "tech": [
+  {
+   "id": "t585098d5da9",
+   "title": "27\" MSI MAG 274CQPDF X32 1440P 320Hz IPS Gaming Monitor",
+   "price": 194.45,
+   "old_price": 279.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393670&tid=20393670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0679f5f6e8cb11f1ae422a916d1f14a1&au=b2d6779048a34a388085ec318f3c6a1b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393670&tid=20393670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0679f5f6e8cb11f1ae422a916d1f14a1&au=b2d6779048a34a388085ec318f3c6a1b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22581147.thumb",
+   "posted": "2026-11-25T11:57:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 194.45,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393670&tid=20393670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0679f5f6e8cb11f1ae422a916d1f14a1&au=b2d6779048a34a388085ec318f3c6a1b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t417ae34125f",
    "title": "Apple Watch Series 11 46mm",
@@ -16908,7 +16931,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19153,34 +19176,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387748&tid=20387748&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dc3e992ae85e11f1aa6e564b66b64140&au=3b38dc498f834c7287fab9ec777478ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te53ae10a33d",
-   "title": "Lenovo Legion Tab Gen 5: 8.8\" 3K 165Hz IPS, Snapdragon 8 Elite Gen 5, 12GB LPDDR5, 256GB UFS",
-   "price": 581.99,
-   "old_price": 899.99,
-   "store": "Lenovo",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&tid=20387742&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ee7092ae82f11f1b0124a87dd3691a6&au=f335f99c664d4f0c982e3ac46882d2f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&tid=20387742&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ee7092ae82f11f1b0124a87dd3691a6&au=f335f99c664d4f0c982e3ac46882d2f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22565970.thumb",
-   "posted": "2026-11-24T16:37:50+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lenovo",
-     "price": 581.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&tid=20387742&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ee7092ae82f11f1b0124a87dd3691a6&au=f335f99c664d4f0c982e3ac46882d2f3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T12:21:23+00:00"
+ "updated": "2026-11-25T12:24:26+00:00"
 }
