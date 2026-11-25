@@ -56,8 +56,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11600,6 +11598,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tcb0ecea6dd1",
+   "title": "CyberPowerPC Desktop: i7-14700F, RTX 5060 Ti 8GB, 16GB DDR5, 1TB SSD $1300 + Free S&H",
+   "price": 1299.99,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20368752-cyberpowerpc-gamer-xtreme-gaming-pc-i7-14700f-rtx-5060-ti-8gb-16gb-ddr5-1tb-pcie-4-0-ssd-1299-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578762.thumb",
+   "posted": "2026-11-25T07:25:34+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T07:30:04+00:00",
+   "real_price": 1299.99,
+   "real_old": 1599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2f71ae75f11",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics (Graphite) $72 + Free S&H w/ Prime",
    "price": 71.99,
@@ -11771,6 +11787,27 @@
    "checked_at": "2026-11-25T06:43:24+00:00",
    "real_price": 399.99,
    "real_old": 649.99
+  },
+  {
+   "id": "te605b9453d7",
+   "title": "Thermaltake LCGS Versa i570S: i9-14900KF, RTX 5070, 32GB DDR5, 1TB SSD $1745.99",
+   "price": 1745.99,
+   "old_price": 2199.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20392425-thermaltake-lcgs-versa-i570s-i9-14900kf-rtx-5070-32gb-ddr5-1tb-ssd-1745-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22578015.thumb",
+   "posted": "2026-11-25T06:03:23+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T07:30:07+00:00",
+   "real_price": 1745.99,
+   "real_old": 2199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "ta4838d0673a",
@@ -12419,8 +12456,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5d27a878e8a111f1a86edeb831a62868&au=9b9e76cb51394904965ad79943e2ac2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T07:25:17+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0ae2aae4e8a211f1b0ebea9025c1022d&au=509d7e44e4b7473a9f411c19e0671df9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T07:30:09+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15984,45 +16021,36 @@
    "checked_at": "2026-11-24T13:55:48+00:00",
    "real_price": 167.0,
    "real_old": 359.0
-  },
-  {
-   "id": "t8b477393193",
-   "title": "AMD Ryzen 7 9850X3D 8-Core Desktop AM5 Processor $400 + Free S&H",
-   "price": 399.99,
-   "old_price": 499.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20377965-ac-399-99-amd-ryzen-7-9850x3d-8-core-desktop-am5-processor-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22558095.thumb",
-   "posted": "2026-11-24T09:34:25+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377965&pno=1372731&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=96c3c1a0e7ea11f19d12b64f9e818762&au=3353683092104bc9b288f970455749dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T09:36:56+00:00",
-   "real_price": 399.99,
-   "real_old": 499.0
-  },
-  {
-   "id": "t84695fcdf1d",
-   "title": "AMD Ryzen 7 9850X3D 8-Core Desktop AM5 Processor $400 + Free S&H",
-   "price": 399.99,
-   "old_price": 499.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20377965-amd-ryzen-7-9850x3d-8-core-desktop-am5-processor-400-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22558095.thumb",
-   "posted": "2026-11-24T09:34:25+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377965&pno=1372731&prop=diavail-true%7Cdincp-1%7Cdinpd-10%7Cdipgavail-true&pv=20646486e84111f1af90322fa3a4697c&au=49d633a886434dc7bef651039910e8d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T19:56:24+00:00",
-   "real_price": 399.99,
-   "real_old": 499.0
   }
  ],
  "tech": [
+  {
+   "id": "tcb0ecea6dd1",
+   "title": "CyberPowerPC Desktop: i7-14700F, RTX 5060 Ti 8GB, 16GB DDR5, 1TB SSD + Free S&H",
+   "price": 1299.99,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578762.thumb",
+   "posted": "2026-11-25T07:25:34+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1299.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t2f71ae75f11",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse",
@@ -16182,6 +16210,33 @@
      "store": "Best Buy",
      "price": 399.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&tid=20392434&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=365042fce89a11f1bf883acabd27a35c&au=89f0fe765ae04774af6f058d42f5213d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "te605b9453d7",
+   "title": "Thermaltake LCGS Versa i570S: i9-14900KF, RTX 5070, 32GB DDR5, 1TB SSD",
+   "price": 1745.99,
+   "old_price": 2199.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22578015.thumb",
+   "posted": "2026-11-25T06:03:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 1745.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19202,61 +19257,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386212&tid=20386212&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7892960ee85611f1b5e83295aa46e244&au=e4f7c20712e5444ab585bb76f4710c1c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t81c92cd8f2a",
-   "title": "JOIOT Adjustable Aluminum Laptop Stand, Ergonomic Riser for 11-16\" Laptops",
-   "price": 19.99,
-   "old_price": 23.74,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/9/6/9/300x300/22561713.thumb",
-   "posted": "2026-11-24T13:39:37+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 19.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386206&tid=20386206&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c43f420e81711f1ba8f8ac1ac0739c8&au=d427c36a21264c1291f60f9ec718a3a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t69744099782",
-   "title": "JBL Tune 510BT Wireless On-Ear Headphones (Black)",
-   "price": 19.94,
-   "old_price": 39.04,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383272&pno=1372803&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a60306ce80911f1909ceebc583ae364&au=c96cc09edce14333b155f911d8bac76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383272&pno=1372803&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a60306ce80911f1909ceebc583ae364&au=c96cc09edce14333b155f911d8bac76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22554393.thumb",
-   "posted": "2026-11-24T13:15:28+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 19.94,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383272&pno=1372803&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5a60306ce80911f1909ceebc583ae364&au=c96cc09edce14333b155f911d8bac76e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T07:26:15+00:00"
+ "updated": "2026-11-25T07:31:05+00:00"
 }
