@@ -466,6 +466,27 @@
    "category_ok": true
   },
   {
+   "id": "36b232f8e3fa",
+   "title": "$29.99* | High on Life 2 (Nintendo Switch 2, Game-Key Card) at Amazon",
+   "price": 29.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20391630-29-99-high-on-life-2-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22575876.thumb",
+   "posted": "2026-11-25T03:34:46+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:22:36+00:00",
+   "category_ok": true,
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=0b23b3dae8e411f18674f2c8783961b3&au=e49082cdf5e24285982f3970ac7fa26a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "82b19ad9c8f2",
    "title": "$20 Best Buy RollerCoaster Tycoon 3 Complete Edition - Nintendo Switch",
    "price": 127.0,
@@ -737,7 +758,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=96c8903ae84a11f1a793ee28fcd547bf&au=499b9fa2051b42b1ab20929103d523f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:16:01+00:00",
+   "checked_at": "2026-11-25T15:22:39+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -1828,7 +1849,7 @@
    "store_url": "https://www.walmart.com/ip/19492359868",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:20:40+00:00",
+   "checked_at": "2026-11-25T15:22:46+00:00",
    "real_price": 24.88,
    "real_old": 49.99,
    "category_ok": true
@@ -1849,7 +1870,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52c2dd6ee78211f1a3d5be4ed0ec16f4&au=fbf7382c99ab4200aad873cd8f4a793f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:20:36+00:00",
+   "checked_at": "2026-11-25T15:22:41+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -1870,7 +1891,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5417526ce78211f194de16b5dfe6cbc7&au=4db4f73b515c4582a77f6f28d3e055e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:20:38+00:00",
+   "checked_at": "2026-11-25T15:22:44+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -3176,27 +3197,6 @@
    "real_old": 79.99,
    "category_ok": true,
    "expired": true
-  },
-  {
-   "id": "33dbaaa03aa1",
-   "title": "Red Dead Redemption + Undead Nightmare (Nintendo Switch) $15 @ Walmart",
-   "price": 15.0,
-   "old_price": 29.83,
-   "store": "Walmart",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20374068-red-dead-redemption-undead-nightmare-nintendo-switch-15-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22531365.thumb",
-   "posted": "2026-11-23T05:46:03+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "checked_at": "2026-11-25T13:59:32+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 29.83,
-   "store_url": "https://www.walmart.com/ip/17805560597",
-   "page_checked": true,
-   "link_v": 3
   }
  ],
  "deku_checked": "2026-11-25T14:26:42+00:00",
@@ -11519,10 +11519,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/5025827505",
    "checked_at": "2026-11-25T15:13:54+00:00",
    "real_price": 19.97,
-   "real_old": 24.96,
-   "store_url": "https://www.walmart.com/ip/5025827505"
+   "real_old": 24.96
   },
   {
    "id": "t3ff8bc3bf39",
@@ -11652,6 +11652,24 @@
    "checked_at": "2026-11-25T14:13:13+00:00",
    "real_price": 899.99,
    "real_old": 1429.99
+  },
+  {
+   "id": "t4bcb0ef1103",
+   "title": "$45.14: GTRACING Gaming Desk, RGB LED Lights, Power Outlet, Monitor Stand, Black at Walmart.com",
+   "price": 45.14,
+   "old_price": 88.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20394321-45-14-gtracing-gaming-desk-rgb-led-lights-power-outlet-monitor-stand-black-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22582593.thumb",
+   "posted": "2026-11-25T13:55:15+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:23:45+00:00",
+   "real_price": 45.14,
+   "real_old": 88.0,
+   "store_url": "https://www.walmart.com/ip/16665152313"
   },
   {
    "id": "t60f6034d173",
@@ -13910,8 +13928,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d68af7ece8e211f19d84b655d609ea7e&au=bb6e3a03edc74366a2aac2d0a6007ca7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:13:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=35d9e266e8e411f1a5a2eaef9dc5a9f8&au=808582d6ec384b0aa848749b69605e21&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T15:23:48+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14904,6 +14922,24 @@
    "real_old": 844.99
   },
   {
+   "id": "t590f2824b47",
+   "title": "Beckham Hotel Collection Mattress Protectors (King) Viscose or Cotton Blend $20 w/ Prime s/h",
+   "price": 20.0,
+   "old_price": 57.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389386-beckham-hotel-collection-mattress-protectors-king-viscose-or-cotton-blend-20-w-prime-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22570497.thumb",
+   "posted": "2026-11-24T20:43:32+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:23:50+00:00",
+   "real_price": 20.0,
+   "real_old": 57.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389386&tid=20389386&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=371cf7f8e8e411f19e33b655d609ea7e&au=1f262776559b4123aaae0205df295550&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t84230817f69",
    "title": "Pocket Juice 20,000mAh Slim Pro Portable Power Bank w/ USB-C & Dual USB-A $9",
    "price": 9.0,
@@ -15175,6 +15211,24 @@
    "checked_at": "2026-11-24T20:31:44+00:00",
    "real_price": 20.0,
    "real_old": 349.99
+  },
+  {
+   "id": "t1547a7091b2",
+   "title": "$3499.99* | LG 77 inch Class OLED evo AI W6 4K Smart TV 2026 at Amazon",
+   "price": 3499.99,
+   "old_price": 5499.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389062-3499-99-lg-77-inch-class-oled-evo-ai-w6-4k-smart-tv-2026-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22569447.thumb",
+   "posted": "2026-11-24T19:45:02+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T15:23:52+00:00",
+   "real_price": 3499.99,
+   "real_old": 5499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389062&tid=20389062&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3844f1bce8e411f18bebbe9fe087b803&au=b7485c1f854c4c35a7e46b9b6bef787d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6c20e218193",
@@ -15857,60 +15911,6 @@
    "checked_at": "2026-11-24T17:30:06+00:00",
    "real_price": 899.99,
    "real_old": 1199.99
-  },
-  {
-   "id": "tc95c825f2c2",
-   "title": "49\" Samsung Odyssey G93SC DQHD QD-OLED 240Hz Ultrawide Curved Monitor $855 + Free S&H",
-   "price": 854.98,
-   "old_price": 1599.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20358648-samsung-49-odyssey-g93sc-qd-oled-curved-gaming-monitor-854-98-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22566972.thumb",
-   "posted": "2026-11-24T17:23:37+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20358648&pno=1372983&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0982cc18e82c11f1ac01a65555818cd2&au=62d8f74a7d8d44cbb6c5dbc69d9d892b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:25:26+00:00",
-   "real_price": 854.98,
-   "real_old": 1599.99
-  },
-  {
-   "id": "te1582ea8324",
-   "title": "DeWALT 20V MAX Cordless Drill + Impact Driver Combo Kit w/ 2x 1.3Ah Batteries $129 + Free S&H",
-   "price": 129.0,
-   "old_price": 239.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20380647-129-dewalt-20v-max-cordless-drill-impact-driver-combo-kit-w-2x-1-3ah-batteries-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22551831.thumb",
-   "posted": "2026-11-24T17:16:41+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380647&pno=1372980&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55be19a8e82b11f1b42c7e1be0eec0f3&au=31d014b0c3a345cba0a076a97309617c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:20:25+00:00",
-   "real_price": 129.0,
-   "real_old": 239.0
-  },
-  {
-   "id": "t9ea2c502fa5",
-   "title": "Cuisinart 1800W Air Fryer Toaster Oven (Stainless Steel Finish) $100 + Free S&H",
-   "price": 99.99,
-   "old_price": 229.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20369238-99-99-cuisinart-air-fryer-toaster-oven-7-in-1-1800w-stainless-steel-ctoa-122nas?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22520979.thumb",
-   "posted": "2026-11-24T17:16:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20369238&pno=1372971&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=570694ace82b11f1952612c3402d77cf&au=b019191bd2d04600b76103a97b3b8d3a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:20:27+00:00",
-   "real_price": 99.99,
-   "real_old": 229.99
   }
  ],
  "tech": [
@@ -16046,6 +16046,33 @@
      "store": "Best Buy",
      "price": 899.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t4bcb0ef1103",
+   "title": ": GTRACING Gaming Desk, RGB LED Lights, Power Outlet, Monitor Stand, Black",
+   "price": 45.14,
+   "old_price": 88.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/16665152313",
+   "url": "https://www.walmart.com/ip/16665152313",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22582593.thumb",
+   "posted": "2026-11-25T13:55:15+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 45.14,
+     "url": "https://www.walmart.com/ip/16665152313"
     }
    ]
   },
@@ -19068,6 +19095,33 @@
    ]
   },
   {
+   "id": "t1547a7091b2",
+   "title": "LG 77 inch Class OLED evo AI W6 4K Smart TV 2026",
+   "price": 3499.99,
+   "old_price": 5499.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389062&tid=20389062&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3844f1bce8e411f18bebbe9fe087b803&au=b7485c1f854c4c35a7e46b9b6bef787d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389062&tid=20389062&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3844f1bce8e411f18bebbe9fe087b803&au=b7485c1f854c4c35a7e46b9b6bef787d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22569447.thumb",
+   "posted": "2026-11-24T19:45:02+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 3499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389062&tid=20389062&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3844f1bce8e411f18bebbe9fe087b803&au=b7485c1f854c4c35a7e46b9b6bef787d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t6c20e218193",
    "title": "MAG 341CQP QD-OLED X28 + MPG MT201R V2",
    "price": 40.0,
@@ -19093,61 +19147,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389056&tid=20389056&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b5b2a38e84111f1b8d69654d370949e&au=88338357cd2b4b44af08280ba0236c7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t7668782b10c",
-   "title": "Sonos Ultimate Immersive Set: Arc Ultra Soundbar + Sub 4 Subwoofer + Era 300 Speakers (Pair, white or black) 5.1.4 Dolby Atmos Home Theater System",
-   "price": 2199.0,
-   "old_price": 2996.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388975&tid=20388975&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dac1dd1ee85e11f19dc82a32ae51b81c&au=a4aa1f94ee784b29bd93347ddb5c8421&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388975&tid=20388975&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dac1dd1ee85e11f19dc82a32ae51b81c&au=a4aa1f94ee784b29bd93347ddb5c8421&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/6/3/5/4/7/1/300x300/22569192.thumb",
-   "posted": "2026-11-24T19:33:40+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 2199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388975&tid=20388975&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=dac1dd1ee85e11f19dc82a32ae51b81c&au=a4aa1f94ee784b29bd93347ddb5c8421&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "te60974dbe74",
-   "title": "Baseus 5000mAh 15W Magnetic Portable Charger",
-   "price": 14.69,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388954&tid=20388954&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=58039464e84811f1bec62a8aae4cbb64&au=fc1315b901504180ac76c929419f1c8e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388954&tid=20388954&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=58039464e84811f1bec62a8aae4cbb64&au=fc1315b901504180ac76c929419f1c8e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22569120.thumb",
-   "posted": "2026-11-24T19:31:32+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "QRRDGCNF",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 14.69,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388954&tid=20388954&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=58039464e84811f1bec62a8aae4cbb64&au=fc1315b901504180ac76c929419f1c8e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T15:14:52+00:00"
+ "updated": "2026-11-25T15:24:46+00:00"
 }
