@@ -161,8 +161,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -334,10 +332,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80ff1f42e85b11f1bd3d52a93c12b4af&au=23e42684bd1a4ef1a040f9264bc72e89&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:07:56+00:00",
+   "checked_at": "2026-11-25T11:09:52+00:00",
    "real_price": 83.72,
    "real_old": 120.0,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "df693039d0f3",
@@ -355,10 +354,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20390181&tid=20390181&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=82193412e85b11f1850a7e20dcc2ad43&au=bfb1f0879f3e4a52b8c17ef3adbfb52a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:07:58+00:00",
+   "checked_at": "2026-11-25T11:09:54+00:00",
    "real_price": 83.72,
    "real_old": 120.0,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "d8cf93617131",
@@ -1064,7 +1064,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:08:01+00:00",
+   "checked_at": "2026-11-25T11:09:57+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -1085,7 +1085,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7e96df3ee7f611f1bef92e7fc0556dec&au=7ba28ce00ade4f6581f38ca4a2f13771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:08:03+00:00",
+   "checked_at": "2026-11-25T11:09:59+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11527,6 +11527,24 @@
  ],
  "raw_tech": [
   {
+   "id": "td1595fccdce",
+   "title": "65\" Samsung S85H Series OLED 4K 120Hz Smart TV (2026) $900 + Free S&H",
+   "price": 899.99,
+   "old_price": 1597.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20391480-899-99-samsung-65-inch-class-s85h-series-oled-4k-120hz-smart-tv-2026-model-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576314.thumb",
+   "posted": "2026-11-25T11:05:19+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:10:52+00:00",
+   "real_price": 899.99,
+   "real_old": 1597.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te7a619987ec",
    "title": "2-Pk 64GB Amazon Basics A2 U3 microSDXC Memory Card w/ Adapter $18 + Free S&H w/ Amazon Prime",
    "price": 18.0,
@@ -11895,10 +11913,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T11:06:14+00:00",
    "real_price": 104.64,
-   "real_old": 159.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 159.95
   },
   {
    "id": "t77e37166f69",
@@ -12889,8 +12907,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3bde196ce8c011f19cb18647fde6dc56&au=92ec3dfc252845b180a39236f7bcc2da&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:06:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e1e9ffece8c011f1976a9619659f957d&au=bf40fd1eb88e40408f4b1e9dc7174b72&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:10:55+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15951,27 +15969,36 @@
    "checked_at": "2026-11-24T18:42:10+00:00",
    "real_price": 178.96,
    "real_old": 349.99
-  },
-  {
-   "id": "t68aec35f620",
-   "title": "[AC] $18.89 | Baseus Picogo Power Bank, Smallest 5000mAh Magnetic Portable Charger with Stand at Amazon",
-   "price": 18.89,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385759-ac-18-89-baseus-picogo-power-bank-smallest-5000mah-magnetic-portable-charger-with-stand-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560504.thumb",
-   "posted": "2026-11-24T12:26:38+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385759&tid=20385759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ba6ee98e80911f1891d3a785a703b11&au=00226c0150024e6091b847cf34765851&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:17:12+00:00",
-   "real_price": 18.89,
-   "real_old": 49.99
   }
  ],
  "tech": [
+  {
+   "id": "td1595fccdce",
+   "title": "65\" Samsung S85H Series OLED 4K 120Hz Smart TV (2026) + Free S&H",
+   "price": 899.99,
+   "old_price": 1597.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576314.thumb",
+   "posted": "2026-11-25T11:05:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 899.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "te7a619987ec",
    "title": "2-Pk 64GB Amazon Basics A2 U3 microSDXC Memory Card",
@@ -19178,34 +19205,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387034&tid=20387034&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7886aa72e82111f1a15812c3402d77cf&au=e15230563bdb48afa2558ba3188b034a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tbd0ff41fe31",
-   "title": ": Ghost of Tsushima DIRECTOR'S CUT - PC [Steam Code, UNITED STATES]",
-   "price": 24.99,
-   "old_price": 59.99,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20387019&tid=20387019&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=592a3e9ce84811f1a522ee1b736599e9&au=cc16cce965da4b1989b4b23a69db4983&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20387019&tid=20387019&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=592a3e9ce84811f1a522ee1b736599e9&au=cc16cce965da4b1989b4b23a69db4983&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22564233.thumb",
-   "posted": "2026-11-24T15:21:17+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "refurb": false,
-   "glitch": false,
-   "code": "2DBF26DG",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 24.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20387019&tid=20387019&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=592a3e9ce84811f1a522ee1b736599e9&au=cc16cce965da4b1989b4b23a69db4983&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T11:07:07+00:00"
+ "updated": "2026-11-25T11:11:45+00:00"
 }
