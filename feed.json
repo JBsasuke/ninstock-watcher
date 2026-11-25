@@ -161,6 +161,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -587,7 +589,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:53:11+00:00",
+   "checked_at": "2026-11-25T10:56:01+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1125,7 +1127,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:53:44+00:00",
+   "checked_at": "2026-11-25T10:55:58+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -11600,10 +11602,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393154&tid=20393154&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=4925bd16e8be11f183f37a55f551cdc8&au=c7e5fe0c8d72491581d8c0e06d0dcb59&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:52:19+00:00",
    "real_price": 14.74,
-   "real_old": 19.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393154&tid=20393154&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=4925bd16e8be11f183f37a55f551cdc8&au=c7e5fe0c8d72491581d8c0e06d0dcb59&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 19.97
   },
   {
    "id": "tbee5aa7c403",
@@ -12869,8 +12871,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4aa10948e8be11f189bdde35afce2d72&au=358e896e131a424f99a1aed25776dec2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:52:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ec4ebf24e8be11f186c1863ad210ac0e&au=218de5a0db874561b8f567dc1886ecfc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T10:56:53+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -19205,5 +19207,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T10:53:13+00:00"
+ "updated": "2026-11-25T10:57:50+00:00"
 }
