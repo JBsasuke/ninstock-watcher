@@ -227,7 +227,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d80fd0a8e84011f1a983aa2a9418fb79&au=d37766cbfd3541c9924682e0d5714f6a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:23+00:00",
+   "checked_at": "2026-11-25T01:55:41+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -248,7 +248,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d94e8126e84011f1884f0227a9c18c33&au=29825d1cb58043058aee60b3951e96a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:25+00:00",
+   "checked_at": "2026-11-25T01:55:43+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -291,10 +291,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-25T01:51:04+00:00",
+   "expired": true,
    "real_price": 31.97,
    "real_old": 44.99,
-   "category_ok": true,
-   "expired": true
+   "category_ok": true
   },
   {
    "id": "2f9fc53fed71",
@@ -1474,7 +1474,7 @@
    "id": "327cfdd4ad83",
    "title": "Hot Wheels Infinite Rush (Switch 2) - $30 @ Walmart",
    "price": 30.0,
-   "old_price": 129.0,
+   "old_price": 130.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -1486,9 +1486,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20379297&tid=20379297&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=5c589230e77611f1a5a5c2ea0ec8d3d5&au=9d2c870fc2f5449083c49c6a0f07346e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:55:09+00:00",
+   "checked_at": "2026-11-25T01:56:23+00:00",
    "real_price": 30.0,
-   "real_old": 129.0,
+   "real_old": 130.0,
    "category_ok": true
   },
   {
@@ -1507,7 +1507,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379150&tid=20379150&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=443379c2e77611f18a901e72640ae178&au=99f58fcf9ff84ed3827373cc40fce6f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:32+00:00",
+   "checked_at": "2026-11-25T01:55:52+00:00",
    "real_price": 19.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1528,7 +1528,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20378991&tid=20378991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4d4498b6e77611f1b9c11e72640ae178&au=179fd055a1ff47ae8e1ac11a03590e62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:46+00:00",
+   "checked_at": "2026-11-25T01:56:02+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1570,7 +1570,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378022&tid=20378022&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=f426133ae7a811f18b24be4ed0ec16f4&au=f7a8004e63284678aa7de003ffcf783d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:27+00:00",
+   "checked_at": "2026-11-25T01:55:47+00:00",
    "real_price": 14.99,
    "real_old": 19.99,
    "category_ok": true
@@ -1591,10 +1591,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:55:14+00:00",
+   "checked_at": "2026-11-25T01:56:26+00:00",
    "real_price": 31.97,
    "real_old": 44.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "0f1620dcf409",
@@ -1612,7 +1613,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376171&pno=1371957&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=65efe406e77611f19fd1deb54f6a3920&au=06fe9a3dc799487d89a170bd45f7d99d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:55:20+00:00",
+   "checked_at": "2026-11-25T01:56:32+00:00",
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
@@ -1677,7 +1678,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377395&tid=20377395&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=4fd966f6e77611f1839e1e72640ae178&au=e8ed2515a23443eb890a5514e5fd6771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:50+00:00",
+   "checked_at": "2026-11-25T01:56:05+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -1720,7 +1721,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&tid=20377035&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=5123931ae77611f1874472a45d12e880&au=71694953aa3e4316854e00095a961588&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:52+00:00",
+   "checked_at": "2026-11-25T01:56:07+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1763,7 +1764,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376918&tid=20376918&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=52923d78e77611f1a06c5e7f8399db75&au=119bc736c32045bd9a357ddc5fc50b70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:55+00:00",
+   "checked_at": "2026-11-25T01:56:09+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -1806,7 +1807,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20374893&pno=1371807&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=5526b0a0e77611f1b74e42c654074995&au=3abd7d5931f74fbe9f9f98624a05c024&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:54:57+00:00",
+   "checked_at": "2026-11-25T01:56:11+00:00",
    "real_price": 15.0,
    "real_old": 24.88,
    "category_ok": true
@@ -1827,7 +1828,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376171&pno=1371957&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=64b018fee77611f19a82161ca257c495&au=e8ee63847ed443a79c526aab0890a6a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:55:18+00:00",
+   "checked_at": "2026-11-25T01:56:30+00:00",
    "real_price": 49.99,
    "real_old": 69.99,
    "category_ok": true
@@ -1887,7 +1888,7 @@
    "posted": "2026-11-23T11:10:28+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T19:55:16+00:00",
+   "checked_at": "2026-11-25T01:56:28+00:00",
    "category_ok": true,
    "real_price": 32.99,
    "real_old": 49.99,
@@ -2571,7 +2572,7 @@
    "posted": "2026-11-23T06:12:58+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T19:54:59+00:00",
+   "checked_at": "2026-11-25T01:56:14+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 26.0,
@@ -2595,7 +2596,7 @@
    "store_url": "https://www.walmart.com/ip/17805560597",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-24T19:55:02+00:00",
+   "checked_at": "2026-11-25T01:56:16+00:00",
    "real_price": 15.0,
    "real_old": 29.83,
    "category_ok": true
@@ -2613,7 +2614,7 @@
    "posted": "2026-11-23T06:03:19+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T19:54:39+00:00",
+   "checked_at": "2026-11-25T01:55:54+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 39.88,
@@ -2634,7 +2635,7 @@
    "posted": "2026-11-23T06:01:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T19:54:42+00:00",
+   "checked_at": "2026-11-25T01:55:58+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 34.96,
@@ -2655,7 +2656,7 @@
    "posted": "2026-11-23T06:01:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T19:54:44+00:00",
+   "checked_at": "2026-11-25T01:56:00+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 34.96,
@@ -2720,7 +2721,7 @@
    "posted": "2026-11-23T05:46:03+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-24T19:55:04+00:00",
+   "checked_at": "2026-11-25T01:56:20+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 29.83,
@@ -2741,7 +2742,7 @@
    "posted": "2026-11-23T05:36:06+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-24T19:54:29+00:00",
+   "checked_at": "2026-11-25T01:55:50+00:00",
    "category_ok": true,
    "real_price": 15.0,
    "real_old": 29.83,
@@ -3195,7 +3196,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-25T00:51:26+00:00",
+ "deku_checked": "2026-11-25T01:56:33+00:00",
  "deals": [
   {
    "id": "fbc96be8fd40",
@@ -3839,31 +3840,6 @@
    "kind": "game",
    "collector": true,
    "posted": "2026-11-23T17:28:44+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "cf5f1f73e921",
-   "title": "Nintendo Joy-Con Controllers for Nintendo Switch Consoles (R) (Neon Red)",
-   "price": 31.97,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 31.97,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378010&tid=20378010&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=61fb7bc6e77611f1804e1e72640ae178&au=02b930c0985d4f19a5944c68229bfa2e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22541706.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-23T15:36:30+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -8938,7 +8914,7 @@
      "url": "https://www.gamestop.com/products/dave-the-diver-complete-edition/444293.html"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -8954,7 +8930,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "LiTMUS",
    "digital": {
@@ -8991,7 +8967,7 @@
      "url": "https://www.walmart.com/ip/21119362877"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nacon",
    "digital": {
@@ -9012,7 +8988,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -9050,7 +9026,7 @@
      "url": "https://www.target.com/p/-/A-1014334839"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Saber Interactive Incorporated",
    "digital": {
@@ -9088,7 +9064,7 @@
     },
     {
      "store": "Amazon",
-     "price": 45.58,
+     "price": 45.5,
      "url": "https://www.amazon.com/dp/B0H7ZC7LSF"
     },
     {
@@ -9097,7 +9073,7 @@
      "url": "https://www.gamestop.com/products/the-crew-motorfest/448804.html"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -9118,7 +9094,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -9160,7 +9136,7 @@
      "url": "https://www.target.com/p/-/A-1012070917"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9187,7 +9163,7 @@
      "url": "https://www.amazon.com/dp/B0HN4W45QG"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": {
@@ -9234,7 +9210,7 @@
      "url": "https://www.gamestop.com/products/disney-epic-mickey-rebrushed/405268.html"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -9281,7 +9257,7 @@
      "url": "https://www.target.com/p/-/A-1010889314"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -9302,7 +9278,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Sting",
    "digital": {
@@ -9343,7 +9319,7 @@
      "url": "https://www.target.com/p/-/A-1012616000"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9385,7 +9361,7 @@
      "url": "https://www.target.com/p/-/A-1012616001"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9405,8 +9381,14 @@
    "release": "October 1, 2026",
    "release_date": "2026-10-01",
    "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 69.99,
+     "url": "https://www.amazon.com/dp/B0HLXNDSC1"
+    }
+   ],
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -9427,7 +9409,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9474,7 +9456,7 @@
      "url": "https://www.walmart.com/ip/21239622580"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -9495,7 +9477,7 @@
    "release_date": "2026-09-29",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9542,7 +9524,7 @@
      "url": "https://www.target.com/p/-/A-1011984171"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9594,7 +9576,7 @@
      "url": "https://www.target.com/p/-/A-1012015062"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -9625,7 +9607,7 @@
      "url": "https://www.gamestop.com/products/absolum/445287.html"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Dotemu",
    "digital": {
@@ -9666,7 +9648,7 @@
      "url": "https://www.gamestop.com/products/trails-in-the-sky-2nd-chapter/444221.html"
     }
    ],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "GungHo America",
    "digital": {
@@ -9686,7 +9668,7 @@
    "release_date": "2026-09-17",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -9702,7 +9684,7 @@
    "release_date": "2026-09-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-24T19:41:05+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "WRIGHT FLYER STUDIOS",
    "digital": {
@@ -9722,7 +9704,7 @@
    "release_date": "2026-09-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-13T10:26:42+00:00",
+   "offers_checked": "2026-11-25T01:56:49+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Alliance Arts",
    "digital": {
@@ -9866,7 +9848,7 @@
    "title": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
    "url": "https://www.dekudeals.com/items/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition",
    "image": "https://cdn.dekudeals.com/images/ae3bb0f74ecab38f3d90c3293aaa4693ced1c34d/w540.jpg",
-   "price": 99.7,
+   "price": 59.99,
    "old_price": null,
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
@@ -11094,6 +11076,72 @@
  ],
  "news": [
   {
+   "id": "aldia-45728aff68",
+   "title": "Pikachu y Eevee desfilarán en el Desfile de Acción de Gracias de Macy's número 100",
+   "summary": "Pikachu y Eevee participarán en el centenario del tradicional desfile de Macy's. Esto es lo que se sabe sobre su participación.",
+   "lang": "es",
+   "source": "Pokemon.com",
+   "url": "https://aldiard.com/n/45728aff68.html",
+   "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/misc/tiles/macys-thanksgiving-parade/2026/macys-thanksgiving-day-parade-169.png",
+   "posted": "2026-11-25T01:54:34.401116+00:00",
+   "video": null,
+   "es": {
+    "title": "Pikachu y Eevee desfilarán en el Desfile de Acción de Gracias de Macy's número 100",
+    "summary": "Pikachu y Eevee participarán en el centenario del tradicional desfile de Macy's. Esto es lo que se sabe sobre su participación.",
+    "body": [
+     "Pokémon estará presente en el Desfile de Acción de Gracias de Macy's, que celebra su centésima edición este año. Pikachu y Eevee participarán a bordo de un trineo diseñado a partir de una Poké Ball, según informó la compañía en su sitio oficial.",
+     "Esta será la vigésima sexta vez consecutiva que Pokémon participa en el desfile.",
+     "El desfile se transmitirá a nivel nacional por la cadena NBC el jueves 26 de noviembre de 2026. También estará disponible en streaming a través de Peacock, de 8:30 a. M. A 12:00 p. M. En todas las zonas horarias.",
+     "Quienes se encuentren en la ciudad de Nueva York ese día podrán ver a Pikachu y Eevee, junto con el resto del desfile, en persona."
+    ],
+    "url": "https://aldiard.com/n/45728aff68.html"
+   },
+   "en": {
+    "title": "Pikachu and Eevee Will Ride in Macy's 100th Thanksgiving Day Parade",
+    "summary": "Pikachu and Eevee will take part in the parade's centennial. Here is what to know about their appearance.",
+    "body": [
+     "Pokémon will take part in the Macy's Thanksgiving Day Parade, which celebrates its 100th edition this year. Pikachu and Eevee will ride on a sled designed to look like a Poké Ball, according to the company's official website.",
+     "This will be the 26th consecutive year that Pokémon has participated in the parade.",
+     "The parade will air nationwide on NBC on Thursday, November 26, 2026. It will also be available to stream on Peacock from 8:30 a.m. To 12:00 p.m. In all time zones.",
+     "Those in New York City on Thanksgiving can see Pikachu and Eevee in person, along with the rest of the parade."
+    ],
+    "url": "https://aldiard.com/en/n/45728aff68.html"
+   }
+  },
+  {
+   "id": "aldia-56926548ed",
+   "title": "Mario Kart World recibe actualización con ocho nuevos circuitos",
+   "summary": "Nintendo lanzó la versión 1.9.0 de Mario Kart World con ocho circuitos nuevos y rutas inéditas para su modo Knockout Tour.",
+   "lang": "es",
+   "source": "Nintendo",
+   "url": "https://aldiard.com/n/56926548ed.html",
+   "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+   "posted": "2026-11-25T01:53:59.968780+00:00",
+   "video": null,
+   "es": {
+    "title": "Mario Kart World recibe actualización con ocho nuevos circuitos",
+    "summary": "Nintendo lanzó la versión 1.9.0 de Mario Kart World con ocho circuitos nuevos y rutas inéditas para su modo Knockout Tour.",
+    "body": [
+     "La actualización Ver. 1.9.0 de Mario Kart World ya está disponible para la consola Nintendo Switch 2, según informó Nintendo, que además publicó un video con algunas de las novedades.",
+     "Lo más destacado son ocho circuitos adicionales. Según la empresa, cada uno es una versión renovada de un recorrido que ya existía en el juego, entre ellos Mario Bros. Circuit 2, DK Pass 2 y Shy Guy Bazaar 2. Nintendo indica que estas pistas ofrecen carreras distintas a las habituales, como recorrer trayectos diferentes a los que los jugadores ya conocen o correr en sentido contrario.",
+     "En el modo Knockout Tour, donde los pilotos recorren el mundo del juego de un extremo a otro, se agregan dos rutas nuevas. Feather Rally conecta Mario Bros. Circuit con Boo Cinema, mientras que Lucky Cat Rally une Great? Block Ruins con Sky-High Sundae. Para acceder a ellas hay que completar al menos un rally de Knockout Tour. Nintendo señaló que planea añadir más rutas para este modo en futuras actualizaciones.",
+     "La actualización también mejora la función de repeticiones, que ahora aparece en la pantalla del menú. Allí se guardan las repeticiones de las carreras y batallas más recientes. Cuando se supera el límite de repeticiones guardadas, se eliminan primero las más antiguas."
+    ],
+    "url": "https://aldiard.com/n/56926548ed.html"
+   },
+   "en": {
+    "title": "Mario Kart World Update Adds Eight New Courses",
+    "summary": "Nintendo has released Mario Kart World's Ver. 1.9.0 update, with eight new courses and fresh routes for Knockout Tour.",
+    "body": [
+     "The Ver. 1.9.0 update for Mario Kart World is now available for the Nintendo Switch 2 console, according to Nintendo, which also released a video showing some of the new additions.",
+     "The main highlight is eight additional courses. According to the company, each one is a remixed version of a track already in the game, including Mario Bros. Circuit 2, DK Pass 2, and Shy Guy Bazaar 2. Nintendo says these tracks offer a different kind of racing, such as speeding through routes players have not driven before or racing familiar courses in the opposite direction.",
+     "In Knockout Tour, where drivers race nonstop across the game's world from one end to the other, two new routes have been added. Feather Rally connects Mario Bros. Circuit with Boo Cinema, while Lucky Cat Rally links Great? Block Ruins with Sky-High Sundae. To unlock them, players must clear at least one Knockout Tour rally. Nintendo said it plans to add more routes for this mode in future updates.",
+     "The update also improves the replay feature, which now appears on the menu screen. Replays of recent races and battles are saved there. When the limit of saved replays is exceeded, the oldest ones are deleted first."
+    ],
+    "url": "https://aldiard.com/en/n/56926548ed.html"
+   }
+  },
+  {
    "id": "e3b397072752",
    "date_ok": true,
    "seeded": true,
@@ -11585,30 +11633,6 @@
    "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
    "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
    "posted": "2026-11-18T20:00:12+00:00"
-  },
-  {
-   "id": "98816c60f14d",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Rayman Legends Retold – \"Dynamite\" Musical Map Trailer – Nintendo Switch 2",
-   "summary": "Are you ready to dance? Get a first look at this brand-new musical level in Rayman Legends Retold, set to a fresh cover of a tune you might recognize!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
-   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
-   "posted": "2026-11-18T17:00:30+00:00"
-  },
-  {
-   "id": "482ab5a043c5",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Fortnite Treasure Hunters – Gameplay Trailer – Nintendo Switch 2",
-   "summary": "Hatsune Miku and Kasane Teto have landed in Fortnite! Check them out now in Fortnite Treasure Hunters.",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=s-P09UGp4eE",
-   "image": "https://i.ytimg.com/vi/s-P09UGp4eE/hqdefault.jpg",
-   "posted": "2026-11-17T23:00:01+00:00"
   }
  ],
  "raw_tech": [
@@ -11647,6 +11671,24 @@
    "checked_at": "2026-11-25T01:47:21+00:00",
    "real_price": 19.94,
    "real_old": 39.95
+  },
+  {
+   "id": "t635b38530db",
+   "title": "Nail Clippers Set, Fingernail and Toenail Clipper Cutters Trimmers Kit with case $1 @ Amazon",
+   "price": 0.98,
+   "old_price": 6.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20391102-nail-clippers-set-fingernail-and-toenail-clipper-cutters-trimmers-kit-with-case-1-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/3/4/4/5/8/9/300x300/22574469.thumb",
+   "posted": "2026-11-25T01:42:07+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T01:58:41+00:00",
+   "real_price": 0.98,
+   "real_old": 6.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=bc7c51a8e87311f19ed7766b643ec681&au=35948b22ff1940e486e7ff40c6f8f125&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t421bcaf5274",
@@ -16029,24 +16071,6 @@
    "checked_at": "2026-11-24T03:22:23+00:00",
    "real_price": 29.6,
    "real_old": 54.89
-  },
-  {
-   "id": "ta9f785ea991",
-   "title": "$105 FS Lowes Blink Outdoor 4 - Wireless smart security camera, two-year battery life, 1080p HD day and infrared night live view, two-way talk, Sync Module Core included - 5 camera",
-   "price": 137.0,
-   "old_price": 138.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20382882-105-fs-lowes-blink-outdoor-4-wireless-smart-security-camera-two-year-battery-life-1080p-hd-day-and-infrared-night-live-view-two-way-talk-sync-module-core-included-5-camera?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22553442.thumb",
-   "posted": "2026-11-24T02:54:41+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20382882&tid=20382882&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=567ca330e7ce11f1a7f2021f840d60d5&au=c8c4559375fd45929223c172d6357d1f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T06:14:43+00:00",
-   "real_price": 137.0,
-   "real_old": 138.0
   }
  ],
  "tech": [
@@ -19285,5 +19309,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T01:52:56+00:00"
+ "updated": "2026-11-25T01:59:41+00:00"
 }
