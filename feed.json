@@ -880,6 +880,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1484,7 +1486,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367816&pno=1372938&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=94476a94e82611f1b869ee654f1d2dfa&au=55c150176b274be88d91d73f98bf30d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:52:36+00:00",
+   "checked_at": "2026-11-25T22:53:37+00:00",
    "real_price": 48.97,
    "real_old": 69.99,
    "category_ok": true
@@ -10853,6 +10855,39 @@
  ],
  "news": [
   {
+   "id": "aldia-adadb65dcc",
+   "title": "Nintendo lanza paquetes de catálogo y banda sonora para Daisenryaku SSB 2",
+   "summary": "Nintendo publica nuevos contenidos para Daisenryaku SSB 2, con catálogos de armamento y temas musicales. Hay versiones distintas según la consola.",
+   "lang": "es",
+   "source": "Nintendo",
+   "url": "https://aldiard.com/n/adadb65dcc.html",
+   "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70050000085320/434768c31f5e62fba2bc4d13764d55f152cec56c510736c49a1275c28cc71f5f",
+   "posted": "2026-11-25T22:52:48.741587+00:00",
+   "video": null,
+   "es": {
+    "title": "Nintendo lanza paquetes de catálogo y banda sonora para Daisenryaku SSB 2",
+    "summary": "Nintendo publica nuevos contenidos para Daisenryaku SSB 2, con catálogos de armamento y temas musicales. Hay versiones distintas según la consola.",
+    "body": [
+     "Nintendo anunció dos paquetes de contenido descargable para Daisenryaku SSB 2, un juego que requiere tener el título base para funcionar. Ambos ofrecen un catálogo digital de armamento y una banda sonora, pensados para conocer con más detalle el universo del juego.",
+     "La versión original, de la que informó la compañía como descripción del programa, incluye el Weapon Catalog 2 con datos de 192 unidades y estadísticas de cada una. En la edición japonesa se suma un artículo especial de 28 páginas, elaborado con la colaboración de la redacción de «MILITARY CLASSICS» de Ikaros Publications, con fotografías de armamento japonés y estadounidense, incluido equipamiento reciente de las Fuerzas de Autodefensa de Japón. También trae una banda sonora de 16 temas.",
+     "Para la versión de Nintendo Switch 2, el paquete se llama Weapon Catalog 2 EX & Soundtrack EX Pack. Su catálogo reúne 170 armas con descripciones y estadísticas en un solo lugar, y su banda sonora incluye 15 temas, entre ellos «Union Force», «Shadow Lion» y «Bengal Tiger».",
+     "Las fichas de ambos productos advierten que las armas y temas que aparecieron en el título anterior se encuentran en el catálogo original, y que el contenido también está incluido en los paquetes Daisenryaku SSB 2 Ultimate EX Edition y Daisenryaku SSB 2 - Ultimate EX Upgrade for Base Game, por lo que se recomienda no comprar lo mismo dos veces. Además, se requiere actualizar el juego a la última versión, y los contenidos y fechas de lanzamiento pueden cambiar sin previo aviso."
+    ],
+    "url": "https://aldiard.com/n/adadb65dcc.html"
+   },
+   "en": {
+    "title": "Nintendo Releases Weapon Catalog and Soundtrack Packs for Daisenryaku SSB 2",
+    "summary": "Nintendo is releasing new add-on content for Daisenryaku SSB 2, including weapon catalogs and music. Different versions are available depending on the console.",
+    "body": [
+     "Nintendo has announced two downloadable content packs for Daisenryaku SSB 2, a game that requires the base title. Both offer a digital weapons catalog and a soundtrack, designed to help players explore the game's world in more detail.",
+     "The original version includes the Weapon Catalog 2, with data on 192 units and stats for each one. In the Japanese edition, an exclusive 28-page special article, produced with the editorial team of Ikaros Publications' \"MILITARY CLASSICS,\" adds photos of Japanese and American weapons, including recent equipment used by Japan's Self-Defense Forces. This version also comes with a 16-track soundtrack.",
+     "For the Nintendo Switch 2 version, the package is called the Weapon Catalog 2 EX & Soundtrack EX Pack. Its catalog covers 170 weapons with descriptions and stats in one place, and its soundtrack includes 15 tracks, among them \"Union Force,\" \"Shadow Lion,\" and \"Bengal Tiger.\"",
+     "The listings for both products note that weapons and tracks from the previous title are found in the original catalog, and that the content is also included in the Daisenryaku SSB 2 Ultimate EX Edition and Daisenryaku SSB 2 - Ultimate EX Upgrade for Base Game bundles, so buyers are advised to avoid purchasing the same content twice. The game must also be updated to the latest version, and content and release schedules may change without notice."
+    ],
+    "url": "https://aldiard.com/en/n/adadb65dcc.html"
+   }
+  },
+  {
    "id": "aldia-66e4be5d14",
    "title": "Daisenryaku SSB 2 llega con nuevo contenido ambientado en Australia",
    "summary": "Nintendo lanzó un paquete descargable para Daisenryaku SSB 2 con unidades, mapas y música nuevos inspirados en Australia.",
@@ -11259,39 +11294,6 @@
    }
   },
   {
-   "id": "aldia-8db06acbaa",
-   "title": "Nintendo explica los ruidos que algunos usuarios escuchan en los Joy-Con 2",
-   "summary": "Algunos usuarios de los Joy-Con 2 reportan chasquidos y traqueteos. Nintendo explica cuándo son normales y cuándo hace falta un servicio técnico.",
-   "lang": "es",
-   "source": "Nintendo Support",
-   "url": "https://aldiard.com/n/8db06acbaa.html",
-   "image": null,
-   "posted": "2026-11-24T09:53:51.327728+00:00",
-   "video": null,
-   "es": {
-    "title": "Nintendo explica los ruidos que algunos usuarios escuchan en los Joy-Con 2",
-    "summary": "Algunos usuarios de los Joy-Con 2 reportan chasquidos y traqueteos. Nintendo explica cuándo son normales y cuándo hace falta un servicio técnico.",
-    "body": [
-     "Nintendo publicó una guía de soporte para usuarios del Joy-Con 2 que reportan ruidos inusuales en el control. Se describen dos casos: un sonido de \"clic\" al presionar o mover los sticks analógicos, y un traqueteo al sacudir el control.",
-     "Según la empresa, el \"clic\" puede ser normal, porque los sticks también funcionan como botón al presionarlos. Para revisarlo, el usuario debe mover los sticks en distintas direcciones y comprobar si el sonido aparece con movimientos que no responden bien. Si el control responde correctamente, Nintendo recomienda seguir usándolo y observar si la situación mejora.",
-     "En el caso del traqueteo, la guía indica sostener el control firmemente y sacudirlo ligeramente. Nintendo explica que los botones y sticks analógicos tienen normalmente un poco de juego interno, y que esto no debería interferir con la jugabilidad.",
-     "La situación cambia si el control parece tener algo suelto o roto por dentro, o si el problema interfiere con el juego. En ese caso, el Joy-Con 2 afectado debe enviarse a servicio técnico. Si más de un control presenta el problema, cada uno requiere una solicitud de servicio separada."
-    ],
-    "url": "https://aldiard.com/n/8db06acbaa.html"
-   },
-   "en": {
-    "title": "Nintendo explains the noises some users hear from Joy-Con 2 controllers",
-    "summary": "Some Joy-Con 2 users report clicking and rattling. Nintendo explains when those sounds are normal and when a repair is needed.",
-    "body": [
-     "Nintendo has published a support guide for Joy-Con 2 users reporting unusual noises from the controller. Two cases are described: a \"clicking\" sound when pressing or moving the analog sticks, and a rattling sound when the controller is shaken.",
-     "According to the company, the clicking may be normal, because the sticks also work as a button when pressed. To check, users should move the sticks in different directions and see whether the sound appears with movements that don't register properly. If the controller responds correctly, Nintendo recommends continuing to use it and watching whether the situation improves.",
-     "For rattling, the guide says to hold the controller firmly and shake it lightly. Nintendo explains that buttons and analog sticks normally have some internal play, and this should not interfere with gameplay.",
-     "The situation changes if the controller seems to have something loose or broken inside, or if the problem interferes with play. In that case, the affected Joy-Con 2 should be sent for service. If more than one controller has the problem, each one requires a separate service request."
-    ],
-    "url": "https://aldiard.com/en/n/8db06acbaa.html"
-   }
-  },
-  {
    "id": "6b0302c938fb",
    "date_ok": true,
    "seeded": true,
@@ -11477,10 +11479,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20396181&pno=1374210&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8275a130e92211f192f07e3e3d2b1b81&au=73dc8a3edebc428bb161c72112f5ba7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:49:45+00:00",
    "real_price": 148.79,
-   "real_old": 185.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20396181&pno=1374210&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8275a130e92211f192f07e3e3d2b1b81&au=73dc8a3edebc428bb161c72112f5ba7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 185.99
   },
   {
    "id": "t956e011381b",
@@ -11684,6 +11686,24 @@
    "checked_at": "2026-11-25T21:37:22+00:00",
    "real_price": 99.99,
    "real_old": 199.99
+  },
+  {
+   "id": "t36e2b57d155",
+   "title": "4-Pack 1-Kg Spools 3DHoJor 1.75mm Matte PLA 3D Printer Filament (Various, 4KG total) from $33.99 + Free Shipping w/ Prime or on $35+",
+   "price": 33.99,
+   "old_price": 40.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20398020-4-pack-1-kg-spools-3dhojor-1-75mm-matte-pla-3d-printer-filament-various-4kg-total-from-33-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22592733.thumb",
+   "posted": "2026-11-25T21:29:06+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:54:30+00:00",
+   "real_price": 33.99,
+   "real_old": 40.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t1ac9b1bc3d0",
@@ -12706,6 +12726,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t07bf8dbcedc",
+   "title": "Samsung 55\" M80H Series Mini LED 4K Smart TV (2026) $384.29 (Reg. $547.99) + Free Shipping",
+   "price": 384.29,
+   "old_price": 547.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20395842-samsung-55-m80h-series-mini-led-4k-smart-tv-2026-384-29-reg-547-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22587303.thumb",
+   "posted": "2026-11-25T16:43:21+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:54:32+00:00",
+   "real_price": 384.29,
+   "real_old": 547.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2bdb54a351f",
    "title": "100\" Sony BRAVIA 3 II 4K 120Hz HDR LED Smart Google TV (2026) $1999.99 + Free Shipping",
    "price": 1999.99,
@@ -12907,8 +12945,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:49:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:54:35+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13170,8 +13208,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:49:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:54:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14215,7 +14253,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15883,44 +15921,6 @@
    "checked_at": "2026-11-25T03:19:28+00:00",
    "real_price": 199.0,
    "real_old": 349.0
-  },
-  {
-   "id": "t1de270d0435",
-   "title": "Loft.com Black Friday Event 50% Off Everything plus Extra 70% Off Sale Styles",
-   "price": null,
-   "old_price": null,
-   "store": "Loft",
-   "url": "https://slickdeals.net/f/20391426-loft-com-black-friday-event-50-off-everything-plus-extra-70-off-sale-styles?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22575333.thumb",
-   "posted": "2026-11-25T02:48:43+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": null,
-   "code_until": null,
-   "promo": "50% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loft&sdtid=20391426&tid=20391426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c7e2f606e8f411f19ff852d4671160e3&au=530b3f65e25146c2b00ba28746eb5c21&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:22:25+00:00",
-   "real_price": 56.0
-  },
-  {
-   "id": "ta03faf6e79b",
-   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
-   "price": 99.0,
-   "old_price": 199.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20391423-20-volt-max-lithium-ion-cordless-brushless-3-speed-oscillating-multi-tool-with-4-0-ah-battery-and-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575327.thumb",
-   "posted": "2026-11-25T02:48:15+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:25:07+00:00",
-   "real_price": 99.0,
-   "real_old": 199.0
   }
  ],
  "tech": [
@@ -16137,6 +16137,33 @@
      "store": "Amazon",
      "price": 1413.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t36e2b57d155",
+   "title": "4-Pack 1-Kg Spools 3DHoJor 1.75mm Matte PLA 3D Printer Filament (Various, 4KG total) from",
+   "price": 33.99,
+   "old_price": 40.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22592733.thumb",
+   "posted": "2026-11-25T21:29:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 33.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16981,6 +17008,33 @@
    ]
   },
   {
+   "id": "t07bf8dbcedc",
+   "title": "Samsung 55\" M80H Series Mini LED 4K Smart TV (2026)",
+   "price": 384.29,
+   "old_price": 547.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22587303.thumb",
+   "posted": "2026-11-25T16:43:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 384.29,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t2bdb54a351f",
    "title": "100\" Sony BRAVIA 3 II 4K 120Hz HDR LED Smart Google TV (2026)",
    "price": 1999.99,
@@ -17229,8 +17283,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17246,7 +17300,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=83a06a7ce92211f192f07e3e3d2b1b81&au=3fc3553ca08b4a0c9e6d53a77c539d79&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2efd176ce92311f18d32ae29761d79cc&au=e6d0f6b43ffc42c98d1cc3e502fa62c0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17418,8 +17472,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17435,7 +17489,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=84b9bac6e92211f181c1c2b7c1e0cc5d&au=7f5cf6965dc84d7ea53cd425586cdf2c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=30efb336e92311f1994ecabe8a6132c7&au=96313e9d3ae240f989ca33076a31e984&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18266,7 +18320,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19085,61 +19139,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "taafbe65788e",
-   "title": "42mm Garmin Vivoactive 5 GPS Smartwatch (Ivory) & More",
-   "price": 167.99,
-   "old_price": 299.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392233&tid=20392233&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=9b9d59dae8b111f198e5c2e14d85113f&au=744a94929df24557a0c99d0ba27b2175&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392233&tid=20392233&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=9b9d59dae8b111f198e5c2e14d85113f&au=744a94929df24557a0c99d0ba27b2175&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22577271.thumb",
-   "posted": "2026-11-25T05:17:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 167.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392233&tid=20392233&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=9b9d59dae8b111f198e5c2e14d85113f&au=744a94929df24557a0c99d0ba27b2175&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tef497be79d0",
-   "title": "Lenovo Legion 5a Gaming Laptop: 15.3\" QHD+ OLED 165Hz, Ryzen 7 250, RTX 5060, 16GB DDR5, 1TB SSD",
-   "price": 1286.99,
-   "old_price": 2226.99,
-   "store": "Lenovo",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&tid=20392230&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae68729ce8c111f19841863ad210ac0e&au=e06ee00629d7400285226d0d9ac28057&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&tid=20392230&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae68729ce8c111f19841863ad210ac0e&au=e06ee00629d7400285226d0d9ac28057&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22577367.thumb",
-   "posted": "2026-11-25T05:16:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lenovo",
-     "price": 1286.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20392230&tid=20392230&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae68729ce8c111f19841863ad210ac0e&au=e06ee00629d7400285226d0d9ac28057&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T22:50:46+00:00"
+ "updated": "2026-11-25T22:55:28+00:00"
 }
