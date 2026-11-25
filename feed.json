@@ -308,8 +308,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11585,10 +11583,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394156&tid=20394156&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=f9c051b8e8dc11f1afdb52d4671160e3&au=022ded1a2abc4d7ca9dc29fd578d4832&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T14:32:00+00:00",
    "real_price": 7.62,
-   "real_old": 29.19,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394156&tid=20394156&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=f9c051b8e8dc11f1afdb52d4671160e3&au=022ded1a2abc4d7ca9dc29fd578d4832&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.19
   },
   {
    "id": "t660873bb46e",
@@ -11645,6 +11643,27 @@
    "checked_at": "2026-11-25T14:13:14+00:00",
    "real_price": 1142.1,
    "real_old": 1699.0
+  },
+  {
+   "id": "tb5f19879e7f",
+   "title": "Apple iPad Pro 13-Inch (M4): 1 TB Wi-Fi+ Cellular with code BESTOFPC $1286",
+   "price": 1286.1,
+   "old_price": 2099.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20394030-apple-ipad-pro-13-inch-m4-1-tb-wi-fi-cellular-with-code-bestofpc-1286?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/7/9/3/8/8/9/1/300x300/22581939.thumb",
+   "posted": "2026-11-25T13:05:04+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T14:36:43+00:00",
+   "real_price": 1286.1,
+   "real_old": 2099.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t500d69acf07",
@@ -13227,10 +13246,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391645&tid=20391645&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=faf091f6e8dc11f1be146a82603adb7c&au=6f1e0212a9114d72826b2a4e2aeaaca8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T14:32:03+00:00",
    "real_price": 7.14,
-   "real_old": 17.01,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391645&tid=20391645&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=faf091f6e8dc11f1be146a82603adb7c&au=6f1e0212a9114d72826b2a4e2aeaaca8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 17.01
   },
   {
    "id": "td57a763e832",
@@ -13695,8 +13714,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fc7eba2ae8dc11f1be6baaea4daf1256&au=d1d847f20bb34614a3bd7b8592802a98&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:32:05+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a390eb76e8dd11f1ac8f52d4671160e3&au=e7f07744a2a54d108fe581161f40ad8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T14:36:45+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15864,27 +15883,6 @@
    "checked_at": "2026-11-24T16:28:54+00:00",
    "real_price": 99.0,
    "real_old": 255.97
-  },
-  {
-   "id": "tce2c798a186",
-   "title": "ORICO Magnetic M.2 2230/2242 NVMe SSD Enclosure for iPhone $20.15",
-   "price": 20.15,
-   "old_price": 35.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20387493-orico-magnetic-m-2-2230-2242-nvme-ssd-enclosure-for-iphone-20-15?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22565442.thumb",
-   "posted": "2026-11-24T16:14:42+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "ORICOM2SSD30",
-   "code_until": null,
-   "promo": null,
-   "checked_at": "2026-11-25T06:38:44+00:00",
-   "real_price": 20.15,
-   "real_old": 35.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387493&tid=20387493&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=dbcad670e89a11f189a3ae72dfbc3593&au=247b024ee20947f1af9de5a36cd8a193&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
@@ -15993,6 +15991,33 @@
      "store": "Woot!",
      "price": 1142.1,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb5f19879e7f",
+   "title": "Apple iPad Pro 13-Inch (M4): 1 TB Wi-Fi+ Cellular with code BESTOFPC",
+   "price": 1286.1,
+   "old_price": 2099.0,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/7/9/3/8/8/9/1/300x300/22581939.thumb",
+   "posted": "2026-11-25T13:05:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 1286.1,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19094,34 +19119,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20277873&pno=1373073&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=88e2c876e83811f1b660fad216d00c57&au=bd81cb0fd775479fa6e1da8098164d59&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t648f103d817",
-   "title": "27\" Alienware AW2725QF 4k Dual-Resolution IPS Gaming Monitor",
-   "price": 279.99,
-   "old_price": 488.69,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&tid=20388675&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1cb18f3ae84111f1bdf8fed4f1c0df69&au=1b826f4934194f5d9a18c0fe36c69f08&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&tid=20388675&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1cb18f3ae84111f1bdf8fed4f1c0df69&au=1b826f4934194f5d9a18c0fe36c69f08&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22568313.thumb",
-   "posted": "2026-11-24T18:47:23+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 279.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&tid=20388675&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1cb18f3ae84111f1bdf8fed4f1c0df69&au=1b826f4934194f5d9a18c0fe36c69f08&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T14:33:00+00:00"
+ "updated": "2026-11-25T14:37:40+00:00"
 }
