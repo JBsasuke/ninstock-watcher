@@ -796,6 +796,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -883,7 +885,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=740b2a62e88111f1acba7ab09e679b66&au=a1f3974370384c598526556f414a8ac9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T15:41:35+00:00",
+   "checked_at": "2026-11-25T21:44:04+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -904,7 +906,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=754b0370e88111f1b8137a55f551cdc8&au=fa2a708684074c2c8243880fafa6bf97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T15:41:37+00:00",
+   "checked_at": "2026-11-25T21:44:05+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11485,10 +11487,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:40:19+00:00",
    "real_price": 1413.0,
-   "real_old": 2299.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2299.0
   },
   {
    "id": "t41992e2bb81",
@@ -11745,6 +11747,24 @@
    "checked_at": "2026-11-25T20:40:05+00:00",
    "real_price": 549.99,
    "real_old": 700.0
+  },
+  {
+   "id": "t9b6e88cbfaf",
+   "title": "Sams Club TCL QM63K 85\" Mini-LED TV YMMV $599.99",
+   "price": 599.99,
+   "old_price": 1675.0,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20397351-sams-club-tcl-qm63k-85-mini-led-tv-ymmv-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-25T19:43:53+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:44:58+00:00",
+   "real_price": 599.99,
+   "real_old": 1675.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&tid=20397351&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=754c34b4e91911f1b94636cb607acb7d&au=5fc0f1e3e82140388fd0bcc1b9960afe&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "ta656aa80c9e",
@@ -12397,6 +12417,27 @@
    "real_old": 899.99
   },
   {
+   "id": "tc6286a3c154",
+   "title": "[Prime] 4-in-1 LADYSPOT Women's POP Bikini Trimmer & Shaver w/ LED Light & Mirror (Green) $26.50 + Free Shipping",
+   "price": 26.5,
+   "old_price": 59.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20395953-prime-4-in-1-ladyspot-women-s-pop-bikini-trimmer-shaver-w-led-light-mirror-green-26-50-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22587537.thumb",
+   "posted": "2026-11-25T17:01:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "G03WG14P",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-25T21:45:00+00:00",
+   "real_price": 26.5,
+   "real_old": 59.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395953&tid=20395953&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=767ee6ece91911f19c12c2b7c1e0cc5d&au=526181ce88d4450fa6618e4bd8f96976&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tddaa6473866",
    "title": "MountFTV Full Motion TV Wall Mount Bracket for 26-74\" TVs (Up to 110 lbs) $14.89 + Free Shipping w/ Walmart+ or orders $35+",
    "price": 14.89,
@@ -12673,8 +12714,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:40:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=77ca24c6e91911f1b2e61e48fdfe72e8&au=d7a0d18662b9410d8378aa29a06b8745&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:45:03+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12936,8 +12977,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:40:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79b6e0bce91911f1847652e44ca853e2&au=af5302e8bca8480daa703f5b8683fd11&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:45:05+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13176,6 +13217,24 @@
    "real_price": 259.99,
    "real_old": 399.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "ta7178ba4fe9",
+   "title": "NEXPURE - Body Hair Trimmer Wet Dry Groin Bikini Trimmer Ceramic Blade LED Waterproof USB Rechargeable - Black $19.59 Bestbuy.com",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20394570-nexpure-body-hair-trimmer-wet-dry-groin-bikini-trimmer-ceramic-blade-led-waterproof-usb-rechargeable-black-19-59-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22583418.thumb",
+   "posted": "2026-11-25T14:30:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T21:45:07+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394570&tid=20394570&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7aebf300e91911f1b28ef690aa443b9d&au=dffca6aa1bd1405c84a7a5fa890bd0e9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t148120e30f5",
@@ -15866,70 +15925,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d29fcaf0e91811f1aa9ca6f64cc7c3ff&au=59e3cd0fc18e4c2d839dc51aabac1584&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:40:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7c499806e91911f18886f2c8ae3f2211&au=a86e174ca17642a486c4d60a09c38f14&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T21:45:09+00:00",
    "real_price": 0.98,
    "real_old": 6.0
-  },
-  {
-   "id": "t421bcaf5274",
-   "title": "Refurb: Dyson V15 Detect Cordless Stick Vacuum (Yellow/Nickel) $292 + Free S&H",
-   "price": 291.99,
-   "old_price": 849.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20388774-dyson-v15-detect-cordless-vacuum-yellow-nickel-refurbished-291-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22568712.thumb",
-   "posted": "2026-11-25T01:39:25+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": true,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20388774&pno=1373388&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=82458df8e87111f189f276a6fa3bae94&au=0d3b92a914764303a7c5d9cbd7e6f454&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T01:42:44+00:00",
-   "real_price": 291.99,
-   "real_old": 849.99
-  },
-  {
-   "id": "t227e1e05931",
-   "title": "Refurb: Dyson V15 Detect Cordless Stick Vacuum (Yellow/Nickel) $292 + Free S&H",
-   "price": 291.99,
-   "old_price": 849.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20388774-refurb-dyson-v15-detect-cordless-stick-vacuum-yellow-nickel-292-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22568712.thumb",
-   "posted": "2026-11-25T01:39:25+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": true,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20388774&pno=1373388&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b448b26ee90011f1b027ae46f14a893d&au=b5ede38f15dc4f56a8ed421367020bed&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:47:46+00:00",
-   "real_price": 291.99,
-   "real_old": 849.99
-  },
-  {
-   "id": "t1b0ba971616",
-   "title": "Thermaltake TH420 V2 Ultra 420mm ARGB AIO Liquid CPU Cooler w/ LCD (Black) $89.99 (Reg. $209.99) + Free Shipping",
-   "price": 89.99,
-   "old_price": 209.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391060-thermaltake-th420-v2-ultra-420mm-argb-aio-liquid-cpu-cooler-w-lcd-black-89-99-reg-209-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576434.thumb",
-   "posted": "2026-11-25T01:35:58+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391060&tid=20391060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5c4f88e88511f18bea5e9dbaa3f145&au=a3abf3f5c0f3497b80c88d76fc5ef6b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:03:08+00:00",
-   "real_price": 89.99,
-   "real_old": 209.99
   }
  ],
  "tech": [
@@ -17022,8 +17021,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=77ca24c6e91911f1b2e61e48fdfe72e8&au=d7a0d18662b9410d8378aa29a06b8745&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=77ca24c6e91911f1b2e61e48fdfe72e8&au=d7a0d18662b9410d8378aa29a06b8745&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17039,7 +17038,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d0358174e91811f19effae7c1a6e5fc1&au=9431e7d750bd4319b451d86992a096d0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=77ca24c6e91911f1b2e61e48fdfe72e8&au=d7a0d18662b9410d8378aa29a06b8745&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17211,8 +17210,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79b6e0bce91911f1847652e44ca853e2&au=af5302e8bca8480daa703f5b8683fd11&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79b6e0bce91911f1847652e44ca853e2&au=af5302e8bca8480daa703f5b8683fd11&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17228,7 +17227,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d17a3386e91811f1936e2e64caeb3894&au=f299b54f312847eda694675db6867fb5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79b6e0bce91911f1847652e44ca853e2&au=af5302e8bca8480daa703f5b8683fd11&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19150,5 +19149,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T21:41:14+00:00"
+ "updated": "2026-11-25T21:45:52+00:00"
 }
