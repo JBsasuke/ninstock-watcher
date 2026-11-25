@@ -14,13 +14,13 @@
    "posted": "2026-11-25T14:37:40+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T14:40:30+00:00",
-   "category_ok": false,
-   "real_price": 47.96,
-   "real_old": 59.99,
    "store_url": "https://www.walmart.com/ip/17709163432",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T14:40:30+00:00",
+   "real_price": 47.96,
+   "real_old": 59.99,
+   "category_ok": false
   },
   {
    "id": "2b51d632542a",
@@ -98,13 +98,13 @@
    "posted": "2026-11-25T13:52:40+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T14:40:28+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394312&tid=20394312&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=281a01b6e8de11f1be7516501822eb72&au=313e5e5d969940449a393353e322e797&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T14:40:28+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "468bce75c95f",
@@ -1426,7 +1426,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:44:26+00:00",
+   "checked_at": "2026-11-25T14:45:13+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -11507,6 +11507,42 @@
  ],
  "raw_tech": [
   {
+   "id": "t606d11d1410",
+   "title": "RYOBI ONE+ 30th Anniversary 18V Multi-Tool w/ 2Ah Battery, Charger & 3x Wood Blades $87 + Free S&H",
+   "price": 86.97,
+   "old_price": 260.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20392917-ryobi-one-30th-anniversary-18v-brushless-cordless-multi-tool-kit-w-2ah-battery-charger-1-1-8-in-wood-blade-set-3pc-86-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579068.thumb",
+   "posted": "2026-11-25T14:43:40+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:46:10+00:00",
+   "real_price": 86.97,
+   "real_old": 260.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392917&pno=1373805&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=f4510d6ae8de11f18acd52d4671160e3&au=87ca2769980d45d085d641f70d9ecf20&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t0779b4632c2",
+   "title": "42mm Apple Watch Series 11 GPS Smartwatch (Black Aluminum Case w/ Sport Band) $259.99 + Free Shipping",
+   "price": 259.99,
+   "old_price": 399.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20394588-42mm-apple-watch-series-11-gps-smartwatch-black-aluminum-case-w-sport-band-259-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22583478.thumb",
+   "posted": "2026-11-25T14:32:17+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:46:12+00:00",
+   "real_price": 259.99,
+   "real_old": 399.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4eb9142ad08",
    "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones $300 + Free S&H",
    "price": 299.95,
@@ -11798,6 +11834,24 @@
    "checked_at": "2026-11-25T13:00:21+00:00",
    "real_price": 399.5,
    "real_old": 799.0
+  },
+  {
+   "id": "t48bceaf997b",
+   "title": "Logitech Lift Vertical Ergonomic Wireless Mouse (Graphite) $52.24 + Free Shipping",
+   "price": 52.24,
+   "old_price": 79.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393838-logitech-lift-vertical-ergonomic-wireless-mouse-graphite-52-24-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581375.thumb",
+   "posted": "2026-11-25T12:37:55+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:46:15+00:00",
+   "real_price": 52.24,
+   "real_old": 79.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393838&tid=20393838&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=f6bc5d48e8de11f198f6b655d609ea7e&au=1b49ba0b36804cf08419c327fac6d8eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7fce7df4b4e",
@@ -12740,10 +12794,10 @@
    "code": "BESTOFPC",
    "code_until": "2026-12-05",
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392410&tid=20392410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b57d2ace8de11f185ec32033c67b9dc&au=998ed81691fa45f3a2c594f6fa5af8bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T14:41:27+00:00",
    "real_price": 22.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392410&tid=20392410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b57d2ace8de11f185ec32033c67b9dc&au=998ed81691fa45f3a2c594f6fa5af8bd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.99
   },
   {
    "id": "tddd230ebadd",
@@ -13761,8 +13815,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4c8743ece8de11f18135be4ed03e0f05&au=b2caa4db66b1442b83a7ce6174774142&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:41:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f85aca04e8de11f1b1c466ba697f1a14&au=bcafeb164f004c8483ab7a248ca2371c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T14:46:18+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14700,6 +14754,24 @@
    "checked_at": "2026-11-25T07:44:45+00:00",
    "real_price": 799.99,
    "real_old": 1019.99
+  },
+  {
+   "id": "t8b47a70821c",
+   "title": "INNOCN 49\" Curved DQHD 5120 x 1440P 240Hz 1800R Ultrawide Gaming Monitor | HDR400,1ms, FreeSync $599.99",
+   "price": 599.99,
+   "old_price": 844.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389410-innocn-49-curved-dqhd-5120-x-1440p-240hz-1800r-ultrawide-gaming-monitor-hdr400-1ms-freesync-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/3/4/7/0/300x300/22570470.thumb",
+   "posted": "2026-11-24T20:46:30+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:46:20+00:00",
+   "real_price": 599.99,
+   "real_old": 844.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389410&tid=20389410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9f1ead2e8de11f1a39592142a66bc6a&au=1441ead057c7482d98073eb1802b16a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t84230817f69",
@@ -15840,81 +15912,36 @@
    "real_price": 18.99,
    "real_old": 34.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387748&tid=20387748&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dc3e992ae85e11f1aa6e564b66b64140&au=3b38dc498f834c7287fab9ec777478ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "te53ae10a33d",
-   "title": "Lenovo Legion Tab Gen 5: 8.8\" 3K 165Hz IPS, Snapdragon 8 Elite Gen 5, 12GB LPDDR5, 256GB UFS $581.99",
-   "price": 581.99,
-   "old_price": 899.99,
-   "store": "Lenovo",
-   "url": "https://slickdeals.net/f/20387742-lenovo-legion-tab-gen-5-8-8-3k-165hz-ips-snapdragon-8-elite-gen-5-12gb-lpddr5-256gb-ufs-581-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22565970.thumb",
-   "posted": "2026-11-24T16:37:50+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&tid=20387742&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ee7092ae82f11f1b0124a87dd3691a6&au=f335f99c664d4f0c982e3ac46882d2f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:48:24+00:00",
-   "real_price": 581.99,
-   "real_old": 899.99
-  },
-  {
-   "id": "td54327d950b",
-   "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) $700 + Free S&H",
-   "price": 699.99,
-   "old_price": 799.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20374161-699-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22565910.thumb",
-   "posted": "2026-11-24T16:34:59+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374161&pno=1372932&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=9e78cf72e82511f1bd9f9ea8d337c564&au=29ec23eb9ea54fdcbf0e557694b54a25&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:39:30+00:00",
-   "real_price": 699.99,
-   "real_old": 799.0
-  },
-  {
-   "id": "tab191c649f1",
-   "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) $700 + Free S&H",
-   "price": 699.99,
-   "old_price": 799.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20374161-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-w-gray-ocean-band-one-size-700-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22565910.thumb",
-   "posted": "2026-11-24T16:34:59+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374161&pno=1372932&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b5ff020ae82611f1af558ac3112e47ac&au=fef0e4e658f04b1c909d38a76c88a026&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:47:19+00:00",
-   "real_price": 699.99,
-   "real_old": 799.0
-  },
-  {
-   "id": "t7c2f5270fc5",
-   "title": "65\" Roku Plus Series 4K QLED Mini-LED Smart TV $429.99 + Free Shipping",
-   "price": 429.99,
-   "old_price": 649.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20387622-65-roku-plus-series-4k-qled-mini-led-smart-tv-429-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/9/0/8/6/300x300/22565811.thumb",
-   "posted": "2026-11-24T16:29:14+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387622&tid=20387622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=98b889c4e8ca11f181621ef0c9e233e5&au=c2ea62bd0e1443b189fc940111ce294f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:20:27+00:00",
-   "real_price": 429.99,
-   "real_old": 649.99
   }
  ],
  "tech": [
+  {
+   "id": "t0779b4632c2",
+   "title": "42mm Apple Watch Series 11 GPS Smartwatch (Black Aluminum Case",
+   "price": 259.99,
+   "old_price": 399.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22583478.thumb",
+   "posted": "2026-11-25T14:32:17+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 259.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394588&tid=20394588&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=f578582ee8de11f1b2c532033c67b9dc&au=649a3011d1c3424f926fe9b9b1d3f906&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t4eb9142ad08",
    "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones + Free S&H",
@@ -16155,6 +16182,33 @@
      "store": "Walmart",
      "price": 399.5,
      "url": "https://www.walmart.com/ip/17824368946"
+    }
+   ]
+  },
+  {
+   "id": "t48bceaf997b",
+   "title": "Logitech Lift Vertical Ergonomic Wireless Mouse (Graphite)",
+   "price": 52.24,
+   "old_price": 79.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393838&tid=20393838&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=f6bc5d48e8de11f198f6b655d609ea7e&au=1b49ba0b36804cf08419c327fac6d8eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393838&tid=20393838&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=f6bc5d48e8de11f198f6b655d609ea7e&au=1b49ba0b36804cf08419c327fac6d8eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581375.thumb",
+   "posted": "2026-11-25T12:37:55+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 52.24,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393838&tid=20393838&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=f6bc5d48e8de11f198f6b655d609ea7e&au=1b49ba0b36804cf08419c327fac6d8eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18718,6 +18772,33 @@
    ]
   },
   {
+   "id": "t8b47a70821c",
+   "title": "INNOCN 49\" Curved DQHD 5120 x 1440P 240Hz 1800R Ultrawide Gaming Monitor | HDR400,1ms, FreeSync",
+   "price": 599.99,
+   "old_price": 844.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389410&tid=20389410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9f1ead2e8de11f1a39592142a66bc6a&au=1441ead057c7482d98073eb1802b16a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389410&tid=20389410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9f1ead2e8de11f1a39592142a66bc6a&au=1441ead057c7482d98073eb1802b16a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/3/4/7/0/300x300/22570470.thumb",
+   "posted": "2026-11-24T20:46:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389410&tid=20389410&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f9f1ead2e8de11f1a39592142a66bc6a&au=1441ead057c7482d98073eb1802b16a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t84230817f69",
    "title": "Pocket Juice 20,000mAh Slim Pro Portable Power Bank",
    "price": 9.0,
@@ -19067,88 +19148,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388789&tid=20388789&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=1193113ce84611f181f30a451162acfc&au=fa9b1b67409a4140b3253f241742b1d6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6e7169fb8c1",
-   "title": "43\" onn 1080p FHD Vizio Smart TV + Free S&H",
-   "price": 89.0,
-   "old_price": 178.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/20232568012",
-   "url": "https://www.walmart.com/ip/20232568012",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22531233.thumb",
-   "posted": "2026-11-24T19:03:35+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 89.0,
-     "url": "https://www.walmart.com/ip/20232568012"
-    }
-   ]
-  },
-  {
-   "id": "tb7a8c1bd1ad",
-   "title": "Apple AirPods Pro 3 w/Filler item",
-   "price": 139.0,
-   "old_price": 249.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/17835006350",
-   "url": "https://www.walmart.com/ip/17835006350",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568577.thumb",
-   "posted": "2026-11-24T18:55:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 139.0,
-     "url": "https://www.walmart.com/ip/17835006350"
-    }
-   ]
-  },
-  {
-   "id": "t6afe4ea7fb8",
-   "title": "BEST BUY iBUYPOWER - Slate Gaming Desktop PC Intel Core Ultra 5 225F 2025 INTEL Arc B570 10GB 16GB DDR5 1TB NVMe SSD Storage - Black",
-   "price": 135.0,
-   "old_price": 136.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388693&tid=20388693&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0e81a11ce84a11f19875024f8ebbeae0&au=8cb78e778bd447188e742d4bfb2381fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388693&tid=20388693&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0e81a11ce84a11f19875024f8ebbeae0&au=8cb78e778bd447188e742d4bfb2381fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22568586.thumb",
-   "posted": "2026-11-24T18:53:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 135.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388693&tid=20388693&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0e81a11ce84a11f19875024f8ebbeae0&au=8cb78e778bd447188e742d4bfb2381fd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T14:42:25+00:00"
+ "updated": "2026-11-25T14:47:08+00:00"
 }
