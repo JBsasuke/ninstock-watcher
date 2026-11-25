@@ -912,7 +912,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:57:54+00:00",
+   "checked_at": "2026-11-25T14:58:39+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1299,7 +1299,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T08:57:56+00:00",
+   "checked_at": "2026-11-25T14:58:41+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11594,10 +11594,10 @@
    "code": "7L89PLFN",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394510&tid=20394510&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2b0283b0e8e011f19b3d3639aa82b60b&au=8bd652c072804412ab203647d5915a7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T14:54:52+00:00",
    "real_price": 9.87,
-   "real_old": 18.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394510&tid=20394510&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2b0283b0e8e011f19b3d3639aa82b60b&au=8bd652c072804412ab203647d5915a7a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 18.99
   },
   {
    "id": "tcb46cd2d302",
@@ -13854,8 +13854,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2c5f4faee8e011f1b098665d004879ef&au=682f68d08b1c47b8bb5086703ee88f70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:54:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d4dae4e0e8e011f1a4068e7d4d9503e1&au=7ebbf6e639354dfe893f260f98f32473&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T14:59:37+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14868,6 +14868,24 @@
    "checked_at": "2026-11-25T00:15:11+00:00",
    "real_price": 329.99,
    "real_old": 499.99
+  },
+  {
+   "id": "t2ff4081423c",
+   "title": "FUBO TV -  Disney+, Hulu (with ads), ESPN Unlimited, FOX ONE now included with select Fubo Plans at no extra cost",
+   "price": 57.0,
+   "old_price": null,
+   "store": "fuboTV",
+   "url": "https://slickdeals.net/f/20389293-fubo-tv-disney-hulu-with-ads-espn-unlimited-fox-one-now-included-with-select-fubo-plans-at-no-extra-cost?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22570149.thumb",
+   "posted": "2026-11-24T20:24:32+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-25T14:59:39+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+fuboTV&sdtid=20389293&tid=20389293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d60b07bee8e011f18fad1e2915a3b2ea&au=34e83717c55c4dbe9852206393a033fe&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t53199f12d9d",
@@ -15895,24 +15913,6 @@
    "checked_at": "2026-11-24T17:43:44+00:00",
    "real_price": 74.49,
    "real_old": 129.99
-  },
-  {
-   "id": "td4fc413c7f7",
-   "title": "Bose SoundLink Micro Portable Bluetooth Speaker (2nd Gen, Blue Dusk) $79 + Free Shipping",
-   "price": 79.0,
-   "old_price": 129.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20387874-bose-soundlink-micro-portable-bluetooth-speaker-2nd-gen-blue-dusk-79-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/7/8/8/9/1/7/300x300/22566276.thumb",
-   "posted": "2026-11-24T16:53:11+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20387874&tid=20387874&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=fdd5f4fee88e11f186c482ae886e9f7c&au=e66a5102c17c41d899f635b44f6368f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T05:13:47+00:00",
-   "real_price": 79.0,
-   "real_old": 129.0
   }
  ],
  "tech": [
@@ -18881,6 +18881,33 @@
    ]
   },
   {
+   "id": "t2ff4081423c",
+   "title": "FUBO TV - Disney+, Hulu (with ads), ESPN Unlimited, FOX ONE now included with select Fubo Plans at no extra cost",
+   "price": 57.0,
+   "old_price": null,
+   "store": "fuboTV",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+fuboTV&sdtid=20389293&tid=20389293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d60b07bee8e011f18fad1e2915a3b2ea&au=34e83717c55c4dbe9852206393a033fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+fuboTV&sdtid=20389293&tid=20389293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d60b07bee8e011f18fad1e2915a3b2ea&au=34e83717c55c4dbe9852206393a033fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22570149.thumb",
+   "posted": "2026-11-24T20:24:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "fuboTV",
+     "price": 57.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+fuboTV&sdtid=20389293&tid=20389293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d60b07bee8e011f18fad1e2915a3b2ea&au=34e83717c55c4dbe9852206393a033fe&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t30a9c2ccbbd",
    "title": "Lenovo Wireless Headphone 2000 Over Ear Bluetooth Headphones",
    "price": 19.99,
@@ -19122,34 +19149,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367201&pno=1373106&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c2a118a6e83d11f1914e3a2e0ca96ef4&au=07ee6161e77749e4910ff36ff6f8ef7f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t769c34548fa",
-   "title": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset (Black) + Free S&H",
-   "price": 199.99,
-   "old_price": 379.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20374302&pno=1373091&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2663c9e0e83b11f195251a19d74c094d&au=a17f42c05dfc4c0a94385234351cbe55&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20374302&pno=1373091&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2663c9e0e83b11f195251a19d74c094d&au=a17f42c05dfc4c0a94385234351cbe55&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22531995.thumb",
-   "posted": "2026-11-24T19:10:47+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 199.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20374302&pno=1373091&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2663c9e0e83b11f195251a19d74c094d&au=a17f42c05dfc4c0a94385234351cbe55&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T14:55:51+00:00"
+ "updated": "2026-11-25T15:00:37+00:00"
 }
