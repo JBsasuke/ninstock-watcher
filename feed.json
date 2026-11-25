@@ -11715,9 +11715,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -11810,10 +11807,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:07:10+00:00",
    "real_price": 11.49,
-   "real_old": 22.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391759&tid=20391759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=734284dae89611f1913d9282c59f712d&au=db417cc9aa814ec7ba920627184367e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 22.99
   },
   {
    "id": "tb65f409e914",
@@ -11912,7 +11909,7 @@
    "old_price": 799.0,
    "store": "Walmart",
    "url": "https://slickdeals.net/f/20391501-399-50-for-apple-watch-series-11-gps-cellular-46mm-smartwatch-with-natural-titanium-case-with-natural-milanese-loop-s-m?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/7/8/8/7/2/300x300/22578051.thumb",
    "posted": "2026-11-25T03:04:37+00:00",
    "cat": "tablet",
    "cat_label": "Tablets y teléfonos",
@@ -12188,8 +12185,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7483c818e89611f1af999282c59f712d&au=ff4b986ae586401891a8b14a77bae233&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:07:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=df255edee89611f1a0273a23519809bf&au=54de8632e3484f1085a61cdcb9ccfbbc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T06:10:11+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13363,10 +13360,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388906&tid=20388906&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=75daf5d8e89611f196e142d60bedfcd3&au=5b9a1d1524394af6a4eeefb1ae0f7e08&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:07:14+00:00",
-   "real_price": 149.95,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388906&tid=20388906&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=75daf5d8e89611f196e142d60bedfcd3&au=5b9a1d1524394af6a4eeefb1ae0f7e08&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 149.95
   },
   {
    "id": "t7635ef13b65",
@@ -16137,7 +16133,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16280,6 +16276,33 @@
      "store": "Amazon",
      "price": 479.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&tid=20391654&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=3082e0c6e88811f19684e2c3ef94395a&au=a4e15479ab2a4f7898cb51d1cfd6f0c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tf4fa18f0917",
+   "title": "for Apple Watch Series 11 [GPS + Cellular 46mm] Smartwatch with Natural Titanium Case with Natural Milanese Loop - S/M",
+   "price": 399.5,
+   "old_price": 799.0,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&tid=20391501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad73d81ee89311f18295ea9025c1022d&au=aa8be6ec4cb44ec4b582599eb8221ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&tid=20391501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad73d81ee89311f18295ea9025c1022d&au=aa8be6ec4cb44ec4b582599eb8221ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/7/8/8/7/2/300x300/22578051.thumb",
+   "posted": "2026-11-25T03:04:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 399.5,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&tid=20391501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ad73d81ee89311f18295ea9025c1022d&au=aa8be6ec4cb44ec4b582599eb8221ac3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19192,34 +19215,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385510&tid=20385510&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=bf1e3562e80e11f18b6546899aec3623&au=5ff3530ace9843e6990762216fd53760&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t670c894741b",
-   "title": "75\" Insignia F50 Series 4K UHD LED Smart Fire TV + Free S&H",
-   "price": 349.99,
-   "old_price": 599.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&pno=1372776&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bfee756e7fb11f19ddcb6ae1fe76f64&au=9114ac646cad4931837a71f9b3d5c583&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&pno=1372776&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bfee756e7fb11f19ddcb6ae1fe76f64&au=9114ac646cad4931837a71f9b3d5c583&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22559679.thumb",
-   "posted": "2026-11-24T11:34:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 349.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20378985&pno=1372776&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4bfee756e7fb11f19ddcb6ae1fe76f64&au=9114ac646cad4931837a71f9b3d5c583&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T06:08:08+00:00"
+ "updated": "2026-11-25T06:11:10+00:00"
 }
