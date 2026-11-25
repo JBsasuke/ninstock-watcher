@@ -880,6 +880,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11467,6 +11469,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t73c26caa6bf",
+   "title": "Sennheiser Consumer Audio Momentum 4 ANC Wireless Headphones (Black/Copper) $159.95 + Free S&H",
+   "price": 159.95,
+   "old_price": 299.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20398170-159-95-sennheiser-consumer-audio-momentum-4-wireless-headphones-black-copper-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22593846.thumb",
+   "posted": "2026-11-25T22:30:13+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:31:36+00:00",
+   "real_price": 159.95,
+   "real_old": 299.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t19616304f35",
    "title": "Lenovo Idea Tab: 11\" 2.5K Touch, MediaTek Dimensity 6300, 8GB RAM, 256GB UFS $210 + Free S&H",
    "price": 209.99,
@@ -11479,10 +11499,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372241&pno=1374186&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5487adfce91f11f194ca3ea1188bd8d8&au=6e421d3bba8a4a3ca9627f83c0bb01e6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:27:00+00:00",
    "real_price": 209.99,
-   "real_old": 269.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372241&pno=1374186&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5487adfce91f11f194ca3ea1188bd8d8&au=6e421d3bba8a4a3ca9627f83c0bb01e6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 269.99
   },
   {
    "id": "t1871c2c4c12",
@@ -12427,7 +12447,7 @@
    "cat_label": "Códigos de tienda",
    "prio": 16,
    "refurb": false,
-   "code": "BLACK20",
+   "code": "PRE15",
    "code_until": null,
    "promo": "Extra 20% Off",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -12813,8 +12833,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=55d36c1ee91f11f18dc90a3f52fa3241&au=c00eaf0a51214c6ab1416c96a6228630&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:27:03+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fa7fb2e0e91f11f1a4917697f74658a6&au=89aa0b13631e45ac86da3009aa6fbbd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:31:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13076,8 +13096,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=57d593ace91f11f18335e2d15ede6141&au=e0e724468fcf448793eddeea6b14e069&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:27:05+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fbaceb24e91f11f1af557697f74658a6&au=ba377df1501540b091393fefbf4791ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:31:40+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15901,27 +15921,36 @@
    "checked_at": "2026-11-25T02:29:07+00:00",
    "real_price": 59.98,
    "real_old": 99.99
-  },
-  {
-   "id": "tfc6917f28a8",
-   "title": "ZAGG Messenger Folio 2 Wireless Keyboard and Case for Apple iPad 11\" 11th Gen (A16) and 10.9\" 10th Gen",
-   "price": 35.99,
-   "old_price": 65.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20391261-zagg-messenger-folio-2-wireless-keyboard-and-case-for-apple-ipad-11-11th-gen-a16-and-10-9-10th-gen?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/8/9/3/300x300/22574961.thumb",
-   "posted": "2026-11-25T02:17:23+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391261&tid=20391261&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e9ef933ee8af11f19a09768fc20c66d0&au=6d67d19ac7274fd38b7834c7aedf680b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T09:09:27+00:00",
-   "real_price": 35.99,
-   "real_old": 65.0
   }
  ],
  "tech": [
+  {
+   "id": "t73c26caa6bf",
+   "title": "Sennheiser Consumer Audio Momentum 4 ANC Wireless Headphones (Black/Copper) + Free S&H",
+   "price": 159.95,
+   "old_price": 299.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22593846.thumb",
+   "posted": "2026-11-25T22:30:13+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 159.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t19616304f35",
    "title": "Lenovo Idea Tab: 11\" 2.5K Touch, MediaTek Dimensity 6300, 8GB RAM, 256GB UFS + Free S&H",
@@ -16811,7 +16840,7 @@
    "cat_label": "Códigos de tienda",
    "refurb": false,
    "glitch": false,
-   "code": "BLACK20",
+   "code": "PRE15",
    "code_until": null,
    "promo": "Extra 20% Off",
    "offers": []
@@ -17173,8 +17202,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=55d36c1ee91f11f18dc90a3f52fa3241&au=c00eaf0a51214c6ab1416c96a6228630&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=55d36c1ee91f11f18dc90a3f52fa3241&au=c00eaf0a51214c6ab1416c96a6228630&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fa7fb2e0e91f11f1a4917697f74658a6&au=89aa0b13631e45ac86da3009aa6fbbd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fa7fb2e0e91f11f1a4917697f74658a6&au=89aa0b13631e45ac86da3009aa6fbbd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17190,7 +17219,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=55d36c1ee91f11f18dc90a3f52fa3241&au=c00eaf0a51214c6ab1416c96a6228630&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fa7fb2e0e91f11f1a4917697f74658a6&au=89aa0b13631e45ac86da3009aa6fbbd3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17362,8 +17391,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=57d593ace91f11f18335e2d15ede6141&au=e0e724468fcf448793eddeea6b14e069&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=57d593ace91f11f18335e2d15ede6141&au=e0e724468fcf448793eddeea6b14e069&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fbaceb24e91f11f1af557697f74658a6&au=ba377df1501540b091393fefbf4791ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fbaceb24e91f11f1af557697f74658a6&au=ba377df1501540b091393fefbf4791ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17379,7 +17408,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=57d593ace91f11f18335e2d15ede6141&au=e0e724468fcf448793eddeea6b14e069&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fbaceb24e91f11f1af557697f74658a6&au=ba377df1501540b091393fefbf4791ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19110,34 +19139,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392212&tid=20392212&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0604ca84e8fc11f1af08ae6475442606&au=8b57343dab50408d844e8c395cab9f45&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "ta4838d0673a",
-   "title": "Samsung 65-Inch Class M80H Series Mini LED 4K Smart TV - Amazon",
-   "price": 497.99,
-   "old_price": 647.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392170&tid=20392170&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ff9d8852e89211f1a666265483ea9ccb&au=10aaa1c8b7d64316878fd40bf9238c8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392170&tid=20392170&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ff9d8852e89211f1a666265483ea9ccb&au=10aaa1c8b7d64316878fd40bf9238c8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22577262.thumb",
-   "posted": "2026-11-25T05:09:12+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 497.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392170&tid=20392170&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ff9d8852e89211f1a666265483ea9ccb&au=10aaa1c8b7d64316878fd40bf9238c8f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T22:27:56+00:00"
+ "updated": "2026-11-25T22:32:32+00:00"
 }
