@@ -14,13 +14,13 @@
    "posted": "2026-11-25T20:01:32+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T20:02:46+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&pno=1374060&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2e8fce9ae90b11f1b5d5de367f514e35&au=160a3cc831b6480bab31629ad18d74c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T20:02:46+00:00",
+   "real_price": 30.0,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "77d424cdc77b",
@@ -98,13 +98,13 @@
    "posted": "2026-11-25T19:39:32+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T20:02:48+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&pno=1374060&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2fbed0aee90b11f192b642d4915b0ba3&au=e38648e2b97047f3a0898f3f09893fa6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T20:02:48+00:00",
+   "real_price": 30.0,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "eda3eba315cf",
@@ -669,6 +669,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -10917,6 +10919,18 @@
  ],
  "news": [
   {
+   "id": "b71b1621307b",
+   "date_ok": true,
+   "seeded": true,
+   "title": "KuloNiku: Bowl Up! – Launch Trailer – Nintendo Switch 2",
+   "summary": "Prepare unique meals for quirky small-town locals, upgrade and customize your shop, compete in thrilling cooking battles, and protect your family’s long-running restaurant!",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=MiE6-XaL8Hw",
+   "image": "https://i.ytimg.com/vi/MiE6-XaL8Hw/hqdefault.jpg",
+   "posted": "2026-11-25T20:00:29+00:00"
+  },
+  {
    "id": "aldia-7b2ecf7ffe",
    "title": "Nintendo Switch Sports Resort ya está disponible para Switch 2 con nuevos estilos",
    "summary": "Nintendo Switch Sports Resort llega a Switch 2 con 12 deportes y una tienda de personalización que se renueva cada semana. Así funciona.",
@@ -11487,18 +11501,6 @@
    "url": "https://www.youtube.com/shorts/5KNxmgd4cP0",
    "image": "https://i.ytimg.com/vi/5KNxmgd4cP0/hqdefault.jpg",
    "posted": "2026-11-21T17:00:13+00:00"
-  },
-  {
-   "id": "810be1adca63",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 1 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 1 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=7_W6Qin4dHU",
-   "image": "https://i.ytimg.com/vi/7_W6Qin4dHU/hqdefault.jpg",
-   "posted": "2026-11-21T01:35:10+00:00"
   }
  ],
  "raw_tech": [
@@ -12229,8 +12231,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63e5e9a8e90b11f1acf64af6d5f80e5a&au=02c112db91b94f0c9cb0622388368a28&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:04:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dcb8ddd6e90b11f1b374ae29761d79cc&au=fbc046caf4094ff8be3f3c995fdf4950&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:07:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12492,10 +12494,28 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=652b2c2ee90b11f1a92d3ea1188bd8d8&au=6a44ab464e1045349901dbb632a1af47&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:04:18+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddefacace90b11f18e01f296ad6801c7&au=e1647afcd35a4eb28b98a21669badd6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:07:41+00:00",
    "real_price": 4.99,
    "real_old": 17.99
+  },
+  {
+   "id": "tcea89524ebc",
+   "title": "Blackstone 1971 Original 17\" Omnivore Tabletop Griddle, Black - $62.53",
+   "price": 62.53,
+   "old_price": 120.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20395152-blackstone-1971-original-17-omnivore-tabletop-griddle-black-62-53?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22585371.thumb",
+   "posted": "2026-11-25T15:24:36+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-25T20:07:43+00:00",
+   "real_price": 62.53,
+   "real_old": 120.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tafb3372b0f7",
@@ -13502,10 +13522,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393172&tid=20393172&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6655c8a2e90b11f1ade1cabe8a6132c7&au=be27468626c04d00b31fc646e9079f92&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:04:19+00:00",
    "real_price": 109.0,
-   "real_old": 159.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393172&tid=20393172&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6655c8a2e90b11f1ade1cabe8a6132c7&au=be27468626c04d00b31fc646e9079f92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 159.0
   },
   {
    "id": "t34593102620",
@@ -15305,8 +15325,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=67a8425ce90b11f1aed0a6347ebcad26&au=ec74e64df76a4be8b13c6091bf918973&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:04:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e0eed96ee90b11f18273ca8bdf8c1ef2&au=35debdf9c6cd404dbce0ddb522fc2b92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:07:45+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15927,24 +15947,6 @@
    "checked_at": "2026-11-24T22:29:07+00:00",
    "real_price": 749.99,
    "real_old": 1199.99
-  },
-  {
-   "id": "t1c2af932e15",
-   "title": "monTEK Full Motion TV Wall Mount for 13-43\" TVs (Black) $14.99 + Free Shipping w/ Prime or on $35+",
-   "price": 14.99,
-   "old_price": 21.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389968-montek-full-motion-tv-wall-mount-for-13-43-tvs-black-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22571931.thumb",
-   "posted": "2026-11-24T22:22:44+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389968&tid=20389968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0fd33698e8e511f1928a9acebc2aa154&au=958d423f5666436bba425ae156f303f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:29:54+00:00",
-   "real_price": 14.99,
-   "real_old": 21.99
   }
  ],
  "tech": [
@@ -16644,8 +16646,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63e5e9a8e90b11f1acf64af6d5f80e5a&au=02c112db91b94f0c9cb0622388368a28&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63e5e9a8e90b11f1acf64af6d5f80e5a&au=02c112db91b94f0c9cb0622388368a28&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dcb8ddd6e90b11f1b374ae29761d79cc&au=fbc046caf4094ff8be3f3c995fdf4950&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dcb8ddd6e90b11f1b374ae29761d79cc&au=fbc046caf4094ff8be3f3c995fdf4950&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16661,7 +16663,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63e5e9a8e90b11f1acf64af6d5f80e5a&au=02c112db91b94f0c9cb0622388368a28&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dcb8ddd6e90b11f1b374ae29761d79cc&au=fbc046caf4094ff8be3f3c995fdf4950&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16833,8 +16835,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=652b2c2ee90b11f1a92d3ea1188bd8d8&au=6a44ab464e1045349901dbb632a1af47&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=652b2c2ee90b11f1a92d3ea1188bd8d8&au=6a44ab464e1045349901dbb632a1af47&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddefacace90b11f18e01f296ad6801c7&au=e1647afcd35a4eb28b98a21669badd6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddefacace90b11f18e01f296ad6801c7&au=e1647afcd35a4eb28b98a21669badd6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16850,7 +16852,34 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=652b2c2ee90b11f1a92d3ea1188bd8d8&au=6a44ab464e1045349901dbb632a1af47&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ddefacace90b11f18e01f296ad6801c7&au=e1647afcd35a4eb28b98a21669badd6c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tcea89524ebc",
+   "title": "Blackstone 1971 Original 17\" Omnivore Tabletop Griddle, Black",
+   "price": 62.53,
+   "old_price": 120.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22585371.thumb",
+   "posted": "2026-11-25T15:24:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 62.53,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19142,34 +19171,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391363&tid=20391363&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a69aa864e88f11f19c1e922f1fbb29a2&au=4f28a7ad277b4c348b7d8a945e07d186&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t0214e632ca9",
-   "title": "8.8\" Legion Tab Gen 5 Tablet: 3K 165Hz IPS, Snapdragon 8 Elite, 12GB RAM, 256GB + Free S&H",
-   "price": 581.99,
-   "old_price": 899.99,
-   "store": "Lenovo",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&pno=1373418&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47d8cad8e87911f19480768fc20c66d0&au=ba248024d40048468456a965d3b2ac4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&pno=1373418&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47d8cad8e87911f19480768fc20c66d0&au=ba248024d40048468456a965d3b2ac4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22575159.thumb",
-   "posted": "2026-11-25T02:33:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lenovo",
-     "price": 581.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20387742&pno=1373418&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47d8cad8e87911f19480768fc20c66d0&au=ba248024d40048468456a965d3b2ac4a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T20:05:11+00:00"
+ "updated": "2026-11-25T20:08:33+00:00"
 }
