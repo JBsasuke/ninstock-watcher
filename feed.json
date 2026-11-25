@@ -98,10 +98,12 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T06:47:10+00:00",
+   "checked_at": "2026-11-25T08:57:59+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -633,7 +635,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T02:55:23+00:00",
+   "checked_at": "2026-11-25T08:57:54+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1020,7 +1022,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T02:55:25+00:00",
+   "checked_at": "2026-11-25T08:57:56+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11406,41 +11408,6 @@
    "posted": "2026-11-24T01:02:03+00:00"
   },
   {
-   "id": "aldia-48187ba6d9",
-   "title": "Nintendo explica cómo cambiar la batería del mando Pro de Switch 2",
-   "summary": "Nintendo publicó una guía para sustituir la batería de un modelo del mando Pro de Switch 2. Solo algunas versiones permiten el cambio.",
-   "lang": "es",
-   "source": "Nintendo",
-   "url": "https://aldiard.com/n/48187ba6d9.html",
-   "image": null,
-   "posted": "2026-11-23T22:54:17.194967+00:00",
-   "video": null,
-   "es": {
-    "title": "Nintendo explica cómo cambiar la batería del mando Pro de Switch 2",
-    "summary": "Nintendo publicó una guía para sustituir la batería de un modelo del mando Pro de Switch 2. Solo algunas versiones permiten el cambio.",
-    "body": [
-     "Nintendo publicó una guía oficial para sustituir la batería del mando Pro de Nintendo Switch 2. La empresa aclara que el procedimiento solo corresponde a un modelo específico del mando, identificado como BEE-008(-01).",
-     "Según la guía, existen dos versiones del mando. El modelo BEE-008(-01) contiene una batería que los usuarios pueden sustituir. El modelo BEE-008, en cambio, tiene una batería que no puede cambiarse por el usuario, por lo que la guía recomienda identificar el modelo antes de cualquier intento.",
-     "Para el cambio, Nintendo indica usar el kit de recambio de batería BEE-017(-01), que incluye la batería y las herramientas necesarias. Estos productos se podrán adquirir en Nintendo Store en el futuro, según la empresa.",
-     "La guía insiste en varias advertencias. La sustitución debe estar a cargo de una persona adulta. No deben usarse baterías dañadas, deformadas o expuestas al calor, y si la batería se calienta durante el proceso, hay que detenerlo de inmediato. Además, Nintendo recomienda trabajar en un lugar seco, sobre una superficie no metálica, y no apretar en exceso los tornillos al volver a armar el mando.",
-     "Por último, la empresa pide no tirar la batería a la basura doméstica. Antes de desecharla, debe cubrirse el conector con cinta, no retirar la etiqueta y no romperla ni desmontarla."
-    ],
-    "url": "https://aldiard.com/n/48187ba6d9.html"
-   },
-   "en": {
-    "title": "Nintendo Explains How to Replace the Switch 2 Pro Controller Battery",
-    "summary": "Nintendo has released a guide for replacing the battery in one version of the Switch 2 Pro Controller. Not every model can be repaired this way.",
-    "body": [
-     "Nintendo has published an official guide for replacing the battery in the Nintendo Switch 2 Pro Controller. The company says the procedure applies only to one specific model, identified as BEE-008(-01).",
-     "According to the guide, there are two versions of the controller. The BEE-008(-01) model contains a battery that users can replace. The BEE-008 model, by contrast, has a battery that users cannot change, so the guide recommends identifying the model before attempting any repair.",
-     "For the replacement, Nintendo specifies the BEE-017(-01) battery kit, which includes the battery and the necessary tools. The company says these products will be available at Nintendo Store in the future.",
-     "The guide includes several warnings. An adult must carry out the replacement. Damaged, deformed or heat-exposed batteries should not be used, and if the battery heats up during the process, it should be stopped immediately. Nintendo also recommends working in a dry place on a non-metallic surface and not overtightening the screws when reassembling the controller.",
-     "Finally, the company asks people not to throw the battery in household trash. Before disposal, the connector should be covered with tape, the label should not be removed, and the battery should not be broken or disassembled."
-    ],
-    "url": "https://aldiard.com/en/n/48187ba6d9.html"
-   }
-  },
-  {
    "id": "73108792b62f",
    "date_ok": true,
    "seeded": true,
@@ -11619,9 +11586,39 @@
    "url": "https://www.youtube.com/watch?v=6FnDoxOyQbo",
    "image": "https://i.ytimg.com/vi/6FnDoxOyQbo/hqdefault.jpg",
    "posted": "2026-11-20T22:26:11+00:00"
+  },
+  {
+   "id": "0d8a4671249f",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Disney Dreamlight Valley: The Keepsake Sea – Launch Trailer – Nintendo Switch 2",
+   "summary": "Become a magical mermaid and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and set sail on a thrilling new ocean adventure. Befriend five new Villagers and an Adventure Companion, including Milo Thatch, Captain Jack Sparrow, Megara, Captain Hook, Wendy, and Dory!",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
+   "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
+   "posted": "2026-11-18T20:00:12+00:00"
   }
  ],
  "raw_tech": [
+  {
+   "id": "td51a33496b4",
+   "title": "27\" Alienware AW2725QF Dual Resolution 4K/FHD IPS 360Hz Monitor $280 + Free S&H",
+   "price": 279.99,
+   "old_price": 488.69,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20388675-27-alienware-aw2725qf-4k-dual-resolution-ips-gaming-monitor-279-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22568313.thumb",
+   "posted": "2026-11-25T08:57:19+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T08:58:52+00:00",
+   "real_price": 279.99,
+   "real_old": 488.69,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
   {
    "id": "t8627979158a",
    "title": "Costco Members: 128GB 8.5\" Apple iPad Mini Wi-Fi Tablet w/ A20 Pro 1-year AppleCare+ Included $599.99",
@@ -11692,7 +11689,7 @@
    "prio": 7,
    "refurb": false,
    "code": "20MOUSE",
-   "code_until": "2026-11-25",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
@@ -11903,10 +11900,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T08:54:10+00:00",
    "real_price": 250.0,
-   "real_old": 529.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&tid=20392407&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=c74427f2e8ad11f1a0ac76a6fa3bae94&au=e4773f904ac04737a8e60e0d7049fbe4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 529.99
   },
   {
    "id": "t5d955389f5b",
@@ -12142,9 +12139,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12669,8 +12663,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c880eefce8ad11f186513e27a8062ab8&au=7a31d8865d794c369ce8cded4bfce636&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:54:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=715df876e8ae11f1897916501822eb72&au=f2d6d04e7e294481bdeae7d31685c9a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T08:58:55+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15610,6 +15604,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16037,27 +16034,36 @@
    "checked_at": "2026-11-24T17:01:27+00:00",
    "real_price": 249.99,
    "real_old": 699.99
-  },
-  {
-   "id": "ta0e1532824e",
-   "title": "[Prime] 2-Pack GoveeLife H5108 Bluetooth Refrigerator Thermometer w/ LCD Display $29.99 + Free Shipping",
-   "price": 29.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385234-prime-2-pack-goveelife-h5108-bluetooth-refrigerator-thermometer-w-lcd-display-29-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22558428.thumb",
-   "posted": "2026-11-24T10:50:00+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385234&tid=20385234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ce0ce3ce80911f192ed2e7fc0556dec&au=4fe50813ffbf4228a6fa48ed2aa327ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:17:13+00:00",
-   "real_price": 29.99,
-   "real_old": 39.99
   }
  ],
  "tech": [
+  {
+   "id": "td51a33496b4",
+   "title": "27\" Alienware AW2725QF Dual Resolution 4K/FHD IPS 360Hz Monitor + Free S&H",
+   "price": 279.99,
+   "old_price": 488.69,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22568313.thumb",
+   "posted": "2026-11-25T08:57:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 279.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tcb0ecea6dd1",
    "title": "CyberPowerPC Desktop: i7-14700F, RTX 5060 Ti 8GB, 16GB DDR5, 1TB SSD + Free S&H",
@@ -16560,7 +16566,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19264,34 +19270,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20386551&tid=20386551&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=aebd10cae82811f18813aa3c0bb811ca&au=84a279654b274daa877c3b459feaba85&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf2cc0dc8c38",
-   "title": "6000mAh Ultra Slim Card-Size Power Bank",
-   "price": 13.99,
-   "old_price": 27.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386494&tid=20386494&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=29904150e86011f1963fc2e14d85113f&au=02a79e23b89b4fccb9b6e1eb23a24401&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386494&tid=20386494&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=29904150e86011f1963fc2e14d85113f&au=02a79e23b89b4fccb9b6e1eb23a24401&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22562799.thumb",
-   "posted": "2026-11-24T14:11:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "C9CAE6SV",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 13.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386494&tid=20386494&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=29904150e86011f1963fc2e14d85113f&au=02a79e23b89b4fccb9b6e1eb23a24401&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T08:55:05+00:00"
+ "updated": "2026-11-25T08:59:50+00:00"
 }
