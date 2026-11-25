@@ -56,13 +56,13 @@
    "posted": "2026-11-25T21:46:30+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T21:58:14+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=4fca9940e91b11f19019c2b7c1e0cc5d&au=c84bdf7fec7e447e88d53e9333725cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T21:58:14+00:00",
+   "real_price": 30.0,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "0856c887f92a",
@@ -476,13 +476,13 @@
    "posted": "2026-11-25T16:40:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T21:58:12+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 79.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4ea7c1fae91b11f1bc98e283662d4aca&au=0ec22600fa0d42848af97cfc0c6ebbd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T21:58:12+00:00",
+   "real_price": 30.0,
+   "real_old": 79.99,
+   "category_ok": true
   },
   {
    "id": "4eadf7e6f5ad",
@@ -1164,7 +1164,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&pno=1373217&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=be674ca6e85111f19f775205667f8650&au=82bc946b1adf42b7924c9d6a8f2d3e49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T16:00:59+00:00",
+   "checked_at": "2026-11-25T22:03:09+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11469,6 +11469,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tdae612eaea6",
+   "title": "AMD Ryzen Threadripper PRO 5955WX 16-Core 32-Thread Desktop Processor $695.20 + Free S/H",
+   "price": 695.2,
+   "old_price": 779.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20375439-amd-ryzen-threadripper-pro-5955wx-16-core-32-thread-desktop-processor-695-20-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22534725.thumb",
+   "posted": "2026-11-25T22:01:38+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-25T22:04:01+00:00",
+   "real_price": 695.2,
+   "real_old": 779.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375439&pno=1374165&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=1ef02474e91c11f180dce283662d4aca&au=76260b8523d7495d865de72c37b79c55&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9e140848596",
    "title": "29-Pc Bosch Gold Oxide Drill Bits Set w/ Holding Case (Assorted Sizes) $31",
    "price": 30.99,
@@ -12726,8 +12744,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=771e39a2e91b11f19cf1622a74d2d7ac&au=32775bccc0924247869630a1a49f843b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:59:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20237ec2e91c11f1b1e60e98221ab319&au=eae122133d9c4006b37f5137919f99f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:04:03+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12989,8 +13007,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7851ce56e91b11f1a0092e64caeb3894&au=f8e313459e8d4dbeb9c3b004136c498a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:59:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=21875b58e91c11f18e46e283662d4aca&au=e3fec06761f44bf28d8844f8d0e042e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T22:04:06+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13281,10 +13299,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394564&tid=20394564&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=797ed8d2e91b11f1ab2236cb607acb7d&au=c2a8844a653f46cb8cf822f26c99b64b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:59:24+00:00",
    "real_price": 26.49,
-   "real_old": 52.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394564&tid=20394564&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=797ed8d2e91b11f1ab2236cb607acb7d&au=c2a8844a653f46cb8cf822f26c99b64b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 52.99
   },
   {
    "id": "t9d93d337c63",
@@ -13979,7 +13997,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15261,6 +15279,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -15901,27 +15922,36 @@
    "checked_at": "2026-11-25T08:17:13+00:00",
    "real_price": 17.99,
    "real_old": 29.99
-  },
-  {
-   "id": "tcfd85cd076d",
-   "title": "Deyhoc Compressed Air Duster, 150000 RPM, 4-Gear Adjustable, Silver | Rechargeable Brushless Blower, LED display screen, 0.5 lb Lightweight,5 Nozzles,Dust Remover $19.99",
-   "price": 19.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391132-deyhoc-compressed-air-duster-150000-rpm-4-gear-adjustable-silver-rechargeable-brushless-blower-led-display-screen-0-5-lb-lightweight-5-nozzles-dust-remover-19-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/7/5/0/1/0/9/300x300/22574610.thumb",
-   "posted": "2026-11-25T01:49:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391132&tid=20391132&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=981e9ab8e88311f192c21e83d656e152&au=baa1583192d54ceab9eb4326532f4d2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T03:52:12+00:00",
-   "real_price": 19.99,
-   "real_old": 39.99
   }
  ],
  "tech": [
+  {
+   "id": "tdae612eaea6",
+   "title": "AMD Ryzen Threadripper PRO 5955WX 16-Core 32-Thread Desktop Processor",
+   "price": 695.2,
+   "old_price": 779.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375439&pno=1374165&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=1ef02474e91c11f180dce283662d4aca&au=76260b8523d7495d865de72c37b79c55&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375439&pno=1374165&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=1ef02474e91c11f180dce283662d4aca&au=76260b8523d7495d865de72c37b79c55&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22534725.thumb",
+   "posted": "2026-11-25T22:01:38+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 695.2,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375439&pno=1374165&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=1ef02474e91c11f180dce283662d4aca&au=76260b8523d7495d865de72c37b79c55&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tba40a0deab2",
    "title": "BLUETTI Solar Generator Elite 300 Power Station & 1200W Alternator Charger 2 + Free S&H",
@@ -17038,8 +17068,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=771e39a2e91b11f19cf1622a74d2d7ac&au=32775bccc0924247869630a1a49f843b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=771e39a2e91b11f19cf1622a74d2d7ac&au=32775bccc0924247869630a1a49f843b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20237ec2e91c11f1b1e60e98221ab319&au=eae122133d9c4006b37f5137919f99f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20237ec2e91c11f1b1e60e98221ab319&au=eae122133d9c4006b37f5137919f99f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17055,7 +17085,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=771e39a2e91b11f19cf1622a74d2d7ac&au=32775bccc0924247869630a1a49f843b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20237ec2e91c11f1b1e60e98221ab319&au=eae122133d9c4006b37f5137919f99f0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17227,8 +17257,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7851ce56e91b11f1a0092e64caeb3894&au=f8e313459e8d4dbeb9c3b004136c498a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7851ce56e91b11f1a0092e64caeb3894&au=f8e313459e8d4dbeb9c3b004136c498a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=21875b58e91c11f18e46e283662d4aca&au=e3fec06761f44bf28d8844f8d0e042e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=21875b58e91c11f18e46e283662d4aca&au=e3fec06761f44bf28d8844f8d0e042e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17244,7 +17274,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7851ce56e91b11f1a0092e64caeb3894&au=f8e313459e8d4dbeb9c3b004136c498a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=21875b58e91c11f18e46e283662d4aca&au=e3fec06761f44bf28d8844f8d0e042e1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18075,7 +18105,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19110,34 +19140,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388789&pno=1373544&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=0432d33ce88d11f1841dc255943bc6c7&au=c77b94d900774eadb7fee729ffee17f6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te558fe6a556",
-   "title": "FS AMAZON SwissGear 2762 ScanSmart Laptop Backpack, Fits Most 16 Inch Laptops, TSA Friendly",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391948&tid=20391948&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=0e5ebaaee90211f1a71082e6f64bb727&au=2e276823301a45298914cec7c911b77e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391948&tid=20391948&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=0e5ebaaee90211f1a71082e6f64bb727&au=2e276823301a45298914cec7c911b77e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22576617.thumb",
-   "posted": "2026-11-25T04:24:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391948&tid=20391948&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=0e5ebaaee90211f1a71082e6f64bb727&au=2e276823301a45298914cec7c911b77e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T22:00:21+00:00"
+ "updated": "2026-11-25T22:04:55+00:00"
 }
