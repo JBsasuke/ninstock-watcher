@@ -14,13 +14,13 @@
    "posted": "2026-11-25T13:32:05+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T13:35:41+00:00",
-   "category_ok": false,
-   "real_price": 31.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T13:35:41+00:00",
+   "real_price": 31.99,
+   "real_old": 49.99,
+   "category_ok": false
   },
   {
    "id": "ebfdfacc1b30",
@@ -35,13 +35,13 @@
    "posted": "2026-11-25T13:32:05+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T13:35:43+00:00",
-   "category_ok": false,
-   "real_price": 31.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ca44ae8e8d511f1951d7a55f551cdc8&au=426510045fa143518b4326bec3e42c63&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T13:35:43+00:00",
+   "real_price": 31.99,
+   "real_old": 49.99,
+   "category_ok": false
   },
   {
    "id": "936906d6437e",
@@ -11491,10 +11491,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20394072&tid=20394072&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=3cf67a78e8d511f1badcf61e9dceb8c9&au=d22392bf177448978a180657f7a38e01&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T13:36:37+00:00",
    "real_price": 19.97,
-   "real_old": 39.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20394072&tid=20394072&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=3cf67a78e8d511f1badcf61e9dceb8c9&au=d22392bf177448978a180657f7a38e01&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.97
   },
   {
    "id": "t7b967483acc",
@@ -13472,8 +13472,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3e594eaee8d511f185959668c4e04009&au=60027db33b0e4005b6ef8dbdd681e601&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:36:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=df5f4920e8d511f1a8f07a55f551cdc8&au=01951b3427384562bd2fdf804a2279b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T13:41:10+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14220,6 +14220,24 @@
    "checked_at": "2026-11-24T21:33:17+00:00",
    "real_price": 699.0,
    "real_old": 799.0
+  },
+  {
+   "id": "t428a513a220",
+   "title": "Razer DeathAdder Essential Wired Optical Gaming Mouse (Mercury White) $13.79 + Free Shipping w/ Prime or on $35+",
+   "price": 13.79,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20389650-razer-deathadder-essential-wired-optical-gaming-mouse-mercury-white-13-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22571199.thumb",
+   "posted": "2026-11-24T21:25:38+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:41:12+00:00",
+   "real_price": 13.79,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389650&tid=20389650&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=e0bac4a2e8d511f1a4927a55f551cdc8&au=418ac5a8e697474db6514e7596ad54e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t2ef80f6ae06",
@@ -15855,27 +15873,6 @@
    "promo": null,
    "checked_at": "2026-11-24T15:38:11+00:00",
    "real_price": 59.0
-  },
-  {
-   "id": "td301efb3db2",
-   "title": "Prime: Monalife 12-Pack Travel Vacuum Bags with Rechargeable Electric Pump $18.99 + Free Shipping",
-   "price": 18.99,
-   "old_price": 37.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20387076-prime-monalife-12-pack-travel-vacuum-bags-with-rechargeable-electric-pump-18-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22564389.thumb",
-   "posted": "2026-11-24T15:26:44+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "P8S0FHKE",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387076&tid=20387076&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4a2e5f0ae87911f18760768fc20c66d0&au=13363370c5d0439c90efc1b814b5a1b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T02:38:26+00:00",
-   "real_price": 18.99,
-   "real_old": 37.98
   }
  ],
  "tech": [
@@ -18304,6 +18301,33 @@
    ]
   },
   {
+   "id": "t428a513a220",
+   "title": "Razer DeathAdder Essential Wired Optical Gaming Mouse (Mercury White)",
+   "price": 13.79,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389650&tid=20389650&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=e0bac4a2e8d511f1a4927a55f551cdc8&au=418ac5a8e697474db6514e7596ad54e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389650&tid=20389650&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=e0bac4a2e8d511f1a4927a55f551cdc8&au=418ac5a8e697474db6514e7596ad54e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22571199.thumb",
+   "posted": "2026-11-24T21:25:38+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 13.79,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389650&tid=20389650&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=e0bac4a2e8d511f1a4927a55f551cdc8&au=418ac5a8e697474db6514e7596ad54e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tc7b8af0922f",
    "title": "TALIX 20000mAh 140W USB-C Laptop Power Bank",
    "price": 35.99,
@@ -19085,34 +19109,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20388450&tid=20388450&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=ac74eac0e87f11f1960c72ad2e05b851&au=8df5ed266aff482c9fddae2e8b40cb6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf94ecebcd89",
-   "title": "65\" Hisense H5R1 Series 4K UHD HDR Smart Roku TV + Free S&H",
-   "price": 228.0,
-   "old_price": 398.0,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22533711.thumb",
-   "posted": "2026-11-24T18:03:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 228.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20373396&pno=1373031&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1386298e83111f1a9fad2d47db0afeb&au=0697da53468a427585bf13fe91d3bf04&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T13:37:32+00:00"
+ "updated": "2026-11-25T13:42:05+00:00"
 }
