@@ -143,7 +143,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=8fc52a4ee88d11f1bf6b9e245a949712&au=ba2fc5f183f346a6bf72a07b20b3363b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T05:03:33+00:00",
+   "checked_at": "2026-11-25T11:05:15+00:00",
    "real_price": 3.79,
    "real_old": 9.0,
    "category_ok": false
@@ -612,7 +612,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T09:02:53+00:00",
+   "checked_at": "2026-11-25T11:05:17+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11883,6 +11883,24 @@
    "real_old": 59.99
   },
   {
+   "id": "t4eb0c008ca8",
+   "title": "PHILIPS Fidelio X2HR Over The Ear Open Back Wired Headphone 50mm Drivers- Black Professional Studio Monitor Headphones with Detachable Cable $104.64",
+   "price": 104.64,
+   "old_price": 159.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392461-philips-fidelio-x2hr-over-the-ear-open-back-wired-headphone-50mm-drivers-black-professional-studio-monitor-headphones-with-detachable-cable-104-64?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/0/1/1/6/7/5/300x300/22578171.thumb",
+   "posted": "2026-11-25T06:10:00+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-25T11:06:14+00:00",
+   "real_price": 104.64,
+   "real_old": 159.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t77e37166f69",
    "title": "Logitech MX Master 4 Ergonomic Wireless Mouse with Haptics - Graphite $72 + Free S&H w/ Prime at Woot!",
    "price": 72.0,
@@ -12871,8 +12889,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=92a7ae6ce8bf11f1b2ec2a32ae51b81c&au=91413eb381c942a582a1e6279fc3cac1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:01:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3bde196ce8c011f19cb18647fde6dc56&au=92ec3dfc252845b180a39236f7bcc2da&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T11:06:16+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15951,24 +15969,6 @@
    "checked_at": "2026-11-24T13:17:12+00:00",
    "real_price": 18.89,
    "real_old": 49.99
-  },
-  {
-   "id": "t3ea56b37848",
-   "title": "[Prime] $29.99 | Baseus Power Bank 20000mAh, Laptop Portable Charger Built-in Retractable USB C Cable at Amazon",
-   "price": 29.99,
-   "old_price": 99.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385741-prime-29-99-baseus-power-bank-20000mah-laptop-portable-charger-built-in-retractable-usb-c-cable-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560474.thumb",
-   "posted": "2026-11-24T12:24:43+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385741&tid=20385741&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4ce954ee80811f19c9eb6ae1fe76f64&au=3abb40536f7f4f4183fc3fefb5b5d1cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T13:12:32+00:00",
-   "real_price": 29.99,
-   "real_old": 99.99
   }
  ],
  "tech": [
@@ -16266,6 +16266,33 @@
      "store": "Woot!",
      "price": 18.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&tid=20392464&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e3530906e8ab11f192c126e9bea1450f&au=666841e177ca48b386ddf2c7cb3fb667&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t4eb0c008ca8",
+   "title": "PHILIPS Fidelio X2HR Over The Ear Open Back Wired Headphone 50mm Drivers- Black Professional Studio Monitor Headphones with Detachable Cable",
+   "price": 104.64,
+   "old_price": 159.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/0/1/1/6/7/5/300x300/22578171.thumb",
+   "posted": "2026-11-25T06:10:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 104.64,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19178,34 +19205,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20387019&tid=20387019&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=592a3e9ce84811f1a522ee1b736599e9&au=cc16cce965da4b1989b4b23a69db4983&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t0c8d40e8a99",
-   "title": "Apple Watch SE 3 [GPS+Cellular] 44mm Smartwatch with Midnight Aluminum Case & Sport Band - S/M New",
-   "price": 189.0,
-   "old_price": 329.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/17797558793",
-   "url": "https://www.walmart.com/ip/17797558793",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/3/0/9/300x300/22564188.thumb",
-   "posted": "2026-11-24T15:20:57+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 189.0,
-     "url": "https://www.walmart.com/ip/17797558793"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T11:02:29+00:00"
+ "updated": "2026-11-25T11:07:07+00:00"
 }
