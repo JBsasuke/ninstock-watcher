@@ -528,7 +528,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:01:29+00:00",
+   "checked_at": "2026-11-25T09:02:53+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11614,10 +11614,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T08:58:52+00:00",
    "real_price": 279.99,
-   "real_old": 488.69,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388675&pno=1373670&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6fda03c8e8ae11f18e702a916d1f14a1&au=7696ab97327a48b99cb8a4c4241e7f6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 488.69
   },
   {
    "id": "t8627979158a",
@@ -12139,6 +12139,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12663,8 +12666,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=715df876e8ae11f1897916501822eb72&au=f2d6d04e7e294481bdeae7d31685c9a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:58:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1ec87572e8af11f19032d21340a166e8&au=0d88f1fa3dff473f8b7a67dfef35db73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T09:03:46+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -16566,7 +16569,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19272,5 +19275,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T08:59:50+00:00"
+ "updated": "2026-11-25T09:04:41+00:00"
 }
