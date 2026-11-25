@@ -11667,10 +11667,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342565&pno=1373415&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=fd17bf50e87711f1a29d6ad10ef0dfc5&au=6786aa886cf74893801c1b03098473b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T02:29:07+00:00",
    "real_price": 59.98,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342565&pno=1373415&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=fd17bf50e87711f1a29d6ad10ef0dfc5&au=6786aa886cf74893801c1b03098473b1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "ta3e3a0a6844",
@@ -11739,8 +11739,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fe4679ace87711f1a070766b643ec681&au=6cd41c3f083d4e3eaed0fb452eaefb97&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T02:29:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a203fdbce87811f1ab4a766b643ec681&au=a33bacacb7c745e0ad64f1dcd8db43a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T02:33:44+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -14315,9 +14315,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -18485,7 +18482,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "NRBI7IQH",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19307,5 +19304,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T02:30:04+00:00"
+ "updated": "2026-11-25T02:34:43+00:00"
 }
