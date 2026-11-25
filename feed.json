@@ -14,13 +14,13 @@
    "posted": "2026-11-25T20:16:13+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T20:20:46+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b271374ce90d11f1800342b59f483a7c&au=5baa6d682f4243ca9df694aaad84b236&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T20:20:46+00:00",
+   "real_price": 15.0,
+   "real_old": 59.99,
+   "category_ok": true
   },
   {
    "id": "f8eeb95dfe71",
@@ -35,13 +35,13 @@
    "posted": "2026-11-25T20:16:13+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T20:20:49+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 59.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b3c65000e90d11f1950652227633b91b&au=433553d7bd8e481d9944dc30cccfd7dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-25T20:20:49+00:00",
+   "real_price": 15.0,
+   "real_old": 59.99,
+   "category_ok": true
   },
   {
    "id": "d1e457a11f50",
@@ -711,8 +711,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11505,6 +11503,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t40cd481d3dc",
+   "title": "DeWALT 20V MAX XR Brushless Reciprocating Saw w/ 6Ah & 4Ah Batteries $199 + Free S&H",
+   "price": 199.0,
+   "old_price": 428.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20392950-dewalt-20v-max-xr-cordless-brushless-reciprocating-saw-with-6-0-ah-and-4-0-ah-starter-kit-199?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22591602.thumb",
+   "posted": "2026-11-25T20:24:36+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T20:26:33+00:00",
+   "real_price": 199.0,
+   "real_old": 428.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392950&pno=1374078&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=80f7a308e90e11f1a13642b59f483a7c&au=1cc9697cf39a44dab183054ab74420f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tbb25c5049a9",
    "title": "2-Pk Blink Mini 2K+ Compact Plug-In Security Cameras $20",
    "price": 19.99,
@@ -11521,6 +11537,24 @@
    "checked_at": "2026-11-25T20:12:12+00:00",
    "real_price": 19.99,
    "real_old": 79.98
+  },
+  {
+   "id": "ta656aa80c9e",
+   "title": "AMD Ryzen 7 9800X3D | GIGABYTE X870E AORUS ELITE WIFI7, V-color DDR5 6000 32G RGB Kit | KingSpec XG7000 1TB SSD| Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU $849.99",
+   "price": 849.99,
+   "old_price": 1444.96,
+   "store": "Newegg",
+   "url": "https://slickdeals.net/f/20397348-amd-ryzen-7-9800x3d-gigabyte-x870e-aorus-elite-wifi7-v-color-ddr5-6000-32g-rgb-kit-kingspec-xg7000-1tb-ssd-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-849-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22591011.thumb",
+   "posted": "2026-11-25T19:43:46+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T20:26:35+00:00",
+   "real_price": 849.99,
+   "real_old": 1444.96,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t44512c9b1bc",
@@ -12249,8 +12283,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d5ab2146e90d11f1a4ff5ad138625ac7&au=cb76917e31124f4a95056334293fb342&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:21:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:26:38+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12491,6 +12525,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -12512,8 +12549,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d6e08768e90d11f1a9e8d66a7c8998b9&au=58c675b64dc547a593fa24fff07cc160&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:21:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:26:41+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -12858,10 +12895,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394414&tid=20394414&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d80fd63ee90d11f1a93e363c4910bd9c&au=b86cae7e59f048bc94b64ebc5cd1f1ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:21:49+00:00",
    "real_price": 99.99,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394414&tid=20394414&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d80fd63ee90d11f1a93e363c4910bd9c&au=b86cae7e59f048bc94b64ebc5cd1f1ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.0
   },
   {
    "id": "td1904550772",
@@ -14689,6 +14726,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -15199,10 +15239,10 @@
    "code": "WVNP96BL",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391351&tid=20391351&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d9479c08e90d11f1946662e13bba80b9&au=38c84c1ca79c44b09f08f22a964ec509&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:21:51+00:00",
    "real_price": 14.99,
-   "real_old": 28.47,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391351&tid=20391351&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d9479c08e90d11f1946662e13bba80b9&au=38c84c1ca79c44b09f08f22a964ec509&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 28.47
   },
   {
    "id": "t0214e632ca9",
@@ -15379,8 +15419,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=daa6533ce90d11f1ac8e3ea1188bd8d8&au=8e71cc5b834c46b9b66346e761d37069&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:21:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=871f8ebce90e11f1a13642b59f483a7c&au=bf88dcc831b7430f9ea0ef51fb33abe9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T20:26:43+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15913,43 +15953,36 @@
    "checked_at": "2026-11-24T22:56:48+00:00",
    "real_price": 1049.99,
    "real_old": 1799.99
-  },
-  {
-   "id": "t417982b540d",
-   "title": "ECM Synchronika II Espresso Machine with flow control - $3,420 &more",
-   "price": 3419.05,
-   "old_price": 4123.0,
-   "store": "Whole Latte Love",
-   "url": "https://slickdeals.net/f/20390094-ecm-synchronika-ii-espresso-machine-with-flow-control-3-420-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22573254.thumb",
-   "posted": "2026-11-24T22:45:25+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-25T15:14:00+00:00",
-   "real_price": 3419.05,
-   "real_old": 4123.0
-  },
-  {
-   "id": "tcdb73bdec54",
-   "title": "Alorair: 23% Off Commercial Water Damage Restoration Dehumidifiers + Free Shipping",
-   "price": 365.74,
-   "old_price": 474.98,
-   "store": "Slickdeals",
-   "url": "https://slickdeals.net/f/20390085-alorair-23-off-commercial-water-damage-restoration-dehumidifiers-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22572189.thumb",
-   "posted": "2026-11-24T22:45:03+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-25T07:59:55+00:00",
-   "real_price": 365.74,
-   "real_old": 474.98
   }
  ],
  "tech": [
+  {
+   "id": "ta656aa80c9e",
+   "title": "AMD Ryzen 7 9800X3D | GIGABYTE X870E AORUS ELITE WIFI7, V-color DDR5 6000 32G RGB Kit | KingSpec XG7000 1TB SSD| Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU",
+   "price": 849.99,
+   "old_price": 1444.96,
+   "store": "Newegg",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22591011.thumb",
+   "posted": "2026-11-25T19:43:46+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Newegg",
+     "price": 849.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t44512c9b1bc",
    "title": "Baseus 5000mAh 15W Magnetic Portable Charger",
@@ -16646,8 +16679,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d5ab2146e90d11f1a4ff5ad138625ac7&au=cb76917e31124f4a95056334293fb342&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d5ab2146e90d11f1a4ff5ad138625ac7&au=cb76917e31124f4a95056334293fb342&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -16663,7 +16696,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d5ab2146e90d11f1a4ff5ad138625ac7&au=cb76917e31124f4a95056334293fb342&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=839d5cc4e90e11f1a3f8d66a7c8998b9&au=a2002c0973b841808e38bd5756e3fa88&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16835,8 +16868,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d6e08768e90d11f1a9e8d66a7c8998b9&au=58c675b64dc547a593fa24fff07cc160&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d6e08768e90d11f1a9e8d66a7c8998b9&au=58c675b64dc547a593fa24fff07cc160&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -16852,7 +16885,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d6e08768e90d11f1a9e8d66a7c8998b9&au=58c675b64dc547a593fa24fff07cc160&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=858a4efce90e11f195449a57a35cc693&au=7b561066b642485b9c624772a1b44905&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18789,7 +18822,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19144,34 +19177,7 @@
    "code_until": null,
    "promo": "50% Off",
    "offers": []
-  },
-  {
-   "id": "ta03faf6e79b",
-   "title": "20-Volt Max Lithium-Ion Cordless Brushless 3-Speed Oscillating Multi Tool with 4.0 Ah Battery and Charger",
-   "price": 99.0,
-   "old_price": 199.0,
-   "store": "Home Depot",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/2/2/6/5/2/0/300x300/22575327.thumb",
-   "posted": "2026-11-25T02:48:15+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Home Depot",
-     "price": 99.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20391423&tid=20391423&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=31d31004e88811f1aa172e0c7c445663&au=ad0563e079744d008671d669cd090600&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T20:22:39+00:00"
+ "updated": "2026-11-25T20:27:34+00:00"
 }
