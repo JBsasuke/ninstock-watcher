@@ -56,6 +56,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11610,10 +11612,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T07:30:04+00:00",
    "real_price": 1299.99,
-   "real_old": 1599.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20368752&pno=1373625&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=081fc666e8a211f1bba686da4157b529&au=ce2b632caf8f494ca78f6f97c24651ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1599.99
   },
   {
    "id": "t2f71ae75f11",
@@ -11804,10 +11806,10 @@
    "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T07:30:07+00:00",
    "real_price": 1745.99,
-   "real_old": 2199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&tid=20392425&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0959a04ce8a211f1a2c686da4157b529&au=31ebd32ae50c4459a8a6f0b706998e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2199.99
   },
   {
    "id": "ta4838d0673a",
@@ -12456,8 +12458,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0ae2aae4e8a211f1b0ebea9025c1022d&au=509d7e44e4b7473a9f411c19e0671df9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T07:30:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b5e1f8d2e8a211f1b060ea063e60cf8c&au=779f441a6c1e42abaaf56d74f560fdfe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T07:34:56+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15341,9 +15343,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "NRBI7IQH",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -19259,5 +19258,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T07:31:05+00:00"
+ "updated": "2026-11-25T07:36:06+00:00"
 }
