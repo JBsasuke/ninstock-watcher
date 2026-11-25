@@ -551,7 +551,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=793203aae83411f1b87b8246bc31b55e&au=9795f51f800e4e42bcc2cba293149030&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:28:09+00:00",
+   "checked_at": "2026-11-25T06:28:24+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -572,7 +572,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7a55e8dce83411f1bdabced9e43f0538&au=2f24cbe67aa44b4cabd89909e69d8987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T00:28:11+00:00",
+   "checked_at": "2026-11-25T06:28:26+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -11589,10 +11589,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:24:36+00:00",
    "real_price": 169.99,
-   "real_old": 350.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 350.0
   },
   {
    "id": "t77e37166f69",
@@ -11650,6 +11650,24 @@
    "checked_at": "2026-11-25T05:09:02+00:00",
    "real_price": 36.0,
    "real_old": 49.0
+  },
+  {
+   "id": "t6deca9506da",
+   "title": "Cooler Master Hyper 411 Nano CPU Air Cooler - $16.99 FS w/prime",
+   "price": 59.0,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20392116-cooler-master-hyper-411-nano-cpu-air-cooler-16-99-fs-w-prime?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/1/0/0/7/2/300x300/22577124.thumb",
+   "posted": "2026-11-25T05:01:41+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-25T06:29:23+00:00",
+   "real_price": 59.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392116&tid=20392116&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=8ced9eb2e89911f192e2eab3c3ff5ade&au=38157d1b556e4c30bb6edaf5c3a815cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0b6fe4d53a4",
@@ -12227,8 +12245,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e3d72b22e89811f1b9f62e0c7c445663&au=6bbc623fdd6c4b2bbc20cb67a05f0af9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:24:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8ed95ffee89911f1a1e73acabd27a35c&au=b190d967f0494ec3934f79c8f61f2f64&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T06:29:25+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15091,6 +15109,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -15964,24 +15985,6 @@
    "checked_at": "2026-11-24T10:49:19+00:00",
    "real_price": 17.83,
    "real_old": 21.1
-  },
-  {
-   "id": "t8d1f300f7ef",
-   "title": "Mac mini M5 Pro 24GB RAM / 512GB SSD",
-   "price": 1299.99,
-   "old_price": 1699.99,
-   "store": "Micro Center",
-   "url": "https://slickdeals.net/f/20384526-mac-mini-m5-pro-24gb-ram-512gb-ssd?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22566768.thumb",
-   "posted": "2026-11-24T08:15:23+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&tid=20384526&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5c0305bee82911f1bfb5ea98c3ab4c18&au=5b9ac024fe234abea3ac9905bf7694e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T17:06:16+00:00",
-   "real_price": 1299.99,
-   "real_old": 1699.99
   }
  ],
  "tech": [
@@ -16090,6 +16093,33 @@
      "store": "Walmart",
      "price": 36.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20387397&pno=1373553&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53d81298e88e11f1914bcea65f5d847b&au=9e40136aee8049e8973a76d28cfe912f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6deca9506da",
+   "title": "Cooler Master Hyper 411 Nano CPU Air Cooler - FS w/prime",
+   "price": 59.0,
+   "old_price": null,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392116&tid=20392116&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=8ced9eb2e89911f192e2eab3c3ff5ade&au=38157d1b556e4c30bb6edaf5c3a815cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392116&tid=20392116&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=8ced9eb2e89911f192e2eab3c3ff5ade&au=38157d1b556e4c30bb6edaf5c3a815cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/1/0/0/7/2/300x300/22577124.thumb",
+   "posted": "2026-11-25T05:01:41+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392116&tid=20392116&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=8ced9eb2e89911f192e2eab3c3ff5ade&au=38157d1b556e4c30bb6edaf5c3a815cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19073,7 +19103,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "NRBI7IQH",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19191,34 +19221,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20385732&tid=20385732&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9ce9187ee83411f1bd18d6e4018a4d97&au=2f823f55e54f499ab434833992fd283d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t506eac31ca1",
-   "title": "[Prime] 30-Count Vacplus Auto Bleach Toilet Bowl Cleaner Tablets",
-   "price": 12.34,
-   "old_price": 22.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385714&tid=20385714&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c8b2a93ae82411f1af611e9b45453fcb&au=25af057ed74b43b78b8b9346e2716369&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385714&tid=20385714&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c8b2a93ae82411f1af611e9b45453fcb&au=25af057ed74b43b78b8b9346e2716369&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22560408.thumb",
-   "posted": "2026-11-24T12:20:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 12.34,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385714&tid=20385714&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c8b2a93ae82411f1af611e9b45453fcb&au=25af057ed74b43b78b8b9346e2716369&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-25T06:25:36+00:00"
+ "updated": "2026-11-25T06:30:21+00:00"
 }
