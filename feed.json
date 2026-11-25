@@ -486,7 +486,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T04:58:38+00:00",
+   "checked_at": "2026-11-25T07:01:29+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -1317,7 +1317,7 @@
    "posted": "2026-11-24T00:39:53+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-25T01:00:15+00:00",
+   "checked_at": "2026-11-25T07:01:25+00:00",
    "category_ok": true,
    "real_price": 49.99,
    "real_old": null,
@@ -1341,7 +1341,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62524a98e7a111f1ae215e59ab53ac00&au=dde065c85ea3492f8660d1b3f1398611&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T01:00:17+00:00",
+   "checked_at": "2026-11-25T07:01:27+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11636,10 +11636,10 @@
    "code": "20MOUSE",
    "code_until": "2026-11-25",
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T06:57:39+00:00",
    "real_price": 71.99,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.99
   },
   {
    "id": "td31d86dad7a",
@@ -11928,9 +11928,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://www.walmart.com/ip/11381374703",
    "checked_at": "2026-11-25T04:15:32+00:00",
    "real_price": 79.0,
@@ -12419,8 +12416,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=81dbe0b6e89d11f18700266d99bbc28f&au=a8c3953d7844411ebe221cb281d24804&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:57:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2b7aa828e89e11f18835d209d43eabd7&au=88f4b6091a2e42199254844947641d35&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T07:02:26+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -15304,6 +15301,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "NRBI7IQH",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385228&pno=1372800&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0fac4e8ae80811f191ad06b2793bd035&au=3d29637bc5b7469096646aa701d16234&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-24T13:07:55+00:00",
    "real_price": 14.24,
@@ -16360,7 +16360,7 @@
    "cat_label": "Audio",
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19255,5 +19255,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T06:58:37+00:00"
+ "updated": "2026-11-25T07:03:23+00:00"
 }
