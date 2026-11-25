@@ -203,8 +203,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -527,7 +525,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T07:10:24+00:00",
+   "checked_at": "2026-11-25T13:13:27+00:00",
    "real_price": 19.65,
    "real_old": 49.99,
    "category_ok": true
@@ -11486,6 +11484,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t7b967483acc",
+   "title": "DeWALT 9-Gallon 5 Peak HP Poly Wet/Dry Vacuum $80 + Free S&H",
+   "price": 79.98,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20393202-79-98-dewalt-9-gallon-5-peak-hp-poly-wet-dry-vacuum-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22579902.thumb",
+   "posted": "2026-11-25T13:11:15+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:14:20+00:00",
+   "real_price": 79.98,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393202&pno=1373751&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1ffe6348e8d211f190d6820827a865f9&au=3df9721e0dd2459bbc0de5be7091da69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t17849f04400",
    "title": "Little Tikes Gas 'n Go Mower Interactive Toy $16.50",
    "price": 16.49,
@@ -13372,8 +13388,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=78d09488e8d111f1b1f29ab9921fe0c0&au=496351de7852407792bddb12664a06a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:09:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391102&tid=20391102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2156684ee8d211f18da5c2e14d85113f&au=84f133448bf9486481e25538aaa46a0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-25T13:14:22+00:00",
    "real_price": 0.98,
    "real_old": 6.0
   },
@@ -13613,6 +13629,24 @@
    "refurb": false,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Verizon&sdtid=20390520&tid=20390520&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9435533ce86611f1a5a9be65d06667c7&au=6ed0898def4f485ea4de82e13b52a4c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T00:24:29+00:00"
+  },
+  {
+   "id": "t0a4f9dd910e",
+   "title": "JH Williams WSH-43TB 43-Piece 3/4-Inch Drive Socket and Drive Tool Set with Tool Box $1264.72",
+   "price": 1264.72,
+   "old_price": 2047.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20390505-jh-williams-wsh-43tb-43-piece-3-4-inch-drive-socket-and-drive-tool-set-with-tool-box-1264-72?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22572960.thumb",
+   "posted": "2026-11-24T23:56:46+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-25T13:14:24+00:00",
+   "real_price": 1264.72,
+   "real_old": 2047.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20390505&tid=20390505&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=227712a0e8d211f1a33bfece3728cd6c&au=e3396aaf9b9d4b79be4e98addc450e76&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0f378b93b4a",
@@ -15868,44 +15902,6 @@
    "checked_at": "2026-11-24T17:06:14+00:00",
    "real_price": 59.0,
    "real_old": 89.0
-  },
-  {
-   "id": "tae8261e3711",
-   "title": "Hisense Hi-QLED S7 CanvasTV Series 4K UHD Art Google Smart TV (2026 New)144Hz, Art Mode, Anti-Glare Panel, Dolby Vision HDR, Hi-Matte Display - 55\" $679.99 50\" $647.99",
-   "price": 647.99,
-   "old_price": 1299.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20386914-hisense-hi-qled-s7-canvastv-series-4k-uhd-art-google-smart-tv-2026-new-144hz-art-mode-anti-glare-panel-dolby-vision-hdr-hi-matte-display-55-679-99-50-647-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22563861.thumb",
-   "posted": "2026-11-24T15:08:23+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386914&tid=20386914&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=9fad8e78e82511f1ab5cea98c3ab4c18&au=eb90192e9d27469c9aed85c5fc2a67ae&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-24T16:39:32+00:00",
-   "real_price": 647.99,
-   "real_old": 1299.99
-  },
-  {
-   "id": "t5b37be6df0f",
-   "title": "Greenworks 48V (24V x 2) 20\" BL Cordless Battery 4-in-1 Push Mower (4) 4.0ah batteries, (1) 4a dual port fast charger $255",
-   "price": 255.0,
-   "old_price": 449.99,
-   "store": "Greenworks Tools",
-   "url": "https://slickdeals.net/f/20386863-greenworks-48v-24v-x-2-20-bl-cordless-battery-4-in-1-push-mower-4-4-0ah-batteries-1-4a-dual-port-fast-charger-255?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22563792.thumb",
-   "posted": "2026-11-24T15:05:04+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "SDNEWSLETTER15",
-   "code_until": null,
-   "promo": null,
-   "checked_at": "2026-11-24T19:27:33+00:00",
-   "real_price": 255.0,
-   "real_old": 449.99
   }
  ],
  "tech": [
@@ -19144,5 +19140,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T13:10:41+00:00"
+ "updated": "2026-11-25T13:15:16+00:00"
 }
