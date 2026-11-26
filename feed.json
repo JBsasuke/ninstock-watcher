@@ -140,13 +140,13 @@
    "posted": "2026-11-26T08:44:29+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T10:12:23+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 37.49,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=df52bfb4e98111f185cff68c7a7d4440&au=73b604fb15b64852a5558e479d416061&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T10:12:23+00:00",
+   "real_price": 15.0,
+   "real_old": 37.49,
+   "category_ok": true
   },
   {
    "id": "f1203a8ca544",
@@ -1435,7 +1435,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=df43620ae8b711f1bd31c2e14d85113f&au=12e2a60bba1a4ffc950c212a0c5bd7e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:13:06+00:00",
+   "checked_at": "2026-11-26T10:16:50+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -1516,6 +1516,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11679,6 +11681,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
@@ -11991,6 +11996,24 @@
    "checked_at": "2026-11-26T06:19:40+00:00",
    "real_price": 749.99,
    "real_old": 1099.99
+  },
+  {
+   "id": "t04543dea2c8",
+   "title": "Milwaukee M12 Cordless Bluetooth Jobsite Speaker w/ PACKOUT Compatibility $90.00 + Free Shipping",
+   "price": 90.0,
+   "old_price": 149.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20401503-milwaukee-m12-cordless-bluetooth-jobsite-speaker-w-packout-compatibility-90-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22601382.thumb",
+   "posted": "2026-11-26T06:04:06+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T10:17:39+00:00",
+   "real_price": 90.0,
+   "real_old": 149.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401503&tid=20401503&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=9b96b41ee98211f18d9bf68c7a7d4440&au=fd73f518534043fb9bd85e946bc3d370&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3f7d022bc7c",
@@ -15764,8 +15787,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fd71a30ce98111f181cdea8af01651eb&au=8a7bfadd3281459aab6ccc3417823033&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:13:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9ced4044e98211f1ae0ea676de3a53b4&au=8a656584d1dd46d785483ceb5b73f6c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T10:17:41+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15956,23 +15979,6 @@
    "checked_at": "2026-11-25T16:20:52+00:00",
    "real_price": 109.0,
    "real_old": 144.0
-  },
-  {
-   "id": "te47cf055e7f",
-   "title": "$39 FS to Ace Hardware Store CRAFTSMAN V20 3/8 in. Brushed Cordless Drill/Driver Kit (Battery & Charger)",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Ace Hardware",
-   "url": "https://slickdeals.net/f/20395296-39-fs-to-ace-hardware-store-craftsman-v20-3-8-in-brushed-cordless-drill-driver-kit-battery-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22585845.thumb",
-   "posted": "2026-11-25T15:38:28+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ace+Hardware&sdtid=20395296&tid=20395296&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e54abbe0e93311f1b50656a12d7bd5aa&au=0733f8213f09416295c224e96437b170&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:54:13+00:00",
-   "real_price": 60.0
   }
  ],
  "tech": [
@@ -19181,5 +19187,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T10:14:05+00:00"
+ "updated": "2026-11-26T10:18:34+00:00"
 }
