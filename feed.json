@@ -14,13 +14,13 @@
    "posted": "2026-11-26T12:09:49+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T12:10:53+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20402271&pno=1374831&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d5a7bcae99211f18944c289e9c9898f&au=b39d081b2af745e6a7fce1cc50ac637a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T12:10:53+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "7bcf6397be63",
@@ -497,13 +497,13 @@
    "posted": "2026-11-26T07:50:52+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T12:10:55+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20402271&pno=1374831&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6e736ccee99211f1b2dc26fbbfedbab9&au=eb65b13cc4564adebbb601b594a3c046&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T12:10:55+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "b967d0a00cd0",
@@ -11775,10 +11775,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:12:59+00:00",
    "real_price": 284.99,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "tbdcde0a2e08",
@@ -13674,10 +13674,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399583&tid=20399583&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b983d2d0e99211f185dd16c12f463110&au=2f38a093178b4456a3294990011af611&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:13:01+00:00",
    "real_price": 19.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399583&tid=20399583&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b983d2d0e99211f185dd16c12f463110&au=2f38a093178b4456a3294990011af611&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "tb4e7c07f43e",
@@ -14272,6 +14272,24 @@
    "checked_at": "2026-11-26T02:53:59+00:00",
    "real_price": 549.99,
    "real_old": 699.99
+  },
+  {
+   "id": "t0b482cea1c5",
+   "title": "Samsung HW-QS700F 3.1.2-Channel Soundbar w/ Wireless Subwoofer & Dolby Atmos $347.99 + Free Shipping",
+   "price": 347.99,
+   "old_price": 799.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20398365-samsung-hw-qs700f-3-1-2-channel-soundbar-w-wireless-subwoofer-dolby-atmos-347-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22593612.thumb",
+   "posted": "2026-11-25T22:17:57+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T12:15:56+00:00",
+   "real_price": 347.99,
+   "real_old": 799.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t60aca863770",
@@ -15913,24 +15931,6 @@
    "checked_at": "2026-11-25T19:31:14+00:00",
    "real_price": 1999.99,
    "real_old": 3099.99
-  },
-  {
-   "id": "t6fe23ca209e",
-   "title": "Refurb/Grade A Unit: 32GB Apple iPad 10.2\" Unlocked Tablet (Silver) $81 & More + Free S&H w/ Amazon Prime",
-   "price": 80.99,
-   "old_price": 89.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20392638-80-99-grade-a-refurbished-apple-10-2-ipad-7th-gen-2019-model-32gb-wi-fi-only-silver-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22587033.thumb",
-   "posted": "2026-11-25T16:32:54+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:35:53+00:00",
-   "real_price": 80.99,
-   "real_old": 89.99
   }
  ],
  "tech": [
@@ -18218,6 +18218,33 @@
    ]
   },
   {
+   "id": "t0b482cea1c5",
+   "title": "Samsung HW-QS700F 3.1.2-Channel Soundbar",
+   "price": 347.99,
+   "old_price": 799.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22593612.thumb",
+   "posted": "2026-11-25T22:17:57+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 347.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t1871c2c4c12",
    "title": "JBL Tune 670NC Adaptive Noise Cancelling Wireless On-Ear Headphones + Free S&H",
    "price": 49.95,
@@ -19122,34 +19149,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&tid=20396697&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=fcdc9ab4e90911f1bcf832e08e272054&au=a22c2340fc8d407fb8c7c326f4760be5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t1aa2c46d9f7",
-   "title": "adidas Amplifier Backpack (Fits Up to 16\" Laptops, Frozen Purple/Violet) + Free S&H",
-   "price": 22.0,
-   "old_price": 58.0,
-   "store": "ShopSimon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22578579.thumb",
-   "posted": "2026-11-25T18:26:48+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": "NOV50",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "ShopSimon",
-     "price": 22.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+ShopSimon&sdtid=20392635&pno=1373895&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13bad90ae8fe11f1b7fb32033c67b9dc&au=ec36860b7c16435eb2306c707c8d57b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T12:13:57+00:00"
+ "updated": "2026-11-26T12:16:52+00:00"
 }
