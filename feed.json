@@ -1726,6 +1726,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3034,7 +3036,7 @@
    "posted": "2026-11-24T00:39:53+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T07:09:59+00:00",
+   "checked_at": "2026-11-26T13:11:24+00:00",
    "category_ok": true,
    "real_price": 49.99,
    "real_old": null,
@@ -3058,7 +3060,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62524a98e7a111f1ae215e59ab53ac00&au=dde065c85ea3492f8660d1b3f1398611&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:10:01+00:00",
+   "checked_at": "2026-11-26T13:11:26+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -3190,7 +3192,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-26T12:10:56+00:00",
+ "deku_checked": "2026-11-26T13:11:27+00:00",
  "deals": [
   {
    "id": "e2bbddd6c9ae",
@@ -6848,7 +6850,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -6880,7 +6882,7 @@
      "url": "https://www.gamestop.com/products/shrek-2-remastered/454733.html"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -6907,7 +6909,7 @@
      "url": "https://www.amazon.com/dp/B0HNKQ6VFD"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6949,7 +6951,7 @@
      "url": "https://www.target.com/p/-/A-1012297500"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -7001,7 +7003,7 @@
      "url": "https://www.target.com/p/-/A-1012827386"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7037,7 +7039,7 @@
      "url": "https://www.gamestop.com/products/stellar-blade-complete-edition/451860.html"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "SHIFT UP",
    "digital": {
@@ -7078,7 +7080,7 @@
      "url": "https://www.target.com/p/-/A-1014334835"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CDE Entertainment",
    "digital": {
@@ -7099,7 +7101,7 @@
    "release_date": "2026-11-04",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7141,7 +7143,7 @@
      "url": "https://www.target.com/p/-/A-1012019669"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -7177,17 +7179,17 @@
      "url": "https://www.target.com/p/-/A-1014586467"
     },
     {
-     "store": "Walmart",
-     "price": 59.99,
-     "url": "https://www.walmart.com/ip/21136512085"
-    },
-    {
      "store": "Best Buy",
      "price": 59.99,
      "url": "https://www.bestbuy.com/site/6695306.p?skuId=6695306"
+    },
+    {
+     "store": "Walmart",
+     "price": 59.99,
+     "url": "https://www.walmart.com/ip/21144069234"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7203,7 +7205,7 @@
    "release_date": "2026-11-03",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7235,7 +7237,7 @@
      "url": "https://www.bestbuy.com/site/6688411.p?skuId=6688411"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7272,7 +7274,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-party-land-premium-edition/447590.html"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7315,7 +7317,7 @@
      "url": "https://www.walmart.com/ip/20214621641"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Spike Chunsoft US",
    "digital": {
@@ -7361,7 +7363,7 @@
      "url": "https://www.target.com/p/-/A-1011777705"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7403,7 +7405,7 @@
      "url": "https://www.walmart.com/ip/21065851721"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7445,7 +7447,7 @@
      "url": "https://www.target.com/p/-/A-1012019664"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -7472,7 +7474,7 @@
      "url": "https://www.amazon.com/dp/B0HQ7JJ5JK"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7519,7 +7521,7 @@
      "url": "https://www.walmart.com/ip/21107563569"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Raw Fury",
    "digital": {
@@ -7565,7 +7567,7 @@
      "url": "https://www.target.com/p/-/A-1012856127"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7612,7 +7614,7 @@
      "url": "https://www.target.com/p/-/A-1013027743"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -7649,7 +7651,7 @@
      "url": "https://www.bestbuy.com/site/6677477.p?skuId=6677477"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -7696,7 +7698,7 @@
      "url": "https://www.gamestop.com/products/warrior-cats-clans-of-the-forest-feral-edition/450383.html"
     }
    ],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7717,7 +7719,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7738,7 +7740,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T06:52:04+00:00",
+   "offers_checked": "2026-11-26T13:11:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -9395,7 +9397,7 @@
    "title": "Fire Emblem: Fortune’s Weave Dagdan Collection",
    "url": "https://www.dekudeals.com/items/fire-emblem-fortunes-weave-dagdan-collection",
    "image": "https://cdn.dekudeals.com/images/2f1758fb541e8ee256ff37ebaa65073db0474c5f/w540.jpg?c=0.164.2000.1675",
-   "price": 119.99,
+   "price": null,
    "old_price": null,
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
@@ -10063,7 +10065,7 @@
    "title": "Yoshi and the Mysterious Book",
    "url": "https://www.dekudeals.com/items/yoshi-and-the-mysterious-book",
    "image": "https://cdn.dekudeals.com/images/f072a1a63dfdd2239abc451afc700c370ee49923/w540.jpg?c=392.0.1226.2000",
-   "price": 68.22,
+   "price": 68.16,
    "old_price": null,
    "release": "May 21, 2026",
    "release_date": "2026-05-21",
@@ -11690,6 +11692,24 @@
    "real_old": 74.0
   },
   {
+   "id": "t737a3f7dbe6",
+   "title": "Milwaukee M12 12-Volt Lithium-Ion Cordless 3/8 in. Crown Stapler (Tool-Only) $89",
+   "price": 89.0,
+   "old_price": 139.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20402700-milwaukee-m12-12-volt-lithium-ion-cordless-3-8-in-crown-stapler-tool-only-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22604856.thumb",
+   "posted": "2026-11-26T08:31:41+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:13:34+00:00",
+   "real_price": 89.0,
+   "real_old": 139.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402700&tid=20402700&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=2ed376bee99b11f1944ec6fbfd7e8f75&au=07fca3c2f33a48638418cf04e8682dcf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t12dc90fd7d0",
    "title": "[Prime, AC] $34.87* | 4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various) at Amazon",
    "price": 34.87,
@@ -11980,6 +12000,24 @@
    "real_old": 2699.99
   },
   {
+   "id": "t2bd5e88566c",
+   "title": "DEWALT 20V MAX 2-Tool Brushless Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included) $149 @Lowes",
+   "price": 149.0,
+   "old_price": null,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402082-dewalt-20v-max-2-tool-brushless-power-tool-combo-kit-with-soft-case-2-batteries-and-charger-included-149-lowes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603140.thumb",
+   "posted": "2026-11-26T07:12:10+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:13:37+00:00",
+   "real_price": 149.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402082&tid=20402082&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=3048d552e99b11f1bcc0b6603d9943d0&au=9af0bd5d4c4e4226b32aadecb12f3089&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6655765777a",
    "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (Graphite) $39.99 + Free Shipping",
    "price": 39.99,
@@ -11992,10 +12030,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:07:40+00:00",
    "real_price": 39.99,
-   "real_old": 84.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 84.99
   },
   {
    "id": "t9857e7a1511",
@@ -12016,6 +12054,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20402055&tid=20402055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c26ade3ce98511f19096f68c7a7d4440&au=940dd5c666934fc287c3f3a75a784c7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:40:13+00:00",
    "real_price": 312.8
+  },
+  {
+   "id": "t5e01b050bf0",
+   "title": "[EPP/EDU] 27\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor + CoD Modern Warfare 4 $480 + Free Shipping",
+   "price": 480.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "url": "https://slickdeals.net/f/20402025-epp-edu-27-samsung-odyssey-g80sh-4k-240hz-oled-gaming-monitor-cod-modern-warfare-4-480-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602990.thumb",
+   "posted": "2026-11-26T07:04:12+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:13:40+00:00",
+   "real_price": 480.0,
+   "real_old": 1170.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&tid=20402025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3223e510e99b11f1b87bc6fbfd7e8f75&au=76ba455f0435428aa937a5c42cb10fdd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t879b6fa5993",
@@ -12104,6 +12160,23 @@
    "checked_at": "2026-11-26T06:53:54+00:00",
    "real_price": 598.98,
    "real_old": 799.0
+  },
+  {
+   "id": "t5065348751e",
+   "title": "Hisense 100\" Class QD7 Series 4K QLED 144Hz Smart TV + 5-Year Total Warranty (Allstate Included) $999.99 + Free Shipping",
+   "price": 999.0,
+   "old_price": 1699.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401890-hisense-100-class-qd7-series-4k-qled-144hz-smart-tv-5-year-total-warranty-allstate-included-999-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/6/9/1/7/3/4/5/300x300/22602456.thumb",
+   "posted": "2026-11-26T06:46:43+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:13:42+00:00",
+   "real_price": 999.0,
+   "real_old": 1699.0
   },
   {
    "id": "t8ef6878c147",
@@ -12763,8 +12836,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5ce894a4e99a11f1918ab6cefa615a1c&au=99a7e58aa7a94aa1a44a37d0e48b092e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:07:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=350f9e90e99b11f1bb4dc276c2dd5c4a&au=e05e648aa2894a20b3173a7df90d0d19&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:13:44+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15787,87 +15860,6 @@
    "checked_at": "2026-11-26T12:07:14+00:00",
    "real_price": 20.99,
    "real_old": 59.99
-  },
-  {
-   "id": "t7e5c499583a",
-   "title": "Superone 360° Magnetic Vacuum Suction Car Phone Holder/Mount (Clamp Suction) $6",
-   "price": 5.99,
-   "old_price": 11.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20388468-superone-360-magnetic-vacuum-suction-car-phone-mount-5-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22587711.thumb",
-   "posted": "2026-11-25T17:12:28+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "GH9SZ552",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388468&pno=1373949&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=16abfa36e8f411f1babc5e187ee7ac18&au=4c74922d64b24b8387d2501b658a9d66&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:17:28+00:00",
-   "real_price": 5.99,
-   "real_old": 11.99
-  },
-  {
-   "id": "te8a14c6e8a5",
-   "title": "MANSPOT Manscape Rechargeable Wet/Dry Body Hair Trimmer w/ Guards (Black) $19.50",
-   "price": 19.49,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20341371-manspot-manscape-rechargeable-wet-dry-body-hair-trimmer-w-guards-black-20-40?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22587630.thumb",
-   "posted": "2026-11-25T17:04:31+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "B5TATYOM",
-   "code_until": null,
-   "promo": null,
-   "checked_at": "2026-11-25T17:07:59+00:00",
-   "real_price": 19.49,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20341371&pno=1373943&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=c3f25322e8f211f18ad78a35b5b5354a&au=e210f18cd35143e1ab6808a2d3c58756&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "tec3801ad262",
-   "title": "MANSPOT Manscape Rechargeable Wet/Dry Body Hair Trimmer w/ Guards (Black) $19.50",
-   "price": 19.49,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20341371-manspot-manscape-rechargeable-wet-dry-body-hair-trimmer-w-guards-black-19-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22587630.thumb",
-   "posted": "2026-11-25T17:04:31+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "B5TATYOM",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20341371&pno=1373943&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=6dc09580e8f311f191218e7d4d9503e1&au=ca3ce4b0d2bb478fb0af6927dfbfb6ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:12:44+00:00",
-   "real_price": 19.49,
-   "real_old": 49.99
-  },
-  {
-   "id": "td10498710f7",
-   "title": "Apple Watch Series 11 GPS + Cellular 42mm Gold Titanium Case with Gold Milanese Loop",
-   "price": 399.99,
-   "old_price": 749.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20395971-apple-watch-series-11-gps-cellular-42mm-gold-titanium-case-with-gold-milanese-loop?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-25T17:04:17+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&tid=20395971&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=dad3c36ae92311f1b9925228727de8fe&au=1f32d1330dd54fcfb8c84ce74881c548&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:59:23+00:00",
-   "real_price": 399.99,
-   "real_old": 749.99
   }
  ],
  "tech": [
@@ -16408,6 +16400,33 @@
      "store": "Amazon",
      "price": 39.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t5e01b050bf0",
+   "title": "[EPP/EDU] 27\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor + CoD Modern Warfare 4",
+   "price": 480.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&tid=20402025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3223e510e99b11f1b87bc6fbfd7e8f75&au=76ba455f0435428aa937a5c42cb10fdd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&tid=20402025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3223e510e99b11f1b87bc6fbfd7e8f75&au=76ba455f0435428aa937a5c42cb10fdd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602990.thumb",
+   "posted": "2026-11-26T07:04:12+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Samsung",
+     "price": 480.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&tid=20402025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3223e510e99b11f1b87bc6fbfd7e8f75&au=76ba455f0435428aa937a5c42cb10fdd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19065,34 +19084,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395206&pno=1374030&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=663f6fa6e90311f191c4ee40a4f87319&au=6228e7827dae4e40b578e17a650a6e53&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t19301f76256",
-   "title": "UGREEN 160W Nexode Pro 5-Port (4 USB-C + 1 USB-A) GaN Charger",
-   "price": 56.99,
-   "old_price": 89.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&pno=1374021&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7752538e90211f1908ad6d7cc460b6f&au=a2d5fea4f0b944c9a66c262916ec932c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&pno=1374021&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7752538e90211f1908ad6d7cc460b6f&au=a2d5fea4f0b944c9a66c262916ec932c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568172.thumb",
-   "posted": "2026-11-25T19:00:44+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "UL65636",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 56.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&pno=1374021&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7752538e90211f1908ad6d7cc460b6f&au=a2d5fea4f0b944c9a66c262916ec932c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T13:08:38+00:00"
+ "updated": "2026-11-26T13:14:32+00:00"
 }
