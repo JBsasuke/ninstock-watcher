@@ -11516,10 +11516,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408556&tid=20408556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6623098ce9ea11f1af7866ac4217ae9d&au=94844a9cc58047f2b3e343043c53759e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T22:40:37+00:00",
    "real_price": 549.0,
-   "real_old": 849.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408556&tid=20408556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6623098ce9ea11f1af7866ac4217ae9d&au=94844a9cc58047f2b3e343043c53759e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 849.99
   },
   {
    "id": "tdd7cf9c8b75",
@@ -12094,6 +12094,27 @@
    "checked_at": "2026-11-26T19:53:35+00:00",
    "real_price": 21.99,
    "real_old": 62.99
+  },
+  {
+   "id": "t9309d50865a",
+   "title": "AMD Ryzen 9 9900X3D 12-Core AM5 CPU $399.99 Micro Center (In-Store Only)",
+   "price": 399.99,
+   "old_price": 599.0,
+   "store": "Micro Center",
+   "url": "https://slickdeals.net/f/20407233-amd-ryzen-9-9900x3d-12-core-am5-cpu-399-99-micro-center-in-store-only?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22615590.thumb",
+   "posted": "2026-11-26T18:15:53+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BFF38",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T22:45:08+00:00",
+   "real_price": 399.99,
+   "real_old": 599.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&tid=20407233&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07dffa46e9eb11f19d7e9edf9ccb03d5&au=c3bb0c9e03d14fc7927ca741983031ea&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "teb090339862",
@@ -12729,6 +12750,27 @@
    "real_old": 399.99
   },
   {
+   "id": "t6b78b2ff78f",
+   "title": "Bose TV Speaker 2nd Gen $219 + Free S/H",
+   "price": 219.0,
+   "old_price": 300.0,
+   "store": "Adorama",
+   "url": "https://slickdeals.net/f/20405931-bose-tv-speaker-2nd-gen-219-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22613019.thumb",
+   "posted": "2026-11-26T16:15:23+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T22:45:10+00:00",
+   "real_price": 219.0,
+   "real_old": 300.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20405931&tid=20405931&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08f57ea6e9eb11f1918882ce030be712&au=7c235b099e2344088bc8fe99d1da8f38&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t244d3fa3336",
    "title": "Costco Members: 100\" Hisense QD7 4K 144Hz QLED Smart TV + 5-Yr Allstate Plan $1000 + Free S&H",
    "price": 999.99,
@@ -13001,8 +13043,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6786d4fce9ea11f1b63ff2cd9e213daf&au=20a8654f5afd49e1a75b7a534f7bf6c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:40:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0a168a5ae9eb11f1becb1a3cc97fa2aa&au=0092674d6a274506811de28d56e4ea2f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T22:45:12+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15722,45 +15764,6 @@
    "checked_at": "2026-11-26T12:53:36+00:00",
    "real_price": 52.53,
    "real_old": 149.0
-  },
-  {
-   "id": "tbb19b717836",
-   "title": "11-Quart Cuisinart Dual Basket Air Fryer (ADZ-110) + $15 Kohl's Cash $71.99 + Free Shipping",
-   "price": 71.99,
-   "old_price": 199.99,
-   "store": "Kohl's",
-   "url": "https://slickdeals.net/f/20401845-11-quart-cuisinart-dual-basket-air-fryer-adz-110-15-kohl-s-cash-71-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22602252.thumb",
-   "posted": "2026-11-26T06:39:56+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "10HOME",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20401845&tid=20401845&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5eb0fe16e9bd11f1a562fa28cb294618&au=0aa147f00c3840c6b5fb464f666b413e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:18:17+00:00",
-   "real_price": 71.99,
-   "real_old": 199.99
-  },
-  {
-   "id": "t14344150708",
-   "title": "49mm Apple Watch Ultra 4 GPS + Cellular Smartwatch (Gray Ocean Band) $650 + Free S&H",
-   "price": 649.99,
-   "old_price": 799.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401629-649-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-w-gray-ocean-band-one-size-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602156.thumb",
-   "posted": "2026-11-26T06:37:27+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=08970646e96411f187815a19ce7e9572&au=76bcbed61bd84c74865dee8ef68d72a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:38:47+00:00",
-   "real_price": 649.99,
-   "real_old": 799.0
   }
  ],
  "tech": [
@@ -16380,6 +16383,33 @@
    ]
   },
   {
+   "id": "t9309d50865a",
+   "title": "AMD Ryzen 9 9900X3D 12-Core AM5 CPU Micro Center (In-Store Only)",
+   "price": 399.99,
+   "old_price": 599.0,
+   "store": "Micro Center",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&tid=20407233&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07dffa46e9eb11f19d7e9edf9ccb03d5&au=c3bb0c9e03d14fc7927ca741983031ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&tid=20407233&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07dffa46e9eb11f19d7e9edf9ccb03d5&au=c3bb0c9e03d14fc7927ca741983031ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22615590.thumb",
+   "posted": "2026-11-26T18:15:53+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": "BFF38",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Micro Center",
+     "price": 399.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&tid=20407233&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07dffa46e9eb11f19d7e9edf9ccb03d5&au=c3bb0c9e03d14fc7927ca741983031ea&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "teb090339862",
    "title": "Abercrombie & Finch Black Friday Sale: 25% - 50% Off + Add'l 15% Off",
    "price": null,
@@ -16904,6 +16934,33 @@
      "store": "Amazon",
      "price": 249.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405961&tid=20405961&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d1aad576e9c811f1b18986ba077fd58f&au=d6bbb8c6a7ea4958b4e66f41c0d5355b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6b78b2ff78f",
+   "title": "Bose TV Speaker 2nd Gen",
+   "price": 219.0,
+   "old_price": 300.0,
+   "store": "Adorama",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20405931&tid=20405931&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08f57ea6e9eb11f1918882ce030be712&au=7c235b099e2344088bc8fe99d1da8f38&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20405931&tid=20405931&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08f57ea6e9eb11f1918882ce030be712&au=7c235b099e2344088bc8fe99d1da8f38&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22613019.thumb",
+   "posted": "2026-11-26T16:15:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Adorama",
+     "price": 219.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20405931&tid=20405931&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08f57ea6e9eb11f1918882ce030be712&au=7c235b099e2344088bc8fe99d1da8f38&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18931,61 +18988,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401947&tid=20401947&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53b2d036e97511f19f0742025a54f3ac&au=632f958d5ef04eeb945c8fb523af65cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t4793e475e70",
-   "title": "Apple 2026 MacBook Air 13\" M5 Laptop: 24GB RAM, 1TB SSD @Amazon",
-   "price": 1399.0,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22602630.thumb",
-   "posted": "2026-11-26T06:51:28+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1399.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "ta87c5accb91",
-   "title": "Apple Mac mini Desktop: M4 Chip, 16GB RAM, 256GB SSD + Free S&H",
-   "price": 598.98,
-   "old_price": 799.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=24c8f930e96611f1bc36ea8af01651eb&au=1c1c502a7e784b8e9e1782c62788fcc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=24c8f930e96611f1bc36ea8af01651eb&au=1c1c502a7e784b8e9e1782c62788fcc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
-   "posted": "2026-11-26T06:51:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 598.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=24c8f930e96611f1bc36ea8af01651eb&au=1c1c502a7e784b8e9e1782c62788fcc3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T22:41:30+00:00"
+ "updated": "2026-11-26T22:46:03+00:00"
 }
