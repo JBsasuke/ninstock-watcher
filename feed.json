@@ -899,7 +899,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402376&tid=20402376&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=a557c176e99311f181a20a31e97cbd0c&au=3ef192678116443da36796141aa65f53&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:19:37+00:00",
+   "checked_at": "2026-11-26T18:20:33+00:00",
    "real_price": 92.99,
    "real_old": 150.0,
    "category_ok": false
@@ -1004,7 +1004,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401686&tid=20401686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=39dd1f68e96111f1a9645602461873bc&au=e0258d3775134a60b96d76635bcb09a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:19:41+00:00",
+   "checked_at": "2026-11-26T18:20:37+00:00",
    "real_price": 60.0,
    "real_old": null,
    "category_ok": true
@@ -1193,7 +1193,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=38b1fc12e96111f183ee4e2bf151338f&au=59d4e874dea442368e29237c2ba19c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:19:39+00:00",
+   "checked_at": "2026-11-26T18:20:35+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -1535,7 +1535,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=e01e0b82e8fb11f1b1ddfea0be5fc86f&au=a2dcf303573a4c4a9edb7776dd084386&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:19:43+00:00",
+   "checked_at": "2026-11-26T18:20:40+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1556,7 +1556,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=e15fc40ee8fb11f1a31282307f8bab1b&au=96801bdd6306498c8c167a938e1899d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:19:45+00:00",
+   "checked_at": "2026-11-26T18:20:41+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11716,6 +11716,24 @@
    "real_old": 349.99
   },
   {
+   "id": "t0d3ebb19dbd",
+   "title": "Milwaukee M18 18V Brushless Cordless Leaf Blower 450 CFM (Tool-Only) $99 + Free Shipping",
+   "price": 99.0,
+   "old_price": 149.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20405979-milwaukee-m18-18v-brushless-cordless-leaf-blower-450-cfm-tool-only-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22613169.thumb",
+   "posted": "2026-11-26T16:19:04+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T18:21:35+00:00",
+   "real_price": 99.0,
+   "real_old": 149.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405979&tid=20405979&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=36302a80e9c611f18758ded64e7eaab8&au=3ea4b619476441a4abe1b4b31ec4216d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t244d3fa3336",
    "title": "Costco Members: 100\" Hisense QD7 4K 144Hz QLED Smart TV + 5-Yr Allstate Plan $1000 + Free S&H",
    "price": 999.99,
@@ -11880,8 +11898,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c7aa98c0e9c511f1b71d0e5b4f9d0e1c&au=f9dde2a953bc495eb1d92317581bc30d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:18:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=374a6f52e9c611f185e7f2ca1a538894&au=d51d501ce43f4f62aad03331d913f606&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:21:36+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12542,6 +12560,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "YUSLV2LLNZCBKRCM",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -13617,10 +13638,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402460&tid=20402460&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=c9239508e9c511f198f5feb970f6c9c2&au=0aa1d0a1142a468abbccf10b2925f8ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T18:18:32+00:00",
    "real_price": 89.0,
-   "real_old": 99.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402460&tid=20402460&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=c9239508e9c511f198f5feb970f6c9c2&au=0aa1d0a1142a468abbccf10b2925f8ef&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.0
   },
   {
    "id": "te300ff5e005",
@@ -15220,8 +15241,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ca39d6e6e9c511f1a8f3fab111b19bb1&au=133737350afc42e6b159d764a4d996e9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:18:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3862cd9ee9c611f1970fded64e7eaab8&au=f50021d9b811468c98e0f71a90b666ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:21:38+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15732,23 +15753,6 @@
    "checked_at": "2026-11-26T04:46:40+00:00",
    "real_price": 15.0,
    "real_old": 49.99
-  },
-  {
-   "id": "t060a185c412",
-   "title": "27\" Alienware AW2725D QD-OLED 280Hz QHD Gaming Monitor w/ Adjustable Stand $350 + Free S&H",
-   "price": 350.0,
-   "old_price": 550.0,
-   "store": "Dell Technologies",
-   "url": "https://slickdeals.net/f/20381388-27-alienware-qd-oled-1440p-280hz-gaming-monitor-350-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22550400.thumb",
-   "posted": "2026-11-26T03:07:59+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-26T03:12:45+00:00",
-   "real_price": 350.0,
-   "real_old": 550.0
   }
  ],
  "tech": [
@@ -18975,5 +18979,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T18:19:26+00:00"
+ "updated": "2026-11-26T18:22:26+00:00"
 }
