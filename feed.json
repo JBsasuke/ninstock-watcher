@@ -11434,6 +11434,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t9da038de6e7",
+   "title": "34\" Alienware 3440x1440 240Hz Curved VA Monitor $270 + Free S&H",
+   "price": 269.99,
+   "old_price": 399.99,
+   "store": "Slickdeals",
+   "url": "https://slickdeals.net/f/20380485-alienware-34-aw3426dwm-3440x1440-wqhd-240hz-va-curved-gaming-monitor-269-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22548360.thumb",
+   "posted": "2026-11-26T03:05:22+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T03:08:07+00:00",
+   "real_price": 269.99,
+   "real_old": 399.99
+  },
+  {
    "id": "td2510d1461b",
    "title": "32\" ASUS ROG Strix 4K QD-OLED 240Hz Gaming Monitor $899 + Free S&H",
    "price": 899.0,
@@ -11446,10 +11463,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T03:03:26+00:00",
    "real_price": 899.0,
-   "real_old": 1300.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1300.0
   },
   {
    "id": "t4324f9ef502",
@@ -11853,6 +11870,24 @@
    "real_price": 72.0,
    "real_old": 89.75,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20398947&tid=20398947&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=09e32c8ee93011f19f4e3aefaa84f732&au=69738dd999784f0abb28d5132e699909&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tbef7301c1c8",
+   "title": "4-Qt Instant Pot RIO Mini 7-in-1 Multi-Cooker (Sea Salt) + $15 Kohl's Cash $69.99 + Free Shipping",
+   "price": 69.99,
+   "old_price": 89.99,
+   "store": "Kohl's",
+   "url": "https://slickdeals.net/f/20398851-4-qt-instant-pot-rio-mini-7-in-1-multi-cooker-sea-salt-15-kohl-s-cash-69-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22594665.thumb",
+   "posted": "2026-11-25T23:12:51+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T03:08:09+00:00",
+   "real_price": 69.99,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20398851&tid=20398851&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9bb4c03ae94611f18dee6628900e6211&au=0cd6a3b2547d4f27a7b7be1b4e81bf79&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t18c5bde7226",
@@ -12455,6 +12490,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -13622,9 +13660,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -13817,8 +13852,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:03:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9cfe558ce94611f1bd27fe537e62e76e&au=4e512d31be8d473295666f3c8d6b3367&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:08:12+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14193,8 +14228,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:03:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9e5c56cce94611f18012a6a053f33dd7&au=b4c54afe798748f1bc6cd9e8b01af949&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:08:14+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15366,7 +15401,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15842,48 +15877,6 @@
    "checked_at": "2026-11-25T09:58:12+00:00",
    "real_price": 12.99,
    "real_old": 16.99
-  },
-  {
-   "id": "t2f71ae75f11",
-   "title": "Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics (Graphite) $72 + Free S&H w/ Prime",
-   "price": 71.99,
-   "old_price": 119.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20392449-logitech-mx-master-4-ergonomic-wireless-mouse-with-haptics-graphite-71-99-free-s-h-w-prime-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578612.thumb",
-   "posted": "2026-11-25T06:50:09+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "20MOUSE",
-   "code_until": "2026-11-25",
-   "promo": null,
-   "checked_at": "2026-11-25T06:52:59+00:00",
-   "real_price": 71.99,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d971c314e89c11f18687ead78a0a5c38&au=fecfd80b075748f2b37feb4ebade27b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t41d44dd0ebf",
-   "title": "Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics (Graphite) $72 + Free S&H w/ Prime",
-   "price": 71.99,
-   "old_price": 119.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20392449-logitech-mx-master-4-ergonomic-wireless-mouse-w-haptics-graphite-72-free-s-h-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578612.thumb",
-   "posted": "2026-11-25T06:50:09+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "20MOUSE",
-   "code_until": "2026-11-25",
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392449&pno=1373604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=80a4fb74e89d11f1878b266d99bbc28f&au=d364669dfc51404d8bb8e12ba7715e24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:57:39+00:00",
-   "real_price": 71.99,
-   "real_old": 119.99
   }
  ],
  "tech": [
@@ -16686,7 +16679,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17715,7 +17708,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17921,8 +17914,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9cfe558ce94611f1bd27fe537e62e76e&au=4e512d31be8d473295666f3c8d6b3367&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9cfe558ce94611f1bd27fe537e62e76e&au=4e512d31be8d473295666f3c8d6b3367&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17938,7 +17931,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9cfe558ce94611f1bd27fe537e62e76e&au=4e512d31be8d473295666f3c8d6b3367&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18191,8 +18184,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9e5c56cce94611f18012a6a053f33dd7&au=b4c54afe798748f1bc6cd9e8b01af949&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9e5c56cce94611f18012a6a053f33dd7&au=b4c54afe798748f1bc6cd9e8b01af949&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18208,7 +18201,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9e5c56cce94611f18012a6a053f33dd7&au=b4c54afe798748f1bc6cd9e8b01af949&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19104,5 +19097,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T03:04:28+00:00"
+ "updated": "2026-11-26T03:09:05+00:00"
 }
