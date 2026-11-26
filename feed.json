@@ -14,13 +14,13 @@
    "posted": "2026-11-26T18:45:20+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T18:48:28+00:00",
-   "category_ok": false,
-   "real_price": 87.99,
-   "real_old": 109.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f80a6898e9c911f1893aa27f351ed2dc&au=25999e62060c416987cf6adec9c9ead2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T18:48:28+00:00",
+   "real_price": 87.99,
+   "real_old": 109.99,
+   "category_ok": false
   },
   {
    "id": "f0d2c5869a5f",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T18:45:20+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T18:48:30+00:00",
-   "category_ok": false,
-   "real_price": 87.99,
-   "real_old": 109.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f922d76ae9c911f1a129768b21fc55b0&au=1752370671c84b7793475c1106598b2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T18:48:30+00:00",
+   "real_price": 87.99,
+   "real_old": 109.99,
+   "category_ok": false
   },
   {
    "id": "6f3a01c9c64f",
@@ -458,7 +458,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&pno=1374849&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3ee4e7dee99811f1bb73020a893c37cf&au=d0bf043f0e2a44f39e7405105da58540&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:52:32+00:00",
+   "checked_at": "2026-11-26T18:53:14+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -710,7 +710,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&pno=1374849&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=40160b6ae99811f1b9dbb6cefa615a1c&au=cc64dafcc5374c5fb6a3141fab15d233&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:52:34+00:00",
+   "checked_at": "2026-11-26T18:53:16+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -2731,7 +2731,7 @@
    "posted": "2026-11-24T18:39:06+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T12:52:38+00:00",
+   "checked_at": "2026-11-26T18:53:20+00:00",
    "category_ok": true,
    "real_price": 21.24,
    "real_old": 24.99,
@@ -11356,6 +11356,24 @@
  ],
  "raw_tech": [
   {
+   "id": "te6a5da885e2",
+   "title": "Shark IY143H Cordless Pet Cordless Lightweight Stick Vacuum Cleaner $160 + Free S&H",
+   "price": 159.99,
+   "old_price": 299.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20368077-159-99-shark-iy143h-cordless-pet-cordless-lightweight-stick-vacuum-cleaner-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22616508.thumb",
+   "posted": "2026-11-26T18:51:08+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T18:54:13+00:00",
+   "real_price": 159.99,
+   "real_old": 299.99,
+   "store_url": "https://www.bestbuy.com/site/reviews/1/B0GZSST8ZT"
+  },
+  {
    "id": "teb090339862",
    "title": "Abercrombie & Finch Black Friday Sale: 25% - 50% Off + Add'l 15% Off",
    "price": null,
@@ -11371,10 +11389,9 @@
    "code": "CYBERAF",
    "code_until": null,
    "promo": "50% Off",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Abercrombie&sdtid=20407224&tid=20407224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=18f8570ee9ca11f1b450e6b28e008489&au=8048c60575da4b81bdf9ace8b0ba1885&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T18:49:24+00:00",
-   "real_price": 57.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Abercrombie&sdtid=20407224&tid=20407224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=18f8570ee9ca11f1b450e6b28e008489&au=8048c60575da4b81bdf9ace8b0ba1885&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 57.0
   },
   {
    "id": "t696677d4fc1",
@@ -11947,8 +11964,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1a21dacee9ca11f182d91efa549e2174&au=2762b977acdc43dd8e3538c76663e01f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:49:26+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c6eb7c38e9ca11f1bc1fe6b28e008489&au=d9bfa35456e347779e9bda912b361d67&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:54:15+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12435,6 +12452,24 @@
    "real_old": 26.99
   },
   {
+   "id": "tafcc4408f87",
+   "title": "$44.99 | Gourmia Air Fryer - 7 Qt Basket Capacity, 12 Cooking Presets, Black at Amazon",
+   "price": 44.99,
+   "old_price": 79.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404935-44-99-gourmia-air-fryer-7-qt-basket-capacity-12-cooking-presets-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22610454.thumb",
+   "posted": "2026-11-26T14:49:11+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T18:54:17+00:00",
+   "real_price": 44.99,
+   "real_old": 79.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404935&tid=20404935&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c80a3ad2e9ca11f1ac5426f45e3a625d&au=348976e640964974b2bf085a72ad2422&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tae9533ffa1b",
    "title": "RYOBI ONE+ 18V Cordless Compact Glue Gun Kit with Battery and Charger $39.97",
    "price": 39.97,
@@ -12609,9 +12644,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15290,8 +15322,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1b478f0ce9ca11f19c36724e84f11dbb&au=19353336a80647eaab056fd1cad09e71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:49:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c92a348ae9ca11f1888c02e21f0bba24&au=0aaf362204c442f896def5c4f606435a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:54:19+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15694,42 +15726,6 @@
    "checked_at": "2026-11-26T03:36:39+00:00",
    "real_price": 151.97,
    "real_old": 199.99
-  },
-  {
-   "id": "t58104685a1e",
-   "title": "$34.99: ULTIMEA 2.2ch TV Soundbar, Built-in Dual Subwoofer, Bluetooth 5.3, HDMI ARC at Walmart.com",
-   "price": 34.99,
-   "old_price": 119.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20400447-34-99-ultimea-2-2ch-tv-soundbar-built-in-dual-subwoofer-bluetooth-5-3-hdmi-arc-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22599195.thumb",
-   "posted": "2026-11-26T03:27:44+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/673614764",
-   "checked_at": "2026-11-26T06:05:50+00:00",
-   "real_price": 34.99,
-   "real_old": 119.99
-  },
-  {
-   "id": "ta613ba7c23a",
-   "title": "Craftsman V20 Cordless Interchangeable Multi-Size LED Ratchet Wrench $79 + Free S&H",
-   "price": 79.0,
-   "old_price": 139.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20324529-craftsman-v20-cordless-interchangeable-multi-size-led-ratchet-wrench-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22391709.thumb",
-   "posted": "2026-11-26T03:25:34+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324529&pno=1374537&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=4146c3fce94911f180391a82c9533fda&au=66b43b0d7b8e461cabfbddb507f85b30&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:27:06+00:00",
-   "real_price": 79.0,
-   "real_old": 139.0
   }
  ],
  "tech": [
@@ -18956,5 +18952,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T18:50:22+00:00"
+ "updated": "2026-11-26T18:55:06+00:00"
 }
