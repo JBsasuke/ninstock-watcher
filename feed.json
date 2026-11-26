@@ -56,13 +56,13 @@
    "posted": "2026-11-26T19:51:57+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T21:16:07+00:00",
-   "category_ok": true,
-   "real_price": 16.24,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407995&tid=20407995&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9843c8d6e9de11f1880ff607d39d2986&au=2ee741c4163040439cf830d413e36776&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T21:16:07+00:00",
+   "real_price": 16.24,
+   "real_old": 29.99,
+   "category_ok": true
   },
   {
    "id": "1a064ff15f37",
@@ -796,7 +796,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3f1d1794e97a11f1b4c3deb14ba7c7e6&au=28b2f136842844d3b1160bc5126f20be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T15:18:34+00:00",
+   "checked_at": "2026-11-26T21:20:50+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -817,7 +817,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=40300eace97a11f1871a42025a54f3ac&au=eeea6c7269764d4fbf3836711fa903b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T15:18:37+00:00",
+   "checked_at": "2026-11-26T21:20:53+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -11380,6 +11380,24 @@
  ],
  "raw_tech": [
   {
+   "id": "taab552d0e53",
+   "title": "302-Pc Kobalt Metric & SAE Mechanics Tool Set w/ Hard Case $99 + Free S&H",
+   "price": 99.0,
+   "old_price": 149.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402361-kobalt-302-piece-metric-and-standard-sae-mechanics-tool-set-with-hard-case-53559-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22619601.thumb",
+   "posted": "2026-11-26T21:16:44+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T21:21:45+00:00",
+   "real_price": 99.0,
+   "real_old": 149.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402361&pno=1375392&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=61758e1ae9df11f1a13e26a54cb5539b&au=d980240226d941ed817e3387cbec47fb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc3e9f919ee4",
    "title": "Select Stores: Cuisinart 1.1 cu ft. 1000W Digital Countertop Oven Microwave (Black) $50 + Free Store Pickup",
    "price": 49.99,
@@ -12636,10 +12654,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405769&tid=20405769&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babda346e9de11f1a9f3460f4f9362f3&au=1aa88e475eae47928a7086a8b8ca5653&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T21:17:05+00:00",
    "real_price": 117.99,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405769&tid=20405769&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babda346e9de11f1a9f3460f4f9362f3&au=1aa88e475eae47928a7086a8b8ca5653&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.0
   },
   {
    "id": "t8b85d1d40c8",
@@ -12762,8 +12780,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=bbe8b08ae9de11f18c82b2013ad5615c&au=a8200edef04a4482bd3b6b4363e070c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:17:07+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=62b7b2eee9df11f1832dbeaed212ecc4&au=470abf372ff34d76a2f2aba4fc49d8b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T21:21:47+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13571,6 +13589,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "YUSLV2LLNZCBKRCM",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -14718,10 +14739,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402454&tid=20402454&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=bd17f43ee9de11f19dc8ba8bfaabbf0e&au=c0629b7e46ed48838ca2035cccb88075&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T21:17:09+00:00",
    "real_price": 79.96,
-   "real_old": 99.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402454&tid=20402454&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=bd17f43ee9de11f19dc8ba8bfaabbf0e&au=c0629b7e46ed48838ca2035cccb88075&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.95
   },
   {
    "id": "te300ff5e005",
@@ -15752,24 +15773,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&tid=20401578&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d87cfaf2e9b211f1981d0a31e97cbd0c&au=c95c168e15a24f728deda0c8f979e0cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:02:57+00:00",
    "real_price": 60.0
-  },
-  {
-   "id": "tace746f16fa",
-   "title": "Sam's Club Members: 6.5-Qt Ninja Crispi Pro 6-in-1 Glass Countertop Air Fryer $189 + Free S/H for Plus Members $50+",
-   "price": 189.0,
-   "old_price": 249.0,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20401560-sam-s-club-members-6-5-qt-ninja-crispi-pro-6-in-1-glass-countertop-air-fryer-189-free-s-h-for-plus-members-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22601460.thumb",
-   "posted": "2026-11-26T06:07:25+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401560&tid=20401560&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0478fe98e9c311f19ffb3ec01b6db2bd&au=62231fec40a641a1ac3d9f25a23279a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:58:43+00:00",
-   "real_price": 189.0,
-   "real_old": 249.0
   }
  ],
  "tech": [
@@ -18990,5 +18993,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T21:18:03+00:00"
+ "updated": "2026-11-26T21:22:41+00:00"
 }
