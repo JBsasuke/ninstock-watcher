@@ -1175,7 +1175,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=15c4081ae91811f1a389ae29761d79cc&au=9a5cf0cf031b4b468e885103c93ed53e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:36:12+00:00",
+   "checked_at": "2026-11-26T15:37:29+00:00",
    "real_price": 117.0,
    "real_old": 199.0,
    "category_ok": false
@@ -1196,7 +1196,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=16f9e98ee91811f1b5bc4af6d5f80e5a&au=92472c533e214967a1cf25d39c5ca1bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:36:14+00:00",
+   "checked_at": "2026-11-26T15:37:32+00:00",
    "real_price": 117.0,
    "real_old": 199.0,
    "category_ok": false
@@ -2459,7 +2459,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:34:30+00:00",
+   "checked_at": "2026-11-26T15:37:38+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -2629,10 +2629,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6e31e16ee81b11f1bfb58ac1ac0739c8&au=6a7faa6f7a0b49b2ba137f5356071517&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:36:16+00:00",
+   "checked_at": "2026-11-26T15:37:34+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "addd4105ce25",
@@ -2650,10 +2651,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6f7b06f4e81b11f18e8f0248a79e31ce&au=22070ae8dec240298edebe22d48a135c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:36:18+00:00",
+   "checked_at": "2026-11-26T15:37:36+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "eb10b43ebffe",
@@ -11383,6 +11385,41 @@
  ],
  "raw_tech": [
   {
+   "id": "t2facd655815",
+   "title": "Costco Members: Apple Watch Ultra 4 GPS + Cellular 49mm w/ Titanium Case in M/L $650 + $5 S&H",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401971-649-99-apple-watch-ultra-4-gps-cellular-49mm-natural-titanium-case-translucent-gray-ocean-costco?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22611663.thumb",
+   "posted": "2026-11-26T15:37:02+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:38:37+00:00",
+   "real_price": 649.99,
+   "real_old": 799.0
+  },
+  {
+   "id": "t49b6dd2a62c",
+   "title": "Apple Watch Series 12 Smartwatch: GPS + Cellular: 46mm $449, 42mm $399, 42mm GPS $299 + Free S/H",
+   "price": 299.0,
+   "old_price": 399.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20374509-apple-watch-series-12-smartwatch-gps-cellular-46mm-449-42mm-399-42mm-gps-299-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22611642.thumb",
+   "posted": "2026-11-26T15:36:32+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:38:39+00:00",
+   "real_price": 299.0,
+   "real_old": 399.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374509&pno=1375029&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=738de924e9af11f1a650020a893c37cf&au=67d039c5f4ec419bb5cbba636f9d6eec&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "taf7cf94a8e9",
    "title": "Roborock Qrevo 2 Pro Robot Vacuum & Mop $450 + Free S&H",
    "price": 449.99,
@@ -11993,10 +12030,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:33:47+00:00",
-   "real_price": 649.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 649.99
   },
   {
    "id": "t3b613c2e182",
@@ -13741,8 +13777,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c6b24b3ce9ae11f190fa5ab5b1f81fbd&au=b097f08f6d1b42c79446f6e22d1fe3a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:33:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=75023292e9af11f1b38cc22787dbf298&au=1609b52c8b224384ab7fbb6f248492f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:38:42+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15698,45 +15734,36 @@
    "checked_at": "2026-11-25T21:37:24+00:00",
    "real_price": 1299.0,
    "real_old": 2389.0
-  },
-  {
-   "id": "t747d4dd601a",
-   "title": "[Prime] BUG Women's 15.6\" Laptop Tote Bag (Beige or Silver w/ Coin Purse) $9.99 + Free Shipping",
-   "price": 9.99,
-   "old_price": 25.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20398011-prime-bug-women-s-15-6-laptop-tote-bag-beige-or-silver-w-coin-purse-9-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22592541.thumb",
-   "posted": "2026-11-25T21:27:43+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398011&tid=20398011&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73781d60e97311f1a730162b3dda2a12&au=99afb81e727546fc84d22c8bc052bf7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T08:29:09+00:00",
-   "real_price": 9.99,
-   "real_old": 25.99
-  },
-  {
-   "id": "t75138ebe37e",
-   "title": "Samsung EPP/EDU (AAA) Bespoke AI 4-Door Flex™Family Hub™ 32\" Refrigerator | AI Vision & Auto Open Door | 29 cu.ft. $2279",
-   "price": 2279.0,
-   "old_price": 3599.0,
-   "store": "Samsung",
-   "url": "https://slickdeals.net/f/20397882-samsung-epp-edu-aaa-bespoke-ai-4-door-flex-family-hub-32-refrigerator-ai-vision-auto-open-door-29-cu-ft-2279?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/5/4/3/8/0/300x300/22592715.thumb",
-   "posted": "2026-11-25T21:14:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20397882&tid=20397882&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7b36fec6e92411f1ac2f36cb607acb7d&au=0c6b5ab1322a4778a7bdfed04769896d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:03:52+00:00",
-   "real_price": 2279.0,
-   "real_old": 3599.0
   }
  ],
  "tech": [
+  {
+   "id": "t49b6dd2a62c",
+   "title": "Apple Watch Series 12 Smartwatch: GPS + Cellular: 46mm 42mm 42mm GPS",
+   "price": 299.0,
+   "old_price": 399.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374509&pno=1375029&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=738de924e9af11f1a650020a893c37cf&au=67d039c5f4ec419bb5cbba636f9d6eec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374509&pno=1375029&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=738de924e9af11f1a650020a893c37cf&au=67d039c5f4ec419bb5cbba636f9d6eec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22611642.thumb",
+   "posted": "2026-11-26T15:36:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 299.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374509&pno=1375029&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=738de924e9af11f1a650020a893c37cf&au=67d039c5f4ec419bb5cbba636f9d6eec&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t5849c981e05",
    "title": "WOLFBOX 4000A 12V 24000mAh Portable Car Jump Starter",
@@ -18937,34 +18964,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20398392&tid=20398392&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a07e6c80e94411f197f65a9def7bdf7c&au=73a9e452177a459c95931d5c1eaccb1e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t0b482cea1c5",
-   "title": "Samsung HW-QS700F 3.1.2-Channel Soundbar",
-   "price": 347.99,
-   "old_price": 799.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22593612.thumb",
-   "posted": "2026-11-25T22:17:57+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 347.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398365&tid=20398365&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2191b144e99311f18f6d5a8ae8f5b26b&au=8fccbb4cdbf74f6f83cc481c692873a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T15:34:43+00:00"
+ "updated": "2026-11-26T15:39:34+00:00"
 }
