@@ -989,7 +989,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=60271880e92b11f185cb7af7a0db170d&au=ac7f73f78062416f9fe27abfe3698f62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:55:23+00:00",
+   "checked_at": "2026-11-26T11:57:24+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11600,10 +11600,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403405&tid=20403405&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=05a540b6e99011f1802416c12f463110&au=e792a238034a4d1c896e4a1c8234edfb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:53:41+00:00",
    "real_price": 749.0,
-   "real_old": 1499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403405&tid=20403405&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=05a540b6e99011f1802416c12f463110&au=e792a238034a4d1c896e4a1c8234edfb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1499.99
   },
   {
    "id": "t63399843b17",
@@ -11944,10 +11944,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402136&tid=20402136&prop=diavail-true%7Cdincp-2%7Cdinpd-2%7Cdipgavail-true&pv=07292416e99011f1817c0a31e97cbd0c&au=149b148353b54531a8f7e8c91806d5be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:53:43+00:00",
    "real_price": 99.74,
-   "real_old": 129.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402136&tid=20402136&prop=diavail-true%7Cdincp-2%7Cdinpd-2%7Cdipgavail-true&pv=07292416e99011f1817c0a31e97cbd0c&au=149b148353b54531a8f7e8c91806d5be&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 129.99
   },
   {
    "id": "t4842be23949",
@@ -15896,9 +15896,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -19216,5 +19213,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T11:54:39+00:00"
+ "updated": "2026-11-26T11:59:19+00:00"
 }
