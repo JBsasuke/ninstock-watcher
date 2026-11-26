@@ -1442,7 +1442,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T23:21:30+00:00",
+   "checked_at": "2026-11-26T01:25:48+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11513,10 +11513,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399373&tid=20399373&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd327558e93711f1affee21dfa46eb82&au=af3f0522d09949e8bfeae3ad72b2147c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T01:22:10+00:00",
    "real_price": 449.05,
-   "real_old": 669.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399373&tid=20399373&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd327558e93711f1affee21dfa46eb82&au=af3f0522d09949e8bfeae3ad72b2147c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 669.0
   },
   {
    "id": "tbbbb59e9dc8",
@@ -13327,6 +13327,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -13519,8 +13522,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce7319fee93711f1bd448e2b1d8ca5d9&au=4106b6bda4a5492d90f1db00491fa8bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:22:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=70efe3ece93811f182f78e68eba1504d&au=acc6b372b20c45d2aba20ba256f470d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T01:26:45+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13841,8 +13844,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cfb0ec60e93711f1b44442e1fd4b2f3d&au=c31f99f6b941418a859023c6a95ca55f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:22:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=723ced76e93811f1ba53962b4cc73ae6&au=386f767a661844f1bb4447d341e49dc8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T01:26:47+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14997,7 +15000,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -17501,7 +17504,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17707,8 +17710,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce7319fee93711f1bd448e2b1d8ca5d9&au=4106b6bda4a5492d90f1db00491fa8bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce7319fee93711f1bd448e2b1d8ca5d9&au=4106b6bda4a5492d90f1db00491fa8bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=70efe3ece93811f182f78e68eba1504d&au=acc6b372b20c45d2aba20ba256f470d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=70efe3ece93811f182f78e68eba1504d&au=acc6b372b20c45d2aba20ba256f470d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17724,7 +17727,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce7319fee93711f1bd448e2b1d8ca5d9&au=4106b6bda4a5492d90f1db00491fa8bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=70efe3ece93811f182f78e68eba1504d&au=acc6b372b20c45d2aba20ba256f470d1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17950,8 +17953,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cfb0ec60e93711f1b44442e1fd4b2f3d&au=c31f99f6b941418a859023c6a95ca55f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cfb0ec60e93711f1b44442e1fd4b2f3d&au=c31f99f6b941418a859023c6a95ca55f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=723ced76e93811f1ba53962b4cc73ae6&au=386f767a661844f1bb4447d341e49dc8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=723ced76e93811f1ba53962b4cc73ae6&au=386f767a661844f1bb4447d341e49dc8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17967,7 +17970,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cfb0ec60e93711f1b44442e1fd4b2f3d&au=c31f99f6b941418a859023c6a95ca55f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=723ced76e93811f1ba53962b4cc73ae6&au=386f767a661844f1bb4447d341e49dc8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18852,7 +18855,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19079,5 +19082,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T01:23:02+00:00"
+ "updated": "2026-11-26T01:27:40+00:00"
 }
