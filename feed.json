@@ -98,13 +98,13 @@
    "posted": "2026-11-26T09:15:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T10:25:47+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=bebfe7dee98311f1a4002608fa484b01&au=cd015ce869354d2d91a80aea51bc3ff9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T10:25:47+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "67ae3d885a09",
@@ -2165,7 +2165,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369271&pno=1371522&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=50c800c4e82311f1ad5272351a84d088&au=acfe6db78b0646f0b1e0862c18d64475&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:27:11+00:00",
+   "checked_at": "2026-11-26T10:30:18+00:00",
    "real_price": 59.88,
    "real_old": 69.99,
    "category_ok": true
@@ -2552,7 +2552,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&pno=1372239&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=d1a563f4e7f011f18f446636fa90d852&au=bb5b9f9ed3ff403ea2f615376b6ff829&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:27:14+00:00",
+   "checked_at": "2026-11-26T10:30:20+00:00",
    "real_price": 24.88,
    "real_old": 50.0,
    "category_ok": true
@@ -11656,6 +11656,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
@@ -15762,8 +15765,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dc695842e98311f193937af4fef1c802&au=8258d608b2c04372a7b87acae3893dba&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:26:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=7fbfd8a4e98411f197737af4fef1c802&au=00994002adc34fc9a1aa4e7225ea0167&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T10:31:11+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -19162,5 +19165,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T10:27:32+00:00"
+ "updated": "2026-11-26T10:32:03+00:00"
 }
