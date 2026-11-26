@@ -14,13 +14,13 @@
    "posted": "2026-11-26T19:51:57+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T19:52:30+00:00",
-   "category_ok": true,
-   "real_price": 16.24,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407995&tid=20407995&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e9b1844ee9d211f18dd45e2cfa6f2081&au=4400e3a4fec34162a7deaadb8c32d28a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T19:52:30+00:00",
+   "real_price": 16.24,
+   "real_old": 29.99,
+   "category_ok": true
   },
   {
    "id": "dd33f0133a82",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T19:51:57+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T19:52:31+00:00",
-   "category_ok": true,
-   "real_price": 16.24,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407995&tid=20407995&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eac62312e9d211f180673a4e2016f253&au=cefb30a1fa9041f2ae16885ee6a6bbc1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T19:52:31+00:00",
+   "real_price": 16.24,
+   "real_old": 29.99,
+   "category_ok": true
   },
   {
    "id": "1a064ff15f37",
@@ -210,6 +210,27 @@
    "real_price": 27.99,
    "real_old": 57.0,
    "category_ok": true
+  },
+  {
+   "id": "9f35bbf8c2ab",
+   "title": "tomtoc Nintendo Switch 2 Sling Carrying Bag w/ 8 Game Card Slots (Black) $27.99 + Free Shipping w/ Prime or $6 Fee per Order",
+   "price": 27.99,
+   "old_price": 57.0,
+   "store": "Woot!",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20407008-tomtoc-nintendo-switch-2-sling-carrying-bag-w-8-game-card-slots-black-27-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22615206.thumb",
+   "posted": "2026-11-26T17:51:19+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:57:16+00:00",
+   "category_ok": true,
+   "real_price": 27.99,
+   "real_old": 57.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20407008&tid=20407008&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=94486a58e9d311f1ae8e1e8a724ce706&au=7c13bc8e74a04d159ac753a38a7d83ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "0cc7798e259a",
@@ -1111,7 +1132,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e35f06e96e11f185149e87e3b1bc03&au=378664482716475785edb25a1862b56d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:53:38+00:00",
+   "checked_at": "2026-11-26T19:57:19+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1132,7 +1153,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3614d918e96e11f1abf89e87e3b1bc03&au=488e6daab5c146a9809f517d258639c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:53:40+00:00",
+   "checked_at": "2026-11-26T19:57:21+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -3169,28 +3190,6 @@
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
-  },
-  {
-   "id": "a4dfd6c4e1e4",
-   "title": "$15: Star Wars Outlaws - Gold Edition, Nintendo Switch 2, Game-Key at Amazon",
-   "price": 15.0,
-   "old_price": 60.0,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20385855-15-star-wars-outlaws-gold-edition-nintendo-switch-2-game-key-at-amazon?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22560768.thumb",
-   "posted": "2026-11-24T12:42:08+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385855&tid=20385855&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=accc3166e80411f1b17abe4ed0ec16f4&au=c3ff7c4b22034d00b320970f37d99ba0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-25T00:46:33+00:00",
-   "real_price": 15.0,
-   "real_old": 60.0,
-   "category_ok": true,
-   "expired": true
   }
  ],
  "deku_checked": "2026-11-26T19:20:57+00:00",
@@ -11567,6 +11566,27 @@
    "real_old": 42.99
   },
   {
+   "id": "t06cb63a49ce",
+   "title": "Evalit ET066 True HEPA Air Purifier for Large Rooms up to 2200 Sq Ft (Ivory) $44.49 + Free Shipping",
+   "price": 44.49,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20407563-evalit-et066-true-hepa-air-purifier-for-large-rooms-up-to-2200-sq-ft-ivory-44-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/3/0/4/6/1/9/300x300/22616580.thumb",
+   "posted": "2026-11-26T18:55:51+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "Y1YKRU2G",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T19:58:13+00:00",
+   "real_price": 44.49,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407563&tid=20407563&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b61d6df4e9d311f180c94a957fa3e70b&au=74b2df0476744ff9a832c943e5bc843e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te6a5da885e2",
    "title": "Shark IY143H Cordless Pet Cordless Lightweight Stick Vacuum Cleaner $160 + Free S&H",
    "price": 159.99,
@@ -11618,10 +11638,10 @@
    "code": "B5VSH02A",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407287&tid=20407287&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=109e0942e9d311f19de0ea9c5ef07de3&au=deaccecf409a4cd4b2737c821a712099&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:53:35+00:00",
    "real_price": 21.99,
-   "real_old": 62.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407287&tid=20407287&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=109e0942e9d311f19de0ea9c5ef07de3&au=deaccecf409a4cd4b2737c821a712099&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 62.99
   },
   {
    "id": "teb090339862",
@@ -12271,8 +12291,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=11cc5120e9d311f195df1ae3fb2f6dca&au=648bd632dd72448993b19eb7b76d14f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:53:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b742de4ee9d311f1bda4ea67e3bb702e&au=001cbcfbe5124c9dae152707e2bee3bb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:58:15+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12969,9 +12989,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -14508,6 +14525,24 @@
    "real_price": 312.8
   },
   {
+   "id": "t09aeed51158",
+   "title": "Bosch 18V 2-Pack CORE18V 4 Ah Lithium-Ion Battery & Charger Starter Kit + FREE Select Bonus Tool $199 + Free Shipping",
+   "price": 199.0,
+   "old_price": 498.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402049-bosch-18v-2-pack-core18v-4-ah-lithium-ion-battery-charger-starter-kit-free-select-bonus-tool-199-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22602972.thumb",
+   "posted": "2026-11-26T07:07:38+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:58:17+00:00",
+   "real_price": 199.0,
+   "real_old": 498.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7d7817be25a",
    "title": "[EPP/EDU] 27\" Samsung Odyssey G50SF 1440p 180Hz QD-OLED Monitor + CoD Modern Warfare 4 $288 + Free S&H",
    "price": 288.0,
@@ -15408,6 +15443,24 @@
    "real_old": 2419.0
   },
   {
+   "id": "t25e92ed2c21",
+   "title": "eufy C30 Robot Vacuum & Mop $449.99 + Free Shipping",
+   "price": 449.99,
+   "old_price": 799.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20401332-eufy-c30-robot-vacuum-mop-449-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22600896.thumb",
+   "posted": "2026-11-26T05:48:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:58:19+00:00",
+   "real_price": 449.99,
+   "real_old": 799.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401332&tid=20401332&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b9ceeb62e9d311f1b10006be9137bd1f&au=e03cf1a510ee4a0abe05647f75a500e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t8439574b1c2",
    "title": "CRAFTSMAN 140 -Piece Impact Driver Bit Set | CMAF140SET $37.98",
    "price": 37.98,
@@ -15668,8 +15721,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=131cb0f6e9d311f18ec72eab6c6a53e1&au=70e31092862242b3a2c042b4da5a7706&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:53:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=bad9f0d8e9d311f18dfcea9c5ef07de3&au=fc1ae3507e13406480917327aa0a9cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:58:21+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15706,61 +15759,6 @@
    "refurb": false,
    "checked_at": "2026-11-26T06:10:22+00:00",
    "real_price": 119.99
-  },
-  {
-   "id": "t1aafec69c20",
-   "title": "Refurb Good: 512GB Samsung Galaxy Z Fold7 Unlocked Smartphone (Various) $692 + Free S&H",
-   "price": 691.99,
-   "old_price": 2199.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20398332-good-refurb-512gb-samsung-galaxy-z-fold7-unlocked-smartphone-4-colors-691-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22593495.thumb",
-   "posted": "2026-11-26T05:01:44+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20398332&pno=1374630&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed2d55ace95611f1b64dea8af01651eb&au=bbc366365e1846b2ada9697329c6cae7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:04:58+00:00",
-   "real_price": 691.99,
-   "real_old": 2199.99
-  },
-  {
-   "id": "t94118279573",
-   "title": "Frosty the Snowman (4K Ultra HD + Blu-ray + Digital) $10",
-   "price": 9.99,
-   "old_price": 29.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385306-9-99-frosty-the-snowman-4k-ultra-hd-blu-ray-digital-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22559226.thumb",
-   "posted": "2026-11-26T04:58:04+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385306&pno=1374633&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4523f456e95611f1b21842864f1da048&au=879282e30d9047b9bea53109a55caad7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:00:16+00:00",
-   "real_price": 9.99,
-   "real_old": 29.98
-  },
-  {
-   "id": "tee95aaf8f92",
-   "title": "[live 11/26]Costco Members: Apple AirPods Pro 3, Wireless Earbuds w/ 2 Yrs AppleCare+ $149.99",
-   "price": 149.99,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20400945-live-11-26-costco-members-apple-airpods-pro-3-wireless-earbuds-w-2-yrs-applecare-149-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600224.thumb",
-   "posted": "2026-11-26T04:54:58+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-26T05:14:20+00:00",
-   "real_price": 149.99
   }
  ],
  "tech": [
@@ -18129,6 +18127,33 @@
    ]
   },
   {
+   "id": "t09aeed51158",
+   "title": "Bosch 18V 2-Pack CORE18V 4 Ah Lithium-Ion Battery & Charger Starter Kit + FREE Select Bonus Tool",
+   "price": 199.0,
+   "old_price": 498.0,
+   "store": "Lowe's",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22602972.thumb",
+   "posted": "2026-11-26T07:07:38+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lowe's",
+     "price": 199.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t7d7817be25a",
    "title": "[EPP/EDU] 27\" Samsung Odyssey G50SF 1440p 180Hz QD-OLED Monitor + CoD Modern Warfare 4 + Free S&H",
    "price": 288.0,
@@ -18952,34 +18977,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9880b36208f",
-   "title": "Refoss EM16P Smart Home Energy Monitor",
-   "price": 151.98,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601046.thumb",
-   "posted": "2026-11-26T05:44:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 151.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T19:54:29+00:00"
+ "updated": "2026-11-26T19:59:07+00:00"
 }
