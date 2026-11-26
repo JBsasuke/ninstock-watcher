@@ -107,6 +107,27 @@
    "category_ok": true
   },
   {
+   "id": "c0fae3852646",
+   "title": "(Switch 2 GKC) Resident Evil Requiem $30 (YMMV - Regional)",
+   "price": 30.0,
+   "old_price": 60.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-26T18:28:08+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:29:31+00:00",
+   "category_ok": true,
+   "real_price": 30.0,
+   "real_old": 60.0,
+   "store_url": "https://www.walmart.com/ip/18330858360",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "26b1bda68ded",
    "title": "tomtoc Nintendo Switch 2 Sling Carrying Bag w/ 8 Game Card Slots (Black) $27.99 + Free Shipping w/ Prime or $6 Fee per Order",
    "price": 27.99,
@@ -3170,27 +3191,6 @@
    "real_old": 60.0,
    "category_ok": true,
    "expired": true
-  },
-  {
-   "id": "000154426291",
-   "title": "2,050-Pc LEGO Pokémon Pikachu and Poké Ball (72152) $159.95 + Free Shipping",
-   "price": 159.95,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "kind": "merch",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20385288-2-050-pc-lego-pok-mon-pikachu-and-pok-ball-72152-159-95-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22559184.thumb",
-   "posted": "2026-11-24T11:00:10+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-26T17:16:00+00:00",
-   "real_price": 159.95,
-   "real_old": 199.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-26T19:20:57+00:00",
@@ -3998,31 +3998,6 @@
     "price": 59.99,
     "url": "https://www.amazon.com/dp/B0HJ94F7FL"
    },
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "f22d0997480c",
-   "title": "2,050-Pc LEGO Pokémon Pikachu and Poké Ball (72152)",
-   "price": 159.95,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 159.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22559184.thumb",
-   "kind": "merch",
-   "collector": false,
-   "posted": "2026-11-24T11:00:10+00:00",
-   "digital": null,
    "refurb": false,
    "glitch": false,
    "code": null,
@@ -11356,6 +11331,63 @@
  ],
  "raw_tech": [
   {
+   "id": "tce487950ece",
+   "title": "DREAME L60 Pro Ultra Robot Vacuum and Mop $900 & More + Free S&H",
+   "price": 899.99,
+   "old_price": 1399.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20336112-dreame-x60-max-ultra-complete-robot-vacuum-mop-2-colors-989-99-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22617444.thumb",
+   "posted": "2026-11-26T19:28:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:30:24+00:00",
+   "real_price": 899.99,
+   "real_old": 1399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336112&pno=1375296&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d38463f6e9cf11f188687ef858723a76&au=957f84abb441437aa0a2d3d64378136f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t7ff99b8f40d",
+   "title": "Ninja Fireside360 80,000 BTU Fire Pit & Heater w/ Push Start & 3 Modes $330 + Free S&H w/ Prime",
+   "price": 329.99,
+   "old_price": 499.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20389308-ninja-fireside360-80-000-btu-fire-pit-heater-w-push-start-3-modes-329-99-free-shipping-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22570209.thumb",
+   "posted": "2026-11-26T19:28:09+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "TOASTY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T19:30:26+00:00",
+   "real_price": 329.99,
+   "real_old": 499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20389308&pno=1375290&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d4a59dc2e9cf11f18af756667a793469&au=58bed0a63ad34a02bcb101794c8344dc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t22fde6f6bc0",
+   "title": "LG gram Book: Ultra 5 Series 115U, 15.6\" 1080p, 16GB RAM, 512GB SSD $500 + Free S&H",
+   "price": 499.99,
+   "old_price": 999.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401977-lg-gram-book-15-6-fhd-touchscreen-laptop-w-intel-core-ultra-5-115u-16gb-ram-512gb-ssd-black-499-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22602744.thumb",
+   "posted": "2026-11-26T19:25:52+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:30:29+00:00",
+   "real_price": 499.99,
+   "real_old": 999.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&pno=1375293&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d65e9484e9cf11f1a8b71efa549e2174&au=fabae719ac954486bfa7a704aa40e67e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td9c26fc56c0",
    "title": "ECOVACS DEEBOT T90 PRO Omni Robot Vacuum & Mop $499 + Free S&H",
    "price": 499.0,
@@ -12039,10 +12071,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405688&tid=20405688&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f54eca6e9cf11f193844e0165d82a69&au=751693b7b4f7433eba4f79fe56c345a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:25:49+00:00",
    "real_price": 106.99,
-   "real_old": 179.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405688&tid=20405688&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f54eca6e9cf11f193844e0165d82a69&au=751693b7b4f7433eba4f79fe56c345a3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.0
   },
   {
    "id": "t649912e0a47",
@@ -12057,8 +12089,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=30779f8ee9cf11f1b42036fabf08748f&au=cb80edc08cfa46cd848b612adc47a2c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:25:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d787a36ee9cf11f1bcafae6bb055d708&au=7fecfb4e9b6b4c8ebfc70c9aaa5e1e4d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:30:31+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15451,8 +15483,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=322e3608e9cf11f1a7a72270cf03ae10&au=b2b8917b09ec400f87c019887a3ce139&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:25:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d89918a0e9cf11f18a98ae6bb055d708&au=fe398f0c13ba4abb9f6944284213f3d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:30:33+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15673,63 +15705,36 @@
    "checked_at": "2026-11-26T05:05:00+00:00",
    "real_price": 99.5,
    "real_old": 349.0
-  },
-  {
-   "id": "t62c0cd5b950",
-   "title": "Lenovo Legion Tower 5 Gaming Desktop: Ryzen 7 7800X3D, RX 9070 XT, 32GB DDR5, 1TB SSD $2239",
-   "price": 2239.0,
-   "old_price": 2541.28,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20400693-lenovo-legion-tower-5-gaming-desktop-ryzen-7-7800x3d-rx-9070-xt-32gb-ddr5-1tb-ssd-2239?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22599513.thumb",
-   "posted": "2026-11-26T04:08:32+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400693&tid=20400693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3d2a8acee95811f1a8b3fa0af5fde6bc&au=8cc6ac290ad44486afed0b9d3ee0ee4e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:14:22+00:00",
-   "real_price": 2239.0,
-   "real_old": 2541.28
-  },
-  {
-   "id": "t01b0c339675",
-   "title": "Lenovo Legion Tower 5 Gaming Desktop: Ryzen 7 7800X3D, RX 9070 XT, 32GB DDR5, 1TB SSD $2239.99",
-   "price": 2239.99,
-   "old_price": 2541.28,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20400693-lenovo-legion-tower-5-gaming-desktop-ryzen-7-7800x3d-rx-9070-xt-32gb-ddr5-1tb-ssd-2239-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22600596.thumb",
-   "posted": "2026-11-26T04:08:32+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400693&tid=20400693&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8d080ab6e95911f1bb23a6a053f33dd7&au=103137221ae7402f9a88a238825a0ba0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:23:45+00:00",
-   "real_price": 2239.99,
-   "real_old": 2541.28
-  },
-  {
-   "id": "t6ab784178a8",
-   "title": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset (Black) $155.65 + Free S&H",
-   "price": 155.64,
-   "old_price": 379.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20400501-steelseries-arctis-nova-pro-wireless-multi-system-gaming-headset-black-155-64-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22599288.thumb",
-   "posted": "2026-11-26T04:06:37+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400501&pno=1374597&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=27ad3cb8e94f11f1b60342e1fd4b2f3d&au=e7c4f8fb6d8b458984f4e19fa70aa9c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:09:20+00:00",
-   "real_price": 155.64,
-   "real_old": 379.99
   }
  ],
  "tech": [
+  {
+   "id": "t22fde6f6bc0",
+   "title": "LG gram Book: Ultra 5 Series 115U, 15.6\" 1080p, 16GB RAM, 512GB SSD + Free S&H",
+   "price": 499.99,
+   "old_price": 999.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&pno=1375293&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d65e9484e9cf11f1a8b71efa549e2174&au=fabae719ac954486bfa7a704aa40e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&pno=1375293&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d65e9484e9cf11f1a8b71efa549e2174&au=fabae719ac954486bfa7a704aa40e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22602744.thumb",
+   "posted": "2026-11-26T19:25:52+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&pno=1375293&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d65e9484e9cf11f1a8b71efa549e2174&au=fabae719ac954486bfa7a704aa40e67e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "ta80a244039a",
    "title": "MountFTV Full Motion TV Wall Mount Bracket for 26-74\" TVs (Up to 110 lbs)",
@@ -18918,34 +18923,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400936&tid=20400936&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6124ef54e9bd11f1a5a5c2c4ea169611&au=a475e54aa23947ef831e3e47512b28f1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t4e83c880279",
-   "title": "14.2\" Apple MacBook Pro (2026): M5 Chip,18C/20C, 24GB RAM, 2TB SSD + Free S&H",
-   "price": 2699.0,
-   "old_price": 3199.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&pno=1374624&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2fc6eeb6e95511f1897e5e89a443bde0&au=f0dcb280270a41a0aa2e9dd0fd152764&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&pno=1374624&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2fc6eeb6e95511f1897e5e89a443bde0&au=f0dcb280270a41a0aa2e9dd0fd152764&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593954.thumb",
-   "posted": "2026-11-26T04:48:40+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 2699.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&pno=1374624&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2fc6eeb6e95511f1897e5e89a443bde0&au=f0dcb280270a41a0aa2e9dd0fd152764&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T19:26:45+00:00"
+ "updated": "2026-11-26T19:31:18+00:00"
 }
