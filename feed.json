@@ -140,13 +140,13 @@
    "posted": "2026-11-26T10:03:16+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T12:38:32+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 59.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=4a2e0172e99611f1898826fbbfedbab9&au=0fb5afecc492441498f12b5a734db7cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T12:38:32+00:00",
+   "real_price": 15.0,
+   "real_old": 59.0,
+   "category_ok": true
   },
   {
    "id": "4220f9ee8243",
@@ -11952,9 +11952,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -12082,10 +12079,9 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:39:32+00:00",
-   "real_price": 1399.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 1399.0
   },
   {
    "id": "ta87c5accb91",
@@ -12728,8 +12724,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ed842b2e99611f1bbcfbeb29b5643a7&au=0c988e1fd23240f8884555a74d3a62cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T12:39:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=12848402e99711f19a153a1f0e489800&au=582039b401564df99fa159636afee87a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T12:44:08+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -16334,7 +16330,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19130,5 +19126,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T12:40:28+00:00"
+ "updated": "2026-11-26T12:45:10+00:00"
 }
