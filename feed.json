@@ -14,13 +14,13 @@
    "posted": "2026-11-26T13:32:48+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T13:34:26+00:00",
-   "category_ok": true,
-   "real_price": 17.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404278&tid=20404278&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19045148e99e11f1a0aaa2c33023a246&au=1758393519d149b3bb78c6a24c12fa04&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T13:34:26+00:00",
+   "real_price": 17.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "1bf4bb6fcaa5",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T13:32:48+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T13:34:28+00:00",
-   "category_ok": true,
-   "real_price": 17.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404278&tid=20404278&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a303370e99e11f1b6bb22f078095530&au=d64674a318924bb18de95ca8ec6ee3f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T13:34:28+00:00",
+   "real_price": 17.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "adaff305ee32",
@@ -11477,6 +11477,60 @@
  ],
  "raw_tech": [
   {
+   "id": "t03d04b2870d",
+   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (75UR8SG) $1400 + Free S&H",
+   "price": 1399.99,
+   "old_price": 2499.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20399784-75-hisense-ur8-rgb-miniled-4k-180hz-smart-google-tv-75ur8sg-1399-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
+   "posted": "2026-11-26T13:35:30+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:40:10+00:00",
+   "real_price": 1399.99,
+   "real_old": 2499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e6117dbee99e11f1b89f3a1f0e489800&au=4bc61b7f5165445b8ecc56958e9a4e2d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t5f89d092f0c",
+   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (75UR8SG) $1400 + Free S&H",
+   "price": 1399.99,
+   "old_price": 2499.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20399784-75-hisense-ur8-rgb-miniled-4k-180hz-smart-google-tv-75ur8sg-1400-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
+   "posted": "2026-11-26T13:35:30+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:40:12+00:00",
+   "real_price": 1399.99,
+   "real_old": 2499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7483e66e99e11f1b0333e4527bedd40&au=ebe4ba8a4edc4c7b85bfc60f2eab65fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t71babe4f17d",
+   "title": "4-Pack DEWALT 20-Volt Batteries (2-Ct. 2 Ah + 2-Ct. 4 Ah) $129 + Free S/H",
+   "price": 129.0,
+   "old_price": 359.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402823-4-pack-dewalt-20-volt-batteries-2-ct-2-ah-2-ct-4-ah-129-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/0/0/7/9/7/3/300x300/22605258.thumb",
+   "posted": "2026-11-26T13:34:44+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:40:14+00:00",
+   "real_price": 129.0,
+   "real_old": 359.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&pno=1374870&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e8c9e8dee99e11f1b2fffe003e3fb7d2&au=37f92e014d8e4b82b41da92d7b7bb197&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6ea0f446c1a",
    "title": "DEWALT 20V MAX 8\" Battery Powered Mini Pruning Chainsaw (Tool Only) $79 + Free S&H",
    "price": 79.0,
@@ -11489,10 +11543,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402322&pno=1374873&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=3d7cbd8ae99e11f1abd67e23634e417e&au=679a1f5567ec4f9690a6f7ee41f743cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:35:27+00:00",
    "real_price": 79.0,
-   "real_old": 179.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402322&pno=1374873&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=3d7cbd8ae99e11f1abd67e23634e417e&au=679a1f5567ec4f9690a6f7ee41f743cc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.0
   },
   {
    "id": "tc873fe9e819",
@@ -11568,6 +11622,24 @@
    "checked_at": "2026-11-26T13:30:43+00:00",
    "real_price": 9.99,
    "real_old": 34.99
+  },
+  {
+   "id": "t46caa16f399",
+   "title": "[Prime] $464.12* | Refurb: 49mm Apple Watch Ultra 3 GPS + Cellular Smartwatch + 10% Back w/ Prime Visa Card at Amazon",
+   "price": 464.12,
+   "old_price": 606.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20403780-prime-464-12-refurb-49mm-apple-watch-ultra-3-gps-cellular-smartwatch-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22607742.thumb",
+   "posted": "2026-11-26T12:33:04+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "checked_at": "2026-11-26T13:40:16+00:00",
+   "real_price": 464.12,
+   "real_old": 606.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb3eb4493d81",
@@ -11692,6 +11764,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&tid=20403249&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=eb1934ace99c11f1b6511a8c3fe942bc&au=ce19c6d69b69493a897b481c9b372404&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:25:59+00:00",
    "real_price": 139.99
+  },
+  {
+   "id": "t28678e7337b",
+   "title": "Flashforge Adventurer 5M DIY 3D Printer Enclosure Kit $27.99 + Free Shipping w/ Prime or on $35+",
+   "price": 27.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20403213-flashforge-adventurer-5m-diy-3d-printer-enclosure-kit-27-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22606335.thumb",
+   "posted": "2026-11-26T10:42:04+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:40:18+00:00",
+   "real_price": 27.99,
+   "real_old": 39.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te2b8918d941",
@@ -13016,8 +13106,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=403f939ee99e11f1a952a2c33023a246&au=c21e6700ea3149c2b286e2e699e11752&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:35:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec6e0a74e99e11f18ab86e56611d0c45&au=1a2356a27f834e8684fa42c477ce1c8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:40:20+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15755,101 +15845,36 @@
    "checked_at": "2026-11-25T18:29:02+00:00",
    "real_price": 54.95,
    "real_old": 79.95
-  },
-  {
-   "id": "t90e4c3a039e",
-   "title": "iBUYPOWER Slate Ryzen 9 9900X3D / RTX 5070 / 32GB / 1TB Gaming Desktop $2149.99",
-   "price": 2149.99,
-   "old_price": 2499.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20396610-ibuypower-slate-ryzen-9-9900x3d-rtx-5070-32gb-1tb-gaming-desktop-2149-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22589358.thumb",
-   "posted": "2026-11-25T18:19:27+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20396610&tid=20396610&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c521cd40e90611f1bcf28636b3feedc4&au=5b05e9cd3a8742a288634789c7f95cb9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:31:11+00:00",
-   "real_price": 2149.99,
-   "real_old": 2499.99
-  },
-  {
-   "id": "t55bfebecfca",
-   "title": "Intel Core Ultra 9 285K 24-Core LGA 1851 Desktop Processor + Intel 2026 Holiday Gaming Bundle $399.99 + Free Shipping",
-   "price": 399.99,
-   "old_price": 553.99,
-   "store": "B&H Photo Video",
-   "url": "https://slickdeals.net/f/20396556-intel-core-ultra-9-285k-24-core-lga-1851-desktop-processor-intel-2026-holiday-gaming-bundle-399-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22589136.thumb",
-   "posted": "2026-11-25T18:13:37+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20396556&tid=20396556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40317af6e97711f1a0b0a61b1b2e19a1&au=44f3c6c3fafe4f2593ad2f4012f4ad6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T08:56:21+00:00",
-   "real_price": 399.99,
-   "real_old": 553.99
-  },
-  {
-   "id": "t14873a147e8",
-   "title": "Sealegend Dryer Vent Cleaner Kit Compatible with Dyson $7.64 + Free Shipping w/ Prime or on $35+",
-   "price": 7.64,
-   "old_price": 12.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20396550-sealegend-dryer-vent-cleaner-kit-compatible-with-dyson-7-64-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22589043.thumb",
-   "posted": "2026-11-25T18:12:44+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396550&tid=20396550&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=123f84a0e91111f1ba780ab5acb4b1e0&au=d3218e99c0e74172bfb4761d2109f8a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:44:55+00:00",
-   "real_price": 7.64,
-   "real_old": 12.0
-  },
-  {
-   "id": "t2ac827e4306",
-   "title": "Staples Printing: Personalized Holiday Cards, Labels, Gifts, Wrapping Paper 60% Off + Store Pick Up",
-   "price": null,
-   "old_price": null,
-   "store": "Staples",
-   "url": "https://slickdeals.net/f/20381562-staples-custom-photo-calendars-cards-ornaments-more-60-off-free-store-pick-up-or-on-orders-of-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22550757.thumb",
-   "posted": "2026-11-25T18:07:32+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": "81531",
-   "code_until": null,
-   "promo": "60% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20381562&pno=1373994&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5550848ae8fb11f1b969fea0be5fc86f&au=c9798b30aa5e4701b052c2034e4876f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:09:19+00:00",
-   "real_price": 60.0
-  },
-  {
-   "id": "tc8296d83501",
-   "title": "Greenworks 24V 20\" Brushless Hedge Trimmer w/ 2.0Ah Battery & Charger (HT2002) $85 + Free Shipping",
-   "price": 85.0,
-   "old_price": 129.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20396478-greenworks-24v-20-brushless-hedge-trimmer-w-2-0ah-battery-charger-ht2002-85-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22588713.thumb",
-   "posted": "2026-11-25T18:07:22+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396478&tid=20396478&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7660dadce91211f1b6cfeef8defbad9e&au=fe71c328227a4d169013628470afdc7f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:54:53+00:00",
-   "real_price": 85.0,
-   "real_old": 129.99
   }
  ],
  "tech": [
+  {
+   "id": "t03d04b2870d",
+   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (75UR8SG) + Free S&H",
+   "price": 1399.99,
+   "old_price": 2499.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e6117dbee99e11f1b89f3a1f0e489800&au=4bc61b7f5165445b8ecc56958e9a4e2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e6117dbee99e11f1b89f3a1f0e489800&au=4bc61b7f5165445b8ecc56958e9a4e2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
+   "posted": "2026-11-26T13:35:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 1399.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e6117dbee99e11f1b89f3a1f0e489800&au=4bc61b7f5165445b8ecc56958e9a4e2d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t3b613c2e182",
    "title": ": Lenovo B210 15.6-Inch Laptop Backpack, Camo Green",
@@ -15928,6 +15953,33 @@
      "store": "Amazon",
      "price": 9.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403798&tid=20403798&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=941153f0e99d11f182ea020a893c37cf&au=2d5390f8e94c42318b300ac31658c385&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t46caa16f399",
+   "title": "[Prime] * | Refurb: 49mm Apple Watch Ultra 3 GPS + Cellular Smartwatch + 10% Back",
+   "price": 464.12,
+   "old_price": 606.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22607742.thumb",
+   "posted": "2026-11-26T12:33:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 464.12,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16063,6 +16115,33 @@
      "store": "Amazon",
      "price": 139.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&tid=20403249&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=eb1934ace99c11f1b6511a8c3fe942bc&au=ce19c6d69b69493a897b481c9b372404&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t28678e7337b",
+   "title": "Flashforge Adventurer 5M DIY 3D Printer Enclosure Kit",
+   "price": 27.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22606335.thumb",
+   "posted": "2026-11-26T10:42:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 27.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18996,82 +19075,7 @@
      "url": "https://www.walmart.com/ip/18247950004"
     }
    ]
-  },
-  {
-   "id": "t1a2ef69d27a",
-   "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Black Titanium Case with Black Titanium Milanese Loop - L",
-   "price": 799.0,
-   "old_price": 916.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/21016853886",
-   "url": "https://www.walmart.com/ip/21016853886",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/8/3/8/3/9/2/300x300/22590819.thumb",
-   "posted": "2026-11-25T19:33:02+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 799.0,
-     "url": "https://www.walmart.com/ip/21016853886"
-    }
-   ]
-  },
-  {
-   "id": "t1c6fed9c5ed",
-   "title": "Crandall Office: Extra 25% Off Steelcase & Haworth Factory Return Office Chairs",
-   "price": null,
-   "old_price": null,
-   "store": "Crandall Office",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&tid=20397258&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a988a76e90f11f1962acabe8a6132c7&au=4fbceffcc51a41c5ad7043b5726c5c6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&tid=20397258&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a988a76e90f11f1962acabe8a6132c7&au=4fbceffcc51a41c5ad7043b5726c5c6c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591170.thumb",
-   "posted": "2026-11-25T19:30:48+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "OPENBOX25",
-   "code_until": null,
-   "promo": "Extra 25% Off",
-   "offers": []
-  },
-  {
-   "id": "t9b78554996e",
-   "title": "At Staples: In-Store Only Airpods 5 ANC with wireless charging . Ends 11/28/26",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Staples",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22591671.thumb",
-   "posted": "2026-11-25T19:28:55+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Staples",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T13:36:28+00:00"
+ "updated": "2026-11-26T13:41:11+00:00"
 }
