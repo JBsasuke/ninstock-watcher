@@ -35,13 +35,13 @@
    "posted": "2026-11-26T10:03:16+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T10:07:52+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3df69046e98111f18773ae6bb055d708&au=471c3f0f26994a079277bc55823124ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T10:07:52+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "4220f9ee8243",
@@ -126,6 +126,27 @@
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
+  },
+  {
+   "id": "ad09d56f716c",
+   "title": "$15 | Hogwarts Legacy (Nintendo Switch) at Amazon",
+   "price": 15.0,
+   "old_price": 37.49,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20402787-15-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22605177.thumb",
+   "posted": "2026-11-26T08:44:29+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-26T10:12:23+00:00",
+   "category_ok": true,
+   "real_price": 15.0,
+   "real_old": 37.49,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=df52bfb4e98111f185cff68c7a7d4440&au=73b604fb15b64852a5558e479d416061&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "f1203a8ca544",
@@ -1495,8 +1516,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3170,27 +3189,6 @@
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
-  },
-  {
-   "id": "f7e7dd02cb12",
-   "title": "Metaphor: ReFantazio Launch Edition (Switch 2) - $29.99 | Steelbook Edition - $39.99 @ Best Buy",
-   "price": 29.99,
-   "old_price": 39.99,
-   "store": "Best Buy",
-   "kind": "game",
-   "collector": true,
-   "url": "https://slickdeals.net/f/20378991-metaphor-refantazio-launch-edition-switch-2-29-99-steelbook-edition-39-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22544547.thumb",
-   "posted": "2026-11-23T17:28:44+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "checked_at": "2026-11-26T08:23:41+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20378991&tid=20378991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aaabc4d2e77811f18de46e8c80e91624&au=a312e3f12e4c48fd82ad77f0b79d026d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3
   }
  ],
  "deku_checked": "2026-11-26T10:03:50+00:00",
@@ -15766,8 +15764,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5be683cce98111f18efe7af4fef1c802&au=87bf805bfdf94a07acdac1ba2035f941&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:08:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fd71a30ce98111f181cdea8af01651eb&au=8a7bfadd3281459aab6ccc3417823033&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T10:13:14+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -19183,5 +19181,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T10:09:37+00:00"
+ "updated": "2026-11-26T10:14:05+00:00"
 }
