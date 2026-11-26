@@ -1531,7 +1531,7 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T15:32:48+00:00",
+   "checked_at": "2026-11-26T21:34:37+00:00",
    "category_ok": false,
    "real_price": 117.0,
    "real_old": 199.0,
@@ -11380,6 +11380,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tf5a0916c8e8",
+   "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm Smart Watch (various) $549 + Free S&H",
+   "price": 549.0,
+   "old_price": 799.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20399775-apple-watch-ultra-3-gps-cellular-49mm-2025-several-styles-and-bands-549-best-buy-save-250-comp-value-799-ymmv-on-stock-bf-deal?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/0/0/4/8/300x300/22597074.thumb",
+   "posted": "2026-11-26T21:32:00+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T21:35:31+00:00",
+   "real_price": 549.0,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&pno=1375413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e207f6ce9e111f195a4629241def954&au=1b52bf69dfb14c05b69284f7740162f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tdef9106c25f",
    "title": "Cooler Master Hyper 411 Nano CPU Air Cooler w/ SickleFlow 92 PWM Fan (Black) $17",
    "price": 16.99,
@@ -11392,10 +11410,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380902&pno=1375404&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e11d62eae9e011f18cf38adc8d5d1b69&au=9b5dd9fc894c4510824949805ed014f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T21:32:29+00:00",
    "real_price": 16.99,
-   "real_old": 29.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380902&pno=1375404&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e11d62eae9e011f18cf38adc8d5d1b69&au=9b5dd9fc894c4510824949805ed014f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.99
   },
   {
    "id": "taab552d0e53",
@@ -11503,6 +11521,24 @@
    "checked_at": "2026-11-26T20:21:49+00:00",
    "real_price": 59.99,
    "real_old": 139.99
+  },
+  {
+   "id": "tdeebd674a67",
+   "title": "Apple Macbook Air 15.3\" M5 Laptop: 16GB RAM/512GB SSD $1199 @Best buy",
+   "price": 1199.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20408136-apple-macbook-air-15-3-m5-laptop-16gb-ram-512gb-ssd-1199-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
+   "posted": "2026-11-26T20:06:55+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T21:35:34+00:00",
+   "real_price": 1199.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t55f423afa33",
@@ -11798,6 +11834,27 @@
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
    "real_old": 42.99
+  },
+  {
+   "id": "t3eb74a06470",
+   "title": "Bose Lifestyle Ultra Soundbar $799 + Free S/H",
+   "price": 799.0,
+   "old_price": 1099.0,
+   "store": "Adorama",
+   "url": "https://slickdeals.net/f/20407644-bose-lifestyle-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22616784.thumb",
+   "posted": "2026-11-26T19:02:22+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T21:35:35+00:00",
+   "real_price": 799.0,
+   "real_old": 1099.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20407644&tid=20407644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50978d62e9e111f18418ca77583b76c5&au=5f74026d8ae84f2e8dfaf6175e347e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t070c3bc63a3",
@@ -12816,8 +12873,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e2e147fee9e011f1bc27b2013ad5615c&au=466728b76ab64646bec15bc79cc85371&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:32:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=51cb8d32e9e111f197c162be492916db&au=b5db43442915468b9231f28abc88440e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T21:35:38+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13625,9 +13682,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15718,62 +15772,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:07:39+00:00",
    "real_price": 57.0
-  },
-  {
-   "id": "t071e24291fd",
-   "title": "Samsung - Galaxy S25 Edge 256GB (Unlocked) - Titanium Icy Blue  $599.99 Bestbuy.com",
-   "price": 137.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401647-samsung-galaxy-s25-edge-256gb-unlocked-titanium-icy-blue-599-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601697.thumb",
-   "posted": "2026-11-26T06:14:36+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&tid=20401647&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=0d2060aee97811f183151eb17d33795c&au=691e33765ddc483f809a4d4be8863f0d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T09:02:05+00:00",
-   "real_price": 137.0
-  },
-  {
-   "id": "t11ca2749d6a",
-   "title": "$1199.99* | 13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD at Amazon",
-   "price": 1199.99,
-   "old_price": 1599.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401638-1199-99-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601661.thumb",
-   "posted": "2026-11-26T06:13:50+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&tid=20401638&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=baf76ed8e97911f1a28fa676de3a53b4&au=86c13b76f3fa4442984eed3c67f2f5f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T09:14:06+00:00",
-   "real_price": 1199.99,
-   "real_old": 1599.0
-  },
-  {
-   "id": "tfe401fded8d",
-   "title": "$649.99* | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) at Amazon",
-   "price": 649.99,
-   "old_price": 799.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401629-649-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-w-gray-ocean-band-one-size-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601619.thumb",
-   "posted": "2026-11-26T06:13:06+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:29:06+00:00",
-   "real_price": 649.99,
-   "real_old": 799.0
   }
  ],
  "tech": [
+  {
+   "id": "tf5a0916c8e8",
+   "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm Smart Watch (various) + Free S&H",
+   "price": 549.0,
+   "old_price": 799.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&pno=1375413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e207f6ce9e111f195a4629241def954&au=1b52bf69dfb14c05b69284f7740162f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&pno=1375413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e207f6ce9e111f195a4629241def954&au=1b52bf69dfb14c05b69284f7740162f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/0/0/4/8/300x300/22597074.thumb",
+   "posted": "2026-11-26T21:32:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 549.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&pno=1375413&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e207f6ce9e111f195a4629241def954&au=1b52bf69dfb14c05b69284f7740162f2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tdef9106c25f",
    "title": "Cooler Master Hyper 411 Nano CPU Air Cooler",
@@ -15879,6 +15907,33 @@
      "store": "Amazon",
      "price": 11.45,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tdeebd674a67",
+   "title": "Apple Macbook Air 15.3\" M5 Laptop: 16GB RAM/512GB SSD @Best buy",
+   "price": 1199.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
+   "posted": "2026-11-26T20:06:55+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 1199.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16116,6 +16171,33 @@
      "store": "Walmart",
      "price": 14.89,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3eb74a06470",
+   "title": "Bose Lifestyle Ultra Soundbar",
+   "price": 799.0,
+   "old_price": 1099.0,
+   "store": "Adorama",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20407644&tid=20407644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50978d62e9e111f18418ca77583b76c5&au=5f74026d8ae84f2e8dfaf6175e347e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20407644&tid=20407644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50978d62e9e111f18418ca77583b76c5&au=5f74026d8ae84f2e8dfaf6175e347e92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22616784.thumb",
+   "posted": "2026-11-26T19:02:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Adorama",
+     "price": 799.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20407644&tid=20407644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50978d62e9e111f18418ca77583b76c5&au=5f74026d8ae84f2e8dfaf6175e347e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18914,82 +18996,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0aefba00e96411f1b4d742e1fd4b2f3d&au=b64d168e05434991ae5a96370000470a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf5ee7007e57",
-   "title": "256GB Apple iPhone Air Unlocked Smartphone (4 Colors) + Free S&H",
-   "price": 749.99,
-   "old_price": 1099.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601454.thumb",
-   "posted": "2026-11-26T06:30:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 749.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tbe571469d85",
-   "title": "HP - OmniBook 5 - 16\" 2K Touchscreen Laptop Bestbuy.com",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22602048.thumb",
-   "posted": "2026-11-26T06:27:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tf6ff819434d",
-   "title": "Extra 20% off on Razer and More Gaming Deals!",
-   "price": null,
-   "old_price": null,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601739.thumb",
-   "posted": "2026-11-26T06:16:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "PCGAMING",
-   "code_until": "2026-12-04",
-   "promo": "Extra 20% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-26T21:33:29+00:00"
+ "updated": "2026-11-26T21:36:26+00:00"
 }
