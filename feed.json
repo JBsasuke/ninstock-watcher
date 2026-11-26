@@ -1640,7 +1640,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=48d587f0e8f111f187846a82603adb7c&au=c6d26ffb52fe4a0795ef7dbdf3035cd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:01:54+00:00",
+   "checked_at": "2026-11-26T17:06:30+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1661,7 +1661,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4a473976e8f111f1bf1496c3e30d41b9&au=f1cbefdababb493f8927a51456b917cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:01:57+00:00",
+   "checked_at": "2026-11-26T17:06:33+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -3082,7 +3082,7 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:01:59+00:00",
+   "checked_at": "2026-11-26T17:06:35+00:00",
    "real_price": 17.97,
    "real_old": 77.0,
    "category_ok": true
@@ -11397,10 +11397,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:02:42+00:00",
    "real_price": 13.99,
-   "real_old": 38.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 38.99
   },
   {
    "id": "te6941a34bf4",
@@ -11437,6 +11437,27 @@
    "checked_at": "2026-11-26T16:53:17+00:00",
    "real_price": 24.98,
    "real_old": 49.98
+  },
+  {
+   "id": "t0eb1e896c4f",
+   "title": "[Prime] Omnibar 67W GaN 2-Port USB-C Wall Charger w/ Retractable Cable $8.92 + Free Shipping",
+   "price": 8.92,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406438-prime-omnibar-67w-gan-2-port-usb-c-wall-charger-w-retractable-cable-8-92-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22613898.thumb",
+   "posted": "2026-11-26T16:49:04+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "V4Q9JDUA",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T17:07:31+00:00",
+   "real_price": 8.92,
+   "real_old": 14.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t38700ad2fee",
@@ -11645,6 +11666,24 @@
    "real_old": 499.0
   },
   {
+   "id": "t3e1ed6bc99f",
+   "title": "Asus XG32UQWMS 32\" 4K 240Hz/1080p 480Hz Tandem WOLED Gaming Monitor $699.99",
+   "price": 699.99,
+   "old_price": 899.99,
+   "store": "Newegg",
+   "url": "https://slickdeals.net/f/20405700-asus-xg32uqwms-32-4k-240hz-1080p-480hz-tandem-woled-gaming-monitor-699-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22612275.thumb",
+   "posted": "2026-11-26T15:58:54+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:07:33+00:00",
+   "real_price": 699.99,
+   "real_old": 899.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t649912e0a47",
    "title": "2-Pc 6\" RYOBI Diamond Grit Impact Drive Bits $4.95 + Free S&H",
    "price": 4.97,
@@ -11657,8 +11696,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3271823ce9bb11f1ad40c24804b06ef6&au=2c2cd612855a4367b3ba0c981a0e3bf1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:02:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=dff10d88e9bb11f199b892ce32056ba7&au=132b0383e5034822a108bc29a019ecb6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:07:35+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -11819,10 +11858,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20405349&tid=20405349&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51691818e9b511f1b7045a59d1f3bccf&au=6a03a1997fc04823838a4665a5fd7bb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:20:39+00:00",
    "real_price": 182.39,
-   "real_old": 227.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20405349&tid=20405349&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51691818e9b511f1b7045a59d1f3bccf&au=6a03a1997fc04823838a4665a5fd7bb7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 227.99
   },
   {
    "id": "taf7cf94a8e9",
@@ -12034,6 +12073,24 @@
    "real_old": 50.98
   },
   {
+   "id": "tf653ff1c59b",
+   "title": "2-Pack Milwaukee FASTBACK 6-in-1 Folding Utility Knives w/ General Purpose Blade $19.97 + Free Shipping",
+   "price": 19.97,
+   "old_price": 43.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20405001-2-pack-milwaukee-fastback-6-in-1-folding-utility-knives-w-general-purpose-blade-19-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22610655.thumb",
+   "posted": "2026-11-26T14:55:26+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:07:37+00:00",
+   "real_price": 19.97,
+   "real_old": 43.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&tid=20405001&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=e105d0fae9bb11f1bcae6a32ba4b7a31&au=6eb73e7d9da14003b04231ff73b812d7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t94a03a660a6",
    "title": "Prime: 63.7\" EDISHINE Dual Lampshade Modern Floor Lamp w/ Remote & Smart Bulb (3 Colors) $20 + Free S&H",
    "price": 19.99,
@@ -12121,10 +12178,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404911&tid=20404911&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=33d0112ae9bb11f1b7cac24804b06ef6&au=85536ac5b7a34b0dbf84e60b8cd95791&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:02:46+00:00",
    "real_price": 99.0,
-   "real_old": 199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404911&tid=20404911&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=33d0112ae9bb11f1b7cac24804b06ef6&au=85536ac5b7a34b0dbf84e60b8cd95791&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.0
   },
   {
    "id": "td7dd1c94b99",
@@ -12265,9 +12322,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -13611,6 +13665,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -14115,6 +14172,27 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:59:27+00:00",
    "real_price": 60.0
+  },
+  {
+   "id": "tf6ff819434d",
+   "title": "Extra 20% off on Razer and More Gaming Deals! at Woot!",
+   "price": null,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20401680-extra-20-off-on-razer-and-more-gaming-deals-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601739.thumb",
+   "posted": "2026-11-26T06:16:54+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "PCGAMING",
+   "code_until": "2026-12-04",
+   "promo": "Extra 20% Off",
+   "checked_at": "2026-11-26T17:07:39+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t071e24291fd",
@@ -14755,8 +14833,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=34ef79e2e9bb11f1935a2a5085290165&au=3de704d66b2e4225a451864b94e38a60&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:02:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e38cf150e9bb11f19c55f2ed4237d91e&au=03a6b3f1b40c4c2da13bfd07719b7dbe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:07:41+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15664,80 +15742,6 @@
    "checked_at": "2026-11-26T05:05:04+00:00",
    "real_price": 1399.99,
    "real_old": 2499.99
-  },
-  {
-   "id": "t301d4844f43",
-   "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm 2025 (Several Styles and Bands) $549 @Best Buy -  Save $250 (Comp. Value: $799) YMMV on stock-BF Deal",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20399775-apple-watch-ultra-3-gps-cellular-49mm-2025-several-styles-and-bands-549-best-buy-save-250-comp-value-799-ymmv-on-stock-bf-deal?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/0/0/4/8/300x300/22597074.thumb",
-   "posted": "2026-11-26T01:25:30+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&tid=20399775&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2bae3e66e94f11f19c3b465b432d7ba4&au=03f1ca5e7d764e348bc99090f3f23d32&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:09:27+00:00",
-   "real_price": 60.0
-  },
-  {
-   "id": "t233d18c0d27",
-   "title": "$15 Razer DeathAdder Essential Ergonomic Wired Gaming Mouse, Black | 6400 DPI Optical Sensor, 5 Programmable Buttons, Rubber Side Grips, Mechanical Mouse Switches $14.99",
-   "price": 14.99,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399766-15-razer-deathadder-essential-ergonomic-wired-gaming-mouse-black-6400-dpi-optical-sensor-5-programmable-buttons-rubber-side-grips-mechanical-mouse-switches-14-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/3/6/4/6/4/3/300x300/22597158.thumb",
-   "posted": "2026-11-26T01:24:22+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399766&tid=20399766&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5f158180e96111f1bc1f5602461873bc&au=6b93876fd29c452095c3d30741dd225b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:19:44+00:00",
-   "real_price": 14.99,
-   "real_old": 29.99
-  },
-  {
-   "id": "t36050171518",
-   "title": "Baseus Bass BP1 NC Wireless ANC Earbuds $12.59 Each When You Buy 4 at Amazon $13.99",
-   "price": 13.99,
-   "old_price": 17.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399703-baseus-bass-bp1-nc-wireless-anc-earbuds-12-59-each-when-you-buy-4-at-amazon-13-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22596873.thumb",
-   "posted": "2026-11-26T01:18:21+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399703&tid=20399703&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=87febb76e95b11f197eca6a053f33dd7&au=2e19587bc4934dedaf50a88f77c6d915&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:37:56+00:00",
-   "real_price": 13.99,
-   "real_old": 17.99
-  },
-  {
-   "id": "td45b7bf4016",
-   "title": "Pixel Panda Winter Gloves Men & Women with 3M Thinsulate, Waterproof Ski Gloves $9.79",
-   "price": 9.79,
-   "old_price": 19.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399694-pixel-panda-winter-gloves-men-women-with-3m-thinsulate-waterproof-ski-gloves-9-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22596825.thumb",
-   "posted": "2026-11-26T01:16:38+00:00",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "prio": 15,
-   "refurb": false,
-   "code": "6H2K40ED",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399694&tid=20399694&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=9b39f6fce95511f182d49e87e3b1bc03&au=cc8ebe3edae04ce4b9e151e0606d5044&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:55:31+00:00",
-   "real_price": 9.79,
-   "real_old": 19.99
   }
  ],
  "tech": [
@@ -15792,6 +15796,33 @@
      "store": "Best Buy",
      "price": 679.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&pno=1374711&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=873fecc8e9ba11f1a8c2c2c4ea169611&au=ea02c00eda7549a4a7ff837dd88d11d5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0eb1e896c4f",
+   "title": "[Prime] Omnibar 67W GaN 2-Port USB-C Wall Charger",
+   "price": 8.92,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22613898.thumb",
+   "posted": "2026-11-26T16:49:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "V4Q9JDUA",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 8.92,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -15900,6 +15931,33 @@
      "store": "Amazon",
      "price": 399.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405709&tid=20405709&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=db209302e9b411f1aea93a71cb392a8d&au=2cc0e7b8e9b14fd0af257ba6ed7bb54c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3e1ed6bc99f",
+   "title": "Asus XG32UQWMS 32\" 4K 240Hz/1080p 480Hz Tandem WOLED Gaming Monitor",
+   "price": 699.99,
+   "old_price": 899.99,
+   "store": "Newegg",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22612275.thumb",
+   "posted": "2026-11-26T15:58:54+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Newegg",
+     "price": 699.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17431,7 +17489,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17846,6 +17904,27 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
+  },
+  {
+   "id": "tf6ff819434d",
+   "title": "Extra 20% off on Razer and More Gaming Deals!",
+   "price": null,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601739.thumb",
+   "posted": "2026-11-26T06:16:54+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "PCGAMING",
+   "code_until": "2026-12-04",
+   "promo": "Extra 20% Off",
+   "offers": []
   },
   {
    "id": "t071e24291fd",
@@ -18887,88 +18966,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399949&tid=20399949&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=829a53b4e94e11f1a10f9aadaf5cdd1e&au=6cbccffe935b4c6593e4e32a327925e9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t97937d9b10e",
-   "title": "Garmin Forerunner 265 Running Smartwatch, 46mm, Black/Powder Gray",
-   "price": 299.99,
-   "old_price": 449.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399850&tid=20399850&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b530d488e99911f182c866edb94371e6&au=cd58d419bad344fab32b264ed6a02205&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399850&tid=20399850&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b530d488e99911f182c866edb94371e6&au=cd58d419bad344fab32b264ed6a02205&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22597521.thumb",
-   "posted": "2026-11-26T01:37:22+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 299.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399850&tid=20399850&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b530d488e99911f182c866edb94371e6&au=cd58d419bad344fab32b264ed6a02205&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5ef5f27ea91",
-   "title": "TCL 98\" QM63K Series QD-Mini LED QLED 4K UHD Smart TV with Google TV - 98QM63K",
-   "price": 999.91,
-   "old_price": null,
-   "store": "Sam's Club",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/2/0/9/3/0/7/300x300/22597407.thumb",
-   "posted": "2026-11-26T01:33:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Sam's Club",
-     "price": 999.91,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t0b931770242",
-   "title": ": Greenworks 24V Brushless 4-Tool Combo Kit, (2) 2.0Ah Batteries, USB-C Charger",
-   "price": 124.99,
-   "old_price": 249.97,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/16740554635",
-   "url": "https://www.walmart.com/ip/16740554635",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22597278.thumb",
-   "posted": "2026-11-26T01:28:23+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 124.99,
-     "url": "https://www.walmart.com/ip/16740554635"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T17:03:43+00:00"
+ "updated": "2026-11-26T17:08:27+00:00"
 }
