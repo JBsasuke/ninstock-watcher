@@ -56,13 +56,13 @@
    "posted": "2026-11-26T13:46:38+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T14:40:44+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&tid=20404392&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=5bc274b6e9a711f193efb6cefa615a1c&au=906e2e54329a42159c161373f183e311&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T14:40:44+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "d006a72a31e6",
@@ -11404,6 +11404,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t9229a934719",
+   "title": "DeWALT Self-Leveling 120-ft Green 3-Spot Laser Level $90 + Free S&H",
+   "price": 89.99,
+   "old_price": 169.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20400177-dewalt-dw08302cg-120-foot-green-3-spot-laser-level-89-99-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22598676.thumb",
+   "posted": "2026-11-26T14:41:51+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:46:19+00:00",
+   "real_price": 89.99,
+   "real_old": 169.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400177&pno=1374930&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=23cd4788e9a811f1a523e23d847dc1c0&au=edfecaaa5bfa449888c02e71d5d806ee&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfac7c7e3ad2",
    "title": "WAVLINK 7-in-1 Laptop Docking Station w/ Dual 4K HDMI/2.5G LAN/140W PD (Windows) $25",
    "price": 25.0,
@@ -11528,6 +11546,24 @@
    "checked_at": "2026-11-26T14:04:13+00:00",
    "real_price": 1199.99,
    "real_old": 1599.0
+  },
+  {
+   "id": "t047b1d7fa3c",
+   "title": "Klein Tools Compact Vacuum Laser Level 40-ft Red | 93CVLS",
+   "price": 24.98,
+   "old_price": 49.98,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20404443-klein-tools-compact-vacuum-laser-level-40-ft-red-93cvls?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22609374.thumb",
+   "posted": "2026-11-26T13:56:44+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:46:21+00:00",
+   "real_price": 24.98,
+   "real_old": 49.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20404443&tid=20404443&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=252e1148e9a811f1bc60ca4029f35a59&au=cc59912257f6469b98d3a39895c86e96&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7688b095017",
@@ -12541,10 +12577,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&tid=20401977&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d328f32e9a711f1be73fae72cae872a&au=759a850681c44e34afbbe30dcf7f34b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:41:39+00:00",
    "real_price": 499.99,
-   "real_old": 999.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&tid=20401977&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d328f32e9a711f1be73fae72cae872a&au=759a850681c44e34afbbe30dcf7f34b2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 999.99
   },
   {
    "id": "t879b6fa5993",
@@ -13380,8 +13416,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7e6300d0e9a711f1903bca4029f35a59&au=bce6451e4b0f475faa0fb8b02c77be1d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T14:41:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=265e1f90e9a811f1bd3a625ae792fa71&au=01603ac1d6fb4fa289045c7ec29990a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T14:46:23+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15720,42 +15756,6 @@
    "checked_at": "2026-11-26T07:10:54+00:00",
    "real_price": 10.48,
    "real_old": 19.99
-  },
-  {
-   "id": "tedbe9f90d2e",
-   "title": "$190 WALMART Acer Nitro ED0 Gaming Monitor 34\" UWQHD (3440 x 1440)Curved Gaming Monitor with AMD FreeSync Technology, 120 Hz",
-   "price": 135.0,
-   "old_price": 136.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20397291-190-walmart-acer-nitro-ed0-gaming-monitor-34-uwqhd-3440-x-1440-curved-gaming-monitor-with-amd-freesync-technology-120-hz?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22590903.thumb",
-   "posted": "2026-11-25T19:36:02+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/18247950004",
-   "checked_at": "2026-11-26T00:08:08+00:00",
-   "real_price": 135.0,
-   "real_old": 136.0
-  },
-  {
-   "id": "t1a2ef69d27a",
-   "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Black Titanium Case with Black Titanium Milanese Loop - L $799",
-   "price": 799.0,
-   "old_price": 916.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20397270-apple-watch-ultra-4-gps-cellular-49mm-black-titanium-case-with-black-titanium-milanese-loop-l-799?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/8/3/8/3/9/2/300x300/22590819.thumb",
-   "posted": "2026-11-25T19:33:02+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/21016853886",
-   "checked_at": "2026-11-26T08:10:53+00:00",
-   "real_price": 799.0,
-   "real_old": 916.0
   }
  ],
  "tech": [
@@ -18988,5 +18988,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T14:42:39+00:00"
+ "updated": "2026-11-26T14:47:17+00:00"
 }
