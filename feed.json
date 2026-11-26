@@ -983,7 +983,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1655c224e94911f1af3ffa0af5fde6bc&au=8c45afcd34594a25a2c76b65f929408b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:26:49+00:00",
+   "checked_at": "2026-11-26T15:27:57+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -2111,7 +2111,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=0b23b3dae8e411f18674f2c8783961b3&au=e49082cdf5e24285982f3970ac7fa26a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:26:51+00:00",
+   "checked_at": "2026-11-26T15:28:00+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2391,7 +2391,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389107&tid=20389107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=96c8903ae84a11f1a793ee28fcd547bf&au=499b9fa2051b42b1ab20929103d523f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:26:54+00:00",
+   "checked_at": "2026-11-26T15:28:04+00:00",
    "real_price": 19.99,
    "real_old": 29.99,
    "category_ok": true
@@ -11383,6 +11383,24 @@
  ],
  "raw_tech": [
   {
+   "id": "taf7cf94a8e9",
+   "title": "Roborock Qrevo 2 Pro Robot Vacuum & Mop $450 + Free S&H",
+   "price": 449.99,
+   "old_price": 818.98,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20302692-roborock-qrevo-2-pro-robot-vacuum-mop-450-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22611342.thumb",
+   "posted": "2026-11-26T15:25:45+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:29:01+00:00",
+   "real_price": 449.99,
+   "real_old": 818.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302692&pno=1375005&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ae4d4e6e9ae11f19e291e57f002ab63&au=91bd0b53e7164309910489f4f663e605&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5849c981e05",
    "title": "WOLFBOX 4000A 12V 24000mAh Portable Car Jump Starter w/ 65W Quick Charger $60 + Free S&H",
    "price": 60.0,
@@ -11395,13 +11413,13 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "WB2026MV24",
+   "code": "202611MV24WB",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20197590&pno=1374990&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6d6798a8e9ad11f196e96e278ea8cacd&au=b7374896fb53446192e4de045bd0ae45&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:24:10+00:00",
    "real_price": 60.0,
-   "real_old": 146.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20197590&pno=1374990&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6d6798a8e9ad11f196e96e278ea8cacd&au=b7374896fb53446192e4de045bd0ae45&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 146.99
   },
   {
    "id": "t73dc9f9a8f6",
@@ -11567,6 +11585,24 @@
    "checked_at": "2026-11-26T14:46:19+00:00",
    "real_price": 89.99,
    "real_old": 169.99
+  },
+  {
+   "id": "t89e5a0596cf",
+   "title": "RYOBI 40V 300-Watt Portable Battery Inverter Power Source with 6.0 Ah Battery & Charger $169",
+   "price": 169.0,
+   "old_price": 229.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20404845-ryobi-40v-300-watt-portable-battery-inverter-power-source-with-6-0-ah-battery-charger-169?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22610181.thumb",
+   "posted": "2026-11-26T14:41:23+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:29:03+00:00",
+   "real_price": 169.0,
+   "real_old": 229.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404845&tid=20404845&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1c7277fae9ae11f180ffc69fef8dfe65&au=237ffb5334f342f3bb58a727f43f5c52&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tfac7c7e3ad2",
@@ -13687,8 +13723,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=703e7588e9ad11f1969d629eec2e1c58&au=702c10a87b57424390648e3e635cea5e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:24:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1da68b0ce9ae11f1b968629eec2e1c58&au=2815e1bd4e1847afb5a1cca815626fde&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:29:06+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15697,42 +15733,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Chipotle&sdtid=20350587&pno=1373829&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e99e18e6e91411f18e00a6f64cc7c3ff&au=775a357d26754d549a000c2617dd6f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T21:12:25+00:00",
    "real_price": 57.0
-  },
-  {
-   "id": "t7431e096f9e",
-   "title": "75\" Hisense QD5 Series Hi-QLED 4K Smart Roku TV (2026, 75QD5SR) $380 + Free S&H",
-   "price": 379.99,
-   "old_price": 699.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20367099-75-hisense-qd5-series-hi-qled-4k-smart-roku-tv-2026-75qd5sr-380-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22592196.thumb",
-   "posted": "2026-11-25T21:05:19+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20367099&pno=1374111&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4238a486e91411f19cd902636677f240&au=fced7f88b83c4be38d97d2091cad22f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:07:45+00:00",
-   "real_price": 379.99,
-   "real_old": 699.99
-  },
-  {
-   "id": "tc34e733ea30",
-   "title": "ABS Cyclone PC: i5-14400F, RTX 5060 8GB, 16GB DDR4, 1TB SSD $749 + Free S&H",
-   "price": 749.0,
-   "old_price": 1399.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373408-abs-cyclone-pc-i5-14400f-rtx-5060-8gb-16gb-ddr4-1tb-ssd-749-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22592172.thumb",
-   "posted": "2026-11-25T21:02:12+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/20940963207",
-   "checked_at": "2026-11-25T21:03:08+00:00",
-   "real_price": 749.0,
-   "real_old": 1399.99
   }
  ],
  "tech": [
@@ -15752,7 +15752,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "WB2026MV24",
+   "code": "202611MV24WB",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18965,5 +18965,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T15:25:11+00:00"
+ "updated": "2026-11-26T15:29:59+00:00"
 }
