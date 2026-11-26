@@ -1895,7 +1895,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=3fb8d85ee8ef11f199a9ae6475442606&au=d4a5691cb88b498b9f2afcec92c3a845&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T16:52:19+00:00",
+   "checked_at": "2026-11-26T22:53:27+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1916,7 +1916,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=40e32f7ce8ef11f1a9385a511138d167&au=0a8239e0fb654dc9ae609c28bf0e28c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T16:52:22+00:00",
+   "checked_at": "2026-11-26T22:53:30+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -11369,10 +11369,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20403003&pno=1375491&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=abd03a8ae9eb11f188f61a3cc97fa2aa&au=605dec5aceef413fa09f177e1086ed83&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T22:49:43+00:00",
    "real_price": 34.98,
-   "real_old": 49.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20403003&pno=1375491&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=abd03a8ae9eb11f188f61a3cc97fa2aa&au=605dec5aceef413fa09f177e1086ed83&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.98
   },
   {
    "id": "ta8cedc53bb6",
@@ -11955,6 +11955,9 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "code": "6ND8B35D",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -13061,8 +13064,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=aced178ae9eb11f194fc02a61e36dc80&au=b4501ba52a7c49108e41c60fcdd79de8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:49:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=52d548f2e9ec11f19a8f2e7ef2a57ec1&au=3e27065a0ec84a2e9d2f488c333c09fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T22:54:24+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13870,6 +13873,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "YUSLV2LLNZCBKRCM",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -16233,7 +16239,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "6ND8B35D",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18987,5 +18993,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T22:50:40+00:00"
+ "updated": "2026-11-26T22:55:17+00:00"
 }
