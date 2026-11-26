@@ -35,13 +35,13 @@
    "posted": "2026-11-26T06:17:43+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T06:23:20+00:00",
-   "category_ok": true,
-   "real_price": 58.0,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401686&tid=20401686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e01bbd80e96111f1afc4a6ea1f579b67&au=073be8fa9fb841ec96d321f795b3d389&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T06:23:20+00:00",
+   "real_price": 58.0,
+   "real_old": null,
+   "category_ok": true
   },
   {
    "id": "19c975e28ee6",
@@ -1138,8 +1138,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2183,7 +2181,7 @@
    "id": "c6b28a282a23",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 77.0,
+   "old_price": 76.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -2195,16 +2193,16 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:25:37+00:00",
+   "checked_at": "2026-11-26T06:28:03+00:00",
    "real_price": 17.97,
-   "real_old": 77.0,
+   "real_old": 76.0,
    "category_ok": true
   },
   {
    "id": "4f6a03202f19",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 77.0,
+   "old_price": 76.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -2216,9 +2214,9 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:25:39+00:00",
+   "checked_at": "2026-11-26T06:28:05+00:00",
    "real_price": 17.97,
-   "real_old": 77.0,
+   "real_old": 76.0,
    "category_ok": true
   },
   {
@@ -2555,7 +2553,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:25:41+00:00",
+   "checked_at": "2026-11-26T06:28:07+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -2576,7 +2574,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:25:43+00:00",
+   "checked_at": "2026-11-26T06:28:09+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11461,6 +11459,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tfe401fded8d",
+   "title": "$649.99* | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) at Amazon",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20401629-649-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-w-gray-ocean-band-one-size-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601619.thumb",
+   "posted": "2026-11-26T06:13:06+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:29:06+00:00",
+   "real_price": 649.99,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t39732123aa2",
    "title": "Tecknet Bluetooth 6.0 Open-Ear Bone Conduction Sport Headphones (Black) $10",
    "price": 9.99,
@@ -11512,10 +11528,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&tid=20401443&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=03506b2ae96211f1afc4a6ea1f579b67&au=26f17d6ce68740fab28e53d81f786ef2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T06:24:20+00:00",
    "real_price": 130.0,
-   "real_old": 131.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&tid=20401443&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=03506b2ae96211f1afc4a6ea1f579b67&au=26f17d6ce68740fab28e53d81f786ef2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 131.0
   },
   {
    "id": "tbbc78f0756b",
@@ -11621,10 +11637,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401173&tid=20401173&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0487b8fee96211f18694c2174ac15f59&au=d43e70ad28ca4adcb58abeda0bc2eef9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T06:24:22+00:00",
    "real_price": 99.0,
-   "real_old": 143.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401173&tid=20401173&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0487b8fee96211f18694c2174ac15f59&au=d43e70ad28ca4adcb58abeda0bc2eef9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 143.0
   },
   {
    "id": "t19ebeb61e9f",
@@ -13553,9 +13569,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -14776,6 +14789,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -14968,8 +14984,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=05a95634e96211f1871e42e1fd4b2f3d&au=9b57a0dccb20445587bf5a107ec70478&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:24:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:29:08+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15344,8 +15360,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=06cf930ce96211f18e2342e1fd4b2f3d&au=c4acc18fe51041329cccda59ce325205&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:24:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0a8301ee96211f18df1a6a053f33dd7&au=1dacf1cf2f634277a1a08579105f93ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:29:11+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15879,30 +15895,36 @@
    "checked_at": "2026-11-25T14:13:13+00:00",
    "real_price": 899.99,
    "real_old": 1429.99
-  },
-  {
-   "id": "tf26fb20880e",
-   "title": "[Prime] Tiloqua A7 Pro Wireless Earbuds w/ ENC Noise Cancellation & 40Hr Battery (White) $7.03 + Free Shipping",
-   "price": 7.03,
-   "old_price": 15.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20394396-prime-tiloqua-a7-pro-wireless-earbuds-w-enc-noise-cancellation-40hr-battery-white-7-03-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22582755.thumb",
-   "posted": "2026-11-25T14:06:33+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "HB011EEG",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:03:16+00:00",
-   "real_price": 7.03,
-   "real_old": 15.99
   }
  ],
  "tech": [
+  {
+   "id": "tfe401fded8d",
+   "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601619.thumb",
+   "posted": "2026-11-26T06:13:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 649.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t39732123aa2",
    "title": "Tecknet Bluetooth 6.0 Open-Ear Bone Conduction Sport Headphones (Black)",
@@ -17554,7 +17576,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18664,7 +18686,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18870,8 +18892,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=05a95634e96211f1871e42e1fd4b2f3d&au=9b57a0dccb20445587bf5a107ec70478&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=05a95634e96211f1871e42e1fd4b2f3d&au=9b57a0dccb20445587bf5a107ec70478&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18887,7 +18909,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=05a95634e96211f1871e42e1fd4b2f3d&au=9b57a0dccb20445587bf5a107ec70478&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19079,34 +19101,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tabaa8be0d26",
-   "title": "Crucial P3 1TB NVMe M.2 SSD (CT1000P3SSD8)",
-   "price": 71.11,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395212&tid=20395212&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=31ad9530e8e811f1ac8caef31e383ec0&au=ee4df48adb934be88ee82d32b9009d71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395212&tid=20395212&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=31ad9530e8e811f1ac8caef31e383ec0&au=ee4df48adb934be88ee82d32b9009d71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22585485.thumb",
-   "posted": "2026-11-25T15:30:01+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 71.11,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395212&tid=20395212&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=31ad9530e8e811f1ac8caef31e383ec0&au=ee4df48adb934be88ee82d32b9009d71&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T06:25:14+00:00"
+ "updated": "2026-11-26T06:30:06+00:00"
 }
