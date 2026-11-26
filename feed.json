@@ -374,7 +374,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&pno=1374948&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55f25d7ee9a911f1b07f5ab5b1f81fbd&au=61db0138f0c24281a246293adcee995c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:54:52+00:00",
+   "checked_at": "2026-11-26T20:57:38+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -1300,7 +1300,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=df74bf9ee94311f194e6da819bccac81&au=56558c4d33ec4e1793f0099d991a08cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:54:54+00:00",
+   "checked_at": "2026-11-26T20:57:40+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -1321,7 +1321,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e0db88aee94311f1b0a9a6ea1f579b67&au=0b0fdfc768dd402086bab480e72c97ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:54:57+00:00",
+   "checked_at": "2026-11-26T20:57:41+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
    "category_ok": true
@@ -1980,7 +1980,7 @@
    "store_url": "https://www.walmart.com/ip/17709163432",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:54:59+00:00",
+   "checked_at": "2026-11-26T20:57:43+00:00",
    "real_price": 47.96,
    "real_old": 59.99,
    "category_ok": true
@@ -12135,10 +12135,10 @@
    "code": "6KAHTILG",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406738&tid=20406738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7d3c5876e9db11f1ae7162be492916db&au=87571edf5ea047ce8121ff7451c4c5cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:53:53+00:00",
    "real_price": 21.99,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406738&tid=20406738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7d3c5876e9db11f1ae7162be492916db&au=87571edf5ea047ce8121ff7451c4c5cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "t672b89de308",
@@ -12157,6 +12157,24 @@
    "checked_at": "2026-11-26T17:18:13+00:00",
    "real_price": 11.58,
    "real_old": 19.99
+  },
+  {
+   "id": "t3bb2d7dcf67",
+   "title": "$69.99, FS, Lowe's, tool only, Bosch 18-volt Jobsite Blower",
+   "price": 69.99,
+   "old_price": 125.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20406696-69-99-fs-lowe-s-tool-only-bosch-18-volt-jobsite-blower?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22614483.thumb",
+   "posted": "2026-11-26T17:12:59+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:58:36+00:00",
+   "real_price": 69.99,
+   "real_old": 125.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20406696&tid=20406696&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=260096dee9dc11f1a18baea5cd4c064c&au=bbb2a338396b41929477e544abc9ec51&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t014dd50038e",
@@ -12690,8 +12708,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7faf69aee9db11f1bcd62a9c0739a433&au=06841ec33f104cab8d208943cf830f8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:53:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=27305fb2e9dc11f1a367aea5cd4c064c&au=1cecbc5f1f5147a18c630fcc79ff763a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:58:39+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13100,6 +13118,24 @@
    "real_old": null
   },
   {
+   "id": "td47d79ba603",
+   "title": "Sam's Club Members: Fanttik B100 Mix 2-in-1 Electric Air Duster & Portable Fan $39.98 + Free S/H On orders $50+",
+   "price": 39.98,
+   "old_price": 59.98,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20405079-sam-s-club-members-fanttik-b100-mix-2-in-1-electric-air-duster-portable-fan-39-98-free-s-h-on-orders-50?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22610787.thumb",
+   "posted": "2026-11-26T15:02:18+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:58:40+00:00",
+   "real_price": 39.98,
+   "real_old": 59.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20405079&tid=20405079&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=286d9480e9dc11f18a1e9a0228edeca6&au=454b68a02a304ff5bd272a115f08c18d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb01d351fcb9",
    "title": "15.3\" Apple MacBook Air (Midnight, 2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $1199 + Free S&H",
    "price": 1199.0,
@@ -13284,6 +13320,27 @@
    "real_price": 39.97,
    "real_old": 69.97,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404932&tid=20404932&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=fb09089ce9b511f1b2fa5a59d1f3bccf&au=69f6c132940a4889b9a66fe40c603433&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "td501ab8a92b",
+   "title": "NutriBullet Turbo 1000W Personal Blender (Various) from $42.47 + Free Shipping",
+   "price": 42.47,
+   "old_price": 119.99,
+   "store": "Kohl's",
+   "url": "https://slickdeals.net/f/20404914-nutribullet-turbo-1000w-personal-blender-various-from-42-47-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22610409.thumb",
+   "posted": "2026-11-26T14:47:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "TAKE20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T20:58:42+00:00",
+   "real_price": 42.47,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20404914&tid=20404914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=299312f4e9dc11f1a8e61e74f978ec41&au=5aa5bdf2e9cc44a0b70bf86a67898ce2&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t385b0457dc0",
@@ -14451,6 +14508,24 @@
    "real_old": 139.0
   },
   {
+   "id": "t25162d6dd3c",
+   "title": "Bosch 18-volt 2 -Tool Brushless Power Tool Combo Kit with Soft Case , 2 Battery(s) Included , Charger Included | GXL18V-241B22 $139",
+   "price": 139.0,
+   "old_price": 295.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402619-bosch-18-volt-2-tool-brushless-power-tool-combo-kit-with-soft-case-2-battery-s-included-charger-included-gxl18v-241b22-139?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22604580.thumb",
+   "posted": "2026-11-26T08:22:12+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:58:44+00:00",
+   "real_price": 139.0,
+   "real_old": 295.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402619&tid=20402619&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=2aa5b886e9dc11f1aadddace3db5b6ef&au=4af122004f414db1903476779ab208fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t96530329368",
    "title": "$37.99 | NOCO GENIUS2 2A 6/12V Smart Battery Charger, Trickle Charger & Maintainer at Amazon",
    "price": 37.99,
@@ -14983,7 +15058,7 @@
    "old_price": null,
    "store": "Costco Wholesale",
    "url": "https://slickdeals.net/f/20402100-apple-watch-ultra-4-gps-cellular-49mm-case-with-5g-and-satellite-communications-749-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/0/4/7/1/300x300/22603137.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/6/6/1/8/300x300/22619046.thumb",
    "posted": "2026-11-26T07:14:55+00:00",
    "cat": "tablet",
    "cat_label": "Tablets y teléfonos",
@@ -15695,78 +15770,6 @@
    "checked_at": "2026-11-26T09:14:08+00:00",
    "real_price": 169.0,
    "real_old": 399.0
-  },
-  {
-   "id": "t5a594512ac1",
-   "title": "Amazon Fire TV Stick 4K Max 2nd Gen Streaming Device w/ Wi-Fi 6E & 16GB Storage $44.99 + Free Shipping",
-   "price": 44.99,
-   "old_price": 84.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401476-amazon-fire-tv-stick-4k-max-2nd-gen-streaming-device-w-wi-fi-6e-16gb-storage-44-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
-   "posted": "2026-11-26T06:02:10+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:43:18+00:00",
-   "real_price": 44.99,
-   "real_old": 84.99
-  },
-  {
-   "id": "t2007b211415",
-   "title": "TCL - 85\" S4CF Series 4K UHD HDR Smart TV with Fire TV (2026) $549.99 Bestbuy.com",
-   "price": 137.0,
-   "old_price": 138.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401455-tcl-85-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026-549-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601376.thumb",
-   "posted": "2026-11-26T06:01:51+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T14:18:06+00:00",
-   "real_price": 137.0,
-   "real_old": 138.0
-  },
-  {
-   "id": "t6e1ed9cb437",
-   "title": "Apple Mac mini Desktop: M4 chip, 16GB RAM, 256GB SSD $599",
-   "price": 598.98,
-   "old_price": 799.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401452-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
-   "posted": "2026-11-26T06:01:43+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:34:05+00:00",
-   "real_price": 598.98,
-   "real_old": 799.0
-  },
-  {
-   "id": "t271ea03916f",
-   "title": "BEST BUY Insgina 43\" F50 4k LED Smart TV  $90",
-   "price": 130.0,
-   "old_price": 131.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401443-best-buy-insgina-43-f50-4k-led-smart-tv-90?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22601349.thumb",
-   "posted": "2026-11-26T06:01:02+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&tid=20401443&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=03506b2ae96211f1afc4a6ea1f579b67&au=26f17d6ce68740fab28e53d81f786ef2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:24:20+00:00",
-   "real_price": 130.0,
-   "real_old": 131.0
   }
  ],
  "tech": [
@@ -17994,6 +17997,33 @@
    ]
   },
   {
+   "id": "t25162d6dd3c",
+   "title": "Bosch 18-volt 2 -Tool Brushless Power Tool Combo Kit with Soft Case , 2 Battery(s) Included , Charger Included | GXL18V-241B22",
+   "price": 139.0,
+   "old_price": 295.0,
+   "store": "Lowe's",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402619&tid=20402619&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=2aa5b886e9dc11f1aadddace3db5b6ef&au=4af122004f414db1903476779ab208fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402619&tid=20402619&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=2aa5b886e9dc11f1aadddace3db5b6ef&au=4af122004f414db1903476779ab208fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22604580.thumb",
+   "posted": "2026-11-26T08:22:12+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lowe's",
+     "price": 139.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402619&tid=20402619&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=2aa5b886e9dc11f1aadddace3db5b6ef&au=4af122004f414db1903476779ab208fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t96530329368",
    "title": "NOCO GENIUS2 2A 6/12V Smart Battery Charger, Trickle Charger & Maintainer",
    "price": 37.99,
@@ -18958,34 +18988,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t39732123aa2",
-   "title": "Tecknet Bluetooth 6.0 Open-Ear Bone Conduction Sport Headphones (Black)",
-   "price": 9.99,
-   "old_price": 29.69,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&pno=1374687&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=0ee33c08e96011f1b633c2174ac15f59&au=3f853c1372ff4b66ac3d22f5ca70ae87&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&pno=1374687&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=0ee33c08e96011f1b633c2174ac15f59&au=3f853c1372ff4b66ac3d22f5ca70ae87&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22598730.thumb",
-   "posted": "2026-11-26T06:09:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "3W6R98RP",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 9.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&pno=1374687&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=0ee33c08e96011f1b633c2174ac15f59&au=3f853c1372ff4b66ac3d22f5ca70ae87&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T20:54:51+00:00"
+ "updated": "2026-11-26T20:59:31+00:00"
 }
