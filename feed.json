@@ -1561,10 +1561,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:42:21+00:00",
+   "checked_at": "2026-11-26T13:43:58+00:00",
    "real_price": 31.99,
    "real_old": 49.99,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "ebfdfacc1b30",
@@ -1582,10 +1583,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ca44ae8e8d511f1951d7a55f551cdc8&au=426510045fa143518b4326bec3e42c63&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:42:23+00:00",
+   "checked_at": "2026-11-26T13:44:00+00:00",
    "real_price": 31.99,
    "real_old": 49.99,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "936906d6437e",
@@ -1815,7 +1817,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:43:15+00:00",
+   "checked_at": "2026-11-26T13:44:03+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -3643,31 +3645,6 @@
    "kind": "merch",
    "collector": false,
    "posted": "2026-11-25T14:37:40+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "5eff113c3a71",
-   "title": "Pokémon TCG: Mega Evolution—Delta Reign Booster Bundle",
-   "price": 31.99,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 31.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/2/4/8/0/6/8/300x300/22582299.thumb",
-   "kind": "merch",
-   "collector": false,
-   "posted": "2026-11-25T13:32:05+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11513,6 +11490,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7483e66e99e11f1b0333e4527bedd40&au=ebe4ba8a4edc4c7b85bfc60f2eab65fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
+   "id": "ta3d5f060c97",
+   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (2026) $1400 + Free S&H",
+   "price": 1399.99,
+   "old_price": 2499.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20399784-75-hisense-ur8-rgb-miniled-4k-180hz-smart-google-tv-2026-1400-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
+   "posted": "2026-11-26T13:35:30+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:45:00+00:00",
+   "real_price": 1399.99,
+   "real_old": 2499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c6fc0ae99f11f1872eaafe3e556800&au=0d6ce3b888074c3e97ae68de59e0c530&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t71babe4f17d",
    "title": "4-Pack DEWALT 20-Volt Batteries (2-Ct. 2 Ah + 2-Ct. 4 Ah) $129 + Free S/H",
    "price": 129.0,
@@ -11525,10 +11520,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&pno=1374870&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e8c9e8dee99e11f1b2fffe003e3fb7d2&au=37f92e014d8e4b82b41da92d7b7bb197&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:40:14+00:00",
    "real_price": 129.0,
-   "real_old": 359.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&pno=1374870&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e8c9e8dee99e11f1b2fffe003e3fb7d2&au=37f92e014d8e4b82b41da92d7b7bb197&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 359.0
   },
   {
    "id": "t6ea0f446c1a",
@@ -11636,10 +11631,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:40:16+00:00",
    "real_price": 464.12,
-   "real_old": 606.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403780&tid=20403780&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=e9fc84aae99e11f1b7510eaa0ca34614&au=fd2c085cff504ae0a3b11cf81ee6e5a9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 606.99
   },
   {
    "id": "tb3eb4493d81",
@@ -11778,10 +11773,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:40:18+00:00",
    "real_price": 27.99,
-   "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403213&tid=20403213&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eb2c2ee8e99e11f1aab9eaccc25f9377&au=24b7a9611cce44dcbb73b0b5d88377c5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.99
   },
   {
    "id": "te2b8918d941",
@@ -13106,8 +13101,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ec6e0a74e99e11f18ab86e56611d0c45&au=1a2356a27f834e8684fa42c477ce1c8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:40:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9491af1ce99f11f19ebf5ab5b1f81fbd&au=04ec236950ec41e9982c63db1580a010&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:45:03+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15148,6 +15143,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15827,24 +15825,6 @@
    "checked_at": "2026-11-25T18:29:00+00:00",
    "real_price": 1286.99,
    "real_old": 2226.99
-  },
-  {
-   "id": "tf7bf21f8d71",
-   "title": "Shokz OpenMove Bone Conduction Wireless Bluetooth Headphones (2 colors) $54.95 + Free S&H",
-   "price": 54.95,
-   "old_price": 79.95,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20381703-54-95-shokz-openmove-bone-conduction-wireless-bluetooth-headphones-for-sports-in-2-colors?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22551114.thumb",
-   "posted": "2026-11-25T18:25:58+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/571079221",
-   "checked_at": "2026-11-25T18:29:02+00:00",
-   "real_price": 54.95,
-   "real_old": 79.95
   }
  ],
  "tech": [
@@ -15872,6 +15852,33 @@
      "store": "Best Buy",
      "price": 1399.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e6117dbee99e11f1b89f3a1f0e489800&au=4bc61b7f5165445b8ecc56958e9a4e2d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta3d5f060c97",
+   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (2026) + Free S&H",
+   "price": 1399.99,
+   "old_price": 2499.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c6fc0ae99f11f1872eaafe3e556800&au=0d6ce3b888074c3e97ae68de59e0c530&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c6fc0ae99f11f1872eaafe3e556800&au=0d6ce3b888074c3e97ae68de59e0c530&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
+   "posted": "2026-11-26T13:35:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 1399.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c6fc0ae99f11f1872eaafe3e556800&au=0d6ce3b888074c3e97ae68de59e0c530&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18849,7 +18856,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19048,34 +19055,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397312&tid=20397312&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=84ce1c1ee96811f197264a6b66202b6d&au=a6be27bda54c4ea093d4448269d74991&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tedbe9f90d2e",
-   "title": "WALMART Acer Nitro ED0 Gaming Monitor 34\" UWQHD (3440 x 1440)Curved Gaming Monitor with AMD FreeSync Technology, 120 Hz",
-   "price": 135.0,
-   "old_price": 136.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/18247950004",
-   "url": "https://www.walmart.com/ip/18247950004",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22590903.thumb",
-   "posted": "2026-11-25T19:36:02+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 135.0,
-     "url": "https://www.walmart.com/ip/18247950004"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T13:41:11+00:00"
+ "updated": "2026-11-26T13:45:58+00:00"
 }
