@@ -2564,7 +2564,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T15:37:38+00:00",
+   "checked_at": "2026-11-26T17:39:07+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11380,6 +11380,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t1afd7761551",
+   "title": "Gigabyte B550M K Micro ATX AM4 Motherboard $59 + Free S&H",
+   "price": 59.0,
+   "old_price": 99.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20329083-gigabyte-b550m-k-micro-atx-am4-motherboard-59-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22404504.thumb",
+   "posted": "2026-11-26T17:34:27+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:40:00+00:00",
+   "real_price": 59.0,
+   "real_old": 99.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20329083&pno=1375191&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=66c312c6e9c011f1828b4e0165d82a69&au=fe4b77d0cfc14576b641dfea87f9a4e2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6144580f6a1",
    "title": "EPP/EDU: 27\" Samsung Odyssey G80SH 4K 240Hz OLED Monitor + COD: Modern Warfare 4 $480 + Free S&H",
    "price": 480.0,
@@ -11416,6 +11434,24 @@
    "real_old": 19.99
   },
   {
+   "id": "t014dd50038e",
+   "title": "Intel Core i9-14900K 24-Core Desktop Processor $359.99 + Free Shipping",
+   "price": 359.99,
+   "old_price": 649.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406528-intel-core-i9-14900k-24-core-desktop-processor-359-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22614234.thumb",
+   "posted": "2026-11-26T17:00:20+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:40:02+00:00",
+   "real_price": 359.99,
+   "real_old": 649.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tce73488c475",
    "title": "Prime: Lamicall 15W MagSafe Car Mount Charger w/ Dual USB-C Ports $14 + Free S&H",
    "price": 13.99,
@@ -11428,6 +11464,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "LAMCSTCD11",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:02:42+00:00",
    "real_price": 13.99,
@@ -11521,10 +11560,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "checked_at": "2026-11-26T17:35:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69bbdbace9c011f18329c2c4ea169611&au=3b8d8420d27141c58ffd203db169c0ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:40:04+00:00",
    "real_price": 3.99,
-   "real_old": 15.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc6801c4e9bf11f181e4feb970f6c9c2&au=66313a3f4730423b8b8539f0eade8a9f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 15.99
   },
   {
    "id": "td1db4d8d9be",
@@ -11745,8 +11784,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=bdc83368e9bf11f1a55ba6964201b3f7&au=887820e3486f4fa78414e96ad76f1f29&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:35:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6ae2de9ae9c011f1ad686229170f4432&au=c61440e21a394c78854e5907f2a8c492&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:40:06+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13359,6 +13398,24 @@
    "real_old": 36.74
   },
   {
+   "id": "t388ca06f72b",
+   "title": "Bosch Two-In-One 2-Amp 18-volt Brushless, Variable Speed 1/2-in square Drive Cordless Impact Wrench , Battery Included , Charger Included in Blue $89",
+   "price": 89.0,
+   "old_price": 179.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402487-bosch-two-in-one-2-amp-18-volt-brushless-variable-speed-1-2-in-square-drive-cordless-impact-wrench-battery-included-charger-included-in-blue-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22604166.thumb",
+   "posted": "2026-11-26T08:12:48+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:40:08+00:00",
+   "real_price": 89.0,
+   "real_old": 179.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402487&tid=20402487&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6c4471e0e9c011f18bc46229170f4432&au=e3f21331087d4b78a34044a62a04301e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t12dc90fd7d0",
    "title": "[Prime, AC] $34.87* | 4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various) at Amazon",
    "price": 34.87,
@@ -14708,10 +14765,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401317&tid=20401317&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=bfa2bbe0e9bf11f1a12df2ed4237d91e&au=a20663037a9f4d1290ad77859b5d0e94&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:35:19+00:00",
    "real_price": 37.98,
-   "real_old": 49.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401317&tid=20401317&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=bfa2bbe0e9bf11f1a12df2ed4237d91e&au=a20663037a9f4d1290ad77859b5d0e94&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.98
   },
   {
    "id": "t9880b36208f",
@@ -14938,8 +14995,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c0c65b12e9bf11f1b7892a5085290165&au=36f2362483f1459f90c44d92bdbfe8f1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:35:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6d606e4ee9c011f18d2ffa3ed57c1083&au=047156a47ff44cdb969bd7ea2f428f37&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:40:10+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -14956,10 +15013,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401083&tid=20401083&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1efee7ce9bf11f192820e5b4f9d0e1c&au=fd45ee02f25748238f75dd951e4ab737&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:35:23+00:00",
    "real_price": 1599.0,
-   "real_old": 2099.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401083&tid=20401083&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1efee7ce9bf11f192820e5b4f9d0e1c&au=fd45ee02f25748238f75dd951e4ab737&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2099.0
   },
   {
    "id": "tef8504cf973",
@@ -15683,63 +15740,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20400075&tid=20400075&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3e5b3b28e95811f1a11fdedc8bf920ad&au=86e7ec6af60e41fea6ef251aa78f1416&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T05:14:24+00:00",
    "real_price": 60.0
-  },
-  {
-   "id": "t73e9e07aaf0",
-   "title": "Surfshark VPN Plans: 28-Months of Surfshark One VPN $48.70 & More",
-   "price": 48.72,
-   "old_price": 558.5,
-   "store": "Surfshark",
-   "url": "https://slickdeals.net/f/20377614-surfshark-black-friday-sale-28-month-vpn-plans-from-48-72-upfront-1-74-month-4-extra-months-free?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22540365.thumb",
-   "posted": "2026-11-26T02:18:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Surfshark&sdtid=20377614&pno=1374450&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19aad3b4e94011f193534a69b5b60732&au=40ad541cfb1d4ba7b437eb201a17152c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:21:34+00:00",
-   "real_price": 48.72,
-   "real_old": 558.5
-  },
-  {
-   "id": "t6970da728c2",
-   "title": "$298 Sams Club SAMSUNG 55” Class M70H Series Mini LED 4K UHD Vision AI Companion Smart Tizen TV  (ends 11/30)",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20400060-298-sams-club-samsung-55-class-m70h-series-mini-led-4k-uhd-vision-ai-companion-smart-tizen-tv-ends-11-30?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22598280.thumb",
-   "posted": "2026-11-26T02:16:01+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-26T17:35:25+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20400060&tid=20400060&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c335458ee9bf11f19ab96222f3c39c14&au=702b89869f79413989e18203934d4428&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t4f785e06835",
-   "title": "eufy Security C31 1080p Indoor/Outdoor 360° Pan & Tilt Security Camera w/ Color Night Vision & AI Auto-Tracking $37.99 + Free Shipping",
-   "price": 37.99,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399970-eufy-security-c31-1080p-indoor-outdoor-360-pan-tilt-security-camera-w-color-night-vision-ai-auto-tracking-37-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22597920.thumb",
-   "posted": "2026-11-26T01:58:14+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399970&tid=20399970&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1ad7961ee94011f1a42c4a69b5b60732&au=a001c75216854d41b199c55b6911a459&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:21:36+00:00",
-   "real_price": 37.99,
-   "real_old": 59.99
   }
  ],
  "tech": [
+  {
+   "id": "t1afd7761551",
+   "title": "Gigabyte B550M K Micro ATX AM4 Motherboard + Free S&H",
+   "price": 59.0,
+   "old_price": 99.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20329083&pno=1375191&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=66c312c6e9c011f1828b4e0165d82a69&au=fe4b77d0cfc14576b641dfea87f9a4e2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20329083&pno=1375191&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=66c312c6e9c011f1828b4e0165d82a69&au=fe4b77d0cfc14576b641dfea87f9a4e2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22404504.thumb",
+   "posted": "2026-11-26T17:34:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20329083&pno=1375191&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=66c312c6e9c011f1828b4e0165d82a69&au=fe4b77d0cfc14576b641dfea87f9a4e2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t6144580f6a1",
    "title": "EPP/EDU: 27\" Samsung Odyssey G80SH 4K 240Hz OLED Monitor + COD: Modern Warfare 4 + Free S&H",
@@ -15795,6 +15825,33 @@
    ]
   },
   {
+   "id": "t014dd50038e",
+   "title": "Intel Core i9-14900K 24-Core Desktop Processor",
+   "price": 359.99,
+   "old_price": 649.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22614234.thumb",
+   "posted": "2026-11-26T17:00:20+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 359.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tce73488c475",
    "title": "Prime: Lamicall 15W MagSafe Car Mount Charger",
    "price": 13.99,
@@ -15810,7 +15867,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "LAMCSTCD11",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -15881,8 +15938,8 @@
    "price": 3.99,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc6801c4e9bf11f181e4feb970f6c9c2&au=66313a3f4730423b8b8539f0eade8a9f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc6801c4e9bf11f181e4feb970f6c9c2&au=66313a3f4730423b8b8539f0eade8a9f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69bbdbace9c011f18329c2c4ea169611&au=3b8d8420d27141c58ffd203db169c0ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69bbdbace9c011f18329c2c4ea169611&au=3b8d8420d27141c58ffd203db169c0ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/5/1/8/7/8/7/1/300x300/22613532.thumb",
    "posted": "2026-11-26T16:36:32+00:00",
    "kind": "tech",
@@ -15898,7 +15955,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc6801c4e9bf11f181e4feb970f6c9c2&au=66313a3f4730423b8b8539f0eade8a9f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=69bbdbace9c011f18329c2c4ea169611&au=3b8d8420d27141c58ffd203db169c0ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17249,6 +17306,33 @@
      "store": "Amazon",
      "price": 18.66,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402550&tid=20402550&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=18e8fbcae9b011f18ad3c22787dbf298&au=33bfdd1238f149aab026a0ba8a4ad52d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t388ca06f72b",
+   "title": "Bosch Two-In-One 2-Amp 18-volt Brushless, Variable Speed 1/2-in square Drive Cordless Impact Wrench , Battery Included , Charger Included in Blue",
+   "price": 89.0,
+   "old_price": 179.0,
+   "store": "Lowe's",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402487&tid=20402487&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6c4471e0e9c011f18bc46229170f4432&au=e3f21331087d4b78a34044a62a04301e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402487&tid=20402487&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6c4471e0e9c011f18bc46229170f4432&au=e3f21331087d4b78a34044a62a04301e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22604166.thumb",
+   "posted": "2026-11-26T08:12:48+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lowe's",
+     "price": 89.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402487&tid=20402487&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6c4471e0e9c011f18bc46229170f4432&au=e3f21331087d4b78a34044a62a04301e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18880,88 +18964,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb6629834a01",
-   "title": "Tecknet Bone Conduction Open-Ear Bluetooth 6.0 Headphones",
-   "price": 9.99,
-   "old_price": 29.69,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&tid=20400252&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eb9b786ee94b11f180c29e87e3b1bc03&au=0fd63e3d295f4c22a1016788db395a61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&tid=20400252&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eb9b786ee94b11f180c29e87e3b1bc03&au=0fd63e3d295f4c22a1016788db395a61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22598730.thumb",
-   "posted": "2026-11-26T02:54:49+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "3W6R98RP",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 9.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&tid=20400252&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eb9b786ee94b11f180c29e87e3b1bc03&au=0fd63e3d295f4c22a1016788db395a61&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t4324f9ef502",
-   "title": "65\" Insignia F50 Series LED 4K UHD Smart Fire TV",
-   "price": 249.99,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20345157&pno=1374489&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f56f138e94411f1b652a6a053f33dd7&au=1d2e0208423c4bc7afa8fad54f4e4ca0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20345157&pno=1374489&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f56f138e94411f1b652a6a053f33dd7&au=1d2e0208423c4bc7afa8fad54f4e4ca0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22458591.thumb",
-   "posted": "2026-11-26T02:51:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 249.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20345157&pno=1374489&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f56f138e94411f1b652a6a053f33dd7&au=1d2e0208423c4bc7afa8fad54f4e4ca0&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t62a8001f289",
-   "title": "Bose QuietComfort Bluetooth Wireless Noise Cancelling Headphones - Sandstone",
-   "price": 169.99,
-   "old_price": 359.99,
-   "store": "Target",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22598724.thumb",
-   "posted": "2026-11-26T02:50:00+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Target",
-     "price": 169.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T17:36:18+00:00"
+ "updated": "2026-11-26T17:41:00+00:00"
 }
