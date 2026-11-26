@@ -1752,7 +1752,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=c738fa4ae8a711f1bbe26ab3f282d846&au=19ffc9f8430742cf9cf76ec65cff4bb4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:23:39+00:00",
+   "checked_at": "2026-11-26T14:26:29+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -2719,7 +2719,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374386&pno=1372824&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7b18e22e80f11f1a246762203ab4945&au=7c4d430b1ecf467281132cf94531d3db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:23:37+00:00",
+   "checked_at": "2026-11-26T14:26:27+00:00",
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
@@ -3104,7 +3104,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=095989d2e7de11f1b520b6ae1fe76f64&au=26207c674dc646bab4012df90e6a62e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:23:43+00:00",
+   "checked_at": "2026-11-26T14:26:31+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -11429,6 +11429,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t75bb4c85a46",
+   "title": "Creality K2 Combo Multi-Color 3D Printer $336.75 + Free S&H",
+   "price": 336.75,
+   "old_price": 599.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20386218-live-creality-k2-combo-multi-color-3d-printer-w-cfs-359-20-free-s-h-4-hours-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22561701.thumb",
+   "posted": "2026-11-26T14:22:32+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:27:27+00:00",
+   "real_price": 336.75,
+   "real_old": 599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=81368c16e9a511f1946b5ab5b1f81fbd&au=9e0b5e9c362d4725bd8e144f8f3f1b44&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t47a8da2fed7",
    "title": "Lenovo B210 15.6\" Laptop Backpack (Camo Green) $13",
    "price": 12.99,
@@ -11589,6 +11607,24 @@
    "checked_at": "2026-11-26T13:35:27+00:00",
    "real_price": 79.0,
    "real_old": 179.0
+  },
+  {
+   "id": "t053d0142470",
+   "title": "[Resale, AC] $44.19* | Logitech G502  Lightspeed Wireless Gaming Mouse (Black) (Used - Like New) at Amazon",
+   "price": 44.19,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404263-resale-ac-44-19-logitech-g502-lightspeed-wireless-gaming-mouse-black-used-like-new-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22608918.thumb",
+   "posted": "2026-11-26T13:31:32+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": true,
+   "checked_at": "2026-11-26T14:27:30+00:00",
+   "real_price": 44.19,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc873fe9e819",
@@ -12849,10 +12885,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:18:06+00:00",
    "real_price": 137.0,
-   "real_old": 138.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 138.0
   },
   {
    "id": "t6e1ed9cb437",
@@ -13240,8 +13276,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=343f69e2e9a411f1ba838e24e62cd466&au=2c18c41c54674ccb9a4795677be17ce3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T14:18:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8439808ae9a511f1b70122f078095530&au=fc54110376c740a3ad84d9c57cb446d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T14:27:32+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13315,6 +13351,24 @@
    "refurb": false,
    "checked_at": "2026-11-26T05:14:20+00:00",
    "real_price": 149.99
+  },
+  {
+   "id": "tb1984902add",
+   "title": "Cuisinart EM-550 Fully Automatic Espresso Machine w/ Built-In Burr Grinder & Steam Wand $250 + Free Shipping",
+   "price": 250.0,
+   "old_price": 500.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20400927-cuisinart-em-550-fully-automatic-espresso-machine-w-built-in-burr-grinder-steam-wand-250-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22600167.thumb",
+   "posted": "2026-11-26T04:52:22+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:27:35+00:00",
+   "real_price": 250.0,
+   "real_old": 500.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400927&tid=20400927&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8562601ce9a511f1963eb625d5cfc78b&au=383b483ec6db43aab7e7a88c12bc0820&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3bf247cce8d",
@@ -15317,9 +15371,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15733,66 +15784,6 @@
    "checked_at": "2026-11-25T19:21:25+00:00",
    "real_price": 89.99,
    "real_old": 199.99
-  },
-  {
-   "id": "tb1d879718d2",
-   "title": "Razer Orochi V2 Wireless Gaming Mouse (Black) $24.99 + Free Shipping",
-   "price": 24.99,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20397036-razer-orochi-v2-wireless-gaming-mouse-black-24-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22599960.thumb",
-   "posted": "2026-11-25T19:06:19+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397036&tid=20397036&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2e0e11c2e94f11f1aa33f69a715adbe8&au=3989d2430f0d407face3eabca99ccb46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:09:31+00:00",
-   "real_price": 24.99,
-   "real_old": 69.99
-  },
-  {
-   "id": "td17814b723d",
-   "title": "140W wegear 4-Port GaN USB-C Charger w/ Foldable Plug (2 Colors) $22 + Free S&H",
-   "price": 21.99,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395206-140w-wegear-4-port-gan-usb-c-charger-w-foldable-plug-2-colors-22-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22585071.thumb",
-   "posted": "2026-11-25T19:03:46+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "25X6S8KM",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395206&pno=1374030&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=663f6fa6e90311f191c4ee40a4f87319&au=6228e7827dae4e40b578e17a650a6e53&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:07:04+00:00",
-   "real_price": 21.99,
-   "real_old": 64.99
-  },
-  {
-   "id": "t19301f76256",
-   "title": "UGREEN 160W Nexode Pro 5-Port (4 USB-C + 1 USB-A) GaN Charger w/ Smart Display $57 + Free S&H",
-   "price": 56.99,
-   "old_price": 89.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20388528-ugreen-nexode-pro-160w-5-port-usb-c-charger-block-with-smart-display-fast-gan-charger-for-macbook-pro-laptops-iphone-series-starlight-gray-56-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/0/6/8/2/0/7/300x300/22568172.thumb",
-   "posted": "2026-11-25T19:00:44+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "UL65636",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&pno=1374021&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7752538e90211f1908ad6d7cc460b6f&au=a2d5fea4f0b944c9a66c262916ec932c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:02:10+00:00",
-   "real_price": 56.99,
-   "real_old": 89.99
   }
  ],
  "tech": [
@@ -15901,6 +15892,33 @@
      "store": "Best Buy",
      "price": 1399.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c6fc0ae99f11f1872eaafe3e556800&au=0d6ce3b888074c3e97ae68de59e0c530&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t053d0142470",
+   "title": "[Resale, AC] * | Logitech G502 Lightspeed Wireless Gaming Mouse (Black) (Used - Like New)",
+   "price": 44.19,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22608918.thumb",
+   "posted": "2026-11-26T13:31:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 44.19,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18932,7 +18950,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18996,34 +19014,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397555&tid=20397555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0015a92ce92911f1814abe968e5ce8cb&au=7df9fa4bf2a64c3a923ced7d54795c34&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t24ec1959cfc",
-   "title": "Acer Chromebook 315 15.6\" FHD Laptop",
-   "price": 179.0,
-   "old_price": 349.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22591512.thumb",
-   "posted": "2026-11-25T20:17:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 179.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397552&tid=20397552&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c81445fee92511f19bb28e130e7be951&au=b71fc01452b34716acf9ba8fe105f365&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T14:19:04+00:00"
+ "updated": "2026-11-26T14:28:30+00:00"
 }
