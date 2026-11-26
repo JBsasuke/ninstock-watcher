@@ -889,7 +889,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b868b8ae8d511f1a21a7a55f551cdc8&au=53ec6be874d846c3a86e2a2c4d014d5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T01:39:43+00:00",
+   "checked_at": "2026-11-26T07:42:21+00:00",
    "real_price": 31.99,
    "real_old": 49.99,
    "category_ok": false
@@ -910,7 +910,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394189&tid=20394189&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ca44ae8e8d511f1951d7a55f551cdc8&au=426510045fa143518b4326bec3e42c63&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T01:39:45+00:00",
+   "checked_at": "2026-11-26T07:42:23+00:00",
    "real_price": 31.99,
    "real_old": 49.99,
    "category_ok": false
@@ -11497,6 +11497,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t0769a291399",
+   "title": "Prime Members: INIU 25W Magsafe 10000mAh Portable iPhone & Watch $36.55 + Free S&H",
+   "price": 36.54,
+   "old_price": 42.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20377458-iniu-magsafe-qi2-2-25w-10000mah-portable-iphone-apple-watch-charger-36-54-bt?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/6/2/4/5/3/2/9/300x300/22539672.thumb",
+   "posted": "2026-11-26T07:41:47+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:43:16+00:00",
+   "real_price": 36.54,
+   "real_old": 42.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a4ac334e96d11f191762eb3ae4ef400&au=85e220114be64ffb98946bef0c10a18a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6df89559812",
    "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Side) $18 + Free S&H w/ Amazon Prime",
    "price": 17.99,
@@ -11527,10 +11545,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "t45527899436",
@@ -11752,6 +11770,24 @@
    "real_old": 1099.99
   },
   {
+   "id": "t5a594512ac1",
+   "title": "Amazon Fire TV Stick 4K Max 2nd Gen Streaming Device w/ Wi-Fi 6E & 16GB Storage $44.99 + Free Shipping",
+   "price": 44.99,
+   "old_price": 84.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401476-amazon-fire-tv-stick-4k-max-2nd-gen-streaming-device-w-wi-fi-6e-16gb-storage-44-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
+   "posted": "2026-11-26T06:02:10+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:43:18+00:00",
+   "real_price": 44.99,
+   "real_old": 84.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6e1ed9cb437",
    "title": "Apple Mac mini Desktop: M4 chip, 16GB RAM, 256GB SSD $599",
    "price": 598.98,
@@ -11926,10 +11962,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:41+00:00",
    "real_price": 151.98,
-   "real_old": 199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 199.99
   },
   {
    "id": "t5110abc281d",
@@ -13947,9 +13983,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15401,8 +15434,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=67839b1ce96c11f19db2eeb5c4c7a263&au=85c5c4716e4242098977e9174fc4043d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:38:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0c8a0c0ee96d11f19928be3f5266b794&au=14cfef11625649958d49b291879667f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:43:20+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15756,6 +15789,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -15777,8 +15813,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=68bf7ae6e96c11f197b7ea8af01651eb&au=d5e4981c94894e7780fff321e340a70a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:38:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0db654cae96d11f1947906793d79112d&au=c41b748664514cdea3ba6de58d044cdb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:43:21+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15888,45 +15924,36 @@
    "checked_at": "2026-11-25T15:13:54+00:00",
    "real_price": 19.97,
    "real_old": 24.96
-  },
-  {
-   "id": "t3c9e67a3668",
-   "title": "Ninja FB131WH FrostVault 30qt Hard Cooler with Dry Zone, Integrated Fridge-Temp Dry Storage Drawer, Premium Heavy-Duty Insulated Cooler, Keeps Ice for Days, Cloud White - $109.99",
-   "price": 109.99,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20394906-ninja-fb131wh-frostvault-30qt-hard-cooler-with-dry-zone-integrated-fridge-temp-dry-storage-drawer-premium-heavy-duty-insulated-cooler-keeps-ice-for-days-cloud-white-109-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22584612.thumb",
-   "posted": "2026-11-25T15:05:12+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394906&tid=20394906&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=ce2d92e2e92011f1bdac52e44ca853e2&au=b8d385f73f714d48904a82cbd73c5aa1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:37:33+00:00",
-   "real_price": 109.99,
-   "real_old": 199.99
-  },
-  {
-   "id": "t82043637e72",
-   "title": "Dirt Devil Power Express UD20120 Bagless Upright Vacuum $37 + Free Shipping",
-   "price": 37.0,
-   "old_price": 59.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20394891-dirt-devil-power-express-ud20120-bagless-upright-vacuum-37-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22584513.thumb",
-   "posted": "2026-11-25T15:02:39+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20394891&tid=20394891&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=32ebd5a4e8ea11f198e2665d004879ef&au=dfd28287d0be47059a3a2244ae622037&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:06:40+00:00",
-   "real_price": 37.0,
-   "real_old": 59.99
   }
  ],
  "tech": [
+  {
+   "id": "t0769a291399",
+   "title": "INIU 25W Magsafe 10000mAh Portable iPhone & Watch + Free S&H",
+   "price": 36.54,
+   "old_price": 42.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a4ac334e96d11f191762eb3ae4ef400&au=85e220114be64ffb98946bef0c10a18a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a4ac334e96d11f191762eb3ae4ef400&au=85e220114be64ffb98946bef0c10a18a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/6/2/4/5/3/2/9/300x300/22539672.thumb",
+   "posted": "2026-11-26T07:41:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 36.54,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a4ac334e96d11f191762eb3ae4ef400&au=85e220114be64ffb98946bef0c10a18a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t6df89559812",
    "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Side) + Free S&H",
@@ -16140,6 +16167,33 @@
      "store": "Best Buy",
      "price": 749.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&tid=20401518&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5cd9f6eee96111f1a193a25430b2f6ef&au=e67bcda224624ca3950769ec80d3be7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t5a594512ac1",
+   "title": "Amazon Fire TV Stick 4K Max 2nd Gen Streaming Device",
+   "price": 44.99,
+   "old_price": 84.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
+   "posted": "2026-11-26T06:02:10+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 44.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17875,7 +17929,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19076,61 +19130,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20395725&tid=20395725&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=adb2cf20e8f611f19830d6d7cc460b6f&au=4c4d6c5f7f9140838283707352ae976e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t50e8a858c1d",
-   "title": "(refurb) Garmin Instinct 2S Camo Edition Multi-GNSS GPS Smartwatch",
-   "price": 149.0,
-   "old_price": 249.0,
-   "store": "Focus Camera",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22586913.thumb",
-   "posted": "2026-11-25T16:26:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": true,
-   "glitch": false,
-   "code": "FCGI149",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Focus Camera",
-     "price": 149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tf6fe95bd676",
-   "title": "4-Pack ANYCUBIC 1.75mm PLA 3D Printer Filament (Red, Green, Blue & Yellow)",
-   "price": 33.97,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395641&tid=20395641&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abccceace8f811f1aa4bb655d609ea7e&au=f61a5fca71224216bd562732e2cabce7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395641&tid=20395641&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abccceace8f811f1aa4bb655d609ea7e&au=f61a5fca71224216bd562732e2cabce7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22586754.thumb",
-   "posted": "2026-11-25T16:20:37+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 33.97,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395641&tid=20395641&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abccceace8f811f1aa4bb655d609ea7e&au=f61a5fca71224216bd562732e2cabce7&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T07:39:33+00:00"
+ "updated": "2026-11-26T07:44:09+00:00"
 }
