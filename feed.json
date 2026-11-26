@@ -548,7 +548,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=3fb8d85ee8ef11f199a9ae6475442606&au=d4a5691cb88b498b9f2afcec92c3a845&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T22:44:10+00:00",
+   "checked_at": "2026-11-26T04:45:39+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -569,7 +569,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=40e32f7ce8ef11f1a9385a511138d167&au=0a8239e0fb654dc9ae609c28bf0e28c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T22:44:12+00:00",
+   "checked_at": "2026-11-26T04:45:42+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1534,7 +1534,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T02:43:55+00:00",
+   "checked_at": "2026-11-26T04:45:44+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11641,6 +11641,24 @@
    "real_old": 49.99
   },
   {
+   "id": "tc91bae47298",
+   "title": "(Open Box) JLab JBuds Lux Wireless Noise-Canceling Over-Ear Headphones Graphite $15 at VIPOUTLET via Walmart",
+   "price": 15.0,
+   "old_price": 49.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20400372-open-box-jlab-jbuds-lux-wireless-noise-canceling-over-ear-headphones-graphite-15-at-vipoutlet-via-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/8/7/8/5/1/0/300x300/22599072.thumb",
+   "posted": "2026-11-26T03:11:06+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": true,
+   "checked_at": "2026-11-26T04:46:40+00:00",
+   "real_price": 15.0,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20400372&tid=20400372&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ebb5faae95411f18fb856a12d7bd5aa&au=d0c3219eb2d04f318c5ef46a9565e4dd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t060a185c412",
    "title": "27\" Alienware AW2725D QD-OLED 280Hz QHD Gaming Monitor w/ Adjustable Stand $350 + Free S&H",
    "price": 350.0,
@@ -11948,6 +11966,24 @@
    "checked_at": "2026-11-26T04:18:47+00:00",
    "real_price": 13.79,
    "real_old": 60.0
+  },
+  {
+   "id": "t5ef5f27ea91",
+   "title": "YMMV TCL 98\" QM63K Series QD-Mini LED QLED 4K UHD Smart TV with Google TV - 98QM63K",
+   "price": 999.91,
+   "old_price": null,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20399823-ymmv-tcl-98-qm63k-series-qd-mini-led-qled-4k-uhd-smart-tv-with-google-tv-98qm63k?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/2/0/9/3/0/7/300x300/22597407.thumb",
+   "posted": "2026-11-26T01:33:11+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T04:46:42+00:00",
+   "real_price": 999.91,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t35437a2d199",
@@ -12405,6 +12441,24 @@
    "checked_at": "2026-11-25T23:08:29+00:00",
    "real_price": 349.99,
    "real_old": 789.99
+  },
+  {
+   "id": "tc5d5c848caf",
+   "title": "Shark HydroDuo WW200 Cordless Hard Floor Cleaning System $69.97 + Free Shipping w/ Walmart+ or on $35+",
+   "price": 69.97,
+   "old_price": 149.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20398641-shark-hydroduo-ww200-cordless-hard-floor-cleaning-system-69-97-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22594386.thumb",
+   "posted": "2026-11-25T23:00:08+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T04:46:44+00:00",
+   "real_price": 69.97,
+   "real_old": 149.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20398641&tid=20398641&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=612f7a78e95411f1aa298628339608dc&au=c82f4d0bbc304bfbb15255e1ae3a0bfb&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t84e1ca7d2ba",
@@ -14347,8 +14401,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b78e377ae95311f19a5ac2174ac15f59&au=16bca506be7743edac3d535584bb82cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:42:00+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=626c54bae95411f1bf3fa2e6b809d584&au=b1761d6a3b12454f841f95053b8ead8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T04:46:46+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14723,8 +14777,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b8e01986e95311f1a4bd8628339608dc&au=861675e8f0484792bb418cf6a09d9297&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:42:03+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=639e5dd8e95411f1bfd5ea8af01651eb&au=fbd141b1249e4e3c83751b26d4464a45&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T04:46:48+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15830,60 +15884,6 @@
    "checked_at": "2026-11-25T11:16:30+00:00",
    "real_price": 399.99,
    "real_old": 649.99
-  },
-  {
-   "id": "tf228cee7fe6",
-   "title": "[NEW] $39.99 | Garmin Speed Sensor 2, Bike Sensor to Monitor Speed, Black at Amazon",
-   "price": 39.99,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393505-new-39-99-garmin-speed-sensor-2-bike-sensor-to-monitor-speed-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580910.thumb",
-   "posted": "2026-11-25T11:06:01+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393505&tid=20393505&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c36ba518e8d211f1a3443acabd27a35c&au=3842d12100d34053b2487c0188c45a39&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:18:54+00:00",
-   "real_price": 39.99,
-   "real_old": 69.99
-  },
-  {
-   "id": "td1595fccdce",
-   "title": "65\" Samsung S85H Series OLED 4K 120Hz Smart TV (2026) $900 + Free S&H",
-   "price": 899.99,
-   "old_price": 1597.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20391480-899-99-samsung-65-inch-class-s85h-series-oled-4k-120hz-smart-tv-2026-model-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576314.thumb",
-   "posted": "2026-11-25T11:05:19+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:10:52+00:00",
-   "real_price": 899.99,
-   "real_old": 1597.99
-  },
-  {
-   "id": "t22849e025f9",
-   "title": "$79.99 | Zoom G1X Four Guitar Multi-Effects Processor with Expression Pedal at Amazon",
-   "price": 79.99,
-   "old_price": 119.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393502-79-99-zoom-g1x-four-guitar-multi-effects-processor-with-expression-pedal-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580892.thumb",
-   "posted": "2026-11-25T11:05:09+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:00:23+00:00",
-   "real_price": 79.99,
-   "real_old": 119.99
   }
  ],
  "tech": [
@@ -16229,6 +16229,33 @@
      "store": "Amazon",
      "price": 129.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399949&tid=20399949&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=829a53b4e94e11f1a10f9aadaf5cdd1e&au=6cbccffe935b4c6593e4e32a327925e9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t5ef5f27ea91",
+   "title": "TCL 98\" QM63K Series QD-Mini LED QLED 4K UHD Smart TV with Google TV - 98QM63K",
+   "price": 999.91,
+   "old_price": null,
+   "store": "Sam's Club",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/2/0/9/3/0/7/300x300/22597407.thumb",
+   "posted": "2026-11-26T01:33:11+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Sam's Club",
+     "price": 999.91,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18374,8 +18401,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b78e377ae95311f19a5ac2174ac15f59&au=16bca506be7743edac3d535584bb82cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b78e377ae95311f19a5ac2174ac15f59&au=16bca506be7743edac3d535584bb82cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=626c54bae95411f1bf3fa2e6b809d584&au=b1761d6a3b12454f841f95053b8ead8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=626c54bae95411f1bf3fa2e6b809d584&au=b1761d6a3b12454f841f95053b8ead8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18391,7 +18418,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b78e377ae95311f19a5ac2174ac15f59&au=16bca506be7743edac3d535584bb82cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=626c54bae95411f1bf3fa2e6b809d584&au=b1761d6a3b12454f841f95053b8ead8a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18644,8 +18671,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b8e01986e95311f1a4bd8628339608dc&au=861675e8f0484792bb418cf6a09d9297&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b8e01986e95311f1a4bd8628339608dc&au=861675e8f0484792bb418cf6a09d9297&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=639e5dd8e95411f1bfd5ea8af01651eb&au=fbd141b1249e4e3c83751b26d4464a45&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=639e5dd8e95411f1bfd5ea8af01651eb&au=fbd141b1249e4e3c83751b26d4464a45&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18661,7 +18688,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b8e01986e95311f1a4bd8628339608dc&au=861675e8f0484792bb418cf6a09d9297&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=639e5dd8e95411f1bfd5ea8af01651eb&au=fbd141b1249e4e3c83751b26d4464a45&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19069,34 +19096,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf26fb20880e",
-   "title": "[Prime] Tiloqua A7 Pro Wireless Earbuds",
-   "price": 7.03,
-   "old_price": 15.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22582755.thumb",
-   "posted": "2026-11-25T14:06:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "HB011EEG",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 7.03,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T04:42:52+00:00"
+ "updated": "2026-11-26T04:47:36+00:00"
 }
