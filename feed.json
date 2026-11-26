@@ -1138,6 +1138,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1614,7 +1616,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:27:28+00:00",
+   "checked_at": "2026-11-26T07:28:29+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11495,6 +11497,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t6df89559812",
+   "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Side) $18 + Free S&H w/ Amazon Prime",
+   "price": 17.99,
+   "old_price": 99.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20394534-steelseries-qck-gaming-surface-mouse-pad-your-choice-4xl-or-5xl-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22603356.thumb",
+   "posted": "2026-11-26T07:24:27+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:29:23+00:00",
+   "real_price": 17.99,
+   "real_old": 99.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t45527899436",
    "title": "5.1-Cu Ft Midea Garage Ready Chest Freezer Convertible to Refrigerator $99 + Free Pickup",
    "price": 99.0,
@@ -11958,10 +11978,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401110&tid=20401110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760dca92e96a11f18941b274a813cae0&au=60ac1e5bdaff48f88b319003d03bb19d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:48+00:00",
    "real_price": 599.91,
-   "real_old": 999.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401110&tid=20401110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760dca92e96a11f18941b274a813cae0&au=60ac1e5bdaff48f88b319003d03bb19d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 999.99
   },
   {
    "id": "tef8504cf973",
@@ -15115,10 +15135,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.99
   },
   {
    "id": "taf61b18a271",
@@ -15307,8 +15327,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=787830bae96a11f1b43e42e1fd4b2f3d&au=29e7628e6d1c47748c81d97f62312da4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:24:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1b06e0bae96b11f1af1bfe537e62e76e&au=a00bff5b9883426fb0e06ad5861e77e2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:29:25+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15683,8 +15703,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79a5f79ce96a11f1936cc2174ac15f59&au=b15550699fab4c209ed77ea222cedb08&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:24:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c313a08e96b11f1a53a5e4898364751&au=ac695fb513de4d4786faed2f570556c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:29:27+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15905,27 +15925,36 @@
    "checked_at": "2026-11-25T14:51:44+00:00",
    "real_price": 629.65,
    "real_old": 949.0
-  },
-  {
-   "id": "t606d11d1410",
-   "title": "RYOBI ONE+ 30th Anniversary 18V Multi-Tool w/ 2Ah Battery, Charger & 3x Wood Blades $87 + Free S&H",
-   "price": 86.97,
-   "old_price": 260.94,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20392917-ryobi-one-30th-anniversary-18v-brushless-cordless-multi-tool-kit-w-2ah-battery-charger-1-1-8-in-wood-blade-set-3pc-86-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579068.thumb",
-   "posted": "2026-11-25T14:43:40+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392917&pno=1373805&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=f4510d6ae8de11f18acd52d4671160e3&au=87ca2769980d45d085d641f70d9ecf20&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:46:10+00:00",
-   "real_price": 86.97,
-   "real_old": 260.94
   }
  ],
  "tech": [
+  {
+   "id": "t6df89559812",
+   "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Side) + Free S&H",
+   "price": 17.99,
+   "old_price": 99.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22603356.thumb",
+   "posted": "2026-11-26T07:24:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 17.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "ta87c5accb91",
    "title": "Apple Mac mini Desktop: M4 Chip, 16GB RAM, 256GB SSD + Free S&H",
@@ -19102,34 +19131,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336967&pno=1373883&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2bc6e8b6e8ec11f1ab6daef31e383ec0&au=5b9da46895ae4ffbb7e5200f72b805a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t15a0460469c",
-   "title": "VGN V98PRO V3 Mechanical Keyboard",
-   "price": 39.99,
-   "old_price": 62.49,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/3/5/9/2/4/300x300/22586529.thumb",
-   "posted": "2026-11-25T16:12:02+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T07:25:41+00:00"
+ "updated": "2026-11-26T07:30:17+00:00"
 }
