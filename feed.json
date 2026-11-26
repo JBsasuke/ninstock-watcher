@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "c3f82ceba6c8",
+   "title": "Hogwarts Legacy (Nintendo Switch) $15",
+   "price": 15.0,
+   "old_price": 37.49,
+   "store": "Amazon",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20402787-15-hogwarts-legacy-nintendo-switch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22605177.thumb",
+   "posted": "2026-11-26T15:52:00+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:56:30+00:00",
+   "category_ok": true,
+   "real_price": 15.0,
+   "real_old": 37.49,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&pno=1375050&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=f17df958e9b111f182b63a71cb392a8d&au=9cedb2505b2a4e479e6e1e025bc4320d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "ac0c82b3bc9b",
    "title": "256GB Nintendo Switch 2 Console + Mario Kart World Bundle $500 or less + Free S&H",
    "price": 499.99,
@@ -14,13 +35,13 @@
    "posted": "2026-11-26T15:47:20+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T15:51:49+00:00",
-   "category_ok": true,
-   "real_price": 499.99,
-   "real_old": 549.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T15:51:49+00:00",
+   "real_price": 499.99,
+   "real_old": 549.99,
+   "category_ok": true
   },
   {
    "id": "96564747b151",
@@ -1621,7 +1642,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:53:43+00:00",
+   "checked_at": "2026-11-26T15:56:34+00:00",
    "real_price": 27.99,
    "real_old": 58.99,
    "category_ok": true
@@ -2694,10 +2715,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=5bb422f2e81d11f1be81ee9930747a0f&au=91a7644090c64eaca1e75495e8aa6700&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:54:31+00:00",
+   "checked_at": "2026-11-26T15:56:32+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "8fc646cb1ffc",
@@ -3173,31 +3195,35 @@
    "real_old": null,
    "category_ok": false,
    "expired": true
-  },
-  {
-   "id": "1b7b23f50b3e",
-   "title": "Trails in the Sky 2nd Chapter (Switch) $45.20 + Free Shipping",
-   "price": 45.2,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20383662-trails-in-the-sky-2nd-chapter-switch-45-20-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22555269.thumb",
-   "posted": "2026-11-24T05:17:24+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-26T11:38:33+00:00",
-   "real_price": 45.2,
-   "real_old": 59.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-26T15:14:12+00:00",
  "deals": [
+  {
+   "id": "e87ba369a661",
+   "title": "Hogwarts Legacy (Nintendo Switch)",
+   "price": 15.0,
+   "old_price": 37.49,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&pno=1375050&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=f17df958e9b111f182b63a71cb392a8d&au=9cedb2505b2a4e479e6e1e025bc4320d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&pno=1375050&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=f17df958e9b111f182b63a71cb392a8d&au=9cedb2505b2a4e479e6e1e025bc4320d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 15.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&pno=1375050&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=f17df958e9b111f182b63a71cb392a8d&au=9cedb2505b2a4e479e6e1e025bc4320d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22605177.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-26T15:52:00+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "25c15a3e6990",
    "title": "256GB Nintendo Switch 2 Console + Mario Kart World Bundle or less + Free S&H",
@@ -3275,7 +3301,7 @@
   },
   {
    "id": "ab4210fefb30",
-   "title": "Star Wars: Heritage Pack - Nintendo Switch",
+   "title": "Star Wars: Heritage Pack (Nintendo Switch)",
    "price": 24.99,
    "old_price": 39.99,
    "store": "Amazon",
@@ -3392,31 +3418,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-26T10:03:16+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "e87ba369a661",
-   "title": "Hogwarts Legacy (Nintendo Switch)",
-   "price": 15.0,
-   "old_price": 37.49,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d664d8a8e97511f180daeeb5c4c7a263&au=3a02fac36c424aac93439e20eac550df&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d664d8a8e97511f180daeeb5c4c7a263&au=3a02fac36c424aac93439e20eac550df&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 15.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d664d8a8e97511f180daeeb5c4c7a263&au=3a02fac36c424aac93439e20eac550df&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22605177.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-26T08:44:29+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -4025,31 +4026,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-24T10:18:36+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "b34757c18700",
-   "title": "Trails in the Sky 2nd Chapter (Switch)",
-   "price": 45.2,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 45.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22555269.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-24T05:17:24+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -10757,6 +10733,41 @@
  ],
  "news": [
   {
+   "id": "aldia-e8dd26c6f5",
+   "title": "Xenoblade Chronicles 3 llega a Switch 2 con un nuevo héroe y un modo de oleadas",
+   "summary": "Xenoblade Chronicles 3 llega a Nintendo Switch 2 el 3 de diciembre con mejoras gráficas, nuevas escenas y un héroe inédito.",
+   "lang": "es",
+   "source": "Nintendo",
+   "url": "https://aldiard.com/n/e8dd26c6f5.html",
+   "image": "https://i.ytimg.com/vi/2ohfoM2k4dI/hqdefault.jpg",
+   "posted": "2026-11-26T15:53:51.230683+00:00",
+   "video": "https://www.youtube.com/watch?v=2ohfoM2k4dI",
+   "es": {
+    "title": "Xenoblade Chronicles 3 llega a Switch 2 con un nuevo héroe y un modo de oleadas",
+    "summary": "Xenoblade Chronicles 3 llega a Nintendo Switch 2 el 3 de diciembre con mejoras gráficas, nuevas escenas y un héroe inédito.",
+    "body": [
+     "Nintendo y Monolith Soft presentaron un nuevo tráiler de tres minutos de Xenoblade Chronicles 3 – Nintendo Switch 2 Edition, la versión mejorada del juego de rol que llegará a la consola el 3 de diciembre. El juego saldrá en formato físico y digital, con un precio sugerido de 69.99 dólares.",
+     "La edición incluye mejoras de imagen y rendimiento. En modo televisor alcanza resolución 4K, siempre que se use una pantalla compatible, y en modo portátil llega a Full HD. Nintendo también promete una presentación más fluida, a 60 fotogramas por segundo. Las fuentes no detallan cuántas escenas con voces fueron agregadas ni si cambian la historia principal.",
+     "Quienes ya tienen el juego para Nintendo Switch pueden comprar por separado un paquete de mejora por 9.99 dólares para disfrutar de estas novedades en la nueva consola. Ese paquete requiere tener la versión completa del juego.",
+     "La aventura sigue a Noah y Mio, integrantes de las naciones rivales de Keves y Agnus, que recorren un mundo marcado por la guerra. La principal novedad jugable es Shimmer, un héroe mítico especializado en ataques rápidos, capaz de ver el futuro gracias al poder de Foresight. El grupo controla a seis personajes y puede formar un Ouroboros temporal mediante la fusión de parejas de combatientes, lo que permite usar Artes más poderosas contra enemigos resistentes.",
+     "El otro gran añadido es Heroes' Vault, un modo en el que el jugador enfrenta oleadas de enemigos. Cada rival derrotado llena un medidor que sirve para mejorar habilidades y conseguir aliados. Las decisiones sobre esas mejoras serán clave para vencer al enemigo final de cada misión. Nintendo no informó cuántas misiones tendrá este modo."
+    ],
+    "url": "https://aldiard.com/n/e8dd26c6f5.html"
+   },
+   "en": {
+    "title": "Xenoblade Chronicles 3 Hits Switch 2 With a New Hero and Wave Battle Mode",
+    "summary": "Xenoblade Chronicles 3 arrives on Nintendo Switch 2 on December 3 with upgraded visuals, new voiced scenes and a new hero.",
+    "body": [
+     "Nintendo and Monolith Soft have released a new three-minute trailer for Xenoblade Chronicles 3 – Nintendo Switch 2 Edition, the enhanced version of the role-playing game that arrives on the console on December 3. The game will be sold in physical and digital formats, with a suggested retail price of $69.99.",
+     "The edition includes improvements to image quality and performance. In TV mode it reaches 4K resolution, provided a compatible screen is used, and in handheld mode it reaches Full HD. Nintendo also promises smoother presentation at 60 frames per second. Sources do not detail how many voiced scenes were added or whether they change the main story.",
+     "Players who already own the game for Nintendo Switch can buy a separate upgrade pack for $9.99 to enjoy these updates on the new console. The pack requires the full version of the game.",
+     "The adventure follows Noah and Mio, members of the rival nations of Keves and Agnus, who travel through a world shaped by war. The main gameplay addition is Shimmer, a mythical hero specialized in rapid attacks, who can see the future thanks to the power of Foresight. The party controls six characters and can form a temporary Ouroboros by fusing pairs of fighters, which unlocks more powerful Arts against tough enemies.",
+     "The other major addition is Heroes' Vault, a mode in which players face waves of enemies. Each defeated foe fills a gauge that can be used to upgrade abilities and gain allies. Choices about those upgrades will be key to defeating the final enemy of each mission. Nintendo did not say how many missions the mode will include."
+    ],
+    "url": "https://aldiard.com/en/n/e8dd26c6f5.html"
+   }
+  },
+  {
    "id": "aldia-4d0d403814",
    "title": "Pokémon GO lanza el evento Twilight Wishes con Staryu y Elgyem shiny",
    "summary": "Pokémon GO celebra tres meses de Twilight Trails con un evento que aumenta la aparición de Staryu y Elgyem shiny. Hay raids especiales y un nuevo pase de recompensas.",
@@ -10961,18 +10972,6 @@
     ],
     "url": "https://aldiard.com/en/n/00cc54bea4.html"
    }
-  },
-  {
-   "id": "95a3e33dc43c",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition – Overview Trailer",
-   "summary": "Experience the epic tale of life and interconnected futures, now enhanced for the Nintendo Switch 2 system! The Nintendo Switch 2 Edition of this game features improved visuals, sharper cutscenes, the new mode Heroes' Vault, and more. Plus, meet the new Hero, Shimmer, and wield her Foresight ability. Nintendo Switch 2 players who already have Xenoblade Chronicles 3 on Nintendo Switch can upgrade to the Nintendo Switch 2 Edition by purchasing the upgrade pack.",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=2ohfoM2k4dI",
-   "image": "https://i.ytimg.com/vi/2ohfoM2k4dI/hqdefault.jpg",
-   "posted": "2026-11-26T01:01:10+00:00"
   },
   {
    "id": "aldia-adadb65dcc",
@@ -11207,39 +11206,6 @@
    }
   },
   {
-   "id": "aldia-56926548ed",
-   "title": "Mario Kart World recibe actualización con ocho nuevos circuitos",
-   "summary": "Nintendo lanzó la versión 1.9.0 de Mario Kart World con ocho circuitos nuevos y rutas inéditas para su modo Knockout Tour.",
-   "lang": "es",
-   "source": "Nintendo",
-   "url": "https://aldiard.com/n/56926548ed.html",
-   "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-   "posted": "2026-11-25T01:53:59.968780+00:00",
-   "video": null,
-   "es": {
-    "title": "Mario Kart World recibe actualización con ocho nuevos circuitos",
-    "summary": "Nintendo lanzó la versión 1.9.0 de Mario Kart World con ocho circuitos nuevos y rutas inéditas para su modo Knockout Tour.",
-    "body": [
-     "La actualización Ver. 1.9.0 de Mario Kart World ya está disponible para la consola Nintendo Switch 2, según informó Nintendo, que además publicó un video con algunas de las novedades.",
-     "Lo más destacado son ocho circuitos adicionales. Según la empresa, cada uno es una versión renovada de un recorrido que ya existía en el juego, entre ellos Mario Bros. Circuit 2, DK Pass 2 y Shy Guy Bazaar 2. Nintendo indica que estas pistas ofrecen carreras distintas a las habituales, como recorrer trayectos diferentes a los que los jugadores ya conocen o correr en sentido contrario.",
-     "En el modo Knockout Tour, donde los pilotos recorren el mundo del juego de un extremo a otro, se agregan dos rutas nuevas. Feather Rally conecta Mario Bros. Circuit con Boo Cinema, mientras que Lucky Cat Rally une Great? Block Ruins con Sky-High Sundae. Para acceder a ellas hay que completar al menos un rally de Knockout Tour. Nintendo señaló que planea añadir más rutas para este modo en futuras actualizaciones.",
-     "La actualización también mejora la función de repeticiones, que ahora aparece en la pantalla del menú. Allí se guardan las repeticiones de las carreras y batallas más recientes. Cuando se supera el límite de repeticiones guardadas, se eliminan primero las más antiguas."
-    ],
-    "url": "https://aldiard.com/n/56926548ed.html"
-   },
-   "en": {
-    "title": "Mario Kart World Update Adds Eight New Courses",
-    "summary": "Nintendo has released Mario Kart World's Ver. 1.9.0 update, with eight new courses and fresh routes for Knockout Tour.",
-    "body": [
-     "The Ver. 1.9.0 update for Mario Kart World is now available for the Nintendo Switch 2 console, according to Nintendo, which also released a video showing some of the new additions.",
-     "The main highlight is eight additional courses. According to the company, each one is a remixed version of a track already in the game, including Mario Bros. Circuit 2, DK Pass 2, and Shy Guy Bazaar 2. Nintendo says these tracks offer a different kind of racing, such as speeding through routes players have not driven before or racing familiar courses in the opposite direction.",
-     "In Knockout Tour, where drivers race nonstop across the game's world from one end to the other, two new routes have been added. Feather Rally connects Mario Bros. Circuit with Boo Cinema, while Lucky Cat Rally links Great? Block Ruins with Sky-High Sundae. To unlock them, players must clear at least one Knockout Tour rally. Nintendo said it plans to add more routes for this mode in future updates.",
-     "The update also improves the replay feature, which now appears on the menu screen. Replays of recent races and battles are saved there. When the limit of saved replays is exceeded, the oldest ones are deleted first."
-    ],
-    "url": "https://aldiard.com/en/n/56926548ed.html"
-   }
-  },
-  {
    "id": "e3b397072752",
    "date_ok": true,
    "seeded": true,
@@ -11406,9 +11372,75 @@
    "url": "https://www.youtube.com/watch?v=FkNx8YQBZKU",
    "image": "https://i.ytimg.com/vi/FkNx8YQBZKU/hqdefault.jpg",
    "posted": "2026-11-22T16:17:21+00:00"
+  },
+  {
+   "id": "83d264efcec8",
+   "date_ok": true,
+   "seeded": true,
+   "title": "VGC Day 2 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Pokémon Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=ezA58GqG5yE",
+   "image": "https://i.ytimg.com/vi/ezA58GqG5yE/hqdefault.jpg",
+   "posted": "2026-11-22T00:16:28+00:00"
   }
  ],
  "raw_tech": [
+  {
+   "id": "t649912e0a47",
+   "title": "2-Pc 6\" RYOBI Diamond Grit Impact Drive Bits $4.95 + Free S&H",
+   "price": 4.97,
+   "old_price": 9.97,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20401107-2-pack-6-ryobi-diamond-grit-impact-drive-bits-4-97-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22600620.thumb",
+   "posted": "2026-11-26T15:55:20+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:57:31+00:00",
+   "real_price": 4.97,
+   "real_old": 9.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=164bcf30e9b211f1b9e59a7d49901f80&au=6d21da79fb55429a8e754dce3084d972&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "te4148f4947a",
+   "title": "RYOBI 40V 300W Portable Battery Inverter Power Source w/ 6 Ah Battery & Charger $169 + Free S&H",
+   "price": 169.0,
+   "old_price": 229.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20404845-ryobi-40v-300-watt-portable-battery-inverter-power-source-with-6-0-ah-battery-charger-169?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22610181.thumb",
+   "posted": "2026-11-26T15:55:01+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:57:34+00:00",
+   "real_price": 169.0,
+   "real_old": 229.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404845&pno=1375068&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=17aee308e9b211f1ab2f2270cf03ae10&au=e44c25357ca445ae87d723f3fd6a2005&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tfa509c08a82",
+   "title": "128GB Apple iPad A16 Chip 11\" Wi-Fi Tablet (Early 2025) $379 + Free S&H",
+   "price": 379.0,
+   "old_price": 448.96,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20376492-128gb-apple-ipad-a16-chip-11-wi-fi-tablet-early-2025-379-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22612119.thumb",
+   "posted": "2026-11-26T15:54:51+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:57:36+00:00",
+   "real_price": 379.0,
+   "real_old": 448.96,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=190adf40e9b211f1894a6e49032631c4&au=f6fe4ae1456d46dfaf9a2fb1dff17f40&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
   {
    "id": "td7f45377f75",
    "title": "Lenovo Legion M410 Wireless RGB Gaming Mouse (Medium, Right Handed) $30",
@@ -12893,9 +12925,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -13722,10 +13751,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:52:46+00:00",
    "real_price": 2199.0,
-   "real_old": 2419.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2419.0
   },
   {
    "id": "t9880b36208f",
@@ -13934,8 +13963,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6dd0b550e9b111f1963a6e49032631c4&au=b2c93e028c354a29b06734c76e49a68a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:52:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1a550100e9b211f19b026e56611d0c45&au=33a7bf59c0344b92b2f3c865fdd4fa09&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:57:38+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15712,62 +15741,36 @@
    "checked_at": "2026-11-25T22:08:37+00:00",
    "real_price": 49.95,
    "real_old": 60.0
-  },
-  {
-   "id": "tdae612eaea6",
-   "title": "AMD Ryzen Threadripper PRO 5955WX 16-Core 32-Thread Desktop Processor $695.20 + Free S/H",
-   "price": 695.2,
-   "old_price": 779.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20375439-amd-ryzen-threadripper-pro-5955wx-16-core-32-thread-desktop-processor-695-20-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22534725.thumb",
-   "posted": "2026-11-25T22:01:38+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375439&pno=1374165&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=1ef02474e91c11f180dce283662d4aca&au=76260b8523d7495d865de72c37b79c55&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:04:01+00:00",
-   "real_price": 695.2,
-   "real_old": 779.0
-  },
-  {
-   "id": "tbff53df3495",
-   "title": "Amazon Kids Echo Show 5 3rd Gen 5.5\" Smart Display w/ Alexa (Galaxy) $54.99 + Free Shipping",
-   "price": 54.99,
-   "old_price": 109.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20398176-amazon-kids-echo-show-5-3rd-gen-5-5-smart-display-w-alexa-galaxy-54-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22593024.thumb",
-   "posted": "2026-11-25T21:49:51+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20398176&tid=20398176&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=16ee5364e93911f195fbe23436c3dfb5&au=4c1d5b92b82e4926b387797b9de839f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:31:23+00:00",
-   "real_price": 54.99,
-   "real_old": 109.99
-  },
-  {
-   "id": "te7cd75ae78c",
-   "title": "$159.95* | Sennheiser Consumer Audio Momentum 4 Wireless Headphones (Black/Copper) at Amazon",
-   "price": 159.95,
-   "old_price": null,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20398170-159-95-sennheiser-consumer-audio-momentum-4-wireless-headphones-black-copper-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593009.thumb",
-   "posted": "2026-11-25T21:48:54+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&tid=20398170&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=0a9f0ddae91e11f1bf127e3e3d2b1b81&au=614b2594efa841208faa47b7630796f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:17:46+00:00",
-   "real_price": 159.95
   }
  ],
  "tech": [
+  {
+   "id": "tfa509c08a82",
+   "title": "128GB Apple iPad A16 Chip 11\" Wi-Fi Tablet (Early 2025) + Free S&H",
+   "price": 379.0,
+   "old_price": 448.96,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=190adf40e9b211f1894a6e49032631c4&au=f6fe4ae1456d46dfaf9a2fb1dff17f40&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=190adf40e9b211f1894a6e49032631c4&au=f6fe4ae1456d46dfaf9a2fb1dff17f40&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22612119.thumb",
+   "posted": "2026-11-26T15:54:51+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 379.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=190adf40e9b211f1894a6e49032631c4&au=f6fe4ae1456d46dfaf9a2fb1dff17f40&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "td7f45377f75",
    "title": "Lenovo Legion M410 Wireless RGB Gaming Mouse (Medium, Right Handed)",
@@ -16945,7 +16948,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18968,34 +18971,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&pno=1374225&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=d6fb2094e92311f18cd97e3e3d2b1b81&au=76d42b31c9d246538269501b3205704d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te53bd25f53a",
-   "title": "Celestron Travel Scope 80mm Telescope Kit with Backpack, Smartphone Adapter | 80mm Refractor Telescope Kit, Large Lens for Planets & Deep-Sky",
-   "price": 116.98,
-   "old_price": 149.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398548&tid=20398548&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b11e838ae92711f18d9dc231e35cebb8&au=d854aa3b4d174fa8821ca231726c70f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398548&tid=20398548&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b11e838ae92711f18d9dc231e35cebb8&au=d854aa3b4d174fa8821ca231726c70f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22594056.thumb",
-   "posted": "2026-11-25T22:42:28+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 116.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398548&tid=20398548&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b11e838ae92711f18d9dc231e35cebb8&au=d854aa3b4d174fa8821ca231726c70f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T15:53:43+00:00"
+ "updated": "2026-11-26T15:58:31+00:00"
 }
