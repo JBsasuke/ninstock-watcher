@@ -2025,7 +2025,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=dec3b314e88c11f196528258c73470e0&au=1b0639de829c491d884faec98319beb0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:06:46+00:00",
+   "checked_at": "2026-11-26T17:11:14+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -2046,7 +2046,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=8fc52a4ee88d11f1bf6b9e245a949712&au=ba2fc5f183f346a6bf72a07b20b3363b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:10:52+00:00",
+   "checked_at": "2026-11-26T17:11:16+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -11454,10 +11454,10 @@
    "code": "V4Q9JDUA",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:07:31+00:00",
    "real_price": 8.92,
-   "real_old": 14.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 14.99
   },
   {
    "id": "t38700ad2fee",
@@ -11678,10 +11678,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:07:33+00:00",
    "real_price": 699.99,
-   "real_old": 899.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 899.99
   },
   {
    "id": "t649912e0a47",
@@ -11696,8 +11696,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=dff10d88e9bb11f199b892ce32056ba7&au=132b0383e5034822a108bc29a019ecb6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:07:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=858473ace9bc11f1814e2270cf03ae10&au=c7f574f5bed043888d58e69b5ae13037&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:12:13+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -11736,6 +11736,24 @@
    "checked_at": "2026-11-26T15:57:36+00:00",
    "real_price": 379.0,
    "real_old": 448.96
+  },
+  {
+   "id": "t820e4f84f09",
+   "title": "Milwaukee M18™ REDLITHIUM™ FORGE™ XC8.0 Battery Pack 48-11-1881 $128.99",
+   "price": 128.99,
+   "old_price": 229.0,
+   "store": "Way Source",
+   "url": "https://slickdeals.net/f/20405589-milwaukee-m18-redlithium-forge-xc8-0-battery-pack-48-11-1881-128-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612035.thumb",
+   "posted": "2026-11-26T15:51:46+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:12:15+00:00",
+   "real_price": 128.99,
+   "real_old": 229.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405589&tid=20405589&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=86fe061ce9bc11f1a5222a5085290165&au=7c8ffd62b2f748e4b66634a6efdb96b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "td7f45377f75",
@@ -12085,10 +12103,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&tid=20405001&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=e105d0fae9bb11f1bcae6a32ba4b7a31&au=6eb73e7d9da14003b04231ff73b812d7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:07:37+00:00",
    "real_price": 19.97,
-   "real_old": 43.94,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&tid=20405001&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=e105d0fae9bb11f1bcae6a32ba4b7a31&au=6eb73e7d9da14003b04231ff73b812d7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 43.94
   },
   {
    "id": "t94a03a660a6",
@@ -13665,9 +13683,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -14189,10 +14204,9 @@
    "code": "PCGAMING",
    "code_until": "2026-12-04",
    "promo": "Extra 20% Off",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T17:07:39+00:00",
-   "real_price": 57.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20401680&tid=20401680&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e222729ae9bb11f18b1f5a59d1f3bccf&au=4fcf38be8af14b79b46ec912d4a01763&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 57.0
   },
   {
    "id": "t071e24291fd",
@@ -14833,8 +14847,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e38cf150e9bb11f19c55f2ed4237d91e&au=03a6b3f1b40c4c2da13bfd07719b7dbe&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:07:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8833c72ee9bc11f1b1535a59d1f3bccf&au=eba148d4c7094aae8551d3a14b40b73d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:12:17+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15724,24 +15738,6 @@
    "checked_at": "2026-11-26T01:31:19+00:00",
    "real_price": 299.99,
    "real_old": 599.99
-  },
-  {
-   "id": "t962906c4cfe",
-   "title": "75\" Hisense UR8 RGB MiniLED 4K 180Hz Smart Google TV (75UR8SG) $1399.99 + Free Shipping",
-   "price": 1399.99,
-   "old_price": 2499.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20399784-75-hisense-ur8-rgb-miniled-4k-180hz-smart-google-tv-75ur8sg-1399-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
-   "posted": "2026-11-26T01:26:46+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&tid=20399784&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efd7c170e95611f18d5e6628900e6211&au=ad79a33c28f442dfa4912956cf89ce6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:05:04+00:00",
-   "real_price": 1399.99,
-   "real_old": 2499.99
   }
  ],
  "tech": [
@@ -17489,7 +17485,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18968,5 +18964,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T17:08:27+00:00"
+ "updated": "2026-11-26T17:13:12+00:00"
 }
