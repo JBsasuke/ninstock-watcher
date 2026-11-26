@@ -1498,7 +1498,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=8fc52a4ee88d11f1bf6b9e245a949712&au=ba2fc5f183f346a6bf72a07b20b3363b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:08:41+00:00",
+   "checked_at": "2026-11-26T11:10:52+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -1537,8 +1537,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11690,10 +11688,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&tid=20402823&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=c1568af6e98911f18d1f4ac301aed48e&au=c07de34917cc4fea8154c694ac38852c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:08:49+00:00",
    "real_price": 129.0,
-   "real_old": 359.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&tid=20402823&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=c1568af6e98911f18d1f4ac301aed48e&au=c07de34917cc4fea8154c694ac38852c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 359.0
   },
   {
    "id": "tce1a9911d58",
@@ -11714,6 +11712,24 @@
    "real_old": 74.0
   },
   {
+   "id": "t12dc90fd7d0",
+   "title": "[Prime, AC] $34.87* | 4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various) at Amazon",
+   "price": 34.87,
+   "old_price": 50.98,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402484-prime-ac-34-87-4-pk-1kg-sunlu-silk-pla-1-75mm-3d-printer-filament-various-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22604076.thumb",
+   "posted": "2026-11-26T08:12:45+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:11:46+00:00",
+   "real_price": 34.87,
+   "real_old": 50.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2ac381312ea",
    "title": "13.6\" Apple MacBook Air Laptop w/ M5, 16GB RAM & 512GB SSD (Silver) $999.99 + Free Shipping",
    "price": 999.99,
@@ -11730,6 +11746,24 @@
    "checked_at": "2026-11-26T08:38:08+00:00",
    "real_price": 999.99,
    "real_old": 1299.0
+  },
+  {
+   "id": "te300ff5e005",
+   "title": "$119.99* | EGO POWER+ Portable Inverter 400W Power Inverter Generator + 10% Back w/ Prime Visa Card at Amazon",
+   "price": 119.99,
+   "old_price": 169.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402433-119-99-ego-power-portable-inverter-400w-power-inverter-generator-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603947.thumb",
+   "posted": "2026-11-26T08:07:35+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:11:47+00:00",
+   "real_price": 119.99,
+   "real_old": 169.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402433&tid=20402433&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2bd65e88e98a11f186667e23634e417e&au=67e028685d4e435d945dd382e959ce87&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tbdcde0a2e08",
@@ -11762,10 +11796,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402361&tid=20402361&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=c2721aa4e98911f186784ac301aed48e&au=57f7edb6e3364afc99eff60b75d061d6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:08:51+00:00",
    "real_price": 99.0,
-   "real_old": 149.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402361&tid=20402361&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=c2721aa4e98911f186784ac301aed48e&au=57f7edb6e3364afc99eff60b75d061d6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 149.0
   },
   {
    "id": "t15467b3dd32",
@@ -15821,6 +15855,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -15957,45 +15994,6 @@
    "checked_at": "2026-11-25T19:40:02+00:00",
    "real_price": 89.99,
    "real_old": 99.99
-  },
-  {
-   "id": "t15a0460469c",
-   "title": "VGN V98PRO V3 Mechanical Keyboard $39.99 + Free Shipping",
-   "price": 39.99,
-   "old_price": 62.49,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395575-vgn-v98pro-v3-mechanical-keyboard-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/3/5/9/2/4/300x300/22586529.thumb",
-   "posted": "2026-11-25T16:12:02+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395575&tid=20395575&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=695f232ee91811f1acb71e48fdfe72e8&au=892faed729fb4f2cb1cbedcee9196cf0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:37:28+00:00",
-   "real_price": 39.99,
-   "real_old": 62.49
-  },
-  {
-   "id": "t2e1ac5a55be",
-   "title": "Sentryse 190 CFM 160 MPH 20V Cordless Leaf Blower with 2 Batteries $41 + Free S/H",
-   "price": 41.0,
-   "old_price": 110.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20395560-sentryse-190-cfm-160-mph-20v-cordless-leaf-blower-with-2-batteries-41-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22586466.thumb",
-   "posted": "2026-11-25T16:09:26+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "VQMNT6BW",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://www.walmart.com/ip/14219371228",
-   "checked_at": "2026-11-26T01:17:31+00:00",
-   "real_price": 41.0,
-   "real_old": 110.0
   }
  ],
  "tech": [
@@ -16131,6 +16129,33 @@
      "store": "Amazon",
      "price": 599.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t12dc90fd7d0",
+   "title": "[Prime, AC] * | 4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various)",
+   "price": 34.87,
+   "old_price": 50.98,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22604076.thumb",
+   "posted": "2026-11-26T08:12:45+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 34.87,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19187,28 +19212,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20396556&tid=20396556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40317af6e97711f1a0b0a61b1b2e19a1&au=44f3c6c3fafe4f2593ad2f4012f4ad6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t2ac827e4306",
-   "title": "Staples Printing: Personalized Holiday Cards, Labels, Gifts, Wrapping Paper 60% Off + Store Pick Up",
-   "price": null,
-   "old_price": null,
-   "store": "Staples",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20381562&pno=1373994&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5550848ae8fb11f1b969fea0be5fc86f&au=c9798b30aa5e4701b052c2034e4876f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20381562&pno=1373994&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5550848ae8fb11f1b969fea0be5fc86f&au=c9798b30aa5e4701b052c2034e4876f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22550757.thumb",
-   "posted": "2026-11-25T18:07:32+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "81531",
-   "code_until": null,
-   "promo": "60% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-26T11:09:47+00:00"
+ "updated": "2026-11-26T11:12:40+00:00"
 }
