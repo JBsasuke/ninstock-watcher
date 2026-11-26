@@ -1663,8 +1663,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2709,7 +2707,7 @@
    "id": "c6b28a282a23",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 76.0,
+   "old_price": 77.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -2721,16 +2719,16 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:28:03+00:00",
+   "checked_at": "2026-11-26T12:28:58+00:00",
    "real_price": 17.97,
-   "real_old": 76.0,
+   "real_old": 77.0,
    "category_ok": true
   },
   {
    "id": "4f6a03202f19",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $17.97 + Free Shipping w/ Walmart+ or on $35+",
    "price": 17.97,
-   "old_price": 76.0,
+   "old_price": 77.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -2742,9 +2740,9 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:28:05+00:00",
+   "checked_at": "2026-11-26T12:29:00+00:00",
    "real_price": 17.97,
-   "real_old": 76.0,
+   "real_old": 77.0,
    "category_ok": true
   },
   {
@@ -3081,7 +3079,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:28:07+00:00",
+   "checked_at": "2026-11-26T12:29:03+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -3102,7 +3100,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:28:09+00:00",
+   "checked_at": "2026-11-26T12:29:05+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11532,6 +11530,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tb3eb4493d81",
+   "title": "65\" LG OLED evo AI 4K C6 Series Smart TV (2026) $1350 + Free S&H",
+   "price": 1349.99,
+   "old_price": 2699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402130-lg-65-oled-evo-ai-c6-4k-smart-tv-65c6-2026-1-349-99-amazon-1349-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22603257.thumb",
+   "posted": "2026-11-26T12:27:09+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T12:29:59+00:00",
+   "real_price": 1349.99,
+   "real_old": 2699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=1831a62ae99511f1bc740a31e97cbd0c&au=942b81cb6e0346fda3e84a0285bae42d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tebc48660208",
    "title": "$299: Pit Boss 500 FB2 Wood Pellet Grill & Smoker, 518 Sq. In., LCD Controller, Flame Broiler, Meat Probe at Amazon",
    "price": 299.0,
@@ -11959,9 +11975,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -12022,6 +12035,23 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20402055&tid=20402055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c26ade3ce98511f19096f68c7a7d4440&au=940dd5c666934fc287c3f3a75a784c7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:40:13+00:00",
    "real_price": 312.8
+  },
+  {
+   "id": "t879b6fa5993",
+   "title": "$649.99: Apple Watch Ultra 4 (GPS + Cellular) 49mm Natural Titanium Case, Translucent Gray Ocean @Costco",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401971-649-99-apple-watch-ultra-4-gps-cellular-49mm-natural-titanium-case-translucent-gray-ocean-costco?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22602783.thumb",
+   "posted": "2026-11-26T06:58:13+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T12:30:02+00:00",
+   "real_price": 649.99,
+   "real_old": 799.0
   },
   {
    "id": "t300a033b54c",
@@ -14670,6 +14700,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15900,45 +15933,36 @@
    "checked_at": "2026-11-25T16:53:34+00:00",
    "real_price": 35.99,
    "real_old": 69.99
-  },
-  {
-   "id": "t1cec1b1aca6",
-   "title": "Apple AirPods Pro 3 $124 with AMEX Platinum offer YMMV",
-   "price": 124.0,
-   "old_price": 249.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20395851-apple-airpods-pro-3-124-with-amex-platinum-offer-ymmv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22590750.thumb",
-   "posted": "2026-11-25T16:44:24+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395851&tid=20395851&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=6aa35d6ee90311f18025127cddf49957&au=3601e82b824c43eab45ed2f7d68d0d78&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:07:11+00:00",
-   "real_price": 124.0,
-   "real_old": 249.0
-  },
-  {
-   "id": "t07bf8dbcedc",
-   "title": "Samsung 55\" M80H Series Mini LED 4K Smart TV (2026) $384.29 (Reg. $547.99) + Free Shipping",
-   "price": 384.29,
-   "old_price": 547.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395842-samsung-55-m80h-series-mini-led-4k-smart-tv-2026-384-29-reg-547-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22587303.thumb",
-   "posted": "2026-11-25T16:43:21+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395842&tid=20395842&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=2da5d44ee92311f1a164eaef9dc5a9f8&au=b960963163ed4ceb82013fa11706680e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:54:32+00:00",
-   "real_price": 384.29,
-   "real_old": 547.99
   }
  ],
  "tech": [
+  {
+   "id": "tb3eb4493d81",
+   "title": "65\" LG OLED evo AI 4K C6 Series Smart TV (2026) + Free S&H",
+   "price": 1349.99,
+   "old_price": 2699.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=1831a62ae99511f1bc740a31e97cbd0c&au=942b81cb6e0346fda3e84a0285bae42d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=1831a62ae99511f1bc740a31e97cbd0c&au=942b81cb6e0346fda3e84a0285bae42d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22603257.thumb",
+   "posted": "2026-11-26T12:27:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=1831a62ae99511f1bc740a31e97cbd0c&au=942b81cb6e0346fda3e84a0285bae42d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tbd4c51b2de8",
    "title": "Amazon Alexa Tablet 8 8GB RAM 128GB 8.7″ compact tablet with vivid display, All-day battery, Android OS with Google Play, Designed for Alexa+",
@@ -16333,7 +16357,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18535,7 +18559,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19127,34 +19151,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396733&tid=20396733&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=675d97f8e94111f1970ae2556831d947&au=3d89bfc84c3344dfb565a7636e12c6f3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "td6eb6aba47a",
-   "title": "GOOLOO GE1500 1500A 12V Portable Car Jump Starter & Power Bank (8000mAh)",
-   "price": 20.01,
-   "old_price": 76.99,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&tid=20396697&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=fcdc9ab4e90911f1bcf832e08e272054&au=a22c2340fc8d407fb8c7c326f4760be5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&tid=20396697&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=fcdc9ab4e90911f1bcf832e08e272054&au=a22c2340fc8d407fb8c7c326f4760be5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22589706.thumb",
-   "posted": "2026-11-25T18:28:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "D72RZ4J3",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 20.01,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396697&tid=20396697&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=fcdc9ab4e90911f1bcf832e08e272054&au=a22c2340fc8d407fb8c7c326f4760be5&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T12:26:13+00:00"
+ "updated": "2026-11-26T12:31:01+00:00"
 }
