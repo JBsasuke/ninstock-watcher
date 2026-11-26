@@ -815,7 +815,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c27697ae97e11f1a6cb9e87e3b1bc03&au=65d26d18524f447fa989b9d33df370fb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:45:27+00:00",
+   "checked_at": "2026-11-26T15:47:01+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1985,7 +1985,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:44:03+00:00",
+   "checked_at": "2026-11-26T15:47:08+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -2069,7 +2069,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=740b2a62e88111f1acba7ab09e679b66&au=a1f3974370384c598526556f414a8ac9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:45:30+00:00",
+   "checked_at": "2026-11-26T15:47:04+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2090,7 +2090,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391630&tid=20391630&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=754b0370e88111f1b8137a55f551cdc8&au=fa2a708684074c2c8243880fafa6bf97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:45:32+00:00",
+   "checked_at": "2026-11-26T15:47:06+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11385,6 +11385,63 @@
  ],
  "raw_tech": [
   {
+   "id": "td7f45377f75",
+   "title": "Lenovo Legion M410 Wireless RGB Gaming Mouse (Medium, Right Handed) $30",
+   "price": 29.99,
+   "old_price": 49.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20403909-29-99-lenovo-legion-m410-wireless-rgb-gaming-mouse-16-000-dpi-2-4ghz-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/6/0/8/8/1/4/300x300/22611888.thumb",
+   "posted": "2026-11-26T15:46:25+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:48:05+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t134164a57f1",
+   "title": "5000mAh LISEN Wireless Qi2 15W Ultra Slim MagSafe Power Bank (Ice Grey) $15.30",
+   "price": 15.29,
+   "old_price": 26.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404956-5000mah-lisen-wireless-qi2-15w-ultra-slim-magsafe-power-bank-ice-grey-15-29-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22610385.thumb",
+   "posted": "2026-11-26T15:44:47+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "B6DIX4IS",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T15:48:08+00:00",
+   "real_price": 15.29,
+   "real_old": 26.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tc031e7b53cb",
+   "title": "RYOBI 40V 120 MPH 550 CFM Cordless Battery Blower w/ 4.0 Ah Battery & Charger $99 + Free Shipping",
+   "price": 99.0,
+   "old_price": 158.99,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20402316-ryobi-40v-120-mph-550-cfm-cordless-battery-leaf-blower-w-4-0-ah-battery-charger-99-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603614.thumb",
+   "posted": "2026-11-26T15:44:36+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:48:09+00:00",
+   "real_price": 99.0,
+   "real_old": 158.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402316&pno=1375038&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c77addb6e9b011f180de9258ce27cbc4&au=aefe88fc552949d2b64ef9095415727f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2facd655815",
    "title": "Costco Members: Apple Watch Ultra 4 GPS + Cellular 49mm w/ Titanium Case in M/L $650 + $5 S&H",
    "price": 649.99,
@@ -12024,7 +12081,7 @@
    "old_price": null,
    "store": "Amazon",
    "url": "https://slickdeals.net/f/20404086-49mm-apple-watch-ultra-4-gps-cellular-smartwatch-varios-bands-650-free-s-h-649-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22611834.thumb",
    "posted": "2026-11-26T13:13:36+00:00",
    "cat": "tablet",
    "cat_label": "Tablets y teléfonos",
@@ -12186,6 +12243,24 @@
    "checked_at": "2026-11-26T12:29:59+00:00",
    "real_price": 1349.99,
    "real_old": 2699.99
+  },
+  {
+   "id": "t04bf8f7e095",
+   "title": "Apple Mac Studio (M5 Max 18-Core CPU 64GB Memory 2TB Solid State Drive 40-Core GPU) $3999",
+   "price": 3999.0,
+   "old_price": 4299.0,
+   "store": "Micro Center",
+   "url": "https://slickdeals.net/f/20403555-apple-mac-studio-m5-max-18-core-cpu-64gb-memory-2tb-solid-state-drive-40-core-gpu-3999?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/9/1/1/8/300x300/22607226.thumb",
+   "posted": "2026-11-26T11:59:24+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:48:11+00:00",
+   "real_price": 3999.0,
+   "real_old": 4299.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t818441d85d9",
@@ -12486,10 +12561,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402550&tid=20402550&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=18e8fbcae9b011f18ad3c22787dbf298&au=33bfdd1238f149aab026a0ba8a4ad52d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:43:17+00:00",
    "real_price": 18.66,
-   "real_old": 36.74,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402550&tid=20402550&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=18e8fbcae9b011f18ad3c22787dbf298&au=33bfdd1238f149aab026a0ba8a4ad52d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 36.74
   },
   {
    "id": "t12dc90fd7d0",
@@ -12906,6 +12981,24 @@
    "checked_at": "2026-11-26T13:13:40+00:00",
    "real_price": 480.0,
    "real_old": 1170.0
+  },
+  {
+   "id": "t87e0ea4562a",
+   "title": "[EDU/EPP] 32\" Samsung Odyssey OLED G7 4K 165Hz / 1080p 330Hz Dual Mode HDR Gaming Monitor  + CoD Modern Warfare 4 $550 + Free Shipping",
+   "price": 550.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "url": "https://slickdeals.net/f/20401986-edu-epp-32-samsung-odyssey-oled-g7-4k-165hz-1080p-330hz-dual-mode-hdr-gaming-monitor-cod-modern-warfare-4-550-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602858.thumb",
+   "posted": "2026-11-26T07:00:40+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:48:14+00:00",
+   "real_price": 550.0,
+   "real_old": 1170.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tf09149e7e48",
@@ -13795,8 +13888,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1a56677ce9b011f1a6c622f078095530&au=908f7c66803d439bab6b984f10353d1e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:43:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=cb1956aae9b011f18199122c8b79d062&au=c3b8133961b04df0818d77c5f580e27f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:48:16+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15644,99 +15737,36 @@
    "checked_at": "2026-11-25T21:49:40+00:00",
    "real_price": 30.99,
    "real_old": 71.49
-  },
-  {
-   "id": "tba40a0deab2",
-   "title": "BLUETTI Solar Generator Elite 300 Power Station & 1200W Alternator Charger 2 $1413 + Free S&H",
-   "price": 1413.0,
-   "old_price": 2299.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20379897-bluetti-solar-generator-elite-300-charger-2-alternator-charger-3014-4wh-1413?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22546851.thumb",
-   "posted": "2026-11-25T21:38:34+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379897&pno=1374141&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cf14d9a2e91811f1912a8636b3feedc4&au=42ada9b03314491d996efbd916f3f083&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:40:19+00:00",
-   "real_price": 1413.0,
-   "real_old": 2299.0
-  },
-  {
-   "id": "tbd756fb65df",
-   "title": "WASOTO Lightweight Heated Vest for Men with 16000mAh Battery Pack Charger $42.99 AC",
-   "price": 42.99,
-   "old_price": 109.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20398050-wasoto-lightweight-heated-vest-for-men-with-16000mah-battery-pack-charger-42-99-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22592787.thumb",
-   "posted": "2026-11-25T21:35:24+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398050&tid=20398050&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c391a03ee98511f1b9c92608fa484b01&au=7326442a4e084534874dc2aa6a40b8ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:40:15+00:00",
-   "real_price": 42.99,
-   "real_old": 109.99
-  },
-  {
-   "id": "t41992e2bb81",
-   "title": "8\" Amazon Echo Show 8 (newest model) $100 + Free S&H",
-   "price": 99.99,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20371923-99-99-amazon-echo-show-8-newest-model-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22526193.thumb",
-   "posted": "2026-11-25T21:30:56+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20371923&pno=1374138&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65b44da8e91811f1b4ac7e3e3d2b1b81&au=6c453b1c4aa244eaa375754c1223b95d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:37:22+00:00",
-   "real_price": 99.99,
-   "real_old": 199.99
-  },
-  {
-   "id": "t36e2b57d155",
-   "title": "4-Pack 1-Kg Spools 3DHoJor 1.75mm Matte PLA 3D Printer Filament (Various, 4KG total) from $33.99 + Free Shipping w/ Prime or on $35+",
-   "price": 33.99,
-   "old_price": 40.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20398020-4-pack-1-kg-spools-3dhojor-1-75mm-matte-pla-3d-printer-filament-various-4kg-total-from-33-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22592733.thumb",
-   "posted": "2026-11-25T21:29:06+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:54:30+00:00",
-   "real_price": 33.99,
-   "real_old": 40.99
-  },
-  {
-   "id": "t1ac9b1bc3d0",
-   "title": "HyperX OMEN Laptop: 15.3\" 2.5K 180Hz, Ryzen 9 8940HX, RTX 5070, 16GB, 1TB $1299 + Free S&H",
-   "price": 1299.0,
-   "old_price": 2389.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20373405-w-live-11-23-hyperx-omen-15-3-wqxga-180hz-2-5k-ips-gaming-laptop-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5070-16gb-1tb-ssd-black-1299?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://slickdeals.net/attachment/1/5/0/7/0/1/0/450x450/22529646.thumb",
-   "posted": "2026-11-25T21:27:43+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-25T21:31:26+00:00",
-   "real_price": 1299.0,
-   "real_old": 2389.0,
-   "store_url": "https://www.walmart.com/ip/18183070833"
   }
  ],
  "tech": [
+  {
+   "id": "td7f45377f75",
+   "title": "Lenovo Legion M410 Wireless RGB Gaming Mouse (Medium, Right Handed)",
+   "price": 29.99,
+   "old_price": 49.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/6/0/8/8/1/4/300x300/22611888.thumb",
+   "posted": "2026-11-26T15:46:25+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t49b6dd2a62c",
    "title": "Apple Watch Series 12 Smartwatch: GPS + Cellular: 46mm 42mm 42mm GPS",
@@ -16143,6 +16173,33 @@
    ]
   },
   {
+   "id": "tb7cd6a9f13c",
+   "title": "49mm Apple Watch Ultra 4 GPS + Cellular Smartwatch (Varios Bands) + Free S&H",
+   "price": 649.99,
+   "old_price": null,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22611834.thumb",
+   "posted": "2026-11-26T13:13:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 649.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t3b613c2e182",
    "title": ": Lenovo B210 15.6-Inch Laptop Backpack, Camo Green",
    "price": 12.99,
@@ -16301,6 +16358,33 @@
      "store": "Amazon",
      "price": 1349.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=1831a62ae99511f1bc740a31e97cbd0c&au=942b81cb6e0346fda3e84a0285bae42d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t04bf8f7e095",
+   "title": "Apple Mac Studio (M5 Max 18-Core CPU 64GB Memory 2TB Solid State Drive 40-Core GPU)",
+   "price": 3999.0,
+   "old_price": 4299.0,
+   "store": "Micro Center",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/9/1/1/8/300x300/22607226.thumb",
+   "posted": "2026-11-26T11:59:24+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Micro Center",
+     "price": 3999.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16949,6 +17033,33 @@
      "store": "Samsung",
      "price": 480.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&tid=20402025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3223e510e99b11f1b87bc6fbfd7e8f75&au=76ba455f0435428aa937a5c42cb10fdd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t87e0ea4562a",
+   "title": "[EDU/EPP] 32\" Samsung Odyssey OLED G7 4K 165Hz / 1080p 330Hz Dual Mode HDR Gaming Monitor + CoD Modern Warfare 4",
+   "price": 550.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602858.thumb",
+   "posted": "2026-11-26T07:00:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Samsung",
+     "price": 550.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18856,115 +18967,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t88a9af0e4ac",
-   "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones + Free S&H",
-   "price": 259.95,
-   "old_price": 579.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&pno=1374204&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=35168d92e92111f1a2fbe283662d4aca&au=4fe23e3173164261a7e32e4011ded5a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&pno=1374204&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=35168d92e92111f1a2fbe283662d4aca&au=4fe23e3173164261a7e32e4011ded5a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22594038.thumb",
-   "posted": "2026-11-25T22:38:43+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 259.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&pno=1374204&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=35168d92e92111f1a2fbe283662d4aca&au=4fe23e3173164261a7e32e4011ded5a6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "te267d14ca31",
-   "title": "14.2-Inch Apple 2026 MacBook Pro Laptop with M5 Pro chip (24GB | 2TB, Space Black)",
-   "price": 2699.0,
-   "old_price": 3199.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593954.thumb",
-   "posted": "2026-11-25T22:34:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 2699.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t73c26caa6bf",
-   "title": "Sennheiser Consumer Audio Momentum 4 ANC Wireless Headphones (Black/Copper) + Free S&H",
-   "price": 159.95,
-   "old_price": 299.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22593846.thumb",
-   "posted": "2026-11-25T22:30:13+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 159.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&pno=1374195&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=f93673bae91f11f19738c2b7c1e0cc5d&au=9826197876034d2f831e017d4c18bfc3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t19616304f35",
-   "title": "Lenovo Idea Tab: 11\" 2.5K Touch, MediaTek Dimensity 6300, 8GB RAM, 256GB UFS + Free S&H",
-   "price": 209.99,
-   "old_price": 269.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372241&pno=1374186&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5487adfce91f11f194ca3ea1188bd8d8&au=6e421d3bba8a4a3ca9627f83c0bb01e6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372241&pno=1374186&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5487adfce91f11f194ca3ea1188bd8d8&au=6e421d3bba8a4a3ca9627f83c0bb01e6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22527189.thumb",
-   "posted": "2026-11-25T22:21:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 209.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20372241&pno=1374186&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5487adfce91f11f194ca3ea1188bd8d8&au=6e421d3bba8a4a3ca9627f83c0bb01e6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T15:44:15+00:00"
+ "updated": "2026-11-26T15:49:04+00:00"
 }
