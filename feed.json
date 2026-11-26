@@ -94,7 +94,7 @@
    "kind": "game",
    "collector": false,
    "url": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
    "posted": "2026-11-26T18:28:08+00:00",
    "needs_cat": true,
    "refurb": false,
@@ -115,7 +115,7 @@
    "kind": "game",
    "collector": false,
    "url": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
    "posted": "2026-11-26T18:28:08+00:00",
    "needs_cat": true,
    "refurb": false,
@@ -2755,7 +2755,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T17:39:07+00:00",
+   "checked_at": "2026-11-26T19:43:26+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -3216,6 +3216,31 @@
    "kind": "merch",
    "collector": false,
    "posted": "2026-11-26T18:45:20+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
+  {
+   "id": "f115d821cc1b",
+   "title": "(Switch 2 GKC) Resident Evil Requiem (YMMV - Regional)",
+   "price": 30.0,
+   "old_price": 60.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18330858360",
+   "url": "https://www.walmart.com/ip/18330858360",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 30.0,
+     "url": "https://www.walmart.com/ip/18330858360"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-26T18:28:08+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11387,6 +11412,24 @@
    "real_old": 1399.99
   },
   {
+   "id": "t4c2139a4687",
+   "title": "Dreame X60 Max Ultra Complete Robot Vacuum & Mop $990 & More + Free S&H",
+   "price": 989.99,
+   "old_price": 1699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20336112-dreame-x60-max-ultra-complete-robot-vacuum-mop-990-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22617654.thumb",
+   "posted": "2026-11-26T19:28:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:44:18+00:00",
+   "real_price": 989.99,
+   "real_old": 1699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336112&pno=1375296&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c4d14c0ae9d111f195d1e650fb1df6d3&au=054b53ccbec74be38822cd4e20fc14cc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7ff99b8f40d",
    "title": "Ninja Fireside360 80,000 BTU Fire Pit & Heater w/ Push Start & 3 Modes $330 + Free S&H w/ Prime",
    "price": 329.99,
@@ -11492,10 +11535,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407440&tid=20407440&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=1f8ed35ce9d111f18bce56667a793469&au=6ec88fd3588e4daeb9b98e687bf6faa7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:39:42+00:00",
    "real_price": 99.99,
-   "real_old": 219.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407440&tid=20407440&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=1f8ed35ce9d111f18bce56667a793469&au=6ec88fd3588e4daeb9b98e687bf6faa7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 219.95
   },
   {
    "id": "teb090339862",
@@ -12145,8 +12188,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=212e1542e9d111f19a14f636c9447f3c&au=bc8c216eff6b4d9e8deb43de866c530a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:39:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c5f56206e9d111f19690f25861dec644&au=abe8e869fb1b43dba39a25beb1960f4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:44:21+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12843,9 +12886,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15542,8 +15582,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=224fe720e9d111f1aaa2fa28cb294618&au=806c45efa61c4eaea8b01e44ff6cd301&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:39:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c7373130e9d111f18a9506be9137bd1f&au=a9249109b274493399f83721a400fa44&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:44:22+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15689,24 +15729,6 @@
    "checked_at": "2026-11-26T13:59:35+00:00",
    "real_price": 26.42,
    "real_old": 79.99
-  },
-  {
-   "id": "t4e83c880279",
-   "title": "14.2\" Apple MacBook Pro (2026): M5 Chip,18C/20C, 24GB RAM, 2TB SSD $2699 + Free S&H",
-   "price": 2699.0,
-   "old_price": 3199.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20398482-2699-14-2-inch-apple-2026-macbook-pro-laptop-with-m5-pro-chip-24gb-2tb-space-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593954.thumb",
-   "posted": "2026-11-26T04:48:40+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&pno=1374624&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2fc6eeb6e95511f1897e5e89a443bde0&au=f0dcb280270a41a0aa2e9dd0fd152764&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:52:31+00:00",
-   "real_price": 2699.0,
-   "real_old": 3199.0
   }
  ],
  "tech": [
@@ -18927,5 +18949,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T19:40:40+00:00"
+ "updated": "2026-11-26T19:45:10+00:00"
 }
