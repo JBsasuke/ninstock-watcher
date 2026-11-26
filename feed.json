@@ -1151,7 +1151,7 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T09:31:37+00:00",
+   "checked_at": "2026-11-26T15:32:48+00:00",
    "category_ok": false,
    "real_price": 117.0,
    "real_old": 199.0,
@@ -2436,7 +2436,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:29:45+00:00",
+   "checked_at": "2026-11-26T15:32:50+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11395,10 +11395,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302692&pno=1375005&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ae4d4e6e9ae11f19e291e57f002ab63&au=91bd0b53e7164309910489f4f663e605&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:29:01+00:00",
    "real_price": 449.99,
-   "real_old": 818.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20302692&pno=1375005&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1ae4d4e6e9ae11f19e291e57f002ab63&au=91bd0b53e7164309910489f4f663e605&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 818.98
   },
   {
    "id": "t5849c981e05",
@@ -11413,7 +11413,7 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "202611MV24WB",
+   "code": "WB2026MV24",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20197590&pno=1374990&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6d6798a8e9ad11f196e96e278ea8cacd&au=b7374896fb53446192e4de045bd0ae45&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -11599,10 +11599,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404845&tid=20404845&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1c7277fae9ae11f180ffc69fef8dfe65&au=237ffb5334f342f3bb58a727f43f5c52&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:29:03+00:00",
    "real_price": 169.0,
-   "real_old": 229.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404845&tid=20404845&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1c7277fae9ae11f180ffc69fef8dfe65&au=237ffb5334f342f3bb58a727f43f5c52&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 229.0
   },
   {
    "id": "tfac7c7e3ad2",
@@ -11773,7 +11773,7 @@
    "old_price": 299.99,
    "store": "Costco Wholesale",
    "url": "https://slickdeals.net/f/20404398-200-apple-tv-4k-4th-gen-128gb-wi-fi-ethernet-mlff4ll-a?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/2/2/8/9/3/1/300x300/22611549.thumb",
    "posted": "2026-11-26T13:46:54+00:00",
    "cat": "tv",
    "cat_label": "Televisores",
@@ -11979,6 +11979,24 @@
    "checked_at": "2026-11-26T14:32:26+00:00",
    "real_price": 129.0,
    "real_old": 178.93
+  },
+  {
+   "id": "tb7cd6a9f13c",
+   "title": "49mm Apple Watch Ultra 4 GPS + Cellular Smartwatch (Varios Bands) $650 + Free S&H $649.99",
+   "price": 649.99,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404086-49mm-apple-watch-ultra-4-gps-cellular-smartwatch-varios-bands-650-free-s-h-649-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-26T13:13:36+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:33:47+00:00",
+   "real_price": 649.99,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404086&tid=20404086&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c52ee4c8e9ae11f1af66020a893c37cf&au=6641930f223e44e9bc37f9d2e48e3ac3&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3b613c2e182",
@@ -13723,8 +13741,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1da68b0ce9ae11f1b968629eec2e1c58&au=2815e1bd4e1847afb5a1cca815626fde&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:29:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c6b24b3ce9ae11f190fa5ab5b1f81fbd&au=b097f08f6d1b42c79446f6e22d1fe3a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:33:49+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15716,23 +15734,6 @@
    "checked_at": "2026-11-25T23:03:52+00:00",
    "real_price": 2279.0,
    "real_old": 3599.0
-  },
-  {
-   "id": "t0b8ae4fc0c2",
-   "title": "Chipotle Mexican Grill Rewards Offer: Any Qualifying Entree Purchase B1G1 Free (Valid 11/25 at 5PM to 9PM Local Time)",
-   "price": 57.0,
-   "old_price": null,
-   "store": "Chipotle",
-   "url": "https://slickdeals.net/f/20350587-bogo-chipotle-nov-25?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22592205.thumb",
-   "posted": "2026-11-25T21:08:06+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Chipotle&sdtid=20350587&pno=1373829&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e99e18e6e91411f18e00a6f64cc7c3ff&au=775a357d26754d549a000c2617dd6f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:12:25+00:00",
-   "real_price": 57.0
   }
  ],
  "tech": [
@@ -15752,7 +15753,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "202611MV24WB",
+   "code": "WB2026MV24",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18965,5 +18966,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T15:29:59+00:00"
+ "updated": "2026-11-26T15:34:43+00:00"
 }
