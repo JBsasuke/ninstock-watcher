@@ -521,7 +521,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=52c1148ce97311f1a821a61b1b2e19a1&au=2b4ced3894d34b2ab92bdf9d35275706&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:28:14+00:00",
+   "checked_at": "2026-11-26T14:31:17+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -542,7 +542,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=53e0559ee97311f1a90eea8af01651eb&au=4d5b78da13d1437e8c8322497fd011ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:28:16+00:00",
+   "checked_at": "2026-11-26T14:31:19+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -1773,7 +1773,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=7b060f7ce8a811f18999ee8a8e78a124&au=fb42557793b34bed9c603a1b1c01b730&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:28:18+00:00",
+   "checked_at": "2026-11-26T14:31:21+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -11429,6 +11429,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tf607a925868",
+   "title": "14-Pc Bosch Fast Spiral Masonry Drill Bit Set $7.60",
+   "price": 7.62,
+   "old_price": 29.19,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404401-7-62-14-pc-bosch-fast-spiral-masonry-drill-bit-set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22609218.thumb",
+   "posted": "2026-11-26T14:28:19+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:32:19+00:00",
+   "real_price": 7.62,
+   "real_old": 29.19,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404401&pno=1374912&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2e9bcbe6e9a611f18aeb1a8c3fe942bc&au=b0c593b662734da48a26a9794856b419&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t75bb4c85a46",
    "title": "Creality K2 Combo Multi-Color 3D Printer $336.75 + Free S&H",
    "price": 336.75,
@@ -11447,6 +11465,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=81368c16e9a511f1946b5ab5b1f81fbd&au=9e0b5e9c362d4725bd8e144f8f3f1b44&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
+   "id": "td4d49c7235b",
+   "title": "Creality K2 Combo Multi-Color 3D Printer $336.75 + Free S&H",
+   "price": 336.75,
+   "old_price": 599.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20386218-creality-k2-combo-multi-color-3d-printer-336-75-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22561701.thumb",
+   "posted": "2026-11-26T14:22:32+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:32:22+00:00",
+   "real_price": 336.75,
+   "real_old": 599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t47a8da2fed7",
    "title": "Lenovo B210 15.6\" Laptop Backpack (Camo Green) $13",
    "price": 12.99,
@@ -11463,6 +11499,24 @@
    "checked_at": "2026-11-26T14:15:06+00:00",
    "real_price": 12.99,
    "real_old": 21.99
+  },
+  {
+   "id": "t92f9592b95f",
+   "title": "$59.99* | 6-Qt Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker at Amazon",
+   "price": 59.99,
+   "old_price": 139.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404539-59-99-6-qt-instant-pot-duo-plus-9-in-1-electric-pressure-cooker-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22609524.thumb",
+   "posted": "2026-11-26T14:06:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:32:24+00:00",
+   "real_price": 59.99,
+   "real_old": 139.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404539&tid=20404539&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=325a626ae9a611f1b2267ad258c45eb3&au=61b3d1ece3104f3aa5054558c72c1fd6&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3862a510ad7",
@@ -11621,10 +11675,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:27:30+00:00",
    "real_price": 44.19,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404263&tid=20404263&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=82c98650e9a511f1be1ae21dfa46eb82&au=4adada721e1747a39b359623a766a92a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.99
   },
   {
    "id": "tc873fe9e819",
@@ -11643,6 +11697,24 @@
    "real_price": 129.0,
    "real_old": 359.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&pno=1374870&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=3f0f8b50e99e11f186181a8c3fe942bc&au=2731d9a1ccc94f34b387345b187e6b87&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t43c9ffa3195",
+   "title": "$129 | 4-Pack (2x 2.0Ah + 2x 4.0Ah) DeWALT 20V MAX Lithium-Ion Batteries + 10% Back w/ Prime Visa Card at Amazon",
+   "price": 129.0,
+   "old_price": 178.93,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404176-129-4-pack-2x-2-0ah-2x-4-0ah-dewalt-20v-max-lithium-ion-batteries-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22608780.thumb",
+   "posted": "2026-11-26T13:24:54+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T14:32:26+00:00",
+   "real_price": 129.0,
+   "real_old": 178.93,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404176&tid=20404176&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=338b0bf8e9a611f18bf1b6ff16efd242&au=023287c238134b40bc876c99411fce3e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3b613c2e182",
@@ -11679,6 +11751,27 @@
    "checked_at": "2026-11-26T13:25:57+00:00",
    "real_price": 29.99,
    "real_old": 49.99
+  },
+  {
+   "id": "t1cafdf7765f",
+   "title": "KINGROON 10kg Mixed-Color HS-PETG 1.75mm High-Speed 3D Printer Filament $69.3 + Free S/H",
+   "price": 69.3,
+   "old_price": 119.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20403828-kingroon-10kg-mixed-color-hs-petg-1-75mm-high-speed-3d-printer-filament-69-3-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/0/6/0/300x300/22607736.thumb",
+   "posted": "2026-11-26T12:37:11+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "USBF15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T14:32:28+00:00",
+   "real_price": 69.3,
+   "real_old": 119.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20403828&tid=20403828&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34b7d6dce9a611f18d0fb2b84f32819e&au=3c778f5f619f44a4b4ba4291ef27bcdd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t8616b84d8cf",
@@ -13276,8 +13369,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8439808ae9a511f1b70122f078095530&au=fc54110376c740a3ad84d9c57cb446d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T14:27:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=35ebbc08e9a611f1b39cc69fef8dfe65&au=b4efe84b7a494bae83ba1691ecbda5ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T14:32:30+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13365,10 +13458,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400927&tid=20400927&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8562601ce9a511f1963eb625d5cfc78b&au=383b483ec6db43aab7e7a88c12bc0820&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:27:35+00:00",
    "real_price": 250.0,
-   "real_old": 500.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400927&tid=20400927&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8562601ce9a511f1963eb625d5cfc78b&au=383b483ec6db43aab7e7a88c12bc0820&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 500.0
   },
   {
    "id": "t3bf247cce8d",
@@ -15689,101 +15782,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20397234&tid=20397234&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bc64b18e90f11f18b39e6c0e94954f5&au=aedb24e42f2f43ebaa5cf4cd44fddefc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:31:19+00:00",
    "real_price": 60.0
-  },
-  {
-   "id": "t44512c9b1bc",
-   "title": "Baseus 5000mAh 15W Magnetic Portable Charger w/ Stand $14.70 & More",
-   "price": 14.69,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20388954-baseus-5000mah-15w-magnetic-portable-charger-w-stand-14-69-more-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22569120.thumb",
-   "posted": "2026-11-25T19:26:43+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "QRRDGCNF",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20388954&pno=1374042&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c2ae19b0e90611f1b95012d241acedf1&au=3e739b0e052c4de1829ab541d4d8ad29&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:31:07+00:00",
-   "real_price": 14.69,
-   "real_old": 29.99
-  },
-  {
-   "id": "tad690f3846e",
-   "title": "LISEN Phone Holder Travel Mount w/ LED Light for Planes & Travel $6.95",
-   "price": 6.96,
-   "old_price": 18.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20359212-lisen-phone-holder-travel-mount-w-led-light-for-planes-travel-6-96-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22497570.thumb",
-   "posted": "2026-11-25T19:26:15+00:00",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "prio": 15,
-   "refurb": false,
-   "code": "RTJHWORX",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20359212&pno=1374048&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=c3e4e6c4e90611f1a803bafbec1ee8c8&au=5b8f2df27ea24f4e81116735dab4acf7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:31:09+00:00",
-   "real_price": 6.96,
-   "real_old": 18.99
-  },
-  {
-   "id": "t8bcf32dcbf8",
-   "title": "Philips Norelco 21-in-1 All-In-One 5000 Electric Trimmer & Shaver $39.99 + Free Shipping",
-   "price": 39.99,
-   "old_price": 59.99,
-   "store": "Kohl's",
-   "url": "https://slickdeals.net/f/20397159-philips-norelco-21-in-1-all-in-one-5000-electric-trimmer-shaver-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22590411.thumb",
-   "posted": "2026-11-25T19:20:33+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20397159&tid=20397159&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ca3bfeae91611f1944c125165339ebf&au=e0b11d3a6fca429d842e659850268774&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:21:54+00:00",
-   "real_price": 39.99,
-   "real_old": 59.99
-  },
-  {
-   "id": "t28968f34fbd",
-   "title": "75\" Toshiba M450 QLED Series 4K UHD Smart Fire TV (2026) $349.99 @Best Buy",
-   "price": 349.99,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20397156-75-toshiba-m450-qled-series-4k-uhd-smart-fire-tv-2026-349-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22590636.thumb",
-   "posted": "2026-11-25T19:20:32+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20397156&tid=20397156&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2d0fb7dee90f11f198b68636b3feedc4&au=afacab29969e48c7b756d979bfbfa1ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:31:21+00:00",
-   "real_price": 349.99
-  },
-  {
-   "id": "t512da959703",
-   "title": "26-Quart Kitchen Elite Air Fryer Oven $90 + Free S&H",
-   "price": 89.99,
-   "old_price": 199.99,
-   "store": "Brandsmart",
-   "url": "https://slickdeals.net/f/20364615-kitchen-elite-26qt-air-fryer-oven-90-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22510659.thumb",
-   "posted": "2026-11-25T19:17:11+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Brandsmart&sdtid=20364615&pno=1374039&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6795a85ae90511f1b4488e7d4d9503e1&au=7614ecbcef3a47cea0c2a40361aca474&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:21:25+00:00",
-   "real_price": 89.99,
-   "real_old": 199.99
   }
  ],
  "tech": [
@@ -19016,5 +19014,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T14:28:30+00:00"
+ "updated": "2026-11-26T14:33:18+00:00"
 }
