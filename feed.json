@@ -994,7 +994,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=8a58f4a8e8cb11f18b3f9619659f957d&au=646680a4f7be4f739ef59e1a27defd70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:30:17+00:00",
+   "checked_at": "2026-11-26T06:32:54+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -1138,6 +1138,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2490,7 +2492,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:30:20+00:00",
+   "checked_at": "2026-11-26T06:32:58+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -2511,7 +2513,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:30:22+00:00",
+   "checked_at": "2026-11-26T06:33:01+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11459,6 +11461,41 @@
  ],
  "raw_tech": [
   {
+   "id": "t5041ffd8650",
+   "title": "Costco Members: 13.6\" MacBook Air (2026): M5 10-Core Chip, 16GB, 512GB $1000 + Free S&H",
+   "price": 999.99,
+   "old_price": 1299.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401158-macbook-air-laptop-13-inch-with-apple-m5-chip-built-for-apple-intelligence-999-99-at-costco?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22601367.thumb",
+   "posted": "2026-11-26T06:31:55+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:34:00+00:00",
+   "real_price": 999.99,
+   "real_old": 1299.0
+  },
+  {
+   "id": "tf5ee7007e57",
+   "title": "256GB Apple iPhone Air Unlocked Smartphone (4 Colors) $750 + Free S&H",
+   "price": 749.99,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401518-apple-iphone-air-256gb-unlocked-space-black-749-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601454.thumb",
+   "posted": "2026-11-26T06:30:21+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:34:03+00:00",
+   "real_price": 749.99,
+   "real_old": 1099.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfe401fded8d",
    "title": "$649.99* | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) at Amazon",
    "price": 649.99,
@@ -11471,10 +11508,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T06:29:06+00:00",
    "real_price": 649.99,
-   "real_old": 799.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&tid=20401629&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=adf9e420e96211f19f98a6a053f33dd7&au=f7098bf13ac4421d8dd15330960f1c43&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 799.0
   },
   {
    "id": "t39732123aa2",
@@ -11514,6 +11551,24 @@
    "checked_at": "2026-11-26T06:19:40+00:00",
    "real_price": 749.99,
    "real_old": 1099.99
+  },
+  {
+   "id": "t6e1ed9cb437",
+   "title": "Apple Mac mini Desktop: M4 chip, 16GB RAM, 256GB SSD $599",
+   "price": 598.98,
+   "old_price": 799.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401452-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
+   "posted": "2026-11-26T06:01:43+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:34:05+00:00",
+   "real_price": 598.98,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t271ea03916f",
@@ -14789,9 +14844,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -14984,8 +15036,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:29:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:34:07+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15360,8 +15412,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0a8301ee96211f18df1a6a053f33dd7&au=1dacf1cf2f634277a1a08579105f93ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:29:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=62f947a8e96311f18928dedc8bf920ad&au=b2bb36ac04384f5881aae915d0bc242a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:34:10+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15842,62 +15894,36 @@
    "checked_at": "2026-11-25T14:22:53+00:00",
    "real_price": 5.13,
    "real_old": 9.99
-  },
-  {
-   "id": "tce3b5a63e4f",
-   "title": "Milwaukee M18 FUEL Super Sawzall Reciprocating Saw, Tool Only (2722-20) at Toolnut.com for $209.00 FS",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Tool Nut",
-   "url": "https://slickdeals.net/f/20394447-milwaukee-m18-fuel-super-sawzall-reciprocating-saw-tool-only-2722-20-at-toolnut-com-for-209-00-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/9/8/300x300/22582884.thumb",
-   "posted": "2026-11-25T14:13:59+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Tool+Nut&sdtid=20394447&tid=20394447&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0d358df6e90211f1860f96c3e30d41b9&au=4f97cb653d4e477cbbcf7b089c35ae54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T18:57:25+00:00",
-   "real_price": 60.0
-  },
-  {
-   "id": "tf132eac7e92",
-   "title": "Mission LX-5 MKII Floorstanding Tower Speaker (Each) $99.99 + Free Shipping",
-   "price": 99.99,
-   "old_price": 199.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20394414-mission-lx-5-mkii-floorstanding-tower-speaker-each-99-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22582779.thumb",
-   "posted": "2026-11-25T14:10:41+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394414&tid=20394414&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d80fd63ee90d11f1a93e363c4910bd9c&au=b86cae7e59f048bc94b64ebc5cd1f1ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:21:49+00:00",
-   "real_price": 99.99,
-   "real_old": 199.0
-  },
-  {
-   "id": "td1904550772",
-   "title": "Microsoft Surface Pro 13\" Touch Snapdragon X Plus Tablet w/ Surface Keyboard $900 + Free S&H",
-   "price": 899.99,
-   "old_price": 1429.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20377047-microsoft-surface-pro-13-touch-snapdragon-x-plus-tablet-w-surface-keyboard-900-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22560108.thumb",
-   "posted": "2026-11-25T14:10:23+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20377047&pno=1372785&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=596e807ee8da11f19118768fc20c66d0&au=243b2651c97f460dbd0beb81cf7b2e06&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:13:13+00:00",
-   "real_price": 899.99,
-   "real_old": 1429.99
   }
  ],
  "tech": [
+  {
+   "id": "tf5ee7007e57",
+   "title": "256GB Apple iPhone Air Unlocked Smartphone (4 Colors) + Free S&H",
+   "price": 749.99,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601454.thumb",
+   "posted": "2026-11-26T06:30:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 749.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tfe401fded8d",
    "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch",
@@ -15976,6 +16002,33 @@
      "store": "Best Buy",
      "price": 749.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&tid=20401518&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5cd9f6eee96111f1a193a25430b2f6ef&au=e67bcda224624ca3950769ec80d3be7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6e1ed9cb437",
+   "title": "Apple Mac mini Desktop: M4 chip, 16GB RAM, 256GB SSD",
+   "price": 598.98,
+   "old_price": 799.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
+   "posted": "2026-11-26T06:01:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 598.98,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18686,7 +18739,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18892,8 +18945,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18909,7 +18962,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=af5ab998e96211f19c64be3f5266b794&au=b185416a6086471dbcdb326cf9f3d6ff&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19047,61 +19100,7 @@
      "url": "https://www.walmart.com/ip/1922461952"
     }
    ]
-  },
-  {
-   "id": "t85676796196",
-   "title": "256GB Apple iPad 11th Gen 11\" Wi-Fi Tablet",
-   "price": 479.99,
-   "old_price": 549.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&pno=1373853&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=294a09ace8e611f1a328aaea4daf1256&au=23ef8422b175460ea1d1a094d41d8446&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&pno=1373853&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=294a09ace8e611f1a328aaea4daf1256&au=23ef8422b175460ea1d1a094d41d8446&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22576746.thumb",
-   "posted": "2026-11-25T15:36:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 479.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391654&pno=1373853&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=294a09ace8e611f1a328aaea4daf1256&au=23ef8422b175460ea1d1a094d41d8446&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t626e72d09fc",
-   "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm 40mm & More + Free S&H",
-   "price": 179.0,
-   "old_price": 249.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22585575.thumb",
-   "posted": "2026-11-25T15:31:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 179.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T06:30:06+00:00"
+ "updated": "2026-11-26T06:35:00+00:00"
 }
