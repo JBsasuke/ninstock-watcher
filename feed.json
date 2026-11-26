@@ -224,13 +224,13 @@
    "posted": "2026-11-26T17:51:19+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T19:57:16+00:00",
-   "category_ok": true,
-   "real_price": 27.99,
-   "real_old": 57.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20407008&tid=20407008&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=94486a58e9d311f1ae8e1e8a724ce706&au=7c13bc8e74a04d159ac753a38a7d83ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T19:57:16+00:00",
+   "real_price": 27.99,
+   "real_old": 57.0,
+   "category_ok": true
   },
   {
    "id": "0cc7798e259a",
@@ -1705,7 +1705,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&tid=20397321&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=d8b2cc30e90911f192b1f624b5530aa6&au=f11209e24dcd4302ad39191545c60c7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:58:28+00:00",
+   "checked_at": "2026-11-26T20:01:56+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -1959,7 +1959,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T17:57:45+00:00",
+   "checked_at": "2026-11-26T20:01:59+00:00",
    "real_price": 27.99,
    "real_old": 58.99,
    "category_ok": true
@@ -11581,10 +11581,10 @@
    "code": "Y1YKRU2G",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407563&tid=20407563&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b61d6df4e9d311f180c94a957fa3e70b&au=74b2df0476744ff9a832c943e5bc843e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:58:13+00:00",
    "real_price": 44.49,
-   "real_old": 89.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407563&tid=20407563&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b61d6df4e9d311f180c94a957fa3e70b&au=74b2df0476744ff9a832c943e5bc843e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 89.99
   },
   {
    "id": "te6a5da885e2",
@@ -11603,6 +11603,24 @@
    "checked_at": "2026-11-26T18:54:13+00:00",
    "real_price": 159.99,
    "real_old": 299.99
+  },
+  {
+   "id": "t8ce7fe149d1",
+   "title": "2.75\" Hallmark Keepsake Mickey Mouse 2025: \"A Year of Disney Magic\" Christmas Ornament $9.99 + Free Shipping w/ Prime or on $35+",
+   "price": 9.99,
+   "old_price": 11.49,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20407473-2-75-hallmark-keepsake-mickey-mouse-2025-a-year-of-disney-magic-christmas-ornament-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22616169.thumb",
+   "posted": "2026-11-26T18:45:04+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:02:52+00:00",
+   "real_price": 9.99,
+   "real_old": 11.49,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4f28aed5624",
@@ -11832,6 +11850,24 @@
    "real_old": 26.99
   },
   {
+   "id": "t38c1c5be55a",
+   "title": "Kenmore 3-Burner 30,000 BTU Propane Gas Pedestal Grill w/ Folding Sides & Wheels (Pearl White) $279.99 + Free Shipping",
+   "price": 279.99,
+   "old_price": 399.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406786-kenmore-3-burner-30-000-btu-propane-gas-pedestal-grill-w-folding-sides-wheels-pearl-white-279-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22614621.thumb",
+   "posted": "2026-11-26T17:23:32+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:02:53+00:00",
+   "real_price": 279.99,
+   "real_old": 399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406786&tid=20406786&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5d80d20ce9d411f1aa486ad36c1cd077&au=f1a4777e28cd4646a326be77ab5a0e4b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t672b89de308",
    "title": "Lenovo 5-Button Bluetooth Silent Mouse w/ Sculpted Grip $11.60",
    "price": 11.58,
@@ -11902,6 +11938,24 @@
    "checked_at": "2026-11-26T16:57:57+00:00",
    "real_price": 679.99,
    "real_old": 1199.99
+  },
+  {
+   "id": "t0aabac8963c",
+   "title": "$74.99 | Pro X Superlight 2c Wireless Gaming Mouse, 51g Compact Mini Mouse - Magenta at Amazon",
+   "price": 74.99,
+   "old_price": 159.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406480-74-99-pro-x-superlight-2c-wireless-gaming-mouse-51g-compact-mini-mouse-magenta-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614126.thumb",
+   "posted": "2026-11-26T16:52:56+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:02:56+00:00",
+   "real_price": 74.99,
+   "real_old": 159.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t247e6c7923f",
@@ -12291,8 +12345,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b742de4ee9d311f1bda4ea67e3bb702e&au=001cbcfbe5124c9dae152707e2bee3bb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:58:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6009ad5ae9d411f19bfd4e9ad938a680&au=44f8523230da4d7e8acf41e03de94673&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:02:58+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -14537,10 +14591,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:58:17+00:00",
    "real_price": 199.0,
-   "real_old": 498.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402049&tid=20402049&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=b8ae121ce9d311f19ea106ce3fc37ff4&au=b74de5a36c904cff96e192a9b782dce6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 498.0
   },
   {
    "id": "t7d7817be25a",
@@ -15455,10 +15509,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401332&tid=20401332&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b9ceeb62e9d311f1b10006be9137bd1f&au=e03cf1a510ee4a0abe05647f75a500e0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:58:19+00:00",
    "real_price": 449.99,
-   "real_old": 799.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401332&tid=20401332&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b9ceeb62e9d311f1b10006be9137bd1f&au=e03cf1a510ee4a0abe05647f75a500e0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 799.99
   },
   {
    "id": "t8439574b1c2",
@@ -15707,58 +15761,6 @@
    "checked_at": "2026-11-26T07:24:48+00:00",
    "real_price": 599.91,
    "real_old": 999.99
-  },
-  {
-   "id": "t4b5655a333b",
-   "title": "2-Pack 6\" RYOBI Diamond Grit Impact Drive Bits $4.97 + Free Shipping",
-   "price": 4.97,
-   "old_price": 9.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20401107-2-pack-6-ryobi-diamond-grit-impact-drive-bits-4-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22600620.thumb",
-   "posted": "2026-11-26T05:20:20+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=bad9f0d8e9d311f18dfcea9c5ef07de3&au=fc1ae3507e13406480917327aa0a9cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:58:21+00:00",
-   "real_price": 4.97,
-   "real_old": 9.97
-  },
-  {
-   "id": "t00609c6f861",
-   "title": "Apple Mac mini: M4 Pro Chip, 24GB RAM, 1TB SSD, & More $1599",
-   "price": 1599.0,
-   "old_price": 2099.0,
-   "store": "B&H Photo Video",
-   "url": "https://slickdeals.net/f/20401083-apple-mac-mini-m4-pro-chip-24gb-ram-1tb-ssd-more-1599?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-26T05:17:31+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401083&tid=20401083&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c1efee7ce9bf11f192820e5b4f9d0e1c&au=fd45ee02f25748238f75dd951e4ab737&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:35:23+00:00",
-   "real_price": 1599.0,
-   "real_old": 2099.0
-  },
-  {
-   "id": "tef8504cf973",
-   "title": "[live 11/26]Costco Members: AirPods 5 w/  Wireless Charging Case, ANC + 1 Yr AppleCare+ $119.99",
-   "price": 119.99,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401047-live-11-26-costco-members-airpods-5-w-wireless-charging-case-anc-1-yr-applecare-119-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600530.thumb",
-   "posted": "2026-11-26T05:12:31+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-26T06:10:22+00:00",
-   "real_price": 119.99
   }
  ],
  "tech": [
@@ -15867,6 +15869,33 @@
      "store": "Walmart",
      "price": 14.89,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t8ce7fe149d1",
+   "title": "2.75\" Hallmark Keepsake Mickey Mouse 2025: \"A Year of Disney Magic\" Christmas Ornament",
+   "price": 9.99,
+   "old_price": 11.49,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22616169.thumb",
+   "posted": "2026-11-26T18:45:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 9.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16239,6 +16268,33 @@
      "store": "Best Buy",
      "price": 679.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&pno=1374711&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=873fecc8e9ba11f1a8c2c2c4ea169611&au=ea02c00eda7549a4a7ff837dd88d11d5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0aabac8963c",
+   "title": "Pro X Superlight 2c Wireless Gaming Mouse, 51g Compact Mini Mouse - Magenta",
+   "price": 74.99,
+   "old_price": 159.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614126.thumb",
+   "posted": "2026-11-26T16:52:56+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 74.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18929,55 +18985,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401377&tid=20401377&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=6a9adadee95f11f182bd8628339608dc&au=d7927b1496ea42cd815314bfc6404a3f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tb0728581d62",
-   "title": "Namecheap Black Friday Deals: Domains Up to 98% Off & More",
-   "price": null,
-   "old_price": null,
-   "store": "Namecheap",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Namecheap&sdtid=20401362&tid=20401362&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6bbcd624e95f11f1be09b274a813cae0&au=fd891abfe4e345268f67449dfecf8c24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Namecheap&sdtid=20401362&tid=20401362&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6bbcd624e95f11f1be09b274a813cae0&au=fd891abfe4e345268f67449dfecf8c24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22601163.thumb",
-   "posted": "2026-11-26T05:51:24+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "THEGAMESLTD26",
-   "code_until": null,
-   "promo": "Up to 98% Off",
-   "offers": []
-  },
-  {
-   "id": "t7d392cc51eb",
-   "title": "Apple MacBook Pro (2026): 14\", M6, 32GB RAM, 1TB SSD, Space Black, 96W Power Adapter",
-   "price": 2199.0,
-   "old_price": 2419.0,
-   "store": "B&H Photo Video",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601199.thumb",
-   "posted": "2026-11-26T05:50:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "B&H Photo Video",
-     "price": 2199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T19:59:07+00:00"
+ "updated": "2026-11-26T20:03:46+00:00"
 }
