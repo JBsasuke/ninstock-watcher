@@ -14,13 +14,13 @@
    "posted": "2026-11-26T22:58:44+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T23:02:41+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&pno=1375506&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b6cbee8e9ed11f1b3427e15aebef614&au=b9fd6eb7280049a8b402e2a785c5587c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T23:02:41+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "caa2d67c4a45",
@@ -1958,7 +1958,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=48d587f0e8f111f187846a82603adb7c&au=c6d26ffb52fe4a0795ef7dbdf3035cd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T17:06:30+00:00",
+   "checked_at": "2026-11-26T23:07:23+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1979,7 +1979,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4a473976e8f111f1bf1496c3e30d41b9&au=f1cbefdababb493f8927a51456b917cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T17:06:33+00:00",
+   "checked_at": "2026-11-26T23:07:26+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -2905,7 +2905,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T21:07:00+00:00",
+   "checked_at": "2026-11-26T23:07:29+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11356,6 +11356,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tc516a14ef9e",
+   "title": "Metabo HPT 18V MultiVolt 18-Ga Compact Brad Nailer Kit (2.0 Ah Battery + Charger) $99 + Free S&H",
+   "price": 99.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20403987-99-metabo-hpt-brad-nailer-18-gauge-cordless-18v-kit-nt1850dg-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22608339.thumb",
+   "posted": "2026-11-26T23:05:08+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:08:24+00:00",
+   "real_price": 99.0,
+   "real_old": 249.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403987&pno=1375512&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=479d4c8ae9ee11f198e89edf9ccb03d5&au=58d86a2a6a524364afc49ec1cacd5ed3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te59f1b9cf99",
    "title": "Polymaker 2KG 1.75mm ASA 3D Printer Filament Bundle (Black or Black/White) $28.50 w/ S&S",
    "price": 28.49,
@@ -11411,6 +11429,24 @@
    "checked_at": "2026-11-26T22:22:21+00:00",
    "real_price": 10.99,
    "real_old": 26.99
+  },
+  {
+   "id": "t6d3f672bd57",
+   "title": "iVoler Magnetic Clear Case for iPhone 17 Pro Max $3.99 at Amazon",
+   "price": 3.99,
+   "old_price": 18.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20408973-ivoler-magnetic-clear-case-for-iphone-17-pro-max-3-99-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
+   "posted": "2026-11-26T21:49:38+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:08:26+00:00",
+   "real_price": 3.99,
+   "real_old": 18.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48f86c18e9ee11f1b2f126a54cb5539b&au=f6ff1d88dced41bbba9ad52a52388715&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tf16702c9aa2",
@@ -12454,6 +12490,24 @@
    "real_old": 49.99
   },
   {
+   "id": "t95d36073c76",
+   "title": "Instant Pot Vortex 4-Qt 6-in-1 Mini Air Fryer (Rosewater) $49.99 + Free Shipping",
+   "price": 49.99,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406735-instant-pot-vortex-4-qt-6-in-1-mini-air-fryer-rosewater-49-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22614516.thumb",
+   "posted": "2026-11-26T17:17:12+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:08:28+00:00",
+   "real_price": 49.99,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406735&tid=20406735&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=4a16ff74e9ee11f1ac3bba8bfaabbf0e&au=364d1d1e27ba49c68d99144ac10ce087&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t672b89de308",
    "title": "Lenovo 5-Button Bluetooth Silent Mouse w/ Sculpted Grip $11.60",
    "price": 11.58,
@@ -13078,8 +13132,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9f6c9188e9ed11f18343b2e591534d57&au=6b1c4ff74c324a0d81121b1ad0b23b3f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:03:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4b344f10e9ee11f19aaf329775378527&au=d03e2ae17a35404abda3d0eaa64b0bf7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:08:30+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15705,61 +15759,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&tid=20401920&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=6d8f4ebee99611f18dee5ab5b1f81fbd&au=6a539920f48b401dbddd8eb3bc423771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:39:32+00:00",
    "real_price": 1399.0
-  },
-  {
-   "id": "ta87c5accb91",
-   "title": "Apple Mac mini Desktop: M4 Chip, 16GB RAM, 256GB SSD $599 + Free S&H",
-   "price": 598.98,
-   "old_price": 799.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401452-apple-mac-mini-desktop-m4-chip-16gb-ram-256gb-ssd-599?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
-   "posted": "2026-11-26T06:51:04+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=24c8f930e96611f1bc36ea8af01651eb&au=1c1c502a7e784b8e9e1782c62788fcc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:53:54+00:00",
-   "real_price": 598.98,
-   "real_old": 799.0
-  },
-  {
-   "id": "t2d4dc710a80",
-   "title": "MacBook Air: 13.6\", M5, 16GB RAM, 1TB SSD, & More $1199.99",
-   "price": 1199.99,
-   "old_price": 1599.99,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401905-macbook-air-13-6-m5-16gb-ram-1tb-ssd-more-1199-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22602573.thumb",
-   "posted": "2026-11-26T06:49:19+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-26T16:53:23+00:00",
-   "real_price": 1199.99,
-   "real_old": 1599.99
-  },
-  {
-   "id": "t5065348751e",
-   "title": "Hisense 100\" Class QD7 Series 4K QLED 144Hz Smart TV + 5-Year Total Warranty (Allstate Included) $999.99 + Free Shipping",
-   "price": 999.0,
-   "old_price": 1699.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401890-hisense-100-class-qd7-series-4k-qled-144hz-smart-tv-5-year-total-warranty-allstate-included-999-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/9/1/7/3/4/5/300x300/22602456.thumb",
-   "posted": "2026-11-26T06:46:43+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-26T13:13:42+00:00",
-   "real_price": 999.0,
-   "real_old": 1699.0
   }
  ],
  "tech": [
+  {
+   "id": "tc516a14ef9e",
+   "title": "Metabo HPT 18V MultiVolt 18-Ga Compact Brad Nailer Kit (2.0 Ah Battery + Charger) + Free S&H",
+   "price": 99.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403987&pno=1375512&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=479d4c8ae9ee11f198e89edf9ccb03d5&au=58d86a2a6a524364afc49ec1cacd5ed3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403987&pno=1375512&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=479d4c8ae9ee11f198e89edf9ccb03d5&au=58d86a2a6a524364afc49ec1cacd5ed3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22608339.thumb",
+   "posted": "2026-11-26T23:05:08+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 99.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403987&pno=1375512&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=479d4c8ae9ee11f198e89edf9ccb03d5&au=58d86a2a6a524364afc49ec1cacd5ed3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "te59f1b9cf99",
    "title": "Polymaker 2KG 1.75mm ASA 3D Printer Filament Bundle (Black or Black/White)",
@@ -15811,6 +15840,33 @@
      "store": "Amazon",
      "price": 10.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406789&pno=1375470&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=d8fb6678e9e711f1a6e10e66b81901db&au=50837e00dad64fbea707ef17f84fe0e4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6d3f672bd57",
+   "title": "iVoler Magnetic Clear Case for iPhone 17 Pro Max",
+   "price": 3.99,
+   "old_price": 18.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48f86c18e9ee11f1b2f126a54cb5539b&au=f6ff1d88dced41bbba9ad52a52388715&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48f86c18e9ee11f1b2f126a54cb5539b&au=f6ff1d88dced41bbba9ad52a52388715&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
+   "posted": "2026-11-26T21:49:38+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 3.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48f86c18e9ee11f1b2f126a54cb5539b&au=f6ff1d88dced41bbba9ad52a52388715&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18927,61 +18983,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf09149e7e48",
-   "title": "LG gram Book 15.6\" FHD Touchscreen Laptop",
-   "price": 499.99,
-   "old_price": 999.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&tid=20401977&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d328f32e9a711f1be73fae72cae872a&au=759a850681c44e34afbbe30dcf7f34b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&tid=20401977&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d328f32e9a711f1be73fae72cae872a&au=759a850681c44e34afbbe30dcf7f34b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22602744.thumb",
-   "posted": "2026-11-26T06:59:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 499.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&tid=20401977&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d328f32e9a711f1be73fae72cae872a&au=759a850681c44e34afbbe30dcf7f34b2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "te86d53aa6b0",
-   "title": "[EPP/EDU] 32\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor + CoD Modern Warfare 4 + Free S&H",
-   "price": 600.0,
-   "old_price": 1370.0,
-   "store": "Samsung",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&tid=20401968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=002353b4e9b611f1bbae7ef858723a76&au=207282e82ed849aca7705f4416c75d95&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&tid=20401968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=002353b4e9b611f1bbae7ef858723a76&au=207282e82ed849aca7705f4416c75d95&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602753.thumb",
-   "posted": "2026-11-26T06:57:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Samsung",
-     "price": 600.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&tid=20401968&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=002353b4e9b611f1bbae7ef858723a76&au=207282e82ed849aca7705f4416c75d95&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T23:04:35+00:00"
+ "updated": "2026-11-26T23:09:19+00:00"
 }
