@@ -250,10 +250,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T20:43:49+00:00",
+   "checked_at": "2026-11-26T02:43:52+00:00",
    "real_price": 15.0,
    "real_old": 59.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "d1e457a11f50",
@@ -1467,7 +1468,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:39:32+00:00",
+   "checked_at": "2026-11-26T02:43:55+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -3253,31 +3254,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-25T21:46:30+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "b2955d26def9",
-   "title": "Assassin’s Creed Shadows (Switch 2, Game-Key Card)",
-   "price": 15.0,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 15.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22591524.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-25T20:16:13+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11434,6 +11410,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tdfe429c2e31",
+   "title": "35-Pc CRAFTSMAN Durable Shock-Resistant Steel Screwdriver Bit Set $13.50",
+   "price": 13.48,
+   "old_price": 19.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20344695-13-48-craftsman-35-piece-screwdriver-bit-set-durable-shock-resistant-steel-cmaf35set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22457043.thumb",
+   "posted": "2026-11-26T02:40:08+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T02:44:50+00:00",
+   "real_price": 13.48,
+   "real_old": 19.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20344695&pno=1374477&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=593a7f68e94311f1a2cf4a4725ccc526&au=e4e1ef134b504591ad821fb34882637c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t7dc72f8aebd",
+   "title": "20-Pc KitchenAid Silicone Kitchen Tool and Gadget Set (3 colors) $15",
+   "price": 15.0,
+   "old_price": 70.82,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20374080-kitchenaid-20-piece-silicone-kitchen-tool-and-gadget-set-3-colors-15-free-s-h-w-walmart-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22598628.thumb",
+   "posted": "2026-11-26T02:39:06+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T02:44:52+00:00",
+   "real_price": 15.0,
+   "real_old": 70.82,
+   "store_url": "https://www.walmart.com/ip/20141808263"
+  },
+  {
    "id": "t73e9e07aaf0",
    "title": "Surfshark VPN Plans: 28-Months of Surfshark One VPN $48.70 & More",
    "price": 48.72,
@@ -13668,8 +13680,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0d9565ae94211f1b35e3a799f4e9d75&au=dcceef9db4554c5ab71984a5a4c24a92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:40:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5bb14178e94311f19d19d6624e6a6855&au=1beefc4db7ac4dcd96f6a45c1c2e84be&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T02:44:54+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14044,8 +14056,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b26fdd54e94211f18637e2556831d947&au=989dbe9ed96a4937b3a26f2e4643f63e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:40:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5d1006b2e94311f1beaf62fb07ae9f7f&au=f4597a3fdc544ad392c6d39e22fb1810&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T02:44:56+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15217,7 +15229,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15845,45 +15857,6 @@
    "checked_at": "2026-11-25T12:32:51+00:00",
    "real_price": 259.99,
    "real_old": 339.97
-  },
-  {
-   "id": "tcfa0c7629ca",
-   "title": "$24.29: Hyper HyperDrive 6-in-1 USB C Hub for iPad with Media Controls at Woot!",
-   "price": 24.29,
-   "old_price": 99.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20392572-24-29-hyper-hyperdrive-6-in-1-usb-c-hub-for-ipad-with-media-controls-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22578372.thumb",
-   "posted": "2026-11-25T06:26:40+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": "2026-12-04",
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392572&tid=20392572&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4affb60e8c211f1af13820827a865f9&au=4471776bdef84ec79e7b563245c2cfe8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:23:58+00:00",
-   "real_price": 24.29,
-   "real_old": 99.99
-  },
-  {
-   "id": "te9445f20325",
-   "title": "55\" Insignia F50 Series 4K UHD Smart Fire TV (2025) $170 + Free S&H",
-   "price": 169.99,
-   "old_price": 350.0,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20338638-insignia-55-class-f50-series-led-4k-uhd-smart-fire-tv-at-bestbuy-169-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22433862.thumb",
-   "posted": "2026-11-25T06:23:06+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20338638&pno=1373586&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e264dffae89811f18a793a673037705b&au=5443caf45cde4497bb2cb4e842221c68&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T06:24:36+00:00",
-   "real_price": 169.99,
-   "real_old": 350.0
   }
  ],
  "tech": [
@@ -17813,8 +17786,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0d9565ae94211f1b35e3a799f4e9d75&au=dcceef9db4554c5ab71984a5a4c24a92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0d9565ae94211f1b35e3a799f4e9d75&au=dcceef9db4554c5ab71984a5a4c24a92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5bb14178e94311f19d19d6624e6a6855&au=1beefc4db7ac4dcd96f6a45c1c2e84be&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5bb14178e94311f19d19d6624e6a6855&au=1beefc4db7ac4dcd96f6a45c1c2e84be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17830,7 +17803,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b0d9565ae94211f1b35e3a799f4e9d75&au=dcceef9db4554c5ab71984a5a4c24a92&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5bb14178e94311f19d19d6624e6a6855&au=1beefc4db7ac4dcd96f6a45c1c2e84be&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18083,8 +18056,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b26fdd54e94211f18637e2556831d947&au=989dbe9ed96a4937b3a26f2e4643f63e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b26fdd54e94211f18637e2556831d947&au=989dbe9ed96a4937b3a26f2e4643f63e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5d1006b2e94311f1beaf62fb07ae9f7f&au=f4597a3fdc544ad392c6d39e22fb1810&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5d1006b2e94311f1beaf62fb07ae9f7f&au=f4597a3fdc544ad392c6d39e22fb1810&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18100,7 +18073,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b26fdd54e94211f18637e2556831d947&au=989dbe9ed96a4937b3a26f2e4643f63e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5d1006b2e94311f1beaf62fb07ae9f7f&au=f4597a3fdc544ad392c6d39e22fb1810&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19012,7 +18985,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19104,5 +19077,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T02:41:07+00:00"
+ "updated": "2026-11-26T02:45:49+00:00"
 }
