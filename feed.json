@@ -752,7 +752,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:05:19+00:00",
+   "checked_at": "2026-11-26T13:06:40+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -773,7 +773,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1360fd90e93511f19599b274a813cae0&au=a312dbac093d44beb6022968d6b76965&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:05:20+00:00",
+   "checked_at": "2026-11-26T13:06:42+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -1726,8 +1726,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11982,6 +11980,24 @@
    "real_old": 2699.99
   },
   {
+   "id": "t6655765777a",
+   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (Graphite) $39.99 + Free Shipping",
+   "price": 39.99,
+   "old_price": 84.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402067-jlab-jbuds-lux-anc-wireless-over-ear-headphones-graphite-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22601658.thumb",
+   "posted": "2026-11-26T07:11:00+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:07:40+00:00",
+   "real_price": 39.99,
+   "real_old": 84.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9857e7a1511",
    "title": "75\" VIZIO 4K UHD QLED Smart TV $312.80 + Free Shipping",
    "price": 312.8,
@@ -12747,8 +12763,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b3efb274e99911f1b8d7c276c2dd5c4a&au=b0e072d4b0cd4bb3810389a0b5ebafd2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:02:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5ce894a4e99a11f1918ab6cefa615a1c&au=99a7e58aa7a94aa1a44a37d0e48b092e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:07:42+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13527,10 +13543,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399850&tid=20399850&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b530d488e99911f182c866edb94371e6&au=cd58d419bad344fab32b264ed6a02205&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:03:01+00:00",
    "real_price": 299.99,
-   "real_old": 449.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399850&tid=20399850&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b530d488e99911f182c866edb94371e6&au=cd58d419bad344fab32b264ed6a02205&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 449.99
   },
   {
    "id": "t5ef5f27ea91",
@@ -15852,24 +15868,6 @@
    "checked_at": "2026-11-25T22:59:23+00:00",
    "real_price": 399.99,
    "real_old": 749.99
-  },
-  {
-   "id": "te371e78524b",
-   "title": "Dreame Aqua10 Ultra Roller Robot Vacuum & Mop $500 + Free S&H",
-   "price": 499.99,
-   "old_price": 899.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336439-dreame-aqua10-ultra-roller-robot-vacuum-mop-500-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/22587576.thumb",
-   "posted": "2026-11-25T17:02:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336439&pno=1373940&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c531102ae8f211f1ac82969abbed4a35&au=a7c3b2504932437b897f87121ec59cc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:08:01+00:00",
-   "real_price": 499.99,
-   "real_old": 899.99
   }
  ],
  "tech": [
@@ -16383,6 +16381,33 @@
      "store": "Amazon",
      "price": 1349.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&tid=20402130&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=19acb538e97911f19c7622031841647a&au=c0e10dfc5cca40c29fc4a330b49f11aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6655765777a",
+   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (Graphite)",
+   "price": 39.99,
+   "old_price": 84.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22601658.thumb",
+   "posted": "2026-11-26T07:11:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 39.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402067&tid=20402067&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=5b507a58e99a11f1997aeaccc25f9377&au=e6a2c9c44ad8486d9a0a1893f2b5e015&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19067,28 +19092,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388528&pno=1374021&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7752538e90211f1908ad6d7cc460b6f&au=a2d5fea4f0b944c9a66c262916ec932c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t16bd4986ccc",
-   "title": "Gap 50% to 60% OFF Sitewide ends November 27 at 11:59 PM Pacific",
-   "price": null,
-   "old_price": null,
-   "store": "Gap",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Gap&sdtid=20396925&tid=20396925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=111d064ce91111f197dc06ef8cb116b0&au=85dbd9f453794774b3b1f3497c68aaad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Gap&sdtid=20396925&tid=20396925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=111d064ce91111f197dc06ef8cb116b0&au=85dbd9f453794774b3b1f3497c68aaad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22590057.thumb",
-   "posted": "2026-11-25T18:54:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": "2026-11-27",
-   "promo": "60% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-26T13:03:54+00:00"
+ "updated": "2026-11-26T13:08:38+00:00"
 }
