@@ -1477,7 +1477,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=dec3b314e88c11f196528258c73470e0&au=1b0639de829c491d884faec98319beb0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:04:01+00:00",
+   "checked_at": "2026-11-26T11:06:46+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -1537,6 +1537,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3191,7 +3193,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-26T10:03:50+00:00",
+ "deku_checked": "2026-11-26T11:06:47+00:00",
  "deals": [
   {
    "id": "40a6f37cf736",
@@ -5193,7 +5195,7 @@
      "url": "https://www.target.com/p/-/A-95076259"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5209,7 +5211,7 @@
    "release_date": "2027-05-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA of America",
    "digital": null,
@@ -5253,7 +5255,7 @@
      "url": "https://www.walmart.com/ip/20934158284"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -5296,7 +5298,7 @@
      "url": "https://www.walmart.com/ip/20954464637"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -5331,9 +5333,14 @@
      "store": "Target",
      "price": 89.99,
      "url": "https://www.target.com/p/-/A-1012070913"
+    },
+    {
+     "store": "Amazon",
+     "price": 99.99,
+     "url": "https://www.amazon.com/dp/B0H4NTQBWB"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5365,7 +5372,7 @@
      "url": "https://www.target.com/p/-/A-95076256"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5381,7 +5388,7 @@
    "release_date": "2027-03-20",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5397,7 +5404,7 @@
    "release_date": "2027-03-20",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5439,7 +5446,7 @@
      "url": "https://www.target.com/p/-/A-94948513"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": {
@@ -5486,7 +5493,7 @@
      "url": "https://www.walmart.com/ip/20969569759"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Marvelous USA (XSEED)",
    "digital": null,
@@ -5524,7 +5531,7 @@
      "url": "https://www.walmart.com/ip/21127017185"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5561,7 +5568,7 @@
      "url": "https://www.gamestop.com/products/ys-viii-lacrimosa-of-dana/454366.html"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -5608,7 +5615,7 @@
      "url": "https://www.target.com/p/-/A-1013551453"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -5650,7 +5657,7 @@
      "url": "https://www.walmart.com/ip/20983303920"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5687,7 +5694,7 @@
      "url": "https://www.walmart.com/ip/20944173701"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -5729,7 +5736,7 @@
      "url": "https://www.walmart.com/ip/20958523571"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KONAMI",
    "digital": {
@@ -5776,7 +5783,7 @@
      "url": "https://www.walmart.com/ip/20299574937"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -5823,7 +5830,7 @@
      "url": "https://www.walmart.com/ip/20354268698"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Amazon Games",
    "digital": {
@@ -5870,7 +5877,7 @@
      "url": "https://www.walmart.com/ip/20926366396"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -5917,7 +5924,7 @@
      "url": "https://www.target.com/p/-/A-1013551450"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -5937,7 +5944,7 @@
    "release_date": "2027-01-28",
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -5979,7 +5986,7 @@
      "url": "https://www.walmart.com/ip/20980064944"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6016,7 +6023,7 @@
      "url": "https://www.walmart.com/ip/21103052265"
     }
    ],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-23T19:46:34+00:00",
    "publisher": "Clear River Games",
    "digital": null,
@@ -6033,7 +6040,7 @@
    "release_date": "2027-01-15",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6137,7 +6144,7 @@
    "release_date": "2026-12-14",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T04:50:44+00:00",
+   "offers_checked": "2026-11-26T11:07:03+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Silver Lining Interactive",
    "digital": null,
@@ -11593,10 +11600,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:02:49+00:00",
    "real_price": 599.99,
-   "real_old": 1099.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1099.99
   },
   {
    "id": "te2b8918d941",
@@ -11671,6 +11678,24 @@
    "real_old": 699.0
   },
   {
+   "id": "td8a51177ffe",
+   "title": "DEWALT 20 Volt, 4 Pack, 2 Ah 4 Ah Battery | DCB324-4 - $129",
+   "price": 129.0,
+   "old_price": 359.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402823-dewalt-20-volt-4-pack-2-ah-4-ah-battery-dcb324-4-129?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/0/0/7/9/7/3/300x300/22605258.thumb",
+   "posted": "2026-11-26T08:55:41+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:08:49+00:00",
+   "real_price": 129.0,
+   "real_old": 359.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402823&tid=20402823&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=c1568af6e98911f18d1f4ac301aed48e&au=c07de34917cc4fea8154c694ac38852c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tce1a9911d58",
    "title": "Milwaukee M12 12-Volt Lithium-Ion XC Extended Capacity 6.0Ah Battery Pack $49 @Home depot",
    "price": 49.0,
@@ -11725,6 +11750,24 @@
    "real_old": 479.0
   },
   {
+   "id": "t4e4e966aac3",
+   "title": "Kobalt 302 -Piece Metric and standard (SAE) Mechanics Tool Set with Hard Case | 53559 $99",
+   "price": 99.0,
+   "old_price": 149.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20402361-kobalt-302-piece-metric-and-standard-sae-mechanics-tool-set-with-hard-case-53559-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22603743.thumb",
+   "posted": "2026-11-26T08:02:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:08:51+00:00",
+   "real_price": 99.0,
+   "real_old": 149.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402361&tid=20402361&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=c2721aa4e98911f186784ac301aed48e&au=57f7edb6e3364afc99eff60b75d061d6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t15467b3dd32",
    "title": "Costco: Apple AirPods 5 ANC Wireless Earbuds + 1-Year of AppleCare+ Membership $120 + Free S&H",
    "price": 119.99,
@@ -11772,10 +11815,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:02:51+00:00",
    "real_price": 1599.99,
-   "real_old": 1999.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1999.0
   },
   {
    "id": "t6df89559812",
@@ -14483,9 +14526,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15781,9 +15821,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -15959,48 +15996,6 @@
    "checked_at": "2026-11-26T01:17:31+00:00",
    "real_price": 41.0,
    "real_old": 110.0
-  },
-  {
-   "id": "tf6f90601d2a",
-   "title": "JAMJAKE Stylus Pen for Apple iPad (6-11th Gen) $5",
-   "price": 4.99,
-   "old_price": 17.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395158-jamjake-stylus-pen-for-ipad-w-palm-rejection-tilt-sensitivity-fast-charging-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
-   "posted": "2026-11-25T16:08:15+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "D65YP6RG",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ed400c9ce98811f19b7122031841647a&au=3089ae0be521407ea82a9a46c068532a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T11:02:53+00:00",
-   "real_price": 4.99,
-   "real_old": 17.99
-  },
-  {
-   "id": "tdf8020337ca",
-   "title": "5000A Jump Starter with 150 PSI Air Compressor,12V Jump Box Battery Charger Booster $34.99",
-   "price": 34.99,
-   "old_price": 99.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395473-5000a-jump-starter-with-150-psi-air-compressor-12v-jump-box-battery-charger-booster-34-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/0/1/1/9/7/4/300x300/22586196.thumb",
-   "posted": "2026-11-25T15:56:16+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "J3LZUMEH",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395473&tid=20395473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e3dcf1d8e93311f1a0576eaa27eb3a45&au=988e2a2a313847e18c36c7e5c119510a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:54:10+00:00",
-   "real_price": 34.99,
-   "real_old": 99.99
   }
  ],
  "tech": [
@@ -18438,7 +18433,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19215,5 +19210,5 @@
    "offers": []
   }
  ],
- "updated": "2026-11-26T11:03:45+00:00"
+ "updated": "2026-11-26T11:09:47+00:00"
 }
