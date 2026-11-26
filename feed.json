@@ -437,7 +437,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&tid=20404392&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=5bc274b6e9a711f193efb6cefa615a1c&au=906e2e54329a42159c161373f183e311&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:40:44+00:00",
+   "checked_at": "2026-11-26T20:43:45+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11380,6 +11380,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tc3e9f919ee4",
+   "title": "Select Stores: Cuisinart 1.1 cu ft. 1000W Digital Countertop Oven Microwave (Black) $50 + Free Store Pickup",
+   "price": 49.99,
+   "old_price": 109.99,
+   "store": "Target",
+   "url": "https://slickdeals.net/f/20371155-cuisinart-1-1-cu-ft-1000w-countertop-microwave-oven-black-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22618755.thumb",
+   "posted": "2026-11-26T20:40:04+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:44:38+00:00",
+   "real_price": 49.99,
+   "real_old": 109.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20371155&pno=1375365&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=3237fedae9da11f1bddc62e3581b13f1&au=a7d86cfc214744c59a2195e5285786f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tad47e85c185",
    "title": "Open Box Excellent: HP OmniBook X Flip 2-in-1: AI 5 430, 14\" WUXGA OLED, 16GB, 512GB $566 + Free S&H",
    "price": 565.99,
@@ -12651,8 +12669,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8fdbc702e9d911f190d23222a1deb999&au=555b802d5596441a99dcb01542477176&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:40:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3393089ce9da11f1afdbaea5cd4c064c&au=20e6db1de3df4f6c9ed42be0ac4bf442&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:44:40+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13532,10 +13550,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404416&tid=20404416&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=914db582e9d911f1b450c29f07f92608&au=8918c626f6e34fa9a59d5db997b9c2c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:40:09+00:00",
    "real_price": 59.99,
-   "real_old": 98.04,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404416&tid=20404416&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=914db582e9d911f1b450c29f07f92608&au=8918c626f6e34fa9a59d5db997b9c2c2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 98.04
   },
   {
    "id": "t7688b095017",
@@ -14920,6 +14938,23 @@
    "real_old": 2699.99
   },
   {
+   "id": "ta71b415feba",
+   "title": "Apple Watch Ultra 4 (GPS + Cellular) 49mm Case with 5G and Satellite Communications $749.99",
+   "price": 749.99,
+   "old_price": null,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20402100-apple-watch-ultra-4-gps-cellular-49mm-case-with-5g-and-satellite-communications-749-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/0/4/7/1/300x300/22603137.thumb",
+   "posted": "2026-11-26T07:14:55+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:44:42+00:00",
+   "real_price": 749.99,
+   "real_old": null
+  },
+  {
    "id": "t2bd5e88566c",
    "title": "DEWALT 20V MAX 2-Tool Brushless Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included) $149 @Lowes",
    "price": 149.0,
@@ -15728,41 +15763,6 @@
    "checked_at": "2026-11-26T07:24:46+00:00",
    "real_price": 149.0,
    "real_old": 249.0
-  },
-  {
-   "id": "tfe52e632e55",
-   "title": "Energizer 10,000mAh 22.5W Slim Power Bank w/ 4 Built-In Cables $14.99 + Free Best Buy Pickup",
-   "price": 14.99,
-   "old_price": 24.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401422-energizer-10-000mah-22-5w-slim-power-bank-w-4-built-in-cables-14-99-free-best-buy-pickup?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22601292.thumb",
-   "posted": "2026-11-26T05:58:36+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:48:43+00:00",
-   "real_price": 14.99,
-   "real_old": 24.99
-  },
-  {
-   "id": "t0d3caf445e4",
-   "title": "Bosch 300 Series 24-in Dishwasher(Stainless Steel) w/ Third Rack, PrecisionWash & PureDry: Front Control $499, Top Control $699 @Lowes",
-   "price": 499.0,
-   "old_price": null,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401413-bosch-300-series-24-in-dishwasher-stainless-steel-w-third-rack-precisionwash-puredry-front-control-499-top-control-699-lowes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22601286.thumb",
-   "posted": "2026-11-26T05:57:45+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401413&tid=20401413&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=65e11fbae99811f1a1efa2c33023a246&au=7ec4f86f56f948bf836748657980ef8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T12:53:38+00:00",
-   "real_price": 499.0
   }
  ],
  "tech": [
@@ -18983,5 +18983,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T20:40:59+00:00"
+ "updated": "2026-11-26T20:45:31+00:00"
 }
