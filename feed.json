@@ -14,13 +14,13 @@
    "posted": "2026-11-26T11:59:57+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T12:02:06+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=32e06e60e99111f191325ab5b1f81fbd&au=8ac140184c094a0ea38d7249c8509c4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T12:02:06+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "0354cdf91ae9",
@@ -35,11 +35,32 @@
    "posted": "2026-11-26T11:59:57+00:00",
    "needs_cat": false,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3429c820e99111f1a8d03a1f0e489800&au=5cb54851bb914f48b11c8a913c508b80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3,
    "checked_at": "2026-11-26T12:02:08+00:00",
-   "category_ok": true,
    "real_price": 29.99,
    "real_old": 39.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3429c820e99111f1a8d03a1f0e489800&au=5cb54851bb914f48b11c8a913c508b80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "category_ok": true
+  },
+  {
+   "id": "0a81fa073860",
+   "title": "Metal Gear Solid: Master Collection Vol.2 (Series X, PS5, Switch 2) $30 + Free S/H",
+   "price": 29.99,
+   "old_price": 49.99,
+   "store": "Best Buy",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20402271-metal-gear-solid-master-collection-vol-2-switch-2-ps5-xsx-29-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22603563.thumb",
+   "posted": "2026-11-26T11:49:09+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-26T12:06:16+00:00",
+   "category_ok": true,
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20402271&pno=1374831&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c840e516e99111f1a8dab625d5cfc78b&au=5331de1226e24e9581431f66f7944487&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3
   },
@@ -3167,28 +3188,6 @@
    "real_price": 30.0,
    "real_old": 59.99,
    "category_ok": true
-  },
-  {
-   "id": "75ecbe5b85ee",
-   "title": "Persona 5 Tactica - Nintendo Switch $10.99 - Amazon",
-   "price": 10.99,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20379432-persona-5-tactica-nintendo-switch-10-99-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22545708.thumb",
-   "posted": "2026-11-23T18:16:20+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "checked_at": "2026-11-24T01:47:31+00:00",
-   "category_ok": true,
-   "real_price": 10.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20379432&tid=20379432&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4e8b9526e77611f198a292d04b02f41b&au=9ffea5bae5124da9a51d4d994f90f195&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "expired": true
   }
  ],
  "deku_checked": "2026-11-26T11:06:47+00:00",
@@ -11573,10 +11572,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403426&tid=20403426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=66aefbd0e99111f1bb8d363e4b0eb360&au=8bc0d8981aaa4978a6d4da777b6016f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:03:33+00:00",
-   "real_price": 199.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403426&tid=20403426&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=66aefbd0e99111f1bb8d363e4b0eb360&au=8bc0d8981aaa4978a6d4da777b6016f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 199.99
   },
   {
    "id": "t0a87b270b3e",
@@ -11789,10 +11787,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:03:37+00:00",
    "real_price": 23.77,
-   "real_old": 39.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.95
   },
   {
    "id": "tbdcde0a2e08",
@@ -11829,6 +11827,24 @@
    "checked_at": "2026-11-26T11:08:51+00:00",
    "real_price": 99.0,
    "real_old": 149.0
+  },
+  {
+   "id": "t3ebd9ceec64",
+   "title": "DEWALT 20V MAX 8 in. Brushless Cordless Battery Powered Mini Pruning Chainsaw (Tool Only) $79 @Home depot",
+   "price": 79.0,
+   "old_price": 146.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20402322-dewalt-20v-max-8-in-brushless-cordless-battery-powered-mini-pruning-chainsaw-tool-only-79-home-depot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603677.thumb",
+   "posted": "2026-11-26T07:59:29+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T12:07:12+00:00",
+   "real_price": 79.0,
+   "real_old": 146.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402322&tid=20402322&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=e94f1192e99111f191c25ab5b1f81fbd&au=5fd3162dd8f44764a0e40a84038c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t15467b3dd32",
@@ -15603,6 +15619,27 @@
    "real_old": 279.99
   },
   {
+   "id": "t4a545c974a7",
+   "title": "NULAS 15-Piece Kitchen Knife Set with Block and Built-In Sharpener (Cream) $20.99 + Free Shipping w/ Prime or orders $35+",
+   "price": 20.99,
+   "old_price": 59.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20396025-nulas-15-piece-kitchen-knife-set-with-block-and-built-in-sharpener-cream-20-99-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/2/3/5/9/2/4/300x300/22587678.thumb",
+   "posted": "2026-11-25T17:12:34+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "RYPU6VEG",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T12:07:14+00:00",
+   "real_price": 20.99,
+   "real_old": 59.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396025&tid=20396025&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ea8ef9f0e99111f1827fa2c33023a246&au=c0f39b581d7f4feaa985697ae47286e4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7e5c499583a",
    "title": "Superone 360° Magnetic Vacuum Suction Car Phone Holder/Mount (Clamp Suction) $6",
    "price": 5.99,
@@ -15902,6 +15939,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -15924,45 +15964,6 @@
    "checked_at": "2026-11-25T16:31:43+00:00",
    "real_price": 16.99,
    "real_old": 25.99
-  },
-  {
-   "id": "t73b666cf98b",
-   "title": "HP 15.6\" FHD AI Laptop, Intel Core Ultra 5 225U (2025), 8GB RAM, 512GB SSD, +9 Hour Battery, Windows 11 Home",
-   "price": 449.99,
-   "old_price": 1149.99,
-   "store": "Staples",
-   "url": "https://slickdeals.net/f/20395725-hp-15-6-fhd-ai-laptop-intel-core-ultra-5-225u-2025-8gb-ram-512gb-ssd-9-hour-battery-windows-11-home?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/6/3/8/300x300/22586934.thumb",
-   "posted": "2026-11-25T16:27:46+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20395725&tid=20395725&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=adb2cf20e8f611f19830d6d7cc460b6f&au=4c4d6c5f7f9140838283707352ae976e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:36:00+00:00",
-   "real_price": 449.99,
-   "real_old": 1149.99
-  },
-  {
-   "id": "t50e8a858c1d",
-   "title": "(refurb) Garmin Instinct 2S Camo Edition Multi-GNSS GPS Smartwatch $149 + Free S/H",
-   "price": 149.0,
-   "old_price": 249.0,
-   "store": "Focus Camera",
-   "url": "https://slickdeals.net/f/20395722-refurb-garmin-instinct-2s-camo-edition-multi-gnss-gps-smartwatch-149-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22586913.thumb",
-   "posted": "2026-11-25T16:26:19+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "code": "FCGI149",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Focus+Camera&sdtid=20395722&tid=20395722&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6b325914e8f511f1affc42d4915b0ba3&au=94fedc098f5a4f4880ddd5de0347734c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:26:59+00:00",
-   "real_price": 149.0,
-   "real_old": 249.0
   }
  ],
  "tech": [
@@ -19183,5 +19184,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T12:05:07+00:00"
+ "updated": "2026-11-26T12:08:09+00:00"
 }
