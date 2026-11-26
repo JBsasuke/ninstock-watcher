@@ -14,13 +14,13 @@
    "posted": "2026-11-26T07:50:52+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T07:51:37+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e35f06e96e11f185149e87e3b1bc03&au=378664482716475785edb25a1862b56d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T07:51:37+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "e6d285c23991",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T07:50:52+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T07:51:39+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3614d918e96e11f1abf89e87e3b1bc03&au=488e6daab5c146a9809f517d258639c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T07:51:39+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "b967d0a00cd0",
@@ -548,7 +548,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&tid=20397321&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=d8b2cc30e90911f192b1f624b5530aa6&au=f11209e24dcd4302ad39191545c60c7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T01:53:19+00:00",
+   "checked_at": "2026-11-26T07:56:12+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -1180,8 +1180,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2744,7 +2742,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20380605&tid=20380605&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=643d3d2ce7a611f1b7d42eafe04cb2a7&au=c424be32e849472297fee4ced57ba55d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T01:53:22+00:00",
+   "checked_at": "2026-11-26T07:56:15+00:00",
    "real_price": 9.99,
    "real_old": 26.24,
    "category_ok": true
@@ -3198,7 +3196,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-26T06:51:47+00:00",
+ "deku_checked": "2026-11-26T07:56:16+00:00",
  "deals": [
   {
    "id": "9b53d0d7fab3",
@@ -7863,7 +7861,7 @@
      "url": "https://www.target.com/p/-/A-1012015069"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7883,7 +7881,7 @@
    "release_date": "2026-10-22",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -7903,7 +7901,7 @@
    "release_date": "2026-10-22",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Inti Creates",
    "digital": {
@@ -7923,7 +7921,7 @@
    "release_date": "2026-10-22",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Feral Interactive",
    "digital": {
@@ -7964,7 +7962,7 @@
      "url": "https://www.walmart.com/ip/21298362073"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "DreadXP",
    "digital": {
@@ -7984,7 +7982,7 @@
    "release_date": "2026-10-22",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SNK",
    "digital": {
@@ -8026,7 +8024,7 @@
      "url": "https://www.target.com/p/-/A-1012019673"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -8073,7 +8071,7 @@
      "url": "https://www.gamestop.com/products/rudolph-the-red-nosed-reindeer-holiday-play-edition/452471.html"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Game Mill",
    "digital": {
@@ -8120,7 +8118,7 @@
      "url": "https://www.target.com/p/-/A-1013040982"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "WB Games",
    "digital": {
@@ -8141,7 +8139,7 @@
    "release_date": "2026-10-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "(株)カプコン",
    "digital": null,
@@ -8159,7 +8157,7 @@
    "release_date": "2026-10-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -8180,7 +8178,7 @@
    "release_date": "2026-10-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -8201,7 +8199,7 @@
    "release_date": "2026-10-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -8222,7 +8220,7 @@
    "release_date": "2026-10-16",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -8264,7 +8262,7 @@
      "url": "https://www.gamestop.com/products/disney-pixar-toy-story-retro-roundup-plus-toy-story-3-complete-edition-double-pack/447433.html"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -8310,7 +8308,7 @@
      "url": "https://www.walmart.com/ip/20193614780"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Natsume",
    "digital": {
@@ -8351,7 +8349,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-island-adventure-friendship-bundle/449955.html"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -8373,7 +8371,7 @@
      "url": "https://www.target.com/p/-/A-1011689708"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -8396,7 +8394,7 @@
      "url": "https://www.amazon.com/dp/B0GWB28TPR"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Gameloft",
    "digital": {
@@ -8443,7 +8441,7 @@
      "url": "https://www.walmart.com/ip/1760590933"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Electronic Arts",
    "digital": {
@@ -8485,7 +8483,7 @@
      "url": "https://www.target.com/p/-/A-1010809630"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Gameloft",
    "digital": {
@@ -8527,7 +8525,7 @@
      "url": "https://www.gamestop.com/products/tormented-souls-2/449233.html"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -8569,7 +8567,7 @@
      "url": "https://www.target.com/p/-/A-1011165391"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Game Source Entertainment",
    "digital": {
@@ -8600,7 +8598,7 @@
      "url": "https://www.gamestop.com/products/the-witchs-bakery/442058.html"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Silver Lining Interactive",
    "digital": {
@@ -8637,7 +8635,7 @@
      "url": "https://www.target.com/p/-/A-1012539829"
     }
    ],
-   "offers_checked": "2026-11-26T01:44:49+00:00",
+   "offers_checked": "2026-11-26T07:56:33+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -9654,7 +9652,7 @@
    "title": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
    "url": "https://www.dekudeals.com/items/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition",
    "image": "https://cdn.dekudeals.com/images/ae3bb0f74ecab38f3d90c3293aaa4693ced1c34d/w540.jpg",
-   "price": null,
+   "price": 89.97,
    "old_price": null,
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
@@ -10032,7 +10030,7 @@
    "title": "Solarpunk",
    "url": "https://www.dekudeals.com/items/solarpunk",
    "image": "https://cdn.dekudeals.com/images/ddaf8a49c59231e063fa6385b36fc4be694fa2de/w540.jpg",
-   "price": 33.99,
+   "price": 35.99,
    "old_price": 39.99,
    "release": "June 8, 2026",
    "release_date": "2026-06-08",
@@ -10608,7 +10606,7 @@
    "title": "Warhammer 40,000: Rogue Trader - Voidfarer Edition",
    "url": "https://www.dekudeals.com/items/warhammer-40000-rogue-trader-voidfarer-edition",
    "image": "https://cdn.dekudeals.com/images/f93fb0e123beea55070b7a9cf47263b654a90584/w540.jpg",
-   "price": 66.49,
+   "price": 63.17,
    "old_price": 69.99,
    "release": null,
    "release_date": null,
@@ -11496,6 +11494,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t15467b3dd32",
+   "title": "Costco: Apple AirPods 5 ANC Wireless Earbuds + 1-Year of AppleCare+ Membership $120 + Free S&H",
+   "price": 119.99,
+   "old_price": 149.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401047-live-11-26-costco-members-airpods-5-w-wireless-charging-case-anc-1-yr-applecare-119-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600530.thumb",
+   "posted": "2026-11-26T07:52:18+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:58:20+00:00",
+   "real_price": 119.99,
+   "real_old": 149.0
+  },
+  {
    "id": "t0769a291399",
    "title": "Prime Members: INIU 25W Magsafe 10000mAh Portable iPhone & Watch $36.55 + Free S&H",
    "price": 36.54,
@@ -11657,6 +11672,24 @@
    "checked_at": "2026-11-26T07:33:56+00:00",
    "real_price": 149.0,
    "real_old": 249.0
+  },
+  {
+   "id": "t499992b3ca4",
+   "title": "Sam's Club Members: 8-Qt Ninja Foodi 6-in-1 Dual Basket Air Fryer w/ DualZone Technology & 2 Broiler Racks $109.72 + Free S/H On orders $50+ for Plus Members",
+   "price": 109.72,
+   "old_price": 149.72,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20401818-sam-s-club-members-8-qt-ninja-foodi-6-in-1-dual-basket-air-fryer-w-dualzone-technology-2-broiler-racks-109-72-free-s-h-on-orders-50-for-plus-members?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22602135.thumb",
+   "posted": "2026-11-26T06:34:19+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:58:22+00:00",
+   "real_price": 109.72,
+   "real_old": 149.72,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401818&tid=20401818&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=265c0914e96f11f1addda25430b2f6ef&au=d7709e7a8117421da9106c74e84b8091&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tea54b628efd",
@@ -13982,9 +14015,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15436,8 +15466,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5558aa2ae96e11f1a64e9e87e3b1bc03&au=790f39acc384456480e89a1139eaee4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:52:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=27a4dd64e96f11f1a153629b19690cf0&au=6998b16a88464538b0ae3ef2b9e3d411&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:58:24+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15812,8 +15842,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5696d100e96e11f1977242e1fd4b2f3d&au=526ca12b8b184811b8aaf2035cee4e3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:52:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=28d9ea3ae96f11f194ae5e2324a64fc5&au=155bf672440c4208bedc6aea43d8331e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:58:26+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15887,42 +15917,6 @@
    "checked_at": "2026-11-25T16:36:03+00:00",
    "real_price": 16.9,
    "real_old": 21.42
-  },
-  {
-   "id": "tb66aac6d4f0",
-   "title": "CRAFTSMAN V20 3/8 in. Brushed Cordless Drill/Driver Kit (Battery & Charger) - $39",
-   "price": 39.0,
-   "old_price": 59.0,
-   "store": "Ace Hardware",
-   "url": "https://slickdeals.net/f/20395050-craftsman-v20-3-8-in-brushed-cordless-drill-driver-kit-battery-charger-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22584867.thumb",
-   "posted": "2026-11-25T15:16:22+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ace+Hardware&sdtid=20395050&tid=20395050&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dfc1abf8e92311f198657e3e3d2b1b81&au=085943ee7d75468c8244f0e433d551b9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:59:31+00:00",
-   "real_price": 39.0,
-   "real_old": 59.0
-  },
-  {
-   "id": "teb60e97c588",
-   "title": "7-Piece Ozark Trail Camping Multitool Set $20",
-   "price": 19.97,
-   "old_price": 24.96,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20352540-ozark-trail-7-piece-camping-multitool-set-with-hammer-axe-flashlight-and-knives-walmart-19-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22478511.thumb",
-   "posted": "2026-11-25T15:11:57+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/5025827505",
-   "checked_at": "2026-11-25T15:13:54+00:00",
-   "real_price": 19.97,
-   "real_old": 24.96
   }
  ],
  "tech": [
@@ -17928,7 +17922,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19131,5 +19125,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T07:53:24+00:00"
+ "updated": "2026-11-26T07:59:14+00:00"
 }
