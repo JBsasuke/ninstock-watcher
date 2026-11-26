@@ -560,13 +560,13 @@
    "posted": "2026-11-26T08:41:49+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T14:59:46+00:00",
-   "category_ok": true,
-   "real_price": 29.99,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=04af9aa2e9aa11f197c5b6ff16efd242&au=569ef0e943234fad827ef73e6aaf3e91&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T14:59:46+00:00",
+   "real_price": 29.99,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "94224b76306d",
@@ -2524,7 +2524,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:04:10+00:00",
+   "checked_at": "2026-11-26T15:04:34+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -2911,7 +2911,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T09:04:12+00:00",
+   "checked_at": "2026-11-26T15:04:37+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11383,6 +11383,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tb0fe8960911",
+   "title": "EGO POWER+ Portable Inverter 400W Power Inverter Generator $119 + Free S&H",
+   "price": 119.99,
+   "old_price": 169.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402433-119-99-ego-power-portable-inverter-400w-power-inverter-generator-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603947.thumb",
+   "posted": "2026-11-26T15:03:48+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:05:34+00:00",
+   "real_price": 119.99,
+   "real_old": 169.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402433&pno=1374960&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d456aba6e9aa11f19220b6cefa615a1c&au=88f2049951c140028ff2b34f35572366&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tb01d351fcb9",
+   "title": "15.3\" Apple MacBook Air (Midnight, 2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $1199 + Free S&H",
+   "price": 1199.0,
+   "old_price": 1499.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20375277-1196-10-15-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-midnight-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22610823.thumb",
+   "posted": "2026-11-26T15:00:24+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:05:36+00:00",
+   "real_price": 1199.0,
+   "real_old": 1499.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375277&pno=1374954&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=d593c490e9aa11f19a3722f078095530&au=57d229712b394471990b4c1b6173ddf5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t23bd945c423",
    "title": "Prime Members: 4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various) from $35.85 + Free S&H",
    "price": 34.87,
@@ -11395,10 +11431,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&pno=1374951&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2902f048e9aa11f18820364af058e52a&au=b9188533b6ba4226aa7e0e243f9b883f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:00:47+00:00",
    "real_price": 34.87,
-   "real_old": 50.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&pno=1374951&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2902f048e9aa11f18820364af058e52a&au=b9188533b6ba4226aa7e0e243f9b883f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 50.98
   },
   {
    "id": "t94a03a660a6",
@@ -12634,6 +12670,24 @@
    "real_old": 999.99
   },
   {
+   "id": "t46fbd86b319",
+   "title": "Ninja Prestige Smart XL Air Fryer & Countertop Oven w/ Pro Cook System $229.99 + Free Shipping",
+   "price": 229.99,
+   "old_price": 429.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401974-ninja-prestige-smart-xl-air-fryer-countertop-oven-w-pro-cook-system-229-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22602762.thumb",
+   "posted": "2026-11-26T06:58:41+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:05:38+00:00",
+   "real_price": 229.99,
+   "real_old": 429.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401974&tid=20401974&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6cdc054e9aa11f1b00822f078095530&au=b4a41e05a7574b8cb9b68f6d344d1697&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t879b6fa5993",
    "title": "$649.99: Apple Watch Ultra 4 (GPS + Cellular) 49mm Natural Titanium Case, Translucent Gray Ocean @Costco",
    "price": 649.99,
@@ -13022,10 +13076,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&tid=20401512&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=2a3be230e9aa11f19c9e6e56611d0c45&au=af8f418a6a9e45e184611c568411b6c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:00:49+00:00",
    "real_price": 679.99,
-   "real_old": 1199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&tid=20401512&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=2a3be230e9aa11f19c9e6e56611d0c45&au=af8f418a6a9e45e184611c568411b6c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1199.99
   },
   {
    "id": "t04543dea2c8",
@@ -13485,8 +13539,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2bd6042ce9aa11f1a6ab8251456b42e1&au=77976bc798f14a7692bd73f021b1edda&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:00:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d81fac06e9aa11f1948d4a9837f95ce6&au=aa1ea3edf4a344a98b8cadfbccfff8c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:05:40+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15674,69 +15728,36 @@
    "checked_at": "2026-11-25T23:13:10+00:00",
    "real_price": 179.0,
    "real_old": 349.0
-  },
-  {
-   "id": "t2711213a289",
-   "title": "AMD Ryzen 7 9800X3D CPU w/ Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler = $369 @ Newegg $369.99",
-   "price": 369.99,
-   "old_price": 506.99,
-   "store": "Newegg",
-   "url": "https://slickdeals.net/f/20397543-amd-ryzen-7-9800x3d-cpu-w-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-newegg-369-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/0/4/9/300x300/22591485.thumb",
-   "posted": "2026-11-25T20:16:17+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "code": "BFF36",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&tid=20397543&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=0ff61704e91111f1baf58e130e7be951&au=8e8591bbeb234e8d8d8ac03001ed219a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:44:52+00:00",
-   "real_price": 369.99,
-   "real_old": 506.99
-  },
-  {
-   "id": "t57ba66531ca",
-   "title": "6\" Seesii Mini Cordless Electric Hand Chainsaw w/ 2x 21V Batteries $19.93 + Free Shipping w/ Prime or on $35+",
-   "price": 19.93,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20397525-6-seesii-mini-cordless-electric-hand-chainsaw-w-2x-21v-batteries-19-93-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22591395.thumb",
-   "posted": "2026-11-25T20:12:24+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "USSEESII",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397525&tid=20397525&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e906c2bee91611f1a0ebf624b5530aa6&au=024ccd62496c4e33a2acc5b599a47f94&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:26:43+00:00",
-   "real_price": 19.93,
-   "real_old": 49.99
-  },
-  {
-   "id": "tbb25c5049a9",
-   "title": "2-Pk Blink Mini 2K+ Compact Plug-In Security Cameras $20",
-   "price": 19.99,
-   "old_price": 79.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20395278-19-99-2-pk-blink-mini-2k-compact-plug-in-security-cameras-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22591425.thumb",
-   "posted": "2026-11-25T20:10:58+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395278&pno=1374069&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7ffeb84ee90c11f19252b261ca017924&au=a78f11ab9883431a8fdacf6ef24b9762&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T20:12:12+00:00",
-   "real_price": 19.99,
-   "real_old": 79.98
   }
  ],
  "tech": [
+  {
+   "id": "tb01d351fcb9",
+   "title": "15.3\" Apple MacBook Air (Midnight, 2026): M5 10-Core Chip, 16GB RAM, 512GB SSD + Free S&H",
+   "price": 1199.0,
+   "old_price": 1499.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375277&pno=1374954&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=d593c490e9aa11f19a3722f078095530&au=57d229712b394471990b4c1b6173ddf5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375277&pno=1374954&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=d593c490e9aa11f19a3722f078095530&au=57d229712b394471990b4c1b6173ddf5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22610823.thumb",
+   "posted": "2026-11-26T15:00:24+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1199.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20375277&pno=1374954&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=d593c490e9aa11f19a3722f078095530&au=57d229712b394471990b4c1b6173ddf5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t23bd945c423",
    "title": "4-Pk 1KG SUNLU Silk PLA 1.75mm 3D Printer Filament (Various) from + Free S&H",
@@ -18937,34 +18958,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398020&tid=20398020&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c252b38e92311f1a3aeaeed97f2da21&au=1eb2bd147d4146538a4ca8fb6d9fc053&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t1ac9b1bc3d0",
-   "title": "HyperX OMEN Laptop: 15.3\" 2.5K 180Hz, Ryzen 9 8940HX, RTX 5070, 16GB, 1TB + Free S&H",
-   "price": 1299.0,
-   "old_price": 2389.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/18183070833",
-   "url": "https://www.walmart.com/ip/18183070833",
-   "image": "https://slickdeals.net/attachment/1/5/0/7/0/1/0/450x450/22529646.thumb",
-   "posted": "2026-11-25T21:27:43+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 1299.0,
-     "url": "https://www.walmart.com/ip/18183070833"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T15:01:48+00:00"
+ "updated": "2026-11-26T15:06:35+00:00"
 }
