@@ -1080,7 +1080,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T03:35:42+00:00",
+   "checked_at": "2026-11-26T05:36:54+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -2261,7 +2261,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=90266894e7c611f1b3705ec92010075f&au=8a07b35984884ff5ba851fc14154cd2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T23:35:11+00:00",
+   "checked_at": "2026-11-26T05:36:49+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -2282,7 +2282,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=915137f8e7c611f1b6415e022035647f&au=7d48aa662676483f842ff13af29fc313&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T23:35:13+00:00",
+   "checked_at": "2026-11-26T05:36:52+00:00",
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
@@ -11478,6 +11478,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t03a812b810e",
+   "title": "RYOBI ONE+ 18V 18-Gauge Brad Nailer & 3/8\" Crown Stapler (Tools Only) $129 + Free S&H",
+   "price": 129.0,
+   "old_price": 248.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20375115-ryobi-one-18v-18-gauge-cordless-brad-nailer-with-compression-drive-cordless-3-8-in-crown-stapler-tools-only-129?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22534143.thumb",
+   "posted": "2026-11-26T05:35:15+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T05:37:53+00:00",
+   "real_price": 129.0,
+   "real_old": 248.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20375115&pno=1374660&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=864f1974e95b11f19ecdda819bccac81&au=3d8e8ecaeda648b4a53d3c341597088d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t1aafec69c20",
    "title": "Refurb Good: 512GB Samsung Galaxy Z Fold7 Unlocked Smartphone (Various) $692 + Free S&H",
    "price": 691.99,
@@ -12276,6 +12294,24 @@
    "real_price": 60.0
   },
   {
+   "id": "t36050171518",
+   "title": "Baseus Bass BP1 NC Wireless ANC Earbuds $12.59 Each When You Buy 4 at Amazon $13.99",
+   "price": 13.99,
+   "old_price": 17.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20399703-baseus-bass-bp1-nc-wireless-anc-earbuds-12-59-each-when-you-buy-4-at-amazon-13-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22596873.thumb",
+   "posted": "2026-11-26T01:18:21+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T05:37:56+00:00",
+   "real_price": 13.99,
+   "real_old": 17.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399703&tid=20399703&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=87febb76e95b11f197eca6a053f33dd7&au=2e19587bc4934dedaf50a88f77c6d915&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td45b7bf4016",
    "title": "Pixel Panda Winter Gloves Men & Women with 3M Thinsulate, Waterproof Ski Gloves $9.79",
    "price": 9.79,
@@ -12313,6 +12349,24 @@
    "checked_at": "2026-11-26T04:09:29+00:00",
    "real_price": 68.99,
    "real_old": 89.99
+  },
+  {
+   "id": "tc59961dec9b",
+   "title": "Status Pro X Wireless Earbuds, Triple Speaker Driver, Hi-Res Audio with LDAC, 52dB ANC, 6 Beamforming Mics with VoiceLoom AI for Clearest Calls (Black Alloy) $149",
+   "price": 149.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20399634-status-pro-x-wireless-earbuds-triple-speaker-driver-hi-res-audio-with-ldac-52db-anc-6-beamforming-mics-with-voiceloom-ai-for-clearest-calls-black-alloy-149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/9/5/4/6/4/8/300x300/22596720.thumb",
+   "posted": "2026-11-26T01:09:01+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T05:37:58+00:00",
+   "real_price": 149.0,
+   "real_old": 249.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399634&tid=20399634&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89496184e95b11f19c43a2e6b809d584&au=fade8698d1614d48ae18d3814df21d04&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t89c28e92b23",
@@ -14662,8 +14716,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dc4cc944e95a11f1892642e1fd4b2f3d&au=7073cc0e3e4447908a24daddd0979110&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:33:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a7698d8e95b11f1bdaca25430b2f6ef&au=09d580431bce4073991028d98ac019d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T05:38:00+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15038,8 +15092,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd853b16e95a11f19984465b432d7ba4&au=ce48a80456e04c138aea5fce2fb0786b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:33:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8c43b9f2e95b11f1ba57962b4cc73ae6&au=59f9f148e2f649898f4b2b0ad5c6b36c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T05:38:03+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15875,60 +15929,6 @@
    "checked_at": "2026-11-25T12:55:43+00:00",
    "real_price": 16.49,
    "real_old": 29.99
-  },
-  {
-   "id": "taea1f6bfc88",
-   "title": "35-Pc Milwaukee SHOCKWAVE Impact Duty Alloy Steel Screw Driver Bit Set $12.95 + Free S&H",
-   "price": 12.97,
-   "old_price": 22.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20392923-milwaukee-shockwave-impact-duty-alloy-steel-screw-driver-bit-set-35-piece-home-depot-12-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579095.thumb",
-   "posted": "2026-11-25T12:48:18+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20392923&pno=1373745&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=e1ba112ae8ce11f1a55aba4d17c5a071&au=ec6c39e0b0604efd9bea4fb3191b5751&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:51:07+00:00",
-   "real_price": 12.97,
-   "real_old": 22.97
-  },
-  {
-   "id": "t6f6b765c20c",
-   "title": "60-Count TUMS Chewy Bites Antacid Tablets (Assorted Berries) $5.13 w/ S&S + Free Shipping w/ Prime or on $35+",
-   "price": 5.13,
-   "old_price": 9.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393895-60-count-tums-chewy-bites-antacid-tablets-assorted-berries-5-13-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581585.thumb",
-   "posted": "2026-11-25T12:45:56+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393895&tid=20393895&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c24c05c4e8d211f1afb2de35afce2d72&au=47ffdabd70ce4b549818eca8b56c7c2a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:18:52+00:00",
-   "real_price": 5.13,
-   "real_old": 9.99
-  },
-  {
-   "id": "tf8e8d8a1a44",
-   "title": "Crucial P3 PCIe Gen3 NVMe 1TB SSD, Up to 3,500MB/s Read, Laptop & Desktop (PC) Compatible, Solid State Drive – CT1000P3SSD8 $71.11",
-   "price": 71.11,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393883-crucial-p3-pcie-gen3-nvme-1tb-ssd-up-to-3-500mb-s-read-laptop-desktop-pc-compatible-solid-state-drive-ct1000p3ssd8-71-11?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/3/7/3/2/0/1/300x300/22581615.thumb",
-   "posted": "2026-11-25T12:44:01+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393883&tid=20393883&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=875f136ee8cf11f184c89ab9921fe0c0&au=00c70be2df0948d2961a3849dfdf6f67&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:55:45+00:00",
-   "real_price": 71.11,
-   "real_old": 89.99
   }
  ],
  "tech": [
@@ -16521,6 +16521,33 @@
    ]
   },
   {
+   "id": "t36050171518",
+   "title": "Baseus Bass BP1 NC Wireless ANC Earbuds Each When You Buy 4",
+   "price": 13.99,
+   "old_price": 17.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399703&tid=20399703&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=87febb76e95b11f197eca6a053f33dd7&au=2e19587bc4934dedaf50a88f77c6d915&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399703&tid=20399703&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=87febb76e95b11f197eca6a053f33dd7&au=2e19587bc4934dedaf50a88f77c6d915&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22596873.thumb",
+   "posted": "2026-11-26T01:18:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 13.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399703&tid=20399703&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=87febb76e95b11f197eca6a053f33dd7&au=2e19587bc4934dedaf50a88f77c6d915&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "td45b7bf4016",
    "title": "Pixel Panda Winter Gloves Men & Women with 3M Thinsulate, Waterproof Ski Gloves",
    "price": 9.79,
@@ -16571,6 +16598,33 @@
      "store": "Walmart",
      "price": 68.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20399643&tid=20399643&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2ce85f00e94f11f18eae56a12d7bd5aa&au=1d9510b821a5432c943500c76fdc5dca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tc59961dec9b",
+   "title": "Status Pro X Wireless Earbuds, Triple Speaker Driver, Hi-Res Audio with LDAC, 52dB ANC, 6 Beamforming Mics with VoiceLoom AI for Clearest Calls (Black Alloy)",
+   "price": 149.0,
+   "old_price": 249.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399634&tid=20399634&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89496184e95b11f19c43a2e6b809d584&au=fade8698d1614d48ae18d3814df21d04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399634&tid=20399634&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89496184e95b11f19c43a2e6b809d584&au=fade8698d1614d48ae18d3814df21d04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/9/5/4/6/4/8/300x300/22596720.thumb",
+   "posted": "2026-11-26T01:09:01+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 149.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399634&tid=20399634&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=89496184e95b11f19c43a2e6b809d584&au=fade8698d1614d48ae18d3814df21d04&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18635,8 +18689,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dc4cc944e95a11f1892642e1fd4b2f3d&au=7073cc0e3e4447908a24daddd0979110&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dc4cc944e95a11f1892642e1fd4b2f3d&au=7073cc0e3e4447908a24daddd0979110&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a7698d8e95b11f1bdaca25430b2f6ef&au=09d580431bce4073991028d98ac019d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a7698d8e95b11f1bdaca25430b2f6ef&au=09d580431bce4073991028d98ac019d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18652,7 +18706,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dc4cc944e95a11f1892642e1fd4b2f3d&au=7073cc0e3e4447908a24daddd0979110&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8a7698d8e95b11f1bdaca25430b2f6ef&au=09d580431bce4073991028d98ac019d8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18905,8 +18959,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd853b16e95a11f19984465b432d7ba4&au=ce48a80456e04c138aea5fce2fb0786b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd853b16e95a11f19984465b432d7ba4&au=ce48a80456e04c138aea5fce2fb0786b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8c43b9f2e95b11f1ba57962b4cc73ae6&au=59f9f148e2f649898f4b2b0ad5c6b36c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8c43b9f2e95b11f1ba57962b4cc73ae6&au=59f9f148e2f649898f4b2b0ad5c6b36c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18922,7 +18976,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=dd853b16e95a11f19984465b432d7ba4&au=ce48a80456e04c138aea5fce2fb0786b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8c43b9f2e95b11f1ba57962b4cc73ae6&au=59f9f148e2f649898f4b2b0ad5c6b36c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19087,61 +19141,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te133b0b68cc",
-   "title": "Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.0/MagSafe PowerBank, Portable Charger, 2 Outputs, LED Display, & USB-C - Black",
-   "price": 15.99,
-   "old_price": 34.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&tid=20394666&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b8ff3fd8e8ee11f18b677697f74658a6&au=b09e702b49fa4415a08e44e9039976e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&tid=20394666&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b8ff3fd8e8ee11f18b677697f74658a6&au=b09e702b49fa4415a08e44e9039976e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22587426.thumb",
-   "posted": "2026-11-25T14:39:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 15.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&tid=20394666&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b8ff3fd8e8ee11f18b677697f74658a6&au=b09e702b49fa4415a08e44e9039976e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tbcef30ff191",
-   "title": "UGREEN - Nexode 145W Laptop Power Bank, 25,000mAh Portable Charger with 240W USB-C Cable, 3-Port Fast Charging, Airline Approved",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22583604.thumb",
-   "posted": "2026-11-25T14:35:44+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394624&tid=20394624&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c53b851ce8f411f19f9ef2c8783961b3&au=4b82f265a4404d308aee819dba72004f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T05:34:03+00:00"
+ "updated": "2026-11-26T05:38:50+00:00"
 }
