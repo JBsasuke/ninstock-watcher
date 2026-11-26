@@ -455,13 +455,13 @@
    "posted": "2026-11-26T13:27:01+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T19:02:28+00:00",
-   "category_ok": true,
-   "real_price": 17.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404215&tid=20404215&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec77764ae9cb11f18f715e2324a64fc5&au=41596e04ef994eb6bfc07585ee873417&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T19:02:28+00:00",
+   "real_price": 17.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "0d7e4ed23a9e",
@@ -1256,7 +1256,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:06:40+00:00",
+   "checked_at": "2026-11-26T19:07:05+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -1277,7 +1277,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1360fd90e93511f19599b274a813cae0&au=a312dbac093d44beb6022968d6b76965&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T13:06:42+00:00",
+   "checked_at": "2026-11-26T19:07:07+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -11356,6 +11356,24 @@
  ],
  "raw_tech": [
   {
+   "id": "ta80a244039a",
+   "title": "MountFTV Full Motion TV Wall Mount Bracket for 26-74\" TVs (Up to 110 lbs) $14.90",
+   "price": 14.89,
+   "old_price": 42.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20388459-mountftv-full-motion-tv-wall-mount-bracket-for-26-74-tvs-up-to-110-lbs-14-89-free-shipping-w-walmart-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22567776.thumb",
+   "posted": "2026-11-26T19:03:53+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:07:59+00:00",
+   "real_price": 14.89,
+   "real_old": 42.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te6a5da885e2",
    "title": "Shark IY143H Cordless Pet Cordless Lightweight Stick Vacuum Cleaner $160 + Free S&H",
    "price": 159.99,
@@ -12003,8 +12021,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0ec675c0e9cc11f1b25286ba077fd58f&au=4e96d2536ccc4c10a8b606f74ec29000&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:03:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2ae1bc0e9cc11f1b0b6a27f351ed2dc&au=408d2fc8f1bd4270bec3c8cfd040d401&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:08:01+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12579,6 +12597,24 @@
    "checked_at": "2026-11-26T16:17:25+00:00",
    "real_price": 99.0,
    "real_old": 199.0
+  },
+  {
+   "id": "t5c7e9cecc6f",
+   "title": "RYOBI ONE+ 18V 12 in. Cordless Battery 3-in-1 Mower, String Trimmer, and Edger with 4.0 Ah Battery & Charger $149",
+   "price": 149.0,
+   "old_price": 209.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20404860-ryobi-one-18v-12-in-cordless-battery-3-in-1-mower-string-trimmer-and-edger-with-4-0-ah-battery-charger-149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22610241.thumb",
+   "posted": "2026-11-26T14:42:37+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T19:08:04+00:00",
+   "real_price": 149.0,
+   "real_old": 209.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404860&tid=20404860&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b4a81b38e9cc11f193a9724e84f11dbb&au=720563fe9de3407a8b8f030c9f8e4014&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9229a934719",
@@ -13506,10 +13542,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401377&pno=1374804&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=0ff6fca8e9cc11f1921342dacabf1a1c&au=e41694a4fac84d0292d9a8903158e59f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:03:28+00:00",
    "real_price": 999.0,
-   "real_old": 1299.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401377&pno=1374804&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=0ff6fca8e9cc11f1921342dacabf1a1c&au=e41694a4fac84d0292d9a8903158e59f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1299.0
   },
   {
    "id": "t1cce1ba0673",
@@ -15382,8 +15418,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1123b382e9cc11f1804b5220b6b219d0&au=f76aee196f564042b5cfc34f85986c5e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:03:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b5d9a29ce9cc11f18e39deb14ba7c7e6&au=f3e640ead8ed47c1ab5596a153c2115e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T19:08:06+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15696,43 +15732,36 @@
    "checked_at": "2026-11-26T03:55:02+00:00",
    "real_price": 33.99,
    "real_old": 84.99
-  },
-  {
-   "id": "td3fc2bbba0e",
-   "title": "Bose QuietComfort SC Noise-Cancelling Headphones (2nd Gen) $179.99",
-   "price": 179.99,
-   "old_price": 319.99,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20400522-bose-quietcomfort-sc-noise-cancelling-headphones-2nd-gen-179-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/4/7/6/3/8/1/300x300/22599324.thumb",
-   "posted": "2026-11-26T03:49:18+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-26T04:32:44+00:00",
-   "real_price": 179.99,
-   "real_old": 319.99
-  },
-  {
-   "id": "t87c75ef6e7d",
-   "title": "Bose QuietComfort SC Noise-Cancelling Headphones (2nd Gen) $179.99 @Costco",
-   "price": 179.99,
-   "old_price": 319.99,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20400522-bose-quietcomfort-sc-noise-cancelling-headphones-2nd-gen-179-99-costco?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22599930.thumb",
-   "posted": "2026-11-26T03:49:18+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-26T04:41:58+00:00",
-   "real_price": 179.99,
-   "real_old": 319.99
   }
  ],
  "tech": [
+  {
+   "id": "ta80a244039a",
+   "title": "MountFTV Full Motion TV Wall Mount Bracket for 26-74\" TVs (Up to 110 lbs)",
+   "price": 14.89,
+   "old_price": 42.99,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22567776.thumb",
+   "posted": "2026-11-26T19:03:53+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 14.89,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "teb090339862",
    "title": "Abercrombie & Finch Black Friday Sale: 25% - 50% Off + Add'l 15% Off",
@@ -18921,34 +18950,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&pno=1374624&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2fc6eeb6e95511f1897e5e89a443bde0&au=f0dcb280270a41a0aa2e9dd0fd152764&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tcfd4af09400",
-   "title": "Logitech G502 HERO Wired Gaming Mouse",
-   "price": 29.99,
-   "old_price": 69.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
-   "posted": "2026-11-26T04:25:55+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 29.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T19:04:18+00:00"
+ "updated": "2026-11-26T19:08:53+00:00"
 }
