@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "ac0c82b3bc9b",
+   "title": "256GB Nintendo Switch 2 Console + Mario Kart World Bundle $500 or less + Free S&H",
+   "price": 499.99,
+   "old_price": 549.99,
+   "store": "Nintendo",
+   "kind": "hardware",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20298264-nintendo-black-friday-2026-switch-2-mario-kart-world-bundle-500-20-off-select-games-more-starts-11-22?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22611927.thumb",
+   "posted": "2026-11-26T15:47:20+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:51:49+00:00",
+   "category_ok": true,
+   "real_price": 499.99,
+   "real_old": 549.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "96564747b151",
    "title": "Super Mario Bros. Wonder - Nintendo Switch - U.S. Edition $47.98",
    "price": 47.98,
@@ -3173,31 +3194,35 @@
    "real_price": 45.2,
    "real_old": 59.99,
    "category_ok": true
-  },
-  {
-   "id": "0522e5ebee78",
-   "title": "Trails in the Sky 2nd Chapter (Switch) $45.20 + Free Shipping",
-   "price": 45.2,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20383662-trails-in-the-sky-2nd-chapter-switch-45-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22555269.thumb",
-   "posted": "2026-11-24T05:17:24+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20383662&tid=20383662&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=915137f8e7c611f1b6415e022035647f&au=7d48aa662676483f842ff13af29fc313&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-26T11:38:35+00:00",
-   "real_price": 45.2,
-   "real_old": 59.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-26T15:14:12+00:00",
  "deals": [
+  {
+   "id": "25c15a3e6990",
+   "title": "256GB Nintendo Switch 2 Console + Mario Kart World Bundle or less + Free S&H",
+   "price": 499.99,
+   "old_price": 549.99,
+   "store": "Nintendo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Nintendo",
+     "price": 499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22611927.thumb",
+   "kind": "hardware",
+   "collector": false,
+   "posted": "2026-11-26T15:47:20+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "329a3d50c2a7",
    "title": "Super Mario Bros. Wonder - Nintendo Switch - U.S. Edition",
@@ -11397,10 +11422,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:48:05+00:00",
    "real_price": 29.99,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "t134164a57f1",
@@ -11418,10 +11443,10 @@
    "code": "B6DIX4IS",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:48:08+00:00",
    "real_price": 15.29,
-   "real_old": 26.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 26.99
   },
   {
    "id": "tc031e7b53cb",
@@ -11436,10 +11461,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402316&pno=1375038&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c77addb6e9b011f180de9258ce27cbc4&au=aefe88fc552949d2b64ef9095415727f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:48:09+00:00",
    "real_price": 99.0,
-   "real_old": 158.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402316&pno=1375038&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c77addb6e9b011f180de9258ce27cbc4&au=aefe88fc552949d2b64ef9095415727f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 158.99
   },
   {
    "id": "t2facd655815",
@@ -12257,10 +12282,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:48:11+00:00",
    "real_price": 3999.0,
-   "real_old": 4299.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20403555&tid=20403555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa8c0e9b011f1a9c83a71cb392a8d&au=85738c3fcc6f46598b1a6d482ee58272&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 4299.0
   },
   {
    "id": "t818441d85d9",
@@ -12868,6 +12893,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -12995,10 +13023,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T15:48:14+00:00",
    "real_price": 550.0,
-   "real_old": 1170.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401986&tid=20401986&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c9e2b6b4e9b011f1925fc6fbfd7e8f75&au=859ac46559b944b8a22e3f738bf1e549&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1170.0
   },
   {
    "id": "tf09149e7e48",
@@ -13682,6 +13710,24 @@
    "real_price": 55.0
   },
   {
+   "id": "t7d392cc51eb",
+   "title": "Apple MacBook Pro (2026): 14\", M6, 32GB RAM, 1TB SSD, Space Black, 96W Power Adapter $2199",
+   "price": 2199.0,
+   "old_price": 2419.0,
+   "store": "B&H Photo Video",
+   "url": "https://slickdeals.net/f/20401356-apple-macbook-pro-2026-14-m6-32gb-ram-1tb-ssd-space-black-96w-power-adapter-2199?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601199.thumb",
+   "posted": "2026-11-26T05:50:56+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T15:52:46+00:00",
+   "real_price": 2199.0,
+   "real_old": 2419.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9880b36208f",
    "title": "Refoss EM16P Smart Home Energy Monitor w/ 16 60A & 2 200A Circuit Sensors $151.98 + Free Shipping",
    "price": 151.98,
@@ -13888,8 +13934,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=cb1956aae9b011f18199122c8b79d062&au=c3b8133961b04df0818d77c5f580e27f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:48:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6dd0b550e9b111f1963a6e49032631c4&au=b2c93e028c354a29b06734c76e49a68a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T15:52:49+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15719,24 +15765,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398170&tid=20398170&prop=diavail-true%7Cdincp-0%7Cdinpd-18%7Cdipgavail-true&pv=0a9f0ddae91e11f1bf127e3e3d2b1b81&au=614b2594efa841208faa47b7630796f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T22:17:46+00:00",
    "real_price": 159.95
-  },
-  {
-   "id": "t9e140848596",
-   "title": "29-Pc Bosch Gold Oxide Drill Bits Set w/ Holding Case (Assorted Sizes) $31",
-   "price": 30.99,
-   "old_price": 71.49,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20373276-29-pc-bosch-gold-oxide-drill-bits-set-w-holding-case-assorted-sizes-31?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22593000.thumb",
-   "posted": "2026-11-25T21:47:03+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20373276&pno=1374156&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=1d632586e91a11f1bb738a1cdd17fe9c&au=aec9bd90e5f842718479dd47d5bb2d27&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T21:49:40+00:00",
-   "real_price": 30.99,
-   "real_old": 71.49
   }
  ],
  "tech": [
@@ -15764,6 +15792,33 @@
      "store": "Amazon",
      "price": 29.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=c4afcb5ae9b011f19d7f2ec840f31db7&au=c97b7e98702c4a83877a21f1b01fbb62&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t134164a57f1",
+   "title": "5000mAh LISEN Wireless Qi2 15W Ultra Slim MagSafe Power Bank (Ice Grey)",
+   "price": 15.29,
+   "old_price": 26.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22610385.thumb",
+   "posted": "2026-11-26T15:44:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "B6DIX4IS",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 15.29,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -15926,33 +15981,6 @@
      "store": "Amazon",
      "price": 369.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402367&pno=1374942&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7eedf436e9a911f18b826e56611d0c45&au=e7d860cc36074905b41a762daa4518c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t38f304f0cda",
-   "title": "5000mAh LISEN Wireless Qi2 15W Ultra Slim MagSafe Power Bank (Ice Grey)",
-   "price": 15.29,
-   "old_price": 26.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&tid=20404956&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5c2f3a56e9ac11f19a4c92c94877e7b0&au=6a1b2a5017e14e74a12bc848829c47c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&tid=20404956&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5c2f3a56e9ac11f19a4c92c94877e7b0&au=6a1b2a5017e14e74a12bc848829c47c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22610385.thumb",
-   "posted": "2026-11-26T14:50:10+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "B6DIX4IS",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 15.29,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&tid=20404956&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5c2f3a56e9ac11f19a4c92c94877e7b0&au=6a1b2a5017e14e74a12bc848829c47c2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16917,7 +16945,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17677,6 +17705,33 @@
    "code_until": null,
    "promo": "Up to 98% Off",
    "offers": []
+  },
+  {
+   "id": "t7d392cc51eb",
+   "title": "Apple MacBook Pro (2026): 14\", M6, 32GB RAM, 1TB SSD, Space Black, 96W Power Adapter",
+   "price": 2199.0,
+   "old_price": 2419.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601199.thumb",
+   "posted": "2026-11-26T05:50:56+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "B&H Photo Video",
+     "price": 2199.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20401356&tid=20401356&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c547c98e9b111f1a8280e5cc43dfd9a&au=add79a1d531147e9b1605f9cf7aad13e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
   },
   {
    "id": "t9880b36208f",
@@ -18940,34 +18995,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398548&tid=20398548&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b11e838ae92711f18d9dc231e35cebb8&au=d854aa3b4d174fa8821ca231726c70f4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t956e011381b",
-   "title": "AMD Ryzen 7 9800X3D Desktop Processor + Rosewill FROSTMAX AIO CPU Cooler + Free S&H",
-   "price": 369.99,
-   "old_price": 506.99,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/0/4/9/300x300/22591485.thumb",
-   "posted": "2026-11-25T22:39:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": "BFF36",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 369.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397543&pno=1374207&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=dc9a6ec6e92111f196b106ef8cb116b0&au=00ecf608be93443492ec30e32690c581&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T15:49:04+00:00"
+ "updated": "2026-11-26T15:53:43+00:00"
 }
