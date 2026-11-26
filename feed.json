@@ -1537,6 +1537,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2466,7 +2468,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7d643c92e7f611f1a6d6e6d967342077&au=c42b0c9637f34c408f43a90b677d6163&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:13:21+00:00",
+   "checked_at": "2026-11-26T11:15:26+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -2487,7 +2489,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=7e96df3ee7f611f1bef92e7fc0556dec&au=7ba28ce00ade4f6581f38ca4a2f13771&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:13:23+00:00",
+   "checked_at": "2026-11-26T11:15:28+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11724,10 +11726,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:11:46+00:00",
    "real_price": 34.87,
-   "real_old": 50.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402484&tid=20402484&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2abacbe2e98a11f19fc67e4bfefc3adc&au=38976ba6d91a4fb79c2fd51bb24181d2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 50.98
   },
   {
    "id": "t2ac381312ea",
@@ -11760,10 +11762,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402433&tid=20402433&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2bd65e88e98a11f186667e23634e417e&au=67e028685d4e435d945dd382e959ce87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T11:11:47+00:00",
    "real_price": 119.99,
-   "real_old": 169.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402433&tid=20402433&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2bd65e88e98a11f186667e23634e417e&au=67e028685d4e435d945dd382e959ce87&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 169.99
   },
   {
    "id": "tbdcde0a2e08",
@@ -14560,6 +14562,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15855,9 +15860,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -18458,7 +18460,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19214,5 +19216,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T11:12:40+00:00"
+ "updated": "2026-11-26T11:17:18+00:00"
 }
