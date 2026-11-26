@@ -1306,8 +1306,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11515,6 +11513,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t2ac381312ea",
+   "title": "13.6\" Apple MacBook Air Laptop w/ M5, 16GB RAM & 512GB SSD (Silver) $999.99 + Free Shipping",
+   "price": 999.99,
+   "old_price": 1299.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402466-13-6-apple-macbook-air-laptop-w-m5-16gb-ram-512gb-ssd-silver-999-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22604046.thumb",
+   "posted": "2026-11-26T08:11:11+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T08:38:08+00:00",
+   "real_price": 999.99,
+   "real_old": 1299.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402466&tid=20402466&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=b47a3090e97411f18200deb14ba7c7e6&au=43d32cab5b8740f7914157d705b9f3af&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t15467b3dd32",
    "title": "Costco: Apple AirPods 5 ANC Wireless Earbuds + 1-Year of AppleCare+ Membership $120 + Free S&H",
    "price": 119.99,
@@ -14071,6 +14087,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15540,8 +15559,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=13a3b65ae97411f1a92e7e23634e417e&au=00f5f58b5f214706a0a09d5eb05d20fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T08:33:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b59a697ce97411f1b644162b3dda2a12&au=720f5e34ffc04be0b4f044b5f89c8815&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T08:38:10+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15895,9 +15914,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -15919,31 +15935,40 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=14fbfa3ae97411f191e05e2324a64fc5&au=acf6e7b7cb49403dbf74f753d811d9f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T08:33:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=b6ad617ae97411f1b8529e87e3b1bc03&au=98ecec276c9a4dfdb8f4638b8fcdb777&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T08:38:11+00:00",
    "real_price": 4.99,
    "real_old": 17.99
-  },
-  {
-   "id": "tdc24c5a98f8",
-   "title": "Ninja Crispi Pro 6-in-1 Glass Air Fryer (Various Colors) +FREE Express Chop & 6-Quart Glass Container $249.99",
-   "price": 249.99,
-   "old_price": 299.99,
-   "store": "SharkNinja",
-   "url": "https://slickdeals.net/f/20395155-ninja-crispi-pro-6-in-1-glass-air-fryer-various-colors-free-express-chop-6-quart-glass-container-249-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22585413.thumb",
-   "posted": "2026-11-25T15:24:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SharkNinja&sdtid=20395155&tid=20395155&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aef0d44e92811f1ac68ea4aec2cb756&au=b36491f643224506abddf8f1dd67bd01&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:31:36+00:00",
-   "real_price": 249.99,
-   "real_old": 299.99
   }
  ],
  "tech": [
+  {
+   "id": "t2ac381312ea",
+   "title": "13.6\" Apple MacBook Air Laptop",
+   "price": 999.99,
+   "old_price": 1299.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402466&tid=20402466&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=b47a3090e97411f18200deb14ba7c7e6&au=43d32cab5b8740f7914157d705b9f3af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402466&tid=20402466&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=b47a3090e97411f18200deb14ba7c7e6&au=43d32cab5b8740f7914157d705b9f3af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22604046.thumb",
+   "posted": "2026-11-26T08:11:11+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 999.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402466&tid=20402466&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=b47a3090e97411f18200deb14ba7c7e6&au=43d32cab5b8740f7914157d705b9f3af&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t0769a291399",
    "title": "INIU 25W Magsafe 10000mAh Portable iPhone & Watch + Free S&H",
@@ -17973,7 +17998,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19120,34 +19145,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20395764&tid=20395764&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=c68c088ae90611f1998d3ea1188bd8d8&au=712912d00f6742099bb19513f3fcea84&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6fe23ca209e",
-   "title": "Refurb/Grade A Unit: 32GB Apple iPad 10.2\" Unlocked Tablet (Silver) & More + Free S&H",
-   "price": 80.99,
-   "old_price": 89.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22587033.thumb",
-   "posted": "2026-11-25T16:32:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": true,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 80.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T08:34:32+00:00"
+ "updated": "2026-11-26T08:39:01+00:00"
 }
