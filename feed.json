@@ -14,13 +14,13 @@
    "posted": "2026-11-26T18:28:08+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T18:29:47+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 60.0,
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T18:29:47+00:00",
+   "real_price": 30.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "36bf4923d222",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T18:28:08+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T18:29:49+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 60.0,
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T18:29:49+00:00",
+   "real_price": 30.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "26b1bda68ded",
@@ -2025,7 +2025,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=8a58f4a8e8cb11f18b3f9619659f957d&au=646680a4f7be4f739ef59e1a27defd70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T12:33:47+00:00",
+   "checked_at": "2026-11-26T18:34:27+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -11399,6 +11399,24 @@
    "real_old": 29.98
   },
   {
+   "id": "t7effef85d51",
+   "title": "$500 BEST BUY Samsung - 75\" Class M70H Series Mini LED 4K UHD SamsungVision AI Smart Tizen TV (2026)",
+   "price": 144.0,
+   "old_price": 145.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20407086-500-best-buy-samsung-75-class-m70h-series-mini-led-4k-uhd-samsungvision-ai-smart-tizen-tv-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22615404.thumb",
+   "posted": "2026-11-26T18:01:49+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T18:35:22+00:00",
+   "real_price": 144.0,
+   "real_old": 145.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407086&tid=20407086&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=2333d538e9c811f1998ce2457af02e11&au=e8a4e154579a450cae8a21dbe9a3eec9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t0ace3576271",
    "title": "JLab: Go Pop Earbuds from $16, Go Air Pop+ Earbuds from $14.55 & More",
    "price": 14.53,
@@ -11436,6 +11454,24 @@
    "checked_at": "2026-11-26T17:49:20+00:00",
    "real_price": 279.99,
    "real_old": 359.99
+  },
+  {
+   "id": "td30b3d8af13",
+   "title": "$7.49 | Funko POP! TV: Breaking Bad - Heisenberg at Amazon",
+   "price": 7.49,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406873-7-49-funko-pop-tv-breaking-bad-heisenberg-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614864.thumb",
+   "posted": "2026-11-26T17:35:45+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T18:35:25+00:00",
+   "real_price": 7.49,
+   "real_old": 14.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t1afd7761551",
@@ -11897,8 +11933,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7ddde3eee9c711f1ba79fa7163641875&au=e888ee6f27df4effa01844917d32b752&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:30:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=273edc72e9c811f1ba2ecacf745f6c13&au=c0aa77291528407982b08f680eeee974&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:35:29+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12559,9 +12595,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15240,8 +15273,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7ef26fa2e9c711f1bf3e16740769c663&au=fe58a8e435da405da188be1697b2f248&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:30:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2867d07ce9c811f180ea2aa2fa8ebb8a&au=01648b80b2e445e6bef1666f56f7a488&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T18:35:30+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15716,45 +15749,36 @@
    "checked_at": "2026-11-26T06:19:42+00:00",
    "real_price": 48.99,
    "real_old": 99.99
-  },
-  {
-   "id": "t1d476af4bfc",
-   "title": "(Open Box) JLab JBuds Lux Wireless Noise-Canceling Over-Ear Headphones Graphite $15",
-   "price": 15.0,
-   "old_price": 49.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20400372-open-box-jlab-jbuds-lux-wireless-noise-canceling-over-ear-headphones-graphite-15?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/8/7/8/5/1/0/300x300/22599072.thumb",
-   "posted": "2026-11-26T03:11:06+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20400372&tid=20400372&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=77dc8864e95011f1b42b8e68eba1504d&au=d31e5cc745b64016aa9de6237cd1bb69&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:18:44+00:00",
-   "real_price": 15.0,
-   "real_old": 49.99
-  },
-  {
-   "id": "tc91bae47298",
-   "title": "(Open Box) JLab JBuds Lux Wireless Noise-Canceling Over-Ear Headphones Graphite $15 at VIPOUTLET via Walmart",
-   "price": 15.0,
-   "old_price": 49.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20400372-open-box-jlab-jbuds-lux-wireless-noise-canceling-over-ear-headphones-graphite-15-at-vipoutlet-via-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/8/7/8/5/1/0/300x300/22599072.thumb",
-   "posted": "2026-11-26T03:11:06+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20400372&tid=20400372&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ebb5faae95411f18fb856a12d7bd5aa&au=d0c3219eb2d04f318c5ef46a9565e4dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:46:40+00:00",
-   "real_price": 15.0,
-   "real_old": 49.99
   }
  ],
  "tech": [
+  {
+   "id": "t7effef85d51",
+   "title": "BEST BUY Samsung - 75\" Class M70H Series Mini LED 4K UHD SamsungVision AI Smart Tizen TV (2026)",
+   "price": 144.0,
+   "old_price": 145.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407086&tid=20407086&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=2333d538e9c811f1998ce2457af02e11&au=e8a4e154579a450cae8a21dbe9a3eec9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407086&tid=20407086&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=2333d538e9c811f1998ce2457af02e11&au=e8a4e154579a450cae8a21dbe9a3eec9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22615404.thumb",
+   "posted": "2026-11-26T18:01:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 144.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407086&tid=20407086&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=2333d538e9c811f1998ce2457af02e11&au=e8a4e154579a450cae8a21dbe9a3eec9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t0ace3576271",
    "title": "JLab: Go Pop Earbuds",
@@ -15806,6 +15830,33 @@
      "store": "Amazon",
      "price": 279.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378739&pno=1375209&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b519c676e9c111f19570da3956e5e6bc&au=5e036fdb22964ae78c40bdc3befba928&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "td30b3d8af13",
+   "title": "Funko POP! TV: Breaking Bad - Heisenberg",
+   "price": 7.49,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614864.thumb",
+   "posted": "2026-11-26T17:35:45+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 7.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18928,55 +18979,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20329446&pno=1374591&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=28e02c30e94f11f1bc65629b19690cf0&au=9856159b2fac431194754680263b29da&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t4d5b9673571",
-   "title": "Airalo eSIM e-Sim Packages 25% Off & More",
-   "price": null,
-   "old_price": null,
-   "store": "Airalo",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Airalo&sdtid=20370219&pno=1374549&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca9c9ac0e95111f1ae8abe3f5266b794&au=31828e1f9fb241f0aa565e9dbc991928&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Airalo&sdtid=20370219&pno=1374549&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca9c9ac0e95111f1ae8abe3f5266b794&au=31828e1f9fb241f0aa565e9dbc991928&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/300x300/22599246.thumb",
-   "posted": "2026-11-26T03:35:03+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "BLACK25",
-   "code_until": null,
-   "promo": "25% Off",
-   "offers": []
-  },
-  {
-   "id": "tb2bfb37de49",
-   "title": "Prime: Refoss 16-Circuit Smart Home Energy Monitor",
-   "price": 151.97,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378886&pno=1374546&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=966e4c82e94a11f1bec2b274a813cae0&au=7ee8394ac572495c845344f6efe6acab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378886&pno=1374546&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=966e4c82e94a11f1bec2b274a813cae0&au=7ee8394ac572495c845344f6efe6acab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22544202.thumb",
-   "posted": "2026-11-26T03:30:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 151.97,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378886&pno=1374546&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=966e4c82e94a11f1bec2b274a813cae0&au=7ee8394ac572495c845344f6efe6acab&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T18:31:40+00:00"
+ "updated": "2026-11-26T18:36:25+00:00"
 }
