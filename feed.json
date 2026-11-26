@@ -14,13 +14,13 @@
    "posted": "2026-11-26T22:33:10+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T22:34:56+00:00",
-   "category_ok": true,
-   "real_price": 47.98,
-   "real_old": 59.0,
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T22:34:56+00:00",
+   "real_price": 47.98,
+   "real_old": 59.0,
+   "category_ok": true
   },
   {
    "id": "4aa8f2efda35",
@@ -11504,6 +11504,24 @@
    "real_old": 149.0
   },
   {
+   "id": "t233d0359319",
+   "title": "ECOVACS DEEBOT T90 Pro Omni Care Robot Vacuum & Mop w/ 30,000Pa Suction $549 + Free Shipping",
+   "price": 549.0,
+   "old_price": 849.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20408556-ecovacs-deebot-t90-pro-omni-care-robot-vacuum-mop-w-30-000pa-suction-549-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22619163.thumb",
+   "posted": "2026-11-26T21:03:23+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T22:40:37+00:00",
+   "real_price": 549.0,
+   "real_old": 849.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408556&tid=20408556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6623098ce9ea11f1af7866ac4217ae9d&au=94844a9cc58047f2b3e343043c53759e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tdd7cf9c8b75",
    "title": "BOSGAME E5 11 Pro Mini PC, AMD Ryzen 5400U 4C/ 8T, 8GB DDR4 256GB M.2 2280 SSD, 2.5 GbE Dual Lan $189.99",
    "price": 189.99,
@@ -12983,8 +13001,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=be108918e9e911f18a1d2e7ef2a57ec1&au=f478c8f8451f47b4a97d05f04a2f1253&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:35:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6786d4fce9ea11f1b63ff2cd9e213daf&au=20a8654f5afd49e1a75b7a534f7bf6c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T22:40:39+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15743,23 +15761,6 @@
    "checked_at": "2026-11-26T06:38:47+00:00",
    "real_price": 649.99,
    "real_old": 799.0
-  },
-  {
-   "id": "t003ef2f7ec4",
-   "title": "[11/26 12am PT] Costco: Apple AirPods Pro 3 ANC Wireless Earbuds + 2 Years AppleCare+ $150 + Free S&H",
-   "price": 149.99,
-   "old_price": 249.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20400945-11-26-12am-pt-costco-apple-airpods-pro-3-anc-wireless-earbuds-2-years-applecare-150-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600224.thumb",
-   "posted": "2026-11-26T06:36:16+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-26T06:38:49+00:00",
-   "real_price": 149.99,
-   "real_old": 249.0
   }
  ],
  "tech": [
@@ -18986,5 +18987,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T22:36:57+00:00"
+ "updated": "2026-11-26T22:41:30+00:00"
 }
