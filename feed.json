@@ -1913,13 +1913,13 @@
    "posted": "2026-11-25T17:50:48+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T23:38:56+00:00",
-   "category_ok": true,
-   "real_price": 28.53,
-   "real_old": 44.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396373&tid=20396373&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b3e951ce9f211f1b7c4ba566ef4559a&au=44fb446fc0a34fc482aa9159f37994dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T23:38:56+00:00",
+   "real_price": 28.53,
+   "real_old": 44.99,
+   "category_ok": true
   },
   {
    "id": "900146362d6a",
@@ -2880,7 +2880,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T21:39:18+00:00",
+   "checked_at": "2026-11-26T23:43:42+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11355,6 +11355,42 @@
  ],
  "raw_tech": [
   {
+   "id": "t92a0790bba5",
+   "title": "15.3\" Apple MacBook Air (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $1199 + Free S&H",
+   "price": 1199.0,
+   "old_price": 1499.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20408136-apple-macbook-air-15-3-m5-laptop-16gb-ram-512gb-ssd-1199-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
+   "posted": "2026-11-26T23:43:32+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:44:38+00:00",
+   "real_price": 1199.0,
+   "real_old": 1499.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tc738416556a",
+   "title": "2-Pk Milwaukee Fastback 6-in-1 Folding Utility Knives $19.95 + Free S&H",
+   "price": 19.97,
+   "old_price": 43.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20405001-2-pack-milwaukee-fastback-6-in-1-folding-utility-knives-w-general-purpose-blade-19-97-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22610655.thumb",
+   "posted": "2026-11-26T23:39:59+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:44:40+00:00",
+   "real_price": 19.97,
+   "real_old": 43.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&pno=1375560&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=588aca7ce9f311f1a90882ce030be712&au=9aa672cd97a541c0bad01f5630198fd4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfcd2cc32dba",
    "title": "MSI MPG A850GS 850W 80+ Gold ATX 3.1 Power Supply $69 + Free S&H",
    "price": 68.99,
@@ -11584,8 +11620,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae6b5b10e9f211f1ae8b62e3581b13f1&au=903582a4ca36482fad381efbd64e7495&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:39:55+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:44:42+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -12072,8 +12108,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=b029818ee9f211f1ab52b2013ad5615c&au=d882d02057934ca4925e543994ab7b53&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:39:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=5b18a282e9f311f1a76a26a54cb5539b&au=67d0129f61f34ddf838a365a8f27d5cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:44:44+00:00",
    "real_price": 4.24,
    "real_old": 5.99
   },
@@ -12221,10 +12257,9 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407740&tid=20407740&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b19a6ccce9f211f18d6af2cd9e213daf&au=47afcb8a7d1049088f9b49a916adb9dc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:40:00+00:00",
-   "real_price": 57.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407740&tid=20407740&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b19a6ccce9f211f18d6af2cd9e213daf&au=47afcb8a7d1049088f9b49a916adb9dc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 57.0
   },
   {
    "id": "td9c26fc56c0",
@@ -13399,8 +13434,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2e58d78e9f211f1876d7a335fd51751&au=9ecf07a895d640e69c291bdc0a5e4869&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:40:03+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5c862626e9f311f186db9263416618cd&au=98a092341acd49729ff1e52a21d0e598&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:44:46+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -14208,9 +14243,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15726,45 +15758,36 @@
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
    "real_old": 99.99
-  },
-  {
-   "id": "ted3f86749ac",
-   "title": "Logitech MX Keys S Wireless Backlit Keyboard (Pale Grey) $99.74 + Free Shipping",
-   "price": 99.74,
-   "old_price": 129.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20402136-logitech-mx-keys-s-wireless-backlit-keyboard-pale-grey-99-74-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22603293.thumb",
-   "posted": "2026-11-26T07:20:25+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402136&tid=20402136&prop=diavail-true%7Cdincp-2%7Cdinpd-2%7Cdipgavail-true&pv=07292416e99011f1817c0a31e97cbd0c&au=149b148353b54531a8f7e8c91806d5be&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T11:53:43+00:00",
-   "real_price": 99.74,
-   "real_old": 129.99
-  },
-  {
-   "id": "t4842be23949",
-   "title": "LG 65\" OLED evo AI C6 4K Smart TV (65C6, 2026) $1,349.99 - Amazon $1349.99",
-   "price": 1349.99,
-   "old_price": 2699.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20402130-lg-65-oled-evo-ai-c6-4k-smart-tv-65c6-2026-1-349-99-amazon-1349-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22603257.thumb",
-   "posted": "2026-11-26T07:18:51+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&tid=20402130&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=19acb538e97911f19c7622031841647a&au=c0e10dfc5cca40c29fc4a330b49f11aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T09:09:35+00:00",
-   "real_price": 1349.99,
-   "real_old": 2699.99
   }
  ],
  "tech": [
+  {
+   "id": "t92a0790bba5",
+   "title": "15.3\" Apple MacBook Air (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD + Free S&H",
+   "price": 1199.0,
+   "old_price": 1499.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
+   "posted": "2026-11-26T23:43:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 1199.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tfcd2cc32dba",
    "title": "MSI MPG A850GS 850W 80+ Gold ATX 3.1 Power Supply + Free S&H",
@@ -15960,8 +15983,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae6b5b10e9f211f1ae8b62e3581b13f1&au=903582a4ca36482fad381efbd64e7495&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae6b5b10e9f211f1ae8b62e3581b13f1&au=903582a4ca36482fad381efbd64e7495&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -15977,7 +16000,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae6b5b10e9f211f1ae8b62e3581b13f1&au=903582a4ca36482fad381efbd64e7495&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18959,34 +18982,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6df89559812",
-   "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Side) + Free S&H",
-   "price": 17.99,
-   "old_price": 99.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22603356.thumb",
-   "posted": "2026-11-26T07:24:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 17.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19dc47a2e96b11f1852206793d79112d&au=b537134a99e6429982e515c4af772216&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T23:40:54+00:00"
+ "updated": "2026-11-26T23:45:32+00:00"
 }
