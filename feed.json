@@ -1485,7 +1485,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T01:16:34+00:00",
+   "checked_at": "2026-11-26T07:19:12+00:00",
    "real_price": 19.65,
    "real_old": 49.99,
    "category_ok": true
@@ -11925,10 +11925,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401110&tid=20401110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=28820c30e96911f1a306e23436c3dfb5&au=115669edc72441a09cd495fa67bfd1a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:15:28+00:00",
    "real_price": 599.91,
-   "real_old": 999.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401110&tid=20401110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=28820c30e96911f1a306e23436c3dfb5&au=115669edc72441a09cd495fa67bfd1a3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 999.99
   },
   {
    "id": "tef8504cf973",
@@ -15064,9 +15064,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -15259,8 +15256,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=29e108c4e96911f1b7324a6b66202b6d&au=ad3a7587ecc644c89c85625511bcd9fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:15:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ced41128e96911f19dc626c6ac318b28&au=7ae25bada92343b7b07a6cc48d5b6b41&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:20:08+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15635,8 +15632,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=2b07e2cce96911f190d9c2174ac15f59&au=40b41bc6327f40d6947f485ed2dbed4c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:15:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d000b13ce96911f18710be3f5266b794&au=22ef4fa6df7542c0874026569d90ff44&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:20:09+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -18939,7 +18936,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19140,5 +19137,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T07:16:23+00:00"
+ "updated": "2026-11-26T07:21:02+00:00"
 }
