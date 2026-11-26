@@ -922,6 +922,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11604,6 +11606,24 @@
    "real_old": 49.99
   },
   {
+   "id": "te267d14ca31",
+   "title": "$2699 | 14.2-Inch Apple 2026 MacBook Pro Laptop with M5 Pro chip (24GB | 2TB, Space Black) at Amazon",
+   "price": 2699.0,
+   "old_price": 3199.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20398482-2699-14-2-inch-apple-2026-macbook-pro-laptop-with-m5-pro-chip-24gb-2tb-space-black-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593954.thumb",
+   "posted": "2026-11-25T22:34:36+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T00:12:44+00:00",
+   "real_price": 2699.0,
+   "real_old": 3199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t73c26caa6bf",
    "title": "Sennheiser Consumer Audio Momentum 4 ANC Wireless Headphones (Black/Copper) $159.95 + Free S&H",
    "price": 159.95,
@@ -12024,7 +12044,7 @@
    "old_price": 279.0,
    "store": "Amazon",
    "url": "https://slickdeals.net/f/20397555-199-audio-technica-ath-al5nc-wireless-open-back-headphones-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22591539.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22595763.thumb",
    "posted": "2026-11-25T20:18:27+00:00",
    "cat": "audio",
    "cat_label": "Audio",
@@ -12196,10 +12216,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/18247950004",
    "checked_at": "2026-11-26T00:08:08+00:00",
    "real_price": 135.0,
-   "real_old": 136.0,
-   "store_url": "https://www.walmart.com/ip/18247950004"
+   "real_old": 136.0
   },
   {
    "id": "t1c6fed9c5ed",
@@ -13260,8 +13280,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=774456ace92d11f18803325965aad508&au=9b904f41f0284ed882e37781139a8532&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:08:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1b32a8fee92e11f1bcf56270524492d9&au=58e998529c124f85a5ede300320a3f55&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T00:12:46+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13544,8 +13564,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=786fb0d0e92d11f19a41f2884e5addd3&au=abea3283750b4dd4bcde1ea1cd5b6cc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:08:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c618952e92e11f186cc162b3dda2a12&au=76ffc50d1a824136a8365321315bd755&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T00:12:48+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15843,24 +15863,6 @@
    "checked_at": "2026-11-24T16:14:28+00:00",
    "real_price": 149.0,
    "real_old": 249.0
-  },
-  {
-   "id": "ta9f2e42af26",
-   "title": "4-Qt Instant Pot Rio Mini 7-in-1 Electric Pressure Cooker (3 colors) $65 + Free S&H",
-   "price": 64.99,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20382717-instant-pot-rio-mini-4-qt-7-in-1-electric-pressure-cooker-black-slow-cooks-makes-rice-steams-saut-s-makes-yogurt-and-keeps-food-warm-64-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22554648.thumb",
-   "posted": "2026-11-25T04:56:17+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20382717&pno=1373535&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=02fc5a60e88d11f1a9c282ae886e9f7c&au=5f759362e82a468ea5d0a59938f492ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T04:59:36+00:00",
-   "real_price": 64.99,
-   "real_old": 89.99
   }
  ],
  "tech": [
@@ -16023,6 +16025,33 @@
      "store": "Amazon",
      "price": 259.95,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396895&pno=1374204&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=35168d92e92111f1a2fbe283662d4aca&au=4fe23e3173164261a7e32e4011ded5a6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "te267d14ca31",
+   "title": "14.2-Inch Apple 2026 MacBook Pro Laptop with M5 Pro chip (24GB | 2TB, Space Black)",
+   "price": 2699.0,
+   "old_price": 3199.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22593954.thumb",
+   "posted": "2026-11-25T22:34:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 2699.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398482&tid=20398482&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=1a058c44e92e11f1b326b2f9ebf7c51f&au=bf55b5a0f22d4f6d8f0b202e7a2e544a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16358,7 +16387,7 @@
    "store": "Amazon",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397555&tid=20397555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0015a92ce92911f1814abe968e5ce8cb&au=7df9fa4bf2a64c3a923ced7d54795c34&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397555&tid=20397555&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0015a92ce92911f1814abe968e5ce8cb&au=7df9fa4bf2a64c3a923ced7d54795c34&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22591539.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/22595763.thumb",
    "posted": "2026-11-25T20:18:27+00:00",
    "kind": "tech",
    "section": "tech",
@@ -17493,8 +17522,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=774456ace92d11f18803325965aad508&au=9b904f41f0284ed882e37781139a8532&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=774456ace92d11f18803325965aad508&au=9b904f41f0284ed882e37781139a8532&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1b32a8fee92e11f1bcf56270524492d9&au=58e998529c124f85a5ede300320a3f55&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1b32a8fee92e11f1bcf56270524492d9&au=58e998529c124f85a5ede300320a3f55&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17510,7 +17539,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=774456ace92d11f18803325965aad508&au=9b904f41f0284ed882e37781139a8532&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1b32a8fee92e11f1bcf56270524492d9&au=58e998529c124f85a5ede300320a3f55&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17709,8 +17738,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=786fb0d0e92d11f19a41f2884e5addd3&au=abea3283750b4dd4bcde1ea1cd5b6cc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=786fb0d0e92d11f19a41f2884e5addd3&au=abea3283750b4dd4bcde1ea1cd5b6cc0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c618952e92e11f186cc162b3dda2a12&au=76ffc50d1a824136a8365321315bd755&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c618952e92e11f186cc162b3dda2a12&au=76ffc50d1a824136a8365321315bd755&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17726,7 +17755,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=786fb0d0e92d11f19a41f2884e5addd3&au=abea3283750b4dd4bcde1ea1cd5b6cc0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c618952e92e11f186cc162b3dda2a12&au=76ffc50d1a824136a8365321315bd755&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19052,34 +19081,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20384115&pno=1373601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c10c332e89c11f1b5a996d65cddf46e&au=85223f23b2434b4fabb9c60d08fc828a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t16f0b410b0c",
-   "title": "Straight Talk 128GB Apple iPhone 16e Smartphone (Locked) & More + Free S&H",
-   "price": 199.0,
-   "old_price": 349.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/14822456361",
-   "url": "https://www.walmart.com/ip/14822456361",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22578531.thumb",
-   "posted": "2026-11-25T06:42:13+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 199.0,
-     "url": "https://www.walmart.com/ip/14822456361"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T00:09:03+00:00"
+ "updated": "2026-11-26T00:13:39+00:00"
 }
