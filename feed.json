@@ -98,13 +98,13 @@
    "posted": "2026-11-26T15:10:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T16:01:21+00:00",
-   "category_ok": true,
-   "real_price": 47.98,
-   "real_old": 59.0,
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T16:01:21+00:00",
+   "real_price": 47.98,
+   "real_old": 59.0,
+   "category_ok": true
   },
   {
    "id": "00f9e785cd8b",
@@ -416,7 +416,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=ab5b21cae98011f1b75c7af4fef1c802&au=cd3a9572591d48378ea4f4c5bed43fab&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T10:03:46+00:00",
+   "checked_at": "2026-11-26T16:05:17+00:00",
    "real_price": 15.0,
    "real_old": 60.0,
    "category_ok": true
@@ -11399,8 +11399,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d1d399fee9b211f186b66e49032631c4&au=400c97e69857436495b7e434f4dc778a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:02:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4e11f0ece9b311f1a1518251e91afe61&au=f856f24b48af47d29dac01ef06a0af03&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:06:14+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -11511,8 +11511,7 @@
    "prio": 5,
    "refurb": false,
    "checked_at": "2026-11-26T16:02:50+00:00",
-   "real_price": 329.0,
-   "real_old": null
+   "real_price": 329.0
   },
   {
    "id": "t2facd655815",
@@ -12180,10 +12179,10 @@
    "code": "D4BZF392",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404035&tid=20404035&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d54ad408e9b211f19d7e8251e91afe61&au=ebfdb6f6f7124510b94120a9171e962d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:02:52+00:00",
    "real_price": 79.0,
-   "real_old": 180.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404035&tid=20404035&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d54ad408e9b211f19d7e8251e91afe61&au=ebfdb6f6f7124510b94120a9171e962d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 180.0
   },
   {
    "id": "t3b613c2e182",
@@ -12751,6 +12750,24 @@
    "real_old": 145.0
   },
   {
+   "id": "t806bd329c36",
+   "title": "NOCO GENIUS5: 5-Amp 6V / 12V Automatic Smart Battery Charger & Maintainer $55.96 & More + Free Shipping",
+   "price": 55.96,
+   "old_price": 69.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402382-noco-genius5-5-amp-6v-12v-automatic-smart-battery-charger-maintainer-55-96-more-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22604418.thumb",
+   "posted": "2026-11-26T08:04:05+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:06:17+00:00",
+   "real_price": 55.96,
+   "real_old": 69.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9510fe073dc",
    "title": "$284.99* | Google Pixel Watch 5 (41mm) - Android Smartwatch - Obsidian - Wi-Fi + 10% Back w/ Prime Visa Card at Amazon",
    "price": 284.99,
@@ -13071,10 +13088,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402043&tid=20402043&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6a2fddae9b211f1b15f2a8e710a501f&au=869057bf453843f6bd64afda41f71ae0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:02:54+00:00",
    "real_price": 288.0,
-   "real_old": 570.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402043&tid=20402043&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6a2fddae9b211f1b15f2a8e710a501f&au=869057bf453843f6bd64afda41f71ae0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 570.0
   },
   {
    "id": "t5e01b050bf0",
@@ -13519,10 +13536,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&tid=20401578&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d87cfaf2e9b211f1981d0a31e97cbd0c&au=c95c168e15a24f728deda0c8f979e0cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:02:57+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&tid=20401578&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d87cfaf2e9b211f1981d0a31e97cbd0c&au=c95c168e15a24f728deda0c8f979e0cc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 60.0
   },
   {
    "id": "t3f2f7f1dfd5",
@@ -14036,8 +14052,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d9d6a20ee9b211f19a64b6ff16efd242&au=8aba1fc9498846eea050870ff07cbcb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:02:59+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=510427c0e9b311f18cdf7e23634e417e&au=fa050d186f054e80b10e20f85a430f1f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:06:19+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15721,24 +15737,6 @@
    "checked_at": "2026-11-25T23:31:28+00:00",
    "real_price": 280.99,
    "real_old": 328.76
-  },
-  {
-   "id": "t4bff5c0868e",
-   "title": "32\" TCL R84 QD-Mini LED 4K UHD 165Hz Gaming Monitor $549.99 + Free Shipping",
-   "price": 549.99,
-   "old_price": 699.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20398392-32-tcl-r84-qd-mini-led-4k-uhd-165hz-gaming-monitor-549-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22593669.thumb",
-   "posted": "2026-11-25T22:20:17+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20398392&tid=20398392&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a07e6c80e94411f197f65a9def7bdf7c&au=73a9e452177a459c95931d5c1eaccb1e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:53:59+00:00",
-   "real_price": 549.99,
-   "real_old": 699.99
   }
  ],
  "tech": [
@@ -16819,6 +16817,33 @@
      "store": "Amazon",
      "price": 23.77,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t806bd329c36",
+   "title": "NOCO GENIUS5: 5-Amp 6V / 12V Automatic Smart Battery Charger & Maintainer & More",
+   "price": 55.96,
+   "old_price": 69.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22604418.thumb",
+   "posted": "2026-11-26T08:04:05+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 55.96,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18942,34 +18967,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399373&tid=20399373&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=15c03408e93911f1b295962b4cc73ae6&au=6f7f09eff51c4c99b325a0e3b1e9c5bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t59b301a04c4",
-   "title": "1TB SANDISK Extreme V3 USB-C Portable SSD (up to to 2000MB/s) + Free S&H",
-   "price": 198.55,
-   "old_price": 299.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378262&pno=1374267&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3c4ac0f2e92a11f18f4c3aefaa84f732&au=15f7af6ddb754627b7bf31e317a1d81c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378262&pno=1374267&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3c4ac0f2e92a11f18f4c3aefaa84f732&au=15f7af6ddb754627b7bf31e317a1d81c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22542393.thumb",
-   "posted": "2026-11-25T23:41:10+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 198.55,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378262&pno=1374267&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3c4ac0f2e92a11f18f4c3aefaa84f732&au=15f7af6ddb754627b7bf31e317a1d81c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T16:03:47+00:00"
+ "updated": "2026-11-26T16:07:09+00:00"
 }
