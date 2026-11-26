@@ -985,7 +985,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=52c1148ce97311f1a821a61b1b2e19a1&au=2b4ced3894d34b2ab92bdf9d35275706&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:31:17+00:00",
+   "checked_at": "2026-11-26T20:34:26+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -1006,7 +1006,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=53e0559ee97311f1a90eea8af01651eb&au=4d5b78da13d1437e8c8322497fd011ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:31:19+00:00",
+   "checked_at": "2026-11-26T20:34:28+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -2237,7 +2237,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=7b060f7ce8a811f18999ee8a8e78a124&au=fb42557793b34bed9c603a1b1c01b730&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:31:21+00:00",
+   "checked_at": "2026-11-26T20:34:30+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -11380,6 +11380,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tad47e85c185",
+   "title": "Open Box Excellent: HP OmniBook X Flip 2-in-1: AI 5 430, 14\" WUXGA OLED, 16GB, 512GB $566 + Free S&H",
+   "price": 565.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20382360-hp-omnibook-x-flip-14-2k-oled-2-in-1-laptop-ryzen-ai-5-430-16gb-512gb-open-box-excellent-565-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22552290.thumb",
+   "posted": "2026-11-26T20:31:36+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": true,
+   "checked_at": "2026-11-26T20:35:24+00:00",
+   "real_price": 565.99,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tde516645fd2",
+   "title": "0.5-Kg 1.75mm Polymaker Fiberon Carbon Fiber ASA 3D Printer Filament (Various) from $11.45",
+   "price": 11.45,
+   "old_price": 19.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20400732-polymaker-fiberon-carbon-fiber-asa-3d-printer-filament-1-75mm-0-5-kg-various-from-11-45-w-s-s-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22599591.thumb",
+   "posted": "2026-11-26T20:30:30+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:35:26+00:00",
+   "real_price": 11.45,
+   "real_old": 19.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te7107615a37",
    "title": "6-Qt Instant Pot 9-in-1 Pressure Cooker Bundle (Stainless Steel) $60 + Free S&H",
    "price": 59.99,
@@ -11784,6 +11820,24 @@
    "checked_at": "2026-11-26T19:39:42+00:00",
    "real_price": 99.99,
    "real_old": 219.95
+  },
+  {
+   "id": "t628fad32118",
+   "title": "$599.99* | 32\" Samsung Odyssey OLED G7 4K 165Hz / 1080p 330Hz Dual Mode Monitor (G73SH) at Amazon",
+   "price": 599.99,
+   "old_price": 1099.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20407413-599-99-32-samsung-odyssey-oled-g7-4k-165hz-1080p-330hz-dual-mode-monitor-g73sh-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22616226.thumb",
+   "posted": "2026-11-26T18:40:36+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:35:28+00:00",
+   "real_price": 599.99,
+   "real_old": 1099.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407413&tid=20407413&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ea938a32e9d811f18ab0beaed212ecc4&au=27eb10427e4c480d9ce50fa987bf15df&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7467a4ba8ba",
@@ -12598,8 +12652,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=40fc6a84e9d811f1b1549263416618cd&au=6eaafb312eb44cfe9cc4f4a9d403ff23&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:30:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ebdf4be2e9d811f1954542ea8a74cf59&au=debd205100754d2baa8a11303ef924fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:35:30+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12727,10 +12781,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:30:46+00:00",
    "real_price": 199.99,
-   "real_old": 349.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 349.99
   },
   {
    "id": "tfe63998e21e",
@@ -12818,6 +12872,24 @@
    "checked_at": "2026-11-26T16:20:39+00:00",
    "real_price": 182.39,
    "real_old": 227.99
+  },
+  {
+   "id": "t389c946551c",
+   "title": "Milwaukee M18 FORGE 12.0 & 8.0 $279 Home Depot",
+   "price": 130.0,
+   "old_price": 131.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20405340-milwaukee-m18-forge-12-0-8-0-279-home-depot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-26T15:26:28+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:35:32+00:00",
+   "real_price": 130.0,
+   "real_old": 131.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405340&tid=20405340&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=ed0f304ae9d811f19d77cec1898c45cf&au=9559193060774d5187b5eef397dac87b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "taf7cf94a8e9",
@@ -15692,81 +15764,63 @@
    "checked_at": "2026-11-26T07:33:58+00:00",
    "real_price": 699.0,
    "real_old": 799.0
-  },
-  {
-   "id": "t9cf6b308375",
-   "title": "Bosch Plastic 2.6-Gallon 7 HP Wet, Dry Shop Vacuum , Battery Not Included | GAS18V-3N $79.99",
-   "price": 79.99,
-   "old_price": 179.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401407-bosch-plastic-2-6-gallon-7-hp-wet-dry-shop-vacuum-battery-not-included-gas18v-3n-79-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22601301.thumb",
-   "posted": "2026-11-26T05:57:33+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401407&tid=20401407&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=058d1dc8e9c311f1afd25a3ad5db9b05&au=a69edc55cf36485685176563b4f372fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:58:45+00:00",
-   "real_price": 79.99,
-   "real_old": 179.0
-  },
-  {
-   "id": "t2650b856968",
-   "title": "Apple MacBook Neo (2026): 13\", A18 Pro, 8GB RAM, 256GB SSD $599",
-   "price": 599.0,
-   "old_price": 699.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401404-apple-macbook-neo-2026-13-a18-pro-8gb-ram-256gb-ssd-599?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602705.thumb",
-   "posted": "2026-11-26T05:56:58+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&tid=20401404&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=25f4ac3ce96611f1a1f7ea8af01651eb&au=2208be2c1ced49a1bcb6c9551329e9e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:53:56+00:00",
-   "real_price": 599.0,
-   "real_old": 699.0
-  },
-  {
-   "id": "t52cb62a1359",
-   "title": "Kobalt 24-volt Max 1/4-in Brushless Cordless Impact Driver Kit with 4 Ah Battery and Charger | KID 1424AT2 $99",
-   "price": 99.0,
-   "old_price": 189.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401401-kobalt-24-volt-max-1-4-in-brushless-cordless-impact-driver-kit-with-4-ah-battery-and-charger-kid-1424at2-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22601256.thumb",
-   "posted": "2026-11-26T05:56:34+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "checked_at": "2026-11-26T20:30:48+00:00",
-   "real_price": 99.0,
-   "real_old": 189.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401401&tid=20401401&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=43685206e9d811f1a1a4cec1898c45cf&au=9c78cc4acc0940698274edebff125413&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "tbbc78f0756b",
-   "title": "Apple MacBook Air (2026): 13\", M5, 16GB RAM, 512GB SSD $999",
-   "price": 999.0,
-   "old_price": 1299.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401377-apple-macbook-air-2026-13-m5-16gb-ram-512gb-ssd-999?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601223.thumb",
-   "posted": "2026-11-26T05:54:15+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401377&tid=20401377&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=6a9adadee95f11f182bd8628339608dc&au=d7927b1496ea42cd815314bfc6404a3f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:05:44+00:00",
-   "real_price": 999.0,
-   "real_old": 1299.0
   }
  ],
  "tech": [
+  {
+   "id": "tad47e85c185",
+   "title": "Open Box Excellent: HP OmniBook X Flip 2-in-1: AI 5 430, 14\" WUXGA OLED, 16GB, 512GB + Free S&H",
+   "price": 565.99,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22552290.thumb",
+   "posted": "2026-11-26T20:31:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 565.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tde516645fd2",
+   "title": "0.5-Kg 1.75mm Polymaker Fiberon Carbon Fiber ASA 3D Printer Filament (Various) from",
+   "price": 11.45,
+   "old_price": 19.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22599591.thumb",
+   "posted": "2026-11-26T20:30:30+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 11.45,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t55f423afa33",
    "title": "Apple Macbook Air 13.6\" M5 Laptop: 16GB RAM/512GB SSD @Best buy",
@@ -16055,6 +16109,33 @@
      "store": "Amazon",
      "price": 9.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t628fad32118",
+   "title": "32\" Samsung Odyssey OLED G7 4K 165Hz / 1080p 330Hz Dual Mode Monitor (G73SH)",
+   "price": 599.99,
+   "old_price": 1099.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407413&tid=20407413&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ea938a32e9d811f18ab0beaed212ecc4&au=27eb10427e4c480d9ce50fa987bf15df&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407413&tid=20407413&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ea938a32e9d811f18ab0beaed212ecc4&au=27eb10427e4c480d9ce50fa987bf15df&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22616226.thumb",
+   "posted": "2026-11-26T18:40:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407413&tid=20407413&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ea938a32e9d811f18ab0beaed212ecc4&au=27eb10427e4c480d9ce50fa987bf15df&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18901,88 +18982,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&tid=20401518&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5cd9f6eee96111f1a193a25430b2f6ef&au=e67bcda224624ca3950769ec80d3be7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t668c31ef5f7",
-   "title": "HP OmniBook X Flip: 16\" FHD+ IPS Touch, Intel Ultra 7 256V, 16GB LPDDR5, 1TB SSD",
-   "price": 679.99,
-   "old_price": 1199.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&tid=20401512&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=2a3be230e9aa11f19c9e6e56611d0c45&au=af8f418a6a9e45e184611c568411b6c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&tid=20401512&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=2a3be230e9aa11f19c9e6e56611d0c45&au=af8f418a6a9e45e184611c568411b6c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601448.thumb",
-   "posted": "2026-11-26T06:05:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 679.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&tid=20401512&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=2a3be230e9aa11f19c9e6e56611d0c45&au=af8f418a6a9e45e184611c568411b6c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t3f7d022bc7c",
-   "title": ": Lenovo Chromebook M 15.3\" 2K Laptop MediaTek Kompanio 500 Series (2026) - 4GB Memory - 64GB Storage - Luna Grey",
-   "price": 169.0,
-   "old_price": 399.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22605366.thumb",
-   "posted": "2026-11-26T06:03:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 169.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5a594512ac1",
-   "title": "Amazon Fire TV Stick 4K Max 2nd Gen Streaming Device",
-   "price": 44.99,
-   "old_price": 84.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
-   "posted": "2026-11-26T06:02:10+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 44.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T20:31:39+00:00"
+ "updated": "2026-11-26T20:36:23+00:00"
 }
