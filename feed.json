@@ -434,13 +434,13 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T12:19:37+00:00",
-   "category_ok": false,
-   "real_price": 92.99,
-   "real_old": 150.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402376&tid=20402376&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=a557c176e99311f181a20a31e97cbd0c&au=3ef192678116443da36796141aa65f53&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T12:19:37+00:00",
+   "real_price": 92.99,
+   "real_old": 150.0,
+   "category_ok": false
   },
   {
    "id": "5c54e63f4ee6",
@@ -550,7 +550,7 @@
   {
    "id": "e79f71b8171b",
    "title": "SteelSeries - Arctis Nova 5 Wireless Over-the-Ear Gaming Headset with 2.4GHz/Bluetooth for PC, PS5/PS4, and Switch/Switch 2 - Towelie Edition/Lavender $119.99 Bestbuy.com",
-   "price": 58.0,
+   "price": 59.0,
    "old_price": null,
    "store": "Best Buy",
    "kind": "hardware",
@@ -563,8 +563,8 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401686&tid=20401686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e01bbd80e96111f1afc4a6ea1f579b67&au=073be8fa9fb841ec96d321f795b3d389&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:23:20+00:00",
-   "real_price": 58.0,
+   "checked_at": "2026-11-26T12:24:20+00:00",
+   "real_price": 59.0,
    "real_old": null,
    "category_ok": true
   },
@@ -3060,7 +3060,7 @@
    "store_url": "https://www.walmart.com/ip/10498109572",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T06:23:23+00:00",
+   "checked_at": "2026-11-26T12:24:24+00:00",
    "real_price": 28.45,
    "real_old": 39.88,
    "category_ok": true
@@ -11544,10 +11544,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403435&tid=20403435&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ca9a8676e99311f19eb8e22c28c5937a&au=e918dbad8fa74e0189a60c6dae738130&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T12:20:40+00:00",
    "real_price": 299.0,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403435&tid=20403435&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ca9a8676e99311f19eb8e22c28c5937a&au=e918dbad8fa74e0189a60c6dae738130&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "tbd4c51b2de8",
@@ -11959,6 +11959,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:49:07+00:00",
    "real_price": 17.99,
@@ -14667,9 +14670,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -16333,7 +16333,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18535,7 +18535,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19156,5 +19156,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T12:21:34+00:00"
+ "updated": "2026-11-26T12:26:13+00:00"
 }
