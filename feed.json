@@ -56,13 +56,13 @@
    "posted": "2026-11-26T02:44:06+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T03:25:55+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 29.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1655c224e94911f1af3ffa0af5fde6bc&au=8c45afcd34594a25a2c76b65f929408b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T03:25:55+00:00",
+   "real_price": 15.0,
+   "real_old": 29.99,
+   "category_ok": true
   },
   {
    "id": "f47262e7d988",
@@ -203,7 +203,7 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-25T21:30:29+00:00",
+   "checked_at": "2026-11-26T03:30:54+00:00",
    "category_ok": false,
    "real_price": 117.0,
    "real_old": 199.0,
@@ -11445,10 +11445,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324529&pno=1374537&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=4146c3fce94911f180391a82c9533fda&au=66b43b0d7b8e461cabfbddb507f85b30&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T03:27:06+00:00",
    "real_price": 79.0,
-   "real_old": 139.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20324529&pno=1374537&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=4146c3fce94911f180391a82c9533fda&au=66b43b0d7b8e461cabfbddb507f85b30&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 139.0
   },
   {
    "id": "tea7d3720ec2",
@@ -11463,10 +11463,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://www.walmart.com/ip/19506501940",
    "checked_at": "2026-11-26T03:27:08+00:00",
    "real_price": 489.0,
-   "real_old": 549.0,
-   "store_url": "https://www.walmart.com/ip/19506501940"
+   "real_old": 549.0
   },
   {
    "id": "t060a185c412",
@@ -13601,6 +13601,24 @@
    "real_old": 42.99
   },
   {
+   "id": "ta83e790c4e4",
+   "title": "ASUS Prime B760M-K D4 Intel® B760 (LGA 1700) DDR4 Motherboard $69.99",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20395926-asus-prime-b760m-k-d4-intel-b760-lga-1700-ddr4-motherboard-69-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/9/0/0/300x300/22587480.thumb",
+   "posted": "2026-11-25T16:56:06+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-26T03:31:50+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td1b48409737",
    "title": "FitBeast Magnetic Golf Cart Phone Mount w/ 360° Swivel Foldable Design $10.49 + Free Shipping w/ Prime or on $35+",
    "price": 10.49,
@@ -13727,9 +13745,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -13922,8 +13937,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=43c69b98e94911f1a5f306793d79112d&au=99813a83c25e486b86c8d8a71e738b3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:27:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eb98c422e94911f1b265460c41e13790&au=3dd00ae88a4e499984efdf8a8d985b46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:31:52+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14277,9 +14292,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -14301,8 +14313,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4506977ee94911f1851c56a12d7bd5aa&au=297bf2fc3fa24d09b8db9d17761f58ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:27:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ecd1d6e4e94911f1bffe5602461873bc&au=ef10c217f692411785fcebb8c656dfa2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:31:54+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15860,24 +15872,6 @@
    "checked_at": "2026-11-25T12:55:47+00:00",
    "real_price": 219.99,
    "real_old": 399.99
-  },
-  {
-   "id": "t502d0dfa85d",
-   "title": "Teenage Mutant Ninja Turtles: The Complete Classic Series Collection (Bundle) $14.99",
-   "price": 14.99,
-   "old_price": 60.0,
-   "store": "Fandango.com",
-   "url": "https://slickdeals.net/f/20392878-teenage-mutant-ninja-turtles-the-complete-classic-series-collection-bundle-14-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/6/300x300/22579002.thumb",
-   "posted": "2026-11-25T08:07:39+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fandango.com&sdtid=20392878&tid=20392878&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8bbc822ee8e911f18560ae6475442606&au=66b6f11330d34bb1971a39d34fc3470d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:01:59+00:00",
-   "real_price": 14.99,
-   "real_old": 60.0
   }
  ],
  "tech": [
@@ -17559,6 +17553,33 @@
    ]
   },
   {
+   "id": "ta83e790c4e4",
+   "title": "ASUS Prime B760M-K D4 Intel® B760 (LGA 1700) DDR4 Motherboard",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/9/0/0/300x300/22587480.thumb",
+   "posted": "2026-11-25T16:56:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "td1b48409737",
    "title": "FitBeast Magnetic Golf Cart Phone Mount",
    "price": 10.49,
@@ -17736,7 +17757,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17942,8 +17963,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=43c69b98e94911f1a5f306793d79112d&au=99813a83c25e486b86c8d8a71e738b3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=43c69b98e94911f1a5f306793d79112d&au=99813a83c25e486b86c8d8a71e738b3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eb98c422e94911f1b265460c41e13790&au=3dd00ae88a4e499984efdf8a8d985b46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eb98c422e94911f1b265460c41e13790&au=3dd00ae88a4e499984efdf8a8d985b46&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17959,7 +17980,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=43c69b98e94911f1a5f306793d79112d&au=99813a83c25e486b86c8d8a71e738b3c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=eb98c422e94911f1b265460c41e13790&au=3dd00ae88a4e499984efdf8a8d985b46&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18212,8 +18233,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4506977ee94911f1851c56a12d7bd5aa&au=297bf2fc3fa24d09b8db9d17761f58ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4506977ee94911f1851c56a12d7bd5aa&au=297bf2fc3fa24d09b8db9d17761f58ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ecd1d6e4e94911f1bffe5602461873bc&au=ef10c217f692411785fcebb8c656dfa2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ecd1d6e4e94911f1bffe5602461873bc&au=ef10c217f692411785fcebb8c656dfa2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18229,7 +18250,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4506977ee94911f1851c56a12d7bd5aa&au=297bf2fc3fa24d09b8db9d17761f58ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ecd1d6e4e94911f1bffe5602461873bc&au=ef10c217f692411785fcebb8c656dfa2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19069,34 +19090,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391480&pno=1373547&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=e06845c0e8c011f19c9f72ad2e05b851&au=7c19161f175f47a4a3b45aa5c549ec92&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t22849e025f9",
-   "title": "Zoom G1X Four Guitar Multi-Effects Processor with Expression Pedal",
-   "price": 79.99,
-   "old_price": 119.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22580892.thumb",
-   "posted": "2026-11-25T11:05:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 79.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393502&tid=20393502&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=2d39a9b6e8d011f1977556624a28bda6&au=0e2007a82bbf48819dcb1bfaf2b21b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T03:28:06+00:00"
+ "updated": "2026-11-26T03:32:46+00:00"
 }
