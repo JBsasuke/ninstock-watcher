@@ -1598,7 +1598,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=3fb8d85ee8ef11f199a9ae6475442606&au=d4a5691cb88b498b9f2afcec92c3a845&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T10:48:15+00:00",
+   "checked_at": "2026-11-26T16:52:19+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1619,7 +1619,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=40e32f7ce8ef11f1a9385a511138d167&au=0a8239e0fb654dc9ae609c28bf0e28c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T10:48:17+00:00",
+   "checked_at": "2026-11-26T16:52:22+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -11385,6 +11385,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t247e6c7923f",
+   "title": "Klein Tools Compact Vacuum Laser Level (Red) $25 + Free Pickup",
+   "price": 24.98,
+   "old_price": 49.98,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20404443-klein-tools-compact-vacuum-laser-level-40-ft-red-93cvls?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22609374.thumb",
+   "posted": "2026-11-26T16:51:08+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:53:17+00:00",
+   "real_price": 24.98,
+   "real_old": 49.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20404443&pno=1375149&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=e0175c42e9b911f1ab3adeb14ba7c7e6&au=5055cf3bd123440ebcd5d33ef7bf2650&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t38700ad2fee",
    "title": "Pit Boss 500 FB2 Wood Pellet Grill & Smoker w/ Flame Broiler $299 + Free S&H",
    "price": 299.0,
@@ -11397,10 +11415,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403435&pno=1375110&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=39c18d04e9b911f1abb5feb970f6c9c2&au=4c0190ddd57f4de685bb1744a0a85d25&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:48:37+00:00",
    "real_price": 299.0,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403435&pno=1375110&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=39c18d04e9b911f1abb5feb970f6c9c2&au=4c0190ddd57f4de685bb1744a0a85d25&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "td1db4d8d9be",
@@ -11603,8 +11621,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ae436c8e9b911f188efa27f351ed2dc&au=daadc876feb844ee8ab1051af4adb860&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:48:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e1a42856e9b911f1936152ae4aa6ba03&au=86989eb7df824ba4a3c63abafada5d1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:53:19+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -11865,6 +11883,24 @@
    "checked_at": "2026-11-26T15:10:15+00:00",
    "real_price": 680.0,
    "real_old": 1370.0
+  },
+  {
+   "id": "t129a6595e1b",
+   "title": "Bose QuietComfort Headphones (all colors) - Refurbished $139 &more",
+   "price": 139.0,
+   "old_price": 359.0,
+   "store": "Bose",
+   "url": "https://slickdeals.net/f/20405100-bose-quietcomfort-headphones-all-colors-refurbished-139-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22610853.thumb",
+   "posted": "2026-11-26T15:04:14+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": true,
+   "checked_at": "2026-11-26T16:53:21+00:00",
+   "real_price": 139.0,
+   "real_old": 359.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&tid=20405100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2cf31eee9b911f195c96229170f4432&au=4a383948a91b41e580c5e363d5d3b83a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb0fe8960911",
@@ -13319,10 +13355,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&tid=20402364&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c55631ae9b911f1824866359df0a70f&au=516a827cd52746bc873e448b772e2cd1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:48:42+00:00",
    "real_price": 499.99,
-   "real_old": 649.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&tid=20402364&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c55631ae9b911f1824866359df0a70f&au=516a827cd52746bc873e448b772e2cd1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 649.99
   },
   {
    "id": "t4e4e966aac3",
@@ -13791,6 +13827,23 @@
    "checked_at": "2026-11-26T06:53:54+00:00",
    "real_price": 598.98,
    "real_old": 799.0
+  },
+  {
+   "id": "t2d4dc710a80",
+   "title": "MacBook Air: 13.6\", M5, 16GB RAM, 1TB SSD, & More $1199.99",
+   "price": 1199.99,
+   "old_price": 1599.99,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401905-macbook-air-13-6-m5-16gb-ram-1tb-ssd-more-1199-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22602573.thumb",
+   "posted": "2026-11-26T06:49:19+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:53:23+00:00",
+   "real_price": 1199.99,
+   "real_old": 1599.99
   },
   {
    "id": "t5065348751e",
@@ -14270,10 +14323,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:48:43+00:00",
    "real_price": 14.99,
-   "real_old": 24.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 24.99
   },
   {
    "id": "t0d3caf445e4",
@@ -14627,8 +14680,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ea415bce9b911f1b501c6fa4f60dbd6&au=3b08a335fe8a44f59fbbc80c37b131e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:48:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e560eb82e9b911f1a8fcae6bb055d708&au=5876cde5669545afbb0c82bf52b19b69&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:53:25+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15682,60 +15735,6 @@
    "checked_at": "2026-11-26T04:04:46+00:00",
    "real_price": 79.91,
    "real_old": 129.0
-  },
-  {
-   "id": "tb93207ca6c0",
-   "title": "SEHMUA 4G LTE Cellular Solar Security Camera Wireless Outdoor, No Wi-Fi Solar Powered Camera with 2K Color Night Vision $19.99 AC",
-   "price": 19.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399583-sehmua-4g-lte-cellular-solar-security-camera-wireless-outdoor-no-wi-fi-solar-powered-camera-with-2k-color-night-vision-19-99-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22596600.thumb",
-   "posted": "2026-11-26T00:59:44+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399583&tid=20399583&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b983d2d0e99211f185dd16c12f463110&au=2f38a093178b4456a3294990011af611&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T12:13:01+00:00",
-   "real_price": 19.99,
-   "real_old": 39.99
-  },
-  {
-   "id": "tb4e7c07f43e",
-   "title": "$139.99: TOSHIBA 43\" Class M450 Series QLED 4K UHD Smart Fire TV at Amazon",
-   "price": 139.99,
-   "old_price": 199.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399574-139-99-toshiba-43-class-m450-series-qled-4k-uhd-smart-fire-tv-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22596519.thumb",
-   "posted": "2026-11-26T00:57:58+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399574&tid=20399574&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eac9b85ae94711f19912dedc8bf920ad&au=205c62babc1940e1a7b28b9d04ae391a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:17:32+00:00",
-   "real_price": 139.99,
-   "real_old": 199.99
-  },
-  {
-   "id": "t64140614c60",
-   "title": "Refurb: Sony WF-1000XM6 Noise Cancelling Wireless Earbuds $148 + Free S&H",
-   "price": 148.0,
-   "old_price": 185.0,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20380206-sony-wf-1000xm6-148-refurbished-secondipity?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22596432.thumb",
-   "posted": "2026-11-26T00:54:37+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20380206&pno=1374354&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d1f69c4e93411f1b0c68e68eba1504d&au=4f3a50fa88b24059ad190597ea64a730&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:58:54+00:00",
-   "real_price": 148.0,
-   "real_old": 185.0
   }
  ],
  "tech": [
@@ -16033,6 +16032,33 @@
      "store": "Samsung",
      "price": 680.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401947&pno=1374975&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7be99fe0e9ab11f186a37a302d004c72&au=05edff9de98543149f0994affff81893&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t129a6595e1b",
+   "title": "Bose QuietComfort Headphones (all colors) - Refurbished &more",
+   "price": 139.0,
+   "old_price": 359.0,
+   "store": "Bose",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&tid=20405100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2cf31eee9b911f195c96229170f4432&au=4a383948a91b41e580c5e363d5d3b83a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&tid=20405100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2cf31eee9b911f195c96229170f4432&au=4a383948a91b41e580c5e363d5d3b83a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22610853.thumb",
+   "posted": "2026-11-26T15:04:14+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Bose",
+     "price": 139.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&tid=20405100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e2cf31eee9b911f195c96229170f4432&au=4a383948a91b41e580c5e363d5d3b83a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18939,34 +18965,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&tid=20399784&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efd7c170e95611f18d5e6628900e6211&au=ad79a33c28f442dfa4912956cf89ce6f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t301d4844f43",
-   "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm 2025 (Several Styles and Bands) @Best Buy - Save (Comp. Value: ) YMMV on stock-BF Deal",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&tid=20399775&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2bae3e66e94f11f19c3b465b432d7ba4&au=03f1ca5e7d764e348bc99090f3f23d32&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&tid=20399775&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2bae3e66e94f11f19c3b465b432d7ba4&au=03f1ca5e7d764e348bc99090f3f23d32&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/0/0/4/8/300x300/22597074.thumb",
-   "posted": "2026-11-26T01:25:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399775&tid=20399775&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2bae3e66e94f11f19c3b465b432d7ba4&au=03f1ca5e7d764e348bc99090f3f23d32&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T16:49:32+00:00"
+ "updated": "2026-11-26T16:54:14+00:00"
 }
