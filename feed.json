@@ -14,13 +14,13 @@
    "posted": "2026-11-26T13:46:38+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T13:48:46+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&tid=20404392&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=19a51806e9a011f19a20fe003e3fb7d2&au=287982e2b8f747928a77133784e9edc7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T13:48:46+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "001a91973782",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T13:46:38+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T13:48:48+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&tid=20404392&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=1b1d7a16e9a011f19839629eec2e1c58&au=8169bada58ef441aa08c757586f42e36&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T13:48:48+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "d006a72a31e6",
@@ -647,7 +647,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e35f06e96e11f185149e87e3b1bc03&au=378664482716475785edb25a1862b56d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:51:37+00:00",
+   "checked_at": "2026-11-26T13:53:38+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -668,7 +668,7 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20402271&tid=20402271&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3614d918e96e11f1abf89e87e3b1bc03&au=488e6daab5c146a9809f517d258639c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:51:39+00:00",
+   "checked_at": "2026-11-26T13:53:40+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1474,7 +1474,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T11:52:43+00:00",
+   "checked_at": "2026-11-26T13:53:43+00:00",
    "real_price": 27.99,
    "real_old": 58.99,
    "category_ok": true
@@ -11441,10 +11441,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20396727&pno=1374879&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=40cdb406e9a011f1ae670a1ddd2f4c71&au=cadba0e0200f4603afbe2337f6e3b7f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:49:52+00:00",
    "real_price": 199.0,
-   "real_old": 497.84,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20396727&pno=1374879&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=40cdb406e9a011f1ae670a1ddd2f4c71&au=cadba0e0200f4603afbe2337f6e3b7f6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 497.84
   },
   {
    "id": "t03d04b2870d",
@@ -12000,10 +12000,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402400&tid=20402400&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4229b76ee9a011f19fecced2f195ceee&au=29666b8c7a99424d8d43dc49b6c0c881&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:49:54+00:00",
    "real_price": 129.0,
-   "real_old": 145.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402400&tid=20402400&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=4229b76ee9a011f19fecced2f195ceee&au=29666b8c7a99424d8d43dc49b6c0c881&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 145.0
   },
   {
    "id": "t9510fe073dc",
@@ -13112,8 +13112,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=435d21dee9a011f1965822f078095530&au=1dbf89a5f9d0470d96336b3a4455c8ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:49:56+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ecf5fcace9a011f1a5fc26fbbfedbab9&au=aab90e5a94e745cba5af941c53e3bae5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:54:41+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15154,6 +15154,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -18825,7 +18828,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19026,5 +19029,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T13:50:52+00:00"
+ "updated": "2026-11-26T13:55:39+00:00"
 }
