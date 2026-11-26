@@ -437,7 +437,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d664d8a8e97511f180daeeb5c4c7a263&au=3a02fac36c424aac93439e20eac550df&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:46:14+00:00",
+   "checked_at": "2026-11-26T14:50:04+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -458,7 +458,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d76e2498e97511f19621f68c7a7d4440&au=e8839ebb6e2943af85a79ef68fc323b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:46:16+00:00",
+   "checked_at": "2026-11-26T14:50:06+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -500,7 +500,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=d8acc116e97511f199f9f68ba3694dbc&au=ef50bf2a0bb34e0e823c5585182dccb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:46:18+00:00",
+   "checked_at": "2026-11-26T14:50:08+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -521,7 +521,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=d9bd64e8e97511f18642161b2fbab97e&au=8bbef458057a470289ff361653598ad8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T08:46:20+00:00",
+   "checked_at": "2026-11-26T14:50:10+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -11416,10 +11416,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400177&pno=1374930&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=23cd4788e9a811f1a523e23d847dc1c0&au=edfecaaa5bfa449888c02e71d5d806ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:46:19+00:00",
    "real_price": 89.99,
-   "real_old": 169.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400177&pno=1374930&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=23cd4788e9a811f1a523e23d847dc1c0&au=edfecaaa5bfa449888c02e71d5d806ee&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 169.99
   },
   {
    "id": "tfac7c7e3ad2",
@@ -11560,10 +11560,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20404443&tid=20404443&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=252e1148e9a811f1bc60ca4029f35a59&au=cc59912257f6469b98d3a39895c86e96&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:46:21+00:00",
    "real_price": 24.98,
-   "real_old": 49.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20404443&tid=20404443&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=252e1148e9a811f1bc60ca4029f35a59&au=cc59912257f6469b98d3a39895c86e96&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.98
   },
   {
    "id": "t7688b095017",
@@ -11600,6 +11600,24 @@
    "checked_at": "2026-11-26T13:49:52+00:00",
    "real_price": 199.0,
    "real_old": 497.84
+  },
+  {
+   "id": "t34b2b069050",
+   "title": "[Resale] $125.26 | Apple Magic Keyboard: Keyboard and Case for iPad Air 11-inch (M2 and M3) and iPad Air (4th and 5th Generation) (Used - Like New) at Amazon",
+   "price": 125.26,
+   "old_price": 269.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404311-resale-125-26-apple-magic-keyboard-keyboard-and-case-for-ipad-air-11-inch-m2-and-m3-and-ipad-air-4th-and-5th-generation-used-like-new-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22609047.thumb",
+   "posted": "2026-11-26T13:38:36+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "checked_at": "2026-11-26T14:51:06+00:00",
+   "real_price": 125.26,
+   "real_old": 269.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404311&tid=20404311&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=cef2423ae9a811f1a22e6e278ea8cacd&au=612fddb52eb04af3a565615839f23bba&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t03d04b2870d",
@@ -13416,8 +13434,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=265e1f90e9a811f1bd3a625ae792fa71&au=01603ac1d6fb4fa289045c7ec29990a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T14:46:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d0522686e9a811f1931b724e84f11dbb&au=a72cd96f4b3d4892976ef2ed3579d081&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T14:51:08+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15735,27 +15753,6 @@
    "real_price": 849.99,
    "real_old": 1444.96,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20397348&tid=20397348&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=823fc5a6e90e11f183bad66a7c8998b9&au=813da17d7d314ef0a9447eae7fad8453&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t2bce50c0317",
-   "title": "Prime Members ORICO USB 3.1 10Gbps to M.2 NVMe SSD Enclosure $10.48 + Free Shipping",
-   "price": 10.48,
-   "old_price": 19.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20397312-prime-members-orico-usb-3-1-10gbps-to-m-2-nvme-ssd-enclosure-10-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22590972.thumb",
-   "posted": "2026-11-25T19:39:05+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "code": "ORICONVME22",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397312&tid=20397312&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=84ce1c1ee96811f197264a6b66202b6d&au=a6be27bda54c4ea093d4448269d74991&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:10:54+00:00",
-   "real_price": 10.48,
-   "real_old": 19.99
   }
  ],
  "tech": [
@@ -15837,6 +15834,33 @@
      "store": "Amazon",
      "price": 1199.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=424edceae9a211f1bf11fe003e3fb7d2&au=0a7a1e28b18b4d02a1e3ea41c6676692&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t34b2b069050",
+   "title": "[Resale] | Apple Magic Keyboard: Keyboard and Case for iPad Air 11-inch (M2 and M3) and iPad Air (4th and 5th Generation) (Used - Like New)",
+   "price": 125.26,
+   "old_price": 269.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404311&tid=20404311&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=cef2423ae9a811f1a22e6e278ea8cacd&au=612fddb52eb04af3a565615839f23bba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404311&tid=20404311&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=cef2423ae9a811f1a22e6e278ea8cacd&au=612fddb52eb04af3a565615839f23bba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22609047.thumb",
+   "posted": "2026-11-26T13:38:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 125.26,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404311&tid=20404311&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=cef2423ae9a811f1a22e6e278ea8cacd&au=612fddb52eb04af3a565615839f23bba&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18959,34 +18983,7 @@
      "url": "https://www.walmart.com/ip/20940963207"
     }
    ]
-  },
-  {
-   "id": "tb5947061108",
-   "title": "AMD Ryzen 7 5700X AM4 CPU + 120mm Rosewill CPU Air Cooler",
-   "price": 159.0,
-   "old_price": 340.0,
-   "store": "Newegg",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/2/9/1/5/7/6/300x300/22576503.thumb",
-   "posted": "2026-11-25T20:51:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Newegg",
-     "price": 159.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T14:47:17+00:00"
+ "updated": "2026-11-26T14:52:07+00:00"
 }
