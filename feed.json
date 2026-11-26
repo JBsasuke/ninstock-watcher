@@ -143,10 +143,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=f9d3a9c4e91911f19838c2b7c1e0cc5d&au=11f8d557269342378dc35a528b2e5bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T21:48:40+00:00",
+   "checked_at": "2026-11-26T03:49:55+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "62b045df05f8",
@@ -164,10 +165,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=faf7bc64e91911f1870bc2b7c1e0cc5d&au=1cdf02151fd845669a44847306599ebf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T21:48:43+00:00",
+   "checked_at": "2026-11-26T03:49:56+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "38abcfc84403",
@@ -3201,7 +3203,7 @@
    "expired": true
   }
  ],
- "deku_checked": "2026-11-26T02:48:43+00:00",
+ "deku_checked": "2026-11-26T03:49:57+00:00",
  "deals": [
   {
    "id": "676d16618500",
@@ -3259,13 +3261,13 @@
    "price": 30.0,
    "old_price": 69.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=f9d3a9c4e91911f19838c2b7c1e0cc5d&au=11f8d557269342378dc35a528b2e5bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=f9d3a9c4e91911f19838c2b7c1e0cc5d&au=11f8d557269342378dc35a528b2e5bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=4fca9940e91b11f19019c2b7c1e0cc5d&au=c84bdf7fec7e447e88d53e9333725cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=4fca9940e91b11f19019c2b7c1e0cc5d&au=c84bdf7fec7e447e88d53e9333725cd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "offers": [
     {
      "store": "Amazon",
      "price": 30.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=f9d3a9c4e91911f19838c2b7c1e0cc5d&au=11f8d557269342378dc35a528b2e5bb1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398164&tid=20398164&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=4fca9940e91b11f19019c2b7c1e0cc5d&au=c84bdf7fec7e447e88d53e9333725cd7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     },
     {
      "store": "Walmart",
@@ -4369,7 +4371,7 @@
      "url": "https://www.gamestop.com/products/hyperspace-neptunia-unlimited/454681.html"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "IDEA FACTORY",
    "digital": null,
@@ -4412,7 +4414,7 @@
      "url": "https://www.target.com/p/-/A-1014334840"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Deep Silver",
    "digital": null,
@@ -4430,7 +4432,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": null,
@@ -4474,7 +4476,7 @@
      "url": "https://www.walmart.com/ip/21043860036"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -4492,7 +4494,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": null,
@@ -4536,7 +4538,7 @@
      "url": "https://www.walmart.com/ip/21226954933"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQUBE",
    "digital": null,
@@ -4556,7 +4558,7 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 155.03,
+     "price": 155.0,
      "url": "https://www.amazon.com/dp/B0FN6T3WFD"
     },
     {
@@ -4565,7 +4567,7 @@
      "url": "https://www.gamestop.com/products/007-first-light-legacy-edition/432065.html"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4608,7 +4610,7 @@
      "url": "https://www.walmart.com/ip/21275204926"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -4652,7 +4654,7 @@
      "url": "https://www.target.com/p/-/A-94948520"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "IO Interactive",
    "digital": null,
@@ -4670,7 +4672,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nokta Games",
    "digital": null,
@@ -4714,7 +4716,7 @@
      "url": "https://www.walmart.com/ip/19534412741"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4742,7 +4744,7 @@
      "url": "https://www.gamestop.com/products/spooky-spirit-shooting-gallery/391838.html"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aksys Games",
    "digital": {
@@ -4769,7 +4771,7 @@
      "url": "https://www.amazon.com/dp/B0HF5D2S1J"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4786,7 +4788,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Kalypso Media",
    "digital": null,
@@ -4804,7 +4806,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "iDiOSLAB",
    "digital": null,
@@ -4822,7 +4824,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Daybreak Games",
    "digital": null,
@@ -4866,7 +4868,7 @@
      "url": "https://www.gamestop.com/products/hello-kitty-and-friends-freeze-tag-party/431538.html"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nighthawk Interactive",
    "digital": {
@@ -4893,7 +4895,7 @@
      "url": "https://www.amazon.com/dp/B0H8XCJLH2"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4911,12 +4913,17 @@
    "collector": true,
    "offers": [
     {
+     "store": "Amazon",
+     "price": 199.99,
+     "url": "https://www.amazon.com/dp/B0H5SRNFML"
+    },
+    {
      "store": "GameStop",
      "price": 199.99,
      "url": "https://www.gamestop.com/products/tomb-raider-legacy-of-atlantis-collectors-edition/447337.html"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -4933,7 +4940,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "株式会社カプコン",
    "digital": null,
@@ -4951,7 +4958,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bushiroad",
    "digital": null,
@@ -4995,7 +5002,7 @@
      "url": "https://www.walmart.com/ip/21250172833"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO America",
    "digital": null,
@@ -5013,7 +5020,7 @@
    "release_date": null,
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "G-MODE",
    "digital": null,
@@ -5052,7 +5059,7 @@
      "url": "https://www.walmart.com/ip/20399806019"
     }
    ],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MAX ENT GAMES",
    "digital": null,
@@ -5070,7 +5077,7 @@
    "release_date": null,
    "collector": true,
    "offers": [],
-   "offers_checked": "2026-11-25T21:35:34+00:00",
+   "offers_checked": "2026-11-26T03:50:14+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -9612,7 +9619,7 @@
    "title": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
    "url": "https://www.dekudeals.com/items/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition",
    "image": "https://cdn.dekudeals.com/images/ae3bb0f74ecab38f3d90c3293aaa4693ced1c34d/w540.jpg",
-   "price": 89.97,
+   "price": null,
    "old_price": null,
    "release": "August 11, 2026",
    "release_date": "2026-08-11",
@@ -11554,10 +11561,10 @@
    "code": "3W6R98RP",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&tid=20400252&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eb9b786ee94b11f180c29e87e3b1bc03&au=0fd63e3d295f4c22a1016788db395a61&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T03:46:11+00:00",
    "real_price": 9.99,
-   "real_old": 29.69,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400252&tid=20400252&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=eb9b786ee94b11f180c29e87e3b1bc03&au=0fd63e3d295f4c22a1016788db395a61&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 29.69
   },
   {
    "id": "t4324f9ef502",
@@ -11718,10 +11725,28 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399811&tid=20399811&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ecbf590ee94b11f19e44f69a715adbe8&au=439003e71f4140f68d201ff626479f42&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T03:46:13+00:00",
    "real_price": 199.99,
-   "real_old": 249.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399811&tid=20399811&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ecbf590ee94b11f19e44f69a715adbe8&au=439003e71f4140f68d201ff626479f42&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.99
+  },
+  {
+   "id": "t0b931770242",
+   "title": "$124.99: Greenworks 24V Brushless 4-Tool Combo Kit, (2) 2.0Ah Batteries, USB-C Charger at Walmart.com",
+   "price": 124.99,
+   "old_price": 249.97,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20399790-124-99-greenworks-24v-brushless-4-tool-combo-kit-2-2-0ah-batteries-usb-c-charger-at-walmart-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22597278.thumb",
+   "posted": "2026-11-26T01:28:23+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T03:52:02+00:00",
+   "real_price": 124.99,
+   "real_old": 249.97,
+   "store_url": "https://www.walmart.com/ip/16740554635"
   },
   {
    "id": "t7a91039628d",
@@ -11919,10 +11944,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20399295&tid=20399295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edf09482e94b11f1b742da819bccac81&au=af7a0ea9260147ffbfcb56762a899cae&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T03:46:15+00:00",
    "real_price": 185.0,
-   "real_old": 400.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20399295&tid=20399295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edf09482e94b11f1b742da819bccac81&au=af7a0ea9260147ffbfcb56762a899cae&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 400.0
   },
   {
    "id": "tbbbb59e9dc8",
@@ -13822,9 +13847,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -14017,8 +14039,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ef8aae4ae94b11f1b6f9ce2ecbd5bdca&au=ad5f2c2a095f4d189553f4d81d6b9089&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:46:18+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=be6ea0fee94c11f194c856a12d7bd5aa&au=aebcc0371b6a4ff5b96d1a1f38fe28fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:52:05+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14372,9 +14394,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -14396,8 +14415,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f0ebaf14e94b11f1bc65fe537e62e76e&au=d599d02bbc674991a5a4c35017f2f74b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:46:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bfd54ea2e94c11f1bae5be3f5266b794&au=09097100f95c4f17ba79c30abc3027be&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:52:07+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15865,24 +15884,6 @@
    "checked_at": "2026-11-25T08:54:08+00:00",
    "real_price": 599.99,
    "real_old": 699.0
-  },
-  {
-   "id": "tca13a8c5aa3",
-   "title": "DEWALT ToughCase Bi-metal Wood/Metal cutting Demolition Reciprocating Saw Blade Set 16 -Pack | DW4899C $19.98",
-   "price": 19.98,
-   "old_price": 29.98,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20392968-dewalt-toughcase-bi-metal-wood-metal-cutting-demolition-reciprocating-saw-blade-set-16-pack-dw4899c-19-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22579185.thumb",
-   "posted": "2026-11-25T08:24:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20392968&tid=20392968&prop=diavail-true%7Cdincp-1%7Cdinpd-14%7Cdipgavail-true&pv=8d17223ae8dc11f18a806a82603adb7c&au=b771b5de4c5946a3a6338d4b8810cb9a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:28:58+00:00",
-   "real_price": 19.98,
-   "real_old": 29.98
   }
  ],
  "tech": [
@@ -16018,6 +16019,33 @@
      "store": "Walmart",
      "price": 149.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395851&pno=1374480&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=341b126ee94411f19b789e87e3b1bc03&au=17da757883834e62bcaaefe24b4fb6c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0b931770242",
+   "title": ": Greenworks 24V Brushless 4-Tool Combo Kit, (2) 2.0Ah Batteries, USB-C Charger",
+   "price": 124.99,
+   "old_price": 249.97,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/16740554635",
+   "url": "https://www.walmart.com/ip/16740554635",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22597278.thumb",
+   "posted": "2026-11-26T01:28:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 124.99,
+     "url": "https://www.walmart.com/ip/16740554635"
     }
    ]
   },
@@ -17822,7 +17850,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": "BESTOFPC",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18028,8 +18056,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ef8aae4ae94b11f1b6f9ce2ecbd5bdca&au=ad5f2c2a095f4d189553f4d81d6b9089&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ef8aae4ae94b11f1b6f9ce2ecbd5bdca&au=ad5f2c2a095f4d189553f4d81d6b9089&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=be6ea0fee94c11f194c856a12d7bd5aa&au=aebcc0371b6a4ff5b96d1a1f38fe28fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=be6ea0fee94c11f194c856a12d7bd5aa&au=aebcc0371b6a4ff5b96d1a1f38fe28fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18045,7 +18073,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ef8aae4ae94b11f1b6f9ce2ecbd5bdca&au=ad5f2c2a095f4d189553f4d81d6b9089&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=be6ea0fee94c11f194c856a12d7bd5aa&au=aebcc0371b6a4ff5b96d1a1f38fe28fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18298,8 +18326,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f0ebaf14e94b11f1bc65fe537e62e76e&au=d599d02bbc674991a5a4c35017f2f74b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f0ebaf14e94b11f1bc65fe537e62e76e&au=d599d02bbc674991a5a4c35017f2f74b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bfd54ea2e94c11f1bae5be3f5266b794&au=09097100f95c4f17ba79c30abc3027be&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bfd54ea2e94c11f1bae5be3f5266b794&au=09097100f95c4f17ba79c30abc3027be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18315,7 +18343,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f0ebaf14e94b11f1bc65fe537e62e76e&au=d599d02bbc674991a5a4c35017f2f74b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bfd54ea2e94c11f1bae5be3f5266b794&au=09097100f95c4f17ba79c30abc3027be&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19074,34 +19102,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20391501&pno=1373721&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3ebf01dce8c511f1a420ea05b6b8cbf3&au=31c38cfd54c446e5a112512fce768029&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tcbc9666111c",
-   "title": "Compustar 2-Way Remote Car Starter Kit",
-   "price": 399.99,
-   "old_price": 649.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&pno=1373712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9902422e8c111f1b0883295aa46e244&au=424f70eb48f0445ea9395b5e1640ac54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&pno=1373712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9902422e8c111f1b0883295aa46e244&au=424f70eb48f0445ea9395b5e1640ac54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/7/4/8/3/2/8/300x300/22578042.thumb",
-   "posted": "2026-11-25T11:10:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20392434&pno=1373712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9902422e8c111f1b0883295aa46e244&au=424f70eb48f0445ea9395b5e1640ac54&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T03:47:09+00:00"
+ "updated": "2026-11-26T03:52:58+00:00"
 }
