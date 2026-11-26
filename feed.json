@@ -1681,7 +1681,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=793203aae83411f1b87b8246bc31b55e&au=9795f51f800e4e42bcc2cba293149030&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:34:55+00:00",
+   "checked_at": "2026-11-26T06:37:47+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1702,7 +1702,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7a55e8dce83411f1bdabced9e43f0538&au=2f24cbe67aa44b4cabd89909e69d8987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T00:34:57+00:00",
+   "checked_at": "2026-11-26T06:37:49+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -11461,6 +11461,59 @@
  ],
  "raw_tech": [
   {
+   "id": "t14344150708",
+   "title": "49mm Apple Watch Ultra 4 GPS + Cellular Smartwatch (Gray Ocean Band) $650 + Free S&H",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20401629-649-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-w-gray-ocean-band-one-size-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602156.thumb",
+   "posted": "2026-11-26T06:37:27+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:38:47+00:00",
+   "real_price": 649.99,
+   "real_old": 799.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=08970646e96411f187815a19ce7e9572&au=76bcbed61bd84c74865dee8ef68d72a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t003ef2f7ec4",
+   "title": "[11/26 12am PT] Costco: Apple AirPods Pro 3 ANC Wireless Earbuds + 2 Years AppleCare+ $150 + Free S&H",
+   "price": 149.99,
+   "old_price": 249.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20400945-11-26-12am-pt-costco-apple-airpods-pro-3-anc-wireless-earbuds-2-years-applecare-150-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600224.thumb",
+   "posted": "2026-11-26T06:36:16+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:38:49+00:00",
+   "real_price": 149.99,
+   "real_old": 249.0
+  },
+  {
+   "id": "tea54b628efd",
+   "title": "43\" Insignia F50 4K UHD 60Hz Smart Fire TV $90 + Free S&H",
+   "price": 89.99,
+   "old_price": 199.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401443-best-buy-insgina-43-f50-4k-led-smart-tv-90?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22602129.thumb",
+   "posted": "2026-11-26T06:33:09+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T06:38:52+00:00",
+   "real_price": 89.99,
+   "real_old": 199.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0aefba00e96411f1b4d742e1fd4b2f3d&au=b64d168e05434991ae5a96370000470a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5041ffd8650",
    "title": "Costco Members: 13.6\" MacBook Air (2026): M5 10-Core Chip, 16GB, 512GB $1000 + Free S&H",
    "price": 999.99,
@@ -11490,10 +11543,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T06:34:03+00:00",
    "real_price": 749.99,
-   "real_old": 1099.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1099.99
   },
   {
    "id": "tfe401fded8d",
@@ -11565,10 +11618,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T06:34:05+00:00",
    "real_price": 598.98,
-   "real_old": 799.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&tid=20401452&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603de6aee96311f1ac43be3f5266b794&au=b66863751eb34fab8f7392f1e4289932&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 799.0
   },
   {
    "id": "t271ea03916f",
@@ -14844,6 +14897,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -15036,8 +15092,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:34:07+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0c401a4ee96411f1885506793d79112d&au=900d811549664480ab17a159bbdd4a12&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:38:54+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15412,8 +15468,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=62f947a8e96311f18928dedc8bf920ad&au=b2bb36ac04384f5881aae915d0bc242a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:34:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0d61d548e96411f18c39dedc8bf920ad&au=dbcc9b9bac78411d9381155d762af27d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T06:38:56+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15836,67 +15892,63 @@
    "checked_at": "2026-11-25T14:28:54+00:00",
    "real_price": 299.95,
    "real_old": 579.95
-  },
-  {
-   "id": "t5337113b6bb",
-   "title": "Sennheiser HD 650 Audiophile Hi-Res Open Back Dynamic Headphones $300 + Free S&H",
-   "price": 299.95,
-   "old_price": 579.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393703-sennheiser-hd-650-audiophile-hi-res-open-back-dynamic-headphones-300-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22581195.thumb",
-   "posted": "2026-11-25T14:24:19+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20393703&pno=1373793&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=3a014cd4e92111f18d4f166b3cd67f10&au=e83ff1276a324cfd84ae3bb341e225e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T22:40:34+00:00",
-   "expired": true,
-   "real_price": 299.95,
-   "real_old": 579.95
-  },
-  {
-   "id": "t8b6573b93ed",
-   "title": "Air Tracker Tags-4 Pack for Apple Find My, iOS Only, Official MFi Certified Mini Bluetooth Key Finder locator with sound $9.87",
-   "price": 9.87,
-   "old_price": 18.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20394510-air-tracker-tags-4-pack-for-apple-find-my-ios-only-official-mfi-certified-mini-bluetooth-key-finder-locator-with-sound-9-87?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22583190.thumb",
-   "posted": "2026-11-25T14:23:40+00:00",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "prio": 15,
-   "refurb": false,
-   "code": "7L89PLFN",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394510&tid=20394510&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2b0283b0e8e011f19b3d3639aa82b60b&au=8bd652c072804412ab203647d5915a7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:54:52+00:00",
-   "real_price": 9.87,
-   "real_old": 18.99
-  },
-  {
-   "id": "tcb46cd2d302",
-   "title": "Select Accts: 60-Ct TUMS Chewy Bites Antacid Tablets (Assorted Berries) $5.15 w/ S&S",
-   "price": 5.13,
-   "old_price": 9.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393895-60-count-tums-chewy-bites-antacid-tablets-assorted-berries-5-13-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581585.thumb",
-   "posted": "2026-11-25T14:18:32+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393895&pno=1373787&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b30fe6e4e8db11f18322127cddf49957&au=8e4781d86c8a4b7dac1a1b31b70bd0c0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T14:22:53+00:00",
-   "real_price": 5.13,
-   "real_old": 9.99
   }
  ],
  "tech": [
+  {
+   "id": "t14344150708",
+   "title": "49mm Apple Watch Ultra 4 GPS + Cellular Smartwatch (Gray Ocean Band) + Free S&H",
+   "price": 649.99,
+   "old_price": 799.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=08970646e96411f187815a19ce7e9572&au=76bcbed61bd84c74865dee8ef68d72a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=08970646e96411f187815a19ce7e9572&au=76bcbed61bd84c74865dee8ef68d72a0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602156.thumb",
+   "posted": "2026-11-26T06:37:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 649.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=08970646e96411f187815a19ce7e9572&au=76bcbed61bd84c74865dee8ef68d72a0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tea54b628efd",
+   "title": "43\" Insignia F50 4K UHD 60Hz Smart Fire TV + Free S&H",
+   "price": 89.99,
+   "old_price": 199.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0aefba00e96411f1b4d742e1fd4b2f3d&au=b64d168e05434991ae5a96370000470a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0aefba00e96411f1b4d742e1fd4b2f3d&au=b64d168e05434991ae5a96370000470a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22602129.thumb",
+   "posted": "2026-11-26T06:33:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 89.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0aefba00e96411f1b4d742e1fd4b2f3d&au=b64d168e05434991ae5a96370000470a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tf5ee7007e57",
    "title": "256GB Apple iPhone Air Unlocked Smartphone (4 Colors) + Free S&H",
@@ -18739,7 +18791,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18945,8 +18997,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0c401a4ee96411f1885506793d79112d&au=900d811549664480ab17a159bbdd4a12&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0c401a4ee96411f1885506793d79112d&au=900d811549664480ab17a159bbdd4a12&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18962,7 +19014,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=616968a0e96311f1819d5a19ce7e9572&au=b86b0c4bfd2f4ac5984344452dc21c04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=0c401a4ee96411f1885506793d79112d&au=900d811549664480ab17a159bbdd4a12&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19046,61 +19098,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395392&tid=20395392&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58ac3f52e92811f193064e37183b0818&au=6e83d3b22eea4b769a3d018067cda862&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf8ac08aa9ad",
-   "title": "MSI - Cyborg 15 Max 15.6\" 2 K 144hz FHD Gaming Laptop Intel i7-13620H - GeForce RTX 5070 - 16GB Memory - 512GB SSD",
-   "price": 1199.99,
-   "old_price": 1399.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20395320&tid=20395320&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3865bcc4e93b11f181788628339608dc&au=13c1cec8eb17420988cc73cd59ab8194&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20395320&tid=20395320&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3865bcc4e93b11f181788628339608dc&au=13c1cec8eb17420988cc73cd59ab8194&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22597647.thumb",
-   "posted": "2026-11-25T15:41:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 1199.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20395320&tid=20395320&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3865bcc4e93b11f181788628339608dc&au=13c1cec8eb17420988cc73cd59ab8194&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t7fa06662635",
-   "title": "Bose QuietComfort Wireless Noise Canceling Headphones Open Box FS Walmart.com",
-   "price": 109.0,
-   "old_price": 144.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/1922461952",
-   "url": "https://www.walmart.com/ip/1922461952",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/5/5/1/6/300x300/22585872.thumb",
-   "posted": "2026-11-25T15:40:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": true,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 109.0,
-     "url": "https://www.walmart.com/ip/1922461952"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T06:35:00+00:00"
+ "updated": "2026-11-26T06:39:42+00:00"
 }
