@@ -269,7 +269,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&pno=1375086&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=d165d7ece9b311f1af2be23d847dc1c0&au=e704fbf65f3743f687f830803eac93bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T16:09:55+00:00",
+   "checked_at": "2026-11-26T22:12:07+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -754,7 +754,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3df69046e98111f18773ae6bb055d708&au=471c3f0f26994a079277bc55823124ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T16:09:57+00:00",
+   "checked_at": "2026-11-26T22:12:09+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -2360,6 +2360,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11373,6 +11375,24 @@
    "real_old": 1397.99
   },
   {
+   "id": "te1c474ffaea",
+   "title": "Pelonis Oil Filled Radiator Heater for Indoor Use & Adjustable Thermostat $67.99",
+   "price": 67.99,
+   "old_price": 84.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20408916-pelonis-oil-filled-radiator-heater-for-indoor-use-adjustable-thermostat-67-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22620363.thumb",
+   "posted": "2026-11-26T21:42:16+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T22:13:04+00:00",
+   "real_price": 67.99,
+   "real_old": 84.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408916&tid=20408916&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8c955d6ce9e611f1810e9a4cc94bd7f7&au=034e8b04cbba4c59b96bf7ae8f73c059&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t384f34f44e0",
    "title": "Apple MacBook Air 13.6\" Laptop (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $999 + Free S&H",
    "price": 999.0,
@@ -12903,8 +12923,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e56f3fd0e9e511f1b230ca77583b76c5&au=f7198786c7694744b0206352d716510e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:08:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=8e0c67dae9e611f18084ba663e7a2d64&au=eb55f53fb30f47249dea2036e73591c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T22:13:06+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13712,6 +13732,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "YUSLV2LLNZCBKRCM",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15730,23 +15753,6 @@
    "checked_at": "2026-11-26T06:38:52+00:00",
    "real_price": 89.99,
    "real_old": 199.99
-  },
-  {
-   "id": "t5041ffd8650",
-   "title": "Costco Members: 13.6\" MacBook Air (2026): M5 10-Core Chip, 16GB, 512GB $1000 + Free S&H",
-   "price": 999.99,
-   "old_price": 1299.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401158-macbook-air-laptop-13-inch-with-apple-m5-chip-built-for-apple-intelligence-999-99-at-costco?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22601367.thumb",
-   "posted": "2026-11-26T06:31:55+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-26T06:34:00+00:00",
-   "real_price": 999.99,
-   "real_old": 1299.0
   }
  ],
  "tech": [
@@ -18973,5 +18979,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T22:09:17+00:00"
+ "updated": "2026-11-26T22:13:58+00:00"
 }
