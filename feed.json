@@ -1033,6 +1033,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1658,7 +1660,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369271&pno=1371522&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=50c800c4e82311f1ad5272351a84d088&au=acfe6db78b0646f0b1e0862c18d64475&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T22:26:05+00:00",
+   "checked_at": "2026-11-26T04:27:11+00:00",
    "real_price": 59.88,
    "real_old": 69.99,
    "category_ok": true
@@ -2045,7 +2047,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367879&pno=1372239&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=d1a563f4e7f011f18f446636fa90d852&au=bb5b9f9ed3ff403ea2f615376b6ff829&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T22:26:07+00:00",
+   "checked_at": "2026-11-26T04:27:14+00:00",
    "real_price": 24.88,
    "real_old": 50.0,
    "category_ok": true
@@ -11439,6 +11441,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tcfd4af09400",
+   "title": "Logitech G502 HERO Wired Gaming Mouse w/ HERO 25K Sensor for PC/Mac $30 + Free S&H",
+   "price": 29.99,
+   "old_price": 69.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20385639-29-99-logitech-g502-hero-wired-optical-gaming-mouse-with-rgb-lighting-wired-black?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
+   "posted": "2026-11-26T04:25:55+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T04:28:11+00:00",
+   "real_price": 29.99,
+   "real_old": 69.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6ab784178a8",
    "title": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset (Black) $155.65 + Free S&H",
    "price": 155.64,
@@ -11493,6 +11513,27 @@
    "checked_at": "2026-11-26T03:55:02+00:00",
    "real_price": 33.99,
    "real_old": 84.99
+  },
+  {
+   "id": "t4d5b9673571",
+   "title": "Airalo eSIM e-Sim Packages 25% Off & More",
+   "price": null,
+   "old_price": null,
+   "store": "Airalo",
+   "url": "https://slickdeals.net/f/20370219-airalo-25-off-e-sim-packages-stacks-with-ymmv-chase-offer-ends-november-30-2026?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/300x300/22599246.thumb",
+   "posted": "2026-11-26T03:35:03+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "BLACK25",
+   "code_until": null,
+   "promo": "25% Off",
+   "checked_at": "2026-11-26T04:28:13+00:00",
+   "real_price": 54.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Airalo&sdtid=20370219&pno=1374549&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca9c9ac0e95111f1ae8abe3f5266b794&au=31828e1f9fb241f0aa565e9dbc991928&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb2bfb37de49",
@@ -11655,6 +11696,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20345157&pno=1374489&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f56f138e94411f1b652a6a053f33dd7&au=1d2e0208423c4bc7afa8fad54f4e4ca0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T02:53:56+00:00",
    "real_price": 249.99
+  },
+  {
+   "id": "t62a8001f289",
+   "title": "Bose QuietComfort Bluetooth Wireless Noise Cancelling Headphones - Sandstone $169.99",
+   "price": 169.99,
+   "old_price": 359.99,
+   "store": "Target",
+   "url": "https://slickdeals.net/f/20400204-bose-quietcomfort-bluetooth-wireless-noise-cancelling-headphones-sandstone-169-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22598724.thumb",
+   "posted": "2026-11-26T02:50:00+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T04:28:15+00:00",
+   "real_price": 169.99,
+   "real_old": 359.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "teaa53c71b33",
@@ -14255,8 +14314,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20b4dc0ce95111f19d0a8628339608dc&au=b1d1db43f4e5443e81d1f1b77777eb3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:23:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cd154cb6e95111f192b73a799f4e9d75&au=98e8b79d52444e099e56fda000792862&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T04:28:17+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14631,8 +14690,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=220f8bb0e95111f18cec460c41e13790&au=c7f39fec723b4ae8a6042d2401c54168&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:23:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce4ed606e95111f1bc908628339608dc&au=9f77643f27524809b9d2fbe3f8e5af92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T04:28:19+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15828,66 +15887,36 @@
    "checked_at": "2026-11-25T12:46:35+00:00",
    "real_price": 29.99,
    "real_old": 126.93
-  },
-  {
-   "id": "t191e13330e4",
-   "title": "27\" Acer Nitro MG275U WQHD QD-MiniLED IPS FreeSync Premium Gaming Monitor $199.99 + Free Shipping",
-   "price": 199.99,
-   "old_price": 279.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393226-27-acer-nitro-mg275u-wqhd-qd-miniled-ips-freesync-premium-gaming-monitor-199-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22580016.thumb",
-   "posted": "2026-11-25T10:11:39+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393226&tid=20393226&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=aae0be18e8c111f1b2de7a55f551cdc8&au=8846c55c6731483fb822445ac830753d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:16:32+00:00",
-   "real_price": 199.99,
-   "real_old": 279.99
-  },
-  {
-   "id": "tc1947c2ebad",
-   "title": "Thermaltake LCGS Versa i570S Gaming Desktop: i9-14900KF, 32GB DDR5, RTX 5070 $1746 + Free S&H w/ Amazon Prime",
-   "price": 1745.99,
-   "old_price": 2199.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20392425-thermaltake-lcgs-versa-i570s-i9-14900kf-rtx-5070-32gb-ddr5-1tb-ssd-1745-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22580001.thumb",
-   "posted": "2026-11-25T10:10:42+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392425&pno=1373664&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c89aa6c0e8b811f1a9bc8647fde6dc56&au=b5a136c528cb4265b2016b2943d0cdad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T10:12:56+00:00",
-   "real_price": 1745.99,
-   "real_old": 2199.99
-  },
-  {
-   "id": "t7414487a01b",
-   "title": "$799.99 | ASUS ExpertBook P3 16” Business Laptop, AMD Ryzen AI5 330 PProcessor, 16GB RAM, 512GB SSD, WiFi 7, Windows 11 Pro, Misty Grey, PM3606CKA-XS54 at Amazon",
-   "price": 799.99,
-   "old_price": 1019.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393220-799-99-asus-expertbook-p3-16-business-laptop-amd-ryzen-ai5-330-pprocessor-16gb-ram-512gb-ssd-wifi-7-windows-11-pro-misty-grey-pm3606cka-xs54-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22579989.thumb",
-   "posted": "2026-11-25T10:09:56+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393220&tid=20393220&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9a53bc0ee8d411f1bbb46e5fea405845&au=b6e5ab0ab67e4db68b8a16cb754fe7e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T13:32:04+00:00",
-   "real_price": 799.99,
-   "real_old": 1019.99
   }
  ],
  "tech": [
+  {
+   "id": "tcfd4af09400",
+   "title": "Logitech G502 HERO Wired Gaming Mouse",
+   "price": 29.99,
+   "old_price": 69.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22560216.thumb",
+   "posted": "2026-11-26T04:25:55+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 29.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20385639&pno=1374606&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=c97443e6e95111f1ab09625a960ea76e&au=21b2ed5a70124908ac068b5c408b8d16&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t6ab784178a8",
    "title": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset (Black) + Free S&H",
@@ -15941,6 +15970,27 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20329446&pno=1374591&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=28e02c30e94f11f1bc65629b19690cf0&au=9856159b2fac431194754680263b29da&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
+  },
+  {
+   "id": "t4d5b9673571",
+   "title": "Airalo eSIM e-Sim Packages 25% Off & More",
+   "price": null,
+   "old_price": null,
+   "store": "Airalo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Airalo&sdtid=20370219&pno=1374549&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca9c9ac0e95111f1ae8abe3f5266b794&au=31828e1f9fb241f0aa565e9dbc991928&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Airalo&sdtid=20370219&pno=1374549&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ca9c9ac0e95111f1ae8abe3f5266b794&au=31828e1f9fb241f0aa565e9dbc991928&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/300x300/22599246.thumb",
+   "posted": "2026-11-26T03:35:03+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "BLACK25",
+   "code_until": null,
+   "promo": "25% Off",
+   "offers": []
   },
   {
    "id": "tb2bfb37de49",
@@ -16074,6 +16124,33 @@
      "store": "Amazon",
      "price": 249.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20345157&pno=1374489&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f56f138e94411f1b652a6a053f33dd7&au=1d2e0208423c4bc7afa8fad54f4e4ca0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t62a8001f289",
+   "title": "Bose QuietComfort Bluetooth Wireless Noise Cancelling Headphones - Sandstone",
+   "price": 169.99,
+   "old_price": 359.99,
+   "store": "Target",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22598724.thumb",
+   "posted": "2026-11-26T02:50:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Target",
+     "price": 169.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20400204&tid=20400204&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=cbce0564e95111f180afce2ecbd5bdca&au=d2fec66a107543fc9bd711c04fa9ce5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18300,8 +18377,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20b4dc0ce95111f19d0a8628339608dc&au=b1d1db43f4e5443e81d1f1b77777eb3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20b4dc0ce95111f19d0a8628339608dc&au=b1d1db43f4e5443e81d1f1b77777eb3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cd154cb6e95111f192b73a799f4e9d75&au=98e8b79d52444e099e56fda000792862&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cd154cb6e95111f192b73a799f4e9d75&au=98e8b79d52444e099e56fda000792862&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -18317,7 +18394,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=20b4dc0ce95111f19d0a8628339608dc&au=b1d1db43f4e5443e81d1f1b77777eb3d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=cd154cb6e95111f192b73a799f4e9d75&au=98e8b79d52444e099e56fda000792862&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18570,8 +18647,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=220f8bb0e95111f18cec460c41e13790&au=c7f39fec723b4ae8a6042d2401c54168&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=220f8bb0e95111f18cec460c41e13790&au=c7f39fec723b4ae8a6042d2401c54168&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce4ed606e95111f1bc908628339608dc&au=9f77643f27524809b9d2fbe3f8e5af92&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce4ed606e95111f1bc908628339608dc&au=9f77643f27524809b9d2fbe3f8e5af92&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18587,7 +18664,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=220f8bb0e95111f18cec460c41e13790&au=c7f39fec723b4ae8a6042d2401c54168&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ce4ed606e95111f1bc908628339608dc&au=9f77643f27524809b9d2fbe3f8e5af92&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19022,88 +19099,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20394396&tid=20394396&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a237e1e0e91311f1a6cfd66a7c8998b9&au=f0c6eafda1604097b1cdf7e3627b7bc0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t4bcb0ef1103",
-   "title": ": GTRACING Gaming Desk, RGB LED Lights, Power Outlet, Monitor Stand, Black",
-   "price": 45.14,
-   "old_price": 88.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/16665152313",
-   "url": "https://www.walmart.com/ip/16665152313",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22582593.thumb",
-   "posted": "2026-11-25T13:55:15+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 45.14,
-     "url": "https://www.walmart.com/ip/16665152313"
-    }
-   ]
-  },
-  {
-   "id": "t18be29618b4",
-   "title": "Apple iPad Pro 13-Inch (M4): Space Black - Brand New with Apple Warranty 512 GB, Wi-Fi+cellular with code BESTOFPC",
-   "price": 1142.1,
-   "old_price": 1699.0,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22583028.thumb",
-   "posted": "2026-11-25T13:09:22+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 1142.1,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394051&tid=20394051&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5aa4587ee8da11f1b0ea4e772133dac7&au=3f2fca4d823e48bbb8116a31b211c366&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tb5f19879e7f",
-   "title": "Apple iPad Pro 13-Inch (M4): 1 TB Wi-Fi+ Cellular with code BESTOFPC",
-   "price": 1286.1,
-   "old_price": 2099.0,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/7/9/3/8/8/9/1/300x300/22581939.thumb",
-   "posted": "2026-11-25T13:05:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 1286.1,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&tid=20394030&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a217b7b6e8dd11f1bff466ba697f1a14&au=c188666d5ed54a02925cb21f24439bc2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T04:24:25+00:00"
+ "updated": "2026-11-26T04:29:07+00:00"
 }
