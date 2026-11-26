@@ -2342,7 +2342,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392092&tid=20392092&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=04f208d4e8e611f1a34bfea0be5fc86f&au=5ec617cfee0e4c9fb6bce5c9ebd9aec6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T15:42:21+00:00",
+   "checked_at": "2026-11-26T21:43:54+00:00",
    "real_price": 3.79,
    "real_old": 8.99,
    "category_ok": false
@@ -2839,7 +2839,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T19:43:26+00:00",
+   "checked_at": "2026-11-26T21:43:56+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -12872,8 +12872,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f513eab6e9e111f199d35e7d453500a5&au=ec850e4ca8304951bcde39e8fd33747f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:40:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9b25e792e9e211f1ad76fe5c251010db&au=ef5f5dd610994cfc829f118711659c0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T21:44:50+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13681,6 +13681,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "YUSLV2LLNZCBKRCM",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -18997,5 +19000,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T21:41:06+00:00"
+ "updated": "2026-11-26T21:45:45+00:00"
 }
