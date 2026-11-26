@@ -1594,7 +1594,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20388483&tid=20388483&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9f2a4446e84811f1bc6a024f8ebbeae0&au=5d7deca75aa24e16b45076db346816e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T21:02:07+00:00",
+   "checked_at": "2026-11-26T03:02:27+00:00",
    "real_price": 7.99,
    "real_old": 10.99,
    "category_ok": true
@@ -1981,7 +1981,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385288&tid=20385288&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=c341b5d0e81611f1acb9de6ea830e0d8&au=c29a71a4dfa44715a0e216d9d9d00580&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T21:02:11+00:00",
+   "checked_at": "2026-11-26T03:02:30+00:00",
    "real_price": 159.95,
    "real_old": 199.99,
    "category_ok": true
@@ -11434,6 +11434,24 @@
  ],
  "raw_tech": [
   {
+   "id": "td2510d1461b",
+   "title": "32\" ASUS ROG Strix 4K QD-OLED 240Hz Gaming Monitor $899 + Free S&H",
+   "price": 899.0,
+   "old_price": 1300.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20370375-32-asus-rog-strix-4k-qd-oled-240hz-gaming-monitor-900-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22523403.thumb",
+   "posted": "2026-11-26T03:01:51+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T03:03:26+00:00",
+   "real_price": 899.0,
+   "real_old": 1300.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4324f9ef502",
    "title": "65\" Insignia F50 Series LED 4K UHD Smart Fire TV w/ Voice Remote $250 + Free S&H",
    "price": 249.99,
@@ -13604,6 +13622,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47b35634e8ee11f18b65b655d609ea7e&au=9f734e8fbe7c4a71af1ba628162b3f5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T16:35:53+00:00",
    "real_price": 80.99,
@@ -13796,8 +13817,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=48e81786e94511f1bca342e1fd4b2f3d&au=958ec648f8a54475a7eba25a059d9270&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:58:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:03:29+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14151,9 +14172,6 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -14175,8 +14193,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4a1f3256e94511f1853e2ae8f723e0ec&au=cdd6d45304db46faa7435385caa5c61c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:58:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T03:03:32+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15866,27 +15884,36 @@
    "checked_at": "2026-11-25T06:57:39+00:00",
    "real_price": 71.99,
    "real_old": 119.99
-  },
-  {
-   "id": "tb5f49991f78",
-   "title": "242-Piece Craftsman VERSASTACK Mechanics Tool Set w/ Hard Case $99 + Free Shipping",
-   "price": 99.0,
-   "old_price": 229.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20392647-242-piece-craftsman-versastack-mechanics-tool-set-w-hard-case-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22578600.thumb",
-   "posted": "2026-11-25T06:46:41+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20392647&tid=20392647&prop=diavail-true%7Cdincp-1%7Cdinpd-13%7Cdipgavail-true&pv=f2882daee8a911f19508ea6d627e0380&au=80fd00ce049c42c384ef4626734c3bdc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:26:44+00:00",
-   "real_price": 99.0,
-   "real_old": 229.0
   }
  ],
  "tech": [
+  {
+   "id": "td2510d1461b",
+   "title": "32\" ASUS ROG Strix 4K QD-OLED 240Hz Gaming Monitor + Free S&H",
+   "price": 899.0,
+   "old_price": 1300.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22523403.thumb",
+   "posted": "2026-11-26T03:01:51+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 899.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20370375&pno=1374495&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f2fc2f5ae94511f1afb15a9def7bdf7c&au=a29697082aeb4f42aad9b9e85d036fac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t4324f9ef502",
    "title": "65\" Insignia F50 Series LED 4K UHD Smart Fire TV",
@@ -17688,7 +17715,7 @@
    "cat_label": "Tablets y teléfonos",
    "refurb": true,
    "glitch": false,
-   "code": null,
+   "code": "BESTOFPC",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17894,8 +17921,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=48e81786e94511f1bca342e1fd4b2f3d&au=958ec648f8a54475a7eba25a059d9270&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=48e81786e94511f1bca342e1fd4b2f3d&au=958ec648f8a54475a7eba25a059d9270&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17911,7 +17938,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=48e81786e94511f1bca342e1fd4b2f3d&au=958ec648f8a54475a7eba25a059d9270&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f46d498ce94511f1af906628900e6211&au=7197ee7640914d1aacf3d9cc755754f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18164,8 +18191,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4a1f3256e94511f1853e2ae8f723e0ec&au=cdd6d45304db46faa7435385caa5c61c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4a1f3256e94511f1853e2ae8f723e0ec&au=cdd6d45304db46faa7435385caa5c61c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18181,7 +18208,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4a1f3256e94511f1853e2ae8f723e0ec&au=cdd6d45304db46faa7435385caa5c61c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=f622acc2e94511f1b709f68c7a7d4440&au=24fc77fbfb7644e384dcbea7561befd3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19075,34 +19102,7 @@
      "url": "https://www.walmart.com/ip/18366202875"
     }
    ]
-  },
-  {
-   "id": "te7a619987ec",
-   "title": "2-Pk 64GB Amazon Basics A2 U3 microSDXC Memory Card",
-   "price": 18.0,
-   "old_price": 59.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22580295.thumb",
-   "posted": "2026-11-25T10:28:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "BESTOFPC",
-   "code_until": "2026-12-04",
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 18.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T02:59:41+00:00"
+ "updated": "2026-11-26T03:04:28+00:00"
 }
