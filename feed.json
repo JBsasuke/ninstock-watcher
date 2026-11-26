@@ -266,13 +266,13 @@
    "posted": "2026-11-26T13:32:48+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T16:33:38+00:00",
-   "category_ok": true,
-   "real_price": 17.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404278&tid=20404278&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=22231070e9b711f1953c56a539668c3b&au=c38efc562ecc4736a8dc7320d816843d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T16:33:38+00:00",
+   "real_price": 17.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "adaff305ee32",
@@ -11385,6 +11385,24 @@
  ],
  "raw_tech": [
   {
+   "id": "td1db4d8d9be",
+   "title": "RYOBI ONE+ HP 18V Cordless Pet Stick Vacuum Cleaner Kit w/ 4.0 Ah HP Battery & Charger $129 + Free S&H",
+   "price": 129.0,
+   "old_price": 279.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20402400-ryobi-one-hp-18v-cordless-pet-stick-vacuum-cleaner-kit-w-4-0-ah-high-performance-battery-charger-129-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603842.thumb",
+   "posted": "2026-11-26T16:35:02+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:39:24+00:00",
+   "real_price": 129.0,
+   "real_old": 279.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402400&pno=1375125&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f03197c0e9b711f193d1a676de3a53b4&au=aff39be91dc94a708a2da47d25065aca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t26469c93f52",
    "title": "10000mAh TALIX 100W Portable Charger Power Bank w/ Built-In USB-C Cable $16",
    "price": 15.99,
@@ -11400,10 +11418,10 @@
    "code": "CR4L9NCE",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377647&pno=1375119&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=488a2f5ae9b711f1b2369e150995b1dc&au=246963ff1d9b4d51b6813df7af2bb696&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:34:43+00:00",
    "real_price": 15.99,
-   "real_old": 34.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377647&pno=1375119&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=488a2f5ae9b711f1b2369e150995b1dc&au=246963ff1d9b4d51b6813df7af2bb696&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 34.99
   },
   {
    "id": "t6e49bd19fa7",
@@ -11513,10 +11531,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20405805&tid=20405805&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=991724c4e9b611f18adea27f351ed2dc&au=4d6c03614c2d474e8dba5ef9054de494&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:29:50+00:00",
    "real_price": 1599.99,
-   "real_old": 3699.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20405805&tid=20405805&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=991724c4e9b611f18adea27f351ed2dc&au=4d6c03614c2d474e8dba5ef9054de494&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 3699.95
   },
   {
    "id": "t8256028e58c",
@@ -11549,8 +11567,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4a8d83b0e9b711f1bde1265abf6b296e&au=b2c07a01382a40baaf1ca95d3629516b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:34:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f1546f56e9b711f1ba71d28baa2029d5&au=15e2c8ebcf7a47b69b43103764be6e4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:39:26+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12234,6 +12252,24 @@
    "real_old": 299.99
   },
   {
+   "id": "t791f4ba2e7b",
+   "title": "$129: DEWALT 20V MAX XR Cordless Hammer Drill Driver Brushless, Heavy Duty 1/2\", 3-Speed, Tool Only (DCD996B) at Amazon",
+   "price": 129.0,
+   "old_price": 209.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20404395-129-dewalt-20v-max-xr-cordless-hammer-drill-driver-brushless-heavy-duty-1-2-3-speed-tool-only-dcd996b-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22609188.thumb",
+   "posted": "2026-11-26T13:46:41+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:39:28+00:00",
+   "real_price": 129.0,
+   "real_old": 209.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404395&tid=20404395&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=f268b582e9b711f1aa7c1efa549e2174&au=31c10cac7dfa475e8e33c20d96a17a13&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te6a478a6fc7",
    "title": "DeWALT 20V Max XR Brushless Jigsaw Starter Kit w/ 6.0 + 4.0 Ah Batteries/Charger $199 + Free S&H",
    "price": 199.0,
@@ -12652,10 +12688,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403765&tid=20403765&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=4d35ec9ce9b711f1aa2f56a539668c3b&au=ea7059e634c34e5881bccbfb5be06990&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T16:34:51+00:00",
    "real_price": 598.99,
-   "real_old": 799.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403765&tid=20403765&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=4d35ec9ce9b711f1aa2f56a539668c3b&au=ea7059e634c34e5881bccbfb5be06990&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 799.0
   },
   {
    "id": "tb3eb4493d81",
@@ -14417,6 +14453,24 @@
    "real_old": 1299.0
   },
   {
+   "id": "t0564e7e9a69",
+   "title": "CRAFTSMAN Plastic 16-Gallon 6 HP Corded Shop Vacuum with Accessories Included | CMXECXA8101645 $49.98",
+   "price": 49.98,
+   "old_price": 119.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20401146-craftsman-plastic-16-gallon-6-hp-corded-shop-vacuum-with-accessories-included-cmxecxa8101645-49-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22600689.thumb",
+   "posted": "2026-11-26T05:26:14+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T16:39:31+00:00",
+   "real_price": 49.98,
+   "real_old": 119.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401146&tid=20401146&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f390c9fee9b711f18818d28baa2029d5&au=5122a60191c347d6b6847fe2f12ab851&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3d50a40e8ec",
    "title": "TCL 85\" Q Series 4K UHD HDR QD-Mini LED Smart TV with Google TV - 85QM63K",
    "price": 599.91,
@@ -14465,8 +14519,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4e54e51ae9b711f19c6056667a793469&au=9dbbb7ea8b944820a244e296086d36d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:34:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f53001d0e9b711f198377ef858723a76&au=c6b2e0a795ad405785dd0a92fe35b8cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T16:39:33+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15681,63 +15735,6 @@
    "real_price": 524.69,
    "real_old": 789.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399421&tid=20399421&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=cbfc56e0e93711f1aecbe23436c3dfb5&au=2017efac39f14b948267d2406f5fb4e6&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t77125d7e10a",
-   "title": "Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed)",
-   "price": 449.05,
-   "old_price": 669.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399373-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-charcoal-trail-loop-m-l-renewed?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-26T00:26:24+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399373&tid=20399373&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd327558e93711f1affee21dfa46eb82&au=af3f0522d09949e8bfeae3ad72b2147c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:22:10+00:00",
-   "real_price": 449.05,
-   "real_old": 669.0
-  },
-  {
-   "id": "t2ed4cfda60e",
-   "title": "Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed) $449.05",
-   "price": 449.05,
-   "old_price": 669.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20399373-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-charcoal-trail-loop-m-l-renewed-449-05?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/4/4/2/6/0/300x300/22597425.thumb",
-   "posted": "2026-11-26T00:26:24+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399373&tid=20399373&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=15c03408e93911f1b295962b4cc73ae6&au=6f7f09eff51c4c99b325a0e3b1e9c5bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:31:21+00:00",
-   "real_price": 449.05,
-   "real_old": 669.0
-  },
-  {
-   "id": "te585bee1b60",
-   "title": "Sony Headphones (New, Scuffed Box); WH-1000XM6 $288, WH-1000XM4 $185 + Free S/H",
-   "price": 185.0,
-   "old_price": 400.0,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20399295-sony-headphones-new-scuffed-box-wh-1000xm6-288-wh-1000xm4-185-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22595829.thumb",
-   "posted": "2026-11-26T00:13:15+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20399295&tid=20399295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edf09482e94b11f1b742da819bccac81&au=af7a0ea9260147ffbfcb56762a899cae&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T03:46:15+00:00",
-   "real_price": 185.0,
-   "real_old": 400.0
   }
  ],
  "tech": [
@@ -18970,5 +18967,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T16:35:44+00:00"
+ "updated": "2026-11-26T16:40:18+00:00"
 }
