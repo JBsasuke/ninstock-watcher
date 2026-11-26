@@ -2216,7 +2216,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=c738fa4ae8a711f1bbe26ab3f282d846&au=19ffc9f8430742cf9cf76ec65cff4bb4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:26:29+00:00",
+   "checked_at": "2026-11-26T20:29:49+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -3186,7 +3186,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20374386&pno=1372824&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b7b18e22e80f11f1a246762203ab4945&au=7c4d430b1ecf467281132cf94531d3db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:26:27+00:00",
+   "checked_at": "2026-11-26T20:29:46+00:00",
    "real_price": 54.44,
    "real_old": 69.99,
    "category_ok": true
@@ -11463,10 +11463,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&tid=20408064&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d57333cee9d711f18b4adaf9c4ff5078&au=ec9b0367dfbd420b9119a3da055b36b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:27:43+00:00",
    "real_price": 87.95,
-   "real_old": 189.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&tid=20408064&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d57333cee9d711f18b4adaf9c4ff5078&au=ec9b0367dfbd420b9119a3da055b36b1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 189.95
   },
   {
    "id": "t4b1098025b1",
@@ -11950,10 +11950,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406888&tid=20406888&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d6a25068e9d711f18ae72eda80a460a7&au=d6ad6205582840ff9c18f63742905f86&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:27:45+00:00",
    "real_price": 12.19,
-   "real_old": 15.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406888&tid=20406888&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d6a25068e9d711f18ae72eda80a460a7&au=d6ad6205582840ff9c18f63742905f86&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 15.99
   },
   {
    "id": "td30b3d8af13",
@@ -12598,8 +12598,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d7be55f0e9d711f19bc192e34e97f343&au=1eb6622428824f43bb5b506f8cc42ab1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:27:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=40fc6a84e9d811f1b1549263416618cd&au=6eaafb312eb44cfe9cc4f4a9d403ff23&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:30:44+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12713,6 +12713,24 @@
    "checked_at": "2026-11-26T15:48:09+00:00",
    "real_price": 99.0,
    "real_old": 158.99
+  },
+  {
+   "id": "t3fcb30e6079",
+   "title": "$199.99* | Onkyo Creator Series GX-30ARC Powered Speakers (White) at Amazon",
+   "price": 199.99,
+   "old_price": 349.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20405514-199-99-onkyo-creator-series-gx-30arc-powered-speakers-white-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22611792.thumb",
+   "posted": "2026-11-26T15:42:40+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:30:46+00:00",
+   "real_price": 199.99,
+   "real_old": 349.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tfe63998e21e",
@@ -15712,6 +15730,24 @@
    "real_old": 699.0
   },
   {
+   "id": "t52cb62a1359",
+   "title": "Kobalt 24-volt Max 1/4-in Brushless Cordless Impact Driver Kit with 4 Ah Battery and Charger | KID 1424AT2 $99",
+   "price": 99.0,
+   "old_price": 189.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20401401-kobalt-24-volt-max-1-4-in-brushless-cordless-impact-driver-kit-with-4-ah-battery-and-charger-kid-1424at2-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22601256.thumb",
+   "posted": "2026-11-26T05:56:34+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:30:48+00:00",
+   "real_price": 99.0,
+   "real_old": 189.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401401&tid=20401401&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=43685206e9d811f1a1a4cec1898c45cf&au=9c78cc4acc0940698274edebff125413&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tbbc78f0756b",
    "title": "Apple MacBook Air (2026): 13\", M5, 16GB RAM, 512GB SSD $999",
    "price": 999.0,
@@ -15728,44 +15764,6 @@
    "checked_at": "2026-11-26T06:05:44+00:00",
    "real_price": 999.0,
    "real_old": 1299.0
-  },
-  {
-   "id": "tdb9e865e02f",
-   "title": "(Refurb VGood) 512GB Samsung Galaxy Z Fold7 Smartphone (unlocked) $770 + Free S&H",
-   "price": 796.99,
-   "old_price": 2199.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20397768-refurbished-very-good-unlocked-samsung-galaxy-z-fold7-512gb-smartphone-4-colors-796-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22591947.thumb",
-   "posted": "2026-11-26T05:53:27+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20397768&pno=1374681&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a72c716e95e11f19f8106793d79112d&au=1ef34110c4134133be3cbf893635c8f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T05:56:20+00:00",
-   "real_price": 796.99,
-   "real_old": 2199.99
-  },
-  {
-   "id": "tb0728581d62",
-   "title": "Namecheap Black Friday Deals: Domains Up to 98% Off & More",
-   "price": null,
-   "old_price": null,
-   "store": "Namecheap",
-   "url": "https://slickdeals.net/f/20401362-namecheap-black-friday-deals-domains-up-to-98-off-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22601163.thumb",
-   "posted": "2026-11-26T05:51:24+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": "THEGAMESLTD26",
-   "code_until": null,
-   "promo": "Up to 98% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Namecheap&sdtid=20401362&tid=20401362&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6bbcd624e95f11f1be09b274a813cae0&au=fd891abfe4e345268f67449dfecf8c24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:05:46+00:00",
-   "real_price": 55.0
   }
  ],
  "tech": [
@@ -16747,6 +16745,33 @@
      "store": "Amazon",
      "price": 15.29,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404956&pno=1375044&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=c601da66e9b011f1aea22ec840f31db7&au=aa56ef107d12434eaf6bfab98a51424c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3fcb30e6079",
+   "title": "Onkyo Creator Series GX-30ARC Powered Speakers (White)",
+   "price": 199.99,
+   "old_price": 349.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22611792.thumb",
+   "posted": "2026-11-26T15:42:40+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 199.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405514&tid=20405514&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4241e48ce9d811f19ea6daf9c4ff5078&au=e5af091269ac4ccda2e883b887e21320&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18957,34 +18982,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401476&tid=20401476&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0b77432ce96d11f188c1a25430b2f6ef&au=2504125ad9464f0d9865bdc3a963e5bc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t2007b211415",
-   "title": "TCL - 85\" S4CF Series 4K UHD HDR Smart TV with Fire TV (2026) Bestbuy.com",
-   "price": 137.0,
-   "old_price": 138.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601376.thumb",
-   "posted": "2026-11-26T06:01:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 137.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401455&tid=20401455&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=32fb76e8e9a411f18a65122c8b79d062&au=432006f71bd74e0ca87d7f4bea55e759&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T20:28:39+00:00"
+ "updated": "2026-11-26T20:31:39+00:00"
 }
