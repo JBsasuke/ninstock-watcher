@@ -2074,7 +2074,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T07:19:12+00:00",
+   "checked_at": "2026-11-26T13:20:19+00:00",
    "real_price": 19.65,
    "real_old": 49.99,
    "category_ok": true
@@ -11632,10 +11632,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20403003&tid=20403003&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99bdb430e99b11f19af826fbbfedbab9&au=cf32615314484f11b29e3b5292752f65&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T13:16:34+00:00",
    "real_price": 34.98,
-   "real_old": 140.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20403003&tid=20403003&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99bdb430e99b11f19af826fbbfedbab9&au=cf32615314484f11b29e3b5292752f65&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 140.0
   },
   {
    "id": "t892c7fbdf39",
@@ -11870,6 +11870,24 @@
    "checked_at": "2026-11-26T12:07:12+00:00",
    "real_price": 79.0,
    "real_old": 146.0
+  },
+  {
+   "id": "tef71030f5f1",
+   "title": "RYOBI 40V 120 MPH 550 CFM Cordless Battery Leaf Blower w/ 4.0 Ah Battery & Charger $99 @Home depot",
+   "price": 99.0,
+   "old_price": null,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20402316-ryobi-40v-120-mph-550-cfm-cordless-battery-leaf-blower-w-4-0-ah-battery-charger-99-home-depot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603614.thumb",
+   "posted": "2026-11-26T07:58:04+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:21:17+00:00",
+   "real_price": 99.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402316&tid=20402316&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4296bea8e99c11f181e60eaa0ca34614&au=f7e3543e853e44e2bf734f79c1d4d931&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t15467b3dd32",
@@ -12718,6 +12736,24 @@
    "real_old": 249.0
   },
   {
+   "id": "t010c3545a38",
+   "title": "SANDISK 256GB Extreme PRO USB-C Flash Drive, Up to 1000MB/s Read speeds @ Sandisk.com AC FS $57.6",
+   "price": 57.6,
+   "old_price": 94.99,
+   "store": "SanDisk",
+   "url": "https://slickdeals.net/f/20401269-sandisk-256gb-extreme-pro-usb-c-flash-drive-up-to-1000mb-s-read-speeds-sandisk-com-ac-fs-57-6?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/7/0/1/9/4/300x300/22600932.thumb",
+   "posted": "2026-11-26T05:40:49+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T13:21:19+00:00",
+   "real_price": 57.6,
+   "real_old": 94.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20401269&tid=20401269&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43eeec3ae99c11f18131020a893c37cf&au=53d0d0ade2ef4f8686caffc12172554d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t03a812b810e",
    "title": "RYOBI ONE+ 18V 18-Gauge Brad Nailer & 3/8\" Crown Stapler (Tools Only) $129 + Free S&H",
    "price": 129.0,
@@ -12853,8 +12889,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9b51f996e99b11f1b10006703e7c2dd4&au=a44be29fb9934c2f817ae7492f2bf06a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:16:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&tid=20401107&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=452b2280e99c11f18cdfb6603d9943d0&au=a658cfa8a78345289b4c53d0ad16ff6e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T13:21:21+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -14859,9 +14895,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF23",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15818,44 +15851,6 @@
    "checked_at": "2026-11-25T18:52:26+00:00",
    "real_price": 169.95,
    "real_old": 199.95
-  },
-  {
-   "id": "tce306fe73c2",
-   "title": "Ashford: Black Friday Doorbusters (Watches, Sunglasses & More) Extra 20% Off",
-   "price": null,
-   "old_price": null,
-   "store": "Ashford",
-   "url": "https://slickdeals.net/f/20382876-extra-15-off-pre-black-friday-doorbusters-at-ashford?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22587837.thumb",
-   "posted": "2026-11-25T17:18:22+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": "PRE15",
-   "code_until": null,
-   "promo": "Extra 20% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T17:22:14+00:00",
-   "real_price": 60.0
-  },
-  {
-   "id": "t9d2bc15329b",
-   "title": "Arlo Ultra 2 4K UHD Wire-Free Security Camera System (2-Camera Kit) $139.99 + Free Shipping",
-   "price": 139.99,
-   "old_price": 279.99,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20396049-arlo-ultra-2-4k-uhd-wire-free-security-camera-system-2-camera-kit-139-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22587807.thumb",
-   "posted": "2026-11-25T17:17:40+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20396049&tid=20396049&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=c9515524e92511f190c58e9ce954beab&au=e4704e07a40d4259b1f0cc8a18f6aa36&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:13:13+00:00",
-   "real_price": 139.99,
-   "real_old": 279.99
   }
  ],
  "tech": [
@@ -16957,6 +16952,33 @@
      "store": "Amazon",
      "price": 151.98,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401293&tid=20401293&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6668a128e96c11f1a0b8ea8af01651eb&au=7011ad0237b448cd88b34f2d58aa5182&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t010c3545a38",
+   "title": "SANDISK 256GB Extreme PRO USB-C Flash Drive, Up to 1000MB/s Read speeds",
+   "price": 57.6,
+   "old_price": 94.99,
+   "store": "SanDisk",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20401269&tid=20401269&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43eeec3ae99c11f18131020a893c37cf&au=53d0d0ade2ef4f8686caffc12172554d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20401269&tid=20401269&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43eeec3ae99c11f18131020a893c37cf&au=53d0d0ade2ef4f8686caffc12172554d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/7/0/1/9/4/300x300/22600932.thumb",
+   "posted": "2026-11-26T05:40:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "SanDisk",
+     "price": 57.6,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20401269&tid=20401269&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43eeec3ae99c11f18131020a893c37cf&au=53d0d0ade2ef4f8686caffc12172554d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18617,7 +18639,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF23",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19053,34 +19075,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397036&tid=20397036&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2e0e11c2e94f11f1aa33f69a715adbe8&au=3989d2430f0d407face3eabca99ccb46&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "td17814b723d",
-   "title": "140W wegear 4-Port GaN USB-C Charger",
-   "price": 21.99,
-   "old_price": 64.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395206&pno=1374030&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=663f6fa6e90311f191c4ee40a4f87319&au=6228e7827dae4e40b578e17a650a6e53&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395206&pno=1374030&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=663f6fa6e90311f191c4ee40a4f87319&au=6228e7827dae4e40b578e17a650a6e53&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22585071.thumb",
-   "posted": "2026-11-25T19:03:46+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "25X6S8KM",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 21.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395206&pno=1374030&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=663f6fa6e90311f191c4ee40a4f87319&au=6228e7827dae4e40b578e17a650a6e53&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T13:17:31+00:00"
+ "updated": "2026-11-26T13:22:15+00:00"
 }
