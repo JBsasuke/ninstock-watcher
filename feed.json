@@ -670,7 +670,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c6a56176e9a211f1be8b920c122761f4&au=55f380f99dd946e0874a1cd97a0b17b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T14:07:56+00:00",
+   "checked_at": "2026-11-26T20:11:15+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1024,7 +1024,7 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T14:07:58+00:00",
+   "checked_at": "2026-11-26T20:11:18+00:00",
    "category_ok": false,
    "real_price": 92.99,
    "real_old": 150.0,
@@ -1045,7 +1045,7 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T14:08:01+00:00",
+   "checked_at": "2026-11-26T20:11:21+00:00",
    "category_ok": false,
    "real_price": 92.99,
    "real_old": 150.0,
@@ -11392,10 +11392,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&pno=1375335&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=013a2330e9d511f1a08392888ef4a18c&au=ddf39877e611479d96c6df2c6334ae28&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:07:29+00:00",
    "real_price": 284.99,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&pno=1375335&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=013a2330e9d511f1a08392888ef4a18c&au=ddf39877e611479d96c6df2c6334ae28&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "t9fc636a5b70",
@@ -11410,10 +11410,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402292&pno=1375323&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=0280d554e9d511f1808216ad8b2535f5&au=ea879661bb034587bd2cf330491a4034&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:07:31+00:00",
    "real_price": 84.99,
-   "real_old": 149.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402292&pno=1375323&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=0280d554e9d511f1808216ad8b2535f5&au=ea879661bb034587bd2cf330491a4034&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 149.99
   },
   {
    "id": "t4b1098025b1",
@@ -11566,6 +11566,27 @@
    "real_old": 999.99
   },
   {
+   "id": "t9df3ef7dde2",
+   "title": "Wendy's App Offer: 50% Off Dave's Single w/ Purchase (Valid thru 12/5)",
+   "price": null,
+   "old_price": null,
+   "store": "Wendy's",
+   "url": "https://slickdeals.net/f/20407752-wendy-s-app-offer-50-off-dave-s-single-w-purchase-valid-thru-12-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22617159.thumb",
+   "posted": "2026-11-26T19:13:07+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "FOXBIGNOON",
+   "code_until": "2026-12-05",
+   "promo": "50% Off",
+   "checked_at": "2026-11-26T20:12:14+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&tid=20407752&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abaf1e06e9d511f18a2a5acf2699e0c0&au=7a8824e2e5e34cb9a86070be18c73f7a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td9c26fc56c0",
    "title": "ECOVACS DEEBOT T90 PRO Omni Robot Vacuum & Mop $499 + Free S&H",
    "price": 499.0,
@@ -11596,9 +11617,6 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "code": "6ND8B35D",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -11617,10 +11635,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407587&tid=20407587&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=03bd6496e9d511f19bcce296fed00d51&au=99f9e2068ced483b8bd4313f922b028f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:07:33+00:00",
    "real_price": 257.0,
-   "real_old": 950.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407587&tid=20407587&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=03bd6496e9d511f19bcce296fed00d51&au=99f9e2068ced483b8bd4313f922b028f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 950.0
   },
   {
    "id": "t06cb63a49ce",
@@ -11737,6 +11755,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Abercrombie&sdtid=20407224&tid=20407224&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=18f8570ee9ca11f1b450e6b28e008489&au=8048c60575da4b81bdf9ace8b0ba1885&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T18:49:24+00:00",
    "real_price": 57.0
+  },
+  {
+   "id": "td483aba53ec",
+   "title": "DEWALT 20V Max & Flexvolt Fast Battery Charger (DCB1112) $67.99 + Free Shipping",
+   "price": 67.99,
+   "old_price": 97.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20407185-dewalt-20v-max-flexvolt-fast-battery-charger-dcb1112-67-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22615566.thumb",
+   "posted": "2026-11-26T18:09:47+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:12:16+00:00",
+   "real_price": 67.99,
+   "real_old": 97.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407185&tid=20407185&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ace31a02e9d511f1850152ae5fdccdf3&au=c4ba4cc2a2ff4f939b94cdccee53cade&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t696677d4fc1",
@@ -12297,6 +12333,24 @@
    "real_old": 2699.95
   },
   {
+   "id": "t7452cda31a7",
+   "title": "Dyson Purifier Hot+Cool Formaldehyde HP09 (White/Gold) - Refurbished $249.98 + Free Shipping",
+   "price": 249.98,
+   "old_price": 329.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20405829-dyson-purifier-hot-cool-formaldehyde-hp09-white-gold-refurbished-249-98-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22612671.thumb",
+   "posted": "2026-11-26T16:06:31+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": true,
+   "checked_at": "2026-11-26T20:12:18+00:00",
+   "real_price": 249.98,
+   "real_old": 329.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20405829&tid=20405829&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae048074e9d511f1acacaa4ef105aa90&au=183ec6c6cd94471c9cb9f56fe188db9e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9609a50461e",
    "title": "LG C6H 77\" 4K OLED HDR10 120Hz Smart TV webOS 26 (2026) $1599.99",
    "price": 1599.99,
@@ -12390,6 +12444,24 @@
    "real_old": 179.0
   },
   {
+   "id": "t7db6bb99533",
+   "title": "Milwaukee 2579-20 M12 Stick Transfer Pump $129",
+   "price": 129.0,
+   "old_price": 229.0,
+   "store": "Way Source",
+   "url": "https://slickdeals.net/f/20405667-milwaukee-2579-20-m12-stick-transfer-pump-129?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612149.thumb",
+   "posted": "2026-11-26T15:56:42+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-26T20:12:20+00:00",
+   "real_price": 129.0,
+   "real_old": 229.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405667&tid=20405667&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=af24db3ee9d511f18af2a2b7f998055b&au=4f90715398424072be4400c138ce933a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t649912e0a47",
    "title": "2-Pc 6\" RYOBI Diamond Grit Impact Drive Bits $4.95 + Free S&H",
    "price": 4.97,
@@ -12402,8 +12474,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=05128646e9d511f19f337a5d1bfa63ce&au=754c14710baf4c3fac21a6f1f30438b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:07:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b03faa26e9d511f194cdae2ef8c709b4&au=43c4561cfa1748fb85f5fee820befbcc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T20:12:22+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13100,9 +13172,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -15698,75 +15767,6 @@
    "checked_at": "2026-11-26T17:49:29+00:00",
    "real_price": 69.0,
    "real_old": 189.0
-  },
-  {
-   "id": "t96a6689aba5",
-   "title": "24.5-cu ft 36\" Midea Counter-Depth  Side-by-Side Refrigerator Smart Compatible w/ Ice Maker $799 @Lowes",
-   "price": 799.0,
-   "old_price": null,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401203-24-5-cu-ft-36-midea-counter-depth-side-by-side-refrigerator-smart-compatible-w-ice-maker-799-lowes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600782.thumb",
-   "posted": "2026-11-26T05:32:46+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401203&tid=20401203&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=30b07700e97011f18429162b3dda2a12&au=fe463d1438a54562b2844f0802c24e5e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T08:05:49+00:00",
-   "real_price": 799.0
-  },
-  {
-   "id": "ta077bb00333",
-   "title": "Midea 5.1-cu ft Garage Ready Chest Freezer Convertible to Refrigerator(White) $99 @Lowes",
-   "price": 99.0,
-   "old_price": 143.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401173-midea-5-1-cu-ft-garage-ready-chest-freezer-convertible-to-refrigerator-white-99-lowes?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600755.thumb",
-   "posted": "2026-11-26T05:30:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401173&tid=20401173&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0487b8fee96211f18694c2174ac15f59&au=d43e70ad28ca4adcb58abeda0bc2eef9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:24:22+00:00",
-   "real_price": 99.0,
-   "real_old": 143.0
-  },
-  {
-   "id": "t19ebeb61e9f",
-   "title": "MacBook Air Laptop (13-inch) with Apple M5 Chip, Built for Apple Intelligence $1299",
-   "price": 999.0,
-   "old_price": 1299.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401158-macbook-air-laptop-13-inch-with-apple-m5-chip-built-for-apple-intelligence-1299?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/8/6/5/0/3/300x300/22600980.thumb",
-   "posted": "2026-11-26T05:29:18+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-26T05:53:06+00:00",
-   "real_price": 999.0,
-   "real_old": 1299.0
-  },
-  {
-   "id": "t5e6608a42bc",
-   "title": "MacBook Air Laptop (13-inch) with Apple M5 Chip, Built for Apple Intelligence $999.99 at Costco",
-   "price": 999.99,
-   "old_price": 1299.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20401158-macbook-air-laptop-13-inch-with-apple-m5-chip-built-for-apple-intelligence-999-99-at-costco?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22601367.thumb",
-   "posted": "2026-11-26T05:29:18+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "checked_at": "2026-11-26T06:05:49+00:00",
-   "real_price": 999.99,
-   "real_old": 1299.0
   }
  ],
  "tech": [
@@ -15906,6 +15906,27 @@
    ]
   },
   {
+   "id": "t9df3ef7dde2",
+   "title": "Wendy's App Offer: 50% Off Dave's Single",
+   "price": null,
+   "old_price": null,
+   "store": "Wendy's",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&tid=20407752&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abaf1e06e9d511f18a2a5acf2699e0c0&au=7a8824e2e5e34cb9a86070be18c73f7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&tid=20407752&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abaf1e06e9d511f18a2a5acf2699e0c0&au=7a8824e2e5e34cb9a86070be18c73f7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22617159.thumb",
+   "posted": "2026-11-26T19:13:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "FOXBIGNOON",
+   "code_until": "2026-12-05",
+   "promo": "50% Off",
+   "offers": []
+  },
+  {
    "id": "ta80a244039a",
    "title": "MountFTV Full Motion TV Wall Mount Bracket for 26-74\" TVs (Up to 110 lbs)",
    "price": 14.89,
@@ -15921,7 +15942,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": "6ND8B35D",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18964,34 +18985,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&tid=20401443&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=03506b2ae96211f1afc4a6ea1f579b67&au=26f17d6ce68740fab28e53d81f786ef2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tfe52e632e55",
-   "title": "Energizer 10,000mAh 22.5W Slim Power Bank",
-   "price": 14.99,
-   "old_price": 24.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22601292.thumb",
-   "posted": "2026-11-26T05:58:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 14.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401422&tid=20401422&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3d900082e9b911f1b4b94e0165d82a69&au=073b15b8f8114959974ed0207574de61&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T20:08:27+00:00"
+ "updated": "2026-11-26T20:13:10+00:00"
 }
