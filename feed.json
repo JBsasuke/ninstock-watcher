@@ -2171,7 +2171,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377035&pno=1372410&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=1e7af2d0e7a011f186aee20ac5a09123&au=a2cd6679e7ea4485a2c97e48001ce229&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T18:56:19+00:00",
+   "checked_at": "2026-11-26T00:57:58+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -2192,7 +2192,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1c16bba0e7a011f1bcbd96fe147dd7f2&au=293c1ddb301a4311beaf1e247c569169&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T18:56:14+00:00",
+   "checked_at": "2026-11-26T00:57:53+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -2213,7 +2213,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20381862&tid=20381862&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1d664f16e7a011f18cef22f10dfae1bd&au=0a5300df3e914c8e8f95c174274ab129&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T18:56:16+00:00",
+   "checked_at": "2026-11-26T00:57:55+00:00",
    "real_price": 49.99,
    "real_old": null,
    "category_ok": true
@@ -11398,6 +11398,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t64140614c60",
+   "title": "Refurb: Sony WF-1000XM6 Noise Cancelling Wireless Earbuds $148 + Free S&H",
+   "price": 148.0,
+   "old_price": 185.0,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20380206-sony-wf-1000xm6-148-refurbished-secondipity?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22596432.thumb",
+   "posted": "2026-11-26T00:54:37+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": true,
+   "checked_at": "2026-11-26T00:58:54+00:00",
+   "real_price": 148.0,
+   "real_old": 185.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20380206&pno=1374354&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d1f69c4e93411f1b0c68e68eba1504d&au=4f3a50fa88b24059ad190597ea64a730&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc670bcffe7d",
    "title": "55\" TCL 55S41CR 4K UHD HDR Smart Roku TV $168 + Free S&H",
    "price": 168.0,
@@ -12952,7 +12970,7 @@
    "cat_label": "Códigos de tienda",
    "prio": 16,
    "refurb": false,
-   "code": "PRE15",
+   "code": "BLACK20",
    "code_until": null,
    "promo": "Extra 20% Off",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ashford&sdtid=20382876&pno=1373952&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c12dab30e8f411f19023461d83d1f2e5&au=41e52b6ae521499e9a262efc92111b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -13413,8 +13431,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e27868eae93311f18ccd6eaa27eb3a45&au=a60057c957a947579e6b35d0f8f20b7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:54:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8ebc612ee93411f1b7cd2a3e298dd68d&au=5e80d86939014cef8ca03de6c1ccd184&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T00:58:57+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13434,10 +13452,10 @@
    "code": "J3LZUMEH",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395473&tid=20395473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e3dcf1d8e93311f1a0576eaa27eb3a45&au=988e2a2a313847e18c36c7e5c119510a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T00:54:10+00:00",
    "real_price": 34.99,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395473&tid=20395473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e3dcf1d8e93311f1a0576eaa27eb3a45&au=988e2a2a313847e18c36c7e5c119510a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.99
   },
   {
    "id": "tec121fc58d2",
@@ -13565,10 +13583,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ace+Hardware&sdtid=20395296&tid=20395296&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e54abbe0e93311f1b50656a12d7bd5aa&au=0733f8213f09416295c224e96437b170&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T00:54:13+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Ace+Hardware&sdtid=20395296&tid=20395296&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e54abbe0e93311f1b50656a12d7bd5aa&au=0733f8213f09416295c224e96437b170&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 60.0
   },
   {
    "id": "t48470cfd693",
@@ -13736,8 +13753,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e6af6ce2e93311f184bf422db72c99a3&au=f8af9fd8a6184348928a7880592824ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T00:54:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=90186e0ae93411f1a1238e68eba1504d&au=2f2c359135d54c99b5e0efbf29ffeefd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T00:58:59+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14892,7 +14909,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15850,24 +15867,6 @@
    "checked_at": "2026-11-25T08:12:31+00:00",
    "real_price": 159.0,
    "real_old": 259.0
-  },
-  {
-   "id": "te3b2771db51",
-   "title": "Bstge 30' 416-LED Christmas Snowflake Icicle String Lights (Cool White, Blue White) $18.52 + Free Shipping",
-   "price": 18.52,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20392308-bstge-30-416-led-christmas-snowflake-icicle-string-lights-cool-white-blue-white-18-52-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22577577.thumb",
-   "posted": "2026-11-25T05:37:25+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392308&tid=20392308&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d095c74ce8c711f18a0d7a55f551cdc8&au=d218cc6cfa5c40ab9e8381a0a62f0e60&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T12:00:32+00:00",
-   "real_price": 18.52,
-   "real_old": 29.99
   }
  ],
  "tech": [
@@ -17246,7 +17245,7 @@
    "cat_label": "Códigos de tienda",
    "refurb": false,
    "glitch": false,
-   "code": "PRE15",
+   "code": "BLACK20",
    "code_until": null,
    "promo": "Extra 20% Off",
    "offers": []
@@ -17662,8 +17661,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e27868eae93311f18ccd6eaa27eb3a45&au=a60057c957a947579e6b35d0f8f20b7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e27868eae93311f18ccd6eaa27eb3a45&au=a60057c957a947579e6b35d0f8f20b7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8ebc612ee93411f1b7cd2a3e298dd68d&au=5e80d86939014cef8ca03de6c1ccd184&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8ebc612ee93411f1b7cd2a3e298dd68d&au=5e80d86939014cef8ca03de6c1ccd184&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17679,7 +17678,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e27868eae93311f18ccd6eaa27eb3a45&au=a60057c957a947579e6b35d0f8f20b7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=8ebc612ee93411f1b7cd2a3e298dd68d&au=5e80d86939014cef8ca03de6c1ccd184&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17905,8 +17904,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e6af6ce2e93311f184bf422db72c99a3&au=f8af9fd8a6184348928a7880592824ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e6af6ce2e93311f184bf422db72c99a3&au=f8af9fd8a6184348928a7880592824ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=90186e0ae93411f1a1238e68eba1504d&au=2f2c359135d54c99b5e0efbf29ffeefd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=90186e0ae93411f1a1238e68eba1504d&au=2f2c359135d54c99b5e0efbf29ffeefd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17922,7 +17921,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=e6af6ce2e93311f184bf422db72c99a3&au=f8af9fd8a6184348928a7880592824ec&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=90186e0ae93411f1a1238e68eba1504d&au=2f2c359135d54c99b5e0efbf29ffeefd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18807,7 +18806,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": "2026-12-04",
+   "code_until": null,
    "promo": null,
    "offers": [
     {
@@ -19088,5 +19087,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T00:55:04+00:00"
+ "updated": "2026-11-26T00:59:51+00:00"
 }
