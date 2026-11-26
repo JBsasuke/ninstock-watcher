@@ -1138,8 +1138,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -1593,7 +1591,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T05:22:44+00:00",
+   "checked_at": "2026-11-26T07:23:50+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11752,6 +11750,23 @@
    "real_old": 249.0
   },
   {
+   "id": "tcc2b28148a8",
+   "title": "Apple AirPods Pro 3, Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Heart Rate Sensing, Includes 2 Years of AppleCare+le $149",
+   "price": 149.0,
+   "old_price": 249.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20401434-apple-airpods-pro-3-wireless-earbuds-active-noise-cancellation-hearing-aid-feature-heart-rate-sensing-includes-2-years-of-applecare-le-149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/6/4/4/0/2/6/300x300/22601334.thumb",
+   "posted": "2026-11-26T06:00:32+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:24:46+00:00",
+   "real_price": 149.0,
+   "real_old": 249.0
+  },
+  {
    "id": "t2650b856968",
    "title": "Apple MacBook Neo (2026): 13\", A18 Pro, 8GB RAM, 256GB SSD $599",
    "price": 599.0,
@@ -11929,6 +11944,24 @@
    "checked_at": "2026-11-26T07:15:28+00:00",
    "real_price": 599.91,
    "real_old": 999.99
+  },
+  {
+   "id": "t5b1e608a246",
+   "title": "TCL 85\" Q Series 4K UHD HDR QD-Mini LED Smart TV with Google TV - 85QM63K $599.91",
+   "price": 599.91,
+   "old_price": 999.99,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20401110-tcl-85-q-series-4k-uhd-hdr-qd-mini-led-smart-tv-with-google-tv-85qm63k-599-91?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22603353.thumb",
+   "posted": "2026-11-26T05:21:25+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T07:24:48+00:00",
+   "real_price": 599.91,
+   "real_old": 999.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20401110&tid=20401110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=760dca92e96a11f18941b274a813cae0&au=60ac1e5bdaff48f88b319003d03bb19d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tef8504cf973",
@@ -15070,6 +15103,24 @@
    "real_old": 89.99
   },
   {
+   "id": "t1badddea030",
+   "title": "Refurb/Grade A Unit: 32GB Apple iPad 10.2\" Unlocked Tablet (Silver) $81 & More + Free S&H w/ Amazon Prime",
+   "price": 80.99,
+   "old_price": 89.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20392638-refurb-grade-a-unit-32gb-apple-ipad-10-2-unlocked-tablet-silver-81-more-free-s-h-w-amazon-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22587033.thumb",
+   "posted": "2026-11-25T16:32:54+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "checked_at": "2026-11-26T07:24:50+00:00",
+   "real_price": 80.99,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "taf61b18a271",
    "title": "2-Pk 1Kg eSUN PLA Basic 1.75mm 3D Printer Filament (Red + White) $17",
    "price": 16.99,
@@ -15256,8 +15307,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ced41128e96911f19dc626c6ac318b28&au=7ae25bada92343b7b07a6cc48d5b6b41&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:20:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=787830bae96a11f1b43e42e1fd4b2f3d&au=29e7628e6d1c47748c81d97f62312da4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:24:52+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15632,8 +15683,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=d000b13ce96911f18710be3f5266b794&au=22ef4fa6df7542c0874026569d90ff44&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T07:20:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=79a5f79ce96a11f1936cc2174ac15f59&au=b15550699fab4c209ed77ea222cedb08&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T07:24:54+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15872,63 +15923,6 @@
    "checked_at": "2026-11-25T14:46:10+00:00",
    "real_price": 86.97,
    "real_old": 260.94
-  },
-  {
-   "id": "t3f2d5bb4047",
-   "title": "Panasonic Z95BP Series 65 inch OLED 4K Ultra HD Smart Fire TV + Bose TV Speaker Bundle $1999",
-   "price": 1999.0,
-   "old_price": 2438.0,
-   "store": "BuyDig",
-   "url": "https://slickdeals.net/f/20394669-panasonic-z95bp-series-65-inch-oled-4k-ultra-hd-smart-fire-tv-bose-tv-speaker-bundle-1999?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/4/0/6/1/6/0/300x300/22583694.thumb",
-   "posted": "2026-11-25T14:40:27+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "code": "BUYDIG50",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BuyDig&sdtid=20394669&tid=20394669&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=280f2dd0e92511f19c6a8e9ce954beab&au=07e5253a55c042a79a50727365e88b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T23:08:42+00:00",
-   "real_price": 1999.0,
-   "real_old": 2438.0
-  },
-  {
-   "id": "te133b0b68cc",
-   "title": "Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.0/MagSafe PowerBank, Portable Charger, 2 Outputs, LED Display, & USB-C - Black $15.99",
-   "price": 15.99,
-   "old_price": 34.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20394666-energizer-10-000mah-slim-metal-20w-magnetic-wireless-qi-qi2-0-magsafe-powerbank-portable-charger-2-outputs-led-display-usb-c-black-15-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22587426.thumb",
-   "posted": "2026-11-25T14:39:51+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&tid=20394666&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b8ff3fd8e8ee11f18b677697f74658a6&au=b09e702b49fa4415a08e44e9039976e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:39:03+00:00",
-   "real_price": 15.99,
-   "real_old": 34.99
-  },
-  {
-   "id": "t0358589741b",
-   "title": "Acer Aspire 16 AI (Cert. Refurb): 16\" FHD+ IPS 120Hz Touch, Snapdragon X X1-26-100, 16GB LPDDR5, 512GB SSD $401.2",
-   "price": 401.2,
-   "old_price": 999.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20394651-acer-aspire-16-ai-cert-refurb-16-fhd-ips-120hz-touch-snapdragon-x-x1-26-100-16gb-lpddr5-512gb-ssd-401-2?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22586322.thumb",
-   "posted": "2026-11-25T14:36:50+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20394651&tid=20394651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=e0091366e8e811f194cc8a35b5b5354a&au=7bb05d67c6df4dbaa3db8fc386c4bdd7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:57:11+00:00",
-   "real_price": 401.2,
-   "real_old": 999.99
   }
  ],
  "tech": [
@@ -19137,5 +19131,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T07:21:02+00:00"
+ "updated": "2026-11-26T07:25:41+00:00"
 }
