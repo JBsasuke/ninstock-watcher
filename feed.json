@@ -2085,6 +2085,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -11378,6 +11380,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t6144580f6a1",
+   "title": "EPP/EDU: 27\" Samsung Odyssey G80SH 4K 240Hz OLED Monitor + COD: Modern Warfare 4 $480 + Free S&H",
+   "price": 480.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "url": "https://slickdeals.net/f/20402025-epp-edu-27-samsung-odyssey-g80sh-4k-240hz-oled-gaming-monitor-cod-modern-warfare-4-480-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602990.thumb",
+   "posted": "2026-11-26T17:27:39+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-26T17:30:33+00:00",
+   "real_price": 480.0,
+   "real_old": 1170.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&pno=1375194&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e616cae9bf11f1893ecea711d8c998&au=b0e8bc7b7750415a841bef4b7c0df531&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t672b89de308",
    "title": "Lenovo 5-Button Bluetooth Silent Mouse w/ Sculpted Grip $11.60",
    "price": 11.58,
@@ -11707,8 +11727,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6d582c2ce9be11f1b6826229170f4432&au=8cf167d68efe4548a0b810fe6132d049&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:25:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=163d0128e9bf11f18e11a27f351ed2dc&au=0d8e9c60576845e3a7815f4f0a086f75&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:30:35+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -12351,9 +12371,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "YUSLV2LLNZCBKRCM",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20386218&pno=1373991&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=309ea184e9a611f1a99deaccc25f9377&au=4e941c76b0b944d1801fc7c9772f145d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T14:32:22+00:00",
    "real_price": 336.75,
@@ -14885,8 +14902,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=6e855de0e9be11f196da5e9e6599228f&au=66070da51f6f487da1cc04888442ff73&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:25:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=176e192ee9bf11f190d94af0ffca61b4&au=b03a56ebdbec44b0adb13ad03ccc96e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T17:30:37+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15723,26 +15740,36 @@
    "checked_at": "2026-11-26T13:03:01+00:00",
    "real_price": 299.99,
    "real_old": 449.99
-  },
-  {
-   "id": "t5ef5f27ea91",
-   "title": "YMMV TCL 98\" QM63K Series QD-Mini LED QLED 4K UHD Smart TV with Google TV - 98QM63K",
-   "price": 999.91,
-   "old_price": null,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20399823-ymmv-tcl-98-qm63k-series-qd-mini-led-qled-4k-uhd-smart-tv-with-google-tv-98qm63k?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/8/2/0/9/3/0/7/300x300/22597407.thumb",
-   "posted": "2026-11-26T01:33:11+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20399823&tid=20399823&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5feec29ae95411f199a22a8e710a501f&au=ce1d22bc1e7744b69e3c3081eddbbff8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T04:46:42+00:00",
-   "real_price": 999.91
   }
  ],
  "tech": [
+  {
+   "id": "t6144580f6a1",
+   "title": "EPP/EDU: 27\" Samsung Odyssey G80SH 4K 240Hz OLED Monitor + COD: Modern Warfare 4 + Free S&H",
+   "price": 480.0,
+   "old_price": 1170.0,
+   "store": "Samsung",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&pno=1375194&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e616cae9bf11f1893ecea711d8c998&au=b0e8bc7b7750415a841bef4b7c0df531&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&pno=1375194&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e616cae9bf11f1893ecea711d8c998&au=b0e8bc7b7750415a841bef4b7c0df531&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602990.thumb",
+   "posted": "2026-11-26T17:27:39+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Samsung",
+     "price": 480.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20402025&pno=1375194&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e616cae9bf11f1893ecea711d8c998&au=b0e8bc7b7750415a841bef4b7c0df531&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t672b89de308",
    "title": "Lenovo 5-Button Bluetooth Silent Mouse",
@@ -18937,34 +18964,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395851&pno=1374480&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=341b126ee94411f19b789e87e3b1bc03&au=17da757883834e62bcaaefe24b4fb6c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t327386f45ac",
-   "title": "85\" Samsung M80H Series Mini LED 4K Smart TV",
-   "price": 999.17,
-   "old_price": 1397.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400156&tid=20400156&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=2a811e3ce94f11f19b7cc2174ac15f59&au=9e94a9c5db2f4d9f98f7a62e3d07fdee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400156&tid=20400156&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=2a811e3ce94f11f19b7cc2174ac15f59&au=9e94a9c5db2f4d9f98f7a62e3d07fdee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22598616.thumb",
-   "posted": "2026-11-26T02:39:30+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 999.17,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400156&tid=20400156&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=2a811e3ce94f11f19b7cc2174ac15f59&au=9e94a9c5db2f4d9f98f7a62e3d07fdee&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T17:26:51+00:00"
+ "updated": "2026-11-26T17:31:32+00:00"
 }
