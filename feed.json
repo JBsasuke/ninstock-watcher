@@ -14,13 +14,13 @@
    "posted": "2026-11-26T09:15:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T09:17:48+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3f1d1794e97a11f1b4c3deb14ba7c7e6&au=28b2f136842844d3b1160bc5126f20be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T09:17:48+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "2b448a8d07e2",
@@ -35,13 +35,13 @@
    "posted": "2026-11-26T09:15:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-26T09:17:50+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=40300eace97a11f1871a42025a54f3ac&au=eeea6c7269764d4fbf3836711fa903b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-26T09:17:50+00:00",
+   "real_price": 15.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "67ae3d885a09",
@@ -1432,8 +1432,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -14271,6 +14269,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15758,8 +15759,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=5ef04da2e97a11f19b2cdeb14ba7c7e6&au=96eb33934f1f4d2eb4e77db8a39b5778&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T09:18:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=fde3f436e97a11f1a8aeae6bb055d708&au=4e513d0068ea4ca0941761a50609980d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T09:23:08+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -18224,7 +18225,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19211,5 +19212,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T09:19:34+00:00"
+ "updated": "2026-11-26T09:24:02+00:00"
 }
