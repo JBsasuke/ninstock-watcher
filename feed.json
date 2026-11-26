@@ -11681,9 +11681,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
@@ -12010,10 +12007,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401503&tid=20401503&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=9b96b41ee98211f18d9bf68c7a7d4440&au=fd73f518534043fb9bd85e946bc3d370&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T10:17:39+00:00",
    "real_price": 90.0,
-   "real_old": 149.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401503&tid=20401503&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=9b96b41ee98211f18d9bf68c7a7d4440&au=fd73f518534043fb9bd85e946bc3d370&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 149.0
   },
   {
    "id": "t3f7d022bc7c",
@@ -14300,6 +14297,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -15787,8 +15787,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9ced4044e98211f1ae0ea676de3a53b4&au=8a656584d1dd46d785483ceb5b73f6c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:17:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=3bf770bae98311f18d620a25af3c262a&au=980e744038c047649f4e16b470e8fcea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T10:22:08+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -18200,7 +18200,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19187,5 +19187,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T10:18:34+00:00"
+ "updated": "2026-11-26T10:23:02+00:00"
 }
