@@ -1094,7 +1094,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=48d587f0e8f111f187846a82603adb7c&au=c6d26ffb52fe4a0795ef7dbdf3035cd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:59:12+00:00",
+   "checked_at": "2026-11-26T11:01:54+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -1115,7 +1115,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4a473976e8f111f1bf1496c3e30d41b9&au=f1cbefdababb493f8927a51456b917cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:59:15+00:00",
+   "checked_at": "2026-11-26T11:01:57+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -2517,7 +2517,7 @@
    "id": "474532126ac8",
    "title": "Spyro Reignited Trilogy (Nintendo Switch) $18",
    "price": 17.97,
-   "old_price": 76.0,
+   "old_price": 77.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -2529,9 +2529,9 @@
    "store_url": "https://www.walmart.com/ip/892525964",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T04:59:17+00:00",
+   "checked_at": "2026-11-26T11:01:59+00:00",
    "real_price": 17.97,
-   "real_old": 76.0,
+   "real_old": 77.0,
    "category_ok": true
   },
   {
@@ -11581,6 +11581,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t63399843b17",
+   "title": "256GB Samsung Galaxy S25 Edge 6.7\" Unlocked Smartphone (Titanium Icy Blue) $600 + Free S&H",
+   "price": 599.99,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401647-samsung-galaxy-s25-edge-256gb-unlocked-titanium-icy-blue-599-99-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22606545.thumb",
+   "posted": "2026-11-26T11:01:39+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:02:49+00:00",
+   "real_price": 599.99,
+   "real_old": 1099.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "te2b8918d941",
    "title": "15.3\" Lenovo Chromebook M Laptop: FHD+, Kompanio 540, 4GB RAM, 64GB eMMC $169 + Free S&H",
    "price": 169.0,
@@ -11740,6 +11758,24 @@
    "checked_at": "2026-11-26T07:43:16+00:00",
    "real_price": 36.54,
    "real_old": 42.99
+  },
+  {
+   "id": "tabce98db692",
+   "title": "$1599.99 | 15-Inch Apple MacBook Air Laptop with M5 chip (24GB RAM, 1TB SSD, Silver) at Amazon",
+   "price": 1599.99,
+   "old_price": 1999.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20402190-1599-99-15-inch-apple-macbook-air-laptop-with-m5-chip-24gb-ram-1tb-ssd-silver-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603401.thumb",
+   "posted": "2026-11-26T07:30:45+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T11:02:51+00:00",
+   "real_price": 1599.99,
+   "real_old": 1999.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6df89559812",
@@ -15745,6 +15781,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392638&pno=1373904&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7732b4fae96a11f1a185e23436c3dfb5&au=712493e470c749798834b8e5ec240a95&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:24:50+00:00",
    "real_price": 80.99,
@@ -15937,8 +15976,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=4787f0b2e98811f1a3c53ec01b6db2bd&au=a374fa02d6cd4e03ac828efafb361e8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:58:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=ed400c9ce98811f19b7122031841647a&au=3089ae0be521407ea82a9a46c068532a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T11:02:53+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15962,44 +16001,36 @@
    "checked_at": "2026-11-26T00:54:10+00:00",
    "real_price": 34.99,
    "real_old": 99.99
-  },
-  {
-   "id": "tec121fc58d2",
-   "title": "*Starts 11/27 11AM EST* Creality K2 Plus Combo Multi-Color 3D Printer $807, Otter Scanner $359 +free s/h",
-   "price": 57.0,
-   "old_price": null,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20395464-starts-11-27-11am-est-creality-k2-plus-combo-multi-color-3d-printer-807-otter-scanner-359-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22585230.thumb",
-   "posted": "2026-11-25T15:55:35+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20395464&tid=20395464&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=123ffe56e90411f1bf38eaef9dc5a9f8&au=6ea679e8c1274ee2816fd5bbdc4a24e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T19:11:52+00:00",
-   "real_price": 57.0
-  },
-  {
-   "id": "t91450d4b362",
-   "title": "Barbasol Electric Ear & Nose Hair Trimmer w/ Built-In LED Light $8 + Free Shipping w/ Walmart+ or on $35+",
-   "price": 8.0,
-   "old_price": 13.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20395440-barbasol-electric-ear-nose-hair-trimmer-w-built-in-led-light-8-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/6/6/3/5/5/9/300x300/22586097.thumb",
-   "posted": "2026-11-25T15:51:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/810741453",
-   "checked_at": "2026-11-26T01:58:57+00:00",
-   "real_price": 8.0,
-   "real_old": 13.0
   }
  ],
  "tech": [
+  {
+   "id": "t63399843b17",
+   "title": "256GB Samsung Galaxy S25 Edge 6.7\" Unlocked Smartphone (Titanium Icy Blue) + Free S&H",
+   "price": 599.99,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22606545.thumb",
+   "posted": "2026-11-26T11:01:39+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ead878eae98811f1aba5222ee7cf6453&au=c2991a8a51db4d9a8cd3f70d6e699b01&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "te2b8918d941",
    "title": "15.3\" Lenovo Chromebook M Laptop: FHD+, Kompanio 540, 4GB RAM, 64GB eMMC + Free S&H",
@@ -16186,6 +16217,33 @@
      "store": "Amazon",
      "price": 36.54,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a4ac334e96d11f191762eb3ae4ef400&au=85e220114be64ffb98946bef0c10a18a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tabce98db692",
+   "title": "15-Inch Apple MacBook Air Laptop with M5 chip (24GB RAM, 1TB SSD, Silver)",
+   "price": 1599.99,
+   "old_price": 1999.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603401.thumb",
+   "posted": "2026-11-26T07:30:45+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&tid=20402190&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ec15e3e6e98811f1aed8222ee7cf6453&au=a87470621b814f479d4da383f382148f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19155,61 +19213,7 @@
    "code_until": null,
    "promo": "60% Off",
    "offers": []
-  },
-  {
-   "id": "t238a52b670f",
-   "title": "Bose Smart Ultra Dolby Atmos Soundbar (Black)",
-   "price": 629.0,
-   "old_price": 999.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396469&tid=20396469&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=13c48ec4e91111f18afc06ef8cb116b0&au=7d2f31dc09b84456bf2397f050b5321a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396469&tid=20396469&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=13c48ec4e91111f18afc06ef8cb116b0&au=7d2f31dc09b84456bf2397f050b5321a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22588737.thumb",
-   "posted": "2026-11-25T18:06:00+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 629.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396469&tid=20396469&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=13c48ec4e91111f18afc06ef8cb116b0&au=7d2f31dc09b84456bf2397f050b5321a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t35e40d7befc",
-   "title": "Klipsch The Three Plus Premium Bluetooth Speaker System - Amazon",
-   "price": 189.04,
-   "old_price": 229.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396445&tid=20396445&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=0bb4b30ae91e11f1a02f0a3f52fa3241&au=8e642111537d43138082214f33b28ef5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396445&tid=20396445&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=0bb4b30ae91e11f1a02f0a3f52fa3241&au=8e642111537d43138082214f33b28ef5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22588779.thumb",
-   "posted": "2026-11-25T18:02:28+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 189.04,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396445&tid=20396445&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=0bb4b30ae91e11f1a02f0a3f52fa3241&au=8e642111537d43138082214f33b28ef5&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T10:59:08+00:00"
+ "updated": "2026-11-26T11:03:45+00:00"
 }
