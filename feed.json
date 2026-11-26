@@ -311,7 +311,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T15:51:49+00:00",
+   "checked_at": "2026-11-26T21:53:12+00:00",
    "real_price": 499.99,
    "real_old": 549.99,
    "category_ok": true
@@ -2365,7 +2365,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T19:52:43+00:00",
+   "checked_at": "2026-11-26T21:53:14+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11392,10 +11392,28 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400156&pno=1375428&prop=diavail-true%7Cdincp-2%7Cdinpd-2%7Cdipgavail-true&pv=41136f12e9e311f1b8d04acc72eb1c77&au=f5e96b37f69d483b9fdbff1c82fec008&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T21:49:28+00:00",
    "real_price": 999.17,
-   "real_old": 1397.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400156&pno=1375428&prop=diavail-true%7Cdincp-2%7Cdinpd-2%7Cdipgavail-true&pv=41136f12e9e311f1b8d04acc72eb1c77&au=f5e96b37f69d483b9fdbff1c82fec008&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1397.99
+  },
+  {
+   "id": "t384f34f44e0",
+   "title": "Apple MacBook Air 13.6\" Laptop (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $999 + Free S&H",
+   "price": 999.0,
+   "old_price": 1299.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20408124-apple-macbook-air-13-6-m5-laptop-16gb-ram-512gb-ssd-999-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618083.thumb",
+   "posted": "2026-11-26T21:41:03+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T21:54:06+00:00",
+   "real_price": 999.0,
+   "real_old": 1299.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408124&pno=1375431&prop=diavail-true%7Cdincp-1%7Cdinpd-17%7Cdipgavail-true&pv=e6b62d56e9e311f1baa7629241def954&au=9d2f965a5a6146be982597e1e8142a7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tf5a0916c8e8",
@@ -11468,6 +11486,27 @@
    "checked_at": "2026-11-26T21:26:20+00:00",
    "real_price": 189.99,
    "real_old": 339.99
+  },
+  {
+   "id": "t6346771bbfb",
+   "title": "DashPass sub: $40 off $100+ Best Buy order w/ code BBCYBER40 - Non-sub: $35 off $100+ w/ code BBCYBER35",
+   "price": 57.0,
+   "old_price": null,
+   "store": "DoorDash",
+   "url": "https://slickdeals.net/f/20408418-dashpass-sub-40-off-100-best-buy-order-w-code-bbcyber40-non-sub-35-off-100-w-code-bbcyber35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-26T20:45:28+00:00",
+   "cat": "otros",
+   "cat_label": "Otros",
+   "prio": 15,
+   "refurb": false,
+   "code": "BBCYBER40",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T21:54:08+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DoorDash&sdtid=20408418&tid=20408418&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7d7e008e9e311f1b32c62be492916db&au=e4f0c40b89954c5d971faf3810185de5&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc3e9f919ee4",
@@ -12890,8 +12929,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=422e81dee9e311f1b29562e3581b13f1&au=d7397a852f524db491de85dd8cb8d791&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:49:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e93be9c6e9e311f191df02a61e36dc80&au=1fea9fd61aed44249c57a6d5e95d863e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T21:54:10+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15737,41 +15776,6 @@
    "checked_at": "2026-11-26T06:34:00+00:00",
    "real_price": 999.99,
    "real_old": 1299.0
-  },
-  {
-   "id": "tf5ee7007e57",
-   "title": "256GB Apple iPhone Air Unlocked Smartphone (4 Colors) $750 + Free S&H",
-   "price": 749.99,
-   "old_price": 1099.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401518-apple-iphone-air-256gb-unlocked-space-black-749-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601454.thumb",
-   "posted": "2026-11-26T06:30:21+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&pno=1374702&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5f13e968e96311f1b3f006793d79112d&au=edade40fcb1a484683e41015ab75482b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T06:34:03+00:00",
-   "real_price": 749.99,
-   "real_old": 1099.99
-  },
-  {
-   "id": "tbe571469d85",
-   "title": "HP - OmniBook 5 - 16\" 2K Touchscreen Laptop  $699.99 Bestbuy.com",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401776-hp-omnibook-5-16-2k-touchscreen-laptop-699-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22602048.thumb",
-   "posted": "2026-11-26T06:27:39+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401776&tid=20401776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9803cb06e9a111f195ef42f8e46be2ad&au=185837285704431ea6c05331e86fb6e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:59:27+00:00",
-   "real_price": 60.0
   }
  ],
  "tech": [
@@ -18998,5 +19002,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T21:50:26+00:00"
+ "updated": "2026-11-26T21:54:58+00:00"
 }
