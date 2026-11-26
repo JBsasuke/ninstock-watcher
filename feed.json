@@ -11577,10 +11577,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T09:09:34+00:00",
    "real_price": 599.99,
-   "real_old": 699.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 699.0
   },
   {
    "id": "t2ac381312ea",
@@ -11666,6 +11666,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=64e4246ce96c11f1b8cdeeb5c4c7a263&au=7f656c6fd24a42c0af9446d743d54336&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
@@ -11684,10 +11687,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&tid=20402130&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=19acb538e97911f19c7622031841647a&au=c0e10dfc5cca40c29fc4a330b49f11aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T09:09:35+00:00",
    "real_price": 1349.99,
-   "real_old": 2699.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&tid=20402130&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=19acb538e97911f19c7622031841647a&au=c0e10dfc5cca40c29fc4a330b49f11aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2699.99
   },
   {
    "id": "t300a033b54c",
@@ -11905,6 +11908,24 @@
    "real_price": 137.0
   },
   {
+   "id": "t11ca2749d6a",
+   "title": "$1199.99* | 13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD at Amazon",
+   "price": 1199.99,
+   "old_price": 1599.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20401638-1199-99-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601661.thumb",
+   "posted": "2026-11-26T06:13:50+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T09:14:06+00:00",
+   "real_price": 1199.99,
+   "real_old": 1599.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&tid=20401638&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=baf76ed8e97911f1a28fa676de3a53b4&au=86c13b76f3fa4442984eed3c67f2f5f6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfe401fded8d",
    "title": "$649.99* | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch w/ Gray Ocean Band (One Size) at Amazon",
    "price": 649.99,
@@ -11960,6 +11981,24 @@
    "checked_at": "2026-11-26T06:19:40+00:00",
    "real_price": 749.99,
    "real_old": 1099.99
+  },
+  {
+   "id": "t3f7d022bc7c",
+   "title": "$169: Lenovo Chromebook M 15.3\" 2K Laptop MediaTek Kompanio 500 Series (2026) - 4GB Memory - 64GB Storage - Luna Grey at BestBuy",
+   "price": 169.0,
+   "old_price": 399.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401488-169-lenovo-chromebook-m-15-3-2k-laptop-mediatek-kompanio-500-series-2026-4gb-memory-64gb-storage-luna-grey-at-bestbuy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22605366.thumb",
+   "posted": "2026-11-26T06:03:27+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-26T09:14:08+00:00",
+   "real_price": 169.0,
+   "real_old": 399.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t5a594512ac1",
@@ -15697,8 +15736,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1ad7e69ee97911f1a061a61b1b2e19a1&au=c5a5a96aad3c4e848312734b9c4c7929&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T09:09:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bd9b6a36e97911f1a28fa676de3a53b4&au=38e458c161f8416ea685b1e232b8a8f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T09:14:11+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -15942,45 +15981,6 @@
    "checked_at": "2026-11-25T15:37:46+00:00",
    "real_price": 479.99,
    "real_old": 549.0
-  },
-  {
-   "id": "te1b12373a0c",
-   "title": "Motorola Moto G Stylus 5G 2025 XT2517-2 Unlocked 128GB SmartPhone - OpenBox $147.99",
-   "price": 147.99,
-   "old_price": 184.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20395227-motorola-moto-g-stylus-5g-2025-xt2517-2-unlocked-128gb-smartphone-openbox-147-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/6/4/4/8/2/4/300x300/22585533.thumb",
-   "posted": "2026-11-25T15:31:45+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20395227&tid=20395227&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a54e830e8ee11f1830b3639aa82b60b&au=2bfa46c348294879891a9f8174f519ae&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T16:35:57+00:00",
-   "real_price": 147.99,
-   "real_old": 184.99
-  },
-  {
-   "id": "t626e72d09fc",
-   "title": "Apple Watch SE 3 GPS Smartwatch (2 Colors): 44mm $209, 40mm $179 & More + Free S&H",
-   "price": 179.0,
-   "old_price": 249.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20367915-179-40mm-apple-watch-se-3-gps-smartwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22585575.thumb",
-   "posted": "2026-11-25T15:31:30+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20367915&pno=1373847&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7d8b5c56e8e511f1aa45969abbed4a35&au=bb1068f5df4c40bdad03e3fe9c73e8c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T15:32:58+00:00",
-   "real_price": 179.0,
-   "real_old": 249.0
   }
  ],
  "tech": [
@@ -16282,6 +16282,33 @@
    ]
   },
   {
+   "id": "t11ca2749d6a",
+   "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD",
+   "price": 1199.99,
+   "old_price": 1599.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&tid=20401638&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=baf76ed8e97911f1a28fa676de3a53b4&au=86c13b76f3fa4442984eed3c67f2f5f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&tid=20401638&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=baf76ed8e97911f1a28fa676de3a53b4&au=86c13b76f3fa4442984eed3c67f2f5f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601661.thumb",
+   "posted": "2026-11-26T06:13:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1199.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&tid=20401638&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=baf76ed8e97911f1a28fa676de3a53b4&au=86c13b76f3fa4442984eed3c67f2f5f6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tfe401fded8d",
    "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch",
    "price": 649.99,
@@ -16359,6 +16386,33 @@
      "store": "Best Buy",
      "price": 749.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401518&tid=20401518&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=5cd9f6eee96111f1a193a25430b2f6ef&au=e67bcda224624ca3950769ec80d3be7e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3f7d022bc7c",
+   "title": ": Lenovo Chromebook M 15.3\" 2K Laptop MediaTek Kompanio 500 Series (2026) - 4GB Memory - 64GB Storage - Luna Grey",
+   "price": 169.0,
+   "old_price": 399.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22605366.thumb",
+   "posted": "2026-11-26T06:03:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 169.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&tid=20401488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bc3e773ce97911f1a623deb14ba7c7e6&au=a40742b1e3c343d98d8a8c72a61a7e56&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19133,61 +19187,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&tid=20388459&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=aa76d214e8f811f1a83c964dbdae6560&au=b5716f768c1c40ad8b0cdf41fa6eb987&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "ta83e790c4e4",
-   "title": "ASUS Prime B760M-K D4 Intel® B760 (LGA 1700) DDR4 Motherboard",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/9/0/0/300x300/22587480.thumb",
-   "posted": "2026-11-25T16:56:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395926&tid=20395926&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ea68ca70e94911f189f762fb07ae9f7f&au=01f1c1b446f24c44a11819b6988a1f69&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td1b48409737",
-   "title": "FitBeast Magnetic Golf Cart Phone Mount",
-   "price": 10.49,
-   "old_price": 20.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22587438.thumb",
-   "posted": "2026-11-25T16:54:52+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "otros",
-   "cat_label": "Otros",
-   "refurb": false,
-   "glitch": false,
-   "code": "ZX5MFEUE",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 10.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395914&tid=20395914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dbf41c72e92311f18a53eaef9dc5a9f8&au=7322859a937a42c88186acf5c1812b7b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T09:10:28+00:00"
+ "updated": "2026-11-26T09:15:02+00:00"
 }
