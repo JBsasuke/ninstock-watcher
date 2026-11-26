@@ -2903,7 +2903,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T21:43:56+00:00",
+   "checked_at": "2026-11-26T23:48:19+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11355,6 +11355,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t46412fafdaf",
+   "title": "Costco Members: 42mm Apple Watch Series 12 GPS w/ Aluminum Case & Sport Band $300 + $5 S&H",
+   "price": 299.99,
+   "old_price": 399.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20384784-costco-apple-watch-series-12?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22621884.thumb",
+   "posted": "2026-11-26T23:44:13+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-26T23:49:13+00:00",
+   "real_price": 299.99,
+   "real_old": 399.0
+  },
+  {
    "id": "t92a0790bba5",
    "title": "15.3\" Apple MacBook Air (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $1199 + Free S&H",
    "price": 1199.0,
@@ -11367,10 +11384,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:44:38+00:00",
    "real_price": 1199.0,
-   "real_old": 1499.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&pno=1375569&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5777d4b8e9f311f1914326dc1357c482&au=92cb2826950140eb80285fb5545e19f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1499.0
   },
   {
    "id": "tc738416556a",
@@ -11385,10 +11402,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&pno=1375560&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=588aca7ce9f311f1a90882ce030be712&au=9aa672cd97a541c0bad01f5630198fd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:44:40+00:00",
    "real_price": 19.97,
-   "real_old": 43.94,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20405001&pno=1375560&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=588aca7ce9f311f1a90882ce030be712&au=9aa672cd97a541c0bad01f5630198fd4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 43.94
   },
   {
    "id": "tfcd2cc32dba",
@@ -11620,8 +11637,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:44:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fce9ef1ce9f311f18f132a9c0739a433&au=1be469956ac346ed92e531bad1a99def&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:49:15+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -11905,7 +11922,7 @@
    "old_price": null,
    "store": "Amazon",
    "url": "https://slickdeals.net/f/20408340-40-fs-amazon-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22618653.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22621878.thumb",
    "posted": "2026-11-26T20:35:54+00:00",
    "cat": "pc",
    "cat_label": "Computadoras",
@@ -12108,8 +12125,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=5b18a282e9f311f1a76a26a54cb5539b&au=67d0129f61f34ddf838a365a8f27d5cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:44:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=fe20af42e9f311f1b23dea309893a51e&au=a8514210d492497b9c2a6ed82a2218ea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:49:17+00:00",
    "real_price": 4.24,
    "real_old": 5.99
   },
@@ -13434,8 +13451,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5c862626e9f311f186db9263416618cd&au=98a092341acd49729ff1e52a21d0e598&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:44:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ff4d9cc2e9f311f18231c29f07f92608&au=05acebe59b644f699bc9ed7a33138523&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T23:49:19+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15737,27 +15754,6 @@
    "checked_at": "2026-11-26T07:38:39+00:00",
    "real_price": 17.99,
    "real_old": 99.99
-  },
-  {
-   "id": "t6afc5154a73",
-   "title": "SteelSeries QcK Gaming Surface Mouse Pad (4XL or 5XL Size) $18 + Free S&H w/ Amazon Prime",
-   "price": 17.99,
-   "old_price": 99.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20394534-steelseries-qck-gaming-surface-mouse-pad-4xl-or-5xl-size-18-free-s-h-w-amazon-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22603356.thumb",
-   "posted": "2026-11-26T07:24:27+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394534&pno=1374738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=00c2d350e98711f18580deb14ba7c7e6&au=b2e241468e6645f182c68059d79f383c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:49:07+00:00",
-   "real_price": 17.99,
-   "real_old": 99.99
   }
  ],
  "tech": [
@@ -15983,8 +15979,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fce9ef1ce9f311f18f132a9c0739a433&au=1be469956ac346ed92e531bad1a99def&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fce9ef1ce9f311f18f132a9c0739a433&au=1be469956ac346ed92e531bad1a99def&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16000,7 +15996,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=59aa1836e9f311f186db9263416618cd&au=b3fae174a434487a867872088e6c7674&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fce9ef1ce9f311f18f132a9c0739a433&au=1be469956ac346ed92e531bad1a99def&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16201,7 +16197,7 @@
    "store": "Amazon",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22618653.thumb",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22621878.thumb",
    "posted": "2026-11-26T20:35:54+00:00",
    "kind": "tech",
    "section": "tech",
@@ -18984,5 +18980,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T23:45:32+00:00"
+ "updated": "2026-11-26T23:50:09+00:00"
 }
