@@ -1311,7 +1311,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T19:15:39+00:00",
+   "checked_at": "2026-11-26T01:16:34+00:00",
    "real_price": 19.65,
    "real_old": 49.99,
    "category_ok": true
@@ -1419,7 +1419,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T23:12:18+00:00",
+   "checked_at": "2026-11-26T01:16:36+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -10830,6 +10830,18 @@
  ],
  "news": [
   {
+   "id": "95a3e33dc43c",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition – Overview Trailer",
+   "summary": "Experience the epic tale of life and interconnected futures, now enhanced for the Nintendo Switch 2 system! The Nintendo Switch 2 Edition of this game features improved visuals, sharper cutscenes, the new mode Heroes' Vault, and more. Plus, meet the new Hero, Shimmer, and wield her Foresight ability. Nintendo Switch 2 players who already have Xenoblade Chronicles 3 on Nintendo Switch can upgrade to the Nintendo Switch 2 Edition by purchasing the upgrade pack.",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=2ohfoM2k4dI",
+   "image": "https://i.ytimg.com/vi/2ohfoM2k4dI/hqdefault.jpg",
+   "posted": "2026-11-26T01:01:10+00:00"
+  },
+  {
    "id": "aldia-adadb65dcc",
    "title": "Nintendo lanza paquetes de catálogo y banda sonora para Daisenryaku SSB 2",
    "summary": "Nintendo publica nuevos contenidos para Daisenryaku SSB 2, con catálogos de armamento y temas musicales. Hay versiones distintas según la consola.",
@@ -11377,18 +11389,6 @@
    "url": "https://www.youtube.com/shorts/5KNxmgd4cP0",
    "image": "https://i.ytimg.com/vi/5KNxmgd4cP0/hqdefault.jpg",
    "posted": "2026-11-21T17:00:13+00:00"
-  },
-  {
-   "id": "810be1adca63",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 1 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 1 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=7_W6Qin4dHU",
-   "image": "https://i.ytimg.com/vi/7_W6Qin4dHU/hqdefault.jpg",
-   "posted": "2026-11-21T01:35:10+00:00"
   }
  ],
  "raw_tech": [
@@ -11405,10 +11405,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&pno=1374375&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7f9d74e2e93611f19029a2e6b809d584&au=b26a025bb9ec4165ad08d16a97d2867b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T01:12:50+00:00",
    "real_price": 15.99,
-   "real_old": 34.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20394666&pno=1374375&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7f9d74e2e93611f19029a2e6b809d584&au=b26a025bb9ec4165ad08d16a97d2867b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 34.99
   },
   {
    "id": "t64140614c60",
@@ -13447,6 +13447,27 @@
    "real_old": 62.49
   },
   {
+   "id": "t2e1ac5a55be",
+   "title": "Sentryse 190 CFM 160 MPH 20V Cordless Leaf Blower with 2 Batteries $41 + Free S/H",
+   "price": 41.0,
+   "old_price": 110.0,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20395560-sentryse-190-cfm-160-mph-20v-cordless-leaf-blower-with-2-batteries-41-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22586466.thumb",
+   "posted": "2026-11-25T16:09:26+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "VQMNT6BW",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-26T01:17:31+00:00",
+   "real_price": 41.0,
+   "real_old": 110.0,
+   "store_url": "https://www.walmart.com/ip/14219371228"
+  },
+  {
    "id": "tf6f90601d2a",
    "title": "JAMJAKE Stylus Pen for Apple iPad (6-11th Gen) $5",
    "price": 4.99,
@@ -13462,8 +13483,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=80c8e1bce93611f1a46f8628339608dc&au=ab19b009ec0f40a4abee13a7335e7ba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:12:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=281b5e68e93711f1a88306793d79112d&au=df8d034a540547e08fbed0a4a9687d68&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T01:17:33+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -13763,6 +13784,9 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "code": "BESTOFPC",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20394030&pno=1373844&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7f29983ee8e511f1bbfd665d004879ef&au=bdf2f3ea13214db3828230e6e6da2972&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T15:33:00+00:00",
    "real_price": 1286.1,
@@ -13784,8 +13808,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=82000f38e93611f1876f5602461873bc&au=16debaa434d041708aae47bfaffc1996&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T01:12:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=29538fe4e93711f1854af69a715adbe8&au=ed2dfb33ed734e15b0a4016865307906&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T01:17:35+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14940,7 +14964,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15841,27 +15865,6 @@
    "checked_at": "2026-11-25T08:21:51+00:00",
    "real_price": 14.53,
    "real_old": 26.99
-  },
-  {
-   "id": "te3147b25d6e",
-   "title": "JLab JBuds Lux ANC Wireless Over-Ear Headphones (4 colors) $33.99 + Free Shipping",
-   "price": 33.99,
-   "old_price": 84.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20392341-jlab-jbuds-lux-anc-wireless-over-ear-headphones-4-colors-33-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22577604.thumb",
-   "posted": "2026-11-25T05:43:20+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "JLAB15",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392341&tid=20392341&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=44ce856ee8a911f18bb5de6630e318c6&au=5d374eda73bd4147b155a00ef43ca098&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T08:21:53+00:00",
-   "real_price": 33.99,
-   "real_old": 84.99
   }
  ],
  "tech": [
@@ -17683,8 +17686,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=80c8e1bce93611f1a46f8628339608dc&au=ab19b009ec0f40a4abee13a7335e7ba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=80c8e1bce93611f1a46f8628339608dc&au=ab19b009ec0f40a4abee13a7335e7ba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=281b5e68e93711f1a88306793d79112d&au=df8d034a540547e08fbed0a4a9687d68&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=281b5e68e93711f1a88306793d79112d&au=df8d034a540547e08fbed0a4a9687d68&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17700,7 +17703,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=80c8e1bce93611f1a46f8628339608dc&au=ab19b009ec0f40a4abee13a7335e7ba4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=281b5e68e93711f1a88306793d79112d&au=df8d034a540547e08fbed0a4a9687d68&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17926,8 +17929,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=82000f38e93611f1876f5602461873bc&au=16debaa434d041708aae47bfaffc1996&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=82000f38e93611f1876f5602461873bc&au=16debaa434d041708aae47bfaffc1996&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=29538fe4e93711f1854af69a715adbe8&au=ed2dfb33ed734e15b0a4016865307906&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=29538fe4e93711f1854af69a715adbe8&au=ed2dfb33ed734e15b0a4016865307906&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -17943,7 +17946,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=82000f38e93611f1876f5602461873bc&au=16debaa434d041708aae47bfaffc1996&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=29538fe4e93711f1854af69a715adbe8&au=ed2dfb33ed734e15b0a4016865307906&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18828,7 +18831,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19082,5 +19085,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T01:13:47+00:00"
+ "updated": "2026-11-26T01:18:28+00:00"
 }
