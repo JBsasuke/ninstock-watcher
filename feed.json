@@ -206,10 +206,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b271374ce90d11f1800342b59f483a7c&au=5baa6d682f4243ca9df694aaad84b236&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T20:20:46+00:00",
+   "checked_at": "2026-11-26T02:25:19+00:00",
    "real_price": 15.0,
    "real_old": 59.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "f8eeb95dfe71",
@@ -227,10 +228,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b3c65000e90d11f1950652227633b91b&au=433553d7bd8e481d9944dc30cccfd7dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T20:20:49+00:00",
+   "checked_at": "2026-11-26T02:25:21+00:00",
    "real_price": 15.0,
    "real_old": 59.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "4c454fb0653e",
@@ -862,7 +864,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=7b060f7ce8a811f18999ee8a8e78a124&au=fb42557793b34bed9c603a1b1c01b730&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-25T20:20:51+00:00",
+   "checked_at": "2026-11-26T02:25:23+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -964,6 +966,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3261,13 +3265,13 @@
    "price": 15.0,
    "old_price": 59.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b271374ce90d11f1800342b59f483a7c&au=5baa6d682f4243ca9df694aaad84b236&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b271374ce90d11f1800342b59f483a7c&au=5baa6d682f4243ca9df694aaad84b236&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "offers": [
     {
      "store": "Amazon",
      "price": 15.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=b271374ce90d11f1800342b59f483a7c&au=5baa6d682f4243ca9df694aaad84b236&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20397537&tid=20397537&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=eaa98c42e91011f1a9bafe9b9e870d34&au=eab9678027884fb5a8f3465ea3fe0a29&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ],
    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22591524.thumb",
@@ -11442,10 +11446,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Surfshark&sdtid=20377614&pno=1374450&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19aad3b4e94011f193534a69b5b60732&au=40ad541cfb1d4ba7b437eb201a17152c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T02:21:34+00:00",
    "real_price": 48.72,
-   "real_old": 558.5,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Surfshark&sdtid=20377614&pno=1374450&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=19aad3b4e94011f193534a69b5b60732&au=40ad541cfb1d4ba7b437eb201a17152c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 558.5
   },
   {
    "id": "t4f785e06835",
@@ -11460,10 +11464,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399970&tid=20399970&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1ad7961ee94011f1a42c4a69b5b60732&au=a001c75216854d41b199c55b6911a459&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T02:21:36+00:00",
    "real_price": 37.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20399970&tid=20399970&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1ad7961ee94011f1a42c4a69b5b60732&au=a001c75216854d41b199c55b6911a459&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.99
   },
   {
    "id": "t7a91039628d",
@@ -12305,6 +12309,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF23",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20391900&pno=1374102&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=7531d62ae91211f181669677be489479&au=ddc77b2535964939bf2cb4bdf6583f66&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T20:54:51+00:00",
    "real_price": 159.0,
@@ -13646,8 +13653,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c0be012e94011f1b1f3cec88966b8fc&au=6988ea50450544c3a52e55c377501b49&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:21:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c32b031ee94011f1b62bcec88966b8fc&au=ee63f9217ab246fd9a364b4ea7b942a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T02:26:19+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14022,8 +14029,8 @@
    "code": "D65YP6RG",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1d9a7a7ee94011f1812006793d79112d&au=e554e86c371e47bea47bba9ea10ec9ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T02:21:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c44a196ae94011f1b7b6be3f5266b794&au=bf62b29a9f184318b9f360d6f6a4378d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-26T02:26:21+00:00",
    "real_price": 4.99,
    "real_old": 17.99
   },
@@ -14062,6 +14069,24 @@
    "real_price": 62.53,
    "real_old": 120.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "tf73f3f351c1",
+   "title": "$17.99 ac FS PRIME WOOT Amazon Basics microSDXC Memory Card with Full Size Adapter, A2, U3, Read Speed up to 100 MB/s, 64GB, Black (2-Pack)",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20395086-17-99-ac-fs-prime-woot-amazon-basics-microsdxc-memory-card-with-full-size-adapter-a2-u3-read-speed-up-to-100-mb-s-64gb-black-2-pack?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22585089.thumb",
+   "posted": "2026-11-25T15:18:32+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-26T02:26:22+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395086&tid=20395086&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c57827d2e94011f1a3c32a3e298dd68d&au=e4e5d14aeb054f9d89fe9920ba0be65e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tafb3372b0f7",
@@ -15178,7 +15203,7 @@
    "prio": 7,
    "refurb": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20392464&pno=1373700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=195cf3b8e8bb11f1b3f57a55f551cdc8&au=8510d7f16dc44162a8da6bbcd244fc03&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-25T10:29:31+00:00",
@@ -15866,24 +15891,6 @@
    "checked_at": "2026-11-25T08:40:38+00:00",
    "real_price": 18.0,
    "real_old": 59.99
-  },
-  {
-   "id": "t4eb0c008ca8",
-   "title": "PHILIPS Fidelio X2HR Over The Ear Open Back Wired Headphone 50mm Drivers- Black Professional Studio Monitor Headphones with Detachable Cable $104.64",
-   "price": 104.64,
-   "old_price": 159.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20392461-philips-fidelio-x2hr-over-the-ear-open-back-wired-headphone-50mm-drivers-black-professional-studio-monitor-headphones-with-detachable-cable-104-64?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/0/1/1/6/7/5/300x300/22578171.thumb",
-   "posted": "2026-11-25T06:10:00+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392461&tid=20392461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3aa8f472e8c011f1bd5c8647fde6dc56&au=c88c8db31b8e44038534b439dffdda28&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-25T11:06:14+00:00",
-   "real_price": 104.64,
-   "real_old": 159.95
   }
  ],
  "tech": [
@@ -16578,7 +16585,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF23",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17786,8 +17793,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c0be012e94011f1b1f3cec88966b8fc&au=6988ea50450544c3a52e55c377501b49&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c0be012e94011f1b1f3cec88966b8fc&au=6988ea50450544c3a52e55c377501b49&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c32b031ee94011f1b62bcec88966b8fc&au=ee63f9217ab246fd9a364b4ea7b942a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c32b031ee94011f1b62bcec88966b8fc&au=ee63f9217ab246fd9a364b4ea7b942a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T16:08:15+00:00",
    "kind": "tech",
@@ -17803,7 +17810,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1c0be012e94011f1b1f3cec88966b8fc&au=6988ea50450544c3a52e55c377501b49&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c32b031ee94011f1b62bcec88966b8fc&au=ee63f9217ab246fd9a364b4ea7b942a8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18056,8 +18063,8 @@
    "price": 4.99,
    "old_price": 17.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1d9a7a7ee94011f1812006793d79112d&au=e554e86c371e47bea47bba9ea10ec9ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1d9a7a7ee94011f1812006793d79112d&au=e554e86c371e47bea47bba9ea10ec9ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c44a196ae94011f1b7b6be3f5266b794&au=bf62b29a9f184318b9f360d6f6a4378d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c44a196ae94011f1b7b6be3f5266b794&au=bf62b29a9f184318b9f360d6f6a4378d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22585350.thumb",
    "posted": "2026-11-25T15:24:55+00:00",
    "kind": "tech",
@@ -18073,7 +18080,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=1d9a7a7ee94011f1812006793d79112d&au=e554e86c371e47bea47bba9ea10ec9ee&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395158&pno=1373868&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=c44a196ae94011f1b7b6be3f5266b794&au=bf62b29a9f184318b9f360d6f6a4378d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18101,6 +18108,33 @@
      "store": "Amazon",
      "price": 62.53,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20395152&tid=20395152&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=dfcccf00e90b11f1bd7c32cfdd24f9fc&au=6b56cb5af3b34f059ab4e50b62348e46&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tf73f3f351c1",
+   "title": "ac FS PRIME WOOT Amazon Basics microSDXC Memory Card with Full Size Adapter, A2, U3, Read Speed up to 100 MB/s, 64GB, Black (2-Pack)",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395086&tid=20395086&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c57827d2e94011f1a3c32a3e298dd68d&au=e4e5d14aeb054f9d89fe9920ba0be65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395086&tid=20395086&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c57827d2e94011f1a3c32a3e298dd68d&au=e4e5d14aeb054f9d89fe9920ba0be65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22585089.thumb",
+   "posted": "2026-11-25T15:18:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 57.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395086&tid=20395086&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c57827d2e94011f1a3c32a3e298dd68d&au=e4e5d14aeb054f9d89fe9920ba0be65e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18958,7 +18992,7 @@
    "refurb": false,
    "glitch": false,
    "code": "BESTOFPC",
-   "code_until": null,
+   "code_until": "2026-12-04",
    "promo": null,
    "offers": [
     {
@@ -19075,34 +19109,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393220&tid=20393220&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9a53bc0ee8d411f1bbb46e5fea405845&au=b6e5ab0ab67e4db68b8a16cb754fe7e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6f981b173bd",
-   "title": "Audio-Technica AT-UMX3 USB Desktop Audio Mixer",
-   "price": 109.0,
-   "old_price": 159.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393172&tid=20393172&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6655c8a2e90b11f1ade1cabe8a6132c7&au=be27468626c04d00b31fc646e9079f92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393172&tid=20393172&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6655c8a2e90b11f1ade1cabe8a6132c7&au=be27468626c04d00b31fc646e9079f92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22579803.thumb",
-   "posted": "2026-11-25T09:55:35+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 109.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393172&tid=20393172&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=6655c8a2e90b11f1ade1cabe8a6132c7&au=be27468626c04d00b31fc646e9079f92&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T02:22:35+00:00"
+ "updated": "2026-11-26T02:27:15+00:00"
 }
