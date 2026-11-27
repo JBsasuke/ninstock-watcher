@@ -2720,7 +2720,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&pno=1373715&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=950148f0e8c211f18626766b643ec681&au=f3854180703644a6bc738ab13cdbb2b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:36:27+00:00",
+   "checked_at": "2026-11-27T11:37:11+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -11328,6 +11328,42 @@
  ],
  "raw_tech": [
   {
+   "id": "tff5a5254921",
+   "title": "Ryobi ONE+ 18V Lithium Kit w/ 2 Ah Battery & Charger + 18V Reciprocating Saw $49.90 + Free S&H",
+   "price": 49.88,
+   "old_price": 163.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20413185-ryobi-one-18v-lithium-starter-kit-w-2-0-ah-battery-charger-w-one-18v-cordless-one-handed-reciprocating-saw-49-88?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22629456.thumb",
+   "posted": "2026-11-27T11:35:13+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T11:38:07+00:00",
+   "real_price": 49.88,
+   "real_old": 163.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413185&pno=1376148&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=03c362e2ea5711f1b2a526dc1357c482&au=0fc61f9dca5e4613968c957a74697765&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t116110cba5e",
+   "title": "Microsoft Surface Pro Touch Laptop: Snapdragon X2 Plus, 13\", 16GB RAM, 256GB SSD $1000 + Free S&H",
+   "price": 999.99,
+   "old_price": 1499.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412705-microsoft-surface-pro-2026-13-2-in-1-laptop-w-snapdragon-x2-plus-16gb-ram-256gb-ssd-platinum-999-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22634817.thumb",
+   "posted": "2026-11-27T11:33:24+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T11:38:10+00:00",
+   "real_price": 999.99,
+   "real_old": 1499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412705&pno=1376142&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=04ec25c8ea5711f19f13aa31003c7c77&au=86e0b39805d1491bb166b66bc04a12b5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t313968ba1b5",
    "title": "Razer Kraken v4 X Wired Chroma RGB Gaming Headset (My Melody Edition) $20 + Free S&H w/ Amazon Prime",
    "price": 19.99,
@@ -11398,8 +11434,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=59858738ea5611f19c99cadf1302ae75&au=c20c055a1b5b4f0797e72fc01c04be67&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:33:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=067d5aecea5711f181b3daeac3707ed4&au=a4c5d2eeffb042778cc5fc754f486ecd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:38:12+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11566,6 +11602,27 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T11:00:37+00:00",
    "real_price": 999.99
+  },
+  {
+   "id": "t4a7333a4dd3",
+   "title": "FLASHFORGE Adventurer 5M 600mm/s 3D Printer with Auto Leveling $138.79 + Free Shipping",
+   "price": 138.79,
+   "old_price": 199.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20413881-flashforge-adventurer-5m-600mm-s-3d-printer-with-auto-leveling-138-79-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22630923.thumb",
+   "posted": "2026-11-27T08:34:16+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "USBF28",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T11:38:14+00:00",
+   "real_price": 138.79,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413881&tid=20413881&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07afa71cea5711f1b7512e7ef2a57ec1&au=76276b71750f4b67b615ff0726f56d5c&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc293fe97490",
@@ -13273,8 +13330,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b393598ea5611f1b28edaeac3707ed4&au=5c66e566231349bd83130973dd4c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:33:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=090fc48eea5711f1b431cadf1302ae75&au=d6cc25d32797493bb9a1f9fbd34c71f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:38:16+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15045,8 +15102,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5cb8f5d4ea5611f189cfdaeac3707ed4&au=74a18b5e787549158e13be9356cb2db3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:33:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a817b0aea5711f1a411ae42b3097af1&au=91ce6e3e7c694674b43b6f9c55e581d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:38:18+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15699,63 +15756,36 @@
    "refurb": false,
    "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=9a4aaee8e9f611f1af056e6522384b61&au=c1343e59d6bd45279605dd95dee53482&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "expired": true
-  },
-  {
-   "id": "t27b3b48c74c",
-   "title": "5kg ELEGOO TPU 72D 3D Printer Filament (various) $79 + Free S&H",
-   "price": 79.0,
-   "old_price": 109.95,
-   "store": "ELEGOO",
-   "url": "https://slickdeals.net/f/20387754-5kg-elegoo-tpu-72d-3d-printer-filament-79-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/9/9/5/4/3/300x300/22565976.thumb",
-   "posted": "2026-11-26T19:33:44+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ELEGOO&sdtid=20387754&pno=1375302&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=764c1656e9d011f1988fea9b95a45bf5&au=ae2673f8b21a45f0939489715ffbac00&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:34:57+00:00",
-   "real_price": 79.0,
-   "real_old": 109.95
-  },
-  {
-   "id": "t20f6f9eb07a",
-   "title": "RYOBI ONE+ 18V Cordless Compact Glue Gun Kit w/ 1.5AH Battery & Charger $40 + Free S&H",
-   "price": 39.97,
-   "old_price": 69.97,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20404932-ryobi-one-18v-cordless-compact-glue-gun-kit-with-battery-and-charger-39-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22610472.thumb",
-   "posted": "2026-11-26T19:31:39+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20404932&pno=1375299&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=77772746e9d011f19675ea9b95a45bf5&au=f40a28f7b8914c338231494294e21390&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:34:59+00:00",
-   "real_price": 39.97,
-   "real_old": 69.97
-  },
-  {
-   "id": "tce487950ece",
-   "title": "DREAME L60 Pro Ultra Robot Vacuum and Mop $900 & More + Free S&H",
-   "price": 899.99,
-   "old_price": 1399.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336112-dreame-x60-max-ultra-complete-robot-vacuum-mop-2-colors-989-99-more-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22617444.thumb",
-   "posted": "2026-11-26T19:28:53+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336112&pno=1375296&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=d38463f6e9cf11f188687ef858723a76&au=957f84abb441437aa0a2d3d64378136f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:30:24+00:00",
-   "real_price": 899.99,
-   "real_old": 1399.99
   }
  ],
  "tech": [
+  {
+   "id": "t116110cba5e",
+   "title": "Microsoft Surface Pro Touch Laptop: Snapdragon X2 Plus, 13\", 16GB RAM, 256GB SSD + Free S&H",
+   "price": 999.99,
+   "old_price": 1499.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412705&pno=1376142&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=04ec25c8ea5711f19f13aa31003c7c77&au=86e0b39805d1491bb166b66bc04a12b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412705&pno=1376142&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=04ec25c8ea5711f19f13aa31003c7c77&au=86e0b39805d1491bb166b66bc04a12b5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22634817.thumb",
+   "posted": "2026-11-27T11:33:24+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 999.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412705&pno=1376142&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=04ec25c8ea5711f19f13aa31003c7c77&au=86e0b39805d1491bb166b66bc04a12b5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t313968ba1b5",
    "title": "Razer Kraken v4 X Wired Chroma RGB Gaming Headset (My Melody Edition) + Free S&H",
@@ -17295,8 +17325,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b393598ea5611f1b28edaeac3707ed4&au=5c66e566231349bd83130973dd4c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b393598ea5611f1b28edaeac3707ed4&au=5c66e566231349bd83130973dd4c0324&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=090fc48eea5711f1b431cadf1302ae75&au=d6cc25d32797493bb9a1f9fbd34c71f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=090fc48eea5711f1b431cadf1302ae75&au=d6cc25d32797493bb9a1f9fbd34c71f5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17312,7 +17342,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b393598ea5611f1b28edaeac3707ed4&au=5c66e566231349bd83130973dd4c0324&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=090fc48eea5711f1b431cadf1302ae75&au=d6cc25d32797493bb9a1f9fbd34c71f5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18486,8 +18516,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5cb8f5d4ea5611f189cfdaeac3707ed4&au=74a18b5e787549158e13be9356cb2db3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5cb8f5d4ea5611f189cfdaeac3707ed4&au=74a18b5e787549158e13be9356cb2db3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a817b0aea5711f1a411ae42b3097af1&au=91ce6e3e7c694674b43b6f9c55e581d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a817b0aea5711f1a411ae42b3097af1&au=91ce6e3e7c694674b43b6f9c55e581d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18503,7 +18533,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5cb8f5d4ea5611f189cfdaeac3707ed4&au=74a18b5e787549158e13be9356cb2db3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0a817b0aea5711f1a411ae42b3097af1&au=91ce6e3e7c694674b43b6f9c55e581d2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18938,34 +18968,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402292&pno=1375323&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=0280d554e9d511f1808216ad8b2535f5&au=ea879661bb034587bd2cf330491a4034&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tae1b45ebea7",
-   "title": "ASIILOVI Bluetooth Beanie Hat",
-   "price": 8.99,
-   "old_price": 22.98,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408115&tid=20408115&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4a6e2996e9f511f1af29ea309893a51e&au=f4b79c55a2504bad8859bf29973f213a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408115&tid=20408115&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4a6e2996e9f511f1af29ea309893a51e&au=f4b79c55a2504bad8859bf29973f213a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22617990.thumb",
-   "posted": "2026-11-26T20:01:31+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "M8RP42LD",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 8.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408115&tid=20408115&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4a6e2996e9f511f1af29ea309893a51e&au=f4b79c55a2504bad8859bf29973f213a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T11:34:22+00:00"
+ "updated": "2026-11-27T11:39:05+00:00"
 }
