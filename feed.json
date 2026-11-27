@@ -328,7 +328,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419134&tid=20419134&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e0d24d14ea8a11f1922ce2f2a0cf6e88&au=c4ebbc5a10bd48fda47d0cf00a0d317e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T17:49:22+00:00",
+   "checked_at": "2026-11-27T23:53:24+00:00",
    "real_price": 8.99,
    "real_old": 18.99,
    "category_ok": true
@@ -349,7 +349,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419134&tid=20419134&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e1eb03d0ea8a11f1995912075284f408&au=1d807173404848129d593d13bbb58224&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T17:49:24+00:00",
+   "checked_at": "2026-11-27T23:53:26+00:00",
    "real_price": 8.99,
    "real_old": 18.99,
    "category_ok": true
@@ -914,7 +914,7 @@
    "id": "5dfc66793723",
    "title": "Bluey's Quest for The Gold Pen (Nintendo Switch) $19.93 + Free Shipping w/ Walmart+ or on $35+",
    "price": 19.93,
-   "old_price": 73.0,
+   "old_price": 74.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -926,9 +926,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20414757&tid=20414757&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=dfad68a6ea8a11f1bbca4e8cdb63705d&au=fa467b0361f3486b85bd6949bee9ecfa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T17:49:20+00:00",
+   "checked_at": "2026-11-27T23:53:22+00:00",
    "real_price": 19.93,
-   "real_old": 73.0,
+   "real_old": 74.0,
    "category_ok": true
   },
   {
@@ -11339,6 +11339,42 @@
    "real_old": 998.75
   },
   {
+   "id": "t8fb66ee99d0",
+   "title": "10-Tool RYOBI ONE+ 18V Cordless Combo w/ 2.0 Ah + 2x 4.0 Ah Batteries & Charger $389 + Free S&H",
+   "price": 389.0,
+   "old_price": 679.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20421777-ryobi-one-18v-cordless-10-tool-combo-kit-w-3-batteries-charger-389-reg-679-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22652910.thumb",
+   "posted": "2026-11-27T23:51:47+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T23:54:20+00:00",
+   "real_price": 389.0,
+   "real_old": 679.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20421777&pno=1376616&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=dd134f4ceabd11f1bd9f3a10e94e529a&au=773343cc1a974a36a43316c0c99ca246&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t9300cfc5aff",
+   "title": "BJ's Wholesale: 128GB Samsung Galaxy Tab A11+ 11\" Wi-Fi Tablet w/ Book Cover $200 + Free Pickup",
+   "price": 199.99,
+   "old_price": 299.99,
+   "store": "BJs Wholesale",
+   "url": "https://slickdeals.net/f/20412681-samsung-galaxy-tab-a11-11-tablet-128gb-wi-fi-includes-book-cover-199-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22628133.thumb",
+   "posted": "2026-11-27T23:51:36+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-27T23:54:22+00:00",
+   "real_price": 199.99,
+   "real_old": 299.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412681&pno=1376622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=de2ded88eabd11f184dee27da7b810bf&au=45c4d816a13749029fe4c0e324e5adba&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9ee5dc9cf96",
    "title": "14-Pc DeWALT Black & Gold Coated HSS Twist Drill Bit Set w/ Holding Case $7 + Free S&H",
    "price": 6.98,
@@ -11351,10 +11387,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20421093&pno=1376610&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=38040cbceabd11f18971ca86e63aa71a&au=4161e7fae0e743188928e5cdcdd79453&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T23:49:43+00:00",
    "real_price": 6.98,
-   "real_old": 15.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20421093&pno=1376610&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=38040cbceabd11f18971ca86e63aa71a&au=4161e7fae0e743188928e5cdcdd79453&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 15.98
   },
   {
    "id": "t69c5842ab4d",
@@ -11369,10 +11405,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T23:49:45+00:00",
    "real_price": 599.0,
-   "real_old": 749.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 749.0
   },
   {
    "id": "tf810911193f",
@@ -11484,6 +11520,27 @@
    "checked_at": "2026-11-27T23:30:54+00:00",
    "real_price": 14.99,
    "real_old": 44.99
+  },
+  {
+   "id": "t9f446997e4d",
+   "title": "ASOS Black Friday Sale - Up To 50% Off + Extra 25% Off (Nike, The North Face, Adidas, AND MORE)",
+   "price": null,
+   "old_price": null,
+   "store": "ASOS",
+   "url": "https://slickdeals.net/f/20422110-asos-black-friday-sale-up-to-50-off-extra-25-off-nike-the-north-face-adidas-and-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22651233.thumb",
+   "posted": "2026-11-27T22:29:31+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "SWEETTREAT",
+   "code_until": null,
+   "promo": "Up to 50% Off",
+   "checked_at": "2026-11-27T23:54:24+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ASOS&sdtid=20422110&tid=20422110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=df4e548ceabd11f1822b5671f30bb641&au=e7cef5eba5b24faa8742afd089505e33&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tae9b634f8ea",
@@ -13050,8 +13107,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:49:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e08dfbeaeabd11f19842ae3bc2fb590f&au=528f11ab214746588227ad67e50d2b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:54:27+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -13398,10 +13455,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T23:49:49+00:00",
    "real_price": 179.0,
-   "real_old": 259.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 259.99
   },
   {
    "id": "t8838c0979fd",
@@ -13784,8 +13841,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=3cf3ef4eeabd11f1b697124c5ab3ec83&au=c7f56ed541c448f7aec07a930e07b87e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:49:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=e20dd198eabd11f19d982aabbf1fd717&au=687de71677414eb380d173294d724b44&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:54:29+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14921,8 +14978,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=3e5b1e2aeabd11f1b7dc6a72111b023c&au=a9ceaa193c8a4a72b1f96b44c5f0a446&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:49:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=e3665a88eabd11f1a5185671f30bb641&au=811fd51b1b714ad5b82ca3b2fe7ccad2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:54:32+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15732,66 +15789,36 @@
    "checked_at": "2026-11-27T16:41:25+00:00",
    "real_price": 79.0,
    "real_old": 139.0
-  },
-  {
-   "id": "t0dec6d37e4d",
-   "title": "Ryobi ONE+ 18V Lithium Starter Kit w/ 2.0 Ah Battery & Charger w/ ONE+ 18V Cordless 3/8 in. Drill/Driver $49.88",
-   "price": 49.88,
-   "old_price": 154.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413686-ryobi-one-18v-lithium-starter-kit-w-2-0-ah-battery-charger-w-one-18v-cordless-3-8-in-drill-driver-49-88?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22630455.thumb",
-   "posted": "2026-11-27T08:22:18+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413686&tid=20413686&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=44c7fb42ea6e11f1b2c82a97915d1529&au=440281a97ca149c8880979faa5aee333&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:24:35+00:00",
-   "real_price": 49.88,
-   "real_old": 154.0
-  },
-  {
-   "id": "tf11bde46b8e",
-   "title": "ECO-WORTHY 5000W 48V Solar Inverter w/ 100A MPPT Off-Grid Charger $385.34+ Free Shipping",
-   "price": 385.34,
-   "old_price": 599.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20413644-eco-worthy-5000w-48v-solar-inverter-w-100a-mppt-off-grid-charger-385-34-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22631841.thumb",
-   "posted": "2026-11-27T08:19:54+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "BFDEAL90",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413644&tid=20413644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ad429aaea7a11f190811645367a00b3&au=2655dc0a566448b2a621da718da728df&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:50:39+00:00",
-   "real_price": 385.34,
-   "real_old": 599.0
-  },
-  {
-   "id": "tbcd6d0e1a86",
-   "title": "Ryobi ONE+ HP 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench Kit w/ 4.0 Battery, Charger, & Metric Socket Set $144",
-   "price": 144.0,
-   "old_price": 314.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413641-ryobi-one-hp-18v-brushless-cordless-4-mode-1-2-in-high-torque-impact-wrench-kit-w-4-0-battery-charger-metric-socket-set-144?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22630344.thumb",
-   "posted": "2026-11-27T08:19:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413641&tid=20413641&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=27d1b04aea6a11f18ae51e8cc2a4808a&au=0e012cce030240d881cb4e28e32f369c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:55:08+00:00",
-   "real_price": 144.0,
-   "real_old": 314.0
   }
  ],
  "tech": [
+  {
+   "id": "t9300cfc5aff",
+   "title": "BJ's Wholesale: 128GB Samsung Galaxy Tab A11+ 11\" Wi-Fi Tablet",
+   "price": 199.99,
+   "old_price": 299.99,
+   "store": "BJs Wholesale",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412681&pno=1376622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=de2ded88eabd11f184dee27da7b810bf&au=45c4d816a13749029fe4c0e324e5adba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412681&pno=1376622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=de2ded88eabd11f184dee27da7b810bf&au=45c4d816a13749029fe4c0e324e5adba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22628133.thumb",
+   "posted": "2026-11-27T23:51:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "BJs Wholesale",
+     "price": 199.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412681&pno=1376622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=de2ded88eabd11f184dee27da7b810bf&au=45c4d816a13749029fe4c0e324e5adba&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t69c5842ab4d",
    "title": "Sam's Club Members: 49\" MSI DQHD 5120x1440 144Hz Curved OLED Gaming Monitor + Free S&H",
@@ -15926,6 +15953,27 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20422182&tid=20422182&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=96d5127aeaba11f1b9d676c631ca5380&au=a436347f0509466cb3434472bd3fc1af&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
+  },
+  {
+   "id": "t9f446997e4d",
+   "title": "ASOS Black Friday Sale - Up To 50% Off + Extra 25% Off (Nike, The North Face, Adidas, AND MORE)",
+   "price": null,
+   "old_price": null,
+   "store": "ASOS",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+ASOS&sdtid=20422110&tid=20422110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=df4e548ceabd11f1822b5671f30bb641&au=e7cef5eba5b24faa8742afd089505e33&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+ASOS&sdtid=20422110&tid=20422110&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=df4e548ceabd11f1822b5671f30bb641&au=e7cef5eba5b24faa8742afd089505e33&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/3/8/5/4/6/4/0/300x300/22651233.thumb",
+   "posted": "2026-11-27T22:29:31+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "SWEETTREAT",
+   "code_until": null,
+   "promo": "Up to 50% Off",
+   "offers": []
   },
   {
    "id": "tae9b634f8ea",
@@ -17250,8 +17298,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e08dfbeaeabd11f19842ae3bc2fb590f&au=528f11ab214746588227ad67e50d2b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e08dfbeaeabd11f19842ae3bc2fb590f&au=528f11ab214746588227ad67e50d2b73&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17267,7 +17315,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e08dfbeaeabd11f19842ae3bc2fb590f&au=528f11ab214746588227ad67e50d2b73&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18971,61 +19019,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t7ec45007ca0",
-   "title": "Samsung 34\" ViewFinity S65TC 3440x1440 UWQHD 1000R Curved VA Monitor",
-   "price": 441.73,
-   "old_price": 799.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22632150.thumb",
-   "posted": "2026-11-27T08:59:18+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 441.73,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t11151c34e20",
-   "title": "55\" TCL F8D Series 4K QLED Smart Fire TV",
-   "price": 339.99,
-   "old_price": 449.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414043&tid=20414043&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2b0d0aea9511f1bb2e72d7dca52f8f&au=977de9ed21bd47729bef5f2963a0ec41&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414043&tid=20414043&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2b0d0aea9511f1bb2e72d7dca52f8f&au=977de9ed21bd47729bef5f2963a0ec41&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22631544.thumb",
-   "posted": "2026-11-27T08:46:41+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 339.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414043&tid=20414043&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2b0d0aea9511f1bb2e72d7dca52f8f&au=977de9ed21bd47729bef5f2963a0ec41&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T23:50:37+00:00"
+ "updated": "2026-11-27T23:55:15+00:00"
 }
