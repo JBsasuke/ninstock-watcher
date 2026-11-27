@@ -3193,7 +3193,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-27T12:43:53+00:00",
+ "deku_checked": "2026-11-27T13:45:26+00:00",
  "deals": [
   {
    "id": "c5f2a12e15e1",
@@ -6812,7 +6812,7 @@
    "release_date": "2026-11-11",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -6844,7 +6844,7 @@
      "url": "https://www.gamestop.com/products/shrek-2-remastered/454733.html"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -6871,7 +6871,7 @@
      "url": "https://www.amazon.com/dp/B0HNKQ6VFD"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -6913,7 +6913,7 @@
      "url": "https://www.target.com/p/-/A-1012297500"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -6965,7 +6965,7 @@
      "url": "https://www.target.com/p/-/A-1012827386"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -7001,7 +7001,7 @@
      "url": "https://www.gamestop.com/products/stellar-blade-complete-edition/451860.html"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "SHIFT UP",
    "digital": {
@@ -7042,7 +7042,7 @@
      "url": "https://www.target.com/p/-/A-1014334835"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CDE Entertainment",
    "digital": {
@@ -7063,7 +7063,7 @@
    "release_date": "2026-11-04",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7105,7 +7105,7 @@
      "url": "https://www.target.com/p/-/A-1012019669"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -7151,7 +7151,7 @@
      "url": "https://www.walmart.com/ip/21144069234"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7167,7 +7167,7 @@
    "release_date": "2026-11-03",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7199,7 +7199,7 @@
      "url": "https://www.bestbuy.com/site/6688411.p?skuId=6688411"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -7234,9 +7234,14 @@
      "store": "GameStop",
      "price": 69.99,
      "url": "https://www.gamestop.com/products/hello-kitty-party-land-premium-edition/447590.html"
+    },
+    {
+     "store": "Best Buy",
+     "price": 69.99,
+     "url": "https://www.bestbuy.com/site/6683558.p?skuId=6683558"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -7279,7 +7284,7 @@
      "url": "https://www.walmart.com/ip/20214621641"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Spike Chunsoft US",
    "digital": {
@@ -7325,7 +7330,7 @@
      "url": "https://www.target.com/p/-/A-1011777705"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7362,7 +7367,7 @@
      "url": "https://www.target.com/p/-/A-1014516338"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7404,7 +7409,7 @@
      "url": "https://www.target.com/p/-/A-1012019664"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -7431,7 +7436,7 @@
      "url": "https://www.amazon.com/dp/B0HQ7JJ5JK"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "FURYU",
    "digital": {
@@ -7478,7 +7483,7 @@
      "url": "https://www.walmart.com/ip/21107563569"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Raw Fury",
    "digital": {
@@ -7524,7 +7529,7 @@
      "url": "https://www.target.com/p/-/A-1012856127"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -7571,7 +7576,7 @@
      "url": "https://www.target.com/p/-/A-1013027743"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -7608,7 +7613,7 @@
      "url": "https://www.bestbuy.com/site/6677477.p?skuId=6677477"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "NIS America",
    "digital": {
@@ -7655,7 +7660,7 @@
      "url": "https://www.gamestop.com/products/warrior-cats-clans-of-the-forest-feral-edition/450383.html"
     }
    ],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7676,7 +7681,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Trailmark Games",
    "digital": {
@@ -7697,7 +7702,7 @@
    "release_date": "2026-10-23",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T07:38:59+00:00",
+   "offers_checked": "2026-11-27T13:45:43+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -11415,6 +11420,24 @@
    "real_old": 2399.0
   },
   {
+   "id": "t812fb635465",
+   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) $2149 + Free S&H",
+   "price": 2149.0,
+   "old_price": 2399.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20411964-apple-macbook-pro-laptop-m6-chip-14-liquid-retina-32gb-ram-1tb-ssd-2026-2149-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22636347.thumb",
+   "posted": "2026-11-27T13:04:35+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:47:38+00:00",
+   "real_price": 2149.0,
+   "real_old": 2399.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1bd9ba86ea6911f188b7fecb9e75e599&au=14b86c0506554bac85fc93fb95e0354f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td5561be1f0f",
    "title": "Apple AirPods Pro 3 Wireless Earbuds $150 & More + Free S&H",
    "price": 149.99,
@@ -11445,10 +11468,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415456&tid=20415456&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=3df1ebb2ea6811f1b6601a693b915e48&au=86c3dd6e0dae4496affa901780138e8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:41:27+00:00",
    "real_price": 21.88,
-   "real_old": 38.21,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415456&tid=20415456&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=3df1ebb2ea6811f1b6601a693b915e48&au=86c3dd6e0dae4496affa901780138e8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 38.21
   },
   {
    "id": "t6316d9fcbc6",
@@ -11701,8 +11724,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4026f972ea6811f1976f9a2df9001c3b&au=451c9c8efc944727a1e8bae4021e8b9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:41:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=1df8d4faea6911f1bbf9b24d945fe3cb&au=030b822404f34f888a544c71f703ec34&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:47:42+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12567,10 +12590,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412957&tid=20412957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=422c8430ea6811f19563261efd69c6ee&au=41270ae0b1a241cc9c309ecef043e599&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:41:34+00:00",
    "real_price": 44.99,
-   "real_old": 57.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412957&tid=20412957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=422c8430ea6811f19563261efd69c6ee&au=41270ae0b1a241cc9c309ecef043e599&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 57.0
   },
   {
    "id": "t3e75a01cf96",
@@ -13431,10 +13454,10 @@
    "code": "BFYOGA2",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:41:37+00:00",
    "real_price": 751.99,
-   "real_old": 1649.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1649.99
   },
   {
    "id": "t46269cc493c",
@@ -13834,10 +13857,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:41:40+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 60.0
   },
   {
    "id": "t45fd594fcfe",
@@ -14224,8 +14246,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:41:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f96996eea6911f1a8de72a13ed73a41&au=6386685aa4744b7eb74c9107a1a40ec9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:47:45+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15794,26 +15816,6 @@
    "checked_at": "2026-11-26T23:39:52+00:00",
    "real_price": 124.0,
    "real_old": 149.0
-  },
-  {
-   "id": "tfb2dfbe16a1",
-   "title": "30% Off Sitewide, Up to 60% Off: Alo Yoga Black Friday Sale",
-   "price": null,
-   "old_price": null,
-   "store": "Alo Yoga",
-   "url": "https://slickdeals.net/f/20409297-30-off-sitewide-up-to-60-off-alo-yoga-black-friday-sale?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22621203.thumb",
-   "posted": "2026-11-26T22:47:42+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": null,
-   "code_until": null,
-   "promo": "30% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Alo+Yoga&sdtid=20409297&tid=20409297&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d20734e9fc11f189584acc72eb1c77&au=a5e87819ce834eeb84d6d8a775906a37&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:49:24+00:00",
-   "real_price": 56.0
   }
  ],
  "tech": [
@@ -18031,8 +18033,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f96996eea6911f1a8de72a13ed73a41&au=6386685aa4744b7eb74c9107a1a40ec9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f96996eea6911f1a8de72a13ed73a41&au=6386685aa4744b7eb74c9107a1a40ec9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18048,7 +18050,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f96996eea6911f1a8de72a13ed73a41&au=6386685aa4744b7eb74c9107a1a40ec9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19034,5 +19036,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T13:42:39+00:00"
+ "updated": "2026-11-27T13:48:34+00:00"
 }
