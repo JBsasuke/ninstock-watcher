@@ -853,7 +853,7 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:33:43+00:00",
+   "checked_at": "2026-11-27T13:35:37+00:00",
    "real_price": 30.0,
    "real_old": 69.0,
    "category_ok": true
@@ -11379,6 +11379,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t972ca05a693",
+   "title": "Sam's Club Members: Select Locations: 85\" TCL QM63K 4K QD-Mini LED Smart TV $600 (Valid In-Store Only)",
+   "price": 599.99,
+   "old_price": 1675.0,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20397351-sams-club-tcl-qm63k-85-mini-led-tv-ymmv-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22593234.thumb",
+   "posted": "2026-11-27T13:34:49+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:36:36+00:00",
+   "real_price": 599.99,
+   "real_old": 1675.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t82621f4620b",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) $2149 + Free S&H",
    "price": 2149.0,
@@ -11665,8 +11683,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=e1c8ff5cea6611f19eaf2e2671482fff&au=a13ef9fa6046443d84359b8cc230ecde&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:31:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9240f2e0ea6711f196e816ca551c1ac3&au=01083748ef4442bb94f37eca3b5c37a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:36:38+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13705,10 +13723,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20411652&tid=20411652&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e2e2d278ea6611f1b0899697f435d42e&au=ba2ab5800fdf41c69e320a4dc753ba7c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:31:44+00:00",
    "real_price": 499.0,
-   "real_old": 1099.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20411652&tid=20411652&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e2e2d278ea6611f1b0899697f435d42e&au=ba2ab5800fdf41c69e320a4dc753ba7c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1099.0
   },
   {
    "id": "t10edc77f69e",
@@ -14131,8 +14149,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e44c01f2ea6611f19277d27422150692&au=49063b55d4804c2392d79c9c74d1c53a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:31:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:36:40+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15793,30 +15811,36 @@
    "checked_at": "2026-11-26T23:53:53+00:00",
    "real_price": 449.99,
    "real_old": 629.99
-  },
-  {
-   "id": "ta8cedc53bb6",
-   "title": "wegear C100 1080p USB-A Webcam w/ Dual Mics & Sliding Privacy Cover (Black) $11",
-   "price": 10.99,
-   "old_price": 26.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406789-wegear-c100-1080p-usb-a-webcam-w-dual-mics-sliding-privacy-cover-10-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22620939.thumb",
-   "posted": "2026-11-26T22:19:22+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "MRIRVY1D",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406789&pno=1375470&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=d8fb6678e9e711f1a6e10e66b81901db&au=50837e00dad64fbea707ef17f84fe0e4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:22:21+00:00",
-   "real_price": 10.99,
-   "real_old": 26.99
   }
  ],
  "tech": [
+  {
+   "id": "t972ca05a693",
+   "title": "Sam's Club Members: Select Locations: 85\" TCL QM63K 4K QD-Mini LED Smart TV (Valid In-Store Only)",
+   "price": 599.99,
+   "old_price": 1675.0,
+   "store": "Sam's Club",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22593234.thumb",
+   "posted": "2026-11-27T13:34:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Sam's Club",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t82621f4620b",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
@@ -17950,8 +17974,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e44c01f2ea6611f19277d27422150692&au=49063b55d4804c2392d79c9c74d1c53a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e44c01f2ea6611f19277d27422150692&au=49063b55d4804c2392d79c9c74d1c53a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17967,7 +17991,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e44c01f2ea6611f19277d27422150692&au=49063b55d4804c2392d79c9c74d1c53a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18999,34 +19023,7 @@
    "code_until": null,
    "promo": "30% Off",
    "offers": []
-  },
-  {
-   "id": "tde238ae8e36",
-   "title": "Skullcandy Crusher Evo Wireless Over-Ear Headphones (Chill Grey, Camo or Bone)",
-   "price": 89.99,
-   "old_price": 209.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409255&tid=20409255&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b342bca2e9fa11f183dd460f4f9362f3&au=69abe34c5c2e4a2cb3d2baa62cba4881&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409255&tid=20409255&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b342bca2e9fa11f183dd460f4f9362f3&au=69abe34c5c2e4a2cb3d2baa62cba4881&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22621161.thumb",
-   "posted": "2026-11-26T22:41:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 89.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409255&tid=20409255&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b342bca2e9fa11f183dd460f4f9362f3&au=69abe34c5c2e4a2cb3d2baa62cba4881&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T13:32:43+00:00"
+ "updated": "2026-11-27T13:37:33+00:00"
 }
