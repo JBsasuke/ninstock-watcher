@@ -1265,10 +1265,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&pno=1374948&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55f25d7ee9a911f1b07f5ab5b1f81fbd&au=61db0138f0c24281a246293adcee995c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:03:14+00:00",
+   "checked_at": "2026-11-27T15:05:29+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "7c23e921cea0",
@@ -2213,10 +2214,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=df74bf9ee94311f194e6da819bccac81&au=56558c4d33ec4e1793f0099d991a08cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:03:16+00:00",
+   "checked_at": "2026-11-27T15:05:31+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "eb0bc907678f",
@@ -2234,10 +2236,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=e0db88aee94311f1b0a9a6ea1f579b67&au=0b0fdfc768dd402086bab480e72c97ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:03:18+00:00",
+   "checked_at": "2026-11-27T15:05:34+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "e32015266b6e",
@@ -2938,7 +2941,7 @@
    "store_url": "https://www.walmart.com/ip/17709163432",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:03:20+00:00",
+   "checked_at": "2026-11-27T15:05:37+00:00",
    "real_price": 47.96,
    "real_old": 59.99,
    "category_ok": true
@@ -3679,31 +3682,6 @@
    "code_until": null
   },
   {
-   "id": "c1c12a79072a",
-   "title": "Rune Factory: Guardians of Azuma (Nintendo Switch)",
-   "price": 15.0,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&pno=1374948&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55f25d7ee9a911f1b07f5ab5b1f81fbd&au=61db0138f0c24281a246293adcee995c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&pno=1374948&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55f25d7ee9a911f1b07f5ab5b1f81fbd&au=61db0138f0c24281a246293adcee995c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 15.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&pno=1374948&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=55f25d7ee9a911f1b07f5ab5b1f81fbd&au=61db0138f0c24281a246293adcee995c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22598670.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-26T14:54:13+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
    "id": "410ebc416ae6",
    "title": "[NEW] | Pokemon Mew Sleeping Plush - 18-Inch Premium Plush in Sleeping Pose",
    "price": 17.99,
@@ -3847,6 +3825,31 @@
    "kind": "merch",
    "collector": false,
    "posted": "2026-11-26T04:52:18+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
+  {
+   "id": "676d16618500",
+   "title": ": Rune Factory Guardians of Azuma Standard Edition (Nintendo Switch)",
+   "price": 15.0,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1655c224e94911f1af3ffa0af5fde6bc&au=8c45afcd34594a25a2c76b65f929408b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1655c224e94911f1af3ffa0af5fde6bc&au=8c45afcd34594a25a2c76b65f929408b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 15.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400171&tid=20400171&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1655c224e94911f1af3ffa0af5fde6bc&au=8c45afcd34594a25a2c76b65f929408b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22598670.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-26T02:44:06+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11408,10 +11411,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413800&pno=1376247&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d345e54ea7311f1b0e57631a2ced2a7&au=5a5e3f53c6aa45dc814c359f0e740cbb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:01:30+00:00",
    "real_price": 379.0,
-   "real_old": 998.75,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413800&pno=1376247&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d345e54ea7311f1b0e57631a2ced2a7&au=5a5e3f53c6aa45dc814c359f0e740cbb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 998.75
   },
   {
    "id": "tf3b69adc6b2",
@@ -11426,8 +11429,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=6e7a4f80ea7311f19dd21e68176ad4c2&au=42e5d6d75a8f49a3a4fa3b7e96479f07&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:01:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=21c0fd78ea7411f1b9ae72a13ed73a41&au=6db5c77ffafb448684192463c9ca40c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:06:33+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11444,10 +11447,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:01:34+00:00",
    "real_price": 430.38,
-   "real_old": 669.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 669.0
   },
   {
    "id": "ta524db3b379",
@@ -11999,8 +12002,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=710ff5a6ea7311f1a7352a97915d1529&au=ad56c3541742450085568e1b68d57c96&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:01:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=22edfdd6ea7411f182492a97915d1529&au=6510c56cb42c4d738e54799e0f698d1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:06:35+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12275,9 +12278,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BFDEAL8",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -12967,6 +12967,24 @@
    "real_old": 199.0
   },
   {
+   "id": "t94fbfdafd09",
+   "title": "Ryobi ONE+ 18V Lithium Starter Kit w/ 2.0 Ah Battery & Charger w/ ONE+ 18V Cordless 4-1/2 in. Circular Saw $49.88",
+   "price": 49.88,
+   "old_price": 163.04,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20413161-ryobi-one-18v-lithium-starter-kit-w-2-0-ah-battery-charger-w-one-18v-cordless-4-1-2-in-circular-saw-49-88?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22629402.thumb",
+   "posted": "2026-11-27T08:01:49+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:06:37+00:00",
+   "real_price": 49.88,
+   "real_old": 163.04,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413161&tid=20413161&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=240f282aea7411f198ffeef30b7448eb&au=c3f8ff0a267a46f79412c49e42a4f350&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta175f585866",
    "title": "TCL 55 Inch QM6K Series QLED Mini LED 4K HDR Smart Google TV, 55QM6K, 144Hz at Amazo $450",
    "price": 450.0,
@@ -13148,6 +13166,24 @@
    "checked_at": "2026-11-27T12:10:58+00:00",
    "real_price": 599.0,
    "real_old": 749.0
+  },
+  {
+   "id": "t90b2ba15f97",
+   "title": "Apple Crossbody Strap for iPhone 17 Series (Bright Guava) $22.87 + Free Store Pickup at Best Buy",
+   "price": 22.87,
+   "old_price": 58.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412873-apple-crossbody-strap-for-iphone-17-series-bright-guava-22-87-free-store-pickup-at-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22628862.thumb",
+   "posted": "2026-11-27T07:35:07+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:06:39+00:00",
+   "real_price": 22.87,
+   "real_old": 58.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t17c4cd54747",
@@ -13973,10 +14009,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:01:39+00:00",
    "real_price": 249.99,
-   "real_old": 399.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 399.99
   },
   {
    "id": "t3e9237c37be",
@@ -14967,8 +15003,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:01:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:06:42+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15800,42 +15836,6 @@
    "checked_at": "2026-11-27T00:44:48+00:00",
    "real_price": 799.0,
    "real_old": 1199.0
-  },
-  {
-   "id": "t3674388cd26",
-   "title": "Redragon K733 PRO Wireless Backlit RGB Mechanical Keyboard Number Pad Calculator, Dual PC & Calculate Modes $24.99 Amazon Prime exclusive Black Friday Price",
-   "price": 24.99,
-   "old_price": 34.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20409945-redragon-k733-pro-wireless-backlit-rgb-mechanical-keyboard-number-pad-calculator-dual-pc-calculate-modes-24-99-amazon-prime-exclusive-black-friday-price?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/0/5/8/6/300x300/22622367.thumb",
-   "posted": "2026-11-27T00:38:05+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409945&tid=20409945&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c772712ea4d11f19ed7f2f94b23013c&au=219838c1141c4b42adecdfd260a47f9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:28:34+00:00",
-   "real_price": 24.99,
-   "real_old": 34.99
-  },
-  {
-   "id": "t28b759e0cfc",
-   "title": "Dreo Smart RGBIC Low Profile Ceiling Fan w/ Dimmable Color-Tuning Light (Black) $99.99 + Free Shipping",
-   "price": 99.99,
-   "old_price": 169.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20409939-dreo-smart-rgbic-low-profile-ceiling-fan-w-dimmable-color-tuning-light-black-99-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22622349.thumb",
-   "posted": "2026-11-27T00:36:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409939&tid=20409939&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=838210d8ea6011f195069e188c28a5c3&au=787b2b9c27a14165801ed367aceb622e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:46:07+00:00",
-   "real_price": 99.99,
-   "real_old": 169.99
   }
  ],
  "tech": [
@@ -16916,6 +16916,33 @@
      "store": "Sam's Club",
      "price": 599.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&tid=20412933&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9a983e82ea5b11f1a32586313fda6f19&au=ca0e13cf40234b17b7bfc854c4593e68&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t90b2ba15f97",
+   "title": "Apple Crossbody Strap for iPhone 17 Series (Bright Guava)",
+   "price": 22.87,
+   "old_price": 58.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22628862.thumb",
+   "posted": "2026-11-27T07:35:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 22.87,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18485,8 +18512,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18502,7 +18529,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19045,34 +19072,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=a84bc72cea1711f18e8c42ea8a74cf59&au=2f31344ce530431984274ec9ee056c4a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t140ed91284d",
-   "title": "42mm Apple Watch Series 11 GPS + Cellular Smartwatch",
-   "price": 399.99,
-   "old_price": 749.99,
-   "store": "Target",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&pno=1375620&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=bdd3e8dee9fb11f1be22beaed212ecc4&au=aec3a5ca913f4ebaab9335e9f59cf7b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&pno=1375620&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=bdd3e8dee9fb11f1be22beaed212ecc4&au=aec3a5ca913f4ebaab9335e9f59cf7b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22596624.thumb",
-   "posted": "2026-11-27T00:41:57+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Target",
-     "price": 399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&pno=1375620&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=bdd3e8dee9fb11f1be22beaed212ecc4&au=aec3a5ca913f4ebaab9335e9f59cf7b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T15:02:32+00:00"
+ "updated": "2026-11-27T15:07:35+00:00"
 }
