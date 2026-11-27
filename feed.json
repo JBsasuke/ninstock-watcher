@@ -1794,7 +1794,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=32e06e60e99111f191325ab5b1f81fbd&au=8ac140184c094a0ea38d7249c8509c4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:09:47+00:00",
+   "checked_at": "2026-11-27T18:12:26+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1815,7 +1815,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3429c820e99111f1a8d03a1f0e489800&au=5cb54851bb914f48b11c8a913c508b80&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:09:49+00:00",
+   "checked_at": "2026-11-27T18:12:29+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2619,7 +2619,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20391711&pno=1374294&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=0747b71ee92c11f19e28261238f4061b&au=13f415d997694d25aaaf83c00d49966e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:09:53+00:00",
+   "checked_at": "2026-11-27T18:12:30+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -3003,7 +3003,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396373&tid=20396373&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=31972712e8f911f1ae67964dbdae6560&au=2554edd24c6747c7913745ecf8ed141c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:09:55+00:00",
+   "checked_at": "2026-11-27T18:12:33+00:00",
    "real_price": 28.53,
    "real_old": 44.99,
    "category_ok": true
@@ -3024,7 +3024,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396373&tid=20396373&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=32e25650e8f911f1ab358e7de043ceff&au=e9d7f0ce4ecb4ea399ff2fa62dd012c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:09:57+00:00",
+   "checked_at": "2026-11-27T18:12:35+00:00",
    "real_price": 28.53,
    "real_old": 44.99,
    "category_ok": true
@@ -11420,6 +11420,24 @@
    "real_old": 79.0
   },
   {
+   "id": "t01cc6fedfb7",
+   "title": "Creality K2 Combo Multicolor 3D Printer $359.20",
+   "price": 359.2,
+   "old_price": 449.0,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20419188-creality-k2-combo-multicolor-3d-printer-359-20?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/4/0/3/3/2/8/300x300/22645035.thumb",
+   "posted": "2026-11-27T17:47:46+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T18:13:29+00:00",
+   "real_price": 359.2,
+   "real_old": 449.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20419188&tid=20419188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3f701434ea8e11f19f55fe168e7c6021&au=1fbf68aece3a4d759fba573a8016ff87&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9b53cf56605",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 24GB RAM, 1TB SSD (2026) $1949 + Free S&H",
    "price": 1949.0,
@@ -11480,6 +11498,27 @@
    "real_old": 129.99
   },
   {
+   "id": "te9c0ba268e6",
+   "title": "Factory Reconditioned MSI MAG 321UPX QD-OLED 32\" 4K UHD 240Hz w/ Coupon - Woot! $423.63",
+   "price": 423.63,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20418918-factory-reconditioned-msi-mag-321upx-qd-oled-32-4k-uhd-240hz-w-coupon-woot-423-63?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22644342.thumb",
+   "posted": "2026-11-27T17:28:32+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T18:13:32+00:00",
+   "real_price": 423.63,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t82510b03143",
    "title": "Apple MacBook Air 13.6” M5 24GB RAM, 512GB SSD $1249",
    "price": 1249.0,
@@ -11492,10 +11531,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20418780&tid=20418780&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9158201cea8d11f18903f6d0547060c1&au=05a0b0a7340b423393ded5625aa03879&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:08:37+00:00",
    "real_price": 1249.0,
-   "real_old": 1499.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20418780&tid=20418780&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9158201cea8d11f18903f6d0547060c1&au=05a0b0a7340b423393ded5625aa03879&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1499.0
   },
   {
    "id": "tc68b124a0ac",
@@ -11772,6 +11811,24 @@
    "checked_at": "2026-11-27T16:17:24+00:00",
    "real_price": 139.0,
    "real_old": 359.0
+  },
+  {
+   "id": "ta2e845added",
+   "title": "5\" Craftsman Dual Action Buffer Polisher (CMCE150B) $99 + Free Shipping",
+   "price": 99.0,
+   "old_price": 179.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20417946-5-craftsman-dual-action-buffer-polisher-cmce150b-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22641639.thumb",
+   "posted": "2026-11-27T16:04:49+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T18:13:33+00:00",
+   "real_price": 99.0,
+   "real_old": 179.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417946&tid=20417946&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=41cceb44ea8e11f1aec2fe168e7c6021&au=1b2644eff4ca4c4b908d56d405552a2f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0de340c3110",
@@ -12155,8 +12212,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=929191a2ea8d11f1a9431a693b915e48&au=38889c7e7a074f78ab5fbb2fa1d13081&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:08:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=43d900bcea8e11f1bd7b1645367a00b3&au=c3cd8e31b8c44ef3b727f7b7cf479dfe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:13:37+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12191,10 +12248,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416509&tid=20416509&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=93d6c00aea8d11f1980dfe168e7c6021&au=97f6d923b9e649b5aa8ee836c3a5a268&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:08:42+00:00",
    "real_price": 97.67,
-   "real_old": 169.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416509&tid=20416509&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=93d6c00aea8d11f1980dfe168e7c6021&au=97f6d923b9e649b5aa8ee836c3a5a268&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 169.99
   },
   {
    "id": "ta524db3b379",
@@ -12305,6 +12362,27 @@
    "checked_at": "2026-11-27T16:31:48+00:00",
    "real_price": 47.99,
    "real_old": 79.99
+  },
+  {
+   "id": "t696e7dfbd4f",
+   "title": "$111.99: DEWALT Buffer Polisher, 7-in-9-in, 12 amp, Variable Speed Dial 0-3,500 RPM’s, Soft Start Corded Car Buffer (DWP849X) at Woot!",
+   "price": 111.99,
+   "old_price": 249.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20416245-111-99-dewalt-buffer-polisher-7-in-9-in-12-amp-variable-speed-dial-0-3-500-rpm-s-soft-start-corded-car-buffer-dwp849x-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22637583.thumb",
+   "posted": "2026-11-27T13:46:12+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T18:13:39+00:00",
+   "real_price": 111.99,
+   "real_old": 249.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416245&tid=20416245&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45043970ea8e11f1938f3693952c0199&au=990fdaca1a86405cb82ffb436371dcf9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "teda98147d66",
@@ -12943,8 +13021,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=955edb42ea8d11f191809a2d9483121e&au=5d13ff94ba71496ea648073354083fb9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:08:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=46c4db20ea8e11f199f46adf34455f69&au=023adfefc5444154af433e159f1a0c5a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:13:42+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15734,80 +15812,6 @@
    "checked_at": "2026-11-27T06:19:11+00:00",
    "real_price": 2649.0,
    "real_old": 3299.0
-  },
-  {
-   "id": "t9988dad29d4",
-   "title": "[EPP/EDU] Samsung Neo QLED QN90H 4K 144Hz Mini LED Smart TV + Music Studio Smart Speaker: 65\" $972; 75\" $1215; 85\" $1620 + Free S/H",
-   "price": 972.0,
-   "old_price": 1499.99,
-   "store": "Samsung",
-   "url": "https://slickdeals.net/f/20411709-epp-edu-samsung-neo-qled-qn90h-4k-144hz-mini-led-smart-tv-music-studio-smart-speaker-65-972-75-1215-85-1620-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22625835.thumb",
-   "posted": "2026-11-27T05:25:50+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20411709&tid=20411709&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd168484ea4411f1aa44daeac3707ed4&au=d96d435ab6fd43a69e339e6551275463&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:27:45+00:00",
-   "real_price": 972.0,
-   "real_old": 1499.99
-  },
-  {
-   "id": "t23ed3f6aff2",
-   "title": "17.3\" HP OmniBook X Laptop Next Gen AI (17-dd0047nr Touch screen, Windows 11 Home,  Intel Core Ultra 7, 16GB RAM, 512GB SSD, FHD, Glacier silver) $724.99 + Free Shipping",
-   "price": 724.99,
-   "old_price": 1599.99,
-   "store": "HP Small & Medium Business",
-   "url": "https://slickdeals.net/f/20411673-17-3-hp-omnibook-x-laptop-next-gen-ai-17-dd0047nr-touch-screen-windows-11-home-intel-core-ultra-7-16gb-ram-512gb-ssd-fhd-glacier-silver-724-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22625763.thumb",
-   "posted": "2026-11-27T05:20:59+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "GRAVY25",
-   "code_until": null,
-   "promo": null,
-   "checked_at": "2026-11-27T05:55:33+00:00",
-   "real_price": 724.99,
-   "real_old": 1599.99
-  },
-  {
-   "id": "tabad944201a",
-   "title": "Prime Members: Minthouz Up to 35W Dual-Port GaN Foldable Wall Charger (USB-C & USB-A) $5.30 + Free S&H",
-   "price": 5.29,
-   "old_price": 8.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20385648-prime-5-29-minthouz-35w-dual-port-gan-foldable-wall-charger-usb-c-usb-a-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560282.thumb",
-   "posted": "2026-11-27T05:19:43+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&pno=1375902&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=ab435368ea2211f1bc8fea309893a51e&au=6b806e42544347fca8152643c4e64423&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T05:23:25+00:00",
-   "real_price": 5.29,
-   "real_old": 8.99
-  },
-  {
-   "id": "t647be069bfa",
-   "title": "Greenworks 80V 21in Self Propelled Lawn Mower 13in String Trimmer and 730 Leaf Blower Combo with 4 Ah Battery and Charger | 1345202 $499",
-   "price": 499.0,
-   "old_price": 1099.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20411652-greenworks-80v-21in-self-propelled-lawn-mower-13in-string-trimmer-and-730-leaf-blower-combo-with-4-ah-battery-and-charger-1345202-499?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22625715.thumb",
-   "posted": "2026-11-27T05:17:57+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20411652&tid=20411652&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=e2e2d278ea6611f1b0899697f435d42e&au=ba2ab5800fdf41c69e320a4dc753ba7c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:31:44+00:00",
-   "real_price": 499.0,
-   "real_old": 1099.0
   }
  ],
  "tech": [
@@ -15889,6 +15893,33 @@
      "store": "Amazon",
      "price": 49.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389446&pno=1376349&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=69f86914ea8811f18749eef30b7448eb&au=d0e74cf8a03e43ecb065281e44accc2b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "te9c0ba268e6",
+   "title": "Factory Reconditioned MSI MAG 321UPX QD-OLED 32\" 4K UHD 240Hz",
+   "price": 423.63,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22644342.thumb",
+   "posted": "2026-11-27T17:28:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 423.63,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19017,34 +19048,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&pno=1375902&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=ab435368ea2211f1bc8fea309893a51e&au=6b806e42544347fca8152643c4e64423&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t10edc77f69e",
-   "title": "Lenovo Slim 5i: 16\" FHD+ IPS, Intel Ultra 5 322, 16GB LPDDR5, 1TB SSD",
-   "price": 649.0,
-   "old_price": 1449.0,
-   "store": "B&H Photo Video",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22625667.thumb",
-   "posted": "2026-11-27T05:15:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "B&H Photo Video",
-     "price": 649.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T18:09:33+00:00"
+ "updated": "2026-11-27T18:14:25+00:00"
 }
