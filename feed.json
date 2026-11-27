@@ -543,8 +543,8 @@
   {
    "id": "9df4a76913d4",
    "title": "Refurbished: Nintendo Switch 2 256GB Gaming Console $409. New Customers $389 + Free Shipping w/ Prime",
-   "price": 359.2,
-   "old_price": null,
+   "price": 389.0,
+   "old_price": 499.0,
    "store": "Woot!",
    "kind": "hardware",
    "collector": false,
@@ -558,9 +558,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dca57c68ea4711f19fda328862b5a43b&au=61fb7b106426495b8c935ffb79a8e2da&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T13:54:08+00:00",
-   "real_price": 359.2,
-   "real_old": null,
+   "checked_at": "2026-11-27T15:57:20+00:00",
+   "real_price": 389.0,
+   "real_old": 499.0,
    "category_ok": true
   },
   {
@@ -1307,7 +1307,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:54:24+00:00",
+   "checked_at": "2026-11-27T15:57:18+00:00",
    "real_price": 499.99,
    "real_old": 549.99,
    "category_ok": true
@@ -3411,7 +3411,7 @@
    "id": "d1ee02eef246",
    "title": "Refurbished: Nintendo Switch 2 256GB Gaming Console . New Customers",
    "price": 359.2,
-   "old_price": null,
+   "old_price": 499.0,
    "store": "Woot!",
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -11369,6 +11369,42 @@
  ],
  "raw_tech": [
   {
+   "id": "t5a532cf852b",
+   "title": "Sam's Club: HP OMEN 15.3\" Laptop: Intel Core 5 210H, 16GB RAM, RTX 5050 $849",
+   "price": 849.0,
+   "old_price": 1199.0,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20404272-hp-omen-gaming-laptop-849?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/5/2/1/1/6/300x300/22608945.thumb",
+   "posted": "2026-11-27T15:55:15+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:58:15+00:00",
+   "real_price": 849.0,
+   "real_old": 1199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t0c499a51084",
+   "title": "EF ECOFLOW Rapid 10000mAh 45W Power Bank w/ Built-In USB-C Cable $20",
+   "price": 19.99,
+   "old_price": 41.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20411727-ef-ecoflow-rapid-10000mah-45w-power-bank-w-built-in-usb-c-cable-digital-display-19-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22625079.thumb",
+   "posted": "2026-11-27T15:55:10+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:58:17+00:00",
+   "real_price": 19.99,
+   "real_old": 41.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411727&pno=1376277&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5be050b0ea7b11f1a0122a97915d1529&au=7afe6f96703446c4b85c126c21c606dd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3c870065673",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) $2149 + Free S&H",
    "price": 2149.0,
@@ -11473,10 +11509,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417100&tid=20417100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b566811eea7a11f1a687c6a20c4517f9&au=73bce5a6021b472a87017d8246acee4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:53:37+00:00",
    "real_price": 67.67,
-   "real_old": 119.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417100&tid=20417100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b566811eea7a11f1a687c6a20c4517f9&au=73bce5a6021b472a87017d8246acee4a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.99
   },
   {
    "id": "te849e8d1b5b",
@@ -11529,8 +11565,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b6786522ea7a11f1bf6c72a13ed73a41&au=81852ac353b442f18ecb93cb26db59f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:53:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=5d02a808ea7b11f18bf37a542ef51613&au=f82bed970edb4e3985cd70870ed7df41&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:58:19+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11710,10 +11746,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "checked_at": "2026-11-27T15:53:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5e2122dcea7b11f19dacf266078fb7c2&au=2aab8c4aab1441d0a05e71737bed9178&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:58:21+00:00",
    "real_price": 4.5,
-   "real_old": 14.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b7a299e0ea7a11f188813e4f845a5809&au=ec3d9b8e53c444888ff133d6709fa1f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 14.99
   },
   {
    "id": "t67074e116c9",
@@ -12106,6 +12142,24 @@
    "real_old": 109.99
   },
   {
+   "id": "tb86b678f455",
+   "title": "Belkin Qi2 15W Wireless Charging Dock, 2 in 1 Fast iPhone Charger | iPhone 17/16/15/14/13, AirPods, Qi2-enabled devices compatible, power adapter included, desk dock $59.99",
+   "price": 59.99,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414991-belkin-qi2-15w-wireless-charging-dock-2-in-1-fast-iphone-charger-iphone-17-16-15-14-13-airpods-qi2-enabled-devices-compatible-power-adapter-included-desk-dock-59-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22634415.thumb",
+   "posted": "2026-11-27T11:13:35+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:58:23+00:00",
+   "real_price": 59.99,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414991&tid=20414991&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5fa741c2ea7b11f184f57e94b7430612&au=83dd726addf24d5c93d53df642cffd8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t96c81d6a545",
    "title": "Moe's Southwest Grill Rewards Offer: Any Qualifying Entree Purchase B1G1 Free (Valid thru 11/29)",
    "price": 56.0,
@@ -12173,8 +12227,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b8c33d7aea7a11f19d9512884ec1deb5&au=371d668967a0406a986fa866568bf040&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:53:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=60ce8c2cea7b11f1a015d20f1cebfaa3&au=b7cb640a046d4fe4bf53a18531a5f72f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:58:25+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15308,8 +15362,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9f56042ea7a11f19b19d20f1cebfaa3&au=faebeb46035541f2afc569454015eee8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:53:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62521726ea7b11f1ae4aaae63c135bae&au=e97d27592df94bdeb9a97a92896f895e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:58:28+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15762,63 +15816,36 @@
    "checked_at": "2026-11-27T01:59:13+00:00",
    "real_price": 90.0,
    "real_old": 149.0
-  },
-  {
-   "id": "t7fdf660af08",
-   "title": "EPP/EDU: 32\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor + CoD Mod Warfare 4 $600 + Free S&H",
-   "price": 600.0,
-   "old_price": 1370.0,
-   "store": "Samsung",
-   "url": "https://slickdeals.net/f/20401968-epp-edu-32-samsung-odyssey-g80sh-4k-240hz-oled-gaming-monitor-cod-modern-warfare-4-600-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602753.thumb",
-   "posted": "2026-11-27T01:55:36+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25f5b168ea0611f18fdacec1898c45cf&au=6380418dc2f24e4cb2bf0fd038c2d353&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:59:15+00:00",
-   "real_price": 600.0,
-   "real_old": 1370.0
-  },
-  {
-   "id": "t1b6784d63df",
-   "title": "Logitech Lift Vertical Ergonomic Wireless Mouse (Graphite) $52.25 + Free S&H",
-   "price": 52.24,
-   "old_price": 79.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20393838-logitech-lift-vertical-ergonomic-wireless-mouse-graphite-52-24-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22581375.thumb",
-   "posted": "2026-11-27T01:54:09+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393838&pno=1375689&prop=diavail-true%7Cdincp-2%7Cdinpd-7%7Cdipgavail-true&pv=2724b188ea0611f1816eba34f3af12c8&au=969219c026be4884905be2db5ba42dc2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:59:17+00:00",
-   "real_price": 52.24,
-   "real_old": 79.99
-  },
-  {
-   "id": "t249d5a250d3",
-   "title": "PELONIS 30” Ceramic Tower Space Heater with Thermostat, Remote & 12H Timer $64.99",
-   "price": 64.99,
-   "old_price": 84.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20410389-pelonis-30-ceramic-tower-space-heater-with-thermostat-remote-12h-timer-64-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22623072.thumb",
-   "posted": "2026-11-27T01:50:06+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410389&tid=20410389&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=48467820ea6e11f1becd6e05285454ce&au=8513cb3e96164ae78c733ad0f63b6b33&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:24:40+00:00",
-   "real_price": 64.99,
-   "real_old": 84.99
   }
  ],
  "tech": [
+  {
+   "id": "t5a532cf852b",
+   "title": "Sam's Club: HP OMEN 15.3\" Laptop: Intel Core 5 210H, 16GB RAM, RTX 5050",
+   "price": 849.0,
+   "old_price": 1199.0,
+   "store": "Sam's Club",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/5/2/1/1/6/300x300/22608945.thumb",
+   "posted": "2026-11-27T15:55:15+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Sam's Club",
+     "price": 849.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t3c870065673",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
@@ -16122,8 +16149,8 @@
    "price": 4.5,
    "old_price": 14.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b7a299e0ea7a11f188813e4f845a5809&au=ec3d9b8e53c444888ff133d6709fa1f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b7a299e0ea7a11f188813e4f845a5809&au=ec3d9b8e53c444888ff133d6709fa1f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5e2122dcea7b11f19dacf266078fb7c2&au=2aab8c4aab1441d0a05e71737bed9178&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5e2122dcea7b11f19dacf266078fb7c2&au=2aab8c4aab1441d0a05e71737bed9178&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22636758.thumb",
    "posted": "2026-11-27T13:19:38+00:00",
    "kind": "tech",
@@ -16139,7 +16166,7 @@
     {
      "store": "Amazon",
      "price": 4.5,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b7a299e0ea7a11f188813e4f845a5809&au=ec3d9b8e53c444888ff133d6709fa1f7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5e2122dcea7b11f19dacf266078fb7c2&au=2aab8c4aab1441d0a05e71737bed9178&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16491,6 +16518,33 @@
      "store": "Woot!",
      "price": 19.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&pno=1376136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=643627e8ea5411f1b8a4dace3db5b6ef&au=6e4da96373a74a3b9ff5d7caaa283457&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb86b678f455",
+   "title": "Belkin Qi2 15W Wireless Charging Dock, 2 in 1 Fast iPhone Charger | iPhone 17/16/15/14/13, AirPods, Qi2-enabled devices compatible, power adapter included, desk dock",
+   "price": 59.99,
+   "old_price": 119.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414991&tid=20414991&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5fa741c2ea7b11f184f57e94b7430612&au=83dd726addf24d5c93d53df642cffd8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414991&tid=20414991&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5fa741c2ea7b11f184f57e94b7430612&au=83dd726addf24d5c93d53df642cffd8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22634415.thumb",
+   "posted": "2026-11-27T11:13:35+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 59.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414991&tid=20414991&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5fa741c2ea7b11f184f57e94b7430612&au=83dd726addf24d5c93d53df642cffd8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18654,8 +18708,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9f56042ea7a11f19b19d20f1cebfaa3&au=faebeb46035541f2afc569454015eee8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9f56042ea7a11f19b19d20f1cebfaa3&au=faebeb46035541f2afc569454015eee8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62521726ea7b11f1ae4aaae63c135bae&au=e97d27592df94bdeb9a97a92896f895e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62521726ea7b11f1ae4aaae63c135bae&au=e97d27592df94bdeb9a97a92896f895e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18671,7 +18725,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b9f56042ea7a11f19b19d20f1cebfaa3&au=faebeb46035541f2afc569454015eee8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=62521726ea7b11f1ae4aaae63c135bae&au=e97d27592df94bdeb9a97a92896f895e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18919,40 +18973,13 @@
    ]
   },
   {
-   "id": "t7b5c7b4b4e6",
-   "title": "AMAZON OR BEST BUY Alienware 34\" Gaming Monitor AW3426DW, UWQHD QD-OLED, 280Hz, 0.03ms, G-SYNC",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410329&tid=20410329&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=283e879cea0611f1a85ebeaed212ecc4&au=2e6f01a5200b4e549cf5541e191c3469&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410329&tid=20410329&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=283e879cea0611f1a85ebeaed212ecc4&au=2e6f01a5200b4e549cf5541e191c3469&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22622985.thumb",
-   "posted": "2026-11-27T01:39:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 60.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410329&tid=20410329&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=283e879cea0611f1a85ebeaed212ecc4&au=2e6f01a5200b4e549cf5541e191c3469&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
    "id": "t9ac6463fb6c",
    "title": "Intel Core i9-14900K 24-Core LGA 1700 Desktop Processor + Free S&H",
    "price": 359.99,
    "old_price": 459.32,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bb24fd24ea7a11f1b69b5660cadc0bfb&au=e0d3aca964b148329a0cbc2fb774650c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bb24fd24ea7a11f1b69b5660cadc0bfb&au=e0d3aca964b148329a0cbc2fb774650c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63796cc6ea7b11f1b9f17e3e8852a1ac&au=68c0cc5914c647ea9119320a965caea5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63796cc6ea7b11f1b9f17e3e8852a1ac&au=68c0cc5914c647ea9119320a965caea5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22614234.thumb",
    "posted": "2026-11-27T01:37:44+00:00",
    "kind": "tech",
@@ -18968,7 +18995,7 @@
     {
      "store": "Amazon",
      "price": 359.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=bb24fd24ea7a11f1b69b5660cadc0bfb&au=e0d3aca964b148329a0cbc2fb774650c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=63796cc6ea7b11f1b9f17e3e8852a1ac&au=68c0cc5914c647ea9119320a965caea5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18978,8 +19005,8 @@
    "price": 419.0,
    "old_price": 1895.0,
    "store": "Adorama",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bc76821aea7a11f19b6372a13ed73a41&au=bcb1faa4b4e047bd8124866a78a19795&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bc76821aea7a11f19b6372a13ed73a41&au=bcb1faa4b4e047bd8124866a78a19795&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=64bf74e0ea7b11f19f1072d7dca52f8f&au=ca99dd47e54144a49df32a7b3503fce3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=64bf74e0ea7b11f19f1072d7dca52f8f&au=ca99dd47e54144a49df32a7b3503fce3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22621590.thumb",
    "posted": "2026-11-27T01:23:06+00:00",
    "kind": "tech",
@@ -18995,7 +19022,7 @@
     {
      "store": "Adorama",
      "price": 419.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bc76821aea7a11f19b6372a13ed73a41&au=bcb1faa4b4e047bd8124866a78a19795&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=64bf74e0ea7b11f19f1072d7dca52f8f&au=ca99dd47e54144a49df32a7b3503fce3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19005,8 +19032,8 @@
    "price": 84.95,
    "old_price": 189.95,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd93d562ea7a11f1a11caae63c135bae&au=58466a72b8a14804afc24549f856998f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd93d562ea7a11f1a11caae63c135bae&au=58466a72b8a14804afc24549f856998f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65e9fcd2ea7b11f193c0aed7b6a9af69&au=0f8fa90a667943199dcc736432df5a24&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65e9fcd2ea7b11f193c0aed7b6a9af69&au=0f8fa90a667943199dcc736432df5a24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22622613.thumb",
    "posted": "2026-11-27T01:09:37+00:00",
    "kind": "tech",
@@ -19022,37 +19049,10 @@
     {
      "store": "Amazon",
      "price": 84.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=bd93d562ea7a11f1a11caae63c135bae&au=58466a72b8a14804afc24549f856998f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tea44e873707",
-   "title": "Amazon Fire TV Stick 4K Max Streaming Stick (Newest Model) + Free S&H",
-   "price": 44.99,
-   "old_price": 84.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bebcda92ea7a11f1bd4956a31db33879&au=b80bc5ca2f334964b1d610550cd51c64&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bebcda92ea7a11f1bd4956a31db33879&au=b80bc5ca2f334964b1d610550cd51c64&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
-   "posted": "2026-11-27T00:49:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 44.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bebcda92ea7a11f1bd4956a31db33879&au=b80bc5ca2f334964b1d610550cd51c64&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=65e9fcd2ea7b11f193c0aed7b6a9af69&au=0f8fa90a667943199dcc736432df5a24&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T15:54:30+00:00"
+ "updated": "2026-11-27T15:59:09+00:00"
 }
