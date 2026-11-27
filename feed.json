@@ -1751,7 +1751,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d664d8a8e97511f180daeeb5c4c7a263&au=3a02fac36c424aac93439e20eac550df&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:58:25+00:00",
+   "checked_at": "2026-11-27T15:00:24+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -1772,7 +1772,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=d76e2498e97511f19621f68c7a7d4440&au=e8839ebb6e2943af85a79ef68fc323b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:58:27+00:00",
+   "checked_at": "2026-11-27T15:00:26+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -1814,7 +1814,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=d8acc116e97511f199f9f68ba3694dbc&au=ef50bf2a0bb34e0e823c5585182dccb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:58:30+00:00",
+   "checked_at": "2026-11-27T15:00:29+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -1835,7 +1835,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=d9bd64e8e97511f18642161b2fbab97e&au=8bbef458057a470289ff361653598ad8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:58:32+00:00",
+   "checked_at": "2026-11-27T15:00:31+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -11396,6 +11396,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t5ef7e66268b",
+   "title": "FLASHFORGE Creator 5 4-Toolhead Multicolor 3D Printer $379 + Free S&H",
+   "price": 379.0,
+   "old_price": 998.75,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20413800-flashforge-creator-5-3d-printer-379-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/4/9/8/5/2/300x300/22630683.thumb",
+   "posted": "2026-11-27T14:58:17+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:01:30+00:00",
+   "real_price": 379.0,
+   "real_old": 998.75,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413800&pno=1376247&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6d345e54ea7311f1b0e57631a2ced2a7&au=5a5e3f53c6aa45dc814c359f0e740cbb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tf3b69adc6b2",
    "title": "Milwaukee Shockwave Impact Duty 1/4\" Hex Shank to 3/8\" Square Socket Adapter $3.10",
    "price": 3.11,
@@ -11408,10 +11426,28 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=be03ae9eea7211f1b4ab562a0aab39fc&au=d7cefab6990f46a291202fc729916c13&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:56:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=6e7a4f80ea7311f19dd21e68176ad4c2&au=42e5d6d75a8f49a3a4fa3b7e96479f07&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:01:32+00:00",
    "real_price": 3.11,
    "real_old": 5.63
+  },
+  {
+   "id": "t9aeecc0bf1b",
+   "title": "[Prime] $430.38 | Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed) + 10% Back w/ Prime Visa Card at Amazon",
+   "price": 430.38,
+   "old_price": 669.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20416566-prime-430-38-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-charcoal-trail-loop-m-l-renewed-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22638357.thumb",
+   "posted": "2026-11-27T14:19:16+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": true,
+   "checked_at": "2026-11-27T15:01:34+00:00",
+   "real_price": 430.38,
+   "real_old": 669.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "ta524db3b379",
@@ -11963,8 +11999,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=bfbdce9aea7211f1940e9a2df9001c3b&au=d361776a1db4418899fbe91d6b63f8ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:56:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=710ff5a6ea7311f1a7352a97915d1529&au=ad56c3541742450085568e1b68d57c96&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:01:36+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12239,6 +12275,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -13922,6 +13961,24 @@
    "real_old": 2224.99
   },
   {
+   "id": "t81c3dd2f757",
+   "title": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop w/ Intel N150, 8GB RAM & 128GB Storage (3 Colors) $249.99 + Free Shipping",
+   "price": 249.99,
+   "old_price": 399.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412087-lenovo-ideapad-slim-3i-15-6-fhd-laptop-w-intel-n150-8gb-ram-128gb-storage-3-colors-249-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22626375.thumb",
+   "posted": "2026-11-27T06:06:27+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:01:39+00:00",
+   "real_price": 249.99,
+   "real_old": 399.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3e9237c37be",
    "title": "Roku - 85\" Class Select Series 4K QLED Smart RokuTV (2026) $599.99",
    "price": 599.99,
@@ -14910,8 +14967,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c0e3e41cea7211f1817f72b740c31beb&au=09e69145d8dd431690a74bca3f8109c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:56:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:01:41+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15779,66 +15836,36 @@
    "checked_at": "2026-11-27T12:46:07+00:00",
    "real_price": 99.99,
    "real_old": 169.99
-  },
-  {
-   "id": "t6f9f5af3cba",
-   "title": "Certified Open Box: 65\" LG C6 4K OLED evo AI Smart TV (2026) $1076 + Free S&H",
-   "price": 1076.0,
-   "old_price": 1999.0,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20409558-certified-open-box-65-lg-c6-4k-oled-evo-ai-smart-tv-2026-1076-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22621800.thumb",
-   "posted": "2026-11-27T00:34:37+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": true,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409558&pno=1375614&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=afc3de58e9fa11f1a6e23abe0aeab59b&au=aeb9b0570ddb4e46b4dd3319663b0eeb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:37:12+00:00",
-   "real_price": 1076.0,
-   "real_old": 1999.0
-  },
-  {
-   "id": "tcdc61039efb",
-   "title": "Milescraft 3406 GrabberPRO Push Block for Table Saws/Router Tables $22.79",
-   "price": 22.79,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20409861-milescraft-3406-grabberpro-push-block-for-table-saws-router-tables-22-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/0/4/2/3/2/7/300x300/22622286.thumb",
-   "posted": "2026-11-27T00:21:25+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409861&tid=20409861&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=e259d25eea0f11f1b9cf7e15aebef614&au=563d2bc2336d483695c67606be9ad88b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:08:57+00:00",
-   "real_price": 22.79,
-   "real_old": 44.99
-  },
-  {
-   "id": "t083036d9ecb",
-   "title": "Milwaukee M18 REDLITHIUM FORGE XC8.0 Ah Lithium Battery $129 + Free S&H",
-   "price": 128.99,
-   "old_price": 229.0,
-   "store": "Way Source",
-   "url": "https://slickdeals.net/f/20405589-milwaukee-m18-redlithium-forge-xc8-0-battery-pack-48-11-1881-128-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612035.thumb",
-   "posted": "2026-11-27T00:19:47+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405589&pno=1375602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d01a280e9f811f1810f26dc1357c482&au=3686000aaa1b491d81a13d40b05063e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:21:55+00:00",
-   "real_price": 128.99,
-   "real_old": 229.0
   }
  ],
  "tech": [
+  {
+   "id": "t9aeecc0bf1b",
+   "title": "[Prime] | Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed) + 10% Back",
+   "price": 430.38,
+   "old_price": 669.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22638357.thumb",
+   "posted": "2026-11-27T14:19:16+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 430.38,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "ta524db3b379",
    "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart Google TV (2026) + Free S&H",
@@ -17487,6 +17514,33 @@
    ]
   },
   {
+   "id": "t81c3dd2f757",
+   "title": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop",
+   "price": 249.99,
+   "old_price": 399.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22626375.thumb",
+   "posted": "2026-11-27T06:06:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 249.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412087&tid=20412087&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72370c30ea7311f18a1e12075284f408&au=a8be9721960d4e6189297706726a0b78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t3e9237c37be",
    "title": "Roku - 85\" Class Select Series 4K QLED Smart RokuTV (2026)",
    "price": 599.99,
@@ -18431,8 +18485,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c0e3e41cea7211f1817f72b740c31beb&au=09e69145d8dd431690a74bca3f8109c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c0e3e41cea7211f1817f72b740c31beb&au=09e69145d8dd431690a74bca3f8109c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18448,7 +18502,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c0e3e41cea7211f1817f72b740c31beb&au=09e69145d8dd431690a74bca3f8109c8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73e10c02ea7311f1a7a6aa7e3e1dbfc6&au=9a664a5473ad4fc2852800b2824dc601&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19018,61 +19072,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&pno=1375620&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=bdd3e8dee9fb11f1be22beaed212ecc4&au=aec3a5ca913f4ebaab9335e9f59cf7b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t3674388cd26",
-   "title": "Redragon K733 PRO Wireless Backlit RGB Mechanical Keyboard Number Pad Calculator, Dual PC & Calculate Modes Amazon Prime exclusive Black Friday Price",
-   "price": 24.99,
-   "old_price": 34.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409945&tid=20409945&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c772712ea4d11f19ed7f2f94b23013c&au=219838c1141c4b42adecdfd260a47f9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409945&tid=20409945&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c772712ea4d11f19ed7f2f94b23013c&au=219838c1141c4b42adecdfd260a47f9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/0/5/8/6/300x300/22622367.thumb",
-   "posted": "2026-11-27T00:38:05+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 24.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409945&tid=20409945&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c772712ea4d11f19ed7f2f94b23013c&au=219838c1141c4b42adecdfd260a47f9c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "taaa77e3e2b5",
-   "title": "10000mAh Energizer 22.5W Magnetic Wireless Power Bank",
-   "price": 28.49,
-   "old_price": 44.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c2238dfaea7211f1800da2adea4d59cf&au=f3ddeffaed4e4aecb402faf5e6cc6164&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c2238dfaea7211f1800da2adea4d59cf&au=f3ddeffaed4e4aecb402faf5e6cc6164&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601532.thumb",
-   "posted": "2026-11-27T00:19:43+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 28.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c2238dfaea7211f1800da2adea4d59cf&au=f3ddeffaed4e4aecb402faf5e6cc6164&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T14:57:37+00:00"
+ "updated": "2026-11-27T15:02:32+00:00"
 }
