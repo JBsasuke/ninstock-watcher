@@ -663,7 +663,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412264&tid=20412264&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7a92e5aea2a11f1bfc98628c169462b&au=6058fcf561444414885f845d773d8ffa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T14:32:56+00:00",
+   "checked_at": "2026-11-27T16:35:29+00:00",
    "real_price": 127.0,
    "real_old": 128.0,
    "category_ok": true
@@ -1878,7 +1878,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402901&tid=20402901&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=bebfe7dee98311f1a4002608fa484b01&au=cd015ce869354d2d91a80aea51bc3ff9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T10:32:13+00:00",
+   "checked_at": "2026-11-27T16:35:27+00:00",
    "real_price": 15.0,
    "real_old": 49.99,
    "category_ok": true
@@ -11392,6 +11392,27 @@
  ],
  "raw_tech": [
   {
+   "id": "tb0c8c69556f",
+   "title": "Baseus 15W Qi2 Certified 10000mAh MagSafe Power Bank w/ 22.5W PD Wired Charging $19.80 & More",
+   "price": 19.79,
+   "old_price": 49.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20336469-baseus-qi2-certified-15w-wireless-magnetic-power-bank-10000mah-with-usb-c-cable-22-5w-pd-charging-19-79-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22642824.thumb",
+   "posted": "2026-11-27T16:30:47+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "O0BEGB2B",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T16:36:26+00:00",
+   "real_price": 19.79,
+   "real_old": 49.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t0b6fe4d53a4",
    "title": "Apple AirPods Pro 3 Wireless Earbuds w/ Active Noise Cancellation $149 + Free S&H",
    "price": 149.0,
@@ -11404,10 +11425,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1376307&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=07ea2760ea8011f18db47631a2ced2a7&au=784e98cd3b724619a7fa16b93feed2be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:31:43+00:00",
    "real_price": 149.0,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387043&pno=1376307&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=07ea2760ea8011f18db47631a2ced2a7&au=784e98cd3b724619a7fa16b93feed2be&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.0
   },
   {
    "id": "t23538c8f300",
@@ -11571,6 +11592,27 @@
    "real_old": 2199.0
   },
   {
+   "id": "t13cb34fc95e",
+   "title": "Refurb: Acer Aspire 3 15.6\" AMD Ryzen 5 7520U 16GB 1TB SSD Win11 FHD Laptop $339.26",
+   "price": 339.26,
+   "old_price": 629.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20417169-refurb-acer-aspire-3-15-6-amd-ryzen-5-7520u-16gb-1tb-ssd-win11-fhd-laptop-339-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22639812.thumb",
+   "posted": "2026-11-27T15:10:09+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T16:36:28+00:00",
+   "real_price": 339.26,
+   "real_old": 629.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417169&tid=20417169&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b1b61ad8ea8011f194d9de34379cf1b9&au=6d80114e68c5498cb14071aae6873b81&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t1d944856939",
    "title": "Microsoft Surface 8: 13.8\" Touch, Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD $1190 & More + Free S/H",
    "price": 1190.07,
@@ -11660,8 +11702,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=095ba2eaea8011f1b8d0aed4ae3bedd1&au=a5e326c52069489f9c9b975cb5e6fab5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:31:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b2cdd1aeea8011f190bd2a97915d1529&au=682cf65e8358483eb615920283d17412&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:36:30+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11770,10 +11812,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416248&tid=20416248&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0a943956ea8011f1b4a38666b18447d2&au=08f86d5bd70b454e820caa162cd4d5ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:31:48+00:00",
    "real_price": 47.99,
-   "real_old": 79.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416248&tid=20416248&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=0a943956ea8011f1b4a38666b18447d2&au=08f86d5bd70b454e820caa162cd4d5ba&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 79.99
   },
   {
    "id": "teda98147d66",
@@ -11859,8 +11901,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0bd2ae74ea8011f1830b9ac297368a5a&au=06627e5e50e844a48c53b5d7338e7159&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:31:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:36:33+00:00",
    "real_price": 4.5,
    "real_old": 14.99
   },
@@ -12340,8 +12382,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=0cf9f988ea8011f19ecf12075284f408&au=e5f1f35bcebd49d0a8265cf40e51f983&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:31:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b577acb8ea8011f197832a97915d1529&au=c85bec7368144360ab777de39a4007ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:36:35+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15513,8 +15555,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e2219c6ea8011f1b9032a816480ef78&au=f7e04182da93462e812fc4ac0cf5ba63&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:31:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:36:37+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15806,45 +15848,36 @@
    "checked_at": "2026-11-27T02:31:53+00:00",
    "real_price": 8.99,
    "real_old": 34.99
-  },
-  {
-   "id": "t8c3d145fc66",
-   "title": "HomerunPET Pet-Safe 1500W Space Heater w/ Heated Cat Bed $52.55 + Free S&H",
-   "price": 52.53,
-   "old_price": 149.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20342589-ac-52-53-homerunpet-pet-safe-1500w-space-heater-w-heated-cat-bed-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22450437.thumb",
-   "posted": "2026-11-27T02:21:56+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20342589&pno=1375734&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=10da58b6ea0a11f1a1be5670c858351b&au=61ebb3012f924950a97b38720e48a20f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T02:27:18+00:00",
-   "real_price": 52.53,
-   "real_old": 149.0
-  },
-  {
-   "id": "t25ffd1de079",
-   "title": "CRAFTSMAN OVERDRIVE 11-Piece SAE Combination Wrench Set (CMMT87711) $49.98 + Free Shipping",
-   "price": 49.98,
-   "old_price": 69.98,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20410578-craftsman-overdrive-11-piece-sae-combination-wrench-set-cmmt87711-49-98-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22623102.thumb",
-   "posted": "2026-11-27T02:14:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410578&tid=20410578&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=ac1be0aaea1511f18234fe5c251010db&au=6aed6abed2254dd7a19080327134fe19&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:50:23+00:00",
-   "real_price": 49.98,
-   "real_old": 69.98
   }
  ],
  "tech": [
+  {
+   "id": "tb0c8c69556f",
+   "title": "Baseus 15W Qi2 Certified 10000mAh MagSafe Power Bank",
+   "price": 19.79,
+   "old_price": 49.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22642824.thumb",
+   "posted": "2026-11-27T16:30:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "O0BEGB2B",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 19.79,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t0b6fe4d53a4",
    "title": "Apple AirPods Pro 3 Wireless Earbuds",
@@ -16310,8 +16343,8 @@
    "price": 4.5,
    "old_price": 14.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0bd2ae74ea8011f1830b9ac297368a5a&au=06627e5e50e844a48c53b5d7338e7159&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0bd2ae74ea8011f1830b9ac297368a5a&au=06627e5e50e844a48c53b5d7338e7159&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22636758.thumb",
    "posted": "2026-11-27T13:19:38+00:00",
    "kind": "tech",
@@ -16327,7 +16360,7 @@
     {
      "store": "Amazon",
      "price": 4.5,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0bd2ae74ea8011f1830b9ac297368a5a&au=06627e5e50e844a48c53b5d7338e7159&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18842,8 +18875,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e2219c6ea8011f1b9032a816480ef78&au=f7e04182da93462e812fc4ac0cf5ba63&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e2219c6ea8011f1b9032a816480ef78&au=f7e04182da93462e812fc4ac0cf5ba63&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18859,7 +18892,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0e2219c6ea8011f1b9032a816480ef78&au=f7e04182da93462e812fc4ac0cf5ba63&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19031,8 +19064,8 @@
    "price": 599.99,
    "old_price": 1299.99,
    "store": "Samsung",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0f9bdf3aea8011f184d8562a0aab39fc&au=05bcdfc18ffc4787a8954effe5b38f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0f9bdf3aea8011f184d8562a0aab39fc&au=05bcdfc18ffc4787a8954effe5b38f8c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602753.thumb",
    "posted": "2026-11-27T01:55:36+00:00",
    "kind": "tech",
@@ -19048,37 +19081,10 @@
     {
      "store": "Samsung",
      "price": 599.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0f9bdf3aea8011f184d8562a0aab39fc&au=05bcdfc18ffc4787a8954effe5b38f8c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t9ac6463fb6c",
-   "title": "Intel Core i9-14900K 24-Core LGA 1700 Desktop Processor + Free S&H",
-   "price": 359.99,
-   "old_price": 459.32,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=10c1d2d4ea8011f1adea6adf34455f69&au=c630bbf2ef7940479a5abac3c607bc74&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=10c1d2d4ea8011f1adea6adf34455f69&au=c630bbf2ef7940479a5abac3c607bc74&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22614234.thumb",
-   "posted": "2026-11-27T01:37:44+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 359.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&pno=1375680&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=10c1d2d4ea8011f1adea6adf34455f69&au=c630bbf2ef7940479a5abac3c607bc74&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T16:32:39+00:00"
+ "updated": "2026-11-27T16:37:23+00:00"
 }
