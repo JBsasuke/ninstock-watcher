@@ -1266,10 +1266,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-27T15:05:29+00:00",
+   "expired": true,
    "real_price": 15.0,
    "real_old": 29.99,
-   "category_ok": true,
-   "expired": true
+   "category_ok": true
   },
   {
    "id": "7c23e921cea0",
@@ -1857,7 +1857,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=04af9aa2e9aa11f197c5b6ff16efd242&au=569ef0e943234fad827ef73e6aaf3e91&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:07:57+00:00",
+   "checked_at": "2026-11-27T15:10:21+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -11399,6 +11399,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t1d944856939",
+   "title": "Microsoft Surface 8: 13.8\" Touch, Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD $1190 & More + Free S/H",
+   "price": 1190.07,
+   "old_price": 1699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414364-microsoft-surface-8-13-8-touch-snapdragon-x2-elite-16gb-lpddr5-512gb-ssd-1190-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22632819.thumb",
+   "posted": "2026-11-27T15:08:06+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:11:19+00:00",
+   "real_price": 1190.07,
+   "real_old": 1699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5ef7e66268b",
    "title": "FLASHFORGE Creator 5 4-Toolhead Multicolor 3D Printer $379 + Free S&H",
    "price": 379.0,
@@ -11429,8 +11447,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=21c0fd78ea7411f1b9ae72a13ed73a41&au=6db5c77ffafb448684192463c9ca40c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:06:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=cddfd7e6ea7411f1a1ee56a31db33879&au=aae63a8db41b42258ab4d7c6c72d2a3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:11:21+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11525,6 +11543,24 @@
    "checked_at": "2026-11-27T13:36:36+00:00",
    "real_price": 599.99,
    "real_old": 1675.0
+  },
+  {
+   "id": "t3e865b6a5a4",
+   "title": "LG 65\" OLED evo AI C6 4K Smart TV (65C6, 2026 Model) $1269.99",
+   "price": 51.0,
+   "old_price": null,
+   "store": "Tienda",
+   "url": "https://slickdeals.net/f/20416416-lg-65-oled-evo-ai-c6-4k-smart-tv-65c6-2026-model-1269-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22637139.thumb",
+   "posted": "2026-11-27T13:32:02+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:11:23+00:00",
+   "real_price": 51.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20416416&tid=20416416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cef3f568ea7411f1bc79227f30588b7a&au=aa58e3e91071473480e4366a18c0a7c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t060af408eca",
@@ -12002,8 +12038,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=22edfdd6ea7411f182492a97915d1529&au=6510c56cb42c4d738e54799e0f698d1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:06:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d009eaf2ea7411f1816baed4ae3bedd1&au=fcae47493f8f499fa3c766dccf92411e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:11:25+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12436,6 +12472,24 @@
    "real_old": 289.99
   },
   {
+   "id": "t145bbed1dc7",
+   "title": "$64.88, FS, HD, RYOBI ONE+ 18V Cordless 2-Tool Combo Kit w/ Random Orbit Sander & Corner Cat Finish Sander (Tools Only) w/ Assorted Sandpaper",
+   "price": 64.88,
+   "old_price": 143.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20413824-64-88-fs-hd-ryobi-one-18v-cordless-2-tool-combo-kit-w-random-orbit-sander-corner-cat-finish-sander-tools-only-w-assorted-sandpaper?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22630785.thumb",
+   "posted": "2026-11-27T08:31:20+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:11:27+00:00",
+   "real_price": 64.88,
+   "real_old": 143.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413824&tid=20413824&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d11ac042ea7411f18e3ea6ff3ce005af&au=614c456e68f9498197ef6c81f2593734&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5773454e1d3",
    "title": "10-Pk 1kg 1.75mm KINGROON PLA 3D Printer Filament (Mixed Colors) $56.65 + Free S&H",
    "price": 56.65,
@@ -12547,6 +12601,27 @@
    "checked_at": "2026-11-27T10:00:09+00:00",
    "real_price": 99.0,
    "real_old": 149.0
+  },
+  {
+   "id": "t8698563a02f",
+   "title": "GIGABYTE B550M GAMING X WIFI6 AM4 Micro ATX Motherboard $78.48 + Free Shipping",
+   "price": 78.48,
+   "old_price": 154.99,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20413701-gigabyte-b550m-gaming-x-wifi6-am4-micro-atx-motherboard-78-48-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22632207.thumb",
+   "posted": "2026-11-27T08:23:05+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "USDEAL15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T15:11:29+00:00",
+   "real_price": 78.48,
+   "real_old": 154.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413701&tid=20413701&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d24d8512ea7411f1a257aa7e3e1dbfc6&au=ebae1b36255a4f05be6fae2a49435c9e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0dec6d37e4d",
@@ -12979,10 +13054,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413161&tid=20413161&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=240f282aea7411f198ffeef30b7448eb&au=c3f8ff0a267a46f79412c49e42a4f350&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:06:37+00:00",
    "real_price": 49.88,
-   "real_old": 163.04,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413161&tid=20413161&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=240f282aea7411f198ffeef30b7448eb&au=c3f8ff0a267a46f79412c49e42a4f350&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 163.04
   },
   {
    "id": "ta175f585866",
@@ -13180,10 +13255,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:06:39+00:00",
    "real_price": 22.87,
-   "real_old": 58.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412873&tid=20412873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=25898998ea7411f1af8baed7b6a9af69&au=0762fe354b4947088f716a702bb6a5c6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 58.99
   },
   {
    "id": "t17c4cd54747",
@@ -15003,8 +15078,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:06:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3c5762aea7411f183c39697f435d42e&au=1a5dc99bcfef43daaa0a14d4275d7d87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:11:31+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15764,81 +15839,36 @@
    "checked_at": "2026-11-27T00:54:00+00:00",
    "real_price": 44.99,
    "real_old": 84.99
-  },
-  {
-   "id": "t91648d90b80",
-   "title": "Kobalt 24-volt 1/2-in new gen high torque impaxt wrench with 4 Ah Battery and Charger",
-   "price": 149.0,
-   "old_price": 289.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20409987-kobalt-24-volt-1-2-in-new-gen-high-torque-impaxt-wrench-with-4-ah-battery-and-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22622406.thumb",
-   "posted": "2026-11-27T00:45:11+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ad39c9e8ea1511f197423e8b77b0889e&au=15c25b6a13364023b982f23c801d3dd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:50:25+00:00",
-   "real_price": 149.0,
-   "real_old": 289.0
-  },
-  {
-   "id": "t941071dfcdb",
-   "title": "Kobalt 24-volt 1/2-in new gen high torque impact wrench with 4 Ah Battery and Charger",
-   "price": 149.0,
-   "old_price": 289.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20409987-kobalt-24-volt-1-2-in-new-gen-high-torque-impact-wrench-with-4-ah-battery-and-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22622406.thumb",
-   "posted": "2026-11-27T00:45:11+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=a84bc72cea1711f18e8c42ea8a74cf59&au=2f31344ce530431984274ec9ee056c4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T04:04:35+00:00",
-   "real_price": 149.0,
-   "real_old": 289.0
-  },
-  {
-   "id": "t140ed91284d",
-   "title": "42mm Apple Watch Series 11 GPS + Cellular Smartwatch w/ Gold Titanium Case & Milanese Loop $400 + Free S&H",
-   "price": 399.99,
-   "old_price": 749.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20395971-apple-watch-series-11-gps-cellular-42mm-gold-titanium-case-with-gold-milanese-loop-399-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22596624.thumb",
-   "posted": "2026-11-27T00:41:57+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20395971&pno=1375620&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=bdd3e8dee9fb11f1be22beaed212ecc4&au=aec3a5ca913f4ebaab9335e9f59cf7b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:44:45+00:00",
-   "real_price": 399.99,
-   "real_old": 749.99
-  },
-  {
-   "id": "te30f8ffc6bc",
-   "title": "36\" Midea 24.5 Cu. Ft. Counter-Depth Side-by-Side Refrigerator w/ Ice Maker $799 + Free Delivery & Installation",
-   "price": 799.0,
-   "old_price": 1199.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20401203-24-5-cu-ft-36-midea-counter-depth-side-by-side-refrigerator-smart-compatible-w-ice-maker-799-lowes?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22600782.thumb",
-   "posted": "2026-11-27T00:41:54+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20401203&pno=1375626&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=bf1f1de4e9fb11f18f23ea309893a51e&au=d93690eb6061417180c134a7ed62b24a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:44:48+00:00",
-   "real_price": 799.0,
-   "real_old": 1199.0
   }
  ],
  "tech": [
+  {
+   "id": "t1d944856939",
+   "title": "Microsoft Surface 8: 13.8\" Touch, Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD & More",
+   "price": 1190.07,
+   "old_price": 1699.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22632819.thumb",
+   "posted": "2026-11-27T15:08:06+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1190.07,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t9aeecc0bf1b",
    "title": "[Prime] | Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed) + 10% Back",
@@ -15944,6 +15974,33 @@
      "store": "Sam's Club",
      "price": 599.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3e865b6a5a4",
+   "title": "LG 65\" OLED evo AI C6 4K Smart TV (65C6, 2026 Model)",
+   "price": 51.0,
+   "old_price": null,
+   "store": "Tienda",
+   "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20416416&tid=20416416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cef3f568ea7411f1bc79227f30588b7a&au=aa58e3e91071473480e4366a18c0a7c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20416416&tid=20416416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cef3f568ea7411f1bc79227f30588b7a&au=aa58e3e91071473480e4366a18c0a7c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22637139.thumb",
+   "posted": "2026-11-27T13:32:02+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Tienda",
+     "price": 51.0,
+     "url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20416416&tid=20416416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cef3f568ea7411f1bc79227f30588b7a&au=aa58e3e91071473480e4366a18c0a7c4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18512,8 +18569,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3c5762aea7411f183c39697f435d42e&au=1a5dc99bcfef43daaa0a14d4275d7d87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3c5762aea7411f183c39697f435d42e&au=1a5dc99bcfef43daaa0a14d4275d7d87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18529,7 +18586,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=269fd4a4ea7411f1b6ae56a31db33879&au=19f249f5e2ea4a8c81678ce1b352f0cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3c5762aea7411f183c39697f435d42e&au=1a5dc99bcfef43daaa0a14d4275d7d87&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19018,61 +19075,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07f72164e9fd11f1b041460f4f9362f3&au=45ec29858034403ebdecfcfbae1d0e67&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t91648d90b80",
-   "title": "Kobalt 24-volt 1/2-in new gen high torque impaxt wrench with 4 Ah Battery and Charger",
-   "price": 149.0,
-   "old_price": 289.0,
-   "store": "Lowe's",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ad39c9e8ea1511f197423e8b77b0889e&au=15c25b6a13364023b982f23c801d3dd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ad39c9e8ea1511f197423e8b77b0889e&au=15c25b6a13364023b982f23c801d3dd0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22622406.thumb",
-   "posted": "2026-11-27T00:45:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lowe's",
-     "price": 149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=ad39c9e8ea1511f197423e8b77b0889e&au=15c25b6a13364023b982f23c801d3dd0&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t941071dfcdb",
-   "title": "Kobalt 24-volt 1/2-in new gen high torque impact wrench with 4 Ah Battery and Charger",
-   "price": 149.0,
-   "old_price": 289.0,
-   "store": "Lowe's",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=a84bc72cea1711f18e8c42ea8a74cf59&au=2f31344ce530431984274ec9ee056c4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=a84bc72cea1711f18e8c42ea8a74cf59&au=2f31344ce530431984274ec9ee056c4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22622406.thumb",
-   "posted": "2026-11-27T00:45:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lowe's",
-     "price": 149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409987&tid=20409987&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=a84bc72cea1711f18e8c42ea8a74cf59&au=2f31344ce530431984274ec9ee056c4a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T15:07:35+00:00"
+ "updated": "2026-11-27T15:12:14+00:00"
 }
