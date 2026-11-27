@@ -79,7 +79,7 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T06:03:55+00:00",
+   "checked_at": "2026-11-27T08:06:55+00:00",
    "category_ok": true,
    "real_price": 389.0,
    "real_old": 499.0,
@@ -105,7 +105,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=55150a30ea2811f190419edf9ccb03d5&au=b81d00c4f5cb439d8c84308d2866aada&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:03:57+00:00",
+   "checked_at": "2026-11-27T08:06:56+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -2116,7 +2116,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&tid=20397321&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=d8b2cc30e90911f192b1f624b5530aa6&au=f11209e24dcd4302ad39191545c60c7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T02:02:59+00:00",
+   "checked_at": "2026-11-27T08:06:53+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -11368,6 +11368,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t4a996f82f13",
+   "title": "Sovol 4-Spools Filament Dryer w/ Dual Heating Chambers $79.60 + Free S&H",
+   "price": 79.59,
+   "old_price": 244.69,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20245902-sovol-sh03-4-roll-filament-dryer-w-dual-independent-heating-chambers-79-60-free-s-h-at-sovol-store-via-aliexpress?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/9/4/5/1/300x300/22629444.thumb",
+   "posted": "2026-11-27T08:03:02+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "USDEAL15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T08:07:55+00:00",
+   "real_price": 79.59,
+   "real_old": 244.69,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20245902&pno=1375818&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a686a6c4ea3911f190b23abe0aeab59b&au=e52b646c79b3448ab9cdeee215c6b63d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfc0626078fd",
    "title": "[re-fp] HIFIMAN SUNDARA Over-Ear Open-Back Planar Magnetic HiFi Wired Headphones $83.80 + Free S&H",
    "price": 83.79,
@@ -11390,6 +11411,27 @@
    "store_url": "https://slickdeals.net/click?trd=Visit+AliExpress&sdtid=20238045&pno=1362540&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f9e5e57eea3811f190857e15aebef614&au=9abdbacc5d4b42e1a6ccdc110910b989&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
+   "id": "t1396f3dbc9b",
+   "title": "HIFIMAN SUNDARA Over-Ear Open-Back Planar Magnetic HiFi Wired Headphones $83.80 + Free S&H",
+   "price": 83.79,
+   "old_price": 199.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20238045-hifiman-sundara-over-ear-open-back-planar-magnetic-hifi-wired-headphones-83-80-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22629339.thumb",
+   "posted": "2026-11-27T08:01:49+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "15USDEAL",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T08:07:57+00:00",
+   "real_price": 83.79,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20238045&pno=1376025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a7b7f822ea3911f19489fe5c251010db&au=030c67983f634174a8dfabffe473ef69&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t23285de841a",
    "title": "Open Box Condition: Apple AirPods 5 True Wireless ANC Earbuds (Excellent) $86 & More + Free S&H",
    "price": 85.99,
@@ -11402,10 +11444,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=fb2e344aea3811f1837f2e7ef2a57ec1&au=4dcbc9b735954144835b536fa7d71e7c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:03:08+00:00",
    "real_price": 85.99,
-   "real_old": 129.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=fb2e344aea3811f1837f2e7ef2a57ec1&au=4dcbc9b735954144835b536fa7d71e7c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 129.0
   },
   {
    "id": "tfed7de1aa40",
@@ -11442,6 +11484,27 @@
    "checked_at": "2026-11-27T07:59:27+00:00",
    "real_price": 999.99,
    "real_old": 1499.99
+  },
+  {
+   "id": "t632e7cb614a",
+   "title": "$19.99 | Razer Kraken V4 X Gaming Headset - My Melody Edition at Woot!",
+   "price": 19.99,
+   "old_price": 109.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20412501-19-99-razer-kraken-v4-x-gaming-headset-my-melody-edition-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22627749.thumb",
+   "posted": "2026-11-27T06:48:20+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T08:07:59+00:00",
+   "real_price": 19.99,
+   "real_old": 109.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7a4c3bf6d21",
@@ -11658,10 +11721,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&tid=20411964&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fc6b4596ea3811f1adb6beaed212ecc4&au=c9729c40f60c4af1bfcf2c80858e846a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:03:10+00:00",
    "real_price": 2149.0,
-   "real_old": 2399.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&tid=20411964&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fc6b4596ea3811f1adb6beaed212ecc4&au=c9729c40f60c4af1bfcf2c80858e846a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2399.0
   },
   {
    "id": "t5ad85eb51e4",
@@ -13944,8 +14007,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fdcb7ae6ea3811f1a492fe5c251010db&au=4c44a4c62d52418586ecc5810bcffe65&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T08:03:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aa6a34e0ea3911f18fca02a61e36dc80&au=0ab3e1ea04714b71bb1475cafca70574&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T08:08:02+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15739,61 +15802,6 @@
    "checked_at": "2026-11-27T01:12:52+00:00",
    "real_price": 56.97,
    "real_old": 129.99
-  },
-  {
-   "id": "t8c3e553ddda",
-   "title": "Non-Slip Leather Desk Pad Protector Mouse Mat (35.4\" x 17\", Light Pink) - $3.99",
-   "price": 3.99,
-   "old_price": 15.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406285-non-slip-leather-desk-pad-protector-mouse-mat-35-4-x-17-light-pink-3-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/1/8/7/8/7/1/300x300/22613532.thumb",
-   "posted": "2026-11-26T16:36:32+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20406285&tid=20406285&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0df3f57ee9c111f19e59e2457af02e11&au=9ba97edb23164131ba6e468ac51571ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "expired": true
-  },
-  {
-   "id": "td54ed67cf29",
-   "title": "Walgreens Photo: 75% Off Same Day 16x20 Canvas Prints + Free Store Pickup",
-   "price": null,
-   "old_price": null,
-   "store": "Walgreens Photo",
-   "url": "https://slickdeals.net/f/20406240-walgreens-photo-75-off-same-day-16x20-canvas-prints-free-store-pickup?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617168.thumb",
-   "posted": "2026-11-26T16:35:31+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": "CANVAS11",
-   "code_until": null,
-   "promo": "75% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walgreens+Photo&sdtid=20406240&tid=20406240&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6812b0eae9cb11f19c49cacf745f6c13&au=d1943718e423423baa6073f55747f63c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T18:58:46+00:00",
-   "real_price": 22.5,
-   "real_old": 89.99
-  },
-  {
-   "id": "td1db4d8d9be",
-   "title": "RYOBI ONE+ HP 18V Cordless Pet Stick Vacuum Cleaner Kit w/ 4.0 Ah HP Battery & Charger $129 + Free S&H",
-   "price": 129.0,
-   "old_price": 279.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20402400-ryobi-one-hp-18v-cordless-pet-stick-vacuum-cleaner-kit-w-4-0-ah-high-performance-battery-charger-129-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603842.thumb",
-   "posted": "2026-11-26T16:35:02+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402400&pno=1375125&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=f03197c0e9b711f193d1a676de3a53b4&au=aff39be91dc94a708a2da47d25065aca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:39:24+00:00",
-   "real_price": 129.0,
-   "real_old": 279.0
   }
  ],
  "tech": [
@@ -15848,6 +15856,33 @@
      "store": "Amazon",
      "price": 999.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412705&tid=20412705&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=77b5cfe2ea3811f1a6d3a291739d63b5&au=506ebad2f89644b9bc8dcf88c5b182b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t632e7cb614a",
+   "title": "Razer Kraken V4 X Gaming Headset - My Melody Edition",
+   "price": 19.99,
+   "old_price": 109.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22627749.thumb",
+   "posted": "2026-11-27T06:48:20+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 19.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17636,8 +17671,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fdcb7ae6ea3811f1a492fe5c251010db&au=4c44a4c62d52418586ecc5810bcffe65&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fdcb7ae6ea3811f1a492fe5c251010db&au=4c44a4c62d52418586ecc5810bcffe65&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aa6a34e0ea3911f18fca02a61e36dc80&au=0ab3e1ea04714b71bb1475cafca70574&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aa6a34e0ea3911f18fca02a61e36dc80&au=0ab3e1ea04714b71bb1475cafca70574&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17653,7 +17688,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fdcb7ae6ea3811f1a492fe5c251010db&au=4c44a4c62d52418586ecc5810bcffe65&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aa6a34e0ea3911f18fca02a61e36dc80&au=0ab3e1ea04714b71bb1475cafca70574&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18967,34 +19002,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401512&pno=1374711&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=873fecc8e9ba11f1a8c2c2c4ea169611&au=ea02c00eda7549a4a7ff837dd88d11d5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t0aabac8963c",
-   "title": "Pro X Superlight 2c Wireless Gaming Mouse, 51g Compact Mini Mouse - Magenta",
-   "price": 74.99,
-   "old_price": 159.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614126.thumb",
-   "posted": "2026-11-26T16:52:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 74.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T08:04:04+00:00"
+ "updated": "2026-11-27T08:08:49+00:00"
 }
