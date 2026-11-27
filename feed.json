@@ -85,13 +85,13 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T09:49:39+00:00",
-   "category_ok": true,
-   "real_price": 359.2,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dca57c68ea4711f19fda328862b5a43b&au=61fb7b106426495b8c935ffb79a8e2da&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T09:49:39+00:00",
+   "real_price": 359.2,
+   "real_old": null,
+   "category_ok": true
   },
   {
    "id": "cd86c10bb9ed",
@@ -220,7 +220,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f356edaea3711f1b2463abe0aeab59b&au=3dd29abb45154a898f774399ac79c647&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:52:57+00:00",
+   "checked_at": "2026-11-27T09:54:26+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -814,7 +814,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20298264&pno=1375047&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a500a90e9b111f18f25fae72cae872a&au=23b8b3955a474aa8b41c78741bff808a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T03:54:05+00:00",
+   "checked_at": "2026-11-27T09:54:24+00:00",
    "real_price": 499.99,
    "real_old": 549.99,
    "category_ok": true
@@ -11099,41 +11099,6 @@
    }
   },
   {
-   "id": "aldia-66e4be5d14",
-   "title": "Daisenryaku SSB 2 llega con nuevo contenido ambientado en Australia",
-   "summary": "Nintendo lanzó un paquete descargable para Daisenryaku SSB 2 con unidades, mapas y música nuevos inspirados en Australia.",
-   "lang": "es",
-   "source": "Nintendo",
-   "url": "https://aldiard.com/n/66e4be5d14.html",
-   "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70050000085324/9b2ff78048d8a95aaf8338ffff4c233c2e8814cea391fef7d9b2c78a6193e5e8",
-   "posted": "2026-11-25T20:55:05.183799+00:00",
-   "video": null,
-   "es": {
-    "title": "Daisenryaku SSB 2 llega con nuevo contenido ambientado en Australia",
-    "summary": "Nintendo lanzó un paquete descargable para Daisenryaku SSB 2 con unidades, mapas y música nuevos inspirados en Australia.",
-    "body": [
-     "Nintendo publicó el \"Australia\" Weapon, Map & BGM Pack, un contenido descargable para Daisenryaku SSB 2, disponible para Nintendo Switch 2. La ficha oficial lo describe como una ampliación que incorpora un nuevo tipo de producción llamado \"Australia\", nuevos mapas y música de fondo.",
-     "El contenido añade unidades tanto al bando australiano como a otros tipos de producción que ya existían en el juego. Entre las nuevas unidades aparecen vehículos terrestres como el AS21 Redback y el AS9 Huntsman SPH, sistemas de defensa como el NASAMS y el SEA3000, y buques como las fragatas de clase Hobart y Anzac, además del submarino SSN-AUKUS y los submarinos de clase Collins.",
-     "También se suman armas y vehículos de otros países a sus tipos de producción correspondientes. Por ejemplo, el M1A2 SEP Abrams aparece asociado a Estados Unidos, Australia y otros, mientras que el S-500 Prometey y el 2S35 Koalitsiya-SV figuran como producción rusa. El paquete incluye además el avión no tripulado XQ-58A Valkyrie, de Estados Unidos, y el S-70 Okhotnik, de Rusia.",
-     "En cuanto a escenarios, el paquete agrega seis mapas nombrados en la ficha: Blue Mountains, Frontier Wars, Taranaki Mist, Tropical Front, Ironbottom Sound y Hegemony of the Ocean. Según la ficha, algunos de ellos también se añaden al modo Campaña, pero solo para quienes tengan el DLC \"Power-Up Kit\".",
-     "Por último, la ficha incluye la pieza musical \"Kangaroo Punch\" como banda sonora adicional. Según la propia página, la descripción fue proporcionada por el autor del programa."
-    ],
-    "url": "https://aldiard.com/n/66e4be5d14.html"
-   },
-   "en": {
-    "title": "Daisenryaku SSB 2 Adds New Australia-Themed Content",
-    "summary": "Nintendo has released a downloadable pack for Daisenryaku SSB 2 with new units, maps, and music inspired by Australia.",
-    "body": [
-     "Nintendo has released the \"Australia\" Weapon, Map & BGM Pack, downloadable content for Daisenryaku SSB 2 available on the Nintendo Switch 2. The official listing describes it as an expansion that adds a new production type called \"Australia,\" new maps, and background music.",
-     "The content adds units to the Australian forces as well as to other production types already in the game. New units include ground vehicles such as the AS21 Redback and the AS9 Huntsman SPH, air defense systems such as the NASAMS and the SEA3000, and warships such as the Hobart-class and Anzac-class frigates, along with the SSN-AUKUS submarine and the Collins-class submarines.",
-     "Weapons and vehicles from other countries are also added to their corresponding production types. For example, the M1A2 SEP Abrams is listed under the United States, Australia, and other categories, while the S-500 Prometey and the 2S35 Koalitsiya-SV are listed as Russian production. The pack also includes the American XQ-58A Valkyrie drone and Russia's S-70 Okhotnik.",
-     "In terms of scenarios, the pack adds six named maps in the listing: Blue Mountains, Frontier Wars, Taranaki Mist, Tropical Front, Ironbottom Sound, and Hegemony of the Ocean. According to the listing, some of them are also added to Campaign mode, but only for those who own the \"Power-Up Kit\" DLC.",
-     "Finally, the listing includes the track \"Kangaroo Punch\" as an additional soundtrack piece. According to the page itself, the description was provided by the program's author."
-    ],
-    "url": "https://aldiard.com/en/n/66e4be5d14.html"
-   }
-  },
-  {
    "id": "b71b1621307b",
    "date_ok": true,
    "seeded": true,
@@ -11348,6 +11313,18 @@
    "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
    "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
    "posted": "2026-11-22T00:11:03+00:00"
+  },
+  {
+   "id": "f69b9bb4e528",
+   "date_ok": true,
+   "seeded": true,
+   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
+   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
+   "posted": "2026-11-21T21:40:04+00:00"
   }
  ],
  "raw_tech": [
@@ -11371,6 +11348,24 @@
    "checked_at": "2026-11-27T09:42:51+00:00",
    "real_price": 61.0,
    "real_old": 109.0
+  },
+  {
+   "id": "taaf2000d324",
+   "title": "Flashforge Creator 5 4-Toolhead Multi-Color & Multi-Material 3D Printer $499 + Free Shipping",
+   "price": 499.0,
+   "old_price": 839.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414250-flashforge-creator-5-4-toolhead-multi-color-multi-material-3d-printer-499-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/3/0/4/6/1/9/300x300/22632447.thumb",
+   "posted": "2026-11-27T09:10:52+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T09:55:21+00:00",
+   "real_price": 499.0,
+   "real_old": 839.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc649430fb7b",
@@ -11628,10 +11623,10 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&tid=20412771&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=01a8de6aea4811f1a269e618784d75d5&au=030be309aaf34ceb851ea55a777e4fc5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T09:50:41+00:00",
    "real_price": 469.99,
-   "real_old": 899.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&tid=20412771&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=01a8de6aea4811f1a269e618784d75d5&au=030be309aaf34ceb851ea55a777e4fc5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 899.99
   },
   {
    "id": "tb791c746865",
@@ -11759,10 +11754,10 @@
    "code": "BIGFRIDAY",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412453&tid=20412453&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02e74f78ea4811f18ad2beaed212ecc4&au=3611c9fbb6444a46ae9dfc4193d3ef24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T09:50:43+00:00",
    "real_price": 151.96,
-   "real_old": 279.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412453&tid=20412453&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02e74f78ea4811f18ad2beaed212ecc4&au=3611c9fbb6444a46ae9dfc4193d3ef24&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 279.95
   },
   {
    "id": "t7a4c3bf6d21",
@@ -12845,8 +12840,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0423ee14ea4811f18a3626dc1357c482&au=714af58c3f72440aa1bf602a3d890956&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:50:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9e769b6ea4811f18191d20e61767b42&au=6820c72cf10348af87715f9069a87810&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T09:55:23+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -14581,8 +14576,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0593bcfcea4811f1abb662ab116aba84&au=749ba67c5fbf40b0b50af8e408b1a2b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:50:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab193a76ea4811f19b9a62086f52b3ae&au=fdb1b206424545ffaed6e515c12b6755&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T09:55:25+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15451,9 +15446,6 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "code": "6ND8B35D",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -15760,27 +15752,36 @@
    "checked_at": "2026-11-26T20:12:16+00:00",
    "real_price": 67.99,
    "real_old": 97.0
-  },
-  {
-   "id": "ta1488fc3013",
-   "title": "$29.98, Lowe's, Project Source Project Source 12-volt Jobsite Blower 1 Battery(s) Included",
-   "price": 29.98,
-   "old_price": 60.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20407170-29-98-lowe-s-project-source-project-source-12-volt-jobsite-blower-1-battery-s-included?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22615560.thumb",
-   "posted": "2026-11-26T18:08:37+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20407170&tid=20407170&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=71a0f8bce9dd11f19d79b2013ad5615c&au=729a4ca055984e7aa5773a14affe38bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:07:53+00:00",
-   "real_price": 29.98,
-   "real_old": 60.0
   }
  ],
  "tech": [
+  {
+   "id": "taaf2000d324",
+   "title": "Flashforge Creator 5 4-Toolhead Multi-Color & Multi-Material 3D Printer",
+   "price": 499.0,
+   "old_price": 839.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/3/0/4/6/1/9/300x300/22632447.thumb",
+   "posted": "2026-11-27T09:10:52+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 499.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t48ee1107bc8",
    "title": "Lenovo Legion M600 RGB Wireless Gaming Mouse (Black)",
@@ -17023,8 +17024,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0423ee14ea4811f18a3626dc1357c482&au=714af58c3f72440aa1bf602a3d890956&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0423ee14ea4811f18a3626dc1357c482&au=714af58c3f72440aa1bf602a3d890956&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9e769b6ea4811f18191d20e61767b42&au=6820c72cf10348af87715f9069a87810&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9e769b6ea4811f18191d20e61767b42&au=6820c72cf10348af87715f9069a87810&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17040,7 +17041,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0423ee14ea4811f18a3626dc1357c482&au=714af58c3f72440aa1bf602a3d890956&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a9e769b6ea4811f18191d20e61767b42&au=6820c72cf10348af87715f9069a87810&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18187,8 +18188,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0593bcfcea4811f1abb662ab116aba84&au=749ba67c5fbf40b0b50af8e408b1a2b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0593bcfcea4811f1abb662ab116aba84&au=749ba67c5fbf40b0b50af8e408b1a2b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab193a76ea4811f19b9a62086f52b3ae&au=fdb1b206424545ffaed6e515c12b6755&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab193a76ea4811f19b9a62086f52b3ae&au=fdb1b206424545ffaed6e515c12b6755&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18204,7 +18205,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0593bcfcea4811f1abb662ab116aba84&au=749ba67c5fbf40b0b50af8e408b1a2b0&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab193a76ea4811f19b9a62086f52b3ae&au=fdb1b206424545ffaed6e515c12b6755&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18866,7 +18867,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": "6ND8B35D",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18957,34 +18958,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407587&tid=20407587&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=03bd6496e9d511f19bcce296fed00d51&au=99f9e2068ced483b8bd4313f922b028f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t8ce7fe149d1",
-   "title": "2.75\" Hallmark Keepsake Mickey Mouse 2025: \"A Year of Disney Magic\" Christmas Ornament",
-   "price": 9.99,
-   "old_price": 11.49,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22616169.thumb",
-   "posted": "2026-11-26T18:45:04+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 9.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407473&tid=20407473&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5c65fa1ee9d411f18d8daaa38f47b5a0&au=7162d66fc4ab45ac9e63e1db1a824d88&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T09:51:36+00:00"
+ "updated": "2026-11-27T09:56:18+00:00"
 }
