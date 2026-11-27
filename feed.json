@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "7a0ee1417dfd",
+   "title": "Select Walmart Stores: Resident Evil Requiem (Nintendo Switch 2) $30",
+   "price": 30.0,
+   "old_price": 69.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20407332-switch-2-gkc-resident-evil-requiem-30-ymmv-regional?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
+   "posted": "2026-11-27T03:54:41+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-27T03:58:38+00:00",
+   "category_ok": true,
+   "real_price": 30.0,
+   "real_old": 69.0,
+   "store_url": "https://www.walmart.com/ip/18330858360",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "39585192a2d1",
    "title": "Kirby Air Riders (Nintendo Switch 2) $46.99 - Amazon",
    "price": 46.99,
@@ -419,7 +440,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&pno=1375050&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=f17df958e9b111f182b63a71cb392a8d&au=9cedb2505b2a4e479e6e1e025bc4320d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T21:57:46+00:00",
+   "checked_at": "2026-11-27T03:58:40+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -2516,7 +2537,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T01:58:14+00:00",
+   "checked_at": "2026-11-27T03:58:43+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -3165,32 +3186,35 @@
    "real_old": 39.99,
    "category_ok": true,
    "expired": true
-  },
-  {
-   "id": "addd4105ce25",
-   "title": "Star Wars: Heritage Pack - Nintendo Switch $24.99",
-   "price": 24.99,
-   "old_price": 39.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20387046-star-wars-heritage-pack-nintendo-switch-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22571601.thumb",
-   "posted": "2026-11-24T15:25:55+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20387046&tid=20387046&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=6f7b06f4e81b11f18e8f0248a79e31ce&au=22070ae8dec240298edebe22d48a135c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-26T15:37:36+00:00",
-   "real_price": 24.99,
-   "real_old": 39.99,
-   "category_ok": true,
-   "expired": true
   }
  ],
  "deku_checked": "2026-11-27T03:35:52+00:00",
  "deals": [
+  {
+   "id": "617997ca8d02",
+   "title": "(Switch 2 GKC) Resident Evil Requiem (YMMV - Regional)",
+   "price": 30.0,
+   "old_price": 69.0,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/18330858360",
+   "url": "https://www.walmart.com/ip/18330858360",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 30.0,
+     "url": "https://www.walmart.com/ip/18330858360"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-27T03:54:41+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "a32e29a2d5ac",
    "title": "Kirby Air Riders (Nintendo Switch 2)",
@@ -3335,31 +3359,6 @@
    "kind": "merch",
    "collector": false,
    "posted": "2026-11-26T18:45:20+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "f115d821cc1b",
-   "title": "(Switch 2 GKC) Resident Evil Requiem (YMMV - Regional)",
-   "price": 30.0,
-   "old_price": 69.0,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/18330858360",
-   "url": "https://www.walmart.com/ip/18330858360",
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 30.0,
-     "url": "https://www.walmart.com/ip/18330858360"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22617657.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-26T18:28:08+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11394,7 +11393,7 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "code": "USD1140",
+   "code": "55USDEAL",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20238762&pno=1375803&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f09a49e4ea1311f1929082ce030be712&au=516f3e84c1984ac983937126d986a040&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -12814,8 +12813,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4fc5214eea1611f1b16aea8293043bdd&au=7281b27d9ea149cbbf4df3da61407012&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:54:57+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f5b45976ea1611f1bbf99a0228edeca6&au=d2f9bf5e91fd4600b8fb6507b7402145&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T03:59:36+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -13835,10 +13834,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407302&tid=20407302&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=50dbdf0aea1611f19dcbea8293043bdd&au=715c893ae3654de68d194c44bc295e13&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T03:54:59+00:00",
    "real_price": 249.99,
-   "real_old": 449.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407302&tid=20407302&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=50dbdf0aea1611f19dcbea8293043bdd&au=715c893ae3654de68d194c44bc295e13&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 449.99
   },
   {
    "id": "t7467a4ba8ba",
@@ -14942,8 +14941,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5214f960ea1611f1a8d8c27ac87da7c2&au=b2bdfe40733c496dbe0f23db737c8a9a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:55:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6c87c52ea1611f1a0d73abe0aeab59b&au=3d6027e4602e473baf5d5a74925bfd95&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T03:59:37+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -16805,8 +16804,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4fc5214eea1611f1b16aea8293043bdd&au=7281b27d9ea149cbbf4df3da61407012&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4fc5214eea1611f1b16aea8293043bdd&au=7281b27d9ea149cbbf4df3da61407012&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f5b45976ea1611f1bbf99a0228edeca6&au=d2f9bf5e91fd4600b8fb6507b7402145&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f5b45976ea1611f1bbf99a0228edeca6&au=d2f9bf5e91fd4600b8fb6507b7402145&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16822,7 +16821,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4fc5214eea1611f1b16aea8293043bdd&au=7281b27d9ea149cbbf4df3da61407012&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f5b45976ea1611f1bbf99a0228edeca6&au=d2f9bf5e91fd4600b8fb6507b7402145&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18753,40 +18752,13 @@
    ]
   },
   {
-   "id": "t47a8da2fed7",
-   "title": "Lenovo B210 15.6\" Laptop Backpack (Camo Green)",
-   "price": 12.99,
-   "old_price": 21.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404017&pno=1374897&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=c792e29ce9a311f1943e260367d88ca1&au=246317837c7443f3bad96b52cb9fbd2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404017&pno=1374897&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=c792e29ce9a311f1943e260367d88ca1&au=246317837c7443f3bad96b52cb9fbd2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22608441.thumb",
-   "posted": "2026-11-26T14:12:01+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 12.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404017&pno=1374897&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=c792e29ce9a311f1943e260367d88ca1&au=246317837c7443f3bad96b52cb9fbd2c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
    "id": "t3862a510ad7",
    "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD (2 Colors) + Free S&H",
    "price": 1199.99,
    "old_price": 1599.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=53769e6cea1611f1927cfe5c251010db&au=4cf2b5b59a574d6b8020129e5fb084d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=53769e6cea1611f1927cfe5c251010db&au=4cf2b5b59a574d6b8020129e5fb084d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f9533700ea1611f18edca620b69cde1f&au=d747f3af07d8498397f3df0baf32cddd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f9533700ea1611f18edca620b69cde1f&au=d747f3af07d8498397f3df0baf32cddd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22601661.thumb",
    "posted": "2026-11-26T13:58:26+00:00",
    "kind": "tech",
@@ -18802,7 +18774,7 @@
     {
      "store": "Amazon",
      "price": 1199.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=53769e6cea1611f1927cfe5c251010db&au=4cf2b5b59a574d6b8020129e5fb084d3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401638&pno=1374891&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f9533700ea1611f18edca620b69cde1f&au=d747f3af07d8498397f3df0baf32cddd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18812,8 +18784,8 @@
    "price": 1399.99,
    "old_price": 2499.99,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5510ad44ea1611f1a56ac28e968d1c71&au=2d5986ba6a664e43a92e0d904a7a5d4e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5510ad44ea1611f1a56ac28e968d1c71&au=2d5986ba6a664e43a92e0d904a7a5d4e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fac9abfaea1611f1ab075670c858351b&au=928be2a5629a41f9af542bbdfba60d80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fac9abfaea1611f1ab075670c858351b&au=928be2a5629a41f9af542bbdfba60d80&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22597071.thumb",
    "posted": "2026-11-26T13:35:30+00:00",
    "kind": "tech",
@@ -18829,7 +18801,7 @@
     {
      "store": "Best Buy",
      "price": 1399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5510ad44ea1611f1a56ac28e968d1c71&au=2d5986ba6a664e43a92e0d904a7a5d4e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20399784&pno=1374876&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fac9abfaea1611f1ab075670c858351b&au=928be2a5629a41f9af542bbdfba60d80&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18839,8 +18811,8 @@
    "price": 1349.99,
    "old_price": 2699.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=5626152aea1611f1b51f0e66b81901db&au=ff7b16ee00f741589c8d697d9cbd4750&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=5626152aea1611f1b51f0e66b81901db&au=ff7b16ee00f741589c8d697d9cbd4750&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=fc0c1728ea1611f1b953ea8293043bdd&au=78d4ee1ee8f447eb99a789619fe65e8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=fc0c1728ea1611f1b953ea8293043bdd&au=78d4ee1ee8f447eb99a789619fe65e8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22603257.thumb",
    "posted": "2026-11-26T12:27:09+00:00",
    "kind": "tech",
@@ -18856,7 +18828,7 @@
     {
      "store": "Amazon",
      "price": 1349.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=5626152aea1611f1b51f0e66b81901db&au=ff7b16ee00f741589c8d697d9cbd4750&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402130&pno=1374840&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=fc0c1728ea1611f1b953ea8293043bdd&au=78d4ee1ee8f447eb99a789619fe65e8f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18866,8 +18838,8 @@
    "price": 599.99,
    "old_price": 1099.99,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5767feb2ea1611f1815ac6cf8c8fcb4d&au=283fd568f28c400498361d7a1d2c3553&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5767feb2ea1611f1815ac6cf8c8fcb4d&au=283fd568f28c400498361d7a1d2c3553&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fd2558f4ea1611f19c4f1a3cc97fa2aa&au=201134f2531346bea9d4016bbe2cdc6e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fd2558f4ea1611f19c4f1a3cc97fa2aa&au=201134f2531346bea9d4016bbe2cdc6e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22606545.thumb",
    "posted": "2026-11-26T11:01:39+00:00",
    "kind": "tech",
@@ -18883,7 +18855,7 @@
     {
      "store": "Best Buy",
      "price": 599.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5767feb2ea1611f1815ac6cf8c8fcb4d&au=283fd568f28c400498361d7a1d2c3553&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401647&pno=1374813&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fd2558f4ea1611f19c4f1a3cc97fa2aa&au=201134f2531346bea9d4016bbe2cdc6e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18893,8 +18865,8 @@
    "price": 169.0,
    "old_price": 399.0,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=588fbe06ea1611f1b2ffea309893a51e&au=611c6575cb5547b98cc6dc628ca9ae75&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=588fbe06ea1611f1b2ffea309893a51e&au=611c6575cb5547b98cc6dc628ca9ae75&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fe7c9d34ea1611f1809416186c12ece4&au=ec7f40fa12ea461b9846e2a4c44ff9d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fe7c9d34ea1611f1809416186c12ece4&au=ec7f40fa12ea461b9846e2a4c44ff9d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22603644.thumb",
    "posted": "2026-11-26T10:36:00+00:00",
    "kind": "tech",
@@ -18910,7 +18882,7 @@
     {
      "store": "Best Buy",
      "price": 169.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=588fbe06ea1611f1b2ffea309893a51e&au=611c6575cb5547b98cc6dc628ca9ae75&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401488&pno=1374762&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fe7c9d34ea1611f1809416186c12ece4&au=ec7f40fa12ea461b9846e2a4c44ff9d1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18920,8 +18892,8 @@
    "price": 599.99,
    "old_price": 699.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5ad4c1d4ea1611f19a76c27ac87da7c2&au=053a1b66282b44f7b1204344bad62651&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5ad4c1d4ea1611f19a76c27ac87da7c2&au=053a1b66282b44f7b1204344bad62651&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=00d68414ea1711f18e156a646fefbd8d&au=53921ceb87c548349fec6ec8fb9ff84c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=00d68414ea1711f18e156a646fefbd8d&au=53921ceb87c548349fec6ec8fb9ff84c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22605300.thumb",
    "posted": "2026-11-26T09:04:47+00:00",
    "kind": "tech",
@@ -18937,7 +18909,7 @@
     {
      "store": "Amazon",
      "price": 599.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5ad4c1d4ea1611f19a76c27ac87da7c2&au=053a1b66282b44f7b1204344bad62651&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=00d68414ea1711f18e156a646fefbd8d&au=53921ceb87c548349fec6ec8fb9ff84c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18947,8 +18919,8 @@
    "price": 36.54,
    "old_price": 42.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5d328380ea1611f1b566629241def954&au=6c232da308b543229622dcd8705d2705&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5d328380ea1611f1b566629241def954&au=6c232da308b543229622dcd8705d2705&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03df2f4eea1711f1ac273e8b77b0889e&au=dcad6a46e4cb4d58ab6783f877a325ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03df2f4eea1711f1ac273e8b77b0889e&au=dcad6a46e4cb4d58ab6783f877a325ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/4/5/3/2/9/300x300/22539672.thumb",
    "posted": "2026-11-26T07:41:47+00:00",
    "kind": "tech",
@@ -18964,7 +18936,7 @@
     {
      "store": "Amazon",
      "price": 36.54,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5d328380ea1611f1b566629241def954&au=6c232da308b543229622dcd8705d2705&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03df2f4eea1711f1ac273e8b77b0889e&au=dcad6a46e4cb4d58ab6783f877a325ec&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18974,8 +18946,8 @@
    "price": 598.98,
    "old_price": 799.0,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5eba89a0ea1611f182edfeba77344bc8&au=deb18f7992d643d8aa095e0b53c46fd6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5eba89a0ea1611f182edfeba77344bc8&au=deb18f7992d643d8aa095e0b53c46fd6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0509875cea1711f19b7a8e8a02b1854e&au=d897ffdbd4134f4bb6e4beaee4fcc0db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0509875cea1711f19b7a8e8a02b1854e&au=d897ffdbd4134f4bb6e4beaee4fcc0db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
    "posted": "2026-11-26T06:51:04+00:00",
    "kind": "tech",
@@ -18991,7 +18963,7 @@
     {
      "store": "Best Buy",
      "price": 598.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5eba89a0ea1611f182edfeba77344bc8&au=deb18f7992d643d8aa095e0b53c46fd6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0509875cea1711f19b7a8e8a02b1854e&au=d897ffdbd4134f4bb6e4beaee4fcc0db&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19001,8 +18973,8 @@
    "price": 649.99,
    "old_price": 799.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6112283eea1611f198fa460f4f9362f3&au=a21dcb9e6da946848dc1721f67b11b36&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6112283eea1611f198fa460f4f9362f3&au=a21dcb9e6da946848dc1721f67b11b36&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=0a2ecc60ea1711f193cace7bfc79de3b&au=ee6e95b7fc5d4ff7b97cfc31ce525e73&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=0a2ecc60ea1711f193cace7bfc79de3b&au=ee6e95b7fc5d4ff7b97cfc31ce525e73&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602156.thumb",
    "posted": "2026-11-26T06:37:27+00:00",
    "kind": "tech",
@@ -19018,10 +18990,37 @@
     {
      "store": "Amazon",
      "price": 649.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=6112283eea1611f198fa460f4f9362f3&au=a21dcb9e6da946848dc1721f67b11b36&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401629&pno=1374714&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=0a2ecc60ea1711f193cace7bfc79de3b&au=ee6e95b7fc5d4ff7b97cfc31ce525e73&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tea54b628efd",
+   "title": "43\" Insignia F50 4K UHD 60Hz Smart Fire TV + Free S&H",
+   "price": 89.99,
+   "old_price": 199.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0d38b2e0ea1711f1be3226dc1357c482&au=79414bbbf613427b94c613a4602c6ac4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0d38b2e0ea1711f1be3226dc1357c482&au=79414bbbf613427b94c613a4602c6ac4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/22602129.thumb",
+   "posted": "2026-11-26T06:33:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 89.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401443&pno=1374696&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=0d38b2e0ea1711f1be3226dc1357c482&au=79414bbbf613427b94c613a4602c6ac4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T03:55:50+00:00"
+ "updated": "2026-11-27T04:00:37+00:00"
 }
