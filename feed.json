@@ -1216,7 +1216,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404215&tid=20404215&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6eb991b2e99d11f1838e36b8f52e543d&au=82c6866974724ab885cbda35099adfbb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:38:38+00:00",
+   "checked_at": "2026-11-27T13:40:21+00:00",
    "real_price": 17.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1237,7 +1237,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404215&tid=20404215&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6fe37d64e99d11f1839c020a893c37cf&au=4a8f5debcbf64933a765002c59357417&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:38:40+00:00",
+   "checked_at": "2026-11-27T13:40:23+00:00",
    "real_price": 17.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11391,10 +11391,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:36:36+00:00",
    "real_price": 599.99,
-   "real_old": 1675.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20397351&pno=1374957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=90c80994ea6711f1bbabd6f6c868d2d6&au=099684356f2147b9a08a15381ffb5b9d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1675.0
   },
   {
    "id": "t82621f4620b",
@@ -11431,6 +11431,24 @@
    "checked_at": "2026-11-27T12:58:42+00:00",
    "real_price": 149.99,
    "real_old": 249.99
+  },
+  {
+   "id": "t407fbdcf9ff",
+   "title": "$21.88* | 26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set at Amazon",
+   "price": 21.88,
+   "old_price": 38.21,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20415456-21-88-26-pc-milwaukee-shockwave-drive-fasten-electric-tool-bit-set-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22635471.thumb",
+   "posted": "2026-11-27T12:37:15+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:41:27+00:00",
+   "real_price": 21.88,
+   "real_old": 38.21,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415456&tid=20415456&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=3df1ebb2ea6811f1b6601a693b915e48&au=86c3dd6e0dae4496affa901780138e8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6316d9fcbc6",
@@ -11683,8 +11701,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9240f2e0ea6711f196e816ca551c1ac3&au=01083748ef4442bb94f37eca3b5c37a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:36:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4026f972ea6811f1976f9a2df9001c3b&au=451c9c8efc944727a1e8bae4021e8b9c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:41:31+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12537,6 +12555,24 @@
    "real_old": 2399.0
   },
   {
+   "id": "t158f6eb9094",
+   "title": "TRYX FLOVA ATX Mid-Tower PC Case w/ Cross-Flow Fan (Black) $44.99 + Free Shipping w/ Prime or $6 Fee per Order",
+   "price": 44.99,
+   "old_price": 57.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20412957-tryx-flova-atx-mid-tower-pc-case-w-cross-flow-fan-black-44-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22629117.thumb",
+   "posted": "2026-11-27T07:43:53+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:41:34+00:00",
+   "real_price": 44.99,
+   "real_old": 57.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412957&tid=20412957&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=422c8430ea6811f19563261efd69c6ee&au=41270ae0b1a241cc9c309ecef043e599&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3e75a01cf96",
    "title": "MSI 49\" Curved OLED Display, 144Hz 0.03ms, Gaming Monitor $599",
    "price": 599.0,
@@ -13380,6 +13416,27 @@
    "real_price": 56.0
   },
   {
+   "id": "t4e996ee56ac",
+   "title": "16\" Lenovo Yoga 7a FHD+ Touch 2-in-1 Laptop (Ryzen AI 5 430 / 16GB RAM / 1TB SSD) $751.99 + Free Shipping",
+   "price": 751.99,
+   "old_price": 1649.99,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20412006-16-lenovo-yoga-7a-fhd-touch-2-in-1-laptop-ryzen-ai-5-430-16gb-ram-1tb-ssd-751-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22626516.thumb",
+   "posted": "2026-11-27T06:02:17+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "BFYOGA2",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T13:41:37+00:00",
+   "real_price": 751.99,
+   "real_old": 1649.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t46269cc493c",
    "title": "Insignia 85\" Class QF Series QLED 4K UHD Smart Fire TV $549.99",
    "price": 549.99,
@@ -13763,6 +13820,24 @@
    "checked_at": "2026-11-27T09:36:54+00:00",
    "real_price": 69.98,
    "real_old": 139.0
+  },
+  {
+   "id": "t9360acbcfd2",
+   "title": "Staples $105, get $42 in staples rewards  Brother HL-L2405W Refurbished Wireless, Black & White, Print-Only, Laser Printer,",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Staples",
+   "url": "https://slickdeals.net/f/20411565-staples-105-get-42-in-staples-rewards-brother-hl-l2405w-refurbished-wireless-black-white-print-only-laser-printer?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22625553.thumb",
+   "posted": "2026-11-27T05:11:37+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": true,
+   "checked_at": "2026-11-27T13:41:40+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t45fd594fcfe",
@@ -14149,8 +14224,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:36:40+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:41:43+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15739,78 +15814,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Alo+Yoga&sdtid=20409297&tid=20409297&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d20734e9fc11f189584acc72eb1c77&au=a5e87819ce834eeb84d6d8a775906a37&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T00:49:24+00:00",
    "real_price": 56.0
-  },
-  {
-   "id": "tecb0ea4acfb",
-   "title": "100-Pc 1/4\" DEWALT Elite Series Impact Driver Bit Set $35 + Free S&H",
-   "price": 34.98,
-   "old_price": 49.98,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20403003-dewalt-elite-series-100-piece-1-4-in-impact-driver-bit-set-34-98-lowes?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22605837.thumb",
-   "posted": "2026-11-26T22:45:54+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20403003&pno=1375491&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=abd03a8ae9eb11f188f61a3cc97fa2aa&au=605dec5aceef413fa09f177e1086ed83&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T22:49:43+00:00",
-   "real_price": 34.98,
-   "real_old": 49.98
-  },
-  {
-   "id": "tde238ae8e36",
-   "title": "Skullcandy Crusher Evo Wireless Over-Ear Headphones (Chill Grey, Camo or Bone) $89.99 + Free Shipping",
-   "price": 89.99,
-   "old_price": 209.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20409255-skullcandy-crusher-evo-wireless-over-ear-headphones-chill-grey-camo-or-bone-89-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22621161.thumb",
-   "posted": "2026-11-26T22:41:56+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409255&tid=20409255&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=b342bca2e9fa11f183dd460f4f9362f3&au=69abe34c5c2e4a2cb3d2baa62cba4881&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:37:18+00:00",
-   "real_price": 89.99,
-   "real_old": 209.99
-  },
-  {
-   "id": "tc6706af54c2",
-   "title": "Dewalt 20V MAX 1 -1/2 in. Capacity Cordless Battery Powered Pruner (Tool Only) $79 @Home Depot",
-   "price": 79.0,
-   "old_price": 150.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20409213-dewalt-20v-max-1-1-2-in-capacity-cordless-battery-powered-pruner-tool-only-79-home-depot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22621107.thumb",
-   "posted": "2026-11-26T22:33:27+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20409213&tid=20409213&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=482bdad4e9f511f180809a4cc94bd7f7&au=bc98a74711584a08899443a0ccfcec19&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:58:31+00:00",
-   "real_price": 79.0,
-   "real_old": 150.0
-  },
-  {
-   "id": "t3226bbf05b5",
-   "title": "Seagate 20TB Expansion Desktop Hard Drive",
-   "price": 449.99,
-   "old_price": 629.99,
-   "store": "Seagate.com",
-   "url": "https://slickdeals.net/f/20409210-seagate-20tb-expansion-desktop-hard-drive?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/5/1/8/0/4/4/300x300/22621104.thumb",
-   "posted": "2026-11-26T22:33:15+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&tid=20409210&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a22fd09ae9f411f181f05e7d453500a5&au=4fd8c47f3555473997ea4a258800311f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:53:53+00:00",
-   "real_price": 449.99,
-   "real_old": 629.99
   }
  ],
  "tech": [
@@ -17321,6 +17324,33 @@
    ]
   },
   {
+   "id": "t4e996ee56ac",
+   "title": "16\" Lenovo Yoga 7a FHD+ Touch 2-in-1 Laptop (Ryzen AI 5 430 / 16GB RAM / 1TB SSD)",
+   "price": 751.99,
+   "old_price": 1649.99,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22626516.thumb",
+   "posted": "2026-11-27T06:02:17+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": "BFYOGA2",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 751.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20412006&tid=20412006&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=43e39e44ea6811f1a442b6cffcffbe5c&au=e3ba8ce2ca2243a4bafb45a18fc51d15&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t46269cc493c",
    "title": "Insignia 85\" Class QF Series QLED 4K UHD Smart Fire TV",
    "price": 549.99,
@@ -17753,6 +17783,33 @@
    ]
   },
   {
+   "id": "t9360acbcfd2",
+   "title": "Staples get in staples rewards Brother HL-L2405W Refurbished Wireless, Black & White, Print-Only, Laser Printer",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Staples",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22625553.thumb",
+   "posted": "2026-11-27T05:11:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Staples",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t9aebcde30cc",
    "title": "Apple MacBook Air: 15\", M5 (10-Core), 24GB RAM, 512GB SSD",
    "price": 1399.0,
@@ -17974,8 +18031,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17991,7 +18048,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9365d226ea6711f19967b24d945fe3cb&au=7c95d4f2ad4642ae9dae559fe3136a80&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=47937118ea6811f180dc562a0aab39fc&au=8823b590918542e7956df1b30ff52025&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18975,55 +19032,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403987&pno=1375512&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=479d4c8ae9ee11f198e89edf9ccb03d5&au=58d86a2a6a524364afc49ec1cacd5ed3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "te59f1b9cf99",
-   "title": "Polymaker 2KG 1.75mm ASA 3D Printer Filament Bundle (Black or Black/White)",
-   "price": 28.49,
-   "old_price": 47.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405211&pno=1375500&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f774dc1ae9ec11f18d856afa1dd6288e&au=e74a7230654a43a6806b6df712c9eca8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405211&pno=1375500&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f774dc1ae9ec11f18d856afa1dd6288e&au=e74a7230654a43a6806b6df712c9eca8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22621386.thumb",
-   "posted": "2026-11-26T22:55:59+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 28.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405211&pno=1375500&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f774dc1ae9ec11f18d856afa1dd6288e&au=e74a7230654a43a6806b6df712c9eca8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tfb2dfbe16a1",
-   "title": "30% Off Sitewide, Up to 60% Off: Alo Yoga Black Friday Sale",
-   "price": null,
-   "old_price": null,
-   "store": "Alo Yoga",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Alo+Yoga&sdtid=20409297&tid=20409297&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d20734e9fc11f189584acc72eb1c77&au=a5e87819ce834eeb84d6d8a775906a37&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Alo+Yoga&sdtid=20409297&tid=20409297&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d20734e9fc11f189584acc72eb1c77&au=a5e87819ce834eeb84d6d8a775906a37&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22621203.thumb",
-   "posted": "2026-11-26T22:47:42+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": "30% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-27T13:37:33+00:00"
+ "updated": "2026-11-27T13:42:39+00:00"
 }
