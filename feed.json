@@ -1328,7 +1328,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&tid=20404392&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=5bc274b6e9a711f193efb6cefa615a1c&au=906e2e54329a42159c161373f183e311&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:49:05+00:00",
+   "checked_at": "2026-11-27T14:51:07+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2891,13 +2891,13 @@
    "posted": "2026-11-25T16:40:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T14:46:58+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 79.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=6519740eea7111f18dbd5660cadc0bfb&au=3c25016267f3484c92b3d069a9eb7573&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T14:46:58+00:00",
+   "real_price": 30.0,
+   "real_old": 79.99,
+   "category_ok": true
   },
   {
    "id": "4eadf7e6f5ad",
@@ -11396,6 +11396,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tf3b69adc6b2",
+   "title": "Milwaukee Shockwave Impact Duty 1/4\" Hex Shank to 3/8\" Square Socket Adapter $3.10",
+   "price": 3.11,
+   "old_price": 5.63,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414763-milwaukee-shockwave-impact-duty-1-4-hex-shank-to-3-8-square-socket-adapter-3-11-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22633830.thumb",
+   "posted": "2026-11-27T14:49:57+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:52:01+00:00",
+   "real_price": 3.11,
+   "real_old": 5.63,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=1a299162ea7211f19e041a693b915e48&au=82d1536f1e9d49d1b51a9ad68cb06ba6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta524db3b379",
    "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart Google TV (2026) $600 + Free S&H",
    "price": 599.99,
@@ -11482,10 +11500,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415840&tid=20415840&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ec90eaea7111f18590da25f47a1c92&au=311c79cbc5224c4c893c053ae7935a07&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:49:06+00:00",
    "real_price": 597.0,
-   "real_old": 1199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415840&tid=20415840&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ec90eaea7111f18590da25f47a1c92&au=311c79cbc5224c4c893c053ae7935a07&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1199.0
   },
   {
    "id": "t67074e116c9",
@@ -11618,6 +11636,27 @@
    "checked_at": "2026-11-27T14:43:17+00:00",
    "real_price": 799.0,
    "real_old": 1099.99
+  },
+  {
+   "id": "t6b99bf9e52a",
+   "title": "GL.iNet GL-MT3600BE Dual-Band (Beryl 7) Wi-Fi 7 VPN Travel Router w/ Dual 2.5Gb Ports $64 + Free S/H",
+   "price": 64.0,
+   "old_price": 130.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20415474-gl-inet-gl-mt3600be-dual-band-beryl-7-wi-fi-7-vpn-travel-router-w-dual-2-5gb-ports-64-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/0/6/0/300x300/22635462.thumb",
+   "posted": "2026-11-27T12:39:18+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "USBF15",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T14:52:04+00:00",
+   "real_price": 64.0,
+   "real_old": 130.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20415474&tid=20415474&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1b82dcbcea7211f1b48d7631a2ced2a7&au=7ce767be93064c458fa9996e542e2417&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t407fbdcf9ff",
@@ -11924,8 +11963,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b36948c8ea7111f1ab83da25f47a1c92&au=c424a9544a984a67910118947f628966&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:49:09+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=1da44b66ea7211f1a2746e05285454ce&au=df8a9a66e2714acab17eb9d83c45bf75&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:52:07+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12396,6 +12435,24 @@
    "real_price": 379.0
   },
   {
+   "id": "t18f769d5e5e",
+   "title": "DEWALT 20-Compartment Pro Organizer (DWST14830) $19.97 + Free Shipping w/ Prime or on $35+",
+   "price": 19.97,
+   "old_price": 24.98,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413794-dewalt-20-compartment-pro-organizer-dwst14830-19-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22630662.thumb",
+   "posted": "2026-11-27T08:28:52+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:52:09+00:00",
+   "real_price": 19.97,
+   "real_old": 24.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413794&tid=20413794&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=1eb932aaea7211f1a5917631a2ced2a7&au=86256da3768a43b5bf8645591ea4df78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6af4ed5f3a1",
    "title": "DEWALT 20V MAX XR 1/2\" 3-Speed Brushless Cordless Hammer Drill (DCD996B) $129 + Free Shipping",
    "price": 129.0,
@@ -12804,10 +12861,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413194&tid=20413194&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=b48aba02ea7111f18d1a427d52af9fe3&au=a2462f4313904fa6a3f698ef5469a1ae&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:49:11+00:00",
    "real_price": 29.0,
-   "real_old": 48.72,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413194&tid=20413194&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=b48aba02ea7111f18d1a427d52af9fe3&au=a2462f4313904fa6a3f698ef5469a1ae&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 48.72
   },
   {
    "id": "tdea9c92cd58",
@@ -12901,10 +12958,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413122&tid=20413122&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=b5a50b04ea7111f1b323e212e3dba90c&au=81407d95393b443d87c11c0a20f90563&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:49:12+00:00",
    "real_price": 39.0,
-   "real_old": 78.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413122&tid=20413122&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=b5a50b04ea7111f1b323e212e3dba90c&au=81407d95393b443d87c11c0a20f90563&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 78.98
   },
   {
    "id": "t80b9ec25205",
@@ -13345,6 +13402,23 @@
    "checked_at": "2026-11-27T08:45:21+00:00",
    "real_price": 600.0,
    "real_old": 1500.0
+  },
+  {
+   "id": "t208061a919d",
+   "title": "HP HyperX OMEN 15.3\" Gaming Laptop - Intel Core Ultra 9 275HX - GeForce RTX 5070 - 2.5K (2560 x 1600) 180Hz - 32GB RAM - 1TB SSD - Windows 11 Home - 25 iconic free PC games",
+   "price": 1799.0,
+   "old_price": 2599.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20412585-hp-hyperx-omen-15-3-gaming-laptop-intel-core-ultra-9-275hx-geforce-rtx-5070-2-5k-2560-x-1600-180hz-32gb-ram-1tb-ssd-windows-11-home-25-iconic-free-pc-games?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/4/9/1/6/9/1/300x300/22627905.thumb",
+   "posted": "2026-11-27T06:56:07+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:52:11+00:00",
+   "real_price": 1799.0,
+   "real_old": 2599.0
   },
   {
    "id": "t9b30065fbee",
@@ -14836,8 +14910,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6e6bf58ea7111f1ba14eef30b7448eb&au=0688345ec7704ee3a41e8ccafbfc4a01&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:49:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2167b0c6ea7211f1bd3c9e3ef9a5c7fe&au=2db35aae4fc04f42878915a43112a10b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:52:13+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15762,75 +15836,6 @@
    "checked_at": "2026-11-27T00:21:55+00:00",
    "real_price": 128.99,
    "real_old": 229.0
-  },
-  {
-   "id": "taaa77e3e2b5",
-   "title": "10000mAh Energizer 22.5W Magnetic Wireless Power Bank w/ Apple Watch Charger $28.50 + Free S&H",
-   "price": 28.49,
-   "old_price": 44.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401578-energizer-10-000mah-22-5w-magnetic-wireless-qi-qi2-0-magsafe-powerbank-oled-display-apple-watch-charger-2-built-in-usb-c-cables-white-28-49-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601532.thumb",
-   "posted": "2026-11-27T00:19:43+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e12e36ee9f811f1834042ea8a74cf59&au=0b9b30fe136a466ca99a199916c20fea&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:21:57+00:00",
-   "real_price": 28.49,
-   "real_old": 44.99
-  },
-  {
-   "id": "t6669a907e24",
-   "title": "Costco Members: 65\" TCL QM6K Pro QD-Mini 4K Google TV (2025) w/ 5-Yr Warranty $500 + Free Delivery",
-   "price": 499.99,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20408850-costco-members-65-tcl-qm6k-pro-series-4k-uhd-qd-mini-led-smart-tv-w-5-year-warranty-coverage-499-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22620192.thumb",
-   "posted": "2026-11-27T00:11:16+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-27T00:12:29+00:00",
-   "real_price": 499.99,
-   "real_old": null
-  },
-  {
-   "id": "tf4927690025",
-   "title": "Costco Members: 65\" TCL QM6K Pro QD-Mini LED 4K Google TV w/ 5-Yr Warranty $500 + Free Delivery",
-   "price": 499.99,
-   "old_price": null,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20408850-costco-members-65-tcl-qm6k-pro-qd-mini-led-4k-google-tv-w-5-yr-warranty-500-free-delivery?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22620192.thumb",
-   "posted": "2026-11-27T00:11:16+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "checked_at": "2026-11-27T00:17:08+00:00",
-   "real_price": 499.99
-  },
-  {
-   "id": "t3e0268201a2",
-   "title": "16-Piece MulWark Precision Hobby & Craft Knife Set w/ Case $6.99 + Free Shipping w/ Prime or on $35+",
-   "price": 6.99,
-   "old_price": 11.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20409807-16-piece-mulwark-precision-hobby-craft-knife-set-w-case-6-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22622148.thumb",
-   "posted": "2026-11-27T00:06:22+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20409807&tid=20409807&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=f9e3a7c4ea0011f19a5cf2cd9e213daf&au=d708fbf9fe9346fc91efd27f0786118d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:22:14+00:00",
-   "real_price": 6.99,
-   "real_old": 11.99
   }
  ],
  "tech": [
@@ -18426,8 +18431,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6e6bf58ea7111f1ba14eef30b7448eb&au=0688345ec7704ee3a41e8ccafbfc4a01&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6e6bf58ea7111f1ba14eef30b7448eb&au=0688345ec7704ee3a41e8ccafbfc4a01&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2167b0c6ea7211f1bd3c9e3ef9a5c7fe&au=2db35aae4fc04f42878915a43112a10b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2167b0c6ea7211f1bd3c9e3ef9a5c7fe&au=2db35aae4fc04f42878915a43112a10b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18443,7 +18448,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6e6bf58ea7111f1ba14eef30b7448eb&au=0688345ec7704ee3a41e8ccafbfc4a01&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2167b0c6ea7211f1bd3c9e3ef9a5c7fe&au=2db35aae4fc04f42878915a43112a10b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19069,5 +19074,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T14:50:00+00:00"
+ "updated": "2026-11-27T14:52:55+00:00"
 }
