@@ -2482,7 +2482,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=48d587f0e8f111f187846a82603adb7c&au=c6d26ffb52fe4a0795ef7dbdf3035cd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:08:37+00:00",
+   "checked_at": "2026-11-27T11:09:04+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -2503,7 +2503,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&tid=20395800&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4a473976e8f111f1bf1496c3e30d41b9&au=f1cbefdababb493f8927a51456b917cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:08:39+00:00",
+   "checked_at": "2026-11-27T11:09:07+00:00",
    "real_price": 30.0,
    "real_old": 79.99,
    "category_ok": true
@@ -2927,8 +2927,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3970,7 +3968,7 @@
    "digital": null,
    "refurb": false,
    "glitch": false,
-   "code": "SAVE3X",
+   "code": null,
    "code_until": null
   },
   {
@@ -11341,8 +11339,7 @@
    "prio": 20,
    "refurb": false,
    "checked_at": "2026-11-27T11:05:21+00:00",
-   "real_price": 56.0,
-   "real_old": null
+   "real_price": 56.0
   },
   {
    "id": "t3e242243922",
@@ -11364,6 +11361,24 @@
    "checked_at": "2026-11-27T10:51:15+00:00",
    "real_price": 227.83,
    "real_old": 499.0
+  },
+  {
+   "id": "t0ee1e78850b",
+   "title": "Milwaukee Shockwave Impact Duty 1/4\" Hex Shank to 3/8\" Square Socket Adapter $3.11 + Free Shipping w/ Prime or on $35+",
+   "price": 3.11,
+   "old_price": 5.63,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414763-milwaukee-shockwave-impact-duty-1-4-hex-shank-to-3-8-square-socket-adapter-3-11-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22633830.thumb",
+   "posted": "2026-11-27T10:37:42+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T11:10:00+00:00",
+   "real_price": 3.11,
+   "real_old": 5.63,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=161d95baea5311f18edaf2f94b23013c&au=f96d2aa9ef484b77b58e722f7505cd71&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tdf623464c8f",
@@ -11622,10 +11637,10 @@
    "code": "JJX08G",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413620&tid=20413620&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71182a1cea5211f1b6c93ece42a7e54a&au=3ad885b7d23a42a698937599e258e7c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T11:05:23+00:00",
    "real_price": 56.65,
-   "real_old": 79.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413620&tid=20413620&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71182a1cea5211f1b6c93ece42a7e54a&au=3ad885b7d23a42a698937599e258e7c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 79.0
   },
   {
    "id": "t19c0c751ffa",
@@ -12352,6 +12367,27 @@
    "checked_at": "2026-11-27T06:14:31+00:00",
    "real_price": 149.0,
    "real_old": 249.0
+  },
+  {
+   "id": "t6be395bcc4b",
+   "title": "27\" Samsung G6 1440p 240Hz QD-OLED Gaming Monitor $299.99",
+   "price": 299.99,
+   "old_price": 799.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20412102-27-samsung-g6-1440p-240hz-qd-oled-gaming-monitor-299-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22626840.thumb",
+   "posted": "2026-11-27T06:08:11+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T11:10:02+00:00",
+   "real_price": 299.99,
+   "real_old": 799.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412102&tid=20412102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=176ef288ea5311f1beb3fe03e74505d0&au=dd74ea99c0b74799b1dc8f6062848d7b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb6a7f93df96",
@@ -13196,8 +13232,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:05:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1916c0d4ea5311f1a8cbf2f94b23013c&au=5704371376c349d299aaabe60e6303ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:10:05+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -14968,8 +15004,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:05:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a530a3eea5311f18795c2435ea6c564&au=4df69f56094647ebbd24fa6380f033c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:10:07+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15715,42 +15751,6 @@
    "checked_at": "2026-11-26T19:30:26+00:00",
    "real_price": 329.99,
    "real_old": 499.99
-  },
-  {
-   "id": "t22fde6f6bc0",
-   "title": "LG gram Book: Ultra 5 Series 115U, 15.6\" 1080p, 16GB RAM, 512GB SSD $500 + Free S&H",
-   "price": 499.99,
-   "old_price": 999.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20401977-lg-gram-book-15-6-fhd-touchscreen-laptop-w-intel-core-ultra-5-115u-16gb-ram-512gb-ssd-black-499-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/7/4/5/9/6/3/300x300/22602744.thumb",
-   "posted": "2026-11-26T19:25:52+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401977&pno=1375293&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d65e9484e9cf11f1a8b71efa549e2174&au=fabae719ac954486bfa7a704aa40e67e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:30:29+00:00",
-   "real_price": 499.99,
-   "real_old": 999.99
-  },
-  {
-   "id": "te42239052c0",
-   "title": "LG Counter-Depth 25.5-cu ft 3 -Door 36-in Wide French Door Refrigerator with Ice Maker $1599",
-   "price": 1599.0,
-   "old_price": 3399.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20407785-lg-counter-depth-25-5-cu-ft-3-door-36-in-wide-french-door-refrigerator-with-ice-maker-1599?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/2/8/0/4/4/7/300x300/22617240.thumb",
-   "posted": "2026-11-26T19:18:33+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20407785&tid=20407785&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=6829ac22ea2111f1879f82c4a455846c&au=ddbc0774ddf1406a8b89f4e3333f5d32&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T05:14:23+00:00",
-   "real_price": 1599.0,
-   "real_old": 3399.0
   }
  ],
  "tech": [
@@ -16453,6 +16453,33 @@
      "store": "Best Buy",
      "price": 1849.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412171&tid=20412171&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=a52a3c02ea2d11f1beebe6be1620931f&au=b095e1f8685b4b4cacaff529fcd4c274&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6be395bcc4b",
+   "title": "27\" Samsung G6 1440p 240Hz QD-OLED Gaming Monitor",
+   "price": 299.99,
+   "old_price": 799.99,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412102&tid=20412102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=176ef288ea5311f1beb3fe03e74505d0&au=dd74ea99c0b74799b1dc8f6062848d7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412102&tid=20412102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=176ef288ea5311f1beb3fe03e74505d0&au=dd74ea99c0b74799b1dc8f6062848d7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22626840.thumb",
+   "posted": "2026-11-27T06:08:11+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Woot!",
+     "price": 299.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412102&tid=20412102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=176ef288ea5311f1beb3fe03e74505d0&au=dd74ea99c0b74799b1dc8f6062848d7b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17212,8 +17239,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1916c0d4ea5311f1a8cbf2f94b23013c&au=5704371376c349d299aaabe60e6303ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1916c0d4ea5311f1a8cbf2f94b23013c&au=5704371376c349d299aaabe60e6303ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17229,7 +17256,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1916c0d4ea5311f1a8cbf2f94b23013c&au=5704371376c349d299aaabe60e6303ba&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18403,8 +18430,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a530a3eea5311f18795c2435ea6c564&au=4df69f56094647ebbd24fa6380f033c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a530a3eea5311f18795c2435ea6c564&au=4df69f56094647ebbd24fa6380f033c3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18420,7 +18447,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1a530a3eea5311f18795c2435ea6c564&au=4df69f56094647ebbd24fa6380f033c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18936,34 +18963,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395431&pno=1375314&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=667fa182e9d211f19f6d5acd8b018c30&au=c436c01b86ac4472a297248307b27ddf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6944dc24edb",
-   "title": "Anker Prime Qi2 25W Wireless Magsafe Car Charger Mount with Adapter",
-   "price": 59.99,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407914&tid=20407914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fcad65f8ea0011f1a1ff9edf9ccb03d5&au=c3e1b642ffb345f18ce83c2b24cfbcc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407914&tid=20407914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fcad65f8ea0011f1a1ff9edf9ccb03d5&au=c3e1b642ffb345f18ce83c2b24cfbcc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/7/0/1/3/7/300x300/22617606.thumb",
-   "posted": "2026-11-26T19:39:38+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 59.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407914&tid=20407914&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=fcad65f8ea0011f1a1ff9edf9ccb03d5&au=c3e1b642ffb345f18ce83c2b24cfbcc3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T11:06:16+00:00"
+ "updated": "2026-11-27T11:10:59+00:00"
 }
