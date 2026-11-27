@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "ec1ec7282648",
+   "title": "Donkey Kong Bananza - Nintendo Switch 2 (YMMV)",
+   "price": 30.0,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20417613-donkey-kong-bananza-nintendo-switch-2-ymmv?utm_source=rss&utm_content=&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/9/5/7/4/9/300x300/22640886.thumb",
+   "posted": "2026-11-27T15:43:11+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:43:43+00:00",
+   "category_ok": true,
+   "real_price": 30.0,
+   "real_old": 69.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417613&tid=20417613&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=53124210ea7911f1b5c59697f435d42e&au=cb0684c1a11a438994bbc4909d08aec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "d294344bf847",
    "title": "Super Mario Galaxy + Super Mario Galaxy 2 for Nintendo Switch",
    "price": 30.0,
@@ -84,6 +105,27 @@
    "real_price": 15.0,
    "real_old": 136.0,
    "category_ok": true
+  },
+  {
+   "id": "dcc6025a5192",
+   "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2) - $15 @ Walmart",
+   "price": 15.0,
+   "old_price": 136.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20416746-star-wars-outlaws-gold-edition-nintendo-switch-2-15-walmart?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22638741.thumb",
+   "posted": "2026-11-27T14:34:06+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:43:45+00:00",
+   "category_ok": true,
+   "real_price": 15.0,
+   "real_old": 136.0,
+   "store_url": "https://www.walmart.com/ip/16344962410",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "9160e2a27920",
@@ -186,13 +228,13 @@
    "posted": "2026-11-27T14:19:40+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-27T15:39:01+00:00",
-   "category_ok": true,
-   "real_price": 39.99,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416569&tid=20416569&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=ab17cbdeea7811f188e222a3727f3824&au=3c0e421d1fa1431a9d72ef5820def7e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T15:39:01+00:00",
+   "real_price": 39.99,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "55c77a0cd594",
@@ -2517,7 +2559,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=15c4081ae91811f1a389ae29761d79cc&au=9a5cf0cf031b4b468e885103c93ed53e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:40:40+00:00",
+   "checked_at": "2026-11-27T15:43:47+00:00",
    "real_price": 117.0,
    "real_old": 199.0,
    "category_ok": false
@@ -2538,7 +2580,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398026&tid=20398026&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=16f9e98ee91811f1b5bc4af6d5f80e5a&au=92472c533e214967a1cf25d39c5ca1bc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:40:42+00:00",
+   "checked_at": "2026-11-27T15:43:49+00:00",
    "real_price": 117.0,
    "real_old": 199.0,
    "category_ok": false
@@ -3161,52 +3203,35 @@
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
-  },
-  {
-   "id": "4db1a19a1adf",
-   "title": "8Bitdo Ultimate 2 Bluetooth Controller for Switch & PC (White, Black) $47.39 + Free Shipping",
-   "price": 47.39,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "kind": "hardware",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20393397-8bitdo-ultimate-2-bluetooth-controller-for-switch-pc-white-black-47-39-free-shipping?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22580595.thumb",
-   "posted": "2026-11-25T10:45:58+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=83e1b8fce8bd11f19d2c863ad210ac0e&au=419251c0777341c5b02282f52431d2f2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-27T10:59:39+00:00",
-   "real_price": 47.39,
-   "real_old": 69.99,
-   "category_ok": false
-  },
-  {
-   "id": "afa07c5ef230",
-   "title": "8Bitdo Ultimate 2 Bluetooth Controller for Switch & PC (White, Black) $47.39 + Free Shipping",
-   "price": 47.39,
-   "old_price": 69.99,
-   "store": "Amazon",
-   "kind": "hardware",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20393397-8bitdo-ultimate-2-bluetooth-controller-for-switch-pc-white-black-47-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22580595.thumb",
-   "posted": "2026-11-25T10:45:58+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=84facee0e8bd11f186289619659f957d&au=0246afee4f8a4faaa57e757acca7a038&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-27T10:59:41+00:00",
-   "real_price": 47.39,
-   "real_old": 69.99,
-   "category_ok": false
   }
  ],
  "deku_checked": "2026-11-27T14:46:59+00:00",
  "deals": [
+  {
+   "id": "d8663ea3a8ca",
+   "title": "Donkey Kong Bananza (Nintendo Switch 2)",
+   "price": 30.0,
+   "old_price": 69.99,
+   "store": "Walmart",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417613&tid=20417613&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=53124210ea7911f1b5c59697f435d42e&au=cb0684c1a11a438994bbc4909d08aec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417613&tid=20417613&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=53124210ea7911f1b5c59697f435d42e&au=cb0684c1a11a438994bbc4909d08aec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 30.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417613&tid=20417613&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=53124210ea7911f1b5c59697f435d42e&au=cb0684c1a11a438994bbc4909d08aec8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/9/5/7/4/9/300x300/22640886.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-27T15:43:11+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "a1615b1a91e0",
    "title": "Super Mario Galaxy + Super Mario Galaxy 2 for Nintendo Switch",
@@ -11387,10 +11412,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:40:04+00:00",
    "real_price": 2149.0,
-   "real_old": 2399.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2399.0
   },
   {
    "id": "teeed302101e",
@@ -11514,8 +11539,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d1defcf6ea7811f198f07a542ef51613&au=1387ad0608d749d39d7a202516eee9fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:40:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=77bb4bdeea7911f1a691963678428246&au=b37dbb69ab774ca7a01481ca9ea891c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:44:45+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11568,10 +11593,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416410&tid=20416410&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=d301f160ea7811f1bd4c06ab6b8252e7&au=04ebed8f35e64020a8173084f29acaff&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:40:08+00:00",
    "real_price": 375.23,
-   "real_old": 599.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416410&tid=20416410&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=d301f160ea7811f1bd4c06ab6b8252e7&au=04ebed8f35e64020a8173084f29acaff&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 599.99
   },
   {
    "id": "t07833ad5559",
@@ -12140,8 +12165,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d443d00cea7811f1931c06ab6b8252e7&au=bbcade9a5a4c44b1a916408f6703361b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:40:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=79357c8cea7911f1a91996114f2a34da&au=8a9a213b79e445a68596ea01e8322837&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:44:47+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13059,10 +13084,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413227&tid=20413227&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=d56bb6e8ea7811f1ab8a227f30588b7a&au=ad9c4e40c4a44335bc357d863df6fe93&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:40:12+00:00",
    "real_price": 119.0,
-   "real_old": 360.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413227&tid=20413227&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=d56bb6e8ea7811f1ab8a227f30588b7a&au=ad9c4e40c4a44335bc357d863df6fe93&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 360.0
   },
   {
    "id": "t4a996f82f13",
@@ -13971,6 +13996,24 @@
    "checked_at": "2026-11-27T09:27:36+00:00",
    "real_price": 349.0,
    "real_old": 449.0
+  },
+  {
+   "id": "t55af2d005f3",
+   "title": "Pair of Black/White Sonos - Era 100 SL Speaker (Pair) - $289",
+   "price": 289.0,
+   "old_price": 379.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412270-pair-of-black-white-sonos-era-100-sl-speaker-pair-289?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-27T06:21:53+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-27T15:44:49+00:00",
+   "real_price": 289.0,
+   "real_old": 379.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412270&tid=20412270&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7a534f18ea7911f196b99206987c1bb9&au=2f51539b3c89477d8a7aa5ea325ef5b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t69fd422c9d0",
@@ -15215,8 +15258,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6aa54ecea7811f19d4e5660cadc0bfb&au=bc9f654893dd4111b6d0068cf08ff0a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:40:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7bbabdb4ea7911f191ed96114f2a34da&au=bee0c6512cb648ab8ad8f66ff5dd5f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:44:51+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15793,27 +15836,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&tid=20410320&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f1cc31ceea1311f18dab1a3cc97fa2aa&au=4d358d2676ce4c51a96900c3544d7c43&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T03:38:01+00:00",
    "real_price": 60.0
-  },
-  {
-   "id": "t95d949b0c7d",
-   "title": "Bosch 18V EXPERT 8Ah High Power Battery + 16A Turbo Charger Starter Kit (GXS18V-27N18X) $149",
-   "price": 149.0,
-   "old_price": 305.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20410296-bosch-18v-expert-8ah-high-power-battery-16a-turbo-charger-starter-kit-gxs18v-27n18x-149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/0/5/9/4/3/6/300x300/22622907.thumb",
-   "posted": "2026-11-27T01:32:55+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20410296&tid=20410296&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=76188190ea1d11f192ffbeaed212ecc4&au=0271b991f1e04e4499978416765d1be3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T04:46:08+00:00",
-   "real_price": 149.0,
-   "real_old": 305.0
   }
  ],
  "tech": [
+  {
+   "id": "t3c870065673",
+   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
+   "price": 2149.0,
+   "old_price": 2399.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22629138.thumb",
+   "posted": "2026-11-27T15:35:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 2149.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "taee0ffe34b7",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 16GB RAM, 1TB SSD (2026) + Free S&H",
@@ -16108,33 +16160,6 @@
      "store": "Amazon",
      "price": 1749.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415750&tid=20415750&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=4277fa2cea6e11f196b06e5ef850e476&au=9ec5770423fd4743ab5e7684234e9116&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t82621f4620b",
-   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
-   "price": 2149.0,
-   "old_price": 2399.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22636347.thumb",
-   "posted": "2026-11-27T13:04:35+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 2149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18622,8 +18647,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6aa54ecea7811f19d4e5660cadc0bfb&au=bc9f654893dd4111b6d0068cf08ff0a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6aa54ecea7811f19d4e5660cadc0bfb&au=bc9f654893dd4111b6d0068cf08ff0a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7bbabdb4ea7911f191ed96114f2a34da&au=bee0c6512cb648ab8ad8f66ff5dd5f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7bbabdb4ea7911f191ed96114f2a34da&au=bee0c6512cb648ab8ad8f66ff5dd5f6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18639,7 +18664,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d6aa54ecea7811f19d4e5660cadc0bfb&au=bc9f654893dd4111b6d0068cf08ff0a9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7bbabdb4ea7911f191ed96114f2a34da&au=bee0c6512cb648ab8ad8f66ff5dd5f6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19000,8 +19025,8 @@
    "price": 419.0,
    "old_price": 1895.0,
    "store": "Adorama",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ce25786ea0111f18bf63abe0aeab59b&au=b2a9157ffcd049d19ae3a142b3398a0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ce25786ea0111f18bf63abe0aeab59b&au=b2a9157ffcd049d19ae3a142b3398a0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7cd9c9baea7911f190877e94b7430612&au=01b0766d3e824304acee54cc426d5852&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7cd9c9baea7911f190877e94b7430612&au=01b0766d3e824304acee54cc426d5852&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22621590.thumb",
    "posted": "2026-11-27T01:23:06+00:00",
    "kind": "tech",
@@ -19017,7 +19042,7 @@
     {
      "store": "Adorama",
      "price": 419.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=9ce25786ea0111f18bf63abe0aeab59b&au=b2a9157ffcd049d19ae3a142b3398a0f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&pno=1375665&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7cd9c9baea7911f190877e94b7430612&au=01b0766d3e824304acee54cc426d5852&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19027,8 +19052,8 @@
    "price": 84.95,
    "old_price": 189.95,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d7d8c61eea7811f194c1227f30588b7a&au=843762a8eeaa4113923e14d17e5114e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d7d8c61eea7811f194c1227f30588b7a&au=843762a8eeaa4113923e14d17e5114e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7e237488ea7911f186246e05285454ce&au=c4c6eb9ad2324d40b2cf27c34bb2393e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7e237488ea7911f186246e05285454ce&au=c4c6eb9ad2324d40b2cf27c34bb2393e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22622613.thumb",
    "posted": "2026-11-27T01:09:37+00:00",
    "kind": "tech",
@@ -19044,10 +19069,10 @@
     {
      "store": "Amazon",
      "price": 84.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d7d8c61eea7811f194c1227f30588b7a&au=843762a8eeaa4113923e14d17e5114e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=7e237488ea7911f186246e05285454ce&au=c4c6eb9ad2324d40b2cf27c34bb2393e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T15:40:57+00:00"
+ "updated": "2026-11-27T15:45:41+00:00"
 }
