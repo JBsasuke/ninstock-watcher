@@ -769,7 +769,7 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:32:21+00:00",
+   "checked_at": "2026-11-27T12:34:12+00:00",
    "real_price": 30.0,
    "real_old": 69.0,
    "category_ok": true
@@ -790,7 +790,7 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:32:23+00:00",
+   "checked_at": "2026-11-27T12:34:14+00:00",
    "real_price": 30.0,
    "real_old": 69.0,
    "category_ok": true
@@ -3012,6 +3012,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -4015,7 +4017,7 @@
    "digital": null,
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null
   },
   {
@@ -11523,8 +11525,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=50a8be34ea5e11f1bcba96ef85755499&au=77337868b0b14feca5a56f3d0fd4ae1d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:30:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=fe5fe87cea5e11f19bc9c2a1e982bbac&au=d4a90261a77e47f6aa85591b6136dc11&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:35:14+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12171,6 +12173,24 @@
    "checked_at": "2026-11-27T12:10:58+00:00",
    "real_price": 599.0,
    "real_old": 749.0
+  },
+  {
+   "id": "t17c4cd54747",
+   "title": "MOUSE: P.I. For Hire (PC Steam Key) – $15.99 (52% Off) @ Loaded $16",
+   "price": 16.0,
+   "old_price": 60.0,
+   "store": "Loaded",
+   "url": "https://slickdeals.net/f/20412870-mouse-p-i-for-hire-pc-steam-key-15-99-52-off-loaded-16?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "posted": "2026-11-27T07:33:18+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T12:35:17+00:00",
+   "real_price": 16.0,
+   "real_old": 60.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Loaded&sdtid=20412870&tid=20412870&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ffc9744eea5e11f1ac0c62bc0e8a58b1&au=1a0ad3833cf447148cee0ee0652eadcd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb3a778ce93c",
@@ -13568,8 +13588,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=522502c2ea5e11f1ac15da1f445f9cb1&au=82029efa8c35469c9b536b309c53128f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:30:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=018b124cea5f11f186c72e5bf8422d8c&au=1cd786e1fda245aaa2af0d91fbbce910&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:35:20+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15340,8 +15360,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53aca794ea5e11f1abbe62ab116aba84&au=70b6b8b2c0fa42e89d72f0aed0c51828&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:30:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=032f6968ea5f11f1a6157ebcbcdf7e3e&au=743d635cc4d143daa792b212ad1b71a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:35:22+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15794,23 +15814,6 @@
    "checked_at": "2026-11-26T20:21:49+00:00",
    "real_price": 59.99,
    "real_old": 139.99
-  },
-  {
-   "id": "tdeebd674a67",
-   "title": "Apple Macbook Air 15.3\" M5 Laptop: 16GB RAM/512GB SSD $1199 @Best buy",
-   "price": 1199.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20408136-apple-macbook-air-15-3-m5-laptop-16gb-ram-512gb-ssd-1199-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
-   "posted": "2026-11-26T20:06:55+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:35:34+00:00",
-   "real_price": 1199.0
   }
  ],
  "tech": [
@@ -17542,8 +17545,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=522502c2ea5e11f1ac15da1f445f9cb1&au=82029efa8c35469c9b536b309c53128f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=522502c2ea5e11f1ac15da1f445f9cb1&au=82029efa8c35469c9b536b309c53128f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=018b124cea5f11f186c72e5bf8422d8c&au=1cd786e1fda245aaa2af0d91fbbce910&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=018b124cea5f11f186c72e5bf8422d8c&au=1cd786e1fda245aaa2af0d91fbbce910&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17559,7 +17562,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=522502c2ea5e11f1ac15da1f445f9cb1&au=82029efa8c35469c9b536b309c53128f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=018b124cea5f11f186c72e5bf8422d8c&au=1cd786e1fda245aaa2af0d91fbbce910&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18733,8 +18736,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53aca794ea5e11f1abbe62ab116aba84&au=70b6b8b2c0fa42e89d72f0aed0c51828&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53aca794ea5e11f1abbe62ab116aba84&au=70b6b8b2c0fa42e89d72f0aed0c51828&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=032f6968ea5f11f1a6157ebcbcdf7e3e&au=743d635cc4d143daa792b212ad1b71a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=032f6968ea5f11f1a6157ebcbcdf7e3e&au=743d635cc4d143daa792b212ad1b71a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18750,7 +18753,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53aca794ea5e11f1abbe62ab116aba84&au=70b6b8b2c0fa42e89d72f0aed0c51828&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=032f6968ea5f11f1a6157ebcbcdf7e3e&au=743d635cc4d143daa792b212ad1b71a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19025,5 +19028,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T12:31:24+00:00"
+ "updated": "2026-11-27T12:36:19+00:00"
 }
