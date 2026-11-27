@@ -2560,7 +2560,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&tid=20393397&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=8a58f4a8e8cb11f18b3f9619659f957d&au=646680a4f7be4f739ef59e1a27defd70&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T00:34:53+00:00",
+   "checked_at": "2026-11-27T06:36:57+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -3189,7 +3189,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-27T05:36:28+00:00",
+ "deku_checked": "2026-11-27T06:36:58+00:00",
  "deals": [
   {
    "id": "b65a4e8b1393",
@@ -5934,7 +5934,7 @@
      "url": "https://www.walmart.com/ip/19503674092"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Spike Chunsoft",
    "digital": null,
@@ -5978,7 +5978,7 @@
      "url": "https://www.walmart.com/ip/21185554513"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Fictions",
    "digital": null,
@@ -6012,7 +6012,7 @@
    "release_date": "2026-12-10",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "CFK",
    "digital": null,
@@ -6055,7 +6055,7 @@
      "url": "https://www.walmart.com/ip/20775520891"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -6076,7 +6076,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "City Connection",
    "digital": {
@@ -6096,7 +6096,7 @@
    "release_date": "2026-12-09",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Level-5",
    "digital": {
@@ -6143,7 +6143,7 @@
      "url": "https://www.walmart.com/ip/20991113713"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Capcom",
    "digital": null,
@@ -6187,7 +6187,7 @@
      "url": "https://www.walmart.com/ip/20337251769"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6228,7 +6228,7 @@
      "url": "https://www.walmart.com/ip/21346004017"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Atari",
    "digital": {
@@ -6274,7 +6274,7 @@
      "url": "https://www.walmart.com/ip/20386553632"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6321,7 +6321,7 @@
      "url": "https://www.walmart.com/ip/20081864427"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Stormind Games",
    "digital": null,
@@ -6340,11 +6340,6 @@
    "collector": false,
    "offers": [
     {
-     "store": "Amazon",
-     "price": 29.99,
-     "url": "https://www.amazon.com/dp/B0H34K6KSD"
-    },
-    {
      "store": "Target",
      "price": 29.99,
      "url": "https://www.target.com/p/-/A-1011839194"
@@ -6355,17 +6350,22 @@
      "url": "https://www.walmart.com/ip/20272673772"
     },
     {
-     "store": "Best Buy",
+     "store": "Amazon",
      "price": 39.99,
-     "url": "https://www.bestbuy.com/site/6680893.p?skuId=6680893"
+     "url": "https://www.amazon.com/dp/B0HSSW9382"
     },
     {
      "store": "GameStop",
      "price": 39.99,
      "url": "https://www.gamestop.com/products/rayman-legends-retold/447026.html"
+    },
+    {
+     "store": "Best Buy",
+     "price": 39.99,
+     "url": "https://www.bestbuy.com/site/6680893.p?skuId=6680893"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -6386,7 +6386,7 @@
    "release_date": "2026-12-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -6433,7 +6433,7 @@
      "url": "https://www.walmart.com/ip/20932402139"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "MY.GAMES",
    "digital": null,
@@ -6451,7 +6451,7 @@
    "release_date": "2026-11-26",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6489,7 +6489,7 @@
      "url": "https://www.walmart.com/ip/20764255615"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Silver Lining Interactive",
    "digital": {
@@ -6510,7 +6510,7 @@
    "release_date": "2026-11-25",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-25T17:30:44+00:00",
    "publisher": "Systemsoft beta",
    "digital": {
@@ -6552,7 +6552,7 @@
      "url": "https://www.walmart.com/ip/20071050463"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ NORDIC",
    "digital": null,
@@ -6576,7 +6576,7 @@
      "url": "https://www.amazon.com/dp/B0FV6WL9ZL"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nicalis",
    "digital": {
@@ -6596,7 +6596,7 @@
    "release_date": "2026-11-19",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -6644,7 +6644,7 @@
      "url": "https://www.walmart.com/ip/20925116681"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -6680,7 +6680,7 @@
      "url": "https://www.walmart.com/ip/21285952515"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "PQube",
    "digital": {
@@ -6722,7 +6722,7 @@
      "url": "https://www.target.com/p/-/A-1013451337"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SEGA",
    "digital": {
@@ -6743,7 +6743,7 @@
    "release_date": "2026-11-12",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Shochiku",
    "digital": {
@@ -6785,7 +6785,7 @@
      "url": "https://www.gamestop.com/products/metaphor-refantazio-steelbook-edition/451474.html"
     }
    ],
-   "offers_checked": "2026-11-27T00:35:12+00:00",
+   "offers_checked": "2026-11-27T06:37:15+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -11397,6 +11397,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t838d2f88714",
+   "title": "DeWALT 15A Corded 12\" Compound Single Bevel Miter Saw & Heavy-Duty Work Stand $369 + Free S&H",
+   "price": 77.0,
+   "old_price": 155.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20407125-369-home-depot-dewalt-15-amp-corded-12-in-compound-single-bevel-miter-saw-and-heavy-duty-work-stand?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22615494.thumb",
+   "posted": "2026-11-27T06:36:47+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T06:39:05+00:00",
+   "real_price": 77.0,
+   "real_old": 155.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20407125&pno=1375974&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=3d943d40ea2d11f1ab70ba663e7a2d64&au=633c3df8c0f94c5893f8ec4c81339258&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td1af9b46455",
    "title": "32\" Alienware AW3226Q 4K 165Hz OLED Monitor $550 + Free S&H",
    "price": 549.99,
@@ -11448,6 +11466,27 @@
    "checked_at": "2026-11-27T06:14:31+00:00",
    "real_price": 149.0,
    "real_old": 249.0
+  },
+  {
+   "id": "tf20e7d90f3c",
+   "title": "Woot!- Gobble Up Milwaukee!  Extra 20% off!",
+   "price": null,
+   "old_price": null,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20412042-woot-gobble-up-milwaukee-extra-20-off?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22626669.thumb",
+   "posted": "2026-11-27T06:03:56+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": "Extra 20% Off",
+   "checked_at": "2026-11-27T06:39:07+00:00",
+   "real_price": 56.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&tid=20412042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3eb2e442ea2d11f1abbfcec1898c45cf&au=179dd94a08774dfe80fd865438ef0af7&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tee26eea8f4c",
@@ -13640,8 +13679,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6f5e366aea2c11f190d46e6522384b61&au=504efbda148340d9b233b69b2db8b20a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:33:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ffb140aea2d11f1a2c016186c12ece4&au=b4e8365e9a30474a80254e5e08b34c87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T06:39:09+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -14510,6 +14549,9 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "code": "6ND8B35D",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -15338,6 +15380,27 @@
    "real_old": 49.98
   },
   {
+   "id": "t3013158cb40",
+   "title": "LISEN 136W 3-Port USB-C Car Charger w/ PD3.2 $13.49 + Free Shipping w/ Prime or on $35+",
+   "price": 13.49,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20406441-lisen-136w-3-port-usb-c-car-charger-w-pd3-2-13-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22614009.thumb",
+   "posted": "2026-11-26T16:49:47+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "9QWMEBVB",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T06:39:11+00:00",
+   "real_price": 13.49,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406441&tid=20406441&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=411a18feea2d11f1b9b0dace3db5b6ef&au=7968813f329841de9d2dbb62711ff8e1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t0eb1e896c4f",
    "title": "[Prime] Omnibar 67W GaN 2-Port USB-C Wall Charger w/ Retractable Cable $8.92 + Free Shipping",
    "price": 8.92,
@@ -15771,66 +15834,30 @@
    "checked_at": "2026-11-26T16:17:20+00:00",
    "real_price": 399.99,
    "real_old": 499.0
-  },
-  {
-   "id": "t3e1ed6bc99f",
-   "title": "Asus XG32UQWMS 32\" 4K 240Hz/1080p 480Hz Tandem WOLED Gaming Monitor $699.99",
-   "price": 699.99,
-   "old_price": 899.99,
-   "store": "Newegg",
-   "url": "https://slickdeals.net/f/20405700-asus-xg32uqwms-32-4k-240hz-1080p-480hz-tandem-woled-gaming-monitor-699-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22612275.thumb",
-   "posted": "2026-11-26T15:58:54+00:00",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "prio": 4,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20405700&tid=20405700&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=deda67d2e9bb11f1a2a65e2324a64fc5&au=9879fede54b34d17b0ccfbef6429c7c6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:07:33+00:00",
-   "real_price": 699.99,
-   "real_old": 899.99
-  },
-  {
-   "id": "t61152d37e3c",
-   "title": "Milwaukee 2521-20 M12 FUEL 5-3/8” Circular Saw $106.99",
-   "price": 106.99,
-   "old_price": 179.0,
-   "store": "Way Source",
-   "url": "https://slickdeals.net/f/20405688-milwaukee-2521-20-m12-fuel-5-3-8-circular-saw-106-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612227.thumb",
-   "posted": "2026-11-26T15:57:58+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405688&tid=20405688&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f54eca6e9cf11f193844e0165d82a69&au=751693b7b4f7433eba4f79fe56c345a3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:25:49+00:00",
-   "real_price": 106.99,
-   "real_old": 179.0
-  },
-  {
-   "id": "t9604f010d97",
-   "title": "2-Pack tiloqua USB-C Wired Earbuds w/ Microphone (White) $5.69 + Free Shipping w/ Prime or on $35+",
-   "price": 5.69,
-   "old_price": 13.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20405679-2-pack-tiloqua-usb-c-wired-earbuds-w-microphone-white-5-69-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22611873.thumb",
-   "posted": "2026-11-26T15:57:38+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "1TVKESV9",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405679&tid=20405679&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=f47843feea1311f1a5c4b2e591534d57&au=90d1b3c8722a4295b230dfc7c5fb26da&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T03:38:05+00:00",
-   "real_price": 5.69,
-   "real_old": 13.99
   }
  ],
  "tech": [
+  {
+   "id": "tf20e7d90f3c",
+   "title": "Woot!- Gobble Up Milwaukee! Extra 20% off!",
+   "price": null,
+   "old_price": null,
+   "store": "Woot!",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&tid=20412042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3eb2e442ea2d11f1abbfcec1898c45cf&au=179dd94a08774dfe80fd865438ef0af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&tid=20412042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3eb2e442ea2d11f1abbfcec1898c45cf&au=179dd94a08774dfe80fd865438ef0af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22626669.thumb",
+   "posted": "2026-11-27T06:03:56+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": "Extra 20% Off",
+   "offers": []
+  },
   {
    "id": "tee26eea8f4c",
    "title": "14\" Apple MacBook Pro M6 Laptop 12-core CPU & 12-core GPU - 16GB Memory 1TB SSD",
@@ -17379,8 +17406,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6f5e366aea2c11f190d46e6522384b61&au=504efbda148340d9b233b69b2db8b20a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6f5e366aea2c11f190d46e6522384b61&au=504efbda148340d9b233b69b2db8b20a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ffb140aea2d11f1a2c016186c12ece4&au=b4e8365e9a30474a80254e5e08b34c87&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ffb140aea2d11f1a2c016186c12ece4&au=b4e8365e9a30474a80254e5e08b34c87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17396,7 +17423,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6f5e366aea2c11f190d46e6522384b61&au=504efbda148340d9b233b69b2db8b20a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3ffb140aea2d11f1a2c016186c12ece4&au=b4e8365e9a30474a80254e5e08b34c87&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18058,7 +18085,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "6ND8B35D",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18712,6 +18739,33 @@
    ]
   },
   {
+   "id": "t3013158cb40",
+   "title": "LISEN 136W 3-Port USB-C Car Charger",
+   "price": 13.49,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406441&tid=20406441&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=411a18feea2d11f1b9b0dace3db5b6ef&au=7968813f329841de9d2dbb62711ff8e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406441&tid=20406441&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=411a18feea2d11f1b9b0dace3db5b6ef&au=7968813f329841de9d2dbb62711ff8e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22614009.thumb",
+   "posted": "2026-11-26T16:49:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "9QWMEBVB",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 13.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406441&tid=20406441&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=411a18feea2d11f1b9b0dace3db5b6ef&au=7968813f329841de9d2dbb62711ff8e1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t0eb1e896c4f",
    "title": "[Prime] Omnibar 67W GaN 2-Port USB-C Wall Charger",
    "price": 8.92,
@@ -18974,61 +19028,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405679&tid=20405679&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=f47843feea1311f1a5c4b2e591534d57&au=90d1b3c8722a4295b230dfc7c5fb26da&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tfa509c08a82",
-   "title": "128GB Apple iPad A16 Chip 11\" Wi-Fi Tablet (Early 2025) + Free S&H",
-   "price": 379.0,
-   "old_price": 448.96,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=71bf6ffaea2c11f1ae3e6afa1dd6288e&au=ac2fe5821f844de2a1bf3b70da628e05&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=71bf6ffaea2c11f1ae3e6afa1dd6288e&au=ac2fe5821f844de2a1bf3b70da628e05&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22612119.thumb",
-   "posted": "2026-11-26T15:54:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 379.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=71bf6ffaea2c11f1ae3e6afa1dd6288e&au=ac2fe5821f844de2a1bf3b70da628e05&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td7f45377f75",
-   "title": "Lenovo Legion M410 Wireless RGB Gaming Mouse (Medium, Right Handed)",
-   "price": 29.99,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=72f10b22ea2c11f1b16226dc1357c482&au=926a53df2cd54799a841204759ba34ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=72f10b22ea2c11f1b16226dc1357c482&au=926a53df2cd54799a841204759ba34ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/6/0/8/8/1/4/300x300/22611888.thumb",
-   "posted": "2026-11-26T15:46:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 29.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403909&pno=1375041&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=72f10b22ea2c11f1b16226dc1357c482&au=926a53df2cd54799a841204759ba34ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T06:34:09+00:00"
+ "updated": "2026-11-27T06:39:59+00:00"
 }
