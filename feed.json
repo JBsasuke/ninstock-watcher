@@ -130,7 +130,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dca57c68ea4711f19fda328862b5a43b&au=61fb7b106426495b8c935ffb79a8e2da&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:49:39+00:00",
+   "checked_at": "2026-11-27T11:50:54+00:00",
    "real_price": 359.2,
    "real_old": null,
    "category_ok": true
@@ -11334,6 +11334,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t78ae42452b3",
+   "title": "Costco Members: Bosch 300 Series VeroCafe Fully Automatic Espresso Machine $300 + Free S&H",
+   "price": 299.97,
+   "old_price": 600.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20408976-bosch-300-series-fully-automatic-espresso-and-coffee-machine-dark-silver-299-97?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/2/7/8/1/1/300x300/22635144.thumb",
+   "posted": "2026-11-27T11:49:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T11:51:46+00:00",
+   "real_price": 299.97,
+   "real_old": 600.0
+  },
+  {
    "id": "tff5a5254921",
    "title": "Ryobi ONE+ 18V Lithium Kit w/ 2 Ah Battery & Charger + 18V Reciprocating Saw $49.90 + Free S&H",
    "price": 49.88,
@@ -11440,8 +11457,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=490303caea5811f1b3bce618784d75d5&au=cd6ad8bdf6464f94b2062d0e7d6d3ec2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:47:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ed491b9aea5811f1852d328862b5a43b&au=2df4c0a6894a4b7c9b31c7f55a0fbb39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:51:48+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11482,6 +11499,27 @@
    "real_old": 2999.99
   },
   {
+   "id": "tf78e7850753",
+   "title": "6-Pack Magnetic Spice Rack Organizer Set for Refrigerator w/ Paper Towel Holder & Utensil Caddy (Black) $11.99 + Free Shipping w/ Prime or $6 Fee per Order",
+   "price": 11.99,
+   "old_price": 25.99,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20414607-6-pack-magnetic-spice-rack-organizer-set-for-refrigerator-w-paper-towel-holder-utensil-caddy-black-11-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22633419.thumb",
+   "posted": "2026-11-27T10:09:16+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T11:51:50+00:00",
+   "real_price": 11.99,
+   "real_old": 25.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20414607&tid=20414607&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ee702392ea5811f1a137928091f9879e&au=fc6e43654845434192479ca6f3274733&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3a39b02d670",
    "title": "Samsung Galaxy Z Fold8 5G Unlocked Foldable Smartphone (Various Colors) 256GB $1499, 512GB $1649.99 + Free Shipping",
    "price": 1499.99,
@@ -11494,10 +11532,10 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414589&tid=20414589&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=4a485320ea5811f1bdcb9ec155be9508&au=5c3081ee17c742d0b7f476078d9a310a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T11:47:15+00:00",
    "real_price": 1499.99,
-   "real_old": 2099.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414589&tid=20414589&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=4a485320ea5811f1bdcb9ec155be9508&au=5c3081ee17c742d0b7f476078d9a310a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2099.99
   },
   {
    "id": "t7d461f5ba39",
@@ -13371,8 +13409,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b7fbb48ea5811f1865e1695b8741621&au=a74d202c8d744c67b78e9b70960c7596&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:47:17+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efbdb73cea5811f1b4b59ec155be9508&au=3d5fa7c76d31491bb07a79ff6b43ce39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:51:53+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15143,8 +15181,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ceea6e2ea5811f1bd14fe03e74505d0&au=e2d61aa0124c45df84d866a04eed540e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:47:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f10c63aeea5811f1881526dc1357c482&au=035cef9a58754ede94b087fdb8da00a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:51:55+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15724,45 +15762,6 @@
    "checked_at": "2026-11-27T05:32:47+00:00",
    "real_price": 98.0,
    "real_old": 199.0
-  },
-  {
-   "id": "t4b1098025b1",
-   "title": "84-Ct Finish Dishwasher Pods (Free & Clear) $14.20 w/ S&S",
-   "price": 14.19,
-   "old_price": 22.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20389815-sns-14-19-or-12-70-84-count-finish-dishwasher-pods-free-clear-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22571667.thumb",
-   "posted": "2026-11-26T19:47:03+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389815&pno=1375317&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=65588dd2e9d211f1ac5dfef9b82f8bda&au=70e835f5176347f3b51c04492d9d562f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:48:48+00:00",
-   "real_price": 14.19,
-   "real_old": 22.99
-  },
-  {
-   "id": "taa1e002115d",
-   "title": "Woot! New Customers: Thermaltake LCGS Versa i570S Gaming Desktop $1649 + Free S&H w/ Prime",
-   "price": 1648.99,
-   "old_price": 2199.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20395431-woot-new-customers-thermaltake-lcgs-versa-i570s-i9-14900kf-rtx-5070-32gb-ddr5-1tb-ssd-1648-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22586073.thumb",
-   "posted": "2026-11-26T19:45:57+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "BESTOFPC",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20395431&pno=1375314&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=667fa182e9d211f19f6d5acd8b018c30&au=c436c01b86ac4472a297248307b27ddf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:48:50+00:00",
-   "real_price": 1648.99,
-   "real_old": 2199.99
   }
  ],
  "tech": [
@@ -17386,8 +17385,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b7fbb48ea5811f1865e1695b8741621&au=a74d202c8d744c67b78e9b70960c7596&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b7fbb48ea5811f1865e1695b8741621&au=a74d202c8d744c67b78e9b70960c7596&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efbdb73cea5811f1b4b59ec155be9508&au=3d5fa7c76d31491bb07a79ff6b43ce39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efbdb73cea5811f1b4b59ec155be9508&au=3d5fa7c76d31491bb07a79ff6b43ce39&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17403,7 +17402,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4b7fbb48ea5811f1865e1695b8741621&au=a74d202c8d744c67b78e9b70960c7596&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efbdb73cea5811f1b4b59ec155be9508&au=3d5fa7c76d31491bb07a79ff6b43ce39&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18577,8 +18576,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ceea6e2ea5811f1bd14fe03e74505d0&au=e2d61aa0124c45df84d866a04eed540e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ceea6e2ea5811f1bd14fe03e74505d0&au=e2d61aa0124c45df84d866a04eed540e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f10c63aeea5811f1881526dc1357c482&au=035cef9a58754ede94b087fdb8da00a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f10c63aeea5811f1881526dc1357c482&au=035cef9a58754ede94b087fdb8da00a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18594,7 +18593,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ceea6e2ea5811f1bd14fe03e74505d0&au=e2d61aa0124c45df84d866a04eed540e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f10c63aeea5811f1881526dc1357c482&au=035cef9a58754ede94b087fdb8da00a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18977,5 +18976,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T11:48:07+00:00"
+ "updated": "2026-11-27T11:52:43+00:00"
 }
