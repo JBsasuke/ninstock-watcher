@@ -231,7 +231,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T14:37:33+00:00",
+   "checked_at": "2026-11-27T16:40:13+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -755,7 +755,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=161362c6ea7011f184088a7788591d52&au=b2e77ae6dd6443109550cfeff3606c19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T14:37:36+00:00",
+   "checked_at": "2026-11-27T16:40:15+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -1028,7 +1028,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T10:36:53+00:00",
+   "checked_at": "2026-11-27T16:40:11+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -11392,6 +11392,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tf2961bc8229",
+   "title": "256GB SanDisk USB-C Flash Drive + 32GB SanDisk Cruzer Blade USB 2.0 Flash Drive $36 or Less + Free S&H",
+   "price": 35.99,
+   "old_price": 53.99,
+   "store": "SanDisk",
+   "url": "https://slickdeals.net/f/20403705-sandisk-usb-c-flash-drive-256gb-as-low-as-32-39-fs-2-options?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/7/0/1/9/4/300x300/22607568.thumb",
+   "posted": "2026-11-27T16:38:48+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T16:41:11+00:00",
+   "real_price": 35.99,
+   "real_old": 53.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20403705&pno=1376310&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a05d49eea8111f1a10cdad31ee91f70&au=4e68dc17e7d643d0bdb681d47a4647cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb0c8c69556f",
    "title": "Baseus 15W Qi2 Certified 10000mAh MagSafe Power Bank w/ 22.5W PD Wired Charging $19.80 & More",
    "price": 19.79,
@@ -11407,10 +11425,10 @@
    "code": "O0BEGB2B",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:36:26+00:00",
    "real_price": 19.79,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "t0b6fe4d53a4",
@@ -11465,6 +11483,24 @@
    "checked_at": "2026-11-27T16:07:47+00:00",
    "real_price": 39.7,
    "real_old": 59.99
+  },
+  {
+   "id": "td012211a54d",
+   "title": "Sennheiser Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Black/Copper $149.95",
+   "price": 149.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20417835-sennheiser-momentum-4-wireless-headphones-anc-60-hr-battery-black-copper-149-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641504.thumb",
+   "posted": "2026-11-27T15:58:25+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-27T16:41:13+00:00",
+   "real_price": 149.95,
+   "real_old": 199.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t5a532cf852b",
@@ -11607,10 +11643,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417169&tid=20417169&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b1b61ad8ea8011f194d9de34379cf1b9&au=6d80114e68c5498cb14071aae6873b81&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:36:28+00:00",
    "real_price": 339.26,
-   "real_old": 629.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417169&tid=20417169&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b1b61ad8ea8011f194d9de34379cf1b9&au=6d80114e68c5498cb14071aae6873b81&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 629.99
   },
   {
    "id": "t1d944856939",
@@ -11702,8 +11738,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b2cdd1aeea8011f190bd2a97915d1529&au=682cf65e8358483eb615920283d17412&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:36:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=5c957df4ea8111f19aa002721794e9e4&au=9df87a40a65a42158f11cff704d63aee&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:41:15+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11901,8 +11937,8 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:36:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5de2fef2ea8111f19c65326714ce7cc1&au=154a403a491c4421a4fae3635dcce420&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:41:17+00:00",
    "real_price": 4.5,
    "real_old": 14.99
   },
@@ -12382,8 +12418,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b577acb8ea8011f197832a97915d1529&au=c85bec7368144360ab777de39a4007ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:36:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=5f1f6436ea8111f1b81d9e7828d34db6&au=066ba2fd2f224f0594bda1ac54c904fb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:41:19+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12535,6 +12571,27 @@
    "real_old": 399.0
   },
   {
+   "id": "tea3a3610d6c",
+   "title": "Kohl's:10% Off Coupon: Eligble for Kitchenaid, Ninja, & Shark Items & More + Free Shipping $25+",
+   "price": 57.0,
+   "old_price": null,
+   "store": "Kohl's",
+   "url": "https://slickdeals.net/f/20414448-kohl-s-10-off-coupon-eligble-for-kitchenaid-ninja-shark-items-more-free-shipping-25?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22632993.thumb",
+   "posted": "2026-11-27T09:41:06+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "10HOME",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T16:41:21+00:00",
+   "real_price": 57.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20414448&tid=20414448&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=603a367aea8111f1add49ac297368a5a&au=45e888132a4f4740bb3e4ae41ca7276e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t201653c3171",
    "title": "10-Pk 1KG UJOY3D PETG 1.75mm 3D Printer Filament (various) $61 + Free S&H",
    "price": 61.0,
@@ -12644,6 +12701,24 @@
    "checked_at": "2026-11-27T14:38:38+00:00",
    "real_price": 149.0,
    "real_old": 228.97
+  },
+  {
+   "id": "t7ec45007ca0",
+   "title": "Samsung 34\" ViewFinity S65TC 3440x1440 UWQHD 1000R Curved VA Monitor w/ Thunderbolt 4 & 100Hz $441.73 + Free Shipping",
+   "price": 441.73,
+   "old_price": 799.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414166-samsung-34-viewfinity-s65tc-3440x1440-uwqhd-1000r-curved-va-monitor-w-thunderbolt-4-100hz-441-73-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22632150.thumb",
+   "posted": "2026-11-27T08:59:18+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-27T16:41:23+00:00",
+   "real_price": 441.73,
+   "real_old": 799.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc649430fb7b",
@@ -12966,6 +13041,24 @@
    "checked_at": "2026-11-27T15:11:29+00:00",
    "real_price": 78.48,
    "real_old": 154.99
+  },
+  {
+   "id": "ta6085b2999f",
+   "title": "$79, Lowe's, Kobalt 24-volt Max Brushless Cordless Drill/Driver and Impact Driver 2-Tool Combo Kit with 2 Ah Battery and Charger",
+   "price": 79.0,
+   "old_price": 139.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20413689-79-lowe-s-kobalt-24-volt-max-brushless-cordless-drill-driver-and-impact-driver-2-tool-combo-kit-with-2-ah-battery-and-charger?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22630473.thumb",
+   "posted": "2026-11-27T08:22:29+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T16:41:25+00:00",
+   "real_price": 79.0,
+   "real_old": 139.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20413689&tid=20413689&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=62a63396ea8111f1b15b427d52af9fe3&au=59a3012e96b346a5bfaf764c44ac715b&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0dec6d37e4d",
@@ -15555,8 +15648,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:36:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d4133cea8111f19f1202721794e9e4&au=270cceee2b734d24af16d14cb9c455db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T16:41:27+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15755,102 +15848,36 @@
    "checked_at": "2026-11-27T04:23:10+00:00",
    "real_price": 49.98,
    "real_old": 149.0
-  },
-  {
-   "id": "tfaba0dba9c3",
-   "title": "8-Inch Lodge Pre-Seasoned Cast Iron Round Grill Press $15.99",
-   "price": 15.99,
-   "old_price": 19.9,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20410752-8-inch-lodge-pre-seasoned-cast-iron-round-grill-press-15-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22623774.thumb",
-   "posted": "2026-11-27T02:42:53+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410752&tid=20410752&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=19bd2f08ea1e11f184d8beaed212ecc4&au=ee38490535cb40ff88023ee7c5ac47cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T04:50:43+00:00",
-   "real_price": 15.99,
-   "real_old": 19.9
-  },
-  {
-   "id": "t04adb91b5ba",
-   "title": "Prime: BOSGAME E5 Mini PC: Ryzen 3 5400U, 8GB DDR4, 256GB SSD, Win 11 Pro $190 + Free S&H",
-   "price": 189.99,
-   "old_price": 339.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20408442-bosgame-e5-11-pro-mini-pc-amd-ryzen-5400u-4c-8t-8gb-ddr4-256gb-m-2-2280-ssd-2-5-gbe-dual-lan-189-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/2/9/1/5/7/6/300x300/22618848.thumb",
-   "posted": "2026-11-27T02:40:58+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&pno=1375755&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9d62dd2eea0c11f19eeb5e7d453500a5&au=e69cc61e0a964eadad198dbfea191e23&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T02:45:33+00:00",
-   "real_price": 189.99,
-   "real_old": 339.99
-  },
-  {
-   "id": "tcd03b712ea6",
-   "title": "20TB Seagate Expansion Desktop Hard Drive $450 + Free S&H",
-   "price": 449.99,
-   "old_price": 629.99,
-   "store": "Seagate.com",
-   "url": "https://slickdeals.net/f/20409210-seagate-20tb-expansion-desktop-hard-drive?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22623654.thumb",
-   "posted": "2026-11-27T02:31:27+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&pno=1375737&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8716842cea0b11f1a97ac205d635bffe&au=7563c39083a04e22af24b5db305455d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T02:37:46+00:00",
-   "real_price": 449.99,
-   "real_old": 629.99
-  },
-  {
-   "id": "t49b19863504",
-   "title": "20TB Seagate Expansion Desktop Hard Drive $450 + Free S&H",
-   "price": 449.99,
-   "old_price": 629.99,
-   "store": "Seagate.com",
-   "url": "https://slickdeals.net/f/20409210-seagate-20tb-expansion-desktop-hard-drive-449-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22623654.thumb",
-   "posted": "2026-11-27T02:31:27+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&pno=1375737&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08d2d7e8ea4a11f1bf1b9a83e72c0ba0&au=cb94ca60afd84ba6a717f7756c5cda08&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:05:12+00:00",
-   "real_price": 449.99,
-   "real_old": 629.99
-  },
-  {
-   "id": "t12c8c9ac5bd",
-   "title": "48-Ct Gihen Washing Machine Cleaner Tablets w/ Descaler & Odor Remover $9",
-   "price": 8.99,
-   "old_price": 34.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20378634-48-count-gihen-washing-machine-cleaner-tablets-w-descaler-odor-remover-8-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22543467.thumb",
-   "posted": "2026-11-27T02:29:33+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "code": "BRTROOA9",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378634&pno=1375743&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b524a548ea0a11f1abe8fe5c251010db&au=77649da9f5ac42a38b9d7d5d2ac9b65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T02:31:53+00:00",
-   "real_price": 8.99,
-   "real_old": 34.99
   }
  ],
  "tech": [
+  {
+   "id": "tf2961bc8229",
+   "title": "256GB SanDisk USB-C Flash Drive + 32GB SanDisk Cruzer Blade USB 2.0 Flash Drive or Less + Free S&H",
+   "price": 35.99,
+   "old_price": 53.99,
+   "store": "SanDisk",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20403705&pno=1376310&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a05d49eea8111f1a10cdad31ee91f70&au=4e68dc17e7d643d0bdb681d47a4647cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20403705&pno=1376310&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a05d49eea8111f1a10cdad31ee91f70&au=4e68dc17e7d643d0bdb681d47a4647cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/7/7/0/1/9/4/300x300/22607568.thumb",
+   "posted": "2026-11-27T16:38:48+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "SanDisk",
+     "price": 35.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20403705&pno=1376310&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a05d49eea8111f1a10cdad31ee91f70&au=4e68dc17e7d643d0bdb681d47a4647cb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tb0c8c69556f",
    "title": "Baseus 15W Qi2 Certified 10000mAh MagSafe Power Bank",
@@ -15956,6 +15983,33 @@
      "store": "Amazon",
      "price": 39.7,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&pno=1376286&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=af95066eea7c11f181b67e3e8852a1ac&au=f524cfa39d9b474197c8f68f3bbbc71d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "td012211a54d",
+   "title": "Sennheiser Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Black/Copper",
+   "price": 149.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641504.thumb",
+   "posted": "2026-11-27T15:58:25+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 149.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16343,8 +16397,8 @@
    "price": 4.5,
    "old_price": 14.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5de2fef2ea8111f19c65326714ce7cc1&au=154a403a491c4421a4fae3635dcce420&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5de2fef2ea8111f19c65326714ce7cc1&au=154a403a491c4421a4fae3635dcce420&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22636758.thumb",
    "posted": "2026-11-27T13:19:38+00:00",
    "kind": "tech",
@@ -16360,7 +16414,7 @@
     {
      "store": "Amazon",
      "price": 4.5,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b4084e1eea8011f1b5b112075284f408&au=e978cc1b275647f784e88420f89ff09e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5de2fef2ea8111f19c65326714ce7cc1&au=154a403a491c4421a4fae3635dcce420&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16955,6 +17009,33 @@
      "store": "Amazon",
      "price": 499.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414250&tid=20414250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a88d20baea4811f1935e7211240c6717&au=cf4b8e8965ea4dabbdb72f4ed9d9c4c3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t7ec45007ca0",
+   "title": "Samsung 34\" ViewFinity S65TC 3440x1440 UWQHD 1000R Curved VA Monitor",
+   "price": 441.73,
+   "old_price": 799.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22632150.thumb",
+   "posted": "2026-11-27T08:59:18+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 441.73,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414166&tid=20414166&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=6190cb2eea8111f18aac6eac3c4a12b1&au=b7c20e72e8b8419cafcf4a052f0100af&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18875,8 +18956,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d4133cea8111f19f1202721794e9e4&au=270cceee2b734d24af16d14cb9c455db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d4133cea8111f19f1202721794e9e4&au=270cceee2b734d24af16d14cb9c455db&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18892,7 +18973,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b6d60514ea8011f1bb3a326714ce7cc1&au=1bb01ec2b5f546098267bf9de20cb92a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=63d4133cea8111f19f1202721794e9e4&au=270cceee2b734d24af16d14cb9c455db&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19003,88 +19084,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&pno=1375755&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9d62dd2eea0c11f19eeb5e7d453500a5&au=e69cc61e0a964eadad198dbfea191e23&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tcd03b712ea6",
-   "title": "20TB Seagate Expansion Desktop Hard Drive + Free S&H",
-   "price": 449.99,
-   "old_price": 629.99,
-   "store": "Seagate.com",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&pno=1375737&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8716842cea0b11f1a97ac205d635bffe&au=7563c39083a04e22af24b5db305455d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&pno=1375737&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8716842cea0b11f1a97ac205d635bffe&au=7563c39083a04e22af24b5db305455d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22623654.thumb",
-   "posted": "2026-11-27T02:31:27+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Seagate.com",
-     "price": 449.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Seagate.com&sdtid=20409210&pno=1375737&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8716842cea0b11f1a97ac205d635bffe&au=7563c39083a04e22af24b5db305455d8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t12c8c9ac5bd",
-   "title": "48-Ct Gihen Washing Machine Cleaner Tablets",
-   "price": 8.99,
-   "old_price": 34.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378634&pno=1375743&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b524a548ea0a11f1abe8fe5c251010db&au=77649da9f5ac42a38b9d7d5d2ac9b65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378634&pno=1375743&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b524a548ea0a11f1abe8fe5c251010db&au=77649da9f5ac42a38b9d7d5d2ac9b65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22543467.thumb",
-   "posted": "2026-11-27T02:29:33+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": "BRTROOA9",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 8.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378634&pno=1375743&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b524a548ea0a11f1abe8fe5c251010db&au=77649da9f5ac42a38b9d7d5d2ac9b65e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t7fdf660af08",
-   "title": "EPP/EDU: 32\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor + CoD Mod Warfare 4 + Free S&H",
-   "price": 599.99,
-   "old_price": 1299.99,
-   "store": "Samsung",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22602753.thumb",
-   "posted": "2026-11-27T01:55:36+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Samsung",
-     "price": 599.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20401968&pno=1375695&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b88f898eea8011f19b9dc2641e697747&au=62fb9fa2cf43489b8174295d8bcda4fe&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T16:37:23+00:00"
+ "updated": "2026-11-27T16:42:05+00:00"
 }
