@@ -504,7 +504,7 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T01:30:27+00:00",
+   "checked_at": "2026-11-27T07:33:43+00:00",
    "real_price": 30.0,
    "real_old": 69.0,
    "category_ok": true
@@ -10769,6 +10769,18 @@
  ],
  "news": [
   {
+   "id": "e3b397072752",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Tetris® 99 – 58th MAXIMUS CUP Gameplay Trailer – Nintendo Switch",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=Pn0MuiE7YDQ",
+   "image": "https://i.ytimg.com/vi/Pn0MuiE7YDQ/hqdefault.jpg",
+   "posted": "2026-11-27T07:35:42+00:00"
+  },
+  {
    "id": "806c1e8f714b",
    "date_ok": false,
    "seeded": true,
@@ -10982,18 +10994,6 @@
    "source": "Pokémon",
    "url": "https://www.youtube.com/watch?v=9dhiS9RIcwo",
    "image": "https://i.ytimg.com/vi/9dhiS9RIcwo/hqdefault.jpg",
-   "posted": "2026-11-27T07:01:37+00:00"
-  },
-  {
-   "id": "8f0872bf7176",
-   "date_ok": false,
-   "seeded": true,
-   "title": "Get Ready to Rock with the Pokémon Center and Fender® collaboration 🎸",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=V-3rFlntfUU",
-   "image": "https://i.ytimg.com/vi/V-3rFlntfUU/hqdefault.jpg",
    "posted": "2026-11-27T07:01:37+00:00"
   },
   {
@@ -11386,10 +11386,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409795&pno=1376013&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=5027e0c2ea3411f18b91badf9ca933a0&au=e5181d06b193496cb55f03b575bd18c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T07:29:43+00:00",
    "real_price": 399.0,
-   "real_old": 648.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20409795&pno=1376013&prop=diavail-true%7Cdincp-1%7Cdinpd-9%7Cdipgavail-true&pv=5027e0c2ea3411f18b91badf9ca933a0&au=e5181d06b193496cb55f03b575bd18c2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 648.97
   },
   {
    "id": "t7a4c3bf6d21",
@@ -11682,6 +11682,24 @@
    "checked_at": "2026-11-27T05:51:02+00:00",
    "real_price": 1299.99,
    "real_old": 1699.99
+  },
+  {
+   "id": "tb767b5bc07b",
+   "title": "8\" Wen 5-Speed Cast Iron Benchtop Drill Press (4206T) $79.76 + Free Shipping",
+   "price": 79.76,
+   "old_price": 123.76,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20411793-8-wen-5-speed-cast-iron-benchtop-drill-press-4206t-79-76-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/5/9/4/1/5/9/300x300/22625976.thumb",
+   "posted": "2026-11-27T05:37:42+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T07:34:38+00:00",
+   "real_price": 79.76,
+   "real_old": 123.76,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411793&tid=20411793&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=fff7ed76ea3411f1848fcec1898c45cf&au=0737eeaf9f884bb8b039c44b20066011&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6e90193fe8c",
@@ -13220,6 +13238,24 @@
    "real_old": 1499.0
   },
   {
+   "id": "te20380f9c33",
+   "title": "MicroCenter In-Store: Legion 7 Pro 16\" QHD+ 240Hz OLED, Ryzen 9 9955HX3D, RTX 5080, 64GB DDR5, 2TB SSD $3400",
+   "price": 3400.0,
+   "old_price": 4000.0,
+   "store": "Micro Center",
+   "url": "https://slickdeals.net/f/20409651-microcenter-in-store-legion-7-pro-16-qhd-240hz-oled-ryzen-9-9955hx3d-rtx-5080-64gb-ddr5-2tb-ssd-3400?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/1/3/5/7/1/9/300x300/22621866.thumb",
+   "posted": "2026-11-26T23:41:26+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T07:34:40+00:00",
+   "real_price": 3400.0,
+   "real_old": 4000.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20409651&tid=20409651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=012366bcea3511f19b35badf9ca933a0&au=5837972d43ba458caff359fc27ca73af&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc738416556a",
    "title": "2-Pk Milwaukee Fastback 6-in-1 Folding Utility Knives $19.95 + Free S&H",
    "price": 19.97,
@@ -13802,8 +13838,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=515629ccea3411f1b5a7ba566ef4559a&au=438b726adde1426bb85d62305b3f08f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T07:29:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0285b9a6ea3511f1b2d97a71d27c16b5&au=447be8c392104d24a37805406260d80b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T07:34:42+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15765,45 +15801,6 @@
    "checked_at": "2026-11-26T16:17:18+00:00",
    "real_price": 999.99,
    "real_old": 1699.99
-  },
-  {
-   "id": "t07b1f5ee75d",
-   "title": "2-Bay UGREEN DXP2800 GT NAS $350 & More + Free S&H",
-   "price": 349.99,
-   "old_price": 509.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20337477-2-bay-ugreen-dxp2800-gt-nas-350-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22613073.thumb",
-   "posted": "2026-11-26T16:08:47+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20337477&pno=1375101&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f0bd2cce9b511f1af1d66359df0a70f&au=855db51d79454ebcb426b5db150a6749&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:20:35+00:00",
-   "real_price": 349.99,
-   "real_old": 509.99
-  },
-  {
-   "id": "t90438414567",
-   "title": "Samsung S90H 77\" OLED HDR 4K 165 Hz Smart TV (2026) $1518.39",
-   "price": 1518.39,
-   "old_price": 4299.95,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20405838-samsung-s90h-77-oled-hdr-4k-165-hz-smart-tv-2026-1518-39?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22612707.thumb",
-   "posted": "2026-11-26T16:07:57+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20405838&tid=20405838&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0f80deace9c111f1befe02e21f0bba24&au=7163b929c6dd4232a4c8e171a58f1951&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:44:42+00:00",
-   "real_price": 1518.39,
-   "real_old": 4299.95
   }
  ],
  "tech": [
@@ -17140,6 +17137,33 @@
    ]
   },
   {
+   "id": "te20380f9c33",
+   "title": "MicroCenter In-Store: Legion 7 Pro 16\" QHD+ 240Hz OLED, Ryzen 9 9955HX3D, RTX 5080, 64GB DDR5, 2TB SSD",
+   "price": 3400.0,
+   "old_price": 4000.0,
+   "store": "Micro Center",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20409651&tid=20409651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=012366bcea3511f19b35badf9ca933a0&au=5837972d43ba458caff359fc27ca73af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20409651&tid=20409651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=012366bcea3511f19b35badf9ca933a0&au=5837972d43ba458caff359fc27ca73af&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/1/3/5/7/1/9/300x300/22621866.thumb",
+   "posted": "2026-11-26T23:41:26+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Micro Center",
+     "price": 3400.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20409651&tid=20409651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=012366bcea3511f19b35badf9ca933a0&au=5837972d43ba458caff359fc27ca73af&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tfcd2cc32dba",
    "title": "MSI MPG A850GS 850W 80+ Gold ATX 3.1 Power Supply + Free S&H",
    "price": 68.99,
@@ -17538,8 +17562,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=515629ccea3411f1b5a7ba566ef4559a&au=438b726adde1426bb85d62305b3f08f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=515629ccea3411f1b5a7ba566ef4559a&au=438b726adde1426bb85d62305b3f08f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0285b9a6ea3511f1b2d97a71d27c16b5&au=447be8c392104d24a37805406260d80b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0285b9a6ea3511f1b2d97a71d27c16b5&au=447be8c392104d24a37805406260d80b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17555,7 +17579,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=515629ccea3411f1b5a7ba566ef4559a&au=438b726adde1426bb85d62305b3f08f3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0285b9a6ea3511f1b2d97a71d27c16b5&au=447be8c392104d24a37805406260d80b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18971,34 +18995,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377647&pno=1375119&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=488a2f5ae9b711f1b2369e150995b1dc&au=246963ff1d9b4d51b6813df7af2bb696&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6e49bd19fa7",
-   "title": "128GB Samsung Galaxy A16 5G SmartPhone + 1-yr Tracfone Svc (1500 Talk/Txt/Data) + Free S&H",
-   "price": 59.99,
-   "old_price": 79.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398716&pno=1375116&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=97e587f8e9b611f1995142dacabf1a1c&au=588f6c6079e2429bb677b5cde5096651&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398716&pno=1375116&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=97e587f8e9b611f1995142dacabf1a1c&au=588f6c6079e2429bb677b5cde5096651&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/5/8/0/5/5/7/9/300x300/22594551.thumb",
-   "posted": "2026-11-26T16:25:05+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 59.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20398716&pno=1375116&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=97e587f8e9b611f1995142dacabf1a1c&au=588f6c6079e2429bb677b5cde5096651&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T07:30:54+00:00"
+ "updated": "2026-11-27T07:35:51+00:00"
 }
