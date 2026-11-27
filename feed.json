@@ -1202,7 +1202,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:21:52+00:00",
+   "checked_at": "2026-11-27T15:24:51+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -1223,7 +1223,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T09:21:54+00:00",
+   "checked_at": "2026-11-27T15:24:53+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -11411,10 +11411,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&pno=1376022&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bed6032ea7611f19a5b26e4ce8b0a3a&au=95563861e0314329884259a97b1c9efb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:21:09+00:00",
    "real_price": 1949.0,
-   "real_old": 2199.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&pno=1376022&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2bed6032ea7611f19a5b26e4ce8b0a3a&au=95563861e0314329884259a97b1c9efb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2199.0
   },
   {
    "id": "t1d944856939",
@@ -11433,6 +11433,26 @@
    "checked_at": "2026-11-27T15:11:19+00:00",
    "real_price": 1190.07,
    "real_old": 1699.99
+  },
+  {
+   "id": "te849e8d1b5b",
+   "title": "HP OMEN MAX 45L Gaming Desktop - Ryzen 7 9700X, RX 9070 XT 16GB, 32GB DDR5 6000, 2TB NVMe $1899.99",
+   "price": 1899.99,
+   "old_price": 3999.99,
+   "store": "HP Small & Medium Business",
+   "url": "https://slickdeals.net/f/20417025-hp-omen-max-45l-gaming-desktop-ryzen-7-9700x-rx-9070-xt-16gb-32gb-ddr5-6000-2tb-nvme-1899-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22639518.thumb",
+   "posted": "2026-11-27T15:01:53+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "FEAST100",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T15:25:48+00:00",
+   "real_price": 1899.99,
+   "real_old": 3999.99
   },
   {
    "id": "t5ef7e66268b",
@@ -11465,8 +11485,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=2d11851aea7611f18ba7e2f2a0cf6e88&au=cdd88a288cd54cdaa9e9e16e089b7de9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:21:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d373515eea7611f1b5c07631a2ced2a7&au=8e930c1e24c742ec8a3e687b477c180f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:25:50+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12073,8 +12093,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=2e383e20ea7611f1a702daeac3707ed4&au=57653c5044dc47269977f34e6e7e1450&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:21:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d4c8afc2ea7611f184607631a2ced2a7&au=f7386280082e4d4fa7602b8c452f25a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:25:52+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12349,6 +12369,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -15113,8 +15136,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2fc9678cea7611f19a2ae2f2a0cf6e88&au=40289a5f7c854cc69d14806c814cfe02&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:21:15+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5fb2cf8ea7611f18e1096ec4086db76&au=967927f6f7d04ecb896456fd5170b428&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T15:25:54+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15820,24 +15843,6 @@
    "checked_at": "2026-11-27T00:58:45+00:00",
    "real_price": 99.0,
    "real_old": 202.94
-  },
-  {
-   "id": "t82190a56a4a",
-   "title": "Keychron Q2 65% Wired Custom Mechanical Keyboard w/ Knob (Gateron G Pro Red) $71.99 - Amazon",
-   "price": 71.99,
-   "old_price": 79.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20410053-keychron-q2-65-wired-custom-mechanical-keyboard-w-knob-gateron-g-pro-red-71-99-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22622535.thumb",
-   "posted": "2026-11-27T00:55:37+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410053&tid=20410053&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f79e525cea0011f193aec27ac87da7c2&au=8aa645327cd9460e81e03c9c59cb78d2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:22:10+00:00",
-   "real_price": 71.99,
-   "real_old": 79.99
   }
  ],
  "tech": [
@@ -18595,8 +18600,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2fc9678cea7611f19a2ae2f2a0cf6e88&au=40289a5f7c854cc69d14806c814cfe02&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2fc9678cea7611f19a2ae2f2a0cf6e88&au=40289a5f7c854cc69d14806c814cfe02&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5fb2cf8ea7611f18e1096ec4086db76&au=967927f6f7d04ecb896456fd5170b428&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5fb2cf8ea7611f18e1096ec4086db76&au=967927f6f7d04ecb896456fd5170b428&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18612,7 +18617,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2fc9678cea7611f19a2ae2f2a0cf6e88&au=40289a5f7c854cc69d14806c814cfe02&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5fb2cf8ea7611f18e1096ec4086db76&au=967927f6f7d04ecb896456fd5170b428&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19049,15 +19054,15 @@
    ]
   },
   {
-   "id": "ta10e2a97789",
-   "title": "LG 65\" OLED evo AI C6 4K Smart TV (65C6, 2026) - Amazon",
-   "price": 1299.98,
-   "old_price": 2699.99,
+   "id": "tea44e873707",
+   "title": "Amazon Fire TV Stick 4K Max Streaming Stick (Newest Model) + Free S&H",
+   "price": 44.99,
+   "old_price": 84.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410026&tid=20410026&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=f8c0eed8ea0011f1bbc40e66b81901db&au=6e01f9e2f6dc4fffa5b2eac2db0a023d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410026&tid=20410026&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=f8c0eed8ea0011f1bbc40e66b81901db&au=6e01f9e2f6dc4fffa5b2eac2db0a023d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/1/4/5/2/0/2/300x300/22622472.thumb",
-   "posted": "2026-11-27T00:51:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d71f024eea7611f18aa6d643dead3be4&au=960d7384f6bb40ab889a99630f7d925e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d71f024eea7611f18aa6d643dead3be4&au=960d7384f6bb40ab889a99630f7d925e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22601346.thumb",
+   "posted": "2026-11-27T00:49:56+00:00",
    "kind": "tech",
    "section": "tech",
    "cat": "tv",
@@ -19070,11 +19075,11 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 1299.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410026&tid=20410026&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=f8c0eed8ea0011f1bbc40e66b81901db&au=6e01f9e2f6dc4fffa5b2eac2db0a023d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "price": 44.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401476&pno=1375632&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d71f024eea7611f18aa6d643dead3be4&au=960d7384f6bb40ab889a99630f7d925e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T15:22:04+00:00"
+ "updated": "2026-11-27T15:26:45+00:00"
 }
