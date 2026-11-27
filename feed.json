@@ -525,7 +525,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:42:58+00:00",
+   "checked_at": "2026-11-27T22:44:10+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -1072,7 +1072,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=161362c6ea7011f184088a7788591d52&au=b2e77ae6dd6443109550cfeff3606c19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:43:01+00:00",
+   "checked_at": "2026-11-27T22:44:12+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -1345,7 +1345,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T16:40:11+00:00",
+   "checked_at": "2026-11-27T22:44:08+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -11359,6 +11359,24 @@
    "real_old": 998.75
   },
   {
+   "id": "t33175cd801c",
+   "title": "Milwaukee Compact Tool-Less Blade Change Hand Operate Hack Saw w/ 10\" Blade $11.50",
+   "price": 11.51,
+   "old_price": 17.97,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20414538-11-51-milwaukee-48-22-0012-compact-hand-operated-hack-saw-w-tool-less-blade-change-10-inch-blade-included-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22651335.thumb",
+   "posted": "2026-11-27T22:41:44+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T22:45:05+00:00",
+   "real_price": 11.51,
+   "real_old": 17.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414538&pno=1376565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3055df12eab411f1b5dcfede71c5b221&au=95b757849b5744b5a6079490906281c7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t06d987bbd58",
    "title": "26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set $21.90",
    "price": 21.88,
@@ -11371,10 +11389,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415456&pno=1376562&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=891c7f9eeab311f192426aa58121650b&au=4c1910da84284884a0b835b6360d0a0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T22:40:25+00:00",
    "real_price": 21.88,
-   "real_old": 38.21,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415456&pno=1376562&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=891c7f9eeab311f192426aa58121650b&au=4c1910da84284884a0b835b6360d0a0a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 38.21
   },
   {
    "id": "tae9b634f8ea",
@@ -11486,6 +11504,24 @@
    "checked_at": "2026-11-27T22:17:02+00:00",
    "real_price": 389.0,
    "real_old": 679.0
+  },
+  {
+   "id": "t173095354dc",
+   "title": "Lenovo LOQ Essential: 15.3\" FHD+ IPS 165Hz, Intel Core 7 230H, RTX 3050 (4GB), 16GB DDR5, 512GB SSD $666.89",
+   "price": 666.89,
+   "old_price": 1476.99,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20421759-lenovo-loq-essential-15-3-fhd-ips-165hz-intel-core-7-230h-rtx-3050-4gb-16gb-ddr5-512gb-ssd-666-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22650735.thumb",
+   "posted": "2026-11-27T21:52:21+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-27T22:45:07+00:00",
+   "real_price": 666.89,
+   "real_old": 1476.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&tid=20421759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3182aff0eab411f189812ee9ad60b9a3&au=d43b5c2abcca41dc82889bc0b17e9c7a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tf7684cb0a87",
@@ -11600,6 +11636,27 @@
    "checked_at": "2026-11-27T22:31:10+00:00",
    "real_price": 300.0,
    "real_old": 1280.0
+  },
+  {
+   "id": "t64c8ba12eab",
+   "title": "Energy Speakers: 2x RC-70 Floors + RC-LCR Center + 2x RC-10 Bookshelves $749 + Free S&H",
+   "price": 749.0,
+   "old_price": 3450.0,
+   "store": "Adorama",
+   "url": "https://slickdeals.net/f/20421360-energy-speakers-2x-rc-70-floors-rc-lcr-center-2x-rc-10-bookshelves-749-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22649154.thumb",
+   "posted": "2026-11-27T21:10:47+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T22:45:09+00:00",
+   "real_price": 749.0,
+   "real_old": 3450.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20421360&tid=20421360&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=32aafa68eab411f1befaaa9995cf98cb&au=ee48169a4fb34de2ad1d9f20a136b568&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te335fa64bc5",
@@ -11726,6 +11783,24 @@
    "checked_at": "2026-11-27T22:21:51+00:00",
    "real_price": 24.47,
    "real_old": 32.0
+  },
+  {
+   "id": "t2fd0d12538f",
+   "title": "DEWALT TOUGH GRIP Screwdriver Bit Set 35 -Piece | DWAF35SETBTG $6.98",
+   "price": 6.98,
+   "old_price": 16.98,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20421072-dewalt-tough-grip-screwdriver-bit-set-35-piece-dwaf35setbtg-6-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22649037.thumb",
+   "posted": "2026-11-27T20:37:06+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T22:45:11+00:00",
+   "real_price": 6.98,
+   "real_old": 16.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20421072&tid=20421072&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=33c1a730eab411f18cb82e3f1f9e6a98&au=7c4eb0aa2fa3467a8186b432bd934770&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4e22c12a3ff",
@@ -12238,7 +12313,7 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "37USDEAL",
+   "code": "USBF37",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413857&pno=1376400&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f984e190ea9011f18019eac107f92f61&au=e6b30d5008bb4adf81655a5ea8e64778&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -12700,8 +12775,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a50fe94eab311f198467a9d3d9bfbef&au=b5101f3a352c4a83b1ef0bc28d2baae5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T22:40:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34df9104eab411f18af88e26add5e779&au=eb550ee7ce474e27a8e5866db6230301&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T22:45:13+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -13416,8 +13491,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=8bef901ceab311f198fa4a5df193f9a0&au=43888812431e45fb81a37947239435d1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T22:40:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=363e56c0eab411f184bc52720ea1455f&au=1c23f5481ba04a20923b544c5498d302&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T22:45:15+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14479,8 +14554,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=8d58bbcceab311f1a0d5620c4aff8419&au=1d4723bea9b74020a7a01ff70dd32f57&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T22:40:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=37982e4ceab411f18294e2fa70087de6&au=ff9036673e3d4b6296ebee73bded466f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T22:45:18+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15745,78 +15820,6 @@
    "checked_at": "2026-11-27T08:26:59+00:00",
    "real_price": 104.99,
    "real_old": 149.99
-  },
-  {
-   "id": "t8058fbeefe7",
-   "title": "ONE+ 18V Kit w/ 4.0 Ah Battery, 2.0 Ah Battery, Charger, & FREE ONE+ Cordless 4-1/2\"Angle Grinder $95",
-   "price": 95.0,
-   "old_price": 156.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413299-one-18v-kit-w-4-0-ah-battery-2-0-ah-battery-charger-free-one-cordless-4-1-2-angle-grinder-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22629648.thumb",
-   "posted": "2026-11-27T08:06:24+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413299&tid=20413299&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=36560c70ea9611f195bab24d945fe3cb&au=238d421d9ee54ef0b6f0c3158c4697d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T19:10:30+00:00",
-   "real_price": 95.0,
-   "real_old": 156.0
-  },
-  {
-   "id": "t1bdc6a6498d",
-   "title": "RYOBI 40V HP Brushless 21 in. Cordless Battery Walk Behind Push Lawn Mower with 7.5 Ah Battery and Charger $299",
-   "price": 299.0,
-   "old_price": 469.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413272-ryobi-40v-hp-brushless-21-in-cordless-battery-walk-behind-push-lawn-mower-with-7-5-ah-battery-and-charger-299?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22630479.thumb",
-   "posted": "2026-11-27T08:05:51+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413272&tid=20413272&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=85071bb4ea6b11f1b1a9261efd69c6ee&au=bba330d4ac63426698bf3b1ee5e69ea9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:04:54+00:00",
-   "real_price": 299.0,
-   "real_old": 469.0
-  },
-  {
-   "id": "t3553a3e43b2",
-   "title": "ONE+ 18V Kit w/ 4.0 Ah Battery, 2.0 Ah Battery, Charger, & FREE ONE+ Cordless Reciprocating Saw $95",
-   "price": 95.0,
-   "old_price": 188.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413263-one-18v-kit-w-4-0-ah-battery-2-0-ah-battery-charger-free-one-cordless-reciprocating-saw-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22629591.thumb",
-   "posted": "2026-11-27T08:05:22+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413263&tid=20413263&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=462847e2ea6611f1ba139ac297368a5a&au=c79d246c3a7f45acb3230ba361f81e60&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:27:21+00:00",
-   "real_price": 95.0,
-   "real_old": 188.0
-  },
-  {
-   "id": "t40a98f15b57",
-   "title": "RYOBI 18V ONE+ Cordless 7-1/4 in. Compound Miter Saw with 4.0 Ah Lithium-Ion Battery and 18V Charger $119",
-   "price": 119.0,
-   "old_price": 360.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413227-ryobi-18v-one-cordless-7-1-4-in-compound-miter-saw-with-4-0-ah-lithium-ion-battery-and-18v-charger-119?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22630377.thumb",
-   "posted": "2026-11-27T08:03:49+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413227&tid=20413227&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=d56bb6e8ea7811f1ab8a227f30588b7a&au=ad9c4e40c4a44335bc357d863df6fe93&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:40:12+00:00",
-   "real_price": 119.0,
-   "real_old": 360.0
   }
  ],
  "tech": [
@@ -15902,6 +15905,33 @@
    ]
   },
   {
+   "id": "t173095354dc",
+   "title": "Lenovo LOQ Essential: 15.3\" FHD+ IPS 165Hz, Intel Core 7 230H, RTX 3050 (4GB), 16GB DDR5, 512GB SSD",
+   "price": 666.89,
+   "old_price": 1476.99,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&tid=20421759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3182aff0eab411f189812ee9ad60b9a3&au=d43b5c2abcca41dc82889bc0b17e9c7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&tid=20421759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3182aff0eab411f189812ee9ad60b9a3&au=d43b5c2abcca41dc82889bc0b17e9c7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22650735.thumb",
+   "posted": "2026-11-27T21:52:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 666.89,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&tid=20421759&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3182aff0eab411f189812ee9ad60b9a3&au=d43b5c2abcca41dc82889bc0b17e9c7a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "tc8dda723294",
    "title": "HP Omen Max 45L Gaming Desktop: Ryzen 7 9700X, 2TB SSD, 32GB RAM, RX 9070XT + Free S&H",
    "price": 1899.99,
@@ -15979,6 +16009,33 @@
      "store": "Adorama",
      "price": 300.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20421393&tid=20421393&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3e7c348aeab211f184a406c042f5c00f&au=7f59cc1e81bf4113a0f505b7e4502332&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t64c8ba12eab",
+   "title": "Energy Speakers: 2x RC-70 Floors + RC-LCR Center + 2x RC-10 Bookshelves + Free S&H",
+   "price": 749.0,
+   "old_price": 3450.0,
+   "store": "Adorama",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20421360&tid=20421360&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=32aafa68eab411f1befaaa9995cf98cb&au=ee48169a4fb34de2ad1d9f20a136b568&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20421360&tid=20421360&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=32aafa68eab411f1befaaa9995cf98cb&au=ee48169a4fb34de2ad1d9f20a136b568&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22649154.thumb",
+   "posted": "2026-11-27T21:10:47+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": "JHCE9926",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Adorama",
+     "price": 749.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20421360&tid=20421360&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=32aafa68eab411f1befaaa9995cf98cb&au=ee48169a4fb34de2ad1d9f20a136b568&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16954,8 +17011,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a50fe94eab311f198467a9d3d9bfbef&au=b5101f3a352c4a83b1ef0bc28d2baae5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a50fe94eab311f198467a9d3d9bfbef&au=b5101f3a352c4a83b1ef0bc28d2baae5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34df9104eab411f18af88e26add5e779&au=eb550ee7ce474e27a8e5866db6230301&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34df9104eab411f18af88e26add5e779&au=eb550ee7ce474e27a8e5866db6230301&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -16971,7 +17028,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8a50fe94eab311f198467a9d3d9bfbef&au=b5101f3a352c4a83b1ef0bc28d2baae5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34df9104eab411f18af88e26add5e779&au=eb550ee7ce474e27a8e5866db6230301&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18952,8 +19009,8 @@
    "price": 85.99,
    "old_price": 129.0,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=8e9b969eeab311f1a2584e9c2625dc25&au=6dbf7929613046a7a5eb34cd188e08ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=8e9b969eeab311f1a2584e9c2625dc25&au=6dbf7929613046a7a5eb34cd188e08ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=38e2ed3ceab411f194d4469f55d9ccef&au=3e0be847b0e3451fad987a2f93d2aff3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=38e2ed3ceab411f194d4469f55d9ccef&au=3e0be847b0e3451fad987a2f93d2aff3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22629288.thumb",
    "posted": "2026-11-27T08:00:34+00:00",
    "kind": "tech",
@@ -18969,7 +19026,7 @@
     {
      "store": "Best Buy",
      "price": 85.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=8e9b969eeab311f1a2584e9c2625dc25&au=6dbf7929613046a7a5eb34cd188e08ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=38e2ed3ceab411f194d4469f55d9ccef&au=3e0be847b0e3451fad987a2f93d2aff3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18979,8 +19036,8 @@
    "price": 1399.0,
    "old_price": 1699.0,
    "store": "B&H Photo Video",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8fc98ff8eab311f1aca2e27da7b810bf&au=ac7eba7fb9114d4cac412170e1b1d8a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8fc98ff8eab311f1aca2e27da7b810bf&au=ac7eba7fb9114d4cac412170e1b1d8a2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a355634eab411f1ba97aa9995cf98cb&au=7cc25b9f38324e369de2cba9958f8beb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a355634eab411f1ba97aa9995cf98cb&au=7cc25b9f38324e369de2cba9958f8beb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
    "posted": "2026-11-27T06:42:37+00:00",
    "kind": "tech",
@@ -18996,64 +19053,10 @@
     {
      "store": "B&H Photo Video",
      "price": 1399.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8fc98ff8eab311f1aca2e27da7b810bf&au=ac7eba7fb9114d4cac412170e1b1d8a2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tca59b642678",
-   "title": "65\" TCL QM64L Mini LED QLED 4K 144Hz Smart TV + 10% Back",
-   "price": 499.99,
-   "old_price": 649.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=92401162eab311f1b314469f55d9ccef&au=e1378710546e494c91800b1d1195642e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=92401162eab311f1b314469f55d9ccef&au=e1378710546e494c91800b1d1195642e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22626387.thumb",
-   "posted": "2026-11-27T06:00:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 499.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=92401162eab311f1b314469f55d9ccef&au=e1378710546e494c91800b1d1195642e&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t59bd06f0975",
-   "title": "32\" Alienware AW3225QF 4K 240Hz Curved QD-OLED Gaming Monitor + Free S&H",
-   "price": 699.99,
-   "old_price": 999.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=935fcf1aeab311f1a46d022da88e1800&au=3ce8954162404b1fa4fd399e27a07364&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=935fcf1aeab311f1a46d022da88e1800&au=3ce8954162404b1fa4fd399e27a07364&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22626225.thumb",
-   "posted": "2026-11-27T05:47:18+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 699.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=935fcf1aeab311f1a46d022da88e1800&au=3ce8954162404b1fa4fd399e27a07364&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a355634eab411f1ba97aa9995cf98cb&au=7cc25b9f38324e369de2cba9958f8beb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T22:41:19+00:00"
+ "updated": "2026-11-27T22:45:58+00:00"
 }
