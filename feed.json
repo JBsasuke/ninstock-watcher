@@ -376,7 +376,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1313bf28ea6e11f1bdd8f266078fb7c2&au=478e25e98d2248cfb4522af90ad9a0b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:27:18+00:00",
+   "checked_at": "2026-11-27T20:28:48+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -485,10 +485,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416563&tid=20416563&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1439d7fcea6e11f1b71306aff60aa6df&au=69a57f9c85004a619083537c26a72c22&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:27:21+00:00",
+   "checked_at": "2026-11-27T20:28:51+00:00",
    "real_price": 409.0,
    "real_old": null,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "36afa5bb8e5e",
@@ -508,10 +509,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416563&tid=20416563&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=154f9ba4ea6e11f1bc5e8a7788591d52&au=f82b254c8e61457b8714cbef81e63a01&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:27:22+00:00",
+   "checked_at": "2026-11-27T20:28:53+00:00",
    "real_price": 409.0,
    "real_old": null,
-   "category_ok": false
+   "category_ok": false,
+   "expired": true
   },
   {
    "id": "008eac19913c",
@@ -766,7 +768,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3d44aa4ea3a11f1a1261a3cc97fa2aa&au=ef13bbf460fc4e6a9b2564abb6fd14ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:27:25+00:00",
+   "checked_at": "2026-11-27T20:28:56+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -11371,7 +11373,7 @@
    "store": "AliExpress",
    "url": "https://slickdeals.net/f/20413800-flashforge-creator-5-4-toolhead-multicolor-3d-printer-379-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
    "image": "https://static.slickdealscdn.com/attachment/9/4/9/8/5/2/300x300/22630683.thumb",
-   "posted": "2026-11-27T20:53:50+00:00",
+   "posted": "2026-11-28T07:59:59+00:00",
    "cat": "net",
    "cat_label": "Redes y accesorios",
    "prio": 7,
@@ -11397,10 +11399,10 @@
    "code": "6KAHTILG",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406738&pno=1376460&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a21678faeaa011f1b31e9adab4da4978&au=51af282d31e8401baacd03ae19ee7366&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T20:25:06+00:00",
    "real_price": 21.99,
-   "real_old": 49.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406738&pno=1376460&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=a21678faeaa011f1b31e9adab4da4978&au=51af282d31e8401baacd03ae19ee7366&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 49.99
   },
   {
    "id": "t811f58c668e",
@@ -11419,6 +11421,24 @@
    "checked_at": "2026-11-27T20:10:37+00:00",
    "real_price": 430.38,
    "real_old": 669.0
+  },
+  {
+   "id": "t3558c081691",
+   "title": "6.5\" Dewalt 20V MAX Circular Saw Tool Only (Yellow, DCS391B)  $99.00 + Free Shipping",
+   "price": 99.0,
+   "old_price": 159.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20420673-6-5-dewalt-20v-max-circular-saw-tool-only-yellow-dcs391b-99-00-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22648227.thumb",
+   "posted": "2026-11-27T19:57:30+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T20:29:49+00:00",
+   "real_price": 99.0,
+   "real_old": 159.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20420673&tid=20420673&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=4b0473cceaa111f19b188a45ddb73657&au=32afad43c69d4c388763fdddafda6cdf&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "td190246886b",
@@ -12111,8 +12131,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a37fa2a2eaa011f1905392945d1becab&au=1abcfe9cbd9b4d67b4a3bf4ef3ee223b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:25:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c52a9a6eaa111f18255d67f0c4c69d9&au=6e81c4f4004443f6a3bdb97b41c83588&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:29:52+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -12465,6 +12485,24 @@
    "real_old": 140.0
   },
   {
+   "id": "t79fb2e80c30",
+   "title": "RIDGID 18V Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 6.0 Ah MAX Output Battery $145",
+   "price": 145.0,
+   "old_price": 338.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20417634-ridgid-18v-starter-kit-with-2-4-0-ah-max-output-batteries-and-charger-with-6-0-ah-max-output-battery-145?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22640982.thumb",
+   "posted": "2026-11-27T15:45:16+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T20:29:53+00:00",
+   "real_price": 145.0,
+   "real_old": 338.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20417634&tid=20417634&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4d82dc06eaa111f18523a2ac02f12d80&au=daee8e91f07d4a4789b47bacdb405e78&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t2c8c3c035be",
    "title": "RIDGID 18V Brushless Cordless 4-Mode 1/2 in. High-Torque Impact Wrench Kit with (2) 4.0 Ah Lithium-Ion Batteries and Charger $189",
    "price": 189.0,
@@ -12809,8 +12847,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a5bf5558eaa011f1bb5e8a2550204de3&au=fc11d31f27f5478fb85acb375253e91b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:25:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4e9cce08eaa111f1bc293eeb61e72085&au=4b8335cae2a24035b6bbe49ad600a087&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:29:55+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13773,8 +13811,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a6eeadf2eaa011f1a7565e7b72cb0c70&au=985a6ed6f0e0438da6eb2ecfbd8bed95&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:25:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4fc17e6eeaa111f1a6b59adab4da4978&au=902a8ce3b1794b04b37ddaeb299795aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:29:58+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15795,45 +15833,6 @@
    "checked_at": "2026-11-27T09:50:43+00:00",
    "real_price": 151.96,
    "real_old": 279.95
-  },
-  {
-   "id": "t90ffd072da9",
-   "title": "$95.99 | De'Longhi 15 Bar Espresso Machine w/ Advanced Cappuccino System (Stainless Steel) at Woot!",
-   "price": 95.99,
-   "old_price": 199.95,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20412438-95-99-de-longhi-15-bar-espresso-machine-w-advanced-cappuccino-system-stainless-steel-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22627593.thumb",
-   "posted": "2026-11-27T06:42:53+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "BIGFRIDAY",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412438&tid=20412438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5671ca3cea4911f1ae69e6d19de15262&au=e8bb7fec8cd44cbdb72ddd50c397a5a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:00:13+00:00",
-   "real_price": 95.99,
-   "real_old": 199.95
-  },
-  {
-   "id": "t7a4c3bf6d21",
-   "title": "Apple MacBook Air 15\" Laptop: M5 10-Core Chip, 24GB RAM, 512GB SSD $1399 + Free S&H",
-   "price": 1399.0,
-   "old_price": 1699.0,
-   "store": "B&H Photo Video",
-   "url": "https://slickdeals.net/f/20411511-apple-macbook-air-15-m5-10-core-24gb-ram-512gb-ssd-1399?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
-   "posted": "2026-11-27T06:42:37+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e2ff1a2ea2e11f1b5019edf9ccb03d5&au=51729cb8518d43a79f7336d75f172917&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:46:42+00:00",
-   "real_price": 1399.0,
-   "real_old": 1699.0
   }
  ],
  "tech": [
@@ -16485,8 +16484,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a37fa2a2eaa011f1905392945d1becab&au=1abcfe9cbd9b4d67b4a3bf4ef3ee223b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a37fa2a2eaa011f1905392945d1becab&au=1abcfe9cbd9b4d67b4a3bf4ef3ee223b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c52a9a6eaa111f18255d67f0c4c69d9&au=6e81c4f4004443f6a3bdb97b41c83588&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c52a9a6eaa111f18255d67f0c4c69d9&au=6e81c4f4004443f6a3bdb97b41c83588&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -16502,7 +16501,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a37fa2a2eaa011f1905392945d1becab&au=1abcfe9cbd9b4d67b4a3bf4ef3ee223b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4c52a9a6eaa111f18255d67f0c4c69d9&au=6e81c4f4004443f6a3bdb97b41c83588&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16881,6 +16880,33 @@
      "store": "Best Buy",
      "price": 139.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20417691&tid=20417691&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ef0aaca8ea8c11f1820d562a0aab39fc&au=ade4f0f3d9974a2f86e91f3736c7d333&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t79fb2e80c30",
+   "title": "RIDGID 18V Starter Kit with (2) 4.0 Ah MAX Output Batteries and Charger with 6.0 Ah MAX Output Battery",
+   "price": 145.0,
+   "old_price": 338.0,
+   "store": "Home Depot",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20417634&tid=20417634&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4d82dc06eaa111f18523a2ac02f12d80&au=daee8e91f07d4a4789b47bacdb405e78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20417634&tid=20417634&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4d82dc06eaa111f18523a2ac02f12d80&au=daee8e91f07d4a4789b47bacdb405e78&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22640982.thumb",
+   "posted": "2026-11-27T15:45:16+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Home Depot",
+     "price": 145.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20417634&tid=20417634&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=4d82dc06eaa111f18523a2ac02f12d80&au=daee8e91f07d4a4789b47bacdb405e78&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19023,8 +19049,8 @@
    "price": 499.99,
    "old_price": 649.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a985377aeaa011f18f238e52aab23638&au=bb63984cd21a4400aa848d8f2da3be3f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a985377aeaa011f18f238e52aab23638&au=bb63984cd21a4400aa848d8f2da3be3f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=529c6734eaa111f1bbc6f22da43427db&au=6253f17e59ee4f9eb2ed243de97663ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=529c6734eaa111f1bbc6f22da43427db&au=6253f17e59ee4f9eb2ed243de97663ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22626387.thumb",
    "posted": "2026-11-27T06:00:09+00:00",
    "kind": "tech",
@@ -19040,37 +19066,10 @@
     {
      "store": "Amazon",
      "price": 499.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a985377aeaa011f18f238e52aab23638&au=bb63984cd21a4400aa848d8f2da3be3f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t59bd06f0975",
-   "title": "32\" Alienware AW3225QF 4K 240Hz Curved QD-OLED Gaming Monitor + Free S&H",
-   "price": 699.99,
-   "old_price": 999.99,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aabc822eeaa011f1b6c8e66d2ee76c86&au=f524404f64b645f895e2b0932e0df35d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aabc822eeaa011f1b6c8e66d2ee76c86&au=f524404f64b645f895e2b0932e0df35d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22626225.thumb",
-   "posted": "2026-11-27T05:47:18+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 699.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=aabc822eeaa011f1b6c8e66d2ee76c86&au=f524404f64b645f895e2b0932e0df35d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=529c6734eaa111f1bbc6f22da43427db&au=6253f17e59ee4f9eb2ed243de97663ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T20:27:40+00:00"
+ "updated": "2026-11-27T20:30:45+00:00"
 }
