@@ -2,6 +2,27 @@
  "version": 4,
  "raw_slick": [
   {
+   "id": "c46a0a0c1ee6",
+   "title": "Star Wars Outlaws Gold Edition (Switch 2, Game-Key Card) $15",
+   "price": 15.0,
+   "old_price": 154.0,
+   "store": "Walmart",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20416746-star-wars-outlaws-gold-edition-nintendo-switch-2-15-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22638741.thumb",
+   "posted": "2026-11-27T21:34:27+00:00",
+   "needs_cat": true,
+   "refurb": false,
+   "checked_at": "2026-11-27T21:39:16+00:00",
+   "category_ok": true,
+   "real_price": 15.0,
+   "real_old": 154.0,
+   "store_url": "https://www.walmart.com/ip/16344962410",
+   "page_checked": true,
+   "link_v": 3
+  },
+  {
    "id": "2b294328f136",
    "title": "YMMV 2x The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 $71.49",
    "price": 71.49,
@@ -329,7 +350,7 @@
    "posted": "2026-11-27T15:38:12+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T15:38:59+00:00",
+   "checked_at": "2026-11-27T21:39:19+00:00",
    "category_ok": true,
    "real_price": 30.0,
    "real_old": 69.99,
@@ -525,7 +546,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416569&tid=20416569&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=ab17cbdeea7811f188e222a3727f3824&au=3c0e421d1fa1431a9d72ef5820def7e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T15:39:01+00:00",
+   "checked_at": "2026-11-27T21:39:21+00:00",
    "real_price": 39.99,
    "real_old": 69.99,
    "category_ok": true
@@ -2852,7 +2873,7 @@
    "posted": "2026-11-25T21:30:03+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-27T15:39:07+00:00",
+   "checked_at": "2026-11-27T21:39:24+00:00",
    "category_ok": false,
    "real_price": 117.0,
    "real_old": 199.0,
@@ -3177,31 +3198,35 @@
    "real_price": 28.53,
    "real_old": 44.99,
    "category_ok": true
-  },
-  {
-   "id": "20008690e6d8",
-   "title": "HORI HORIPAD Turbo Wired Controller for Nintendo Switch 2 (Eevee Cottage Core) $28.53 + Free Shipping w/ Prime or on $35+",
-   "price": 28.53,
-   "old_price": 44.99,
-   "store": "Amazon",
-   "kind": "hardware",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20396373-hori-horipad-turbo-wired-controller-for-nintendo-switch-2-eevee-cottage-core-28-53-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22588614.thumb",
-   "posted": "2026-11-25T17:50:48+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396373&tid=20396373&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b3e951ce9f211f1b7c4ba566ef4559a&au=44fb446fc0a34fc482aa9159f37994dd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-27T17:44:47+00:00",
-   "real_price": 28.53,
-   "real_old": 44.99,
-   "category_ok": true
   }
  ],
  "deku_checked": "2026-11-27T20:57:13+00:00",
  "deals": [
+  {
+   "id": "488795546c98",
+   "title": "Star Wars Outlaws Gold Edition (Switch 2, Game-Key Card)",
+   "price": 15.0,
+   "old_price": null,
+   "store": "Walmart",
+   "store_url": "https://www.walmart.com/ip/16344962410",
+   "url": "https://www.walmart.com/ip/16344962410",
+   "offers": [
+    {
+     "store": "Walmart",
+     "price": 15.0,
+     "url": "https://www.walmart.com/ip/16344962410"
+    }
+   ],
+   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22638741.thumb",
+   "kind": "game",
+   "collector": false,
+   "posted": "2026-11-27T21:34:27+00:00",
+   "digital": null,
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null
+  },
   {
    "id": "20061a0b97da",
    "title": "2x The Legend of Zelda: Ocarina of Time - Nintendo Switch 2",
@@ -3346,31 +3371,6 @@
    "kind": "game",
    "collector": false,
    "posted": "2026-11-27T15:38:12+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "488795546c98",
-   "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2)",
-   "price": 15.0,
-   "old_price": null,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/16344962410",
-   "url": "https://www.walmart.com/ip/16344962410",
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 15.0,
-     "url": "https://www.walmart.com/ip/16344962410"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/22638741.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-27T14:34:06+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -10826,6 +10826,150 @@
  ],
  "news": [
   {
+   "id": "98816c60f14d",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Fortnite Treasure Hunters – Gameplay Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
+   "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "a27c99ca5fce",
+   "date_ok": false,
+   "seeded": true,
+   "title": "RACCOIN: Chaos Max Edition – Launch Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=nKRxwgwSEqI",
+   "image": "https://i.ytimg.com/vi/nKRxwgwSEqI/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "35cc1dcc240d",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – Overview Trailer",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=MnW00Oo7Gs8",
+   "image": "https://i.ytimg.com/vi/MnW00Oo7Gs8/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "f3cbf9ba6672",
+   "date_ok": false,
+   "seeded": true,
+   "title": "MARVEL Cosmic Invasion: The Siege of Castle Doom – DLC Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=sDLjFDQpy_o",
+   "image": "https://i.ytimg.com/vi/sDLjFDQpy_o/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "c20c4d27993a",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Marvel's Guardians of the Galaxy: Encore Edition – Launch Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=qOFd1pHYTmc",
+   "image": "https://i.ytimg.com/vi/qOFd1pHYTmc/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "76c61d2b0a45",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Stellar Blade Complete Edition – Launch Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=AFclxMTQ2hI",
+   "image": "https://i.ytimg.com/vi/AFclxMTQ2hI/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "733783888b15",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Fortnite Treasure Hunters – One Piece Hybrid Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=T4Eh0M-Sh_g",
+   "image": "https://i.ytimg.com/vi/T4Eh0M-Sh_g/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "90330ab079fa",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Hello! Pikmin – #02 Dream – Nintendo",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=6x-yH4wkOYQ",
+   "image": "https://i.ytimg.com/vi/6x-yH4wkOYQ/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "82d048838b92",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Hello! Pikmin – #01 Frog – Nintendo",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=U4pcZzPIQ1E",
+   "image": "https://i.ytimg.com/vi/U4pcZzPIQ1E/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "31e4a92a7a9c",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Pikmin Day Direct",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=SyRn9Kq6FvM",
+   "image": "https://i.ytimg.com/vi/SyRn9Kq6FvM/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "c2f0e41bfe68",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Fortnite – Treasure Hunters Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=lOrajiIUTjk",
+   "image": "https://i.ytimg.com/vi/lOrajiIUTjk/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
+   "id": "408ddac3e3f7",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Village in the Shade – Launch Trailer – Nintendo Switch 2",
+   "summary": "",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=XuSp8A7RO0U",
+   "image": "https://i.ytimg.com/vi/XuSp8A7RO0U/hqdefault.jpg",
+   "posted": "2026-11-27T21:41:23+00:00"
+  },
+  {
    "id": "aldia-7b2ecf7ffe",
    "title": "Nintendo Switch Sports Resort ya está disponible para Switch 2 con nuevas opciones de personalización",
    "summary": "Nintendo lanzó Switch Sports Resort para Switch 2 con 12 deportes y un sistema de personalización de personajes. Así funcionan los artículos semanales y mensuales.",
@@ -10890,18 +11034,6 @@
     ],
     "url": "https://aldiard.com/en/n/35baa1beca.html"
    }
-  },
-  {
-   "id": "a5e0c0e6d34c",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Absolutely ZONKED out after that meal.",
-   "summary": "",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/shorts/O_C2DgDlC90",
-   "image": "https://i.ytimg.com/vi/O_C2DgDlC90/hqdefault.jpg",
-   "posted": "2026-11-26T23:00:29+00:00"
   },
   {
    "id": "aldia-ea16ccec9a",
@@ -11112,35 +11244,11 @@
    }
   },
   {
-   "id": "b71b1621307b",
-   "date_ok": true,
-   "seeded": true,
-   "title": "KuloNiku: Bowl Up! – Launch Trailer – Nintendo Switch 2",
-   "summary": "Prepare unique meals for quirky small-town locals, upgrade and customize your shop, compete in thrilling cooking battles, and protect your family’s long-running restaurant!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=MiE6-XaL8Hw",
-   "image": "https://i.ytimg.com/vi/MiE6-XaL8Hw/hqdefault.jpg",
-   "posted": "2026-11-25T20:00:29+00:00"
-  },
-  {
-   "id": "9f6aa2e7f3e3",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Treat yo' self. 🍩",
-   "summary": "",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/shorts/5_GJqaYbCY4",
-   "image": "https://i.ytimg.com/vi/5_GJqaYbCY4/hqdefault.jpg",
-   "posted": "2026-11-25T17:00:20+00:00"
-  },
-  {
    "id": "e3b397072752",
    "date_ok": true,
    "seeded": true,
-   "title": "Mario Kart World – Ver. 1.9.0 Update Available Now – Nintendo Switch 2",
-   "summary": "Eight familiar courses are racing in, each with brand-new twists and turns! Plus, enjoy two new routes in Knockout Tour, and watch replays of past races and battles with the newly enhanced Replay feature.",
+   "title": "Tetris® 99 – 58th MAXIMUS CUP Gameplay Trailer – Nintendo Switch",
+   "summary": "",
    "lang": "en",
    "source": "Nintendo",
    "url": "https://www.youtube.com/watch?v=Pn0MuiE7YDQ",
@@ -11148,64 +11256,16 @@
    "posted": "2026-11-25T01:00:34+00:00"
   },
   {
-   "id": "81436257cf42",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Where did your adventures through The Legend of Zelda series begin? 👇",
-   "summary": "",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/shorts/w-MBfX6SbFw",
-   "image": "https://i.ytimg.com/vi/w-MBfX6SbFw/hqdefault.jpg",
-   "posted": "2026-11-24T23:00:28+00:00"
-  },
-  {
-   "id": "2e973dc6a726",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Choose your Operator challenge. Who are you deploying with?",
-   "summary": "Play Call of Duty: Modern Warfare 4 on Nintendo Switch 2 today:",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/shorts/pwEIqVsZ0ps",
-   "image": "https://i.ytimg.com/vi/pwEIqVsZ0ps/hqdefault.jpg",
-   "posted": "2026-11-24T17:00:25+00:00"
-  },
-  {
-   "id": "6b0302c938fb",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Tetris® 99 – 58th MAXIMUS CUP Gameplay Trailer – Nintendo Switch",
-   "summary": "The Tetris® 99 58th MAXIMUS CUP event runs from 11pm PT on November 26 to 10:59pm PT on November 30. To participate, you’ll need to be a Nintendo Switch Online member* and play the Tetris 99 online mode during the event period. You’ll earn event points based on your placement in each match. Once you’ve accumulated a total of 100 event points, a new theme will unlock, featuring art, music and Tetrimino designs inspired by the Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy game for the Nintendo Switch 2 system! *Nintendo Switch Online membership (sold separately) and Nintendo Account required for online features. Membership auto-renews after initial term at the then-current price…",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=7AXiDrvTd7k",
-   "image": "https://i.ytimg.com/vi/7AXiDrvTd7k/hqdefault.jpg",
-   "posted": "2026-11-24T02:00:29+00:00"
-  },
-  {
    "id": "806c1e8f714b",
    "date_ok": true,
    "seeded": true,
-   "title": "Wave Race Blue Storm - GameCube - Nintendo Classics",
-   "summary": "Wave Race™ Blue Storm is coming to GameCube – Nintendo Classics! Storm warning! Prepare to ride the waves! Take to the water in this watercraft-racing game, released for the Nintendo GameCube™ system in 2001. Compete in contests of speed and technique—either racing against your rivals or going up against your own records. As you race across the waves, you can see the skies changes from calm and sunny to surging storms... Weather conditions can affect visibility, water levels, and the height of the waves over the course of a race, so you'll need to be prepared for whatever comes!",
+   "title": "Disney Dreamlight Valley: The Keepsake Sea – Launch Trailer – Nintendo Switch 2",
+   "summary": "",
    "lang": "en",
    "source": "Nintendo",
    "url": "https://www.youtube.com/watch?v=9ZAr8bhi1ig",
    "image": "https://i.ytimg.com/vi/9ZAr8bhi1ig/hqdefault.jpg",
    "posted": "2026-11-24T01:02:03+00:00"
-  },
-  {
-   "id": "73108792b62f",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Central Hyrule, the land of beginnings and endings. 🌅",
-   "summary": "Journey throughout The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition.​",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/shorts/w5HdN9s4HtY",
-   "image": "https://i.ytimg.com/vi/w5HdN9s4HtY/hqdefault.jpg",
-   "posted": "2026-11-23T20:00:25+00:00"
   },
   {
    "id": "6f7b87e3ca87",
@@ -11302,66 +11362,6 @@
    "url": "https://www.youtube.com/watch?v=FkNx8YQBZKU",
    "image": "https://i.ytimg.com/vi/FkNx8YQBZKU/hqdefault.jpg",
    "posted": "2026-11-22T16:17:21+00:00"
-  },
-  {
-   "id": "83d264efcec8",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=ezA58GqG5yE",
-   "image": "https://i.ytimg.com/vi/ezA58GqG5yE/hqdefault.jpg",
-   "posted": "2026-11-22T00:16:28+00:00"
-  },
-  {
-   "id": "4d6b7d3c995e",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
-   "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
-   "posted": "2026-11-22T00:11:03+00:00"
-  },
-  {
-   "id": "f69b9bb4e528",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
-   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
-   "posted": "2026-11-21T21:40:04+00:00"
-  },
-  {
-   "id": "1e4a07991837",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Wake up! Eevee is ready to start the day! 😄🤎",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/shorts/5KNxmgd4cP0",
-   "image": "https://i.ytimg.com/vi/5KNxmgd4cP0/hqdefault.jpg",
-   "posted": "2026-11-21T17:00:13+00:00"
-  },
-  {
-   "id": "0d8a4671249f",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Disney Dreamlight Valley: The Keepsake Sea – Launch Trailer – Nintendo Switch 2",
-   "summary": "Become a magical mermaid and plunge into the waters of the Keepsake Sea! Uncover what secrets lie beneath the waves and set sail on a thrilling new ocean adventure. Befriend five new Villagers and an Adventure Companion, including Milo Thatch, Captain Jack Sparrow, Megara, Captain Hook, Wendy, and Dory!",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=4PfZ_aAMrSY",
-   "image": "https://i.ytimg.com/vi/4PfZ_aAMrSY/hqdefault.jpg",
-   "posted": "2026-11-18T20:00:12+00:00"
   }
  ],
  "raw_tech": [
@@ -12316,6 +12316,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "WBSPK400OFF",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20397882&pno=1376334&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2e99e12aea8511f19155d6445e100823&au=2a26e5eafcf7467e920ee6f854d2a814&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:08:36+00:00",
    "real_price": 2279.0,
@@ -12354,8 +12357,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=788c3b46eaaa11f1af1dba9250da175f&au=6daeafefe8f2422eaf645d9bdefbcecb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T21:35:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2440fa6ceaab11f1bd0bd6507b94b1fd&au=b4f37c2dfbfc40ddbe02c02582a56000&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T21:40:20+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -13070,8 +13073,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=79edb4d8eaaa11f1a4fcb692a46ff11d&au=be1341b0524542dfbdd7c69aa4d8fbba&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T21:35:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=258c9c32eaab11f1aef396a0e2f1c70b&au=2f3392e5a9144f9f99c07d2ffe40b4db&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T21:40:22+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14052,8 +14055,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=7b1d0688eaaa11f1a2037e157c79f8af&au=268bddfc91c344b9bce190bd8a6489b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T21:35:36+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=26bd45aceaab11f1a986ae5d5418ffff&au=bc9b8756b24a4c32b504c4cdf31615f4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T21:40:24+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14405,6 +14408,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -16756,8 +16762,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=788c3b46eaaa11f1af1dba9250da175f&au=6daeafefe8f2422eaf645d9bdefbcecb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=788c3b46eaaa11f1af1dba9250da175f&au=6daeafefe8f2422eaf645d9bdefbcecb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2440fa6ceaab11f1bd0bd6507b94b1fd&au=b4f37c2dfbfc40ddbe02c02582a56000&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2440fa6ceaab11f1bd0bd6507b94b1fd&au=b4f37c2dfbfc40ddbe02c02582a56000&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -16773,7 +16779,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=788c3b46eaaa11f1af1dba9250da175f&au=6daeafefe8f2422eaf645d9bdefbcecb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2440fa6ceaab11f1bd0bd6507b94b1fd&au=b4f37c2dfbfc40ddbe02c02582a56000&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18943,8 +18949,8 @@
    "price": 1399.0,
    "old_price": 1699.0,
    "store": "B&H Photo Video",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7c4a6d7aeaaa11f1a71902fe529f8668&au=e345e5a7a30d45e1bd74e19409ba5a71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7c4a6d7aeaaa11f1a71902fe529f8668&au=e345e5a7a30d45e1bd74e19409ba5a71&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=27e9806ceaab11f1a2cdda767dc9786f&au=847501e43f6f407f921d7fac7f426036&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=27e9806ceaab11f1a2cdda767dc9786f&au=847501e43f6f407f921d7fac7f426036&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
    "posted": "2026-11-27T06:42:37+00:00",
    "kind": "tech",
@@ -18960,7 +18966,7 @@
     {
      "store": "B&H Photo Video",
      "price": 1399.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7c4a6d7aeaaa11f1a71902fe529f8668&au=e345e5a7a30d45e1bd74e19409ba5a71&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=27e9806ceaab11f1a2cdda767dc9786f&au=847501e43f6f407f921d7fac7f426036&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18970,8 +18976,8 @@
    "price": 499.99,
    "old_price": 649.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7ec52afeeaaa11f18997d2dec557ad6d&au=2915c3b7ba12482e9fca2a1c7b0e18e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7ec52afeeaaa11f18997d2dec557ad6d&au=2915c3b7ba12482e9fca2a1c7b0e18e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2a2ecfdaeaab11f19ed03ef63ede8b74&au=edf33adaade84e348f3f4eaac56500ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2a2ecfdaeaab11f19ed03ef63ede8b74&au=edf33adaade84e348f3f4eaac56500ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22626387.thumb",
    "posted": "2026-11-27T06:00:09+00:00",
    "kind": "tech",
@@ -18987,7 +18993,7 @@
     {
      "store": "Amazon",
      "price": 499.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=7ec52afeeaaa11f18997d2dec557ad6d&au=2915c3b7ba12482e9fca2a1c7b0e18e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=2a2ecfdaeaab11f19ed03ef63ede8b74&au=edf33adaade84e348f3f4eaac56500ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18997,8 +19003,8 @@
    "price": 699.99,
    "old_price": 999.99,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7ffd1044eaaa11f181b4ea1a7031bde9&au=a5514ff3ced245259bbdb77352bd37b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7ffd1044eaaa11f181b4ea1a7031bde9&au=a5514ff3ced245259bbdb77352bd37b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2b7f7b28eaab11f18a5c26b4a5bb58bc&au=371f2529e6be443ba3c75d6f083d2a85&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2b7f7b28eaab11f18a5c26b4a5bb58bc&au=371f2529e6be443ba3c75d6f083d2a85&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22626225.thumb",
    "posted": "2026-11-27T05:47:18+00:00",
    "kind": "tech",
@@ -19014,7 +19020,7 @@
     {
      "store": "Best Buy",
      "price": 699.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7ffd1044eaaa11f181b4ea1a7031bde9&au=a5514ff3ced245259bbdb77352bd37b3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2b7f7b28eaab11f18a5c26b4a5bb58bc&au=371f2529e6be443ba3c75d6f083d2a85&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19024,8 +19030,8 @@
    "price": 1299.99,
    "old_price": 1699.99,
    "store": "Micro Center",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=811ff2caeaaa11f18dc3563baabc64d2&au=b05784b287b94a3e81d1c2e6dd10dfd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=811ff2caeaaa11f18dc3563baabc64d2&au=b05784b287b94a3e81d1c2e6dd10dfd4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2cad63f2eaab11f18b59ae5d5418ffff&au=585a437b30454b0980ff05ebf8a51ce1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2cad63f2eaab11f18b59ae5d5418ffff&au=585a437b30454b0980ff05ebf8a51ce1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22566768.thumb",
    "posted": "2026-11-27T05:46:25+00:00",
    "kind": "tech",
@@ -19041,7 +19047,7 @@
     {
      "store": "Micro Center",
      "price": 1299.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=811ff2caeaaa11f18dc3563baabc64d2&au=b05784b287b94a3e81d1c2e6dd10dfd4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20384526&pno=1375932&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2cad63f2eaab11f18b59ae5d5418ffff&au=585a437b30454b0980ff05ebf8a51ce1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19051,8 +19057,8 @@
    "price": 139.99,
    "old_price": null,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=825f2cc8eaaa11f19594ca36d8a9da99&au=6ff72bb1feed49c9810cd3c7372baeef&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=825f2cc8eaaa11f19594ca36d8a9da99&au=6ff72bb1feed49c9810cd3c7372baeef&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=2ddf6734eaab11f18c1bda767dc9786f&au=d9511ae4911b4a9d8ae69e69684d4beb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=2ddf6734eaab11f18c1bda767dc9786f&au=d9511ae4911b4a9d8ae69e69684d4beb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22606422.thumb",
    "posted": "2026-11-27T05:36:36+00:00",
    "kind": "tech",
@@ -19068,10 +19074,10 @@
     {
      "store": "Amazon",
      "price": 139.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=825f2cc8eaaa11f19594ca36d8a9da99&au=6ff72bb1feed49c9810cd3c7372baeef&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403249&pno=1375923&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=2ddf6734eaab11f18c1bda767dc9786f&au=d9511ae4911b4a9d8ae69e69684d4beb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T21:36:29+00:00"
+ "updated": "2026-11-27T21:41:28+00:00"
 }
