@@ -2056,10 +2056,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:09:20+00:00",
+   "checked_at": "2026-11-27T13:12:26+00:00",
    "real_price": 59.99,
    "real_old": null,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "d29350456e6c",
@@ -2077,10 +2078,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1360fd90e93511f19599b274a813cae0&au=a312dbac093d44beb6022968d6b76965&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:09:21+00:00",
+   "checked_at": "2026-11-27T13:12:28+00:00",
    "real_price": 59.99,
    "real_old": null,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "9c2d611d02be",
@@ -3762,31 +3764,6 @@
    "kind": "merch",
    "collector": false,
    "posted": "2026-11-26T04:52:18+00:00",
-   "digital": null,
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null
-  },
-  {
-   "id": "067a2315cc62",
-   "title": "Metroid Dread Physical (Nintendo Switch) free shipping",
-   "price": 59.99,
-   "old_price": null,
-   "store": "Nintendo",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Nintendo",
-     "price": 59.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22602642.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-26T01:00:31+00:00",
    "digital": null,
    "refurb": false,
    "glitch": false,
@@ -11414,10 +11391,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T13:08:27+00:00",
    "real_price": 2149.0,
-   "real_old": 2399.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2399.0
   },
   {
    "id": "td5561be1f0f",
@@ -11450,9 +11427,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF38",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T12:06:06+00:00",
    "real_price": 399.99,
@@ -11474,6 +11448,24 @@
    "checked_at": "2026-11-27T11:51:46+00:00",
    "real_price": 299.97,
    "real_old": 600.0
+  },
+  {
+   "id": "ta7e95b4804d",
+   "title": "$195.49: [Prime] ARRMA Mojave GROM 4X4 223S BLX Brushless Desert Truck RTR, Black, Battery and Charger Not Included at Amazon",
+   "price": 195.49,
+   "old_price": 229.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20415144-195-49-prime-arrma-mojave-grom-4x4-223s-blx-brushless-desert-truck-rtr-black-battery-and-charger-not-included-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22634946.thumb",
+   "posted": "2026-11-27T11:36:21+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:13:21+00:00",
+   "real_price": 195.49,
+   "real_old": 229.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tff5a5254921",
@@ -11582,8 +11574,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a3ba62b2ea6311f18da786313fda6f19&au=63e83f2bf3584ce295cadfb862edcd2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:08:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=52dff888ea6411f1a3c2061f213a4eaa&au=af970039ba8e496dab2b835697fcc55d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:13:23+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11786,9 +11778,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BFDEAL8",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -12025,6 +12014,24 @@
    "checked_at": "2026-11-27T11:56:28+00:00",
    "real_price": 99.0,
    "real_old": 212.0
+  },
+  {
+   "id": "tbb070f14250",
+   "title": "SHOKZ OpenFit 2+ Open-Ear Wireless Earbuds w/ Dolby Audio & Wireless Charging  $99.95 + Free Shipping",
+   "price": 99.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413377-shokz-openfit-2-open-ear-wireless-earbuds-w-dolby-audio-wireless-charging-99-95-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22629744.thumb",
+   "posted": "2026-11-27T08:09:32+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:13:26+00:00",
+   "real_price": 99.95,
+   "real_old": 199.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&tid=20413377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=54151f30ea6411f199de061f213a4eaa&au=ed475acca5984eb7aae86ca29eaf3196&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tec415850100",
@@ -13648,8 +13655,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:08:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=560b32fcea6411f1a0567e94b7430612&au=59e0506c311f41629db321e6af9798d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:13:29+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15438,8 +15445,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:08:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5751fb28ea6411f189e2c2f67e93fe9b&au=d8ba2033da374ff592134a1ed43e019c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:13:31+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15804,41 +15811,6 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DoorDash&sdtid=20408418&tid=20408418&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e7d7e008e9e311f1b32c62be492916db&au=e4f0c40b89954c5d971faf3810185de5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T21:54:08+00:00",
    "real_price": 57.0
-  },
-  {
-   "id": "tc3e9f919ee4",
-   "title": "Select Stores: Cuisinart 1.1 cu ft. 1000W Digital Countertop Oven Microwave (Black) $50 + Free Store Pickup",
-   "price": 49.99,
-   "old_price": 109.99,
-   "store": "Target",
-   "url": "https://slickdeals.net/f/20371155-cuisinart-1-1-cu-ft-1000w-countertop-microwave-oven-black-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22618755.thumb",
-   "posted": "2026-11-26T20:40:04+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Target&sdtid=20371155&pno=1375365&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=3237fedae9da11f1bddc62e3581b13f1&au=a7d86cfc214744c59a2195e5285786f7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:44:38+00:00",
-   "real_price": 49.99,
-   "real_old": 109.99
-  },
-  {
-   "id": "t57963772159",
-   "title": "$40 FS AMAZON MNN 15.6\" 1080P Portable Monitor IPS USB-C HDMI Gaming Screen for Laptop",
-   "price": 57.0,
-   "old_price": null,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20408340-40-fs-amazon-mnn-15-6-1080p-portable-monitor-ips-usb-c-hdmi-gaming-screen-for-laptop?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22621878.thumb",
-   "posted": "2026-11-26T20:35:54+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:37:04+00:00",
-   "real_price": 57.0
   }
  ],
  "tech": [
@@ -15912,7 +15884,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF38",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -15920,6 +15892,33 @@
      "store": "Micro Center",
      "price": 399.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta7e95b4804d",
+   "title": ": [Prime] ARRMA Mojave GROM 4X4 223S BLX Brushless Desert Truck RTR, Black, Battery and Charger Not Included",
+   "price": 195.49,
+   "old_price": 229.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22634946.thumb",
+   "posted": "2026-11-27T11:36:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 195.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16217,6 +16216,33 @@
      "store": "Home Depot",
      "price": 99.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413488&tid=20413488&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=941792c6ea5911f1837cf2f94b23013c&au=9ece8e6074b04b2a81cdf3ee505bff8d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tbb070f14250",
+   "title": "SHOKZ OpenFit 2+ Open-Ear Wireless Earbuds",
+   "price": 99.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&tid=20413377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=54151f30ea6411f199de061f213a4eaa&au=ed475acca5984eb7aae86ca29eaf3196&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&tid=20413377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=54151f30ea6411f199de061f213a4eaa&au=ed475acca5984eb7aae86ca29eaf3196&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22629744.thumb",
+   "posted": "2026-11-27T08:09:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 99.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&tid=20413377&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=54151f30ea6411f199de061f213a4eaa&au=ed475acca5984eb7aae86ca29eaf3196&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17624,8 +17650,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=560b32fcea6411f1a0567e94b7430612&au=59e0506c311f41629db321e6af9798d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=560b32fcea6411f1a0567e94b7430612&au=59e0506c311f41629db321e6af9798d3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17641,7 +17667,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=560b32fcea6411f1a0567e94b7430612&au=59e0506c311f41629db321e6af9798d3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18815,8 +18841,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5751fb28ea6411f189e2c2f67e93fe9b&au=d8ba2033da374ff592134a1ed43e019c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5751fb28ea6411f189e2c2f67e93fe9b&au=d8ba2033da374ff592134a1ed43e019c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18832,7 +18858,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5751fb28ea6411f189e2c2f67e93fe9b&au=d8ba2033da374ff592134a1ed43e019c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18997,61 +19023,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408601&tid=20408601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=d2eaeb1ae9f011f195aa9edf9ccb03d5&au=df64b429a4364fbb8df37fb9eed12d83&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "ta4e2daaeb27",
-   "title": "Lowe's, Project Source 12-volt 1/4-in Drive Cordless Impact Driver Battery Included , Charger Included",
-   "price": 24.98,
-   "old_price": 60.0,
-   "store": "Lowe's",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20408553&tid=20408553&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=31743432ea1111f1a5b07e15aebef614&au=fe6dd98c31b74480b58a41ed7d44e379&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20408553&tid=20408553&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=31743432ea1111f1a5b07e15aebef614&au=fe6dd98c31b74480b58a41ed7d44e379&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22619199.thumb",
-   "posted": "2026-11-26T21:03:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lowe's",
-     "price": 24.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20408553&tid=20408553&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=31743432ea1111f1a5b07e15aebef614&au=fe6dd98c31b74480b58a41ed7d44e379&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5c7fff34002",
-   "title": "Razer Katana 850W 80+ Platinum Modular aRGB Power Supply",
-   "price": 94.44,
-   "old_price": 349.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408523&tid=20408523&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d435fdcae9f011f19c123abe0aeab59b&au=712021c40f804827ac6d42a22567c652&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408523&tid=20408523&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d435fdcae9f011f19c123abe0aeab59b&au=712021c40f804827ac6d42a22567c652&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22619133.thumb",
-   "posted": "2026-11-26T20:59:52+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 94.44,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408523&tid=20408523&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d435fdcae9f011f19c123abe0aeab59b&au=712021c40f804827ac6d42a22567c652&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T13:09:22+00:00"
+ "updated": "2026-11-27T13:14:17+00:00"
 }
