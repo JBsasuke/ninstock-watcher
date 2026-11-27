@@ -2422,7 +2422,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&tid=20397321&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=d8b2cc30e90911f192b1f624b5530aa6&au=f11209e24dcd4302ad39191545c60c7e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:06:53+00:00",
+   "checked_at": "2026-11-27T14:08:33+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -3082,7 +3082,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:05:11+00:00",
+   "checked_at": "2026-11-27T14:08:36+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11363,6 +11363,24 @@
  ],
  "raw_tech": [
   {
+   "id": "ta524db3b379",
+   "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart Google TV (2026) $600 + Free S&H",
+   "price": 599.99,
+   "old_price": 1999.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412027-55-tcl-qm8cg-series-4k-uhd-hdr-sqd-mini-led-smart-tv-w-google-tv-2026-599-99-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22638018.thumb",
+   "posted": "2026-11-27T14:05:39+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:09:30+00:00",
+   "real_price": 599.99,
+   "real_old": 1999.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&pno=1376223&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=29db2cacea6c11f19b58e666d291e204&au=8003f90542c64336b5b71c8aef1c99c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t07833ad5559",
    "title": "Woot!: Milwaukee Tools & Accessories Extra 20% Off (max $40 discount) + Free S&H w/ Prime",
    "price": 60.0,
@@ -11780,8 +11798,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=826ec9ceea6b11f1968006aff60aa6df&au=4b0715d450044a6688bb9c30f67964d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:04:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=2b163904ea6c11f1ada532caefd52e92&au=ced9a899cebc4caf9cdb69926a051cff&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:09:33+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12041,10 +12059,10 @@
    "code": "JJX180G",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20414139&tid=20414139&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83f9a548ea6b11f1a376260667662394&au=b6c51a3bf00b48fa9734a2f4833c2f5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:04:52+00:00",
    "real_price": 987.0,
-   "real_old": 1429.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20414139&tid=20414139&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83f9a548ea6b11f1a376260667662394&au=b6c51a3bf00b48fa9734a2f4833c2f5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1429.0
   },
   {
    "id": "t767ffa557e7",
@@ -12498,10 +12516,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413272&tid=20413272&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=85071bb4ea6b11f1b1a9261efd69c6ee&au=bba330d4ac63426698bf3b1ee5e69ea9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:04:54+00:00",
    "real_price": 299.0,
-   "real_old": 469.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413272&tid=20413272&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=85071bb4ea6b11f1b1a9261efd69c6ee&au=bba330d4ac63426698bf3b1ee5e69ea9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 469.0
   },
   {
    "id": "t3553a3e43b2",
@@ -12907,10 +12925,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:04:56+00:00",
    "real_price": 1275.0,
-   "real_old": 2699.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2699.99
   },
   {
    "id": "tb791c746865",
@@ -13480,6 +13498,27 @@
    "checked_at": "2026-11-27T11:10:02+00:00",
    "real_price": 299.99,
    "real_old": 799.99
+  },
+  {
+   "id": "t2100f77715d",
+   "title": "Milwaukee M12 FUELTRADE Stubby 3/8 Impact Wrench Tool Only 2562-20 $139.99",
+   "price": 139.99,
+   "old_price": 199.0,
+   "store": "Woot!",
+   "url": "https://slickdeals.net/f/20412096-milwaukee-m12-fueltrade-stubby-3-8-impact-wrench-tool-only-2562-20-139-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22626801.thumb",
+   "posted": "2026-11-27T06:07:03+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "BIGFRIDAY",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T14:09:35+00:00",
+   "real_price": 139.99,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412096&tid=20412096&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c963270ea6c11f1b9de9a2df9001c3b&au=5a2c46b61e3147e3887f15c1ade50848&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3e9237c37be",
@@ -14083,10 +14122,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:04:58+00:00",
    "real_price": 1699.0,
-   "real_old": 2099.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2099.0
   },
   {
    "id": "t911c415f0ae",
@@ -14452,8 +14491,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:05:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2dbea89eea6c11f181f1aed4ae3bedd1&au=59e90664679847eb9eed57375375a65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:09:37+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15771,44 +15810,36 @@
    "checked_at": "2026-11-27T00:44:50+00:00",
    "real_price": 9.99,
    "real_old": 15.99
-  },
-  {
-   "id": "t1ef2fe6a114",
-   "title": "13.6\" Apple MacBook Air Laptop (2026) w/ M5 Chip, 24GB RAM & 1TB SSD $1400 + Free S&H",
-   "price": 1399.99,
-   "old_price": 1799.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401920-apple-2026-macbook-air-13-m5-laptop-24gb-ram-1tb-ssd-1399-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22602630.thumb",
-   "posted": "2026-11-26T23:16:45+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&pno=1375533&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=31922ccee9f011f180a16afa1dd6288e&au=b7ec86097a874814b4aa25c7fdd580f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:22:06+00:00",
-   "real_price": 1399.99,
-   "real_old": 1799.0
-  },
-  {
-   "id": "t129fb98ca3a",
-   "title": "Roborock QX Revo MAX Robot Vacuum and Mop with 25,000 Pa Suction Power",
-   "price": 549.99,
-   "old_price": 749.99,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20409504-roborock-qx-revo-max-robot-vacuum-and-mop-with-25-000-pa-suction-power?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/4/5/4/8/6/3/300x300/22621620.thumb",
-   "posted": "2026-11-26T23:16:27+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-27T00:54:05+00:00",
-   "real_price": 549.99,
-   "real_old": 749.99
   }
  ],
  "tech": [
+  {
+   "id": "ta524db3b379",
+   "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart Google TV (2026) + Free S&H",
+   "price": 599.99,
+   "old_price": 1999.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&pno=1376223&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=29db2cacea6c11f19b58e666d291e204&au=8003f90542c64336b5b71c8aef1c99c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&pno=1376223&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=29db2cacea6c11f19b58e666d291e204&au=8003f90542c64336b5b71c8aef1c99c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22638018.thumb",
+   "posted": "2026-11-27T14:05:39+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&pno=1376223&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=29db2cacea6c11f19b58e666d291e204&au=8003f90542c64336b5b71c8aef1c99c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tc25ad2e5832",
    "title": "55\" Insignia QF Series QLED 4K UHD Smart TV (2025 Model) + Free S&H & More",
@@ -18185,8 +18216,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2dbea89eea6c11f181f1aed4ae3bedd1&au=59e90664679847eb9eed57375375a65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2dbea89eea6c11f181f1aed4ae3bedd1&au=59e90664679847eb9eed57375375a65e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18202,7 +18233,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2dbea89eea6c11f181f1aed4ae3bedd1&au=59e90664679847eb9eed57375375a65e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18997,34 +19028,7 @@
    "code_until": null,
    "promo": "40% Off",
    "offers": []
-  },
-  {
-   "id": "t18ec37b311d",
-   "title": "KEXIN Aluminum Adjustable Universal Tablet Stand for Desk - Compatible with iPad and 360 Degree Swivel Base, Silver",
-   "price": 9.99,
-   "old_price": 15.99,
-   "store": "Walmart",
-   "store_url": "https://www.walmart.com/ip/2809733809",
-   "url": "https://www.walmart.com/ip/2809733809",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22621731.thumb",
-   "posted": "2026-11-26T23:26:55+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 9.99,
-     "url": "https://www.walmart.com/ip/2809733809"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T14:05:45+00:00"
+ "updated": "2026-11-27T14:10:29+00:00"
 }
