@@ -115,8 +115,8 @@
   {
    "id": "2874a37cea56",
    "title": "$250 Best Buy Geek Squad Refurbished Good - Switch OLED Model w/Joy-Con",
-   "price": 124.0,
-   "old_price": 125.0,
+   "price": 127.0,
+   "old_price": 128.0,
    "store": "Best Buy",
    "kind": "hardware",
    "collector": false,
@@ -128,9 +128,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412264&tid=20412264&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7a92e5aea2a11f1bfc98628c169462b&au=6058fcf561444414885f845d773d8ffa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:22:49+00:00",
-   "real_price": 124.0,
-   "real_old": 125.0,
+   "checked_at": "2026-11-27T08:26:02+00:00",
+   "real_price": 127.0,
+   "real_old": 128.0,
    "category_ok": true
   },
   {
@@ -320,13 +320,13 @@
    "posted": "2026-11-27T05:30:54+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T08:21:13+00:00",
-   "category_ok": true,
-   "real_price": 6.99,
-   "real_old": 57.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20411745&tid=20411745&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=81775e8aea3b11f198167e15aebef614&au=3fcf94f7f3544cf68184181e515e5c97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T08:21:13+00:00",
+   "real_price": 6.99,
+   "real_old": 57.0,
+   "category_ok": true
   },
   {
    "id": "7a0ee1417dfd",
@@ -11374,6 +11374,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tec415850100",
+   "title": "1822-Piece LEGO DC Batman The Classic TV Series Batmobile Building Set $104.99 + Free Shipping",
+   "price": 104.99,
+   "old_price": 149.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413305-1822-piece-lego-dc-batman-the-classic-tv-series-batmobile-building-set-104-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22629729.thumb",
+   "posted": "2026-11-27T08:06:50+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T08:26:59+00:00",
+   "real_price": 104.99,
+   "real_old": 149.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413305&tid=20413305&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=50635546ea3c11f189f36e6522384b61&au=f1b5191b9297483bbb76430c581503c5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t4a996f82f13",
    "title": "Sovol 4-Spools Filament Dryer w/ Dual Heating Chambers $79.60 + Free S&H",
    "price": 79.59,
@@ -11426,7 +11444,7 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "15USDEAL",
+   "code": "BFDEAL20",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20238045&pno=1376025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a7b7f822ea3911f19489fe5c251010db&au=030c67983f634174a8dfabffe473ef69&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -11487,6 +11505,24 @@
    "checked_at": "2026-11-27T07:59:27+00:00",
    "real_price": 999.99,
    "real_old": 1499.99
+  },
+  {
+   "id": "t6e9ce12ead9",
+   "title": "$1749 ac + 8% back on Prime Visa for no rush delivery AMAZON Apple 2026 MacBook Pro Laptop with M6 chip; Silver 16gb, 1TB",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20412693-1749-ac-8-back-on-prime-visa-for-no-rush-delivery-amazon-apple-2026-macbook-pro-laptop-with-m6-chip-silver-16gb-1tb?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22628232.thumb",
+   "posted": "2026-11-27T07:12:03+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T08:27:01+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412693&tid=20412693&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51a636bcea3c11f19e207211240c6717&au=9f1a44dccfe44b1fa848e3b94b2cc52c&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t632e7cb614a",
@@ -11600,6 +11636,23 @@
    "checked_at": "2026-11-27T06:33:17+00:00",
    "real_price": 549.99,
    "real_old": 700.0
+  },
+  {
+   "id": "t1bdd4795a84",
+   "title": "Costco Members: MacBook Air: 15.3\" Liquid Retina, M5 Chip, 16GB RAM, 512GB SSD $1199.99",
+   "price": 1199.99,
+   "old_price": 1499.0,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20412303-costco-members-macbook-air-15-3-liquid-retina-m5-chip-16gb-ram-512gb-ssd-1199-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22627206.thumb",
+   "posted": "2026-11-27T06:27:34+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T08:27:04+00:00",
+   "real_price": 1199.99,
+   "real_old": 1499.0
   },
   {
    "id": "te20824abea1",
@@ -11728,6 +11781,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&tid=20412042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3eb2e442ea2d11f1abbfcec1898c45cf&au=179dd94a08774dfe80fd865438ef0af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T06:39:07+00:00",
    "real_price": 56.0
+  },
+  {
+   "id": "t8ea310b76a0",
+   "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart TV w/ Google TV (2026) $599.99 @Best Buy",
+   "price": 599.99,
+   "old_price": 1999.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412027-55-tcl-qm8cg-series-4k-uhd-hdr-sqd-mini-led-smart-tv-w-google-tv-2026-599-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22626630.thumb",
+   "posted": "2026-11-27T06:03:13+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T08:27:06+00:00",
+   "real_price": 599.99,
+   "real_old": 1999.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&tid=20412027&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=541f90faea3c11f18822ca9a2882654f&au=59eb8820263742b4b54e9e7c852bc3da&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t809e046aef4",
@@ -14046,8 +14117,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T08:22:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5570baa6ea3c11f197c83ece42a7e54a&au=b9b55731d5604b5bafb0d5ac32330303&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T08:27:08+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15724,87 +15795,36 @@
    "checked_at": "2026-11-26T16:57:57+00:00",
    "real_price": 679.99,
    "real_old": 1199.99
-  },
-  {
-   "id": "t0aabac8963c",
-   "title": "$74.99 | Pro X Superlight 2c Wireless Gaming Mouse, 51g Compact Mini Mouse - Magenta at Amazon",
-   "price": 74.99,
-   "old_price": 159.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406480-74-99-pro-x-superlight-2c-wireless-gaming-mouse-51g-compact-mini-mouse-magenta-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614126.thumb",
-   "posted": "2026-11-26T16:52:56+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406480&tid=20406480&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=5ee675cae9d411f1942f7a5d1bfa63ce&au=d5087bd8e7d14247bf64f5d7a6b9f75e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:02:56+00:00",
-   "real_price": 74.99,
-   "real_old": 159.99
-  },
-  {
-   "id": "t247e6c7923f",
-   "title": "Klein Tools Compact Vacuum Laser Level (Red) $25 + Free Pickup",
-   "price": 24.98,
-   "old_price": 49.98,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20404443-klein-tools-compact-vacuum-laser-level-40-ft-red-93cvls?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/3/1/0/8/1/8/8/300x300/22609374.thumb",
-   "posted": "2026-11-26T16:51:08+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20404443&pno=1375149&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=e0175c42e9b911f1ab3adeb14ba7c7e6&au=5055cf3bd123440ebcd5d33ef7bf2650&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:53:17+00:00",
-   "real_price": 24.98,
-   "real_old": 49.98
-  },
-  {
-   "id": "t3013158cb40",
-   "title": "LISEN 136W 3-Port USB-C Car Charger w/ PD3.2 $13.49 + Free Shipping w/ Prime or on $35+",
-   "price": 13.49,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406441-lisen-136w-3-port-usb-c-car-charger-w-pd3-2-13-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/8/2/5/6/8/8/300x300/22614009.thumb",
-   "posted": "2026-11-26T16:49:47+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "9QWMEBVB",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406441&tid=20406441&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=411a18feea2d11f1b9b0dace3db5b6ef&au=7968813f329841de9d2dbb62711ff8e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:39:11+00:00",
-   "real_price": 13.49,
-   "real_old": 29.99
-  },
-  {
-   "id": "t0eb1e896c4f",
-   "title": "[Prime] Omnibar 67W GaN 2-Port USB-C Wall Charger w/ Retractable Cable $8.92 + Free Shipping",
-   "price": 8.92,
-   "old_price": 14.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406438-prime-omnibar-67w-gan-2-port-usb-c-wall-charger-w-retractable-cable-8-92-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22613898.thumb",
-   "posted": "2026-11-26T16:49:04+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "V4Q9JDUA",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406438&tid=20406438&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dd954112e9bb11f1b8bf5a59d1f3bccf&au=ec0d978c2a3c43d6b269e1ebaba6ce61&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:07:31+00:00",
-   "real_price": 8.92,
-   "real_old": 14.99
   }
  ],
  "tech": [
+  {
+   "id": "tec415850100",
+   "title": "1822-Piece LEGO DC Batman The Classic TV Series Batmobile Building Set",
+   "price": 104.99,
+   "old_price": 149.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413305&tid=20413305&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=50635546ea3c11f189f36e6522384b61&au=f1b5191b9297483bbb76430c581503c5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413305&tid=20413305&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=50635546ea3c11f189f36e6522384b61&au=f1b5191b9297483bbb76430c581503c5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22629729.thumb",
+   "posted": "2026-11-27T08:06:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 104.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413305&tid=20413305&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=50635546ea3c11f189f36e6522384b61&au=f1b5191b9297483bbb76430c581503c5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t23285de841a",
    "title": "Open Box Condition: Apple AirPods 5 True Wireless ANC Earbuds (Excellent) & More + Free S&H",
@@ -15856,6 +15876,33 @@
      "store": "Amazon",
      "price": 999.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412705&tid=20412705&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=77b5cfe2ea3811f1a6d3a291739d63b5&au=506ebad2f89644b9bc8dcf88c5b182b9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t6e9ce12ead9",
+   "title": "ac + 8% back on Prime Visa for no rush delivery AMAZON Apple 2026 MacBook Pro Laptop with M6 chip; Silver 16gb, 1TB",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412693&tid=20412693&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51a636bcea3c11f19e207211240c6717&au=9f1a44dccfe44b1fa848e3b94b2cc52c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412693&tid=20412693&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51a636bcea3c11f19e207211240c6717&au=9f1a44dccfe44b1fa848e3b94b2cc52c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22628232.thumb",
+   "posted": "2026-11-27T07:12:03+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412693&tid=20412693&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51a636bcea3c11f19e207211240c6717&au=9f1a44dccfe44b1fa848e3b94b2cc52c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16041,6 +16088,33 @@
    "code_until": null,
    "promo": "Extra 20% Off",
    "offers": []
+  },
+  {
+   "id": "t8ea310b76a0",
+   "title": "55\" TCL QM8CG Series 4K UHD HDR SQD-Mini LED Smart TV",
+   "price": 599.99,
+   "old_price": 1999.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&tid=20412027&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=541f90faea3c11f18822ca9a2882654f&au=59eb8820263742b4b54e9e7c852bc3da&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&tid=20412027&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=541f90faea3c11f18822ca9a2882654f&au=59eb8820263742b4b54e9e7c852bc3da&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22626630.thumb",
+   "posted": "2026-11-27T06:03:13+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&tid=20412027&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=541f90faea3c11f18822ca9a2882654f&au=59eb8820263742b4b54e9e7c852bc3da&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
   },
   {
    "id": "t809e046aef4",
@@ -17698,8 +17772,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5570baa6ea3c11f197c83ece42a7e54a&au=b9b55731d5604b5bafb0d5ac32330303&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5570baa6ea3c11f197c83ece42a7e54a&au=b9b55731d5604b5bafb0d5ac32330303&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17715,7 +17789,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5570baa6ea3c11f197c83ece42a7e54a&au=b9b55731d5604b5bafb0d5ac32330303&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18921,88 +18995,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369526&pno=1371366&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5c1dd61ae9bd11f19699c24804b06ef6&au=a4cb9a1ffb0f4794bdafdec7e8f79642&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t4dfcd732772",
-   "title": "FS, Lowe's, Project Source 12-volt 3 -Tool Power Tool Combo Kit , 1 Battery(s) Included , Charger Included",
-   "price": 44.98,
-   "old_price": 60.0,
-   "store": "Lowe's",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20406648&tid=20406648&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=7bc7d01cea3811f1bbbf9230677ab9bb&au=49a1d562f4be484d926e4968cc658521&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20406648&tid=20406648&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=7bc7d01cea3811f1bbbf9230677ab9bb&au=49a1d562f4be484d926e4968cc658521&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22614369.thumb",
-   "posted": "2026-11-26T17:07:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Lowe's",
-     "price": 44.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20406648&tid=20406648&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=7bc7d01cea3811f1bbbf9230677ab9bb&au=49a1d562f4be484d926e4968cc658521&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t014dd50038e",
-   "title": "Intel Core i9-14900K 24-Core Desktop Processor",
-   "price": 359.99,
-   "old_price": 649.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/3/4/4/9/300x300/22614234.thumb",
-   "posted": "2026-11-26T17:00:20+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 359.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406528&tid=20406528&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=683594f8e9c011f1903b3ec01b6db2bd&au=540199b96c854c87bae46531435e0773&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tce73488c475",
-   "title": "Prime: Lamicall 15W MagSafe Car Mount Charger",
-   "price": 13.99,
-   "old_price": 38.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22562271.thumb",
-   "posted": "2026-11-26T16:59:38+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 13.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20386335&pno=1374183&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=31112d20e9bb11f1ae344e0165d82a69&au=009b286dac0844d0ae1eecc6fc30ed90&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T08:23:15+00:00"
+ "updated": "2026-11-27T08:27:58+00:00"
 }
