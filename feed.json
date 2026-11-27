@@ -788,7 +788,7 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T16:16:24+00:00",
+   "checked_at": "2026-11-27T18:17:18+00:00",
    "category_ok": true,
    "real_price": 389.0,
    "real_old": 499.0,
@@ -814,7 +814,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=55150a30ea2811f190419edf9ccb03d5&au=b81d00c4f5cb439d8c84308d2866aada&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T16:16:27+00:00",
+   "checked_at": "2026-11-27T18:17:21+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -923,7 +923,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411799&tid=20411799&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abf32232ea2911f198429edf9ccb03d5&au=3e1a8cd5f9234689a9f65b350ae90a5f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:14:38+00:00",
+   "checked_at": "2026-11-27T18:17:13+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1854,7 +1854,7 @@
    "posted": "2026-11-26T11:49:09+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-27T12:14:41+00:00",
+   "checked_at": "2026-11-27T18:17:15+00:00",
    "category_ok": true,
    "real_price": 29.99,
    "real_old": 49.99,
@@ -11432,10 +11432,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20419188&tid=20419188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3f701434ea8e11f19f55fe168e7c6021&au=1fbf68aece3a4d759fba573a8016ff87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:13:29+00:00",
    "real_price": 359.2,
-   "real_old": 449.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20419188&tid=20419188&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3f701434ea8e11f19f55fe168e7c6021&au=1fbf68aece3a4d759fba573a8016ff87&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 449.0
   },
   {
    "id": "t9b53cf56605",
@@ -11513,10 +11513,9 @@
    "code": "BIGFRIDAY",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:13:32+00:00",
-   "real_price": 423.63,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 423.63
   },
   {
    "id": "t82510b03143",
@@ -11525,7 +11524,7 @@
    "old_price": 1499.0,
    "store": "B&H Photo Video",
    "url": "https://slickdeals.net/f/20418780-apple-macbook-air-13-6-m5-24gb-ram-512gb-ssd-1249?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22645734.thumb",
    "posted": "2026-11-27T17:20:39+00:00",
    "cat": "pc",
    "cat_label": "Computadoras",
@@ -11705,6 +11704,24 @@
    "real_old": 49.99
   },
   {
+   "id": "t09aed3aa2c3",
+   "title": "Ryobi ONE+ 18V Cordless High Pressure Inflator with ONE+ 18V Cordless High Volume Inflator (Tools Only) $44.97",
+   "price": 44.97,
+   "old_price": 79.94,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20418228-ryobi-one-18v-cordless-high-pressure-inflator-with-one-18v-cordless-high-volume-inflator-tools-only-44-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22642821.thumb",
+   "posted": "2026-11-27T16:30:32+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T18:18:16+00:00",
+   "real_price": 44.97,
+   "real_old": 79.94,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20418228&tid=20418228&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ea1bc932ea8e11f1a6e60e98b29bf570&au=32497a8a8734480eaefba4fa4d6fbe26&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tdc954982a7a",
    "title": "Acer Predator Orion Gaming Desktop: Intel Ultra 7 265KF, RTX 5060 Ti (16GB), 16GB DDR5, 1TB SSD $1469.99",
    "price": 1469.99,
@@ -11825,10 +11842,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417946&tid=20417946&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=41cceb44ea8e11f1aec2fe168e7c6021&au=1b2644eff4ca4c4b908d56d405552a2f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:13:33+00:00",
    "real_price": 99.0,
-   "real_old": 179.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417946&tid=20417946&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=41cceb44ea8e11f1aec2fe168e7c6021&au=1b2644eff4ca4c4b908d56d405552a2f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.0
   },
   {
    "id": "t0de340c3110",
@@ -12212,8 +12229,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=43d900bcea8e11f1bd7b1645367a00b3&au=c3cd8e31b8c44ef3b727f7b7cf479dfe&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:13:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ebd26ceaea8e11f182919a2d9483121e&au=c9e8f0ad5ff446d9908f4b0fd7de7532&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:18:19+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12379,10 +12396,10 @@
    "code": "BIGFRIDAY",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416245&tid=20416245&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45043970ea8e11f1938f3693952c0199&au=990fdaca1a86405cb82ffb436371dcf9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T18:13:39+00:00",
    "real_price": 111.99,
-   "real_old": 249.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416245&tid=20416245&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45043970ea8e11f1938f3693952c0199&au=990fdaca1a86405cb82ffb436371dcf9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 249.0
   },
   {
    "id": "teda98147d66",
@@ -12660,6 +12677,27 @@
    "real_old": 33.93
   },
   {
+   "id": "t94b4311ebc1",
+   "title": "64GB KOOTION 4K UHD Full HD microSDXC Memory Card with Adapter Micro SD Card A2 V30 U3 C10 UHS-I TF Card Up to 150MB/",
+   "price": 16.49,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20415516-64gb-kootion-4k-uhd-full-hd-microsdxc-memory-card-with-adapter-micro-sd-card-a2-v30-u3-c10-uhs-i-tf-card-up-to-150mb?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/8/6/6/1/6/8/300x300/22635711.thumb",
+   "posted": "2026-11-27T12:43:56+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "NEWCARD",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T18:18:21+00:00",
+   "real_price": 16.49,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415516&tid=20415516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed44dbb2ea8e11f18e859a2d9483121e&au=38edffa216294aabb8de2f70b5551530&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6b99bf9e52a",
    "title": "GL.iNet GL-MT3600BE Dual-Band (Beryl 7) Wi-Fi 7 VPN Travel Router w/ Dual 2.5Gb Ports $64 + Free S/H",
    "price": 64.0,
@@ -12745,9 +12783,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF38",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T12:06:06+00:00",
    "real_price": 399.99,
@@ -13021,8 +13056,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=46c4db20ea8e11f199f46adf34455f69&au=023adfefc5444154af433e159f1a0c5a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:13:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ee5c48beea8e11f19b6592ffbb6aafe9&au=dd36d4d0e3494008bbff8eb209331c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:18:23+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13335,6 +13370,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -15773,45 +15811,6 @@
    "checked_at": "2026-11-27T08:36:27+00:00",
    "real_price": 134.0,
    "real_old": 135.0
-  },
-  {
-   "id": "t221ba28ff19",
-   "title": "EF ECOFLOW Rapid 10000mAh 45W Power Bank w/ Built-In USB-C Cable & Digital Display $19.99 + Free Shipping w/ Prime or on $35+",
-   "price": 19.99,
-   "old_price": 41.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20411727-ef-ecoflow-rapid-10000mah-45w-power-bank-w-built-in-usb-c-cable-digital-display-19-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22625079.thumb",
-   "posted": "2026-11-27T05:27:00+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411727&tid=20411727&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d00e1a28ea2911f198275e7d453500a5&au=ddd9daffeac943acad50891599326374&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:14:33+00:00",
-   "real_price": 19.99,
-   "real_old": 41.99
-  },
-  {
-   "id": "te52325590cb",
-   "title": "iBuyPower RDY Y50 R01V2 Gaming Desktop: 9800X3D, 5070 Ti, 32GB Ram, 2TB SSD $2,649 + Free Shipping $2649",
-   "price": 2649.0,
-   "old_price": 3299.0,
-   "store": "iBUYPOWER",
-   "url": "https://slickdeals.net/f/20411712-ibuypower-rdy-y50-r01v2-gaming-desktop-9800x3d-5070-ti-32gb-ram-2tb-ssd-2-649-free-shipping-2649?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22625802.thumb",
-   "posted": "2026-11-27T05:25:52+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "code": "BLACKFRIDAY",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+iBUYPOWER&sdtid=20411712&tid=20411712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=75dcc508ea2a11f1b1afc27ac87da7c2&au=5df267c132614c71b610d46ee064a5ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:19:11+00:00",
-   "real_price": 2649.0,
-   "real_old": 3299.0
   }
  ],
  "tech": [
@@ -15920,6 +15919,33 @@
      "store": "Woot!",
      "price": 423.63,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20418918&tid=20418918&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=40bb51beea8e11f1b0c8e2c1622d0827&au=eb08b848c1424381bf5d1f3a51245a04&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t82510b03143",
+   "title": "Apple MacBook Air 13.6” M5 24GB RAM, 512GB SSD",
+   "price": 1249.0,
+   "old_price": 1499.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20418780&tid=20418780&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9158201cea8d11f18903f6d0547060c1&au=05a0b0a7340b423393ded5625aa03879&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20418780&tid=20418780&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9158201cea8d11f18903f6d0547060c1&au=05a0b0a7340b423393ded5625aa03879&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/22645734.thumb",
+   "posted": "2026-11-27T17:20:39+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "B&H Photo Video",
+     "price": 1249.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20418780&tid=20418780&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=9158201cea8d11f18903f6d0547060c1&au=05a0b0a7340b423393ded5625aa03879&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16869,6 +16895,33 @@
    ]
   },
   {
+   "id": "t94b4311ebc1",
+   "title": "64GB KOOTION 4K UHD Full HD microSDXC Memory Card with Adapter Micro SD Card A2 V30 U3 C10 UHS-I TF Card Up to 150MB/",
+   "price": 16.49,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415516&tid=20415516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed44dbb2ea8e11f18e859a2d9483121e&au=38edffa216294aabb8de2f70b5551530&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415516&tid=20415516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed44dbb2ea8e11f18e859a2d9483121e&au=38edffa216294aabb8de2f70b5551530&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/8/6/6/1/6/8/300x300/22635711.thumb",
+   "posted": "2026-11-27T12:43:56+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": "NEWCARD",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 16.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415516&tid=20415516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed44dbb2ea8e11f18e859a2d9483121e&au=38edffa216294aabb8de2f70b5551530&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t4bcdb91ba6a",
    "title": "Timekettle LiveTalk AI Real-Time Translation Earbuds, Open-Ear, 54 languages/108 accents (White)",
    "price": 94.0,
@@ -16911,7 +16964,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF38",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18994,61 +19047,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+iBUYPOWER&sdtid=20411712&tid=20411712&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=75dcc508ea2a11f1b1afc27ac87da7c2&au=5df267c132614c71b610d46ee064a5ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9988dad29d4",
-   "title": "[EPP/EDU] Samsung Neo QLED QN90H 4K 144Hz Mini LED Smart TV + Music Studio Smart Speaker: 65\" ; 75\" ; 85\"",
-   "price": 972.0,
-   "old_price": 1499.99,
-   "store": "Samsung",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20411709&tid=20411709&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd168484ea4411f1aa44daeac3707ed4&au=d96d435ab6fd43a69e339e6551275463&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20411709&tid=20411709&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd168484ea4411f1aa44daeac3707ed4&au=d96d435ab6fd43a69e339e6551275463&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22625835.thumb",
-   "posted": "2026-11-27T05:25:50+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Samsung",
-     "price": 972.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20411709&tid=20411709&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cd168484ea4411f1aa44daeac3707ed4&au=d96d435ab6fd43a69e339e6551275463&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tabad944201a",
-   "title": "Minthouz Up to 35W Dual-Port GaN Foldable Wall Charger (USB-C & USB-A) + Free S&H",
-   "price": 5.29,
-   "old_price": 8.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&pno=1375902&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=ab435368ea2211f1bc8fea309893a51e&au=6b806e42544347fca8152643c4e64423&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&pno=1375902&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=ab435368ea2211f1bc8fea309893a51e&au=6b806e42544347fca8152643c4e64423&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22560282.thumb",
-   "posted": "2026-11-27T05:19:43+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 5.29,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385648&pno=1375902&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=ab435368ea2211f1bc8fea309893a51e&au=6b806e42544347fca8152643c4e64423&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T18:14:25+00:00"
+ "updated": "2026-11-27T18:19:12+00:00"
 }
