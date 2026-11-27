@@ -14,13 +14,13 @@
    "posted": "2026-11-27T20:32:45+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T20:33:32+00:00",
-   "category_ok": true,
-   "real_price": 71.49,
-   "real_old": 139.98,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20421042&tid=20421042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfd5d988eaa111f1a93c86c13d378fda&au=7472d48266f4430c9455848db235a959&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T20:33:32+00:00",
+   "real_price": 71.49,
+   "real_old": 139.98,
+   "category_ok": true
   },
   {
    "id": "7b1e36d13eee",
@@ -35,13 +35,13 @@
    "posted": "2026-11-27T20:32:45+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T20:33:34+00:00",
-   "category_ok": true,
-   "real_price": 71.49,
-   "real_old": 139.98,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20421042&tid=20421042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0fecc84eaa111f1907c76416eb272e4&au=343f2644bbd54fc79a789b809a0aff7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T20:33:34+00:00",
+   "real_price": 71.49,
+   "real_old": 139.98,
+   "category_ok": true
   },
   {
    "id": "b125a0fdae01",
@@ -341,7 +341,7 @@
    "id": "a9c309c39fdc",
    "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2) - $15 @ Walmart",
    "price": 15.0,
-   "old_price": 136.0,
+   "old_price": 148.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -353,16 +353,16 @@
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T14:37:30+00:00",
+   "checked_at": "2026-11-27T20:38:15+00:00",
    "real_price": 15.0,
-   "real_old": 136.0,
+   "real_old": 148.0,
    "category_ok": true
   },
   {
    "id": "d6f8d6496fbc",
    "title": "Star Wars Outlaws Gold Edition (Nintendo Switch 2) - $15 @ Walmart",
    "price": 15.0,
-   "old_price": 136.0,
+   "old_price": 148.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -374,9 +374,9 @@
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T14:37:31+00:00",
+   "checked_at": "2026-11-27T20:38:17+00:00",
    "real_price": 15.0,
-   "real_old": 136.0,
+   "real_old": 148.0,
    "category_ok": true
   },
   {
@@ -896,7 +896,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412264&tid=20412264&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7a92e5aea2a11f1bfc98628c169462b&au=6058fcf561444414885f845d773d8ffa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:36:48+00:00",
+   "checked_at": "2026-11-27T20:38:20+00:00",
    "real_price": 127.0,
    "real_old": 128.0,
    "category_ok": true
@@ -11442,10 +11442,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20420805&tid=20420805&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f29149eeeaa111f1a62402f3c44692c2&au=7debfc8ee47945deb5a54cb408dce43d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T20:34:30+00:00",
    "real_price": 1470.59,
-   "real_old": 2771.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20420805&tid=20420805&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f29149eeeaa111f1a62402f3c44692c2&au=7debfc8ee47945deb5a54cb408dce43d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2771.99
   },
   {
    "id": "t811f58c668e",
@@ -11496,10 +11496,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20420604&tid=20420604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f3a725a6eaa111f1bdf762d7d2e557c3&au=bd091d1a977a4fcb877e4106f31cb68a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T20:34:32+00:00",
    "real_price": 507.59,
-   "real_old": 1499.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20420604&tid=20420604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f3a725a6eaa111f1bdf762d7d2e557c3&au=bd091d1a977a4fcb877e4106f31cb68a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1499.99
   },
   {
    "id": "td190246886b",
@@ -11751,7 +11751,7 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "37USDEAL",
+   "code": "USBF37",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413857&pno=1376400&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f984e190ea9011f18019eac107f92f61&au=e6b30d5008bb4adf81655a5ea8e64778&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -11832,6 +11832,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "JJX08G",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413527&pno=1376364&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d642c49aea8b11f183a41645367a00b3&au=e770d269e8e34310a7d40ecf1884af7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:56:14+00:00",
    "real_price": 52.03,
@@ -12189,8 +12192,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f4ec224aeaa111f189de369acfc9bd84&au=44df0d1c8ad541c19c5006ecf4d3b019&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:34:35+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9b0a232aeaa211f1bc94de0e47c25fb8&au=957c143861dc49cc83698897d344d0c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:39:13+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -12261,6 +12264,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "O0BEGB2B",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:36:26+00:00",
    "real_price": 19.79,
@@ -12902,8 +12908,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f6342c88eaa111f1855ab6707a28b12e&au=b12dfb68633f4512a7b3ce2df5cc5c69&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:34:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9c22ba88eaa211f186454247ca325133&au=6f3e375d0c214841bd142522a7ba0a0f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:39:15+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13866,8 +13872,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f74f929ceaa111f1ab5d02f3c44692c2&au=4b26e2509f344d449c16e7422954de96&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T20:34:38+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9d5135c4eaa211f1b887de0e47c25fb8&au=aebfb2d134a84f6b8f7671427bf30780&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T20:39:17+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14598,10 +14604,10 @@
    "code": "3USDEAL",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413764&tid=20413764&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f8717d20eaa111f1860e9a599faef94a&au=6be50918a527496e819c8c19d0959b94&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T20:34:40+00:00",
    "real_price": 12.25,
-   "real_old": 39.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413764&tid=20413764&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f8717d20eaa111f1860e9a599faef94a&au=6be50918a527496e819c8c19d0959b94&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 39.0
   },
   {
    "id": "t9f2022ed2f9",
@@ -16554,8 +16560,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f4ec224aeaa111f189de369acfc9bd84&au=44df0d1c8ad541c19c5006ecf4d3b019&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f4ec224aeaa111f189de369acfc9bd84&au=44df0d1c8ad541c19c5006ecf4d3b019&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9b0a232aeaa211f1bc94de0e47c25fb8&au=957c143861dc49cc83698897d344d0c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9b0a232aeaa211f1bc94de0e47c25fb8&au=957c143861dc49cc83698897d344d0c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -16571,7 +16577,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f4ec224aeaa111f189de369acfc9bd84&au=44df0d1c8ad541c19c5006ecf4d3b019&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9b0a232aeaa211f1bc94de0e47c25fb8&au=957c143861dc49cc83698897d344d0c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16672,7 +16678,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "O0BEGB2B",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19006,19 +19012,19 @@
    ]
   },
   {
-   "id": "t9eb1d2ab6ed",
-   "title": "Kobalt 12-Amp Variable Speed Adjustable Aluminum Router Table in Blue | K12RTC",
-   "price": 99.0,
-   "old_price": 179.0,
-   "store": "Lowe's",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20412519&tid=20412519&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=84dc7438ea4111f18a9bc205d635bffe&au=d34b5acdd8c54991937cfc05451a4e97&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20412519&tid=20412519&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=84dc7438ea4111f18a9bc205d635bffe&au=d34b5acdd8c54991937cfc05451a4e97&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22627806.thumb",
-   "posted": "2026-11-27T06:50:10+00:00",
+   "id": "t7a4c3bf6d21",
+   "title": "Apple MacBook Air 15\" Laptop: M5 10-Core Chip, 24GB RAM, 512GB SSD + Free S&H",
+   "price": 1399.0,
+   "old_price": 1699.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e8c9852eaa211f1bcbbd613b823c897&au=19c688915c60437690163bc1d4447176&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e8c9852eaa211f1bcbbd613b823c897&au=19c688915c60437690163bc1d4447176&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
+   "posted": "2026-11-27T06:42:37+00:00",
    "kind": "tech",
    "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
+   "cat": "pc",
+   "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
    "code": null,
@@ -19026,66 +19032,66 @@
    "promo": null,
    "offers": [
     {
-     "store": "Lowe's",
-     "price": 99.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20412519&tid=20412519&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=84dc7438ea4111f18a9bc205d635bffe&au=d34b5acdd8c54991937cfc05451a4e97&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "store": "B&H Photo Video",
+     "price": 1399.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e8c9852eaa211f1bcbbd613b823c897&au=19c688915c60437690163bc1d4447176&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
   {
-   "id": "t632e7cb614a",
-   "title": "Razer Kraken V4 X Gaming Headset - My Melody Edition",
-   "price": 19.99,
-   "old_price": 109.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22627749.thumb",
-   "posted": "2026-11-27T06:48:20+00:00",
+   "id": "tca59b642678",
+   "title": "65\" TCL QM64L Mini LED QLED 4K 144Hz Smart TV + 10% Back",
+   "price": 499.99,
+   "old_price": 649.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a11406beeaa211f1b60a5687b8eab817&au=dfda5f2820e44b14a63eab39907221df&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a11406beeaa211f1b60a5687b8eab817&au=dfda5f2820e44b14a63eab39907221df&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22626387.thumb",
+   "posted": "2026-11-27T06:00:09+00:00",
    "kind": "tech",
    "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
+   "cat": "tv",
+   "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": "BIGFRIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
     {
-     "store": "Woot!",
-     "price": 19.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&tid=20412501&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8f19428ea3911f19cebba566ef4559a&au=57aa4ebbb27d404a9e9fb6ce1ef269b2&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "store": "Amazon",
+     "price": 499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402364&pno=1375947&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a11406beeaa211f1b60a5687b8eab817&au=dfda5f2820e44b14a63eab39907221df&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
   {
-   "id": "tb5bcb0d4880",
-   "title": ": (NEW) Sennheiser MOMENTUM 4 Wireless ANC Headphones",
-   "price": 151.96,
-   "old_price": 279.95,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412453&tid=20412453&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02e74f78ea4811f18ad2beaed212ecc4&au=3611c9fbb6444a46ae9dfc4193d3ef24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412453&tid=20412453&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02e74f78ea4811f18ad2beaed212ecc4&au=3611c9fbb6444a46ae9dfc4193d3ef24&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22627653.thumb",
-   "posted": "2026-11-27T06:43:54+00:00",
+   "id": "t59bd06f0975",
+   "title": "32\" Alienware AW3225QF 4K 240Hz Curved QD-OLED Gaming Monitor + Free S&H",
+   "price": 699.99,
+   "old_price": 999.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a2464ce0eaa211f1b4b21abd49483295&au=fe8b9267399448b7aae96936e1d2ffba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a2464ce0eaa211f1b4b21abd49483295&au=fe8b9267399448b7aae96936e1d2ffba&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/300x300/22626225.thumb",
+   "posted": "2026-11-27T05:47:18+00:00",
    "kind": "tech",
    "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
+   "cat": "pc",
+   "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "BIGFRIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
     {
-     "store": "Woot!",
-     "price": 151.96,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412453&tid=20412453&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02e74f78ea4811f18ad2beaed212ecc4&au=3611c9fbb6444a46ae9dfc4193d3ef24&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "store": "Best Buy",
+     "price": 699.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20410320&pno=1375929&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a2464ce0eaa211f1b4b21abd49483295&au=fe8b9267399448b7aae96936e1d2ffba&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T20:35:26+00:00"
+ "updated": "2026-11-27T20:40:08+00:00"
 }
