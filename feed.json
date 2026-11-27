@@ -1165,7 +1165,7 @@
    "id": "730021359863",
    "title": "$92.99: Samsung P9 Express microSDXC 512GB for Nintendo-Switch 2 at Amazon",
    "price": 92.99,
-   "old_price": 150.0,
+   "old_price": 149.99,
    "store": "Amazon",
    "kind": "hardware",
    "collector": false,
@@ -1177,9 +1177,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402376&tid=20402376&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=a557c176e99311f181a20a31e97cbd0c&au=3ef192678116443da36796141aa65f53&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:20:33+00:00",
+   "checked_at": "2026-11-27T00:20:49+00:00",
    "real_price": 92.99,
-   "real_old": 150.0,
+   "real_old": 149.99,
    "category_ok": false
   },
   {
@@ -1282,7 +1282,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401686&tid=20401686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=39dd1f68e96111f1a9645602461873bc&au=e0258d3775134a60b96d76635bcb09a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:20:37+00:00",
+   "checked_at": "2026-11-27T00:20:54+00:00",
    "real_price": 60.0,
    "real_old": null,
    "category_ok": true
@@ -1471,7 +1471,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=38b1fc12e96111f183ee4e2bf151338f&au=59d4e874dea442368e29237c2ba19c10&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:20:35+00:00",
+   "checked_at": "2026-11-27T00:20:52+00:00",
    "real_price": 59.99,
    "real_old": null,
    "category_ok": true
@@ -1813,7 +1813,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=e01e0b82e8fb11f1b1ddfea0be5fc86f&au=a2dcf303573a4c4a9edb7776dd084386&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:20:40+00:00",
+   "checked_at": "2026-11-27T00:20:57+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1834,7 +1834,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=e15fc40ee8fb11f1a31282307f8bab1b&au=96801bdd6306498c8c167a938e1899d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:20:41+00:00",
+   "checked_at": "2026-11-27T00:20:59+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11357,6 +11357,42 @@
  ],
  "raw_tech": [
   {
+   "id": "t083036d9ecb",
+   "title": "Milwaukee M18 REDLITHIUM FORGE XC8.0 Ah Lithium Battery $129 + Free S&H",
+   "price": 128.99,
+   "old_price": 229.0,
+   "store": "Way Source",
+   "url": "https://slickdeals.net/f/20405589-milwaukee-m18-redlithium-forge-xc8-0-battery-pack-48-11-1881-128-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612035.thumb",
+   "posted": "2026-11-27T00:19:47+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T00:21:55+00:00",
+   "real_price": 128.99,
+   "real_old": 229.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405589&pno=1375602&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8d01a280e9f811f1810f26dc1357c482&au=3686000aaa1b491d81a13d40b05063e1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "taaa77e3e2b5",
+   "title": "10000mAh Energizer 22.5W Magnetic Wireless Power Bank w/ Apple Watch Charger $28.50 + Free S&H",
+   "price": 28.49,
+   "old_price": 44.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20401578-energizer-10-000mah-22-5w-magnetic-wireless-qi-qi2-0-magsafe-powerbank-oled-display-apple-watch-charger-2-built-in-usb-c-cables-white-28-49-bestbuy-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601532.thumb",
+   "posted": "2026-11-27T00:19:43+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-27T00:21:57+00:00",
+   "real_price": 28.49,
+   "real_old": 44.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e12e36ee9f811f1834042ea8a74cf59&au=0b9b30fe136a466ca99a199916c20fea&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t6669a907e24",
    "title": "Costco Members: 65\" TCL QM6K Pro QD-Mini 4K Google TV (2025) w/ 5-Yr Warranty $500 + Free Delivery",
    "price": 499.99,
@@ -11387,8 +11423,7 @@
    "prio": 3,
    "refurb": false,
    "checked_at": "2026-11-27T00:17:08+00:00",
-   "real_price": 499.99,
-   "real_old": null
+   "real_price": 499.99
   },
   {
    "id": "t9b3c22fd73c",
@@ -11787,8 +11822,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e31a5942e9f711f18ad37afb1e5a0239&au=76f81027acbf4e6aa249617dec0181ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:17:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f3397c0e9f811f195ee62be492916db&au=b132f96c8a6d4ff4abc9a303778e3fe6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:21:59+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -12592,10 +12627,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20407515&tid=20407515&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e44c207ae9f711f188bbdace3db5b6ef&au=6a64746e236e4c9eb73bf46d2ea7146d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T00:17:12+00:00",
    "real_price": 92.97,
-   "real_old": 161.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20407515&tid=20407515&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e44c207ae9f711f188bbdace3db5b6ef&au=6a64746e236e4c9eb73bf46d2ea7146d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 161.97
   },
   {
    "id": "t8ce7fe149d1",
@@ -13638,8 +13673,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=e5951432e9f711f1bc3b5670c858351b&au=34d62616df3242b1a9dbde5bf389e7fe&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:17:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9096509ee9f811f18e0316186c12ece4&au=8c7b7c45aab4415ca066fca1e7c47b5f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:22:03+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15724,45 +15759,36 @@
    "checked_at": "2026-11-26T16:06:17+00:00",
    "real_price": 55.96,
    "real_old": 69.95
-  },
-  {
-   "id": "t9510fe073dc",
-   "title": "$284.99* | Google Pixel Watch 5 (41mm) - Android Smartwatch - Obsidian - Wi-Fi + 10% Back w/ Prime Visa Card at Amazon",
-   "price": 284.99,
-   "old_price": 399.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20402379-284-99-google-pixel-watch-5-41mm-android-smartwatch-obsidian-wi-fi-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603785.thumb",
-   "posted": "2026-11-26T08:03:56+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T12:12:59+00:00",
-   "real_price": 284.99,
-   "real_old": 399.99
-  },
-  {
-   "id": "tbdcde0a2e08",
-   "title": "[AC] $369.99* | AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor at Amazon",
-   "price": 369.99,
-   "old_price": 479.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20402367-ac-369-99-amd-ryzen-7-9800x3d-4-7-ghz-8-core-16-thread-am5-desktop-processor-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603758.thumb",
-   "posted": "2026-11-26T08:03:10+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402367&tid=20402367&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1e1f702ce98511f1a44eeeea42f34856&au=37ef1ebdaeae4910a5dad3ce7fc58310&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T10:35:37+00:00",
-   "real_price": 369.99,
-   "real_old": 479.0
   }
  ],
  "tech": [
+  {
+   "id": "taaa77e3e2b5",
+   "title": "10000mAh Energizer 22.5W Magnetic Wireless Power Bank",
+   "price": 28.49,
+   "old_price": 44.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e12e36ee9f811f1834042ea8a74cf59&au=0b9b30fe136a466ca99a199916c20fea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e12e36ee9f811f1834042ea8a74cf59&au=0b9b30fe136a466ca99a199916c20fea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22601532.thumb",
+   "posted": "2026-11-27T00:19:43+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 28.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401578&pno=1375605&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e12e36ee9f811f1834042ea8a74cf59&au=0b9b30fe136a466ca99a199916c20fea&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t9b3c22fd73c",
    "title": "Wendy's Restaurant App Exclusive Offer: Big Noon Big Deal: Dave's Single Burger 50% Off",
@@ -16054,8 +16080,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e31a5942e9f711f18ad37afb1e5a0239&au=76f81027acbf4e6aa249617dec0181ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e31a5942e9f711f18ad37afb1e5a0239&au=76f81027acbf4e6aa249617dec0181ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f3397c0e9f811f195ee62be492916db&au=b132f96c8a6d4ff4abc9a303778e3fe6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f3397c0e9f811f195ee62be492916db&au=b132f96c8a6d4ff4abc9a303778e3fe6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16071,7 +16097,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e31a5942e9f711f18ad37afb1e5a0239&au=76f81027acbf4e6aa249617dec0181ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f3397c0e9f811f195ee62be492916db&au=b132f96c8a6d4ff4abc9a303778e3fe6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18945,34 +18971,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402394&tid=20402394&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=9642ac94e9b811f180b07ef858723a76&au=d80e3e0ebb0444eea9381bf26d1b895f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t806bd329c36",
-   "title": "NOCO GENIUS5: 5-Amp 6V / 12V Automatic Smart Battery Charger & Maintainer & More",
-   "price": 55.96,
-   "old_price": 69.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/3/3/5/6/0/300x300/22604418.thumb",
-   "posted": "2026-11-26T08:04:05+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 55.96,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T00:18:02+00:00"
+ "updated": "2026-11-27T00:22:49+00:00"
 }
