@@ -1855,7 +1855,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=60271880e92b11f185cb7af7a0db170d&au=ac7f73f78062416f9fe27abfe3698f62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T17:57:43+00:00",
+   "checked_at": "2026-11-27T00:02:12+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -10643,9 +10643,9 @@
     {
      "store": "Amazon",
      "url": "https://www.amazon.com/dp/B0HJ6TYPWF",
-     "price": null,
-     "status": "agotado",
-     "since": "2026-11-13T08:20:15+00:00"
+     "price": 24.99,
+     "status": "disponible",
+     "since": "2026-11-27T00:02:14+00:00"
     },
     {
      "store": "Best Buy",
@@ -11357,6 +11357,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t9b3c22fd73c",
+   "title": "Wendy's Restaurant App Exclusive Offer: Big Noon Big Deal: Dave's Single Burger 50% Off w/ Purchase (Valid thru 12/5)",
+   "price": null,
+   "old_price": null,
+   "store": "Wendy's",
+   "url": "https://slickdeals.net/f/20407752-wendy-s-restaurant-app-exclusive-offer-big-noon-big-deal-dave-s-single-burger-50-off-w-purchase-valid-thru-12-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22622073.thumb",
+   "posted": "2026-11-26T23:58:25+00:00",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "prio": 16,
+   "refurb": false,
+   "code": "FOXBIGNOON",
+   "code_until": "2026-12-05",
+   "promo": "50% Off",
+   "checked_at": "2026-11-27T00:03:09+00:00",
+   "real_price": 59.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&pno=1375587&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edd1f888e9f511f1acf39edf9ccb03d5&au=12526d18c0664d89ae0af8c11a8df320&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t614c1ffe8db",
    "title": "Crandall Office Furniture Factory Return Office Chairs (Steelcase & More) Extra 25% Off + Free S&H",
    "price": null,
@@ -11498,10 +11519,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409558&tid=20409558&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=46ea9a16e9f511f1908a8e8a02b1854e&au=86cb578d1f8948e193f3b48f5878c81c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:58:29+00:00",
    "real_price": 1076.0,
-   "real_old": 1999.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409558&tid=20409558&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=46ea9a16e9f511f1908a8e8a02b1854e&au=86cb578d1f8948e193f3b48f5878c81c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1999.0
   },
   {
    "id": "t1ef2fe6a114",
@@ -11676,10 +11697,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20409213&tid=20409213&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=482bdad4e9f511f180809a4cc94bd7f7&au=bc98a74711584a08899443a0ccfcec19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:58:31+00:00",
    "real_price": 79.0,
-   "real_old": 150.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20409213&tid=20409213&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=482bdad4e9f511f180809a4cc94bd7f7&au=bc98a74711584a08899443a0ccfcec19&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 150.0
   },
   {
    "id": "t3226bbf05b5",
@@ -11733,8 +11754,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=494d0578e9f511f186a9ba8bfaabbf0e&au=7301243a348d40d9a47557c1410d15eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:58:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ef29ca8ae9f511f1b02f4afcd2c440ad&au=27d86f5cdfc54c6381c2589118535627&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:03:11+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -12167,10 +12188,10 @@
    "code": "M8RP42LD",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408115&tid=20408115&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4a6e2996e9f511f1af29ea309893a51e&au=f4b79c55a2504bad8859bf29973f213a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:58:35+00:00",
    "real_price": 8.99,
-   "real_old": 22.98,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408115&tid=20408115&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=4a6e2996e9f511f1af29ea309893a51e&au=f4b79c55a2504bad8859bf29973f213a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 22.98
   },
   {
    "id": "t385df3b5f65",
@@ -12242,8 +12263,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=4b889366e9f511f1ac3d6e6522384b61&au=41d80e28067e41a18a3156fed4cb73e1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:58:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=f04a6744e9f511f1b8dcba566ef4559a&au=587ec62e69cf4fc6b16c1bc66d2db1cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:03:13+00:00",
    "real_price": 4.24,
    "real_old": 5.99
   },
@@ -13568,8 +13589,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=4ca4be1ee9f511f180445670c858351b&au=ff5febfad91a4f78803a9740de8200b0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:58:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f178c106e9f511f182835e7d453500a5&au=9dcfb44a87ac4e3da7a1bb2e417ccf19&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:03:16+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15744,27 +15765,30 @@
    "checked_at": "2026-11-26T20:22:03+00:00",
    "real_price": 309.0,
    "real_old": 449.0
-  },
-  {
-   "id": "t3ebd9ceec64",
-   "title": "DEWALT 20V MAX 8 in. Brushless Cordless Battery Powered Mini Pruning Chainsaw (Tool Only) $79 @Home depot",
-   "price": 79.0,
-   "old_price": 146.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20402322-dewalt-20v-max-8-in-brushless-cordless-battery-powered-mini-pruning-chainsaw-tool-only-79-home-depot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22603677.thumb",
-   "posted": "2026-11-26T07:59:29+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20402322&tid=20402322&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=e94f1192e99111f191c25ab5b1f81fbd&au=5fd3162dd8f44764a0e40a84038c8b37&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T12:07:12+00:00",
-   "real_price": 79.0,
-   "real_old": 146.0
   }
  ],
  "tech": [
+  {
+   "id": "t9b3c22fd73c",
+   "title": "Wendy's Restaurant App Exclusive Offer: Big Noon Big Deal: Dave's Single Burger 50% Off",
+   "price": null,
+   "old_price": null,
+   "store": "Wendy's",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&pno=1375587&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edd1f888e9f511f1acf39edf9ccb03d5&au=12526d18c0664d89ae0af8c11a8df320&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&pno=1375587&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=edd1f888e9f511f1acf39edf9ccb03d5&au=12526d18c0664d89ae0af8c11a8df320&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22622073.thumb",
+   "posted": "2026-11-26T23:58:25+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "cupones",
+   "cat_label": "Códigos de tienda",
+   "refurb": false,
+   "glitch": false,
+   "code": "FOXBIGNOON",
+   "code_until": "2026-12-05",
+   "promo": "50% Off",
+   "offers": []
+  },
   {
    "id": "t614c1ffe8db",
    "title": "Crandall Office Furniture Factory Return Office Chairs (Steelcase & More) Extra 25% Off + Free S&H",
@@ -16035,8 +16059,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=494d0578e9f511f186a9ba8bfaabbf0e&au=7301243a348d40d9a47557c1410d15eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=494d0578e9f511f186a9ba8bfaabbf0e&au=7301243a348d40d9a47557c1410d15eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ef29ca8ae9f511f1b02f4afcd2c440ad&au=27d86f5cdfc54c6381c2589118535627&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ef29ca8ae9f511f1b02f4afcd2c440ad&au=27d86f5cdfc54c6381c2589118535627&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16052,7 +16076,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=494d0578e9f511f186a9ba8bfaabbf0e&au=7301243a348d40d9a47557c1410d15eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ef29ca8ae9f511f1b02f4afcd2c440ad&au=27d86f5cdfc54c6381c2589118535627&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18953,34 +18977,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tbdcde0a2e08",
-   "title": "[AC] * | AMD Ryzen 7 9800X3D 4.7 GHz 8-Core 16-Thread AM5 Desktop Processor",
-   "price": 369.99,
-   "old_price": 479.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402367&tid=20402367&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1e1f702ce98511f1a44eeeea42f34856&au=37ef1ebdaeae4910a5dad3ce7fc58310&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402367&tid=20402367&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1e1f702ce98511f1a44eeeea42f34856&au=37ef1ebdaeae4910a5dad3ce7fc58310&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603758.thumb",
-   "posted": "2026-11-26T08:03:10+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 369.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402367&tid=20402367&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=1e1f702ce98511f1a44eeeea42f34856&au=37ef1ebdaeae4910a5dad3ce7fc58310&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-26T23:59:22+00:00"
+ "updated": "2026-11-27T00:04:05+00:00"
 }
