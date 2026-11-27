@@ -14,11 +14,11 @@
    "posted": "2026-11-27T23:40:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T23:44:11+00:00",
-   "category_ok": false,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+GameStop&sdtid=20422686&tid=20422686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71928bbceabc11f1869ac228c7394a2e&au=4c86a38b981348bcab1632eae1893722&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T23:44:11+00:00",
+   "category_ok": false
   },
   {
    "id": "beb9bade2ec1",
@@ -33,11 +33,11 @@
    "posted": "2026-11-27T23:40:13+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T23:44:13+00:00",
-   "category_ok": false,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+GameStop&sdtid=20422686&tid=20422686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=72d112dceabc11f1a8000e6eb3ae90a0&au=ffa6445d4fa4446da5941084bc4c781c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T23:44:13+00:00",
+   "category_ok": false
   },
   {
    "id": "64c72e9215c6",
@@ -1194,7 +1194,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411799&tid=20411799&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=13241538ea2511f185825670c858351b&au=1a4b26d1a4fa4bb5b234b4ef7809e629&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T17:44:43+00:00",
+   "checked_at": "2026-11-27T23:48:47+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1215,7 +1215,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411799&tid=20411799&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=142f254eea2511f1820482c4a455846c&au=515dbea66bf04c4eaff97160c9049cc1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T17:44:45+00:00",
+   "checked_at": "2026-11-27T23:48:49+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11339,6 +11339,42 @@
    "real_old": 998.75
   },
   {
+   "id": "t9ee5dc9cf96",
+   "title": "14-Pc DeWALT Black & Gold Coated HSS Twist Drill Bit Set w/ Holding Case $7 + Free S&H",
+   "price": 6.98,
+   "old_price": 15.98,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20421093-dewalt-black-gold-14-piece-black-and-gold-coated-hss-jobber-length-twist-drill-bit-set-dwamdb14set-6-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22649085.thumb",
+   "posted": "2026-11-27T23:46:26+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T23:49:43+00:00",
+   "real_price": 6.98,
+   "real_old": 15.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20421093&pno=1376610&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=38040cbceabd11f18971ca86e63aa71a&au=4161e7fae0e743188928e5cdcdd79453&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t69c5842ab4d",
+   "title": "Sam's Club Members: 49\" MSI DQHD 5120x1440 144Hz Curved OLED Gaming Monitor $599 + Free S&H w/ Plus",
+   "price": 599.0,
+   "old_price": 749.0,
+   "store": "Sam's Club",
+   "url": "https://slickdeals.net/f/20412933-msi-49-curved-oled-display-144hz-0-03ms-gaming-monitor-599?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/6/5/4/9/2/300x300/22629204.thumb",
+   "posted": "2026-11-27T23:45:27+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T23:49:45+00:00",
+   "real_price": 599.0,
+   "real_old": 749.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tf810911193f",
    "title": "Legion Tower 5i Gen 10 Desktop: Ultra 7 255HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $2073 & More + Free S&H",
    "price": 2072.69,
@@ -13014,8 +13050,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c33476eabc11f1bbae62c765aa2f7b&au=014aa3d901fb4e5ab6a81bcdda830468&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:45:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:49:47+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -13348,6 +13384,24 @@
    "checked_at": "2026-11-27T15:58:17+00:00",
    "real_price": 19.99,
    "real_old": 41.99
+  },
+  {
+   "id": "ta975020a758",
+   "title": "LG 32G600A-B 32\" 1440p 180Hz VA FreeSync Curved Gaming Monitor $179",
+   "price": 179.0,
+   "old_price": 259.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20417715-lg-32g600a-b-32-1440p-180hz-va-freesync-curved-gaming-monitor-179?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641240.thumb",
+   "posted": "2026-11-27T15:50:36+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-27T23:49:49+00:00",
+   "real_price": 179.0,
+   "real_old": 259.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t8838c0979fd",
@@ -13730,8 +13784,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=93ffe226eabc11f18aea967e975f14b0&au=9f9dff334ebc4534afd5bfc2a5f2d4c2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:45:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=3cf3ef4eeabd11f1b697124c5ab3ec83&au=c7f56ed541c448f7aec07a930e07b87e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:49:52+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14867,8 +14921,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=953705aceabc11f1b452c228c7394a2e&au=325e62baccd0492f806f6720a4fa4eb0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T23:45:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=3e5b1e2aeabd11f1b7dc6a72111b023c&au=a9ceaa193c8a4a72b1f96b44c5f0a446&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T23:49:54+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15735,66 +15789,36 @@
    "checked_at": "2026-11-27T13:55:08+00:00",
    "real_price": 144.0,
    "real_old": 314.0
-  },
-  {
-   "id": "te54af70e6d5",
-   "title": "RYOBI ONE+ HP 18V Brushless Cordless 220 CFM 140 MPH Compact Leaf Blower with 4.0 Ah Battery & Charger $99",
-   "price": 99.0,
-   "old_price": 149.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413632-ryobi-one-hp-18v-brushless-cordless-220-cfm-140-mph-compact-leaf-blower-with-4-0-ah-battery-charger-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22630332.thumb",
-   "posted": "2026-11-27T08:18:51+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413632&tid=20413632&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b5e3dcf2ea7c11f1b54ce666d291e204&au=360614d477c14cf78cd2fcd241673e42&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:07:57+00:00",
-   "real_price": 99.0,
-   "real_old": 149.0
-  },
-  {
-   "id": "t5f9a0562eb5",
-   "title": "KINGROON 10kg Mixed-Color PLA 1.75mm 3D Printer Filament $56.65 + Free Shipping",
-   "price": 56.65,
-   "old_price": 79.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20413620-kingroon-10kg-mixed-color-pla-1-75mm-3d-printer-filament-56-65-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22630311.thumb",
-   "posted": "2026-11-27T08:18:25+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "JJX08G",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413620&tid=20413620&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71182a1cea5211f1b6c93ece42a7e54a&au=3ad885b7d23a42a698937599e258e7c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:05:23+00:00",
-   "real_price": 56.65,
-   "real_old": 79.0
-  },
-  {
-   "id": "t2a28486a3df",
-   "title": "Ryobi ONE+ HP 18V Brushless Cordless 2-Tool Combo Kit with 1/2 in. Impact Wrench & Compact 3/8 in. Impact Wrench (Tools Only) $139",
-   "price": 139.0,
-   "old_price": 308.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20413590-ryobi-one-hp-18v-brushless-cordless-2-tool-combo-kit-with-1-2-in-impact-wrench-compact-3-8-in-impact-wrench-tools-only-139?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22630257.thumb",
-   "posted": "2026-11-27T08:17:14+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413590&tid=20413590&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c70710cea7011f19e125660cadc0bfb&au=defc4c0c8816401d9f394b7ae7a5bc98&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:38:40+00:00",
-   "real_price": 139.0,
-   "real_old": 308.0
   }
  ],
  "tech": [
+  {
+   "id": "t69c5842ab4d",
+   "title": "Sam's Club Members: 49\" MSI DQHD 5120x1440 144Hz Curved OLED Gaming Monitor + Free S&H",
+   "price": 599.0,
+   "old_price": 749.0,
+   "store": "Sam's Club",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/6/5/4/9/2/300x300/22629204.thumb",
+   "posted": "2026-11-27T23:45:27+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Sam's Club",
+     "price": 599.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20412933&pno=1376604&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=391f445eeabd11f1a7f946d7d657c68b&au=7e1e8eeaac3e443381e4dcee63057174&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tf810911193f",
    "title": "Legion Tower 5i Gen 10 Desktop: Ultra 7 255HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD & More + Free S&H",
@@ -17226,8 +17250,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c33476eabc11f1bbae62c765aa2f7b&au=014aa3d901fb4e5ab6a81bcdda830468&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c33476eabc11f1bbae62c765aa2f7b&au=014aa3d901fb4e5ab6a81bcdda830468&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17243,7 +17267,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=92c33476eabc11f1bbae62c765aa2f7b&au=014aa3d901fb4e5ab6a81bcdda830468&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3a6acd7eeabd11f1a18ddebec45f07fe&au=27ac7bd284aa4bfea210b23bb56ebef7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17595,6 +17619,33 @@
      "store": "Amazon",
      "price": 19.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411727&pno=1376277&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5be050b0ea7b11f1a0122a97915d1529&au=7afe6f96703446c4b85c126c21c606dd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta975020a758",
+   "title": "LG 32G600A-B 32\" 1440p 180Hz VA FreeSync Curved Gaming Monitor",
+   "price": 179.0,
+   "old_price": 259.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641240.thumb",
+   "posted": "2026-11-27T15:50:36+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 179.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417715&tid=20417715&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3b9248daeabd11f1a4b83a10e94e529a&au=2ec1e69605a5424ca0bc9e41bd67db4d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18974,61 +19025,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414043&tid=20414043&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2b0d0aea9511f1bb2e72d7dca52f8f&au=977de9ed21bd47729bef5f2963a0ec41&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t56081418c10",
-   "title": "Logitech G502 X Wired Optical Gaming Mouse (White)",
-   "price": 39.99,
-   "old_price": 99.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414034&tid=20414034&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=9d5cc016ea6511f19b2922a3727f3824&au=519cf2309d6740cb8b2c0253a95c9987&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414034&tid=20414034&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=9d5cc016ea6511f19b2922a3727f3824&au=519cf2309d6740cb8b2c0253a95c9987&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22631532.thumb",
-   "posted": "2026-11-27T08:46:12+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414034&tid=20414034&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=9d5cc016ea6511f19b2922a3727f3824&au=519cf2309d6740cb8b2c0253a95c9987&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tef52565fbe5",
-   "title": "55\" LG OLED evo AI C6 Series 4K Smart TV",
-   "price": 999.99,
-   "old_price": null,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22631091.thumb",
-   "posted": "2026-11-27T08:39:53+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 999.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T23:46:00+00:00"
+ "updated": "2026-11-27T23:50:37+00:00"
 }
