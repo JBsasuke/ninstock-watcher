@@ -508,7 +508,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=1c9baddaea5a11f1998172d7dca52f8f&au=3312395a3f804bcf944868658ff339ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:00:17+00:00",
+   "checked_at": "2026-11-27T18:02:56+00:00",
    "real_price": 25.0,
    "real_old": 60.0,
    "category_ok": true
@@ -529,7 +529,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=1de4f700ea5a11f1a09baa474e079046&au=c1db27b6f8b24157adbe0e3b204a7af0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T12:00:19+00:00",
+   "checked_at": "2026-11-27T18:02:58+00:00",
    "real_price": 25.0,
    "real_old": 59.0,
    "category_ok": true
@@ -837,7 +837,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f356edaea3711f1b2463abe0aeab59b&au=3dd29abb45154a898f774399ac79c647&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T16:02:02+00:00",
+   "checked_at": "2026-11-27T18:03:02+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -11378,6 +11378,27 @@
    "real_old": 998.75
   },
   {
+   "id": "tdbb4f612ea6",
+   "title": "Refurb: Logitech MX Master 4 Ergonomic Wireless Mouse w/ Haptics $67.65 + Free S&H",
+   "price": 67.67,
+   "old_price": 119.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20417100-refurb-logitech-mx-master-4-ergonomic-wireless-mouse-with-haptic-feedback-67-67?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22639656.thumb",
+   "posted": "2026-11-27T18:02:03+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": true,
+   "code": "CYBERFINDS20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T18:04:03+00:00",
+   "real_price": 67.67,
+   "real_old": 119.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417100&pno=1376376&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=edd7787aea8c11f19756d2b0b78dd0f5&au=995a39ad576a4e60bafce8782bd01ecb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t67fdde0be26",
    "title": "10-Pk 1KG KINGROON 1.75mm PETG 3D Printer Filaments (Mix Color) $52.05 + Free S&H",
    "price": 52.03,
@@ -11825,6 +11846,24 @@
    "real_old": 41.99
   },
   {
+   "id": "t8838c0979fd",
+   "title": "$399.99 BEST BUY Samsung - 75\" Class U7900 Series UHD 4K Smart Tizen TV",
+   "price": 139.0,
+   "old_price": 140.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20417691-399-99-best-buy-samsung-75-class-u7900-series-uhd-4k-smart-tizen-tv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22641093.thumb",
+   "posted": "2026-11-27T15:48:22+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T18:04:05+00:00",
+   "real_price": 139.0,
+   "real_old": 140.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20417691&tid=20417691&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ef0aaca8ea8c11f1820d562a0aab39fc&au=ade4f0f3d9974a2f86e91f3736c7d333&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t3c870065673",
    "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) $2149 + Free S&H",
    "price": 2149.0,
@@ -12098,8 +12137,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4014addeea8c11f1ae66261efd69c6ee&au=71cc1e0c8ce84e19bb7c2f065a27fa95&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T17:59:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f05cabe2ea8c11f189ed1e68176ad4c2&au=6ecdf9af962c490fbbb68bdab45cbf04&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:04:07+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12868,8 +12907,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=412a1768ea8c11f196f192ffbb6aafe9&au=3d5047df26a74df0963891ddcf24dcf6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T17:59:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f1a0adc8ea8c11f1b4c612884ec1deb5&au=8246eb8f0b9645e8a37f8f7880ccc024&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T18:04:09+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15769,41 +15808,6 @@
    "checked_at": "2026-11-27T13:50:32+00:00",
    "real_price": 2159.99,
    "real_old": 2399.99
-  },
-  {
-   "id": "t74e08a0dad6",
-   "title": "Shop-Vac 16-Gallon 6.5 HP Wet/Dry Shop Vacuum w/ Accessories $69.98 + Free Shipping",
-   "price": 69.98,
-   "old_price": 139.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20411613-shop-vac-16-gallon-6-5-hp-wet-dry-shop-vacuum-w-accessories-69-98-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22625622.thumb",
-   "posted": "2026-11-27T05:14:37+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20411613&tid=20411613&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=1487e91aea4611f1bc76e6d19de15262&au=844b7796acbb472d8a91af54f878ce54&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:36:54+00:00",
-   "real_price": 69.98,
-   "real_old": 139.0
-  },
-  {
-   "id": "t9360acbcfd2",
-   "title": "Staples $105, get $42 in staples rewards  Brother HL-L2405W Refurbished Wireless, Black & White, Print-Only, Laser Printer,",
-   "price": 60.0,
-   "old_price": null,
-   "store": "Staples",
-   "url": "https://slickdeals.net/f/20411565-staples-105-get-42-in-staples-rewards-brother-hl-l2405w-refurbished-wireless-black-white-print-only-laser-printer?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22625553.thumb",
-   "posted": "2026-11-27T05:11:37+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20411565&tid=20411565&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45886716ea6811f1a5e6de0548895fbe&au=a45595af82ca474ca03bb9d459165941&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:41:40+00:00",
-   "real_price": 60.0
   }
  ],
  "tech": [
@@ -16236,6 +16240,33 @@
      "store": "Amazon",
      "price": 19.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411727&pno=1376277&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5be050b0ea7b11f1a0122a97915d1529&au=7afe6f96703446c4b85c126c21c606dd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t8838c0979fd",
+   "title": "BEST BUY Samsung - 75\" Class U7900 Series UHD 4K Smart Tizen TV",
+   "price": 139.0,
+   "old_price": 140.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20417691&tid=20417691&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ef0aaca8ea8c11f1820d562a0aab39fc&au=ade4f0f3d9974a2f86e91f3736c7d333&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20417691&tid=20417691&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ef0aaca8ea8c11f1820d562a0aab39fc&au=ade4f0f3d9974a2f86e91f3736c7d333&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22641093.thumb",
+   "posted": "2026-11-27T15:48:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 139.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20417691&tid=20417691&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ef0aaca8ea8c11f1820d562a0aab39fc&au=ade4f0f3d9974a2f86e91f3736c7d333&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19013,34 +19044,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tba6d01739d9",
-   "title": "Apple MacBook Pro (2026): 14\", M6, 32GB RAM, 1TB SSD, Space Black, 70W Power Adapter",
-   "price": 2159.99,
-   "old_price": 2399.99,
-   "store": "Micro Center",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20411622&tid=20411622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83948fcaea6911f191a1765a2aa2eedd&au=d5749196aff24dc1b14822171b6641cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20411622&tid=20411622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83948fcaea6911f191a1765a2aa2eedd&au=d5749196aff24dc1b14822171b6641cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/9/5/4/7/1/300x300/22625658.thumb",
-   "posted": "2026-11-27T05:15:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Micro Center",
-     "price": 2159.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20411622&tid=20411622&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83948fcaea6911f191a1765a2aa2eedd&au=d5749196aff24dc1b14822171b6641cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T18:00:09+00:00"
+ "updated": "2026-11-27T18:04:56+00:00"
 }
