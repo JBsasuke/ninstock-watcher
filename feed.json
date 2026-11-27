@@ -98,13 +98,13 @@
    "posted": "2026-11-27T11:58:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T12:52:58+00:00",
-   "category_ok": true,
-   "real_price": 25.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=78c9f434ea6111f1a48bca38dce9dd3d&au=2f79ad4d760f4fb59b1da24662ff0636&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T12:52:58+00:00",
+   "real_price": 25.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "7e9ec5d524dc",
@@ -727,7 +727,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f80a6898e9c911f1893aa27f351ed2dc&au=25999e62060c416987cf6adec9c9ead2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:54:54+00:00",
+   "checked_at": "2026-11-27T12:57:44+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -748,7 +748,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f922d76ae9c911f1a129768b21fc55b0&au=1752370671c84b7793475c1106598b2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:54:56+00:00",
+   "checked_at": "2026-11-27T12:57:46+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -10798,6 +10798,41 @@
  ],
  "news": [
   {
+   "id": "aldia-7b2ecf7ffe",
+   "title": "Nintendo Switch Sports Resort ya está disponible para Switch 2 con nuevas opciones de personalización",
+   "summary": "Nintendo lanzó Switch Sports Resort para Switch 2 con 12 deportes y un sistema de personalización de personajes. Así funcionan los artículos semanales y mensuales.",
+   "lang": "es",
+   "source": "Nintendo",
+   "url": "https://aldiard.com/n/7b2ecf7ffe.html",
+   "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+   "posted": "2026-11-27T12:53:40.810484+00:00",
+   "video": null,
+   "es": {
+    "title": "Nintendo Switch Sports Resort ya está disponible para Switch 2 con nuevas opciones de personalización",
+    "summary": "Nintendo lanzó Switch Sports Resort para Switch 2 con 12 deportes y un sistema de personalización de personajes. Así funcionan los artículos semanales y mensuales.",
+    "body": [
+     "Switch Sports Resort ya está disponible para la consola Nintendo Switch 2. El juego permite jugar solo o con amigos, en persona o en línea, y los jugadores pueden crear y personalizar a un Sportsmate o a su propio personaje Mii antes de empezar a competir.",
+     "Para personalizar el estilo del personaje, los jugadores ganan Puntos Spocco mientras juegan. Con esos puntos pueden desbloquear peinados, ropa y accesorios en el Centro de Artículos, que tiene secciones de \"Artículos de esta semana\" y \"Artículos de este mes\".",
+     "Los artículos semanales se renuevan cada miércoles y sus combinaciones son aleatorias. Las colecciones mensuales se pueden obtener desde el primer miércoles de un mes hasta el primer miércoles del mes siguiente. Si un jugador pierde un artículo, puede encontrarlo en las colecciones \"Reeditadas\" del mes siguiente. Los artículos se obtienen al azar con Puntos Spocco, pero no se repiten.",
+     "El juego incluye 12 deportes que se practican en tierra, mar y aire: boxeo, tenis de mesa, tiro con arco, tenis, voleibol, bowling, baloncesto, golf, lucha de pulgares, skateboarding, crucero a motor y avioneta. Además, en la isla se pueden buscar delfines, flores de hibisco y Fotos Spocco. También existe el modo Island Crown, para un jugador, con campeones y leyendas en nueve deportes.",
+     "Los Joy-Con 2, y en la mayoría de los casos los Joy-Con que ya se tengan, pueden usarse como raquetas, arcos o incluso pulgares. Nintendo recomienda usar correas de muñeca y dejar espacio alrededor al jugar. Las funciones en línea requieren una membresía de Nintendo Switch Online, aunque hay una prueba gratis de 7 días."
+    ],
+    "url": "https://aldiard.com/n/7b2ecf7ffe.html"
+   },
+   "en": {
+    "title": "Nintendo Switch Sports Resort Is Out Now on Switch 2, With New Style Customization",
+    "summary": "Nintendo has released Switch Sports Resort for Switch 2, featuring 12 sports and a character customization system. Here's how the weekly and monthly items work.",
+    "body": [
+     "Switch Sports Resort is now available for the Nintendo Switch 2 console. The game can be played solo or with friends, in person or online, and players can create and customize a Sportsmate or their own Mii character before competing.",
+     "To customize their character's style, players earn Spocco Points while they play. They can use those points to unlock hairstyles, outfits and accessories in the Item Center, which has sections for \"This Week's Items\" and \"This Month's Items.\"",
+     "Weekly items refresh every Wednesday, and their combinations are randomized. Monthly collections can be obtained from the first Wednesday of a month until the first Wednesday of the following month. If a player misses an item, they may find it again in the \"Reissued\" collections the following month. Items are pulled at random with Spocco Points, but players won't receive duplicates.",
+     "The game includes 12 sports played on land, sea and in the air: boxing, table tennis, archery, tennis, volleyball, bowling, basketball, golf, thumb wrestling, skateboarding, power cruising and prop plane. Players can also look for dolphins, hidden hibiscus flowers and Spocco Photos around the island. A single-player mode, Island Crown, lets them face Island Champions and Legends across nine sports.",
+     "Joy-Con 2 controllers, and in most cases existing Joy-Con controllers, can be used as rackets, bows or even thumbs. Nintendo recommends using wrist straps and leaving adequate room around you during play. Online functions require a Nintendo Switch Online membership, though a free 7-day trial is available."
+    ],
+    "url": "https://aldiard.com/en/n/7b2ecf7ffe.html"
+   }
+  },
+  {
    "id": "aldia-35baa1beca",
    "title": "Pokémon TCG celebra sus 30 años con dos colecciones de lujo: Día y Noche",
    "summary": "Pokémon TCG lanza dos colecciones ultra premium por su 30 aniversario, una con Espeon ex y otra con Umbreon ex, con cartas, accesorios y sobres.",
@@ -11364,21 +11399,27 @@
    "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
    "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
    "posted": "2026-11-22T00:11:03+00:00"
-  },
-  {
-   "id": "f69b9bb4e528",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
-   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
-   "posted": "2026-11-21T21:40:04+00:00"
   }
  ],
  "raw_tech": [
+  {
+   "id": "td5561be1f0f",
+   "title": "Apple AirPods Pro 3 Wireless Earbuds $150 & More + Free S&H",
+   "price": 149.99,
+   "old_price": 249.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412045-apple-airpods-pro-3-wireless-active-noise-cancelling-earbuds-150-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22626660.thumb",
+   "posted": "2026-11-27T12:54:49+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-27T12:58:42+00:00",
+   "real_price": 149.99,
+   "real_old": 249.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412045&pno=1376190&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=455efb5cea6211f1a2f2de1aa8eda0e7&au=eb2b534cca3b44e8bfd59ce858c9e658&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
   {
    "id": "t5d850a0f104",
    "title": "AMD Ryzen 9 9900X3D 4.40GHz 12-Core/24-Thread Boxed Processor $400 + Free Pickup Only",
@@ -11392,9 +11433,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF38",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T12:06:06+00:00",
    "real_price": 399.99,
@@ -11524,8 +11562,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9b4ede66ea6111f1b7459efc6feb8d3e&au=e1368757099e4683a7d0a5dd40f7fa48&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:53:56+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=46a8d406ea6211f199bdc2a1e982bbac&au=1c8758acdf3a40cea5ce28a616a4f570&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:58:44+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13587,8 +13625,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9c7c447cea6111f1b7f4ae42b3097af1&au=c2e160c9dc8e45f6af80b3270ab2d666&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:53:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48239924ea6211f1b3cbd20e61767b42&au=b317efd05e7d4bb3819a10d7a42f44ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:58:47+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15377,8 +15415,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9de7a536ea6111f19d5b1a3cffa48f07&au=310058e4b30345bfb2f64149eabf4fd8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:54:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=49c6e4acea6211f19f4752b9fd7fcd25&au=e3fe234060d44b76bc3c24c1e714165f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:58:49+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15795,27 +15833,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T20:35:24+00:00",
    "real_price": 565.99
-  },
-  {
-   "id": "tde516645fd2",
-   "title": "0.5-Kg 1.75mm Polymaker Fiberon Carbon Fiber ASA 3D Printer Filament (Various) from $11.45",
-   "price": 11.45,
-   "old_price": 19.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20400732-polymaker-fiberon-carbon-fiber-asa-3d-printer-filament-1-75mm-0-5-kg-various-from-11-45-w-s-s-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22599591.thumb",
-   "posted": "2026-11-26T20:30:30+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:35:26+00:00",
-   "real_price": 11.45,
-   "real_old": 19.99
   }
  ],
  "tech": [
+  {
+   "id": "td5561be1f0f",
+   "title": "Apple AirPods Pro 3 Wireless Earbuds & More + Free S&H",
+   "price": 149.99,
+   "old_price": 249.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412045&pno=1376190&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=455efb5cea6211f1a2f2de1aa8eda0e7&au=eb2b534cca3b44e8bfd59ce858c9e658&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412045&pno=1376190&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=455efb5cea6211f1a2f2de1aa8eda0e7&au=eb2b534cca3b44e8bfd59ce858c9e658&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22626660.thumb",
+   "posted": "2026-11-27T12:54:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 149.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412045&pno=1376190&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=455efb5cea6211f1a2f2de1aa8eda0e7&au=eb2b534cca3b44e8bfd59ce858c9e658&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t5d850a0f104",
    "title": "AMD Ryzen 9 9900X3D 4.40GHz 12-Core/24-Thread Boxed Processor + Free Pickup Only",
@@ -15832,7 +15879,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF38",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -17544,8 +17591,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9c7c447cea6111f1b7f4ae42b3097af1&au=c2e160c9dc8e45f6af80b3270ab2d666&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9c7c447cea6111f1b7f4ae42b3097af1&au=c2e160c9dc8e45f6af80b3270ab2d666&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48239924ea6211f1b3cbd20e61767b42&au=b317efd05e7d4bb3819a10d7a42f44ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48239924ea6211f1b3cbd20e61767b42&au=b317efd05e7d4bb3819a10d7a42f44ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17561,7 +17608,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9c7c447cea6111f1b7f4ae42b3097af1&au=c2e160c9dc8e45f6af80b3270ab2d666&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=48239924ea6211f1b3cbd20e61767b42&au=b317efd05e7d4bb3819a10d7a42f44ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18735,8 +18782,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9de7a536ea6111f19d5b1a3cffa48f07&au=310058e4b30345bfb2f64149eabf4fd8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9de7a536ea6111f19d5b1a3cffa48f07&au=310058e4b30345bfb2f64149eabf4fd8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=49c6e4acea6211f19f4752b9fd7fcd25&au=e3fe234060d44b76bc3c24c1e714165f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=49c6e4acea6211f19f4752b9fd7fcd25&au=e3fe234060d44b76bc3c24c1e714165f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18752,7 +18799,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9de7a536ea6111f19d5b1a3cffa48f07&au=310058e4b30345bfb2f64149eabf4fd8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=49c6e4acea6211f19f4752b9fd7fcd25&au=e3fe234060d44b76bc3c24c1e714165f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18998,34 +19045,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&tid=20408442&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=055cab4ee9e011f1bdeaa291739d63b5&au=6f17ca8cdda44c0b9b1abc473ed8a161&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t57963772159",
-   "title": "FS AMAZON MNN 15.6\" 1080P Portable Monitor IPS USB-C HDMI Gaming Screen for Laptop",
-   "price": 57.0,
-   "old_price": null,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/22621878.thumb",
-   "posted": "2026-11-26T20:35:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 57.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T12:54:55+00:00"
+ "updated": "2026-11-27T12:59:41+00:00"
 }
