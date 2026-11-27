@@ -227,10 +227,10 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=365bb554e9cd11f19714fa7163641875&au=b42cc080c0e44365b5b5a8b94dde4987&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T19:11:41+00:00",
+   "checked_at": "2026-11-27T01:11:46+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
-   "category_ok": false
+   "category_ok": true
   },
   {
    "id": "6f3a01c9c64f",
@@ -2489,8 +2489,6 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
-   "code": "SAVE3X",
-   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -2991,7 +2989,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T23:07:29+00:00",
+   "checked_at": "2026-11-27T01:11:48+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11393,6 +11391,24 @@
  ],
  "raw_tech": [
   {
+   "id": "tcfe05a4c986",
+   "title": "Sennheiser Accentum Wireless Bluetooth ANC Headphones from $85 & More + Free S&H",
+   "price": 84.95,
+   "old_price": 189.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20408064-sennheiser-accentum-wireless-anc-headphones-white-50-hour-battery-87-95-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22622613.thumb",
+   "posted": "2026-11-27T01:09:37+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-27T01:12:46+00:00",
+   "real_price": 84.95,
+   "real_old": 189.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a7811c60e9ff11f186faba1027db4731&au=2a811e2747574d1f9ec232c0063ebd99&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7e5ab3aead0",
    "title": "DeWALT 20V MAX Cordless Battery Powered Pruner (Tool Only) $79 + Free S&H",
    "price": 79.0,
@@ -11405,10 +11421,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20409213&pno=1375644&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=ff4e8758e9fe11f1bce526dc1357c482&au=70aed4e8412c4b82b6a5632e3b825b88&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T01:08:04+00:00",
    "real_price": 79.0,
-   "real_old": 129.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20409213&pno=1375644&prop=diavail-true%7Cdincp-1%7Cdinpd-15%7Cdipgavail-true&pv=ff4e8758e9fe11f1bce526dc1357c482&au=70aed4e8412c4b82b6a5632e3b825b88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 129.0
   },
   {
    "id": "t5f542b91a16",
@@ -11687,10 +11703,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409684&tid=20409684&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01115868e9ff11f1920916186c12ece4&au=9b4638348a30456daaf9f9e8db70f21a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T01:08:07+00:00",
    "real_price": 638.39,
-   "real_old": 1749.95,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409684&tid=20409684&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=01115868e9ff11f1920916186c12ece4&au=9b4638348a30456daaf9f9e8db70f21a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1749.95
   },
   {
    "id": "t46412fafdaf",
@@ -12197,8 +12213,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03a111e0e9ff11f193d18e8a02b1854e&au=631b9be2f345464aaf97647950beea14&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:08:11+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8acc814e9ff11f1a4049a4cc94bd7f7&au=1153d784967845c286753c8cfc9f310b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T01:12:48+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -13178,6 +13194,24 @@
    "real_old": 60.0
   },
   {
+   "id": "t9fe7025ded3",
+   "title": "$19.98, Lowe's, Project Source Project Source 12-volt 3/8-in Keyless Cordless Drill 1 -Battery and Charger Included",
+   "price": 19.98,
+   "old_price": 60.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20407137-19-98-lowe-s-project-source-project-source-12-volt-3-8-in-keyless-cordless-drill-1-battery-and-charger-included?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22615497.thumb",
+   "posted": "2026-11-26T18:06:05+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T01:12:50+00:00",
+   "real_price": 19.98,
+   "real_old": 60.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20407137&tid=20407137&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a9ec8eeee9ff11f1956c7e15aebef614&au=7cbbf72403f1483d9a287022296f1ecd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t07678909e9d",
    "title": "$369 HOME DEPOT DeWalt 15 Amp Corded 12 in. Compound Single Bevel Miter Saw and Heavy-Duty Work Stand",
    "price": 137.0,
@@ -13643,6 +13677,27 @@
    "real_old": 399.99
   },
   {
+   "id": "ta1f7d8aa9ca",
+   "title": "Chefman 14-Quart Multifunctional Air Fryer & Dehydrator + $15 Kohl's Cash $56.87 + Free Shipping $56.97",
+   "price": 56.97,
+   "old_price": 129.99,
+   "store": "Kohl's",
+   "url": "https://slickdeals.net/f/20406387-chefman-14-quart-multifunctional-air-fryer-dehydrator-15-kohl-s-cash-56-87-free-shipping-56-97?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22613880.thumb",
+   "posted": "2026-11-26T16:44:04+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "TAKE20",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T01:12:52+00:00",
+   "real_price": 56.97,
+   "real_old": 129.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Kohl%27s&sdtid=20406387&tid=20406387&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ab51742ae9ff11f1b74682ce030be712&au=9aa9dd5222f8442084b2f1cad8807404&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t8c3e553ddda",
    "title": "Non-Slip Leather Desk Pad Protector Mouse Mat (35.4\" x 17\", Light Pink) - $3.99",
    "price": 3.99,
@@ -14084,8 +14139,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=04f6d02ae9ff11f1a910a620b69cde1f&au=fd202254857c4911b4ab347282a758f6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:08:13+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=ac6a1cfee9ff11f1992582ce030be712&au=a2289adabb3d49fda01a7a918caf9d59&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T01:12:54+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15753,66 +15808,36 @@
    "checked_at": "2026-11-26T10:40:11+00:00",
    "real_price": 999.0,
    "real_old": 1299.0
-  },
-  {
-   "id": "t288df870254",
-   "title": "Apple MacBook Air 13.6\" Laptop (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $999 + Free S&H",
-   "price": 999.0,
-   "old_price": 1299.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20401377-apple-macbook-air-13-6-laptop-2026-m5-10-core-chip-16gb-ram-512gb-ssd-999-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601223.thumb",
-   "posted": "2026-11-26T10:34:53+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401377&pno=1374804&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=0ff6fca8e9cc11f1921342dacabf1a1c&au=e41694a4fac84d0292d9a8903158e59f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:03:28+00:00",
-   "real_price": 999.0,
-   "real_old": 1299.0
-  },
-  {
-   "id": "t1cce1ba0673",
-   "title": "[SnS] $36.33 or $34.42 | Purina Tidy Cats Breeze XL All-in-One Multi Cat Litter Box System Starter Kit at Amazon",
-   "price": 36.33,
-   "old_price": 76.48,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20403156-sns-36-33-or-34-42-purina-tidy-cats-breeze-xl-all-in-one-multi-cat-litter-box-system-starter-kit-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22606179.thumb",
-   "posted": "2026-11-26T10:21:50+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403156&tid=20403156&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=5ff80a0ae9ac11f1a7f7ca4029f35a59&au=085e497967c04fa8acffde2594ed77a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T15:16:38+00:00",
-   "real_price": 36.33,
-   "real_old": 76.48
-  },
-  {
-   "id": "tf7af15594c8",
-   "title": "$43.99: Razer Hanbo Chroma 240mm RGB AIO Liquid CPU Cooler at Woot!",
-   "price": 43.99,
-   "old_price": 199.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20403117-43-99-razer-hanbo-chroma-240mm-rgb-aio-liquid-cpu-cooler-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22606065.thumb",
-   "posted": "2026-11-26T10:11:39+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "code": "PCGAMING",
-   "code_until": "2026-12-04",
-   "promo": null,
-   "checked_at": "2026-11-26T16:25:30+00:00",
-   "real_price": 43.99,
-   "real_old": 199.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20403117&tid=20403117&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fec5ad46e9b511f1b80842201d84192c&au=701bda76952d48a89c0b4ccce41f751e&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
+  {
+   "id": "tcfe05a4c986",
+   "title": "Sennheiser Accentum Wireless Bluetooth ANC Headphones from & More + Free S&H",
+   "price": 84.95,
+   "old_price": 189.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a7811c60e9ff11f186faba1027db4731&au=2a811e2747574d1f9ec232c0063ebd99&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a7811c60e9ff11f186faba1027db4731&au=2a811e2747574d1f9ec232c0063ebd99&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22622613.thumb",
+   "posted": "2026-11-27T01:09:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 84.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&pno=1375650&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a7811c60e9ff11f186faba1027db4731&au=2a811e2747574d1f9ec232c0063ebd99&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tea44e873707",
    "title": "Amazon Fire TV Stick 4K Max Streaming Stick (Newest Model) + Free S&H",
@@ -16314,8 +16339,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03a111e0e9ff11f193d18e8a02b1854e&au=631b9be2f345464aaf97647950beea14&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03a111e0e9ff11f193d18e8a02b1854e&au=631b9be2f345464aaf97647950beea14&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8acc814e9ff11f1a4049a4cc94bd7f7&au=1153d784967845c286753c8cfc9f310b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8acc814e9ff11f1a4049a4cc94bd7f7&au=1153d784967845c286753c8cfc9f310b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16331,7 +16356,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=03a111e0e9ff11f193d18e8a02b1854e&au=631b9be2f345464aaf97647950beea14&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8acc814e9ff11f1a4049a4cc94bd7f7&au=1153d784967845c286753c8cfc9f310b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18910,40 +18935,13 @@
    ]
   },
   {
-   "id": "t892c7fbdf39",
-   "title": "Beats Solo 4 On-Ear Wireless Headphones (Metallic Pink)",
-   "price": 79.99,
-   "old_price": 199.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402928&tid=20402928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=5e1f8c24e98611f19d9f2608fa484b01&au=a45b302dc64a4e4ab9777e317de19c0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402928&tid=20402928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=5e1f8c24e98611f19d9f2608fa484b01&au=a45b302dc64a4e4ab9777e317de19c0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22605501.thumb",
-   "posted": "2026-11-26T09:24:29+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 79.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402928&tid=20402928&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=5e1f8c24e98611f19d9f2608fa484b01&au=a45b302dc64a4e4ab9777e317de19c0b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
    "id": "tdf881873769",
    "title": "Apple MacBook Neo Laptop: A18 Pro Chip, 13\" Retina, 8GB RAM, 256GB SSD & More + Free S&H",
    "price": 599.99,
    "old_price": 699.0,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ada21beee9ff11f18c90369a9a6d5a34&au=bcd1d924597d4bbcb85e643d580d592a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ada21beee9ff11f18c90369a9a6d5a34&au=bcd1d924597d4bbcb85e643d580d592a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22605300.thumb",
    "posted": "2026-11-26T09:04:47+00:00",
    "kind": "tech",
@@ -18959,7 +18957,7 @@
     {
      "store": "Amazon",
      "price": 599.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=188b589ee97911f1b6b3deb14ba7c7e6&au=fbc00e5c13984c9eb1624099f616319f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401404&pno=1374774&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=ada21beee9ff11f18c90369a9a6d5a34&au=bcd1d924597d4bbcb85e643d580d592a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18969,8 +18967,8 @@
    "price": 36.54,
    "old_price": 42.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0766ee1ce9ff11f1a0a782ce030be712&au=3f58f23b276b490993204198ddd2b4c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0766ee1ce9ff11f1a0a782ce030be712&au=3f58f23b276b490993204198ddd2b4c7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b07e10d4e9ff11f1af2f3e8b77b0889e&au=03a7c14d793b49329a0e70e17b255103&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b07e10d4e9ff11f1af2f3e8b77b0889e&au=03a7c14d793b49329a0e70e17b255103&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/4/5/3/2/9/300x300/22539672.thumb",
    "posted": "2026-11-26T07:41:47+00:00",
    "kind": "tech",
@@ -18986,7 +18984,7 @@
     {
      "store": "Amazon",
      "price": 36.54,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0766ee1ce9ff11f1a0a782ce030be712&au=3f58f23b276b490993204198ddd2b4c7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20377458&pno=1374744&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b07e10d4e9ff11f1af2f3e8b77b0889e&au=03a7c14d793b49329a0e70e17b255103&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18996,8 +18994,8 @@
    "price": 598.98,
    "old_price": 799.0,
    "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=088cef12e9ff11f18fedce7bfc79de3b&au=580e7e1da5834e4e8ecc6b51d2479eac&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=088cef12e9ff11f18fedce7bfc79de3b&au=580e7e1da5834e4e8ecc6b51d2479eac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1b0dca2e9ff11f186e38e8a02b1854e&au=98345526771c471486113a294fbe3fe7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1b0dca2e9ff11f186e38e8a02b1854e&au=98345526771c471486113a294fbe3fe7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22601364.thumb",
    "posted": "2026-11-26T06:51:04+00:00",
    "kind": "tech",
@@ -19013,10 +19011,10 @@
     {
      "store": "Best Buy",
      "price": 598.98,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=088cef12e9ff11f18fedce7bfc79de3b&au=580e7e1da5834e4e8ecc6b51d2479eac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401452&pno=1374720&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1b0dca2e9ff11f186e38e8a02b1854e&au=98345526771c471486113a294fbe3fe7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   }
  ],
- "updated": "2026-11-27T01:09:00+00:00"
+ "updated": "2026-11-27T01:13:42+00:00"
 }
