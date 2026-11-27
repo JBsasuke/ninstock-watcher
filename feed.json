@@ -14,13 +14,13 @@
    "posted": "2026-11-27T14:34:06+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T14:37:30+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 136.0,
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T14:37:30+00:00",
+   "real_price": 15.0,
+   "real_old": 136.0,
+   "category_ok": true
   },
   {
    "id": "d6f8d6496fbc",
@@ -35,13 +35,13 @@
    "posted": "2026-11-27T14:34:06+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T14:37:31+00:00",
-   "category_ok": true,
-   "real_price": 15.0,
-   "real_old": 136.0,
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T14:37:31+00:00",
+   "real_price": 15.0,
+   "real_old": 136.0,
+   "category_ok": true
   },
   {
    "id": "9160e2a27920",
@@ -81,13 +81,13 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T14:37:33+00:00",
-   "category_ok": true,
-   "real_price": 389.0,
-   "real_old": 499.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T14:37:33+00:00",
+   "real_price": 389.0,
+   "real_old": 499.0,
+   "category_ok": true
   },
   {
    "id": "a3c2e3de5246",
@@ -584,13 +584,13 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T14:37:36+00:00",
-   "category_ok": true,
-   "real_price": 389.0,
-   "real_old": 499.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=161362c6ea7011f184088a7788591d52&au=b2e77ae6dd6443109550cfeff3606c19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T14:37:36+00:00",
+   "real_price": 389.0,
+   "real_old": 499.0,
+   "category_ok": true
   },
   {
    "id": "6f39d092fc2e",
@@ -1877,7 +1877,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=52c1148ce97311f1a821a61b1b2e19a1&au=2b4ced3894d34b2ab92bdf9d35275706&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:40:08+00:00",
+   "checked_at": "2026-11-27T14:42:17+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -1898,7 +1898,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=53e0559ee97311f1a90eea8af01651eb&au=4d5b78da13d1437e8c8322497fd011ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:40:11+00:00",
+   "checked_at": "2026-11-27T14:42:19+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -3174,7 +3174,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392896&tid=20392896&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=7b060f7ce8a811f18999ee8a8e78a124&au=fb42557793b34bed9c603a1b1c01b730&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:40:13+00:00",
+   "checked_at": "2026-11-27T14:42:22+00:00",
    "real_price": 24.88,
    "real_old": 59.99,
    "category_ok": true
@@ -11584,6 +11584,24 @@
    "real_old": 249.99
   },
   {
+   "id": "t4937a377920",
+   "title": "Apple - iPhone Air 256GB (Unlocked) - Space Black",
+   "price": 799.0,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20415564-apple-iphone-air-256gb-unlocked-space-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/3/3/8/7/2/300x300/22635897.thumb",
+   "posted": "2026-11-27T12:47:44+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:43:17+00:00",
+   "real_price": 799.0,
+   "real_old": 1099.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20415564&tid=20415564&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=e1a7c53aea7011f1acbd363c1228a6ca&au=0607694d703f454bae02ee9ad95f7e76&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t407fbdcf9ff",
    "title": "$21.88* | 26-Pc Milwaukee Shockwave Drive & Fasten Electric Tool Bit Set at Amazon",
    "price": 21.88,
@@ -11888,8 +11906,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=38ce2f94ea7011f1b48f56a31db33879&au=6443311e6b1c489ea13b97b804942fea&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:38:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=e2cf1e86ea7011f1bd566adf34455f69&au=00d6817c0a844ea5be5f1763f81f0fae&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:43:19+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12074,10 +12092,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20414379&tid=20414379&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a1edc54ea7011f187912615cd400cd6&au=0f86b07427e5449f95ad52731463cf34&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:38:36+00:00",
    "real_price": 24.99,
-   "real_old": 59.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20414379&tid=20414379&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a1edc54ea7011f187912615cd400cd6&au=0f86b07427e5449f95ad52731463cf34&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 59.99
   },
   {
    "id": "ta856b4e59ab",
@@ -12146,10 +12164,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20414169&tid=20414169&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3b488706ea7011f1a5ad9ac297368a5a&au=cd315f61e86f4bdc817be878c8c5fee7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:38:38+00:00",
    "real_price": 149.0,
-   "real_old": 228.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20414169&tid=20414169&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3b488706ea7011f1a5ad9ac297368a5a&au=cd315f61e86f4bdc817be878c8c5fee7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 228.97
   },
   {
    "id": "tc649430fb7b",
@@ -12486,10 +12504,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413590&tid=20413590&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c70710cea7011f19e125660cadc0bfb&au=defc4c0c8816401d9f394b7ae7a5bc98&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:38:40+00:00",
    "real_price": 139.0,
-   "real_old": 308.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413590&tid=20413590&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3c70710cea7011f19e125660cadc0bfb&au=defc4c0c8816401d9f394b7ae7a5bc98&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 308.0
   },
   {
    "id": "t078a9207838",
@@ -13770,10 +13788,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412084&tid=20412084&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d950cfaea7011f1bf3172a13ed73a41&au=bb3595bc85d44ac998880d25eb089318&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:38:41+00:00",
    "real_price": 1499.99,
-   "real_old": 2224.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412084&tid=20412084&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3d950cfaea7011f1bf3172a13ed73a41&au=bb3595bc85d44ac998880d25eb089318&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2224.99
   },
   {
    "id": "t3e9237c37be",
@@ -13898,10 +13916,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412018&tid=20412018&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=3eabd5a6ea7011f18c585660cadc0bfb&au=e5954a858e34455ba3c1ea6351fcdd19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:38:43+00:00",
    "real_price": 131.0,
-   "real_old": 132.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412018&tid=20412018&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=3eabd5a6ea7011f18c585660cadc0bfb&au=e5954a858e34455ba3c1ea6351fcdd19&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 132.0
   },
   {
    "id": "t6b0a3832218",
@@ -14764,8 +14782,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3feb629cea7011f1bd025e1acd1b23d5&au=8d2a922bb2d3456786a3f99ef8864b8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:38:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4078266ea7011f1aedeeedba8431f2e&au=c275eec070044e708e82a7fee6562d6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:43:21+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15817,27 +15835,6 @@
    "checked_at": "2026-11-27T00:49:20+00:00",
    "real_price": 383.99,
    "real_old": 729.95
-  },
-  {
-   "id": "tbea8caa2d21",
-   "title": "LG QNED84B 4K QNED MiniLED HDR10 120Hz TV (2026): 55\" $384, 75\" $640 at Electronic Express Store via eBay",
-   "price": 383.99,
-   "old_price": 729.95,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20409726-lg-qned84b-4k-qned-miniled-hdr10-120hz-tv-2026-55-384-75-640-at-electronic-express-store-via-ebay?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/5/4/6/0/7/3/300x300/22622493.thumb",
-   "posted": "2026-11-26T23:57:21+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20409726&tid=20409726&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=589841ece9fe11f1b12ea620b69cde1f&au=46f09b5d6ee94c86bed3ddbd2b330d02&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T01:03:24+00:00",
-   "real_price": 383.99,
-   "real_old": 729.95
   }
  ],
  "tech": [
@@ -16027,6 +16024,33 @@
      "store": "Best Buy",
      "price": 149.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412045&pno=1376190&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=455efb5cea6211f1a2f2de1aa8eda0e7&au=eb2b534cca3b44e8bfd59ce858c9e658&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t4937a377920",
+   "title": "Apple - iPhone Air 256GB (Unlocked) - Space Black",
+   "price": 799.0,
+   "old_price": 1099.99,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20415564&tid=20415564&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=e1a7c53aea7011f1acbd363c1228a6ca&au=0607694d703f454bae02ee9ad95f7e76&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20415564&tid=20415564&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=e1a7c53aea7011f1acbd363c1228a6ca&au=0607694d703f454bae02ee9ad95f7e76&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/9/1/3/3/8/7/2/300x300/22635897.thumb",
+   "posted": "2026-11-27T12:47:44+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 799.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20415564&tid=20415564&prop=diavail-true%7Cdincp-0%7Cdinpd-14%7Cdipgavail-true&pv=e1a7c53aea7011f1acbd363c1228a6ca&au=0607694d703f454bae02ee9ad95f7e76&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18379,8 +18403,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3feb629cea7011f1bd025e1acd1b23d5&au=8d2a922bb2d3456786a3f99ef8864b8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3feb629cea7011f1bd025e1acd1b23d5&au=8d2a922bb2d3456786a3f99ef8864b8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4078266ea7011f1aedeeedba8431f2e&au=c275eec070044e708e82a7fee6562d6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4078266ea7011f1aedeeedba8431f2e&au=c275eec070044e708e82a7fee6562d6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18396,7 +18420,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3feb629cea7011f1bd025e1acd1b23d5&au=8d2a922bb2d3456786a3f99ef8864b8f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e4078266ea7011f1aedeeedba8431f2e&au=c275eec070044e708e82a7fee6562d6f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19041,28 +19065,7 @@
    "code_until": "2026-12-05",
    "promo": "50% Off",
    "offers": []
-  },
-  {
-   "id": "t614c1ffe8db",
-   "title": "Crandall Office Furniture Factory Return Office Chairs (Steelcase & More) Extra 25% Off + Free S&H",
-   "price": null,
-   "old_price": null,
-   "store": "Crandall Office",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&pno=1375557&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9fd8cb94e9f411f1ad7a629241def954&au=c2762fd9d1234213a18647c52a00ea43&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Crandall+Office&sdtid=20397258&pno=1375557&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9fd8cb94e9f411f1ad7a629241def954&au=c2762fd9d1234213a18647c52a00ea43&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22592826.thumb",
-   "posted": "2026-11-26T23:52:42+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "refurb": false,
-   "glitch": false,
-   "code": "OPENBOX25",
-   "code_until": null,
-   "promo": "Extra 25% Off",
-   "offers": []
   }
  ],
- "updated": "2026-11-27T14:39:30+00:00"
+ "updated": "2026-11-27T14:44:11+00:00"
 }
