@@ -14,13 +14,13 @@
    "posted": "2026-11-27T11:58:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T12:00:17+00:00",
-   "category_ok": true,
-   "real_price": 25.0,
-   "real_old": 60.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=1c9baddaea5a11f1998172d7dca52f8f&au=3312395a3f804bcf944868658ff339ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T12:00:17+00:00",
+   "real_price": 25.0,
+   "real_old": 60.0,
+   "category_ok": true
   },
   {
    "id": "aa8d30df6ff8",
@@ -35,13 +35,13 @@
    "posted": "2026-11-27T11:58:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T12:00:19+00:00",
-   "category_ok": true,
-   "real_price": 25.0,
-   "real_old": 59.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=1de4f700ea5a11f1a09baa474e079046&au=c1db27b6f8b24157adbe0e3b204a7af0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T12:00:19+00:00",
+   "real_price": 25.0,
+   "real_old": 59.0,
+   "category_ok": true
   },
   {
    "id": "7e9ec5d524dc",
@@ -2398,7 +2398,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20396514&tid=20396514&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=60271880e92b11f185cb7af7a0db170d&au=ac7f73f78062416f9fe27abfe3698f62&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T06:04:00+00:00",
+   "checked_at": "2026-11-27T12:05:08+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2974,7 +2974,7 @@
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T10:04:11+00:00",
+   "checked_at": "2026-11-27T12:05:11+00:00",
    "real_price": 40.14,
    "real_old": 69.99,
    "category_ok": true
@@ -11357,6 +11357,27 @@
  ],
  "raw_tech": [
   {
+   "id": "t5d850a0f104",
+   "title": "AMD Ryzen 9 9900X3D 4.40GHz 12-Core/24-Thread Boxed Processor $400 + Free Pickup Only",
+   "price": 399.99,
+   "old_price": 599.0,
+   "store": "Micro Center",
+   "url": "https://slickdeals.net/f/20407233-amd-ryzen-9-9900x3d-12-core-am5-cpu-399-99-micro-center-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22635219.thumb",
+   "posted": "2026-11-27T12:02:49+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BFF38",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T12:06:06+00:00",
+   "real_price": 399.99,
+   "real_old": 599.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t78ae42452b3",
    "title": "Costco Members: Bosch 300 Series VeroCafe Fully Automatic Espresso Machine $300 + Free S&H",
    "price": 299.97,
@@ -11480,8 +11501,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=41761474ea5a11f1a7d11695b8741621&au=0fd15514325845f39187f2729b055d93&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:01:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ed863456ea5a11f1af8ea6c49b256719&au=986ce0bad2bf46d4a8941c506fdddd8f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:06:08+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -13450,8 +13471,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42aeb49aea5a11f1bb1c7211240c6717&au=7fb02979a25c42c88b02f516d19e3afb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:01:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eebc71aaea5a11f1907aaaf3953224ab&au=05c007efc98a4c55a51648bfb35f5cab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:06:10+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15222,8 +15243,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=443c5d9eea5a11f199a2d20e61767b42&au=b4bc033eeb4e4dc289271cec9e237905&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T12:01:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efff2be8ea5a11f195762e5bf8422d8c&au=c618928c012f4b10b8266327abfe5097&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T12:06:12+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15767,27 +15788,36 @@
    "checked_at": "2026-11-26T23:58:35+00:00",
    "real_price": 8.99,
    "real_old": 22.98
-  },
-  {
-   "id": "t385df3b5f65",
-   "title": "Sennheiser ACCENTUM Wireless ANC Headphones, White, 50-Hour Battery $87.95 at Amazon",
-   "price": 87.95,
-   "old_price": 189.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20408064-sennheiser-accentum-wireless-anc-headphones-white-50-hour-battery-87-95-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22617972.thumb",
-   "posted": "2026-11-26T19:56:55+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408064&tid=20408064&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d57333cee9d711f18b4adaf9c4ff5078&au=ec9b0367dfbd420b9119a3da055b36b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:27:43+00:00",
-   "real_price": 87.95,
-   "real_old": 189.95
   }
  ],
  "tech": [
+  {
+   "id": "t5d850a0f104",
+   "title": "AMD Ryzen 9 9900X3D 4.40GHz 12-Core/24-Thread Boxed Processor + Free Pickup Only",
+   "price": 399.99,
+   "old_price": 599.0,
+   "store": "Micro Center",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22635219.thumb",
+   "posted": "2026-11-27T12:02:49+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": "BFF38",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Micro Center",
+     "price": 399.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t116110cba5e",
    "title": "Microsoft Surface Pro Touch Laptop: Snapdragon X2 Plus, 13\", 16GB RAM, 256GB SSD + Free S&H",
@@ -17435,8 +17465,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42aeb49aea5a11f1bb1c7211240c6717&au=7fb02979a25c42c88b02f516d19e3afb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42aeb49aea5a11f1bb1c7211240c6717&au=7fb02979a25c42c88b02f516d19e3afb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eebc71aaea5a11f1907aaaf3953224ab&au=05c007efc98a4c55a51648bfb35f5cab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eebc71aaea5a11f1907aaaf3953224ab&au=05c007efc98a4c55a51648bfb35f5cab&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17452,7 +17482,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42aeb49aea5a11f1bb1c7211240c6717&au=7fb02979a25c42c88b02f516d19e3afb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eebc71aaea5a11f1907aaaf3953224ab&au=05c007efc98a4c55a51648bfb35f5cab&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18626,8 +18656,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=443c5d9eea5a11f199a2d20e61767b42&au=b4bc033eeb4e4dc289271cec9e237905&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=443c5d9eea5a11f199a2d20e61767b42&au=b4bc033eeb4e4dc289271cec9e237905&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efff2be8ea5a11f195762e5bf8422d8c&au=c618928c012f4b10b8266327abfe5097&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efff2be8ea5a11f195762e5bf8422d8c&au=c618928c012f4b10b8266327abfe5097&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18643,7 +18673,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=443c5d9eea5a11f199a2d20e61767b42&au=b4bc033eeb4e4dc289271cec9e237905&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=efff2be8ea5a11f195762e5bf8422d8c&au=c618928c012f4b10b8266327abfe5097&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18970,34 +19000,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20400732&pno=1375350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e94e0904e9d811f1a23086a0b7e7ede8&au=a733b7debd134947a2192eb51dc90b6b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tdeebd674a67",
-   "title": "Apple Macbook Air 15.3\" M5 Laptop: 16GB RAM/512GB SSD @Best buy",
-   "price": 1199.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22618104.thumb",
-   "posted": "2026-11-26T20:06:55+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 1199.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20408136&tid=20408136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f770dc2e9e111f1863b62e3581b13f1&au=7b194aa5ffd742fa9301184090e9da87&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T12:02:19+00:00"
+ "updated": "2026-11-27T12:06:59+00:00"
 }
