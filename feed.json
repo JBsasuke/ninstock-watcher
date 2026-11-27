@@ -514,7 +514,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&pno=1375506&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=7b6cbee8e9ed11f1b3427e15aebef614&au=b9fd6eb7280049a8b402e2a785c5587c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:03:50+00:00",
+   "checked_at": "2026-11-27T11:04:21+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1825,7 +1825,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20400924&tid=20400924&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7775f432e95511f1acbc42e1fd4b2f3d&au=1e7a7a82a87c42e882b022cf90abbd98&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:03:53+00:00",
+   "checked_at": "2026-11-27T11:04:24+00:00",
    "real_price": 69.98,
    "real_old": 94.98,
    "category_ok": false
@@ -1846,7 +1846,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20400924&tid=20400924&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=78c06f8ee95511f18c9bda819bccac81&au=e1d7b5b75eac42eaac4f7b2156e42e1f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T05:03:54+00:00",
+   "checked_at": "2026-11-27T11:04:25+00:00",
    "real_price": 69.98,
    "real_old": 94.98,
    "category_ok": false
@@ -2927,6 +2927,8 @@
    "posted": "2026-11-25T04:41:17+00:00",
    "needs_cat": false,
    "refurb": false,
+   "code": "SAVE3X",
+   "code_until": null,
    "store_url": "https://www.walmart.com/ip/16759855795",
    "page_checked": true,
    "link_v": 3,
@@ -3968,7 +3970,7 @@
    "digital": null,
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "SAVE3X",
    "code_until": null
   },
   {
@@ -11326,6 +11328,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t96c81d6a545",
+   "title": "Moe's Southwest Grill Rewards Offer: Any Qualifying Entree Purchase B1G1 Free (Valid thru 11/29)",
+   "price": 56.0,
+   "old_price": null,
+   "store": "Moe's Southwest Grill",
+   "url": "https://slickdeals.net/f/20363952-bogo-burrito-or-entree-at-moe-s-11-27-11-29?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22634253.thumb",
+   "posted": "2026-11-27T11:01:27+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T11:05:21+00:00",
+   "real_price": 56.0,
+   "real_old": null
+  },
+  {
    "id": "t3e242243922",
    "title": "HIFIMAN HE6se Full-Size Over Ear Planar Magnetic Audiophile Headphones $228 + Free S&H",
    "price": 227.83,
@@ -11488,10 +11507,9 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T11:00:37+00:00",
-   "real_price": 999.99,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 999.99
   },
   {
    "id": "tc293fe97490",
@@ -11587,6 +11605,27 @@
    "checked_at": "2026-11-27T10:00:09+00:00",
    "real_price": 99.0,
    "real_old": 149.0
+  },
+  {
+   "id": "t5f9a0562eb5",
+   "title": "KINGROON 10kg Mixed-Color PLA 1.75mm 3D Printer Filament $56.65 + Free Shipping",
+   "price": 56.65,
+   "old_price": 79.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20413620-kingroon-10kg-mixed-color-pla-1-75mm-3d-printer-filament-56-65-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22630311.thumb",
+   "posted": "2026-11-27T08:18:25+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "JJX08G",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T11:05:23+00:00",
+   "real_price": 56.65,
+   "real_old": 79.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413620&tid=20413620&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=71182a1cea5211f1b6c93ece42a7e54a&au=3ad885b7d23a42a698937599e258e7c9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t19c0c751ffa",
@@ -13157,8 +13196,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c800e414ea5111f1a52b62ab116aba84&au=d83f4a2ca9d84ee683dbe46bdeacde70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:00:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:05:25+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -13312,7 +13351,7 @@
    "cat_label": "Otros",
    "prio": 15,
    "refurb": false,
-   "code": "BBCYBER35",
+   "code": "BBCYBER40",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+DoorDash&sdtid=20408418&pno=1375779&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ef64f250ea0d11f1b85402a61e36dc80&au=b29c66f8fa484bf0bdf60a15e8f51c23&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -14929,8 +14968,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c93315a0ea5111f1ba2b1e3d3b8cc24f&au=3e021b8f90d64024b76f2d4cc0b80c13&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:00:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T11:05:27+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15712,43 +15751,6 @@
    "checked_at": "2026-11-27T05:14:23+00:00",
    "real_price": 1599.0,
    "real_old": 3399.0
-  },
-  {
-   "id": "t9df3ef7dde2",
-   "title": "Wendy's App Offer: 50% Off Dave's Single w/ Purchase (Valid thru 12/5)",
-   "price": null,
-   "old_price": null,
-   "store": "Wendy's",
-   "url": "https://slickdeals.net/f/20407752-wendy-s-app-offer-50-off-dave-s-single-w-purchase-valid-thru-12-5?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22617159.thumb",
-   "posted": "2026-11-26T19:13:07+00:00",
-   "cat": "cupones",
-   "cat_label": "Códigos de tienda",
-   "prio": 16,
-   "refurb": false,
-   "code": "FOXBIGNOON",
-   "code_until": "2026-12-05",
-   "promo": "50% Off",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wendy%27s&sdtid=20407752&tid=20407752&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abaf1e06e9d511f18a2a5acf2699e0c0&au=7a8824e2e5e34cb9a86070be18c73f7a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:12:14+00:00",
-   "real_price": 57.0
-  },
-  {
-   "id": "tcc5b9a68f5c",
-   "title": "$170 FS BEST BUY Insignia™ - 55\" Class F50 Series LED 4K UHD Smart Fire TV",
-   "price": 57.0,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20407740-170-fs-best-buy-insignia-55-class-f50-series-led-4k-uhd-smart-fire-tv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/8/0/9/4/300x300/22617147.thumb",
-   "posted": "2026-11-26T19:11:57+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407740&tid=20407740&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b19a6ccce9f211f18d6af2cd9e213daf&au=47afcb8a7d1049088f9b49a916adb9dc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:40:00+00:00",
-   "real_price": 57.0
   }
  ],
  "tech": [
@@ -17210,8 +17212,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c800e414ea5111f1a52b62ab116aba84&au=d83f4a2ca9d84ee683dbe46bdeacde70&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c800e414ea5111f1a52b62ab116aba84&au=d83f4a2ca9d84ee683dbe46bdeacde70&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17227,7 +17229,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c800e414ea5111f1a52b62ab116aba84&au=d83f4a2ca9d84ee683dbe46bdeacde70&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=7257f9a2ea5211f1bcd162ab116aba84&au=b9824e5919394df1a0c27eddfafb1c3b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17301,7 +17303,7 @@
    "cat_label": "Otros",
    "refurb": false,
    "glitch": false,
-   "code": "BBCYBER35",
+   "code": "BBCYBER40",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18401,8 +18403,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c93315a0ea5111f1ba2b1e3d3b8cc24f&au=3e021b8f90d64024b76f2d4cc0b80c13&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c93315a0ea5111f1ba2b1e3d3b8cc24f&au=3e021b8f90d64024b76f2d4cc0b80c13&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18418,7 +18420,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=c93315a0ea5111f1ba2b1e3d3b8cc24f&au=3e021b8f90d64024b76f2d4cc0b80c13&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=73c81bd2ea5211f19e8efe03e74505d0&au=e7cacc5f98b04e45aac0176ab096c631&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18963,5 +18965,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T11:01:34+00:00"
+ "updated": "2026-11-27T11:06:16+00:00"
 }
