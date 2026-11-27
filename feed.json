@@ -1948,13 +1948,13 @@
    "posted": "2026-11-26T06:17:43+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-27T13:58:45+00:00",
-   "category_ok": true,
-   "real_price": 60.0,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20401686&tid=20401686&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a939ab74ea6a11f19054e666d291e204&au=0d4a9e7c00484aeeb40e424e4bbb7825&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T13:58:45+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "category_ok": true
   },
   {
    "id": "19c975e28ee6",
@@ -11378,10 +11378,9 @@
    "code": "BIGFRIDAY",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&pno=1376214&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dba887a6ea6a11f1b42a06aff60aa6df&au=8706218e50a44414b3486da98f62f359&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:00:10+00:00",
-   "real_price": 60.0,
-   "real_old": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&pno=1376214&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=dba887a6ea6a11f1b42a06aff60aa6df&au=8706218e50a44414b3486da98f62f359&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_price": 60.0
   },
   {
    "id": "tc25ad2e5832",
@@ -11396,10 +11395,10 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "store_url": "https://www.amazon.com/dp/B0DW9JZKWK",
    "checked_at": "2026-11-27T14:00:12+00:00",
    "real_price": 169.99,
-   "real_old": 399.99,
-   "store_url": "https://www.amazon.com/dp/B0DW9JZKWK"
+   "real_old": 399.99
   },
   {
    "id": "t972ca05a693",
@@ -11781,8 +11780,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=de04db26ea6a11f19be13ebcf20ee71e&au=72aa0ea124694698862ade2ae8c46061&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:00:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=826ec9ceea6b11f1968006aff60aa6df&au=4b0715d450044a6688bb9c30f67964d8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:04:50+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -12021,13 +12020,31 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BFDEAL8",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
    "real_old": 89.0
+  },
+  {
+   "id": "t8aabdf7ccf9",
+   "title": "Jackery HomePower 3600 Plus 3584Wh 3600W Power Station with 102W Charger $987 + Free Shipping",
+   "price": 987.0,
+   "old_price": 1429.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20414139-jackery-homepower-3600-plus-3584wh-3600w-power-station-with-102w-charger-987-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/6/7/7/8/5/5/300x300/22632042.thumb",
+   "posted": "2026-11-27T08:56:01+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "JJX180G",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-27T14:04:52+00:00",
+   "real_price": 987.0,
+   "real_old": 1429.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20414139&tid=20414139&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83f9a548ea6b11f1a376260667662394&au=b6c51a3bf00b48fa9734a2f4833c2f5d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t767ffa557e7",
@@ -12042,10 +12059,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20414085&tid=20414085&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=df5fba22ea6a11f1b95106aff60aa6df&au=66ff6aaacfc74a1f95e865f0fb195589&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:00:16+00:00",
    "real_price": 149.0,
-   "real_old": 229.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20414085&tid=20414085&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=df5fba22ea6a11f1b95106aff60aa6df&au=66ff6aaacfc74a1f95e865f0fb195589&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 229.0
   },
   {
    "id": "t56081418c10",
@@ -12214,10 +12231,10 @@
    "code": "USBF95",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413776&tid=20413776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e07ce4c0ea6a11f1a4b89ac297368a5a&au=ad5dd91396924a99822092d5c94333e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T14:00:18+00:00",
    "real_price": 432.49,
-   "real_old": 629.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413776&tid=20413776&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e07ce4c0ea6a11f1a4b89ac297368a5a&au=ad5dd91396924a99822092d5c94333e7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 629.0
   },
   {
    "id": "t9f2022ed2f9",
@@ -12467,6 +12484,24 @@
    "checked_at": "2026-11-27T08:26:59+00:00",
    "real_price": 104.99,
    "real_old": 149.99
+  },
+  {
+   "id": "t1bdc6a6498d",
+   "title": "RYOBI 40V HP Brushless 21 in. Cordless Battery Walk Behind Push Lawn Mower with 7.5 Ah Battery and Charger $299",
+   "price": 299.0,
+   "old_price": 469.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20413272-ryobi-40v-hp-brushless-21-in-cordless-battery-walk-behind-push-lawn-mower-with-7-5-ah-battery-and-charger-299?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22630479.thumb",
+   "posted": "2026-11-27T08:05:51+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:04:54+00:00",
+   "real_price": 299.0,
+   "real_old": 469.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20413272&tid=20413272&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=85071bb4ea6b11f1b1a9261efd69c6ee&au=bba330d4ac63426698bf3b1ee5e69ea9&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t3553a3e43b2",
@@ -12858,6 +12893,24 @@
    "checked_at": "2026-11-27T09:50:41+00:00",
    "real_price": 469.99,
    "real_old": 899.99
+  },
+  {
+   "id": "t42c7cf3958a",
+   "title": "$1275* | 65\" LG OLED evo AI 4K C6 Series Smart TV (2026) at Amazon",
+   "price": 1275.0,
+   "old_price": 2699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20412762-1275-65-lg-oled-evo-ai-4k-c6-series-smart-tv-2026-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628487.thumb",
+   "posted": "2026-11-27T07:22:07+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:04:56+00:00",
+   "real_price": 1275.0,
+   "real_old": 2699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tb791c746865",
@@ -14018,6 +14071,24 @@
    "real_old": 2699.95
   },
   {
+   "id": "tb05d29770fb",
+   "title": "Lenovo ThinkPad X1 Carbon Gen 13: 14\" 3K OLED 120Hz, Intel Ultra 258V, 32GB LPDDR5, 1TB SSD, Win 11 Pro $1699",
+   "price": 1699.0,
+   "old_price": 2099.0,
+   "store": "B&H Photo Video",
+   "url": "https://slickdeals.net/f/20411556-lenovo-thinkpad-x1-carbon-gen-13-14-3k-oled-120hz-intel-ultra-258v-32gb-lpddr5-1tb-ssd-win-11-pro-1699?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22625589.thumb",
+   "posted": "2026-11-27T05:07:04+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T14:04:58+00:00",
+   "real_price": 1699.0,
+   "real_old": 2099.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t911c415f0ae",
    "title": "Refurb: Ninja CFP105 DualBrew Hot & Iced Coffee Maker (Black) $63.96 + Free Shipping",
    "price": 63.96,
@@ -14381,8 +14452,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1ebaac6ea6a11f19fb472d7dca52f8f&au=147078510ec84ce9b32af866c5f08b17&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:00:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T14:05:01+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15735,80 +15806,6 @@
    "checked_at": "2026-11-27T00:54:05+00:00",
    "real_price": 549.99,
    "real_old": 749.99
-  },
-  {
-   "id": "t594ef034b60",
-   "title": "Roborock QX Revo MAX Robot Vacuum and Mop with 25,000 Pa Suction Power $549.99 at Costco",
-   "price": 549.99,
-   "old_price": 749.99,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20409504-roborock-qx-revo-max-robot-vacuum-and-mop-with-25-000-pa-suction-power-549-99-at-costco?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/4/5/4/8/6/3/300x300/22621620.thumb",
-   "posted": "2026-11-26T23:16:27+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-27T01:08:09+00:00",
-   "real_price": 549.99,
-   "real_old": 749.99
-  },
-  {
-   "id": "ted4d10ed2df",
-   "title": "Prime Members 100W Baseus PicoGo Pro AH22 3-Port Smart Display USB-C Charger $39.70 + Free S&H",
-   "price": 39.7,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336043-prime-members-100w-baseus-picogo-pro-ah22-3-port-smart-display-usb-c-charger-39-70-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22425411.thumb",
-   "posted": "2026-11-26T23:15:42+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&tid=20336043&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2295f2ee9fa11f1902bbeaed212ecc4&au=50109b84b9be4e4aa92c78aba294c090&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:37:16+00:00",
-   "real_price": 39.7,
-   "real_old": 59.99
-  },
-  {
-   "id": "t13dfc9ba4c6",
-   "title": "Apple MacBook Air Laptop: M5 Chip, 15\" Liquid Retina, 24GB RAM, 1TB SSD (2026) $1600 + Free S&H",
-   "price": 1599.99,
-   "old_price": 1999.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20402190-1599-99-15-inch-apple-macbook-air-laptop-with-m5-chip-24gb-ram-1tb-ssd-silver-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22621596.thumb",
-   "posted": "2026-11-26T23:14:01+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402190&pno=1375530&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8f11bd34e9ef11f19e803abe0aeab59b&au=af9ac557361d4cfd8317104d213e465d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:17:33+00:00",
-   "real_price": 1599.99,
-   "real_old": 1999.0
-  },
-  {
-   "id": "ta227a9484a0",
-   "title": "Jamo Speakers: 2x S 809 + 2x S 803 + 2x S 8 + S 81 + S 810 + 2x S 8 ATM $419 + Free S&H",
-   "price": 419.0,
-   "old_price": 1895.0,
-   "store": "Adorama",
-   "url": "https://slickdeals.net/f/20409474-jamo-speakers-2x-s-809-2x-s-803-2x-s-8-s-81-s-810-2x-s-8-atm-419-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22621593.thumb",
-   "posted": "2026-11-26T23:13:21+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "code": "JHCE9926",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&tid=20409474&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=339950e8e9f911f195d0f2cd9e213daf&au=005bd0ff6c01442297c0f592554a4389&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:26:35+00:00",
-   "real_price": 419.0,
-   "real_old": 1895.0
   }
  ],
  "tech": [
@@ -16754,6 +16751,33 @@
      "store": "Amazon",
      "price": 469.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&tid=20412771&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=01a8de6aea4811f1a269e618784d75d5&au=030be309aaf34ceb851ea55a777e4fc5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t42c7cf3958a",
+   "title": "65\" LG OLED evo AI 4K C6 Series Smart TV (2026)",
+   "price": 1275.0,
+   "old_price": 2699.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628487.thumb",
+   "posted": "2026-11-27T07:22:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1275.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412762&tid=20412762&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=8630f1eaea6b11f1be7e3e4f845a5809&au=030ad6a83cc646c28e8e387643626b75&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17913,6 +17937,33 @@
    ]
   },
   {
+   "id": "tb05d29770fb",
+   "title": "Lenovo ThinkPad X1 Carbon Gen 13: 14\" 3K OLED 120Hz, Intel Ultra 258V, 32GB LPDDR5, 1TB SSD, Win 11 Pro",
+   "price": 1699.0,
+   "old_price": 2099.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22625589.thumb",
+   "posted": "2026-11-27T05:07:04+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "B&H Photo Video",
+     "price": 1699.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411556&tid=20411556&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87758624ea6b11f183e7562a0aab39fc&au=ad44524d622c4b2888635cd3be12b210&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t9aebcde30cc",
    "title": "Apple MacBook Air: 15\", M5 (10-Core), 24GB RAM, 512GB SSD",
    "price": 1399.0,
@@ -18134,8 +18185,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1ebaac6ea6a11f19fb472d7dca52f8f&au=147078510ec84ce9b32af866c5f08b17&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1ebaac6ea6a11f19fb472d7dca52f8f&au=147078510ec84ce9b32af866c5f08b17&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -18151,7 +18202,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e1ebaac6ea6a11f19fb472d7dca52f8f&au=147078510ec84ce9b32af866c5f08b17&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=889cb7c0ea6b11f1a91dd643dead3be4&au=dbf39711256d465b95dda9cb89619af2&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18973,61 +19024,7 @@
      "url": "https://www.walmart.com/ip/2809733809"
     }
    ]
-  },
-  {
-   "id": "t1ef2fe6a114",
-   "title": "13.6\" Apple MacBook Air Laptop (2026)",
-   "price": 1399.99,
-   "old_price": 1799.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&pno=1375533&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=31922ccee9f011f180a16afa1dd6288e&au=b7ec86097a874814b4aa25c7fdd580f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&pno=1375533&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=31922ccee9f011f180a16afa1dd6288e&au=b7ec86097a874814b4aa25c7fdd580f8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22602630.thumb",
-   "posted": "2026-11-26T23:16:45+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20401920&pno=1375533&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=31922ccee9f011f180a16afa1dd6288e&au=b7ec86097a874814b4aa25c7fdd580f8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "ted4d10ed2df",
-   "title": "Prime Members 100W Baseus PicoGo Pro AH22 3-Port Smart Display USB-C Charger + Free S&H",
-   "price": 39.7,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&tid=20336043&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2295f2ee9fa11f1902bbeaed212ecc4&au=50109b84b9be4e4aa92c78aba294c090&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&tid=20336043&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2295f2ee9fa11f1902bbeaed212ecc4&au=50109b84b9be4e4aa92c78aba294c090&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22425411.thumb",
-   "posted": "2026-11-26T23:15:42+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 39.7,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&tid=20336043&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b2295f2ee9fa11f1902bbeaed212ecc4&au=50109b84b9be4e4aa92c78aba294c090&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T14:01:08+00:00"
+ "updated": "2026-11-27T14:05:45+00:00"
 }
