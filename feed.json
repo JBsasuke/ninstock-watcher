@@ -56,13 +56,13 @@
    "posted": "2026-11-27T12:17:29+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T13:02:31+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 56.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20415372&tid=20415372&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cde2b66cea6211f1bc665e4a5005adf6&au=04596ca618a4404bb89a9a8922f37822&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T13:02:31+00:00",
+   "real_price": 30.0,
+   "real_old": 56.0,
+   "category_ok": true
   },
   {
    "id": "778efd7c3765",
@@ -577,7 +577,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410077&tid=20410077&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=36c9e66ae9fe11f1931bb2013ad5615c&au=4a4320df0c2d4891ab742dafed23b327&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:04:23+00:00",
+   "checked_at": "2026-11-27T13:07:30+00:00",
    "real_price": 46.99,
    "real_old": 69.99,
    "category_ok": true
@@ -1258,7 +1258,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404215&tid=20404215&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec77764ae9cb11f18f715e2324a64fc5&au=41596e04ef994eb6bfc07585ee873417&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T07:04:26+00:00",
+   "checked_at": "2026-11-27T13:07:32+00:00",
    "real_price": 17.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11402,6 +11402,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t82621f4620b",
+   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) $2149 + Free S&H",
+   "price": 2149.0,
+   "old_price": 2399.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20411964-14-apple-macbook-pro-m6-laptop-12-core-cpu-12-core-gpu-32gb-memory-1tb-ssd-2149-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22636347.thumb",
+   "posted": "2026-11-27T13:04:35+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T13:08:27+00:00",
+   "real_price": 2149.0,
+   "real_old": 2399.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td5561be1f0f",
    "title": "Apple AirPods Pro 3 Wireless Earbuds $150 & More + Free S&H",
    "price": 149.99,
@@ -11564,8 +11582,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f788ba5cea6211f18aede289f81b8807&au=27811bd4c3594b5090e36c7deccc160d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:03:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&tid=20414763&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a3ba62b2ea6311f18da786313fda6f19&au=63e83f2bf3584ce295cadfb862edcd2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:08:29+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -11768,6 +11786,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -13627,8 +13648,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f945be8aea6211f1b47bf65b571a11c2&au=8a42c259589549509377cdcca048ac1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:03:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:08:32+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -15417,8 +15438,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facc4922ea6211f1a1ae7211240c6717&au=8cc009aefd884e74a307903ba1806bf8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:03:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T13:08:34+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15818,26 +15839,36 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408340&tid=20408340&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=491da18ce9f211f1969c26dc1357c482&au=7fd36059454c44cfa8c88b23301576be&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T23:37:04+00:00",
    "real_price": 57.0
-  },
-  {
-   "id": "tad47e85c185",
-   "title": "Open Box Excellent: HP OmniBook X Flip 2-in-1: AI 5 430, 14\" WUXGA OLED, 16GB, 512GB $566 + Free S&H",
-   "price": 565.99,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20382360-hp-omnibook-x-flip-14-2k-oled-2-in-1-laptop-ryzen-ai-5-430-16gb-512gb-open-box-excellent-565-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/2/7/7/8/7/4/9/300x300/22552290.thumb",
-   "posted": "2026-11-26T20:31:36+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20382360&pno=1375359&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=e823b75ee9d811f1bb00ba663e7a2d64&au=07ca949f6e47461dba83550b410df484&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:35:24+00:00",
-   "real_price": 565.99
   }
  ],
  "tech": [
+  {
+   "id": "t82621f4620b",
+   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
+   "price": 2149.0,
+   "old_price": 2399.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22636347.thumb",
+   "posted": "2026-11-27T13:04:35+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 2149.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411964&pno=1376196&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a283ef30ea6311f185c2ee1f8e9b8bf0&au=a1be381e3f944282adb444de1472a4a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "td5561be1f0f",
    "title": "Apple AirPods Pro 3 Wireless Earbuds & More + Free S&H",
@@ -17593,8 +17624,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f945be8aea6211f1b47bf65b571a11c2&au=8a42c259589549509377cdcca048ac1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f945be8aea6211f1b47bf65b571a11c2&au=8a42c259589549509377cdcca048ac1a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17610,7 +17641,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f945be8aea6211f1b47bf65b571a11c2&au=8a42c259589549509377cdcca048ac1a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a4fcb92cea6311f1b5689a83e72c0ba0&au=dbdb34bc5d76414a89873db80ff75425&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18784,8 +18815,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facc4922ea6211f1a1ae7211240c6717&au=8cc009aefd884e74a307903ba1806bf8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facc4922ea6211f1a1ae7211240c6717&au=8cc009aefd884e74a307903ba1806bf8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18801,7 +18832,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=facc4922ea6211f1a1ae7211240c6717&au=8cc009aefd884e74a307903ba1806bf8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6635a14ea6311f190ec5604de528aa6&au=ed5b6f98f76048f7b54f636e59038f48&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19020,34 +19051,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408523&tid=20408523&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=d435fdcae9f011f19c123abe0aeab59b&au=712021c40f804827ac6d42a22567c652&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tdd7cf9c8b75",
-   "title": "BOSGAME E5 11 Pro Mini PC, AMD Ryzen 5400U 4C/ 8T, 8GB DDR4 256GB M.2 2280 SSD, 2.5 GbE Dual Lan",
-   "price": 189.99,
-   "old_price": 339.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&tid=20408442&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=055cab4ee9e011f1bdeaa291739d63b5&au=6f17ca8cdda44c0b9b1abc473ed8a161&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&tid=20408442&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=055cab4ee9e011f1bdeaa291739d63b5&au=6f17ca8cdda44c0b9b1abc473ed8a161&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/2/9/1/5/7/6/300x300/22618848.thumb",
-   "posted": "2026-11-26T20:47:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 189.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408442&tid=20408442&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=055cab4ee9e011f1bdeaa291739d63b5&au=6f17ca8cdda44c0b9b1abc473ed8a161&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T13:04:41+00:00"
+ "updated": "2026-11-27T13:09:22+00:00"
 }
