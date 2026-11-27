@@ -1465,7 +1465,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402766&tid=20402766&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=04af9aa2e9aa11f197c5b6ff16efd242&au=569ef0e943234fad827ef73e6aaf3e91&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T03:03:25+00:00",
+   "checked_at": "2026-11-27T09:07:57+00:00",
    "real_price": 29.99,
    "real_old": 49.99,
    "category_ok": true
@@ -11413,6 +11413,42 @@
    "real_old": 99.0
   },
   {
+   "id": "t6af4ed5f3a1",
+   "title": "DEWALT 20V MAX XR 1/2\" 3-Speed Brushless Cordless Hammer Drill (DCD996B) $129 + Free Shipping",
+   "price": 129.0,
+   "old_price": 209.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413779-dewalt-20v-max-xr-1-2-3-speed-brushless-cordless-hammer-drill-dcd996b-129-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22630626.thumb",
+   "posted": "2026-11-27T08:27:40+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-27T09:08:52+00:00",
+   "real_price": 129.0,
+   "real_old": 209.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413779&tid=20413779&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=2a1c9a68ea4211f1867e3ece42a7e54a&au=7538e6b748b3481ba9b6f72063ddac57&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t48ee1107bc8",
+   "title": "Lenovo Legion M600 RGB Wireless Gaming Mouse (Black) $37.99 + Free Shipping",
+   "price": 37.99,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413569-lenovo-legion-m600-rgb-wireless-gaming-mouse-black-37-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22630182.thumb",
+   "posted": "2026-11-27T08:16:10+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T09:08:54+00:00",
+   "real_price": 37.99,
+   "real_old": 89.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413569&tid=20413569&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2b4aac4aea4211f1add32e7ef2a57ec1&au=bdde755cd5b14449a7f14f423f6b5e8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tec415850100",
    "title": "1822-Piece LEGO DC Batman The Classic TV Series Batmobile Building Set $104.99 + Free Shipping",
    "price": 104.99,
@@ -11443,6 +11479,9 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "code": "USDEAL15",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20245902&pno=1375818&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a686a6c4ea3911f190b23abe0aeab59b&au=e52b646c79b3448ab9cdeee215c6b63d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:07:55+00:00",
    "real_price": 79.59,
@@ -11483,7 +11522,7 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
-   "code": "15USDEAL",
+   "code": "BFDEAL20",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20238045&pno=1376025&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a7b7f822ea3911f19489fe5c251010db&au=030c67983f634174a8dfabffe473ef69&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -11526,6 +11565,24 @@
    "checked_at": "2026-11-27T07:29:43+00:00",
    "real_price": 399.0,
    "real_old": 648.97
+  },
+  {
+   "id": "tb791c746865",
+   "title": "Acer Aspire 14\" Laptop, Intel Core Ultra 7, 16GB RAM, 1TB SSD, AI Copilot+ PC, Backlit Keyboard $599.99",
+   "price": 599.99,
+   "old_price": 1000.0,
+   "store": "BJs Wholesale",
+   "url": "https://slickdeals.net/f/20412747-acer-aspire-14-laptop-intel-core-ultra-7-16gb-ram-1tb-ssd-ai-copilot-pc-backlit-keyboard-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22628424.thumb",
+   "posted": "2026-11-27T07:19:32+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T09:08:56+00:00",
+   "real_price": 599.99,
+   "real_old": 1000.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412747&tid=20412747&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c6a146cea4211f1b99526dc1357c482&au=123157e8de82499ea1250b3cfd723fdf&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t898a3a3319b",
@@ -11593,10 +11650,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20412519&tid=20412519&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=84dc7438ea4111f18a9bc205d635bffe&au=d34b5acdd8c54991937cfc05451a4e97&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T09:04:15+00:00",
    "real_price": 99.0,
-   "real_old": 179.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20412519&tid=20412519&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=84dc7438ea4111f18a9bc205d635bffe&au=d34b5acdd8c54991937cfc05451a4e97&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.0
   },
   {
    "id": "t632e7cb614a",
@@ -12533,8 +12590,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=86143f98ea4111f1b13eb688bc0e2c12&au=6864dde62a5a4697abcaf63fa51695d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:04:17+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2d95cbd8ea4211f1acd97e1c96a331f7&au=5c404f0de76544ef829e87d1b3195f9f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T09:08:58+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -14269,8 +14326,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87394594ea4111f1b13eb688bc0e2c12&au=eded8ad2f52d479298192fd435224f9e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T09:04:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f52c052ea4211f182e37211240c6717&au=60dbaec6b00046ad90affd39e2d3d66c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T09:09:01+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15747,66 +15804,36 @@
    "checked_at": "2026-11-26T20:02:53+00:00",
    "real_price": 279.99,
    "real_old": 399.99
-  },
-  {
-   "id": "td0b9d83b6f5",
-   "title": "10,000mAh 30W wegear 3-in-1 Power Bank w/ Foldable Wall Plug & Detachable USB-C Cable $21.99 + Free Shipping w/ Prime or on $35+",
-   "price": 21.99,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406738-10-000mah-30w-wegear-3-in-1-power-bank-w-foldable-wall-plug-detachable-usb-c-cable-21-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22614513.thumb",
-   "posted": "2026-11-26T17:17:29+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "6KAHTILG",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406738&tid=20406738&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7d3c5876e9db11f1ae7162be492916db&au=87571edf5ea047ce8121ff7451c4c5cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:53:53+00:00",
-   "real_price": 21.99,
-   "real_old": 49.99
-  },
-  {
-   "id": "t95d36073c76",
-   "title": "Instant Pot Vortex 4-Qt 6-in-1 Mini Air Fryer (Rosewater) $49.99 + Free Shipping",
-   "price": 49.99,
-   "old_price": 89.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20406735-instant-pot-vortex-4-qt-6-in-1-mini-air-fryer-rosewater-49-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/22614516.thumb",
-   "posted": "2026-11-26T17:17:12+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406735&tid=20406735&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=4a16ff74e9ee11f1ac3bba8bfaabbf0e&au=364d1d1e27ba49c68d99144ac10ce087&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T23:08:28+00:00",
-   "real_price": 49.99,
-   "real_old": 89.99
-  },
-  {
-   "id": "t672b89de308",
-   "title": "Lenovo 5-Button Bluetooth Silent Mouse w/ Sculpted Grip $11.60",
-   "price": 11.58,
-   "old_price": 19.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20369526-lenovo-bluetooth-silent-mouse-wl300-white-11-38-free-s-h-w-prime-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22521552.thumb",
-   "posted": "2026-11-26T17:17:07+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20369526&pno=1371366&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=5c1dd61ae9bd11f19699c24804b06ef6&au=a4cb9a1ffb0f4794bdafdec7e8f79642&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T17:18:13+00:00",
-   "real_price": 11.58,
-   "real_old": 19.99
   }
  ],
  "tech": [
+  {
+   "id": "t48ee1107bc8",
+   "title": "Lenovo Legion M600 RGB Wireless Gaming Mouse (Black)",
+   "price": 37.99,
+   "old_price": 89.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413569&tid=20413569&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2b4aac4aea4211f1add32e7ef2a57ec1&au=bdde755cd5b14449a7f14f423f6b5e8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413569&tid=20413569&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2b4aac4aea4211f1add32e7ef2a57ec1&au=bdde755cd5b14449a7f14f423f6b5e8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22630182.thumb",
+   "posted": "2026-11-27T08:16:10+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 37.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413569&tid=20413569&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=2b4aac4aea4211f1add32e7ef2a57ec1&au=bdde755cd5b14449a7f14f423f6b5e8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tec415850100",
    "title": "1822-Piece LEGO DC Batman The Classic TV Series Batmobile Building Set",
@@ -15858,6 +15885,33 @@
      "store": "Best Buy",
      "price": 85.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&pno=1376046&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=fb2e344aea3811f1837f2e7ef2a57ec1&au=4dcbc9b735954144835b536fa7d71e7c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb791c746865",
+   "title": "Acer Aspire 14\" Laptop, Intel Core Ultra 7, 16GB RAM, 1TB SSD, AI Copilot+ PC, Backlit Keyboard",
+   "price": 599.99,
+   "old_price": 1000.0,
+   "store": "BJs Wholesale",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412747&tid=20412747&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c6a146cea4211f1b99526dc1357c482&au=123157e8de82499ea1250b3cfd723fdf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412747&tid=20412747&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c6a146cea4211f1b99526dc1357c482&au=123157e8de82499ea1250b3cfd723fdf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22628424.thumb",
+   "posted": "2026-11-27T07:19:32+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "BJs Wholesale",
+     "price": 599.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+BJs+Wholesale&sdtid=20412747&tid=20412747&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2c6a146cea4211f1b99526dc1357c482&au=123157e8de82499ea1250b3cfd723fdf&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16752,8 +16806,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=86143f98ea4111f1b13eb688bc0e2c12&au=6864dde62a5a4697abcaf63fa51695d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=86143f98ea4111f1b13eb688bc0e2c12&au=6864dde62a5a4697abcaf63fa51695d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2d95cbd8ea4211f1acd97e1c96a331f7&au=5c404f0de76544ef829e87d1b3195f9f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2d95cbd8ea4211f1acd97e1c96a331f7&au=5c404f0de76544ef829e87d1b3195f9f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -16769,7 +16823,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=86143f98ea4111f1b13eb688bc0e2c12&au=6864dde62a5a4697abcaf63fa51695d9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2d95cbd8ea4211f1acd97e1c96a331f7&au=5c404f0de76544ef829e87d1b3195f9f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17916,8 +17970,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87394594ea4111f1b13eb688bc0e2c12&au=eded8ad2f52d479298192fd435224f9e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87394594ea4111f1b13eb688bc0e2c12&au=eded8ad2f52d479298192fd435224f9e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f52c052ea4211f182e37211240c6717&au=60dbaec6b00046ad90affd39e2d3d66c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f52c052ea4211f182e37211240c6717&au=60dbaec6b00046ad90affd39e2d3d66c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17933,7 +17987,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=87394594ea4111f1b13eb688bc0e2c12&au=eded8ad2f52d479298192fd435224f9e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2f52c052ea4211f182e37211240c6717&au=60dbaec6b00046ad90affd39e2d3d66c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18950,61 +19004,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20392356&pno=1375212&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b3cd254ce9c111f1b28752ae4aa6ba03&au=f74f47212e984c07b681069fdd72aa5e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t77181c65faa",
-   "title": "Anycubic Kobra X Multicolor 3D Printer + Free S&H",
-   "price": 279.99,
-   "old_price": 359.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378739&pno=1375209&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b519c676e9c111f19570da3956e5e6bc&au=5e036fdb22964ae78c40bdc3befba928&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378739&pno=1375209&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b519c676e9c111f19570da3956e5e6bc&au=5e036fdb22964ae78c40bdc3befba928&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/22543791.thumb",
-   "posted": "2026-11-26T17:43:48+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 279.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20378739&pno=1375209&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b519c676e9c111f19570da3956e5e6bc&au=5e036fdb22964ae78c40bdc3befba928&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "td30b3d8af13",
-   "title": "Funko POP! TV: Breaking Bad - Heisenberg",
-   "price": 7.49,
-   "old_price": 14.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22614864.thumb",
-   "posted": "2026-11-26T17:35:45+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 7.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20406873&tid=20406873&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=25107d7ae9c811f19046e2457af02e11&au=234a9a6e027043278d5b3d492fb0eba4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T09:05:10+00:00"
+ "updated": "2026-11-27T09:09:50+00:00"
 }
