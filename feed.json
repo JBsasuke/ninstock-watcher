@@ -62,13 +62,13 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T08:16:21+00:00",
-   "category_ok": true,
-   "real_price": 359.2,
-   "real_old": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3d44aa4ea3a11f1a1261a3cc97fa2aa&au=ef13bbf460fc4e6a9b2564abb6fd14ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-27T08:16:21+00:00",
+   "real_price": 359.2,
+   "real_old": null,
+   "category_ok": true
   },
   {
    "id": "cd86c10bb9ed",
@@ -306,6 +306,27 @@
    "real_price": 6.99,
    "real_old": 57.0,
    "category_ok": true
+  },
+  {
+   "id": "776859445fad",
+   "title": "30% off Xenoblade Chronicles Definitive Edition Nintendo Switch 2 Upgrade Pack $6.99",
+   "price": 6.99,
+   "old_price": 57.0,
+   "store": "Nintendo",
+   "kind": "game",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20411745-30-off-xenoblade-chronicles-definitive-edition-nintendo-switch-2-upgrade-pack-6-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/5/0/5/1/6/2/300x300/22625865.thumb",
+   "posted": "2026-11-27T05:30:54+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-27T08:21:13+00:00",
+   "category_ok": true,
+   "real_price": 6.99,
+   "real_old": 57.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20411745&tid=20411745&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=81775e8aea3b11f198167e15aebef614&au=3fcf94f7f3544cf68184181e515e5c97&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "7a0ee1417dfd",
@@ -1546,7 +1567,7 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T02:16:59+00:00",
+   "checked_at": "2026-11-27T08:21:15+00:00",
    "category_ok": false,
    "real_price": 92.99,
    "real_old": 149.99,
@@ -1570,7 +1591,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402376&tid=20402376&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=b58dd53ae97011f18670f68c7a7d4440&au=c6b2e207777b40f6937a960932465e4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T02:17:02+00:00",
+   "checked_at": "2026-11-27T08:21:17+00:00",
    "real_price": 92.99,
    "real_old": 149.99,
    "category_ok": false
@@ -2122,7 +2143,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&pno=1374060&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2e8fce9ae90b11f1b5d5de367f514e35&au=160a3cc831b6480bab31629ad18d74c9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T02:17:04+00:00",
+   "checked_at": "2026-11-27T08:21:20+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -2206,7 +2227,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20397321&pno=1374060&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=2fbed0aee90b11f192b642d4915b0ba3&au=e38648e2b97047f3a0898f3f09893fa6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T02:17:07+00:00",
+   "checked_at": "2026-11-27T08:21:22+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -2502,7 +2523,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20393397&pno=1373775&prop=diavail-true%7Cdincp-0%7Cdinpd-10%7Cdipgavail-true&pv=5811e36ce8d811f185512a916d1f14a1&au=df6070839da64c89a0dc1874c032ad2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T02:17:09+00:00",
+   "checked_at": "2026-11-27T08:21:24+00:00",
    "real_price": 47.39,
    "real_old": 69.99,
    "category_ok": false
@@ -3168,27 +3189,6 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-27T04:03:39+00:00",
-   "real_price": 19.65,
-   "real_old": 49.99,
-   "category_ok": true
-  },
-  {
-   "id": "6b7549c8e7bb",
-   "title": "The Smurfs: Dreams (Switch) $19.65 + Free Shipping w/ Prime or on $35+",
-   "price": 19.65,
-   "old_price": 49.99,
-   "store": "Amazon",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20389734-the-smurfs-dreams-switch-19-65-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22571463.thumb",
-   "posted": "2026-11-24T21:43:29+00:00",
-   "needs_cat": true,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389734&tid=20389734&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=de9da84ce86c11f19e772a32ae51b81c&au=51052e39c0634242ac15baeb305a480d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-27T07:23:59+00:00",
    "real_price": 19.65,
    "real_old": 49.99,
    "category_ok": true
@@ -11579,10 +11579,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20412363&tid=20412363&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f960188eea3a11f1a0c46e6522384b61&au=1b21f229b36b4a2daa9b9192c93f829c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:17:24+00:00",
    "real_price": 25.0,
-   "real_old": 97.93,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20412363&tid=20412363&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f960188eea3a11f1a0c46e6522384b61&au=1b21f229b36b4a2daa9b9192c93f829c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 97.93
   },
   {
    "id": "td1af9b46455",
@@ -11980,10 +11980,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:17:26+00:00",
    "real_price": 649.0,
-   "real_old": 1449.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411625&tid=20411625&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=fa918d1eea3a11f19e73fe5c251010db&au=e9edf7520db3480db97ec0528502e9bf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1449.0
   },
   {
    "id": "t45fd594fcfe",
@@ -14046,8 +14046,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fbe3d0f0ea3a11f1bea01a677be18edf&au=4710b5065d004de98da29257b1ca3023&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T08:17:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T08:22:19+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -17698,8 +17698,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fbe3d0f0ea3a11f1bea01a677be18edf&au=4710b5065d004de98da29257b1ca3023&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fbe3d0f0ea3a11f1bea01a677be18edf&au=4710b5065d004de98da29257b1ca3023&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17715,7 +17715,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fbe3d0f0ea3a11f1bea01a677be18edf&au=4710b5065d004de98da29257b1ca3023&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a967f684ea3b11f1a75d66ac4217ae9d&au=9e1250cf2dff4ce7b68e16c0f7c58ec8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -19004,5 +19004,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T08:18:23+00:00"
+ "updated": "2026-11-27T08:23:15+00:00"
 }
