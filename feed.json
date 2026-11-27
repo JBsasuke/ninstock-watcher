@@ -173,7 +173,7 @@
    "id": "6f3a01c9c64f",
    "title": "(Switch 2 GKC) Resident Evil Requiem $30 (YMMV - Regional)",
    "price": 30.0,
-   "old_price": 60.0,
+   "old_price": 69.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -185,16 +185,16 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:29:47+00:00",
+   "checked_at": "2026-11-27T00:30:17+00:00",
    "real_price": 30.0,
-   "real_old": 60.0,
+   "real_old": 69.0,
    "category_ok": true
   },
   {
    "id": "36bf4923d222",
    "title": "(Switch 2 GKC) Resident Evil Requiem $30 (YMMV - Regional)",
    "price": 30.0,
-   "old_price": 60.0,
+   "old_price": 69.0,
    "store": "Walmart",
    "kind": "game",
    "collector": false,
@@ -206,9 +206,9 @@
    "store_url": "https://www.walmart.com/ip/18330858360",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-26T18:29:49+00:00",
+   "checked_at": "2026-11-27T00:30:19+00:00",
    "real_price": 30.0,
-   "real_old": 60.0,
+   "real_old": 69.0,
    "category_ok": true
   },
   {
@@ -3298,7 +3298,7 @@
    "id": "f115d821cc1b",
    "title": "(Switch 2 GKC) Resident Evil Requiem (YMMV - Regional)",
    "price": 30.0,
-   "old_price": 60.0,
+   "old_price": 69.0,
    "store": "Walmart",
    "store_url": "https://www.walmart.com/ip/18330858360",
    "url": "https://www.walmart.com/ip/18330858360",
@@ -11644,10 +11644,10 @@
    "code": "JHCE9926",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&tid=20409474&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=339950e8e9f911f195d0f2cd9e213daf&au=005bd0ff6c01442297c0f592554a4389&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T00:26:35+00:00",
    "real_price": 419.0,
-   "real_old": 1895.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20409474&tid=20409474&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=339950e8e9f911f195d0f2cd9e213daf&au=005bd0ff6c01442297c0f592554a4389&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1895.0
   },
   {
    "id": "tb48427915fe",
@@ -11843,8 +11843,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e41a0ae9f911f189a25670c858351b&au=fcead1b8aeb349acbf829c82f469ab99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:26:37+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d919293ae9f911f18b3502a61e36dc80&au=de27d67c07654798a414e62787aa9b79&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:31:12+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -12552,9 +12552,6 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
-   "code": "6ND8B35D",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -12709,6 +12706,24 @@
    "checked_at": "2026-11-26T20:35:28+00:00",
    "real_price": 599.99,
    "real_old": 1099.99
+  },
+  {
+   "id": "t3731ad90112",
+   "title": "$7.49 | Funko POP! TV: Spongebob Squarepants 25th - DoodleBob at Amazon",
+   "price": 7.49,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20407365-7-49-funko-pop-tv-spongebob-squarepants-25th-doodlebob-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22616046.thumb",
+   "posted": "2026-11-26T18:33:17+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T00:31:14+00:00",
+   "real_price": 7.49,
+   "real_old": 14.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407365&tid=20407365&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=da32ce2ae9f911f1ba955e7d453500a5&au=959053c89fbc4732b369e50251495ac1&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7467a4ba8ba",
@@ -13697,8 +13712,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3634c396e9f911f1bec41a3cc97fa2aa&au=0de08e948b004abab86bd2c6a397eb8e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:26:39+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=db52fbe0e9f911f19bd8c27ac87da7c2&au=5b04b38e81234fa9a4fdeb10433bed6b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:31:16+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -15747,24 +15762,6 @@
    "checked_at": "2026-11-26T16:44:03+00:00",
    "real_price": 212.99,
    "real_old": 349.0
-  },
-  {
-   "id": "taaa0dbd5a76",
-   "title": "DEWALT TOUGH GRIP 27-Piece Screwdriver Bit Set (DWAF2504TG) $12.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-   "price": 12.98,
-   "old_price": 19.98,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20402385-dewalt-tough-grip-27-piece-screwdriver-bit-set-dwaf2504tg-12-98-free-store-pickup-at-lowe-s-or-free-shipping-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22603797.thumb",
-   "posted": "2026-11-26T08:04:18+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402385&tid=20402385&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=97cbef58e9b811f1ba5e5a59d1f3bccf&au=ed0fc4e68504456fa38f9c2d0154ce7b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T16:44:05+00:00",
-   "real_price": 12.98,
-   "real_old": 19.98
   }
  ],
  "tech": [
@@ -16113,8 +16110,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e41a0ae9f911f189a25670c858351b&au=fcead1b8aeb349acbf829c82f469ab99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e41a0ae9f911f189a25670c858351b&au=fcead1b8aeb349acbf829c82f469ab99&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d919293ae9f911f18b3502a61e36dc80&au=de27d67c07654798a414e62787aa9b79&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d919293ae9f911f18b3502a61e36dc80&au=de27d67c07654798a414e62787aa9b79&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16130,7 +16127,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=34e41a0ae9f911f189a25670c858351b&au=fcead1b8aeb349acbf829c82f469ab99&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d919293ae9f911f18b3502a61e36dc80&au=de27d67c07654798a414e62787aa9b79&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16711,7 +16708,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": "6ND8B35D",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16827,6 +16824,33 @@
      "store": "Amazon",
      "price": 599.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407413&tid=20407413&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ea938a32e9d811f18ab0beaed212ecc4&au=27eb10427e4c480d9ce50fa987bf15df&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t3731ad90112",
+   "title": "Funko POP! TV: Spongebob Squarepants 25th - DoodleBob",
+   "price": 7.49,
+   "old_price": 14.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407365&tid=20407365&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=da32ce2ae9f911f1ba955e7d453500a5&au=959053c89fbc4732b369e50251495ac1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407365&tid=20407365&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=da32ce2ae9f911f1ba955e7d453500a5&au=959053c89fbc4732b369e50251495ac1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22616046.thumb",
+   "posted": "2026-11-26T18:33:17+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 7.49,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407365&tid=20407365&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=da32ce2ae9f911f1ba955e7d453500a5&au=959053c89fbc4732b369e50251495ac1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18950,34 +18974,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402454&tid=20402454&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=bd17f43ee9de11f19dc8ba8bfaabbf0e&au=c0629b7e46ed48838ca2035cccb88075&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t6b74f5afd03",
-   "title": "NOCO GENIUS1 6V / 12V 1A Smart Car Battery Charger",
-   "price": 23.77,
-   "old_price": 39.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603890.thumb",
-   "posted": "2026-11-26T08:06:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 23.77,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402424&tid=20402424&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=68fc572ae99111f1a8d03a1f0e489800&au=b223778d60ed4d0585ae91940b6ecf0b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T00:27:30+00:00"
+ "updated": "2026-11-27T00:32:06+00:00"
 }
