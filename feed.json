@@ -273,7 +273,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404392&pno=1375623&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=9aa1d970e9fb11f19627beaed212ecc4&au=81264d8aeddf4b55855ddb8c6414749a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T00:43:47+00:00",
+   "checked_at": "2026-11-27T06:45:45+00:00",
    "real_price": 24.99,
    "real_old": 39.99,
    "category_ok": true
@@ -1098,7 +1098,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=4a2e0172e99611f1898826fbbfedbab9&au=0fb5afecc492441498f12b5a734db7cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T00:43:48+00:00",
+   "checked_at": "2026-11-27T06:45:47+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -11397,6 +11397,24 @@
  ],
  "raw_tech": [
   {
+   "id": "t7a4c3bf6d21",
+   "title": "Apple MacBook Air 15\" Laptop: M5 10-Core Chip, 24GB RAM, 512GB SSD $1399 + Free S&H",
+   "price": 1399.0,
+   "old_price": 1699.0,
+   "store": "B&H Photo Video",
+   "url": "https://slickdeals.net/f/20411511-apple-macbook-air-15-m5-10-core-24gb-ram-512gb-ssd-1399?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
+   "posted": "2026-11-27T06:42:37+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T06:46:42+00:00",
+   "real_price": 1399.0,
+   "real_old": 1699.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e2ff1a2ea2e11f1b5019edf9ccb03d5&au=51729cb8518d43a79f7336d75f172917&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t838d2f88714",
    "title": "DeWALT 15A Corded 12\" Compound Single Bevel Miter Saw & Heavy-Duty Work Stand $369 + Free S&H",
    "price": 77.0,
@@ -11430,6 +11448,24 @@
    "checked_at": "2026-11-27T06:33:17+00:00",
    "real_price": 549.99,
    "real_old": 700.0
+  },
+  {
+   "id": "te20824abea1",
+   "title": "Open-Box Excellent: Apple AirPods 5 True Wireless ANC Earbuds $85.99 + Free Shipping",
+   "price": 85.99,
+   "old_price": 129.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20412210-open-box-excellent-apple-airpods-5-true-wireless-anc-earbuds-85-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22626969.thumb",
+   "posted": "2026-11-27T06:16:31+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": true,
+   "checked_at": "2026-11-27T06:46:44+00:00",
+   "real_price": 85.99,
+   "real_old": 129.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&tid=20412210&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=4f4c4194ea2e11f19a9e9edf9ccb03d5&au=c86c34304a044d4aab638a5dfbc4dcb4&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t661e3bd25bd",
@@ -11504,6 +11540,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412042&tid=20412042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3eb2e442ea2d11f1abbfcec1898c45cf&au=179dd94a08774dfe80fd865438ef0af7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T06:39:07+00:00",
    "real_price": 56.0
+  },
+  {
+   "id": "t5ad85eb51e4",
+   "title": "14\" Apple MacBook Pro M6 Laptop 12-core CPU & 12-core GPU - 24GB Memory 1TB SSD $1949 + Free S/H",
+   "price": 1949.0,
+   "old_price": 2199.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20411961-14-apple-macbook-pro-m6-laptop-12-core-cpu-12-core-gpu-24gb-memory-1tb-ssd-1949-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22625652.thumb",
+   "posted": "2026-11-27T06:00:16+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-27T06:46:46+00:00",
+   "real_price": 1949.0,
+   "real_old": 2199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&tid=20411961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50603446ea2e11f1ab4462be492916db&au=d5d8c6adba6a450daf860d296e6e1944&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tee26eea8f4c",
@@ -13696,8 +13750,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a63eb4b0ea2d11f1ad2c6a646fefbd8d&au=5c2ad3d1bc7548fea40f4807abbdb636&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T06:42:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51d1d726ea2e11f1af7a16186c12ece4&au=1ee9603451e04d1aaebcfbd97b7d66b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T06:46:49+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -14566,6 +14620,9 @@
    "cat_label": "Televisores",
    "prio": 3,
    "refurb": false,
+   "code": "6ND8B35D",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20388459&pno=1375278&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b18f835ae9cc11f1b5ca7ef858723a76&au=e0c10e843c354ee794f11e917022519e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-26T19:07:59+00:00",
    "real_price": 14.89,
@@ -15776,63 +15833,63 @@
    "checked_at": "2026-11-26T16:43:59+00:00",
    "real_price": 155.99,
    "real_old": 258.0
-  },
-  {
-   "id": "t2fbe27a463d",
-   "title": "Milwaukee 2527-20 M12 FUEL™ HATCHET™ 6” Pruning Saw (Tool-Only) $117.99",
-   "price": 117.99,
-   "old_price": 199.0,
-   "store": "Way Source",
-   "url": "https://slickdeals.net/f/20405769-milwaukee-2527-20-m12-fuel-hatchet-6-pruning-saw-tool-only-117-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612500.thumb",
-   "posted": "2026-11-26T16:02:29+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405769&tid=20405769&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babda346e9de11f1a9f3460f4f9362f3&au=1aa88e475eae47928a7086a8b8ca5653&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T21:17:05+00:00",
-   "real_price": 117.99,
-   "real_old": 199.0
-  },
-  {
-   "id": "t8b85d1d40c8",
-   "title": "Milwaukee M18 FUEL™ 4-1/2\" / 5\" Braking Grinder Paddle Switch, No-Lock (Tool Only) 2880-20 $125.99",
-   "price": 125.99,
-   "old_price": 229.0,
-   "store": "Way Source",
-   "url": "https://slickdeals.net/f/20405751-milwaukee-m18-fuel-4-1-2-5-braking-grinder-paddle-switch-no-lock-tool-only-2880-20-125-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612416.thumb",
-   "posted": "2026-11-26T16:01:24+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405751&tid=20405751&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b4036b6e9d611f1b507aa4ef105aa90&au=460e3ccb37be41bda6c191b7b853954b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:17:09+00:00",
-   "real_price": 125.99,
-   "real_old": 229.0
-  },
-  {
-   "id": "tf259a5c28d1",
-   "title": "Milwaukee 48-11-2442 M12 XC4.0 Battery - 2 Pack $79",
-   "price": 79.0,
-   "old_price": 149.0,
-   "store": "Way Source",
-   "url": "https://slickdeals.net/f/20405715-milwaukee-48-11-2442-m12-xc4-0-battery-2-pack-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22612350.thumb",
-   "posted": "2026-11-26T15:59:46+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Way+Source&sdtid=20405715&tid=20405715&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0656e6c6e9d711f1b97d92888ef4a18c&au=ea8dd0b866ab4c0ba185dc77a0ca1114&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:21:56+00:00",
-   "real_price": 79.0,
-   "real_old": 149.0
   }
  ],
  "tech": [
+  {
+   "id": "t7a4c3bf6d21",
+   "title": "Apple MacBook Air 15\" Laptop: M5 10-Core Chip, 24GB RAM, 512GB SSD + Free S&H",
+   "price": 1399.0,
+   "old_price": 1699.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e2ff1a2ea2e11f1b5019edf9ccb03d5&au=51729cb8518d43a79f7336d75f172917&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e2ff1a2ea2e11f1b5019edf9ccb03d5&au=51729cb8518d43a79f7336d75f172917&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22627506.thumb",
+   "posted": "2026-11-27T06:42:37+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "B&H Photo Video",
+     "price": 1399.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20411511&pno=1375977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4e2ff1a2ea2e11f1b5019edf9ccb03d5&au=51729cb8518d43a79f7336d75f172917&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "te20824abea1",
+   "title": "Open-Box Excellent: Apple AirPods 5 True Wireless ANC Earbuds",
+   "price": 85.99,
+   "old_price": 129.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&tid=20412210&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=4f4c4194ea2e11f19a9e9edf9ccb03d5&au=c86c34304a044d4aab638a5dfbc4dcb4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&tid=20412210&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=4f4c4194ea2e11f19a9e9edf9ccb03d5&au=c86c34304a044d4aab638a5dfbc4dcb4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22626969.thumb",
+   "posted": "2026-11-27T06:16:31+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": true,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 85.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412210&tid=20412210&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=4f4c4194ea2e11f19a9e9edf9ccb03d5&au=c86c34304a044d4aab638a5dfbc4dcb4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tf7ff9ba0782",
    "title": "CyberPowerPC Gaming Desktop: Ryzen 7 9800X3D, RX 9070 (16GB), 32GB DDR5, 1TB SSD",
@@ -15880,6 +15937,33 @@
    "code_until": null,
    "promo": "Extra 20% Off",
    "offers": []
+  },
+  {
+   "id": "t5ad85eb51e4",
+   "title": "14\" Apple MacBook Pro M6 Laptop 12-core CPU & 12-core GPU - 24GB Memory 1TB SSD",
+   "price": 1949.0,
+   "old_price": 2199.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&tid=20411961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50603446ea2e11f1ab4462be492916db&au=d5d8c6adba6a450daf860d296e6e1944&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&tid=20411961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50603446ea2e11f1ab4462be492916db&au=d5d8c6adba6a450daf860d296e6e1944&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22625652.thumb",
+   "posted": "2026-11-27T06:00:16+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 1949.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411961&tid=20411961&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50603446ea2e11f1ab4462be492916db&au=d5d8c6adba6a450daf860d296e6e1944&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
   },
   {
    "id": "tee26eea8f4c",
@@ -17429,8 +17513,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a63eb4b0ea2d11f1ad2c6a646fefbd8d&au=5c2ad3d1bc7548fea40f4807abbdb636&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a63eb4b0ea2d11f1ad2c6a646fefbd8d&au=5c2ad3d1bc7548fea40f4807abbdb636&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51d1d726ea2e11f1af7a16186c12ece4&au=1ee9603451e04d1aaebcfbd97b7d66b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51d1d726ea2e11f1af7a16186c12ece4&au=1ee9603451e04d1aaebcfbd97b7d66b1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -17446,7 +17530,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a63eb4b0ea2d11f1ad2c6a646fefbd8d&au=5c2ad3d1bc7548fea40f4807abbdb636&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=51d1d726ea2e11f1af7a16186c12ece4&au=1ee9603451e04d1aaebcfbd97b7d66b1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18108,7 +18192,7 @@
    "cat_label": "Televisores",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "6ND8B35D",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18943,88 +19027,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20405931&tid=20405931&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=08f57ea6e9eb11f1918882ce030be712&au=7c235b099e2344088bc8fe99d1da8f38&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t07b1f5ee75d",
-   "title": "2-Bay UGREEN DXP2800 GT NAS & More + Free S&H",
-   "price": 349.99,
-   "old_price": 509.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20337477&pno=1375101&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f0bd2cce9b511f1af1d66359df0a70f&au=855db51d79454ebcb426b5db150a6749&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20337477&pno=1375101&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f0bd2cce9b511f1af1d66359df0a70f&au=855db51d79454ebcb426b5db150a6749&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/22613073.thumb",
-   "posted": "2026-11-26T16:08:47+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 349.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20337477&pno=1375101&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4f0bd2cce9b511f1af1d66359df0a70f&au=855db51d79454ebcb426b5db150a6749&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t8256028e58c",
-   "title": "Apple Watch Series 12 GPS 46mm Smartwatch",
-   "price": 399.99,
-   "old_price": 499.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405709&tid=20405709&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=db209302e9b411f1aea93a71cb392a8d&au=2cc0e7b8e9b14fd0af257ba6ed7bb54c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405709&tid=20405709&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=db209302e9b411f1aea93a71cb392a8d&au=2cc0e7b8e9b14fd0af257ba6ed7bb54c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22612302.thumb",
-   "posted": "2026-11-26T15:59:16+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 399.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405709&tid=20405709&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=db209302e9b411f1aea93a71cb392a8d&au=2cc0e7b8e9b14fd0af257ba6ed7bb54c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "tfa509c08a82",
-   "title": "128GB Apple iPad A16 Chip 11\" Wi-Fi Tablet (Early 2025) + Free S&H",
-   "price": 379.0,
-   "old_price": 448.96,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=a925c70eea2d11f1ae2a3ae993c98890&au=eb3a7d33c7904822ace6cc78e5174ac2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=a925c70eea2d11f1ae2a3ae993c98890&au=eb3a7d33c7904822ace6cc78e5174ac2&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/300x300/22612119.thumb",
-   "posted": "2026-11-26T15:54:51+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 379.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20376492&pno=1375059&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=a925c70eea2d11f1ae2a3ae993c98890&au=eb3a7d33c7904822ace6cc78e5174ac2&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T06:42:57+00:00"
+ "updated": "2026-11-27T06:47:34+00:00"
 }
