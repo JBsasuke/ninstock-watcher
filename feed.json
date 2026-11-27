@@ -754,7 +754,7 @@
    "posted": "2026-11-26T11:49:09+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-26T18:07:05+00:00",
+   "checked_at": "2026-11-27T00:11:35+00:00",
    "category_ok": true,
    "real_price": 29.99,
    "real_old": 49.99,
@@ -11357,6 +11357,23 @@
  ],
  "raw_tech": [
   {
+   "id": "t6669a907e24",
+   "title": "Costco Members: 65\" TCL QM6K Pro QD-Mini 4K Google TV (2025) w/ 5-Yr Warranty $500 + Free Delivery",
+   "price": 499.99,
+   "old_price": null,
+   "store": "Costco Wholesale",
+   "url": "https://slickdeals.net/f/20408850-costco-members-65-tcl-qm6k-pro-series-4k-uhd-qd-mini-led-smart-tv-w-5-year-warranty-coverage-499-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/22620192.thumb",
+   "posted": "2026-11-27T00:11:16+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-27T00:12:29+00:00",
+   "real_price": 499.99,
+   "real_old": null
+  },
+  {
    "id": "t9b3c22fd73c",
    "title": "Wendy's Restaurant App Exclusive Offer: Big Noon Big Deal: Dave's Single Burger 50% Off w/ Purchase (Valid thru 12/5)",
    "price": null,
@@ -11753,8 +11770,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=99244768e9f611f186e7d20d18ec00f7&au=9d50fedb64064116beb5e5028f9f4fcf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:07:56+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3cb26932e9f711f18c08ba566ef4559a&au=e5f61cb121b14879a298ed1af13156a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:12:31+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -12263,10 +12280,7 @@
    "prio": 20,
    "refurb": false,
    "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20407911&tid=20407911&prop=diavail-true%7Cdincp-1%7Cdinpd-4%7Cdipgavail-true&pv=9a4aaee8e9f611f1af056e6522384b61&au=c1343e59d6bd45279605dd95dee53482&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:07:58+00:00",
-   "expired": true,
-   "real_price": 4.24,
-   "real_old": 5.99
+   "expired": true
   },
   {
    "id": "t27b3b48c74c",
@@ -13589,8 +13603,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9bb37b0ce9f611f1a1dac27ac87da7c2&au=e82dd20894c24597822a1f898d8073a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T00:08:01+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20401107&pno=1375062&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3df5bd4ee9f711f1ae876e6522384b61&au=ba99388b761c431588a4168fbecc9809&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T00:12:33+00:00",
    "real_price": 4.97,
    "real_old": 9.97
   },
@@ -13791,6 +13805,24 @@
    "checked_at": "2026-11-26T17:58:41+00:00",
    "real_price": 13.99,
    "real_old": 18.99
+  },
+  {
+   "id": "tf96b7781433",
+   "title": "NETGEAR Nighthawk WiFi 7 Extender BE3600 3.6 Gbps w/ 2.5G Ethernet Port (EXS18) $79.99 + Free Shipping",
+   "price": 79.99,
+   "old_price": 129.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20405370-netgear-nighthawk-wifi-7-extender-be3600-3-6-gbps-w-2-5g-ethernet-port-exs18-79-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22611144.thumb",
+   "posted": "2026-11-26T15:30:19+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T00:12:35+00:00",
+   "real_price": 79.99,
+   "real_old": 129.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405370&tid=20405370&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3f2474dae9f711f1a3cbb688bc0e2c12&au=be815688221b406cb280a37abc36d4fd&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9979d43ec64",
@@ -15729,42 +15761,6 @@
    "checked_at": "2026-11-26T11:08:51+00:00",
    "real_price": 99.0,
    "real_old": 149.0
-  },
-  {
-   "id": "t1bda70a2efa",
-   "title": "DEWALT 5-Pack Keyring Screwdriving Bit Holder Set (DWAFHLDKC5) $12.98 + Free Store Pickup at Lowe's or Free Shipping on $35+",
-   "price": 12.98,
-   "old_price": 19.98,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20402346-dewalt-5-pack-keyring-screwdriving-bit-holder-set-dwafhldkc5-12-98-free-store-pickup-at-lowe-s-or-free-shipping-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22603719.thumb",
-   "posted": "2026-11-26T08:01:53+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402346&tid=20402346&prop=diavail-true%7Cdincp-2%7Cdinpd-4%7Cdipgavail-true&pv=957e8adce99d11f1bcec7e23634e417e&au=2def2083d7914a92af94dcb3c895b751&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T13:30:45+00:00",
-   "real_price": 12.98,
-   "real_old": 19.98
-  },
-  {
-   "id": "t8f6c775ad6c",
-   "title": "DEWALT 20V MAX XR 3-Tool Brushless Woodworking Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included) | DCK307D1P1 $309",
-   "price": 309.0,
-   "old_price": 449.0,
-   "store": "Lowe's",
-   "url": "https://slickdeals.net/f/20402325-dewalt-20v-max-xr-3-tool-brushless-woodworking-power-tool-combo-kit-with-soft-case-2-batteries-and-charger-included-dck307d1p1-309?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/5/6/0/3/7/8/300x300/22603689.thumb",
-   "posted": "2026-11-26T07:59:31+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20402325&tid=20402325&prop=diavail-true%7Cdincp-1%7Cdinpd-12%7Cdipgavail-true&pv=0ab1c394e9d711f1b222d2dfa90a5390&au=334dd5e3392d4f259f4f2b0a6919c8b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T20:22:03+00:00",
-   "real_price": 309.0,
-   "real_old": 449.0
   }
  ],
  "tech": [
@@ -16059,8 +16055,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=99244768e9f611f186e7d20d18ec00f7&au=9d50fedb64064116beb5e5028f9f4fcf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=99244768e9f611f186e7d20d18ec00f7&au=9d50fedb64064116beb5e5028f9f4fcf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3cb26932e9f711f18c08ba566ef4559a&au=e5f61cb121b14879a298ed1af13156a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3cb26932e9f711f18c08ba566ef4559a&au=e5f61cb121b14879a298ed1af13156a8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -16076,7 +16072,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=99244768e9f611f186e7d20d18ec00f7&au=9d50fedb64064116beb5e5028f9f4fcf&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3cb26932e9f711f18c08ba566ef4559a&au=e5f61cb121b14879a298ed1af13156a8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17602,6 +17598,33 @@
    ]
   },
   {
+   "id": "tf96b7781433",
+   "title": "NETGEAR Nighthawk WiFi 7 Extender BE3600 3.6 Gbps",
+   "price": 79.99,
+   "old_price": 129.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405370&tid=20405370&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3f2474dae9f711f1a3cbb688bc0e2c12&au=be815688221b406cb280a37abc36d4fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405370&tid=20405370&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3f2474dae9f711f1a3cbb688bc0e2c12&au=be815688221b406cb280a37abc36d4fd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22611144.thumb",
+   "posted": "2026-11-26T15:30:19+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 79.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20405370&tid=20405370&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=3f2474dae9f711f1a3cbb688bc0e2c12&au=be815688221b406cb280a37abc36d4fd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t5849c981e05",
    "title": "WOLFBOX 4000A 12V 24000mAh Portable Car Jump Starter",
    "price": 60.0,
@@ -18950,34 +18973,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402382&tid=20402382&prop=diavail-true%7Cdincp-1%7Cdinpd-18%7Cdipgavail-true&pv=4fd4cfb2e9b311f18f8d3a71cb392a8d&au=cc14c8d274064966b557af88a5c876e3&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t9510fe073dc",
-   "title": "Google Pixel Watch 5 (41mm) - Android Smartwatch - Obsidian - Wi-Fi + 10% Back",
-   "price": 284.99,
-   "old_price": 399.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22603785.thumb",
-   "posted": "2026-11-26T08:03:56+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 284.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402379&tid=20402379&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=b846ecf4e99211f19992a2c33023a246&au=43517b036f484d178818ae7eddaa9917&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T00:08:48+00:00"
+ "updated": "2026-11-27T00:13:25+00:00"
 }
