@@ -16,7 +16,7 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T08:11:36+00:00",
+   "checked_at": "2026-11-27T10:13:32+00:00",
    "category_ok": true,
    "real_price": 359.2,
    "real_old": null,
@@ -39,7 +39,7 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-27T08:11:38+00:00",
+   "checked_at": "2026-11-27T10:13:35+00:00",
    "category_ok": true,
    "real_price": 359.2,
    "real_old": null,
@@ -772,7 +772,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&pno=1375086&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=d165d7ece9b311f1af2be23d847dc1c0&au=e704fbf65f3743f687f830803eac93bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T04:12:58+00:00",
+   "checked_at": "2026-11-27T10:13:28+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -1258,7 +1258,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=3df69046e98111f18773ae6bb055d708&au=471c3f0f26994a079277bc55823124ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T04:13:01+00:00",
+   "checked_at": "2026-11-27T10:13:30+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -2505,7 +2505,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20261073&pno=1373841&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=bd07c820e8e411f1adf16a82603adb7c&au=14332c68198f433a9710a33eaef8556f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T08:11:40+00:00",
+   "checked_at": "2026-11-27T10:13:37+00:00",
    "real_price": 27.99,
    "real_old": 58.99,
    "category_ok": true
@@ -11668,6 +11668,24 @@
    "real_old": 14.98
   },
   {
+   "id": "tb23cd152f88",
+   "title": "[AC] $23.02* | 128GB ORICO SDXC TF Card UHS-I Class 10 V30 A1 microSD Memory Card at Amazon",
+   "price": 23.02,
+   "old_price": 46.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20412843-ac-23-02-128gb-orico-sdxc-tf-card-uhs-i-class-10-v30-a1-microsd-memory-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628769.thumb",
+   "posted": "2026-11-27T07:29:29+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-27T10:14:31+00:00",
+   "real_price": 23.02,
+   "real_old": 46.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412843&tid=20412843&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=562b47c2ea4b11f1a9f04efc85e4630c&au=95aa093438424b7fa1ec25111ae5322d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tfed7de1aa40",
    "title": "DeWALT 12\" 15-Amp Dual Bevel Sliding Compound Corded Miter Saw $399 + Free S&H",
    "price": 399.0,
@@ -12954,8 +12972,8 @@
    "code": "99449AP9",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac99c90eea4a11f1b70a7211240c6717&au=e481a4685d99448f8af390d5d4b45ea1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:09:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57612cbaea4b11f18d507211240c6717&au=964d148c481d465db7e1898269619bfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T10:14:33+00:00",
    "real_price": 3.99,
    "real_old": 7.99
   },
@@ -14708,8 +14726,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae184af8ea4a11f1877862ab116aba84&au=fb512c3f90b44f699f1a4089b511db99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:09:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58aed3ecea4b11f1afba3ece42a7e54a&au=891b13c52e484488979b18df994d7be7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-27T10:14:36+00:00",
    "real_price": 3.99,
    "real_old": 18.99
   },
@@ -15732,24 +15750,6 @@
    "checked_at": "2026-11-26T20:02:52+00:00",
    "real_price": 9.99,
    "real_old": 11.49
-  },
-  {
-   "id": "t4f28aed5624",
-   "title": "Cuisinart 9-Qt Basket Air Fryer Oven w/ Stainless Steel Interior & Divider (AIRX-221) $99.99 + Free Shipping",
-   "price": 99.99,
-   "old_price": 219.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20407440-cuisinart-9-qt-basket-air-fryer-oven-w-stainless-steel-interior-divider-airx-221-99-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22616262.thumb",
-   "posted": "2026-11-26T18:41:16+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407440&tid=20407440&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=1f8ed35ce9d111f18bce56667a793469&au=6ec88fd3588e4daeb9b98e687bf6faa7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-26T19:39:42+00:00",
-   "real_price": 99.99,
-   "real_old": 219.95
   }
  ],
  "tech": [
@@ -15912,6 +15912,33 @@
      "store": "Amazon",
      "price": 499.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413110&tid=20413110&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=cee97138ea4211f19a9a7211240c6717&au=e1602decf6774c148a6e4182dd6c0971&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb23cd152f88",
+   "title": "[AC] * | 128GB ORICO SDXC TF Card UHS-I Class 10 V30 A1 microSD Memory Card",
+   "price": 23.02,
+   "old_price": 46.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412843&tid=20412843&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=562b47c2ea4b11f1a9f04efc85e4630c&au=95aa093438424b7fa1ec25111ae5322d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412843&tid=20412843&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=562b47c2ea4b11f1a9f04efc85e4630c&au=95aa093438424b7fa1ec25111ae5322d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628769.thumb",
+   "posted": "2026-11-27T07:29:29+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 23.02,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412843&tid=20412843&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=562b47c2ea4b11f1a9f04efc85e4630c&au=95aa093438424b7fa1ec25111ae5322d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17049,8 +17076,8 @@
    "price": 3.99,
    "old_price": 7.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac99c90eea4a11f1b70a7211240c6717&au=e481a4685d99448f8af390d5d4b45ea1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac99c90eea4a11f1b70a7211240c6717&au=e481a4685d99448f8af390d5d4b45ea1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57612cbaea4b11f18d507211240c6717&au=964d148c481d465db7e1898269619bfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57612cbaea4b11f18d507211240c6717&au=964d148c481d465db7e1898269619bfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22624458.thumb",
    "posted": "2026-11-27T03:36:16+00:00",
    "kind": "tech",
@@ -17066,7 +17093,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ac99c90eea4a11f1b70a7211240c6717&au=e481a4685d99448f8af390d5d4b45ea1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20411055&tid=20411055&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57612cbaea4b11f18d507211240c6717&au=964d148c481d465db7e1898269619bfd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18213,8 +18240,8 @@
    "price": 3.99,
    "old_price": 18.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae184af8ea4a11f1877862ab116aba84&au=fb512c3f90b44f699f1a4089b511db99&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae184af8ea4a11f1877862ab116aba84&au=fb512c3f90b44f699f1a4089b511db99&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58aed3ecea4b11f1afba3ece42a7e54a&au=891b13c52e484488979b18df994d7be7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58aed3ecea4b11f1afba3ece42a7e54a&au=891b13c52e484488979b18df994d7be7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/0/4/3/1/7/8/300x300/22620486.thumb",
    "posted": "2026-11-26T21:49:38+00:00",
    "kind": "tech",
@@ -18230,7 +18257,7 @@
     {
      "store": "Amazon",
      "price": 3.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ae184af8ea4a11f1877862ab116aba84&au=fb512c3f90b44f699f1a4089b511db99&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20408973&tid=20408973&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=58aed3ecea4b11f1afba3ece42a7e54a&au=891b13c52e484488979b18df994d7be7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18929,34 +18956,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Adorama&sdtid=20407644&tid=20407644&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=50978d62e9e111f18418ca77583b76c5&au=5f74026d8ae84f2e8dfaf6175e347e92&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "ta82a65d4f3b",
-   "title": "Lenovo - 8GB Chromebook IdeaPad Slim 3 - 14\" 2K Touchscreen Laptop - MediaTek Kompanio 500 Series 2026 - 8GB Memory - 128GB Storage - Cosmic Blue",
-   "price": 279.0,
-   "old_price": 529.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407596&tid=20407596&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d36c7becea2911f18a9f42ea8a74cf59&au=643066614ca8415b9fef03642b558d31&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407596&tid=20407596&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d36c7becea2911f18a9f42ea8a74cf59&au=643066614ca8415b9fef03642b558d31&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22627128.thumb",
-   "posted": "2026-11-26T18:58:19+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 279.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20407596&tid=20407596&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=d36c7becea2911f18a9f42ea8a74cf59&au=643066614ca8415b9fef03642b558d31&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-27T10:10:41+00:00"
+ "updated": "2026-11-27T10:15:32+00:00"
 }
