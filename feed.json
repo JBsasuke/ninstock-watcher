@@ -613,7 +613,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417922&tid=20417922&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=89242848ea7c11f1802f42bccbc5c33e&au=8833e67a646b49229325ac574d67544a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T22:06:50+00:00",
+   "checked_at": "2026-11-28T04:10:10+00:00",
    "real_price": 30.0,
    "real_old": 49.99,
    "category_ok": true
@@ -634,7 +634,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417922&tid=20417922&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=8a89c6c0ea7c11f1957be2f2a0cf6e88&au=a696cfccab154567b6ecc04fd98bf7ff&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T22:06:52+00:00",
+   "checked_at": "2026-11-28T04:10:12+00:00",
    "real_price": 30.0,
    "real_old": 49.99,
    "category_ok": true
@@ -1394,10 +1394,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8f356edaea3711f1b2463abe0aeab59b&au=3dd29abb45154a898f774399ac79c647&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:08:19+00:00",
+   "checked_at": "2026-11-28T04:10:17+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "babd2fd99657",
@@ -2075,7 +2076,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T22:06:54+00:00",
+   "checked_at": "2026-11-28T04:10:14+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -3208,7 +3209,7 @@
    "expired": true
   }
  ],
- "deku_checked": "2026-11-28T03:09:54+00:00",
+ "deku_checked": "2026-11-28T04:10:18+00:00",
  "deals": [
   {
    "id": "f85c9553a9bf",
@@ -8509,7 +8510,7 @@
      "url": "https://www.target.com/p/-/A-1012539829"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -8556,7 +8557,7 @@
      "url": "https://www.walmart.com/ip/21254752741"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Arc Games",
    "digital": {
@@ -8587,7 +8588,7 @@
      "url": "https://www.gamestop.com/products/dave-the-diver-complete-edition/444293.html"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -8603,7 +8604,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "LiTMUS",
    "digital": {
@@ -8645,7 +8646,7 @@
      "url": "https://www.target.com/p/-/A-1012070917"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -8682,17 +8683,12 @@
      "url": "https://www.target.com/p/-/A-1012539313"
     },
     {
-     "store": "Amazon",
-     "price": 46.99,
-     "url": "https://www.amazon.com/dp/B0H7ZC7LSF"
-    },
-    {
      "store": "GameStop",
      "price": 49.99,
      "url": "https://www.gamestop.com/products/the-crew-motorfest/448804.html"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -8713,7 +8709,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -8736,7 +8732,7 @@
      "url": "https://www.amazon.com/dp/B0HN4W45QG"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": {
@@ -8773,7 +8769,7 @@
      "url": "https://www.walmart.com/ip/21119362877"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nacon",
    "digital": {
@@ -8815,7 +8811,7 @@
      "url": "https://www.target.com/p/-/A-1014334839"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Saber Interactive Incorporated",
    "digital": {
@@ -8836,7 +8832,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -8883,7 +8879,7 @@
      "url": "https://www.gamestop.com/products/disney-epic-mickey-rebrushed/405268.html"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -8930,7 +8926,7 @@
      "url": "https://www.target.com/p/-/A-1010889314"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -8951,7 +8947,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Sting",
    "digital": {
@@ -8992,7 +8988,7 @@
      "url": "https://www.target.com/p/-/A-1012616001"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9013,7 +9009,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9033,14 +9029,8 @@
    "release": "October 1, 2026",
    "release_date": "2026-10-01",
    "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 69.99,
-     "url": "https://www.amazon.com/dp/B0HLXNDSC1"
-    }
-   ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers": [],
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -9063,7 +9053,7 @@
    "offers": [
     {
      "store": "Amazon",
-     "price": 35.99,
+     "price": 37.78,
      "url": "https://www.amazon.com/dp/B0BFBJ3HMC"
     },
     {
@@ -9082,7 +9072,7 @@
      "url": "https://www.target.com/p/-/A-1012616000"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9129,7 +9119,7 @@
      "url": "https://www.walmart.com/ip/21239622580"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -9150,7 +9140,7 @@
    "release_date": "2026-09-29",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9195,14 +9185,9 @@
      "store": "Target",
      "price": 49.99,
      "url": "https://www.target.com/p/-/A-1011984171"
-    },
-    {
-     "store": "Walmart",
-     "price": 49.99,
-     "url": "https://www.walmart.com/ip/20824404538"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9254,7 +9239,7 @@
      "url": "https://www.target.com/p/-/A-1012015062"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -9285,7 +9270,7 @@
      "url": "https://www.gamestop.com/products/absolum/445287.html"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Dotemu",
    "digital": {
@@ -9326,7 +9311,7 @@
      "url": "https://www.gamestop.com/products/trails-in-the-sky-2nd-chapter/444221.html"
     }
    ],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "GungHo America",
    "digital": {
@@ -9340,13 +9325,19 @@
    "title": "Fire Emblem: Fortune’s Weave Dagdan Collection",
    "url": "https://www.dekudeals.com/items/fire-emblem-fortunes-weave-dagdan-collection",
    "image": "https://cdn.dekudeals.com/images/2f1758fb541e8ee256ff37ebaa65073db0474c5f/w540.jpg?c=0.164.2000.1675",
-   "price": null,
+   "price": 142.02,
    "old_price": null,
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "offers": [],
-   "offers_checked": "2026-11-27T21:58:23+00:00",
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 142.02,
+     "url": "https://www.amazon.com/dp/B0H4P4KZ6Q"
+    }
+   ],
+   "offers_checked": "2026-11-28T04:10:35+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -10326,7 +10317,7 @@
    "title": "MARVEL Cosmic Invasion",
    "url": "https://www.dekudeals.com/items/marvel-cosmic-invasion",
    "image": "https://cdn.dekudeals.com/images/0ea982d7c2325fcc98b96103577d3c012226f50d/w540.jpg",
-   "price": 39.33,
+   "price": 39.49,
    "old_price": 49.99,
    "release": "December 1, 2025",
    "release_date": "2025-12-01",
@@ -10396,7 +10387,7 @@
    "title": "Yooka-Replaylee",
    "url": "https://www.dekudeals.com/items/yooka-replaylee",
    "image": "https://cdn.dekudeals.com/images/e88abcb3d3a5cb6d699707051fede259280ef5c6/w540.jpg",
-   "price": 40.51,
+   "price": 41.99,
    "old_price": 49.99,
    "release": "October 9, 2025",
    "release_date": "2025-10-09",
@@ -11281,6 +11272,24 @@
    "real_old": 32.69
   },
   {
+   "id": "tb2764c2c2ac",
+   "title": "Logitech MK270 Wireless Keyboard & Mouse Combo $19.99 & 50% Back in Points + Free Pickup at Staples or free ship on $35",
+   "price": 19.99,
+   "old_price": 29.99,
+   "store": "Staples",
+   "url": "https://slickdeals.net/f/20424276-logitech-mk270-wireless-keyboard-mouse-combo-19-99-50-back-in-points-free-pickup-at-staples-or-free-ship-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22656072.thumb",
+   "posted": "2026-11-28T03:36:10+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T04:12:21+00:00",
+   "real_price": 19.99,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20424276&tid=20424276&prop=diavail-true%7Cdincp-2%7Cdinpd-10%7Cdipgavail-true&pv=e80cd584eae111f19ab0469f55d9ccef&au=8822416f4bb7463a9c5e05d9fa25863b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "ta200daa9ea7",
    "title": "Whirlpool Washer + LG Dryer + LG Microwave Bundle $785.25 + Free Pickup",
    "price": 785.25,
@@ -11721,6 +11730,9 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "code": "LENOVOBIGHOLIDAY",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -11739,8 +11751,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=174deab4eae111f190001e473794e67d&au=a221e5414abe4aaab2c8ae5d4f874e26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:06:30+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e9701e90eae111f1b8fb46ddd161ebb0&au=dddb7b56e37e42fa8625bc49599802d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:12:23+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -14201,6 +14213,24 @@
    "real_old": 1599.99
   },
   {
+   "id": "t0b234d2baca",
+   "title": "$29.98: Wyze Cam v4 2.5K QHD Security Camera, White",
+   "price": 29.98,
+   "old_price": 44.98,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20418651-29-98-wyze-cam-v4-2-5k-qhd-security-camera-white?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/6/7/1/9/300x300/22643760.thumb",
+   "posted": "2026-11-27T17:08:43+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T04:12:25+00:00",
+   "real_price": 29.98,
+   "real_old": 44.98,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20418651&tid=20418651&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=eaa4bb7ceae111f1a6f59a461e2e00d3&au=214102ed25a74eeda780d149058e041f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t21c4f8df5a9",
    "title": "KRK Kreate 3 3.5\" Powered Studio Monitor Speakers (Pair) $134.99 + Free Shipping",
    "price": 134.99,
@@ -14325,8 +14355,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=186a5158eae111f19e2b029dd6ea20b0&au=c20f528a368049c691ec4e4a55efed33&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:06:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec3a1342eae111f1ac39469f55d9ccef&au=53ac527283be43a2bdeba86ba31e96a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:12:28+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15133,8 +15163,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=19908f0ceae111f18b831e7201f16811&au=e02303bcb2b1453aa8a29aacdc9bcd15&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:06:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ed9f272ceae111f180d7daeb753274bd&au=771f885672874a88a85afd12f7a3c4ce&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:12:30+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15647,45 +15677,36 @@
    "refurb": false,
    "store_url": "https://slickdeals.net/click?trd=Visit+Amazon&sdtid=20415837&tid=20415837&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=c507deeeea8711f19e2ae2f2a0cf6e88&au=4fc93f08833e42488df9b23807e69db5&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "expired": true
-  },
-  {
-   "id": "t67074e116c9",
-   "title": "$1749* | Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD at Amazon",
-   "price": 1749.0,
-   "old_price": 1999.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20415750-1749-apple-14-macbook-pro-laptop-m6-chip-16gb-memory-1tb-ssd-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22636536.thumb",
-   "posted": "2026-11-27T13:11:24+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415750&tid=20415750&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=4277fa2cea6e11f196b06e5ef850e476&au=9ec5770423fd4743ab5e7684234e9116&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:24:31+00:00",
-   "real_price": 1749.0,
-   "real_old": 1999.0
-  },
-  {
-   "id": "te0e69952971",
-   "title": "Dewalt XR Brushless 3-Speed Oscillating Multi Tool (OMT) with 4 Ah Battery, Charger and blade DCS356M1 $99",
-   "price": 99.0,
-   "old_price": 138.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20415732-dewalt-xr-brushless-3-speed-oscillating-multi-tool-omt-with-4-ah-battery-charger-and-blade-dcs356m1-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-27T13:09:36+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20415732&tid=20415732&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=aeb6b888eac111f19b06c2f9e14fb70f&au=f3c5df9de75a4b5cbe8c8d858a898bf7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:21:40+00:00",
-   "real_price": 99.0,
-   "real_old": 138.0
   }
  ],
  "tech": [
+  {
+   "id": "tb2764c2c2ac",
+   "title": "Logitech MK270 Wireless Keyboard & Mouse Combo & 50% Back in Points + Free Pickup",
+   "price": 19.99,
+   "old_price": 29.99,
+   "store": "Staples",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20424276&tid=20424276&prop=diavail-true%7Cdincp-2%7Cdinpd-10%7Cdipgavail-true&pv=e80cd584eae111f19ab0469f55d9ccef&au=8822416f4bb7463a9c5e05d9fa25863b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20424276&tid=20424276&prop=diavail-true%7Cdincp-2%7Cdinpd-10%7Cdipgavail-true&pv=e80cd584eae111f19ab0469f55d9ccef&au=8822416f4bb7463a9c5e05d9fa25863b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22656072.thumb",
+   "posted": "2026-11-28T03:36:10+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Staples",
+     "price": 19.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Staples&sdtid=20424276&tid=20424276&prop=diavail-true%7Cdincp-2%7Cdinpd-10%7Cdipgavail-true&pv=e80cd584eae111f19ab0469f55d9ccef&au=8822416f4bb7463a9c5e05d9fa25863b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t82c2b0a51e6",
    "title": "Prime: 4-Pk 1-Kg SUNLU 1.75mm PETG 3D Printer Filament (Black) + 800g PP (White) + Free S&H",
@@ -16047,7 +16068,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "LENOVOBIGHOLIDAY",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16064,8 +16085,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=174deab4eae111f190001e473794e67d&au=a221e5414abe4aaab2c8ae5d4f874e26&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=174deab4eae111f190001e473794e67d&au=a221e5414abe4aaab2c8ae5d4f874e26&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e9701e90eae111f1b8fb46ddd161ebb0&au=dddb7b56e37e42fa8625bc49599802d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e9701e90eae111f1b8fb46ddd161ebb0&au=dddb7b56e37e42fa8625bc49599802d4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16081,7 +16102,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=174deab4eae111f190001e473794e67d&au=a221e5414abe4aaab2c8ae5d4f874e26&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e9701e90eae111f1b8fb46ddd161ebb0&au=dddb7b56e37e42fa8625bc49599802d4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18260,8 +18281,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=186a5158eae111f19e2b029dd6ea20b0&au=c20f528a368049c691ec4e4a55efed33&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=186a5158eae111f19e2b029dd6ea20b0&au=c20f528a368049c691ec4e4a55efed33&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec3a1342eae111f1ac39469f55d9ccef&au=53ac527283be43a2bdeba86ba31e96a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec3a1342eae111f1ac39469f55d9ccef&au=53ac527283be43a2bdeba86ba31e96a7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18277,7 +18298,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=186a5158eae111f19e2b029dd6ea20b0&au=c20f528a368049c691ec4e4a55efed33&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec3a1342eae111f1ac39469f55d9ccef&au=53ac527283be43a2bdeba86ba31e96a7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18874,34 +18895,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tef6916b43f6",
-   "title": "VIZIO 5.1 Soundbar",
-   "price": 99.0,
-   "old_price": 198.0,
-   "store": "Walmart",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417073&tid=20417073&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=032b918aea8211f18a6d3693952c0199&au=fd8b7a09e357420783f1b5a12134fe3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417073&tid=20417073&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=032b918aea8211f18a6d3693952c0199&au=fd8b7a09e357420783f1b5a12134fe3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/0/5/1/6/2/300x300/22639551.thumb",
-   "posted": "2026-11-27T15:03:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Walmart",
-     "price": 99.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417073&tid=20417073&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=032b918aea8211f18a6d3693952c0199&au=fd8b7a09e357420783f1b5a12134fe3d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T04:07:23+00:00"
+ "updated": "2026-11-28T04:13:22+00:00"
 }
