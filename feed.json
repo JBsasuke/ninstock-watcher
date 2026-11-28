@@ -14,13 +14,13 @@
    "posted": "2026-11-28T05:34:35+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T05:38:04+00:00",
-   "category_ok": true,
-   "real_price": 30.0,
-   "real_old": 79.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20395800&pno=1376913&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=e1cdb9fceaed11f1805a0ab56e546186&au=26d1f2e6fd2c4cc182b986623c2165af&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T05:38:04+00:00",
+   "real_price": 30.0,
+   "real_old": 79.99,
+   "category_ok": true
   },
   {
    "id": "92ad038aca25",
@@ -263,7 +263,7 @@
    "id": "64c72e9215c6",
    "title": "Sonic X Shadow Generations (Nintendo Switch 2) $15 + Free Shipping w/ Prime or on orders over $35",
    "price": 15.0,
-   "old_price": 60.0,
+   "old_price": 49.99,
    "store": "Amazon",
    "kind": "game",
    "collector": false,
@@ -275,16 +275,16 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422668&tid=20422668&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=c785a406eabb11f186390aa06e0bfcf4&au=6ea0d1b91cde427e9e8e01ed871b3825&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T23:39:25+00:00",
+   "checked_at": "2026-11-28T05:42:44+00:00",
    "real_price": 15.0,
-   "real_old": 60.0,
+   "real_old": 49.99,
    "category_ok": true
   },
   {
    "id": "eb2a40353cc7",
    "title": "Sonic X Shadow Generations (Nintendo Switch 2) $15 + Free Shipping w/ Prime or on orders over $35",
    "price": 15.0,
-   "old_price": 59.0,
+   "old_price": 49.99,
    "store": "Amazon",
    "kind": "game",
    "collector": false,
@@ -296,9 +296,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422668&tid=20422668&prop=diavail-true%7Cdincp-0%7Cdinpd-12%7Cdipgavail-true&pv=c8a52ed8eabb11f18488e2cc6d3f1ef9&au=14b901a1ac0c4d598397e4814d1a84c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T23:39:27+00:00",
+   "checked_at": "2026-11-28T05:42:46+00:00",
    "real_price": 15.0,
-   "real_old": 59.0,
+   "real_old": 49.99,
    "category_ok": true
   },
   {
@@ -338,7 +338,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417613&pno=1376601&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=c9d8b4a0eabb11f1aa051e0cf5fea2f5&au=9568f4ecd4b64727a9337568c18e6b11&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T23:39:29+00:00",
+   "checked_at": "2026-11-28T05:42:48+00:00",
    "real_price": 30.0,
    "real_old": 69.99,
    "category_ok": true
@@ -1531,7 +1531,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20411745&tid=20411745&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d5f87d12ea2311f182676a38164d869d&au=e4306b1df80c40188f13eb2aedb533d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T23:39:32+00:00",
+   "checked_at": "2026-11-28T05:42:51+00:00",
    "real_price": 6.99,
    "real_old": 9.99,
    "category_ok": true
@@ -1552,7 +1552,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20411745&tid=20411745&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d7190540ea2311f1a0ffba566ef4559a&au=583f526254244616ba71abff7c6a49f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T23:39:35+00:00",
+   "checked_at": "2026-11-28T05:42:53+00:00",
    "real_price": 6.99,
    "real_old": 9.99,
    "category_ok": true
@@ -10697,6 +10697,54 @@
  ],
  "news": [
   {
+   "id": "35ca795e545a",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Opening Ceremony Performance | 2027 Pokémon Latin American International Championships",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=rOxsaInSriY",
+   "image": "https://i.ytimg.com/vi/rOxsaInSriY/hqdefault.jpg",
+   "posted": "2026-11-28T05:44:56+00:00"
+  },
+  {
+   "id": "4f15d4b00cad",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Summer Days with Wartortle | POKÉTOON Short",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=eGMDObpD7Es",
+   "image": "https://i.ytimg.com/vi/eGMDObpD7Es/hqdefault.jpg",
+   "posted": "2026-11-28T05:44:56+00:00"
+  },
+  {
+   "id": "54d401d03813",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Pokémon TCG Pocket: Dual Fusion 🧬 | Official Trailer",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=IGqgREr8t0w",
+   "image": "https://i.ytimg.com/vi/IGqgREr8t0w/hqdefault.jpg",
+   "posted": "2026-11-28T05:44:56+00:00"
+  },
+  {
+   "id": "54100aaf584c",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Decks on Decks 🛹 | Behind The Scenes with Pokémon and Santa Cruz Skateboards",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=BVi7G7NDcA0",
+   "image": "https://i.ytimg.com/vi/BVi7G7NDcA0/hqdefault.jpg",
+   "posted": "2026-11-28T05:44:56+00:00"
+  },
+  {
    "id": "aldia-e90f0f8f5e",
    "title": "Professor Layton and the New World of Steam llegará el 9 de diciembre de 2026",
    "summary": "Layton y Luke vuelven en una nueva aventura de vapor, misterio y acertijos, con más rompecabezas que nunca en la serie.",
@@ -10976,150 +11024,6 @@
    "posted": "2026-11-23T20:00:25+00:00"
   },
   {
-   "id": "6f7b87e3ca87",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Championship Sunday | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch this weekend's final showdown between VGC, TCG and GO as we determine our 2027 Pokémon Latin America International Champions!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=-vlAyNXi1t8",
-   "image": "https://i.ytimg.com/vi/-vlAyNXi1t8/hqdefault.jpg",
-   "posted": "2026-11-22T21:18:02+00:00"
-  },
-  {
-   "id": "aca21e3003c9",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Skarmory doesn't mess around when it comes to shiny things",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/shorts/nSVJXCnkuQo",
-   "image": "https://i.ytimg.com/vi/nSVJXCnkuQo/hqdefault.jpg",
-   "posted": "2026-11-22T17:00:20+00:00"
-  },
-  {
-   "id": "f471b08a86e2",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=59x5jVcbm7c",
-   "image": "https://i.ytimg.com/vi/59x5jVcbm7c/hqdefault.jpg",
-   "posted": "2026-11-22T16:28:54+00:00"
-  },
-  {
-   "id": "80cd42e8f1fc",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=MPxRo4LzS1A",
-   "image": "https://i.ytimg.com/vi/MPxRo4LzS1A/hqdefault.jpg",
-   "posted": "2026-11-22T16:26:26+00:00"
-  },
-  {
-   "id": "c944e7602ae6",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=4RdQ5B5VuKo",
-   "image": "https://i.ytimg.com/vi/4RdQ5B5VuKo/hqdefault.jpg",
-   "posted": "2026-11-22T16:24:25+00:00"
-  },
-  {
-   "id": "5affc27a842f",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=Qeu1HY4ysck",
-   "image": "https://i.ytimg.com/vi/Qeu1HY4ysck/hqdefault.jpg",
-   "posted": "2026-11-22T16:22:13+00:00"
-  },
-  {
-   "id": "9aa0320716c2",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=Jc4obO596C0",
-   "image": "https://i.ytimg.com/vi/Jc4obO596C0/hqdefault.jpg",
-   "posted": "2026-11-22T16:20:25+00:00"
-  },
-  {
-   "id": "cb03b7550956",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=FkNx8YQBZKU",
-   "image": "https://i.ytimg.com/vi/FkNx8YQBZKU/hqdefault.jpg",
-   "posted": "2026-11-22T16:17:21+00:00"
-  },
-  {
-   "id": "83d264efcec8",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=ezA58GqG5yE",
-   "image": "https://i.ytimg.com/vi/ezA58GqG5yE/hqdefault.jpg",
-   "posted": "2026-11-22T00:16:28+00:00"
-  },
-  {
-   "id": "4d6b7d3c995e",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
-   "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
-   "posted": "2026-11-22T00:11:03+00:00"
-  },
-  {
-   "id": "f69b9bb4e528",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
-   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
-   "posted": "2026-11-21T21:40:04+00:00"
-  },
-  {
-   "id": "1e4a07991837",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Wake up! Eevee is ready to start the day! 😄🤎",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/shorts/5KNxmgd4cP0",
-   "image": "https://i.ytimg.com/vi/5KNxmgd4cP0/hqdefault.jpg",
-   "posted": "2026-11-21T17:00:13+00:00"
-  },
-  {
    "id": "0d8a4671249f",
    "date_ok": true,
    "seeded": true,
@@ -11166,6 +11070,18 @@
    "url": "https://www.youtube.com/watch?v=nKRxwgwSEqI",
    "image": "https://i.ytimg.com/vi/nKRxwgwSEqI/hqdefault.jpg",
    "posted": "2026-11-17T17:00:13+00:00"
+  },
+  {
+   "id": "93213129efbd",
+   "date_ok": true,
+   "seeded": true,
+   "title": "RACCOIN: Chaos Max Edition – Launch Trailer – Nintendo Switch 2",
+   "summary": "In this roguelike deckbuilder, combine special coins with powerful items to trigger wildly satisfying combos! Stack shiny towers, spin the lucky wheel, and shake the machine until all the coins drop.",
+   "lang": "en",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=3ShCCyHTu1A",
+   "image": "https://i.ytimg.com/vi/3ShCCyHTu1A/hqdefault.jpg",
+   "posted": "2026-11-13T23:00:14+00:00"
   }
  ],
  "raw_tech": [
@@ -11186,6 +11102,27 @@
    "checked_at": "2026-11-27T16:54:44+00:00",
    "real_price": 379.0,
    "real_old": 998.75
+  },
+  {
+   "id": "t1a0d68580ab",
+   "title": "Flashforge Adventurer 5M Wi-Fi 3D Printer w/ Auto Leveling $138.70 + Free S&H",
+   "price": 138.69,
+   "old_price": 199.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20413881-flashforge-adventurer-5m-600mm-s-3d-printer-with-auto-leveling-138-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/9/8/6/1/7/8/300x300/22630929.thumb",
+   "posted": "2026-11-28T05:42:40+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "code": "USBF28",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T05:43:51+00:00",
+   "real_price": 138.69,
+   "real_old": 199.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413881&pno=1376925&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b07b2ab4eaee11f1b5ec0ab56e546186&au=254aa11000ec40a0806edf0031ff640a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "te236692197f",
@@ -11353,6 +11290,9 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
+   "code": "NICEFIND10",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
@@ -11375,6 +11315,24 @@
    "checked_at": "2026-11-28T04:20:04+00:00",
    "real_price": 239.99,
    "real_old": 653.57
+  },
+  {
+   "id": "t128d134388c",
+   "title": "Alexa Tablet 12 Pro - 8GB RAM, 128GB, 12″ 2.8K display, All-day battery, Android OS with Google Play, Alexa+ $349.99",
+   "price": 349.99,
+   "old_price": 500.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20424531-alexa-tablet-12-pro-8gb-ram-128gb-12-2-8k-display-all-day-battery-android-os-with-google-play-alexa-349-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22656552.thumb",
+   "posted": "2026-11-28T04:07:21+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-28T05:43:53+00:00",
+   "real_price": 349.99,
+   "real_old": 500.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20424531&tid=20424531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab3488eaee11f1b6bbfe59efd29f42&au=38b953539533489b8617af941962b878&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4bc4046fc3d",
@@ -11791,6 +11749,24 @@
    "real_old": 279.0
   },
   {
+   "id": "taff0f422003",
+   "title": "BEHOST 10-Inch Hybrid Queen Mattress in a Box, Medium Firm, Memory Foam with Pocket Springs, CertiPUR-US® Certified Foam $139.99",
+   "price": 139.99,
+   "old_price": 299.99,
+   "store": "Walmart",
+   "url": "https://slickdeals.net/f/20423781-behost-10-inch-hybrid-queen-mattress-in-a-box-medium-firm-memory-foam-with-pocket-springs-certipur-us-certified-foam-139-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/1/7/8/3/1/2/4/300x300/22654941.thumb",
+   "posted": "2026-11-28T02:26:33+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T05:43:55+00:00",
+   "real_price": 139.99,
+   "real_old": 299.99,
+   "store_url": "https://www.walmart.com/ip/215662951"
+  },
+  {
    "id": "t1b3d893dc54",
    "title": "DEWALT, DCB205-2C, Battery Kit, 20V MAX, 5 Ah, Lithium-Ion, Includes Charger",
    "price": 89.0,
@@ -11986,8 +11962,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=05489302eaee11f1b097fe59efd29f42&au=83da7752e71344f0b2cb8beab57907ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:39:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b44c20daeaee11f1b536b24576e7103a&au=9d2a5cb27ac643578719ead0d3d39ed6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T05:43:57+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -12472,6 +12448,24 @@
    "checked_at": "2026-11-28T02:23:06+00:00",
    "real_price": 49.97,
    "real_old": 84.97
+  },
+  {
+   "id": "ta37cc38d065",
+   "title": "MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, Dual 12V-2x6 Cables, Server-Grade Capacito $89.99",
+   "price": 89.99,
+   "old_price": 169.99,
+   "store": "Newegg",
+   "url": "https://slickdeals.net/f/20422602-msi-mpg-a1000gs-pcie5-ii-fully-modular-gaming-1000w-power-supply-80-gold-dual-12v-2x6-cables-server-grade-capacito-89-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/8/4/0/5/1/300x300/22652163.thumb",
+   "posted": "2026-11-27T23:30:00+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-28T05:44:00+00:00",
+   "real_price": 89.99,
+   "real_old": 169.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20422602&tid=20422602&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b59c5694eaee11f1a92612508f5c99d5&au=7dce6b70c370452aa32e5562974e312a&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t4e4d7ebbac0",
@@ -14206,9 +14200,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "JJX08G",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413527&pno=1376364&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d642c49aea8b11f183a41645367a00b3&au=e770d269e8e34310a7d40ecf1884af7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:56:14+00:00",
    "real_price": 52.03,
@@ -14323,8 +14314,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0671a48aeaee11f19d2b3267536534ed&au=49e8a3f369894b23ac5d1223bbd1b5aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:39:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b702437ceaee11f18aa1fe59efd29f42&au=f852fe7ae1ec4dfb8dcd145b8997c705&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T05:44:02+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -14683,8 +14674,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07b15246eaee11f1921722ae172f5607&au=2d35005bfe0545dea79560efc321435e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:39:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b860cb4eeaee11f18a716afc56820f93&au=4da76baee6904bebb61da51e3400dd24&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T05:44:04+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15491,8 +15482,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=08e68b68eaee11f1a714aa689c3e038c&au=ed4c3506df154678b6c86a2505ae7dbb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:39:10+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=b998852eeaee11f186a562fc08c29554&au=fef425452412448f9dafb4e126b84e54&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T05:44:07+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15551,81 +15542,6 @@
    "checked_at": "2026-11-28T03:01:17+00:00",
    "real_price": 299.99,
    "real_old": 529.99
-  },
-  {
-   "id": "t1946d146f11",
-   "title": "LG 77\" OLED C6 AI  144Hz Dolby Vision-Certified Open Box",
-   "price": 1487.0,
-   "old_price": 1858.0,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20416578-lg-77-oled-c6-ai-144hz-dolby-vision-certified-open-box?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/2/4/8/4/1/8/8/300x300/22638390.thumb",
-   "posted": "2026-11-27T14:20:01+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": true,
-   "checked_at": "2026-11-28T02:32:56+00:00",
-   "real_price": 1487.0,
-   "real_old": 1858.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20416578&tid=20416578&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=04aa4022ead411f1856a46ddd161ebb0&au=565221fba60f4802942c21cde64f60e1&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "t9aeecc0bf1b",
-   "title": "[Prime] $430.38 | Apple Watch Ultra 3 [GPS + Cellular, 49mm] Black Titanium Case with Black/Charcoal Trail Loop, M/L (Renewed) + 10% Back w/ Prime Visa Card at Amazon",
-   "price": 430.38,
-   "old_price": 669.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20416566-prime-430-38-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-charcoal-trail-loop-m-l-renewed-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22638357.thumb",
-   "posted": "2026-11-27T14:19:16+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416566&tid=20416566&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=6f989c5aea7311f182492a97915d1529&au=3f63111ad10f4dac90ce4b531c35b4c8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:01:34+00:00",
-   "real_price": 430.38,
-   "real_old": 669.0
-  },
-  {
-   "id": "tb23b5463a19",
-   "title": "$97.67 | Vornado VHEAT® Vintage Metal Space Heater at Amazon",
-   "price": 97.67,
-   "old_price": 169.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20416509-97-67-vornado-vheat-vintage-metal-space-heater-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22638180.thumb",
-   "posted": "2026-11-27T14:12:24+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416509&tid=20416509&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=93d6c00aea8d11f1980dfe168e7c6021&au=97f6d923b9e649b5aa8ee836c3a5a268&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:08:42+00:00",
-   "real_price": 97.67,
-   "real_old": 169.99
-  },
-  {
-   "id": "t6c006ded544",
-   "title": "SUNLU 10kg Mixed-Color PETG 1.75mm 3D Printer Filament $76.6 + Free Shipping $76.59",
-   "price": 76.59,
-   "old_price": 109.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20416461-sunlu-10kg-mixed-color-petg-1-75mm-3d-printer-filament-76-6-free-shipping-76-59?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/3/4/8/0/6/6/3/300x300/22638051.thumb",
-   "posted": "2026-11-27T14:07:20+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "USBF15",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20416461&tid=20416461&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=41f4273aeab211f191b80aa06e0bfcf4&au=99715066fea64d6ea78cf6c0d5d2c2d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T22:31:16+00:00",
-   "real_price": 76.59,
-   "real_old": 109.0
   }
  ],
  "tech": [
@@ -15761,6 +15677,33 @@
      "store": "Amazon",
      "price": 12.74,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&pno=1376871&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6e663d8eae411f1bb3f7a9191bcd281&au=b404bbc2c7c543b7a35f26ec93cccfb8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t128d134388c",
+   "title": "Alexa Tablet 12 Pro - 8GB RAM, 128GB, 12″ 2.8K display, All-day battery, Android OS with Google Play, Alexa+",
+   "price": 349.99,
+   "old_price": 500.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20424531&tid=20424531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab3488eaee11f1b6bbfe59efd29f42&au=38b953539533489b8617af941962b878&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20424531&tid=20424531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab3488eaee11f1b6bbfe59efd29f42&au=38b953539533489b8617af941962b878&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/8/7/6/0/5/3/0/300x300/22656552.thumb",
+   "posted": "2026-11-28T04:07:21+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 349.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20424531&tid=20424531&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab3488eaee11f1b6bbfe59efd29f42&au=38b953539533489b8617af941962b878&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16196,8 +16139,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=05489302eaee11f1b097fe59efd29f42&au=83da7752e71344f0b2cb8beab57907ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=05489302eaee11f1b097fe59efd29f42&au=83da7752e71344f0b2cb8beab57907ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b44c20daeaee11f1b536b24576e7103a&au=9d2a5cb27ac643578719ead0d3d39ed6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b44c20daeaee11f1b536b24576e7103a&au=9d2a5cb27ac643578719ead0d3d39ed6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16213,7 +16156,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=05489302eaee11f1b097fe59efd29f42&au=83da7752e71344f0b2cb8beab57907ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b44c20daeaee11f1b536b24576e7103a&au=9d2a5cb27ac643578719ead0d3d39ed6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16646,6 +16589,33 @@
      "store": "Lenovo",
      "price": 2072.69,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421147&pno=1376586&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3b17056eeabb11f1973c52720ea1455f&au=062b7eb9061f4075be8cb6265e9a6d46&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "ta37cc38d065",
+   "title": "MSI MPG A1000GS PCIE5 II, Fully Modular Gaming 1000W Power Supply, 80+ Gold, Dual 12V-2x6 Cables, Server-Grade Capacito",
+   "price": 89.99,
+   "old_price": 169.99,
+   "store": "Newegg",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20422602&tid=20422602&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b59c5694eaee11f1a92612508f5c99d5&au=7dce6b70c370452aa32e5562974e312a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20422602&tid=20422602&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b59c5694eaee11f1a92612508f5c99d5&au=7dce6b70c370452aa32e5562974e312a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/4/2/8/4/0/5/1/300x300/22652163.thumb",
+   "posted": "2026-11-27T23:30:00+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Newegg",
+     "price": 89.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20422602&tid=20422602&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=b59c5694eaee11f1a92612508f5c99d5&au=7dce6b70c370452aa32e5562974e312a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18182,8 +18152,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0671a48aeaee11f19d2b3267536534ed&au=49e8a3f369894b23ac5d1223bbd1b5aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0671a48aeaee11f19d2b3267536534ed&au=49e8a3f369894b23ac5d1223bbd1b5aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b702437ceaee11f18aa1fe59efd29f42&au=f852fe7ae1ec4dfb8dcd145b8997c705&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b702437ceaee11f18aa1fe59efd29f42&au=f852fe7ae1ec4dfb8dcd145b8997c705&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18199,7 +18169,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0671a48aeaee11f19d2b3267536534ed&au=49e8a3f369894b23ac5d1223bbd1b5aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b702437ceaee11f18aa1fe59efd29f42&au=f852fe7ae1ec4dfb8dcd145b8997c705&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18500,8 +18470,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07b15246eaee11f1921722ae172f5607&au=2d35005bfe0545dea79560efc321435e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07b15246eaee11f1921722ae172f5607&au=2d35005bfe0545dea79560efc321435e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b860cb4eeaee11f18a716afc56820f93&au=4da76baee6904bebb61da51e3400dd24&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b860cb4eeaee11f18a716afc56820f93&au=4da76baee6904bebb61da51e3400dd24&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18517,7 +18487,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07b15246eaee11f1921722ae172f5607&au=2d35005bfe0545dea79560efc321435e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b860cb4eeaee11f18a716afc56820f93&au=4da76baee6904bebb61da51e3400dd24&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18790,61 +18760,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+TCL&sdtid=20417901&tid=20417901&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d7e9fb6eea8211f190167e94b7430612&au=c1a035a2c7c34b8eb599961a3dcaac66&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "td012211a54d",
-   "title": "Sennheiser Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Black/Copper",
-   "price": 149.95,
-   "old_price": 199.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641504.thumb",
-   "posted": "2026-11-27T15:58:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 149.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t5a532cf852b",
-   "title": "Sam's Club: HP OMEN 15.3\" Laptop: Intel Core 5 210H, 16GB RAM, RTX 5050",
-   "price": 849.0,
-   "old_price": 1199.0,
-   "store": "Sam's Club",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/5/2/1/1/6/300x300/22608945.thumb",
-   "posted": "2026-11-27T15:55:15+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Sam's Club",
-     "price": 849.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T05:39:58+00:00"
+ "updated": "2026-11-28T05:44:56+00:00"
 }
