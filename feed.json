@@ -2307,7 +2307,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403558&tid=20403558&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=c6a56176e9a211f1be8b920c122761f4&au=55f380f99dd946e0874a1cd97a0b17b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:19:00+00:00",
+   "checked_at": "2026-11-28T02:22:02+00:00",
    "real_price": 29.99,
    "real_old": 39.99,
    "category_ok": true
@@ -2661,7 +2661,7 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T20:19:03+00:00",
+   "checked_at": "2026-11-28T02:22:05+00:00",
    "category_ok": false,
    "real_price": 92.99,
    "real_old": 149.99,
@@ -2682,7 +2682,7 @@
    "posted": "2026-11-26T08:03:37+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T20:19:06+00:00",
+   "checked_at": "2026-11-28T02:22:08+00:00",
    "category_ok": false,
    "real_price": 92.99,
    "real_old": 149.99,
@@ -10550,8 +10550,8 @@
     {
      "store": "Amazon",
      "url": "https://www.amazon.com/dp/B0HJ6F8L6V",
-     "status": "agotado",
-     "since": "2026-11-28T02:07:11+00:00"
+     "status": "disponible",
+     "since": "2026-11-28T02:20:55+00:00"
     },
     {
      "store": "Walmart",
@@ -11389,8 +11389,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f835c96cead111f1b92eb2162687b1c2&au=f7d501341b7843b4a2cac1802448d631&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:18:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a3808adcead211f19a2946a7b968e864&au=e094b13c3ec941358b00d6ba1948867e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:23:04+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11751,6 +11751,42 @@
    "real_old": 3619.99
   },
   {
+   "id": "t6757be3d51c",
+   "title": "94-Piece Husky SAE/Metric Mechanics Tool Set w/ 1/4\" & 3/8\" Drive and Case $49.97 + Free Shipping",
+   "price": 49.97,
+   "old_price": 84.97,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20422599-94-piece-husky-sae-metric-mechanics-tool-set-w-1-4-3-8-drive-and-case-49-97-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22652511.thumb",
+   "posted": "2026-11-27T23:30:00+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:23:06+00:00",
+   "real_price": 49.97,
+   "real_old": 84.97,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20422599&tid=20422599&prop=diavail-true%7Cdincp-0%7Cdinpd-11%7Cdipgavail-true&pv=a5034bb0ead211f19a35022da88e1800&au=2a4dd806a58e4f6abacb66d32536b7ec&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t4e4d7ebbac0",
+   "title": "CRAFTSMAN 25' High-Visibility Tape Measure $7.98 + Free Shipping w/ Prime or on $35+",
+   "price": 7.98,
+   "old_price": 11.48,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20422572-craftsman-25-high-visibility-tape-measure-7-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22652409.thumb",
+   "posted": "2026-11-27T23:26:38+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:23:08+00:00",
+   "real_price": 7.98,
+   "real_old": 11.48,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422572&tid=20422572&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=a65992b2ead211f182e876c631ca5380&au=255b06f83d3d49adb975131a486cf347&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t9976190070b",
    "title": "CRAFTSMAN Spring Assisted Folding Pocket Knife $9.99 + Free Shipping w/ Prime or on $35+",
    "price": 9.99,
@@ -11767,6 +11803,24 @@
    "checked_at": "2026-11-28T01:54:47+00:00",
    "real_price": 9.99,
    "real_old": 15.98
+  },
+  {
+   "id": "t2c6d511e07c",
+   "title": "$24.98, Lowe's, Kobalt 20 -Piece Blue Household Tool Set with Hard Case",
+   "price": 24.98,
+   "old_price": 139.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20422497-24-98-lowe-s-kobalt-20-piece-blue-household-tool-set-with-hard-case?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22652226.thumb",
+   "posted": "2026-11-27T23:16:50+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:23:10+00:00",
+   "real_price": 24.98,
+   "real_old": 139.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20422497&tid=20422497&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=a7a8aeaaead211f1a0b8022da88e1800&au=afb817c957cc439aaf14db880a0e3147&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t742543e2424",
@@ -13651,8 +13705,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f99d4c08ead111f180f55ad830de0205&au=f2774d60431e4c36969482391e064bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:18:18+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8d962baead211f1a8c12aedf7c66a89&au=7e715177404d4f12b638c0b9395adc3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:23:12+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14423,8 +14477,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=fad03234ead111f19b40967e975f14b0&au=670760d947ec4fa6a3eb1e2a19975f31&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:18:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a9fc7880ead211f19b131e0cf5fea2f5&au=e22c9db63fb74cd0ad299de0c7b0248f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:23:14+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15638,8 +15692,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=fc0bc280ead111f188e47648c62ca98a&au=489af527a89949f0824bfd18180942fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:18:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ab28b2d2ead211f184ea022da88e1800&au=cd5ac4c5a8f045668234c35c348b9e52&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:23:17+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15678,63 +15732,6 @@
    "checked_at": "2026-11-27T11:19:25+00:00",
    "real_price": 1499.99,
    "real_old": 2999.99
-  },
-  {
-   "id": "tf78e7850753",
-   "title": "6-Pack Magnetic Spice Rack Organizer Set for Refrigerator w/ Paper Towel Holder & Utensil Caddy (Black) $11.99 + Free Shipping w/ Prime or $6 Fee per Order",
-   "price": 11.99,
-   "old_price": 25.99,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20414607-6-pack-magnetic-spice-rack-organizer-set-for-refrigerator-w-paper-towel-holder-utensil-caddy-black-11-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22633419.thumb",
-   "posted": "2026-11-27T10:09:16+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "BIGFRIDAY",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20414607&tid=20414607&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ee702392ea5811f1a137928091f9879e&au=fc6e43654845434192479ca6f3274733&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:51:50+00:00",
-   "real_price": 11.99,
-   "real_old": 25.99
-  },
-  {
-   "id": "t3a39b02d670",
-   "title": "Samsung Galaxy Z Fold8 5G Unlocked Foldable Smartphone (Various Colors) 256GB $1499, 512GB $1649.99 + Free Shipping",
-   "price": 1499.99,
-   "old_price": 2099.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414589-samsung-galaxy-z-fold8-5g-unlocked-foldable-smartphone-various-colors-256gb-1499-512gb-1649-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22633341.thumb",
-   "posted": "2026-11-27T10:05:27+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414589&tid=20414589&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=4a485320ea5811f1bdcb9ec155be9508&au=5c3081ee17c742d0b7f476078d9a310a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:47:15+00:00",
-   "real_price": 1499.99,
-   "real_old": 2099.99
-  },
-  {
-   "id": "t7d461f5ba39",
-   "title": "$11.51 | Milwaukee 48-22-0012 Compact Hand Operated Hack Saw w/ Tool-Less Blade Change (10 Inch Blade Included) at Amazon",
-   "price": 11.51,
-   "old_price": 17.97,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414538-11-51-milwaukee-48-22-0012-compact-hand-operated-hack-saw-w-tool-less-blade-change-10-inch-blade-included-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22633266.thumb",
-   "posted": "2026-11-27T09:55:20+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414538&tid=20414538&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fec64224ea4b11f184393ece42a7e54a&au=ddbb9ee03b2f4752bded8114e9925338&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T10:19:14+00:00",
-   "real_price": 11.51,
-   "real_old": 17.97
   }
  ],
  "tech": [
@@ -15852,8 +15849,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f835c96cead111f1b92eb2162687b1c2&au=f7d501341b7843b4a2cac1802448d631&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f835c96cead111f1b92eb2162687b1c2&au=f7d501341b7843b4a2cac1802448d631&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a3808adcead211f19a2946a7b968e864&au=e094b13c3ec941358b00d6ba1948867e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a3808adcead211f19a2946a7b968e864&au=e094b13c3ec941358b00d6ba1948867e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -15869,7 +15866,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f835c96cead111f1b92eb2162687b1c2&au=f7d501341b7843b4a2cac1802448d631&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a3808adcead211f19a2946a7b968e864&au=e094b13c3ec941358b00d6ba1948867e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17859,8 +17856,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f99d4c08ead111f180f55ad830de0205&au=f2774d60431e4c36969482391e064bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f99d4c08ead111f180f55ad830de0205&au=f2774d60431e4c36969482391e064bb1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8d962baead211f1a8c12aedf7c66a89&au=7e715177404d4f12b638c0b9395adc3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8d962baead211f1a8c12aedf7c66a89&au=7e715177404d4f12b638c0b9395adc3c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17876,7 +17873,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f99d4c08ead111f180f55ad830de0205&au=f2774d60431e4c36969482391e064bb1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a8d962baead211f1a8c12aedf7c66a89&au=7e715177404d4f12b638c0b9395adc3c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18961,5 +18958,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T02:19:14+00:00"
+ "updated": "2026-11-28T02:23:58+00:00"
 }
