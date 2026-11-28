@@ -100,13 +100,13 @@
    "posted": "2026-11-28T02:26:41+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T05:57:17+00:00",
-   "category_ok": true,
-   "real_price": 31.89,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423784&tid=20423784&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=90d28c96eaf011f183c0560b829e0328&au=cb1fc3e9524f4d908b368485400f756c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T05:57:17+00:00",
+   "real_price": 31.89,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "e6c123c86133",
@@ -11163,6 +11163,24 @@
    "real_old": 998.75
   },
   {
+   "id": "t425a7ef24d2",
+   "title": "37\" Samsung Odyssey G75F 4K 165Hz Curved VA Monitor $470 + Free S&H",
+   "price": 469.99,
+   "old_price": 899.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20412771-469-99-samsung-37-odyssey-g7-4k-uhd-165hz-1ms-curved-gaming-monitor-g75f-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628550.thumb",
+   "posted": "2026-11-28T05:57:56+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": false,
+   "checked_at": "2026-11-28T06:03:00+00:00",
+   "real_price": 469.99,
+   "real_old": 899.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&pno=1376937&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=5d5c6cd2eaf111f19d87560b829e0328&au=b2b786d6f3b24cb2aecf1796aecc4b47&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t075b56328f4",
    "title": "55\" Philips 7985 4K 60Hz QLED Ambilight Roku TV $300 + Free S&H",
    "price": 299.99,
@@ -11232,10 +11250,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20424909&tid=20424909&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b6758c0aeaf011f1a29acae60d6b9c33&au=a48e39caa4454ba2a8a21d6d88555707&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T05:58:20+00:00",
    "real_price": 49.5,
-   "real_old": 99.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20424909&tid=20424909&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=b6758c0aeaf011f1a29acae60d6b9c33&au=a48e39caa4454ba2a8a21d6d88555707&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 99.0
   },
   {
    "id": "ta865a3c6569",
@@ -12072,8 +12090,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b7d62e88eaf011f195826a72111b023c&au=7435c694027e44138d1d6497edef337f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:58:22+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=5ea06dd2eaf111f19e8006ba754191d0&au=6a61ac5e2bfd4927a62ec8354d28b76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:03:02+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -12242,7 +12260,7 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": true,
-   "code": "NICEFIND10",
+   "code": "LVFLSHDWOBG902G",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -14427,8 +14445,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b91c03f8eaf011f1bf81cae60d6b9c33&au=4e4212ec86324da09c8fee5f99f9653a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:58:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ffac15aeaf111f1879ae6613c765ab0&au=56d8116d39344a5c947186576b102cac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:03:04+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -14805,8 +14823,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babc6bf8eaf011f1b524de2e8e4cb195&au=7cfd1693777d4181a083e1680c3a8993&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:58:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6138875aeaf111f1a9a306ba754191d0&au=8a0d968cd7274b768604319858822219&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:03:08+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15447,10 +15465,10 @@
    "code": "CYBERFINDS20",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417280&tid=20417280&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=bbe3b716eaf011f1bf3832ef86edbe11&au=5fd20641ad9444a38f2cd121fb258468&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T05:58:29+00:00",
    "real_price": 142.59,
-   "real_old": 419.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417280&tid=20417280&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=bbe3b716eaf011f1bf3832ef86edbe11&au=5fd20641ad9444a38f2cd121fb258468&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 419.99
   },
   {
    "id": "t5d0deabe421",
@@ -15585,26 +15603,36 @@
    "checked_at": "2026-11-27T15:01:30+00:00",
    "real_price": 379.0,
    "real_old": 998.75
-  },
-  {
-   "id": "t80eac9d433a",
-   "title": "Sonos Era 100 Wireless Smart Speaker Set (two speakers) with voice control $329.99",
-   "price": 329.99,
-   "old_price": 438.0,
-   "store": "Costco Wholesale",
-   "url": "https://slickdeals.net/f/20416944-sonos-era-100-wireless-smart-speaker-set-two-speakers-with-voice-control-329-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22639242.thumb",
-   "posted": "2026-11-27T14:52:19+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-27T20:25:10+00:00",
-   "real_price": 329.99,
-   "real_old": 438.0
   }
  ],
  "tech": [
+  {
+   "id": "t425a7ef24d2",
+   "title": "37\" Samsung Odyssey G75F 4K 165Hz Curved VA Monitor + Free S&H",
+   "price": 469.99,
+   "old_price": 899.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&pno=1376937&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=5d5c6cd2eaf111f19d87560b829e0328&au=b2b786d6f3b24cb2aecf1796aecc4b47&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&pno=1376937&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=5d5c6cd2eaf111f19d87560b829e0328&au=b2b786d6f3b24cb2aecf1796aecc4b47&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22628550.thumb",
+   "posted": "2026-11-28T05:57:56+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 469.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412771&pno=1376937&prop=diavail-true%7Cdincp-1%7Cdinpd-8%7Cdipgavail-true&pv=5d5c6cd2eaf111f19d87560b829e0328&au=b2b786d6f3b24cb2aecf1796aecc4b47&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t075b56328f4",
    "title": "55\" Philips 7985 4K 60Hz QLED Ambilight Roku TV + Free S&H",
@@ -16226,8 +16254,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b7d62e88eaf011f195826a72111b023c&au=7435c694027e44138d1d6497edef337f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b7d62e88eaf011f195826a72111b023c&au=7435c694027e44138d1d6497edef337f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=5ea06dd2eaf111f19e8006ba754191d0&au=6a61ac5e2bfd4927a62ec8354d28b76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=5ea06dd2eaf111f19e8006ba754191d0&au=6a61ac5e2bfd4927a62ec8354d28b76e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16243,7 +16271,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b7d62e88eaf011f195826a72111b023c&au=7435c694027e44138d1d6497edef337f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=5ea06dd2eaf111f19e8006ba754191d0&au=6a61ac5e2bfd4927a62ec8354d28b76e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18239,8 +18267,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b91c03f8eaf011f1bf81cae60d6b9c33&au=4e4212ec86324da09c8fee5f99f9653a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b91c03f8eaf011f1bf81cae60d6b9c33&au=4e4212ec86324da09c8fee5f99f9653a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ffac15aeaf111f1879ae6613c765ab0&au=56d8116d39344a5c947186576b102cac&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ffac15aeaf111f1879ae6613c765ab0&au=56d8116d39344a5c947186576b102cac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18256,7 +18284,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b91c03f8eaf011f1bf81cae60d6b9c33&au=4e4212ec86324da09c8fee5f99f9653a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=5ffac15aeaf111f1879ae6613c765ab0&au=56d8116d39344a5c947186576b102cac&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18584,8 +18612,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babc6bf8eaf011f1b524de2e8e4cb195&au=7cfd1693777d4181a083e1680c3a8993&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babc6bf8eaf011f1b524de2e8e4cb195&au=7cfd1693777d4181a083e1680c3a8993&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6138875aeaf111f1a9a306ba754191d0&au=8a0d968cd7274b768604319858822219&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6138875aeaf111f1a9a306ba754191d0&au=8a0d968cd7274b768604319858822219&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18601,7 +18629,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=babc6bf8eaf011f1b524de2e8e4cb195&au=7cfd1693777d4181a083e1680c3a8993&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6138875aeaf111f1a9a306ba754191d0&au=8a0d968cd7274b768604319858822219&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18793,34 +18821,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418057&tid=20418057&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=71069828ea9411f189e906ab6b8252e7&au=a59f8335bf924d8bbe2facd842ed62f9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t23538c8f300",
-   "title": "(Refurbished) Bose QuietComfort Around Ear Bluetooth Headphones (various colors) + Free S&H",
-   "price": 139.0,
-   "old_price": 359.0,
-   "store": "Bose",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&pno=1376295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07cde606ea7e11f183850e98b29bf570&au=3e51c7ee845b47ab8a723205d61710cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&pno=1376295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07cde606ea7e11f183850e98b29bf570&au=3e51c7ee845b47ab8a723205d61710cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/1/2/8/7/0/4/300x300/22610853.thumb",
-   "posted": "2026-11-27T16:14:25+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": true,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Bose",
-     "price": 139.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Bose&sdtid=20405100&pno=1376295&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=07cde606ea7e11f183850e98b29bf570&au=3e51c7ee845b47ab8a723205d61710cf&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T05:59:21+00:00"
+ "updated": "2026-11-28T06:04:00+00:00"
 }
