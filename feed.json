@@ -846,10 +846,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1313bf28ea6e11f1bdd8f266078fb7c2&au=478e25e98d2248cfb4522af90ad9a0b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:31:52+00:00",
+   "checked_at": "2026-11-28T04:33:17+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "03c6a750f4fb",
@@ -1189,13 +1190,14 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-28T02:31:45+00:00",
+   "checked_at": "2026-11-28T04:33:12+00:00",
    "category_ok": true,
    "real_price": 389.0,
    "real_old": 499.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "expired": true
   },
   {
    "id": "75fb27b0a01e",
@@ -1212,13 +1214,14 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-28T02:31:49+00:00",
+   "checked_at": "2026-11-28T04:33:15+00:00",
    "category_ok": true,
    "real_price": 389.0,
    "real_old": 499.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2b3a82b4ea3a11f1a494b688bc0e2c12&au=df778153911e4a9d856380e9cc0629f0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "expired": true
   },
   {
    "id": "10b4103ba5e3",
@@ -1238,10 +1241,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d3d44aa4ea3a11f1a1261a3cc97fa2aa&au=ef13bbf460fc4e6a9b2564abb6fd14ac&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:31:55+00:00",
+   "checked_at": "2026-11-28T04:33:21+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "9df4a76913d4",
@@ -2631,7 +2635,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402787&tid=20402787&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=df52bfb4e98111f185cff68c7a7d4440&au=73b604fb15b64852a5558e479d416061&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T22:30:10+00:00",
+   "checked_at": "2026-11-28T04:33:09+00:00",
    "real_price": 15.0,
    "real_old": 37.49,
    "category_ok": true
@@ -3494,13 +3498,13 @@
    "price": 389.0,
    "old_price": 499.0,
    "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1313bf28ea6e11f1bdd8f266078fb7c2&au=478e25e98d2248cfb4522af90ad9a0b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1313bf28ea6e11f1bdd8f266078fb7c2&au=478e25e98d2248cfb4522af90ad9a0b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "offers": [
     {
      "store": "Woot!",
      "price": 389.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1313bf28ea6e11f1bdd8f266078fb7c2&au=478e25e98d2248cfb4522af90ad9a0b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ],
    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22638420.thumb",
@@ -3561,31 +3565,6 @@
    "refurb": false,
    "glitch": false,
    "code": null,
-   "code_until": null
-  },
-  {
-   "id": "d1ee02eef246",
-   "title": "Refurbished: Nintendo Switch 2 256GB Gaming Console . New Customers",
-   "price": 389.0,
-   "old_price": 499.0,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 389.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20413383&tid=20413383&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2a05bbd4ea3a11f18e6502a61e36dc80&au=d65804d4020e4f5498238123425557ad&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/22629687.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-27T08:09:38+00:00",
-   "digital": null,
-   "refurb": true,
-   "glitch": false,
-   "code": "BIGFRIDAY",
    "code_until": null
   },
   {
@@ -11213,6 +11192,48 @@
    "real_old": 998.75
   },
   {
+   "id": "tb7147665d33",
+   "title": "Wandering Nature Puffy Quilted Tote Bag w/ 15.6\" Laptop Compartment (Beige) $12.75",
+   "price": 12.74,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20417304-20l-wandering-nature-women-s-puffy-tote-bag-w-laptop-compartment-beige-12-74-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22640160.thumb",
+   "posted": "2026-11-28T04:33:08+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "SAF7KEAU",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T04:34:14+00:00",
+   "real_price": 12.74,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&pno=1376871&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6e663d8eae411f1bb3f7a9191bcd281&au=b404bbc2c7c543b7a35f26ec93cccfb8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t96d34aa5cf8",
+   "title": "Tilswall Shark800 Paint Sprayer HVLP 800W Electric Spray Paint Gun $45 + Free S&H",
+   "price": 44.99,
+   "old_price": 99.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20419743-tilswall-shark-800-800w-hvlp-paint-sprayer-w-4-brass-nozzles-98-hose-blue-44-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22646274.thumb",
+   "posted": "2026-11-28T04:30:07+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "code": "N2TD2R49",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T04:34:16+00:00",
+   "real_price": 44.99,
+   "real_old": 99.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419743&pno=1376868&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7fa79d0eae411f195fd46a7b968e864&au=f5024b5ee51242e087279a71c3839db9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t03dbda5f908",
    "title": "Refurb/Good: Apple AirPods 4 True Wireless ANC Earbuds $54 + Free S&H",
    "price": 53.99,
@@ -11764,8 +11785,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:29:25+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f9513684eae411f1b5ce7a9191bcd281&au=0de3772f78e14eccbf1fe6cacfe1d429&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:34:18+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11895,10 +11916,10 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:29:27+00:00",
    "real_price": 88.0,
-   "real_old": 175.05,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 175.05
   },
   {
    "id": "t5c515988a20",
@@ -13948,9 +13969,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "JJX08G",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413527&pno=1376364&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d642c49aea8b11f183a41645367a00b3&au=e770d269e8e34310a7d40ecf1884af7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:56:14+00:00",
    "real_price": 52.03,
@@ -14386,8 +14404,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:29:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fabdb89eeae411f198be72be8889065d&au=f2a62ab02cd345efa5864d11f5702def&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:34:21+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15194,8 +15212,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4e068b62eae411f190ffde1cd6b333b7&au=0b712051e182484ca6b6062820775163&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:29:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=fc3265a8eae411f1bd36de1cd6b333b7&au=8dfff3108d1449989d97ef0c1fe67628&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:34:23+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15615,51 +15633,36 @@
    "store_url": "https://slickdeals.net/click?trd=See+Deal&sdtid=20416416&tid=20416416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cef3f568ea7411f1bc79227f30588b7a&au=aa58e3e91071473480e4366a18c0a7c4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T15:11:23+00:00",
    "real_price": 51.0
-  },
-  {
-   "id": "tcfa592fc62d",
-   "title": "AMD Ryzen 7 9800X3D + Rosewill FROSTMAX 240mm LCD ARGB Gaming AIO CPU Cooler $369.99",
-   "price": 369.99,
-   "old_price": 506.99,
-   "store": "Newegg",
-   "url": "https://slickdeals.net/f/20415993-amd-ryzen-7-9800x3d-rosewill-frostmax-240mm-lcd-argb-gaming-aio-cpu-cooler-369-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22637043.thumb",
-   "posted": "2026-11-27T13:26:10+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "code": "BFF36",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20415993&tid=20415993&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-false&pv=da124474ea8b11f19d4a562a0aab39fc&au=cfc635532e70423fab8e91578712f746&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T17:56:22+00:00",
-   "real_price": 369.99,
-   "real_old": 506.99
-  },
-  {
-   "id": "ta0fb2822e77",
-   "title": "KINGROON 10kg Tri-Color Silk PLA 1.75mm 3D Printer Filament $70.51 + Free Shipping",
-   "price": 70.51,
-   "old_price": 99.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20415939-kingroon-10kg-tri-color-silk-pla-1-75mm-3d-printer-filament-70-51-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22637013.thumb",
-   "posted": "2026-11-27T13:25:37+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "JJX08G",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20415939&tid=20415939&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=04d69b86eac511f1a9a03a10e94e529a&au=d6559e2c43ba4e1da806705c0b3373ef&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:45:33+00:00",
-   "real_price": 70.51,
-   "real_old": 99.0
   }
  ],
  "tech": [
+  {
+   "id": "tb7147665d33",
+   "title": "Wandering Nature Puffy Quilted Tote Bag",
+   "price": 12.74,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&pno=1376871&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6e663d8eae411f1bb3f7a9191bcd281&au=b404bbc2c7c543b7a35f26ec93cccfb8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&pno=1376871&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6e663d8eae411f1bb3f7a9191bcd281&au=b404bbc2c7c543b7a35f26ec93cccfb8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22640160.thumb",
+   "posted": "2026-11-28T04:33:08+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": "SAF7KEAU",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 12.74,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&pno=1376871&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f6e663d8eae411f1bb3f7a9191bcd281&au=b404bbc2c7c543b7a35f26ec93cccfb8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tb2764c2c2ac",
    "title": "Logitech MK270 Wireless Keyboard & Mouse Combo & 50% Back in Points + Free Pickup",
@@ -16065,8 +16068,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f9513684eae411f1b5ce7a9191bcd281&au=0de3772f78e14eccbf1fe6cacfe1d429&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f9513684eae411f1b5ce7a9191bcd281&au=0de3772f78e14eccbf1fe6cacfe1d429&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16082,7 +16085,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f9513684eae411f1b5ce7a9191bcd281&au=0de3772f78e14eccbf1fe6cacfe1d429&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18288,8 +18291,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fabdb89eeae411f198be72be8889065d&au=f2a62ab02cd345efa5864d11f5702def&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fabdb89eeae411f198be72be8889065d&au=f2a62ab02cd345efa5864d11f5702def&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18305,7 +18308,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=fabdb89eeae411f198be72be8889065d&au=f2a62ab02cd345efa5864d11f5702def&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18848,34 +18851,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Deco+Gear&sdtid=20417415&tid=20417415&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2001c914ea8711f18776aa7e3e1dbfc6&au=f0f4eea7697f40e2a64a44b3cce48228&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tc4a4016c730",
-   "title": "20L Wandering Nature Women's Puffy Tote Bag",
-   "price": 12.74,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&tid=20417304&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ff0f4e2ea8311f19b906eac3c4a12b1&au=66254f903d9d41c7882850aaa2e3fe77&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&tid=20417304&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ff0f4e2ea8311f19b906eac3c4a12b1&au=66254f903d9d41c7882850aaa2e3fe77&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/22640160.thumb",
-   "posted": "2026-11-27T15:22:02+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": "SAF7KEAU",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 12.74,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&tid=20417304&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ff0f4e2ea8311f19b906eac3c4a12b1&au=66254f903d9d41c7882850aaa2e3fe77&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T04:30:22+00:00"
+ "updated": "2026-11-28T04:35:11+00:00"
 }
