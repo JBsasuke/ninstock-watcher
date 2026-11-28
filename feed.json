@@ -14,13 +14,13 @@
    "posted": "2026-11-28T06:37:33+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T06:40:06+00:00",
-   "category_ok": true,
-   "real_price": 24.99,
-   "real_old": 39.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&pno=1376973&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=8c140c9ceaf611f1bfded2525fa3b9af&au=ce77ab9befae4abc9b9366b7941425e6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T06:40:06+00:00",
+   "real_price": 24.99,
+   "real_old": 39.99,
+   "category_ok": true
   },
   {
    "id": "8fd80f65fc7e",
@@ -596,6 +596,27 @@
    "real_price": 9.97,
    "real_old": 44.99,
    "category_ok": true
+  },
+  {
+   "id": "db3543391467",
+   "title": "Costco - Jazware Pokémon Holiday Calendar 24 figures $9.97 in store only YMMV",
+   "price": 9.97,
+   "old_price": 44.99,
+   "store": "Costco Wholesale",
+   "kind": "merch",
+   "collector": false,
+   "url": "https://slickdeals.net/f/20419977-costco-jazware-pok-mon-holiday-calendar-24-figures-9-97-in-store-only-ymmv?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/4/0/1/8/4/0/4/300x300/22647078.thumb",
+   "posted": "2026-11-27T18:51:29+00:00",
+   "needs_cat": false,
+   "refurb": false,
+   "checked_at": "2026-11-28T06:45:13+00:00",
+   "category_ok": true,
+   "real_price": 9.97,
+   "real_old": 44.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20419977&tid=20419977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=42f941a2eaf711f19e64d2525fa3b9af&au=22ecb24c6b6543edad585e4b6caacc11&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "page_checked": true,
+   "link_v": 3
   },
   {
    "id": "ac6b5b58aeda",
@@ -1401,8 +1422,8 @@
   {
    "id": "2874a37cea56",
    "title": "$250 Best Buy Geek Squad Refurbished Good - Switch OLED Model w/Joy-Con",
-   "price": 126.0,
-   "old_price": 127.0,
+   "price": 125.0,
+   "old_price": 126.0,
    "store": "Best Buy",
    "kind": "hardware",
    "collector": false,
@@ -1414,9 +1435,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412264&tid=20412264&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7a92e5aea2a11f1bfc98628c169462b&au=6058fcf561444414885f845d773d8ffa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T04:42:33+00:00",
-   "real_price": 126.0,
-   "real_old": 127.0,
+   "checked_at": "2026-11-28T06:45:15+00:00",
+   "real_price": 125.0,
+   "real_old": 126.0,
    "category_ok": true
   },
   {
@@ -3188,28 +3209,6 @@
    "checked_at": "2026-11-27T15:34:18+00:00",
    "real_price": 15.0,
    "real_old": 29.99,
-   "category_ok": true,
-   "expired": true
-  },
-  {
-   "id": "f47262e7d988",
-   "title": "Metroid Dread Physical (Nintendo Switch) $59.99 free shipping at Nintendo",
-   "price": 59.99,
-   "old_price": null,
-   "store": "Nintendo",
-   "kind": "game",
-   "collector": false,
-   "url": "https://slickdeals.net/f/20399601-metroid-dread-physical-nintendo-switch-59-99-free-shipping-at-nintendo?utm_source=rss&utm_content=&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-26T01:00:31+00:00",
-   "needs_cat": false,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Nintendo&sdtid=20399601&tid=20399601&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=11b3457ae93511f1a4d0a6a053f33dd7&au=c6200c15afb347c4a4d97abfff09772f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "page_checked": true,
-   "link_v": 3,
-   "checked_at": "2026-11-27T13:12:26+00:00",
-   "real_price": 59.99,
-   "real_old": null,
    "category_ok": true,
    "expired": true
   }
@@ -10784,54 +10783,6 @@
    "posted": "2026-11-28T06:32:05+00:00"
   },
   {
-   "id": "35ca795e545a",
-   "date_ok": false,
-   "seeded": true,
-   "title": "Opening Ceremony Performance | 2027 Pokémon Latin American International Championships",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=rOxsaInSriY",
-   "image": "https://i.ytimg.com/vi/rOxsaInSriY/hqdefault.jpg",
-   "posted": "2026-11-28T06:27:07+00:00"
-  },
-  {
-   "id": "4f15d4b00cad",
-   "date_ok": false,
-   "seeded": true,
-   "title": "Summer Days with Wartortle | POKÉTOON Short",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=eGMDObpD7Es",
-   "image": "https://i.ytimg.com/vi/eGMDObpD7Es/hqdefault.jpg",
-   "posted": "2026-11-28T06:27:07+00:00"
-  },
-  {
-   "id": "54d401d03813",
-   "date_ok": false,
-   "seeded": true,
-   "title": "Pokémon TCG Pocket: Dual Fusion 🧬 | Official Trailer",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=IGqgREr8t0w",
-   "image": "https://i.ytimg.com/vi/IGqgREr8t0w/hqdefault.jpg",
-   "posted": "2026-11-28T06:27:07+00:00"
-  },
-  {
-   "id": "54100aaf584c",
-   "date_ok": false,
-   "seeded": true,
-   "title": "Decks on Decks 🛹 | Behind The Scenes with Pokémon and Santa Cruz Skateboards",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=BVi7G7NDcA0",
-   "image": "https://i.ytimg.com/vi/BVi7G7NDcA0/hqdefault.jpg",
-   "posted": "2026-11-28T06:27:07+00:00"
-  },
-  {
    "id": "aldia-e90f0f8f5e",
    "title": "Professor Layton and the New World of Steam llegará el 9 de diciembre de 2026",
    "summary": "Layton y Luke vuelven en una nueva aventura de vapor, misterio y acertijos, con más rompecabezas que nunca en la serie.",
@@ -11027,6 +10978,150 @@
    "posted": "2026-11-24T01:02:03+00:00"
   },
   {
+   "id": "6f7b87e3ca87",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Championship Sunday | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch this weekend's final showdown between VGC, TCG and GO as we determine our 2027 Pokémon Latin America International Champions!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=-vlAyNXi1t8",
+   "image": "https://i.ytimg.com/vi/-vlAyNXi1t8/hqdefault.jpg",
+   "posted": "2026-11-22T21:18:02+00:00"
+  },
+  {
+   "id": "aca21e3003c9",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Skarmory doesn't mess around when it comes to shiny things",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/shorts/nSVJXCnkuQo",
+   "image": "https://i.ytimg.com/vi/nSVJXCnkuQo/hqdefault.jpg",
+   "posted": "2026-11-22T17:00:20+00:00"
+  },
+  {
+   "id": "f471b08a86e2",
+   "date_ok": true,
+   "seeded": true,
+   "title": "TCG Day 2 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 2 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=59x5jVcbm7c",
+   "image": "https://i.ytimg.com/vi/59x5jVcbm7c/hqdefault.jpg",
+   "posted": "2026-11-22T16:28:54+00:00"
+  },
+  {
+   "id": "80cd42e8f1fc",
+   "date_ok": true,
+   "seeded": true,
+   "title": "TCG Day 1 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 1 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=MPxRo4LzS1A",
+   "image": "https://i.ytimg.com/vi/MPxRo4LzS1A/hqdefault.jpg",
+   "posted": "2026-11-22T16:26:26+00:00"
+  },
+  {
+   "id": "c944e7602ae6",
+   "date_ok": true,
+   "seeded": true,
+   "title": "GO Day 2 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=4RdQ5B5VuKo",
+   "image": "https://i.ytimg.com/vi/4RdQ5B5VuKo/hqdefault.jpg",
+   "posted": "2026-11-22T16:24:25+00:00"
+  },
+  {
+   "id": "5affc27a842f",
+   "date_ok": true,
+   "seeded": true,
+   "title": "GO Day 1 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 1 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=Qeu1HY4ysck",
+   "image": "https://i.ytimg.com/vi/Qeu1HY4ysck/hqdefault.jpg",
+   "posted": "2026-11-22T16:22:13+00:00"
+  },
+  {
+   "id": "9aa0320716c2",
+   "date_ok": true,
+   "seeded": true,
+   "title": "VGC Day 2 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=Jc4obO596C0",
+   "image": "https://i.ytimg.com/vi/Jc4obO596C0/hqdefault.jpg",
+   "posted": "2026-11-22T16:20:25+00:00"
+  },
+  {
+   "id": "cb03b7550956",
+   "date_ok": true,
+   "seeded": true,
+   "title": "VGC Day 1 | 2027 Stuttgart Pokémon Regional Championships",
+   "summary": "Tune in to catch Day 1 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=FkNx8YQBZKU",
+   "image": "https://i.ytimg.com/vi/FkNx8YQBZKU/hqdefault.jpg",
+   "posted": "2026-11-22T16:17:21+00:00"
+  },
+  {
+   "id": "83d264efcec8",
+   "date_ok": true,
+   "seeded": true,
+   "title": "VGC Day 2 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Pokémon Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=ezA58GqG5yE",
+   "image": "https://i.ytimg.com/vi/ezA58GqG5yE/hqdefault.jpg",
+   "posted": "2026-11-22T00:16:28+00:00"
+  },
+  {
+   "id": "4d6b7d3c995e",
+   "date_ok": true,
+   "seeded": true,
+   "title": "TCG Day 2 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 2 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
+   "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
+   "posted": "2026-11-22T00:11:03+00:00"
+  },
+  {
+   "id": "f69b9bb4e528",
+   "date_ok": true,
+   "seeded": true,
+   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
+   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
+   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
+   "posted": "2026-11-21T21:40:04+00:00"
+  },
+  {
+   "id": "1e4a07991837",
+   "date_ok": true,
+   "seeded": true,
+   "title": "Wake up! Eevee is ready to start the day! 😄🤎",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/shorts/5KNxmgd4cP0",
+   "image": "https://i.ytimg.com/vi/5KNxmgd4cP0/hqdefault.jpg",
+   "posted": "2026-11-21T17:00:13+00:00"
+  },
+  {
    "id": "98816c60f14d",
    "date_ok": true,
    "seeded": true,
@@ -11037,18 +11132,6 @@
    "url": "https://www.youtube.com/watch?v=5hzd1TDisTw",
    "image": "https://i.ytimg.com/vi/5hzd1TDisTw/hqdefault.jpg",
    "posted": "2026-11-18T17:00:30+00:00"
-  },
-  {
-   "id": "a27c99ca5fce",
-   "date_ok": true,
-   "seeded": true,
-   "title": "RACCOIN: Chaos Max Edition – Launch Trailer – Nintendo Switch 2",
-   "summary": "",
-   "lang": "en",
-   "source": "Nintendo",
-   "url": "https://www.youtube.com/watch?v=nKRxwgwSEqI",
-   "image": "https://i.ytimg.com/vi/nKRxwgwSEqI/hqdefault.jpg",
-   "posted": "2026-11-17T17:00:13+00:00"
   }
  ],
  "raw_tech": [
@@ -11086,10 +11169,10 @@
    "code": "BIGFRIDAY",
    "code_until": null,
    "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412420&pno=1376967&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab9344eaf611f1ac1cde2e8e4cb195&au=debdcc4f96834f64b229e7988684125b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T06:41:09+00:00",
    "real_price": 79.99,
-   "real_old": 239.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412420&pno=1376967&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ab9344eaf611f1ac1cde2e8e4cb195&au=debdcc4f96834f64b229e7988684125b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 239.99
   },
   {
    "id": "t425a7ef24d2",
@@ -11219,6 +11302,24 @@
    "checked_at": "2026-11-28T04:57:37+00:00",
    "real_price": 1499.0,
    "real_old": 1799.0
+  },
+  {
+   "id": "t71abf3cc7f4",
+   "title": "DEWALT DCB205-2C Battery Kit 20V MAX 5 Ah Lithium-Ion Includes Charger $89",
+   "price": 89.0,
+   "old_price": 299.0,
+   "store": "Fasteners Inc",
+   "url": "https://slickdeals.net/f/20424792-dewalt-dcb205-2c-battery-kit-20v-max-5-ah-lithium-ion-includes-charger-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/1/2/5/7/1/7/2/300x300/22657281.thumb",
+   "posted": "2026-11-28T04:54:08+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T06:46:11+00:00",
+   "real_price": 89.0,
+   "real_old": 299.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Fasteners+Inc&sdtid=20424792&tid=20424792&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=65dda582eaf711f1b2abf2bf8b1adbf6&au=ac9301ebc93041d5a07b27d7c2d4f41d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t09fe8ffbc4b",
@@ -11426,6 +11527,24 @@
    "checked_at": "2026-11-28T03:52:24+00:00",
    "real_price": 14.99,
    "real_old": 32.69
+  },
+  {
+   "id": "td49655d7823",
+   "title": "[Prime] Ecarke 220W Portable Power Inverter for Milwaukee 18V Battery w/ AC Outlet, 2 USB-A, Type-C & LED Light $19.94 + Free Shipping",
+   "price": 19.94,
+   "old_price": 29.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20424369-prime-ecarke-220w-portable-power-inverter-for-milwaukee-18v-battery-w-ac-outlet-2-usb-a-type-c-led-light-19-94-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/1/0/1/3/4/300x300/22656261.thumb",
+   "posted": "2026-11-28T03:45:50+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T06:46:13+00:00",
+   "real_price": 19.94,
+   "real_old": 29.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20424369&tid=20424369&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=67019cb6eaf711f186480671046e5813&au=923b092e907b4bca828c844b92cbfb37&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t32726cbac07",
@@ -12037,8 +12156,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b3387d80eaf611f19577127b8ba18daa&au=5b18bade5726446596afbb8565752dfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T06:41:12+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=68591288eaf711f1936bb2b219103fb0&au=daed126f95e84aa8ae159ffe8a065a77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:46:16+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -14032,6 +14151,24 @@
    "real_old": 21.75
   },
   {
+   "id": "tf161156054d",
+   "title": "Philips 2300 Series Fully Automatic Espresso Machine w/ LatteGo Milk System (EP2330/14) $449.99 + Free Shipping",
+   "price": 449.99,
+   "old_price": 699.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20419845-philips-2300-series-fully-automatic-espresso-machine-w-lattego-milk-system-ep2330-14-449-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22646784.thumb",
+   "posted": "2026-11-27T18:42:05+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T06:46:17+00:00",
+   "real_price": 449.99,
+   "real_old": 699.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419845&tid=20419845&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=69ae0058eaf711f1a26006ba754191d0&au=12604950ab704dcd9f47cabdf7b99d85&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t987bbf9f0f9",
    "title": "TCL TAB 8 Gen 2 8.7\" HD 6000mAh 128GB 90Hz Tablet $89 - Walmart",
    "price": 89.0,
@@ -14392,8 +14529,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b479b27ceaf611f19818ba378ecfa79d&au=f9773c34142a4f61a813fb1d7d605a0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T06:41:14+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6ad3d002eaf711f19a34de2e8e4cb195&au=eff0beb28ecc4614b06719a1af602cea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:46:20+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -14770,8 +14907,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b5dbcbf0eaf611f199ad127b8ba18daa&au=abfb7a91a10248348d5369b72b0f9df6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T06:41:16+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c43b5a6eaf711f1bad086d0012da8ed&au=e6499a1e00384325a017802113ca033c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T06:46:22+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15455,63 +15592,6 @@
    "checked_at": "2026-11-27T16:36:28+00:00",
    "real_price": 339.26,
    "real_old": 629.99
-  },
-  {
-   "id": "t1d944856939",
-   "title": "Microsoft Surface 8: 13.8\" Touch, Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD $1190 & More + Free S/H",
-   "price": 1190.07,
-   "old_price": 1699.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414364-microsoft-surface-8-13-8-touch-snapdragon-x2-elite-16gb-lpddr5-512gb-ssd-1190-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22632819.thumb",
-   "posted": "2026-11-27T15:08:06+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:11:19+00:00",
-   "real_price": 1190.07,
-   "real_old": 1699.99
-  },
-  {
-   "id": "t7ee37060b5d",
-   "title": "Refurb: Logitech MX Master 4, Ergonomic Wireless Mouse with Haptic Feedback $67.67",
-   "price": 67.67,
-   "old_price": 119.99,
-   "store": "eBay",
-   "url": "https://slickdeals.net/f/20417100-refurb-logitech-mx-master-4-ergonomic-wireless-mouse-with-haptic-feedback-67-67?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22639656.thumb",
-   "posted": "2026-11-27T15:05:48+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": true,
-   "code": "CYBERFINDS20",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20417100&tid=20417100&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b566811eea7a11f1a687c6a20c4517f9&au=73bce5a6021b472a87017d8246acee4a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:53:37+00:00",
-   "real_price": 67.67,
-   "real_old": 119.99
-  },
-  {
-   "id": "tef6916b43f6",
-   "title": "VIZIO 5.1 Soundbar w/ Dolby Atmos, Wireless Surround Speakers & Subwoofer, QuickFit Compatible (NEW 2026) SV510XW-09",
-   "price": 99.0,
-   "old_price": 198.0,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20417073-vizio-5-1-soundbar-w-dolby-atmos-wireless-surround-speakers-amp-subwoofer-quickfit-compatible-new-2026-sv510xw-09?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/0/5/1/6/2/300x300/22639551.thumb",
-   "posted": "2026-11-27T15:03:21+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20417073&tid=20417073&prop=diavail-true%7Cdincp-1%7Cdinpd-2%7Cdipgavail-true&pv=032b918aea8211f18a6d3693952c0199&au=fd8b7a09e357420783f1b5a12134fe3d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:45:54+00:00",
-   "real_price": 99.0,
-   "real_old": 198.0
   }
  ],
  "tech": [
@@ -16190,8 +16270,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b3387d80eaf611f19577127b8ba18daa&au=5b18bade5726446596afbb8565752dfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b3387d80eaf611f19577127b8ba18daa&au=5b18bade5726446596afbb8565752dfd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=68591288eaf711f1936bb2b219103fb0&au=daed126f95e84aa8ae159ffe8a065a77&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=68591288eaf711f1936bb2b219103fb0&au=daed126f95e84aa8ae159ffe8a065a77&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16207,7 +16287,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b3387d80eaf611f19577127b8ba18daa&au=5b18bade5726446596afbb8565752dfd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=68591288eaf711f1936bb2b219103fb0&au=daed126f95e84aa8ae159ffe8a065a77&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18203,8 +18283,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b479b27ceaf611f19818ba378ecfa79d&au=f9773c34142a4f61a813fb1d7d605a0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b479b27ceaf611f19818ba378ecfa79d&au=f9773c34142a4f61a813fb1d7d605a0a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6ad3d002eaf711f19a34de2e8e4cb195&au=eff0beb28ecc4614b06719a1af602cea&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6ad3d002eaf711f19a34de2e8e4cb195&au=eff0beb28ecc4614b06719a1af602cea&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18220,7 +18300,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b479b27ceaf611f19818ba378ecfa79d&au=f9773c34142a4f61a813fb1d7d605a0a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6ad3d002eaf711f19a34de2e8e4cb195&au=eff0beb28ecc4614b06719a1af602cea&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18548,8 +18628,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b5dbcbf0eaf611f199ad127b8ba18daa&au=abfb7a91a10248348d5369b72b0f9df6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b5dbcbf0eaf611f199ad127b8ba18daa&au=abfb7a91a10248348d5369b72b0f9df6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c43b5a6eaf711f1bad086d0012da8ed&au=e6499a1e00384325a017802113ca033c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c43b5a6eaf711f1bad086d0012da8ed&au=e6499a1e00384325a017802113ca033c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18565,7 +18645,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b5dbcbf0eaf611f199ad127b8ba18daa&au=abfb7a91a10248348d5369b72b0f9df6&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6c43b5a6eaf711f1bad086d0012da8ed&au=e6499a1e00384325a017802113ca033c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18732,5 +18812,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T06:42:27+00:00"
+ "updated": "2026-11-28T06:47:19+00:00"
 }
