@@ -1569,8 +1569,8 @@
   {
    "id": "2874a37cea56",
    "title": "$250 Best Buy Geek Squad Refurbished Good - Switch OLED Model w/Joy-Con",
-   "price": 125.0,
-   "old_price": 126.0,
+   "price": 126.0,
+   "old_price": 127.0,
    "store": "Best Buy",
    "kind": "hardware",
    "collector": false,
@@ -1582,9 +1582,9 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412264&tid=20412264&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f7a92e5aea2a11f1bfc98628c169462b&au=6058fcf561444414885f845d773d8ffa&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T06:45:15+00:00",
-   "real_price": 125.0,
-   "real_old": 126.0,
+   "checked_at": "2026-11-28T08:48:30+00:00",
+   "real_price": 126.0,
+   "real_old": 127.0,
    "category_ok": true
   },
   {
@@ -2973,7 +2973,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=52c1148ce97311f1a821a61b1b2e19a1&au=2b4ced3894d34b2ab92bdf9d35275706&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:45:59+00:00",
+   "checked_at": "2026-11-28T08:48:25+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -2994,7 +2994,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=53e0559ee97311f1a90eea8af01651eb&au=4d5b78da13d1437e8c8322497fd011ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:46:01+00:00",
+   "checked_at": "2026-11-28T08:48:27+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -11251,10 +11251,28 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425800&tid=20425800&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=f581f048eb0711f192323eb879db1288&au=bae110f3362443b1ac1b191e69d751a1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T08:44:44+00:00",
    "real_price": 162.0,
-   "real_old": 299.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425800&tid=20425800&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=f581f048eb0711f192323eb879db1288&au=bae110f3362443b1ac1b191e69d751a1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 299.99
+  },
+  {
+   "id": "t52436f89dcc",
+   "title": "$1098* | 65\" LG C5 OLED evo AI 4K UHD TV at Amazon",
+   "price": 1098.0,
+   "old_price": null,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20425767-1098-65-lg-c5-oled-evo-ai-4k-uhd-tv-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22659450.thumb",
+   "posted": "2026-11-28T08:04:23+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-28T08:49:20+00:00",
+   "real_price": 1098.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425767&tid=20425767&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9a3a7b64eb0811f185ea5a0d6ea86adc&au=812143f118464d46b9aac54d84c11477&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t7dbdffe62b1",
@@ -11418,6 +11436,24 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425278&tid=20425278&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=eabd0c88eb0211f1b10cda46f242d72f&au=a6cdb4ae69fd48f3904ff5638eff0f49&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T08:08:38+00:00",
    "real_price": 60.0
+  },
+  {
+   "id": "tb9799e10ebf",
+   "title": "JBL - Party Box 710 Portable Party Speaker - 2024 - Black $549.95 Bestbuy.com",
+   "price": 136.0,
+   "old_price": 137.0,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20425251-jbl-party-box-710-portable-party-speaker-2024-black-549-95-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22658148.thumb",
+   "posted": "2026-11-28T06:04:20+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-28T08:49:22+00:00",
+   "real_price": 136.0,
+   "real_old": 137.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425251&tid=20425251&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=9b53f700eb0811f18b9ffa43a98d4dbf&au=0d71260729a449df85e86fd5753417b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tea8d5007873",
@@ -11771,9 +11807,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
@@ -12554,8 +12587,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f6ac9ef0eb0711f19cbaea9df42702a2&au=76d792b6ed984bffba2c1bb11f85b507&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:44:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=9cdcd40ceb0811f1a8ae32ef86edbe11&au=73d4b5c1976147fdb0d025428d879a46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:49:25+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -14945,8 +14978,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8101902eb0711f1a02d8262a535995b&au=70b08e8447d74d32adf0e1e1a15395d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:44:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e1275d4eb0811f1bcfd5a0d6ea86adc&au=509bd8a336e849ab8fcb892c17730deb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:49:27+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -15323,8 +15356,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f9743454eb0711f19223f22fa763bedf&au=f33363f634744a84bcf91228dc653913&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:44:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9f60d322eb0811f1be0dfa43a98d4dbf&au=c984df66b5754b2f9247c539851a8269&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:49:29+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15620,42 +15653,6 @@
    "checked_at": "2026-11-28T08:03:51+00:00",
    "real_price": 89.0,
    "real_old": 129.0
-  },
-  {
-   "id": "ta2e845added",
-   "title": "5\" Craftsman Dual Action Buffer Polisher (CMCE150B) $99 + Free Shipping",
-   "price": 99.0,
-   "old_price": 179.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20417946-5-craftsman-dual-action-buffer-polisher-cmce150b-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/0/8/1/7/9/300x300/22641639.thumb",
-   "posted": "2026-11-27T16:04:49+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417946&tid=20417946&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=41cceb44ea8e11f1aec2fe168e7c6021&au=1b2644eff4ca4c4b908d56d405552a2f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:13:33+00:00",
-   "real_price": 99.0,
-   "real_old": 179.0
-  },
-  {
-   "id": "t0de340c3110",
-   "title": "Prime Members: Baseus PicoGo Pro 100W USB-C Charger w/ 3.3' 100W Cable (Black) $39.70 + Free S&H",
-   "price": 39.7,
-   "old_price": 59.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20336043-prime-members-100w-baseus-picogo-pro-ah22-3-port-smart-display-usb-c-charger-39-70-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22641819.thumb",
-   "posted": "2026-11-27T16:04:47+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336043&pno=1376286&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=af95066eea7c11f181b67e3e8852a1ac&au=f524cfa39d9b474197c8f68f3bbbc71d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:07:47+00:00",
-   "real_price": 39.7,
-   "real_old": 59.99
   }
  ],
  "tech": [
@@ -15710,6 +15707,33 @@
      "store": "Amazon",
      "price": 162.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425800&tid=20425800&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=f581f048eb0711f192323eb879db1288&au=bae110f3362443b1ac1b191e69d751a1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t52436f89dcc",
+   "title": "65\" LG C5 OLED evo AI 4K UHD TV",
+   "price": 1098.0,
+   "old_price": null,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425767&tid=20425767&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9a3a7b64eb0811f185ea5a0d6ea86adc&au=812143f118464d46b9aac54d84c11477&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425767&tid=20425767&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9a3a7b64eb0811f185ea5a0d6ea86adc&au=812143f118464d46b9aac54d84c11477&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22659450.thumb",
+   "posted": "2026-11-28T08:04:23+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1098.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425767&tid=20425767&prop=diavail-true%7Cdincp-0%7Cdinpd-15%7Cdipgavail-true&pv=9a3a7b64eb0811f185ea5a0d6ea86adc&au=812143f118464d46b9aac54d84c11477&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -15791,6 +15815,33 @@
      "store": "Best Buy",
      "price": 60.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425278&tid=20425278&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=eabd0c88eb0211f1b10cda46f242d72f&au=a6cdb4ae69fd48f3904ff5638eff0f49&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "tb9799e10ebf",
+   "title": "JBL - Party Box 710 Portable Party Speaker - 2024 - Black Bestbuy.com",
+   "price": 136.0,
+   "old_price": 137.0,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425251&tid=20425251&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=9b53f700eb0811f18b9ffa43a98d4dbf&au=0d71260729a449df85e86fd5753417b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425251&tid=20425251&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=9b53f700eb0811f18b9ffa43a98d4dbf&au=0d71260729a449df85e86fd5753417b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22658148.thumb",
+   "posted": "2026-11-28T06:04:20+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 136.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425251&tid=20425251&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=9b53f700eb0811f18b9ffa43a98d4dbf&au=0d71260729a449df85e86fd5753417b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16604,8 +16655,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f6ac9ef0eb0711f19cbaea9df42702a2&au=76d792b6ed984bffba2c1bb11f85b507&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f6ac9ef0eb0711f19cbaea9df42702a2&au=76d792b6ed984bffba2c1bb11f85b507&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=9cdcd40ceb0811f1a8ae32ef86edbe11&au=73d4b5c1976147fdb0d025428d879a46&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=9cdcd40ceb0811f1a8ae32ef86edbe11&au=73d4b5c1976147fdb0d025428d879a46&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16621,7 +16672,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=f6ac9ef0eb0711f19cbaea9df42702a2&au=76d792b6ed984bffba2c1bb11f85b507&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=9cdcd40ceb0811f1a8ae32ef86edbe11&au=73d4b5c1976147fdb0d025428d879a46&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18617,8 +18668,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8101902eb0711f1a02d8262a535995b&au=70b08e8447d74d32adf0e1e1a15395d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8101902eb0711f1a02d8262a535995b&au=70b08e8447d74d32adf0e1e1a15395d9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e1275d4eb0811f1bcfd5a0d6ea86adc&au=509bd8a336e849ab8fcb892c17730deb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e1275d4eb0811f1bcfd5a0d6ea86adc&au=509bd8a336e849ab8fcb892c17730deb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18634,7 +18685,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=f8101902eb0711f1a02d8262a535995b&au=70b08e8447d74d32adf0e1e1a15395d9&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=9e1275d4eb0811f1bcfd5a0d6ea86adc&au=509bd8a336e849ab8fcb892c17730deb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18826,61 +18877,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418666&tid=20418666&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-false&pv=1d18bec6eaad11f1b294c6ffe611cb32&au=a038a13177914fa7b89ae3f08c698d33&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tec0da1549d9",
-   "title": "LG S95TR 9.1.5-Channel Soundbar",
-   "price": 679.99,
-   "old_price": 1599.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418654&tid=20418654&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d768789cea8b11f1b26d2a816480ef78&au=99ac34aa664a4053a40a9cd6b6930d5a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418654&tid=20418654&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d768789cea8b11f1b26d2a816480ef78&au=99ac34aa664a4053a40a9cd6b6930d5a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22643739.thumb",
-   "posted": "2026-11-27T17:09:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 679.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418654&tid=20418654&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d768789cea8b11f1b26d2a816480ef78&au=99ac34aa664a4053a40a9cd6b6930d5a&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t21c4f8df5a9",
-   "title": "KRK Kreate 3 3.5\" Powered Studio Monitor Speakers (Pair)",
-   "price": 134.99,
-   "old_price": 179.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418648&tid=20418648&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=7aa61ea0ea9711f1815cd643dead3be4&au=22b0c94c9cdb491da509890c708b75fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418648&tid=20418648&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=7aa61ea0ea9711f1815cd643dead3be4&au=22b0c94c9cdb491da509890c708b75fa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22643733.thumb",
-   "posted": "2026-11-27T17:08:26+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "monitor",
-   "cat_label": "Monitores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 134.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418648&tid=20418648&prop=diavail-true%7Cdincp-2%7Cdinpd-0%7Cdipgavail-true&pv=7aa61ea0ea9711f1815cd643dead3be4&au=22b0c94c9cdb491da509890c708b75fa&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T08:45:40+00:00"
+ "updated": "2026-11-28T08:50:16+00:00"
 }
