@@ -870,10 +870,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:46:03+00:00",
+   "checked_at": "2026-11-28T04:47:10+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "a3c2e3de5246",
@@ -1424,10 +1425,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=161362c6ea7011f184088a7788591d52&au=b2e77ae6dd6443109550cfeff3606c19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:46:05+00:00",
+   "checked_at": "2026-11-28T04:47:12+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "6f39d092fc2e",
@@ -1698,7 +1700,7 @@
    "store_url": "https://www.walmart.com/ip/2290023466",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T22:44:08+00:00",
+   "checked_at": "2026-11-28T04:47:07+00:00",
    "real_price": 47.98,
    "real_old": 59.0,
    "category_ok": true
@@ -3490,31 +3492,6 @@
    "refurb": false,
    "glitch": false,
    "code": null,
-   "code_until": null
-  },
-  {
-   "id": "6340687251a8",
-   "title": "Refurb/Grade A Unit: 256GB Nintendo Switch 2 Gaming Console (Black) or Less + Free S&H",
-   "price": 389.0,
-   "old_price": 499.0,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 389.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22638420.thumb",
-   "kind": "hardware",
-   "collector": false,
-   "posted": "2026-11-27T14:21:53+00:00",
-   "digital": null,
-   "refurb": true,
-   "glitch": false,
-   "code": "BIGFRIDAY",
    "code_until": null
   },
   {
@@ -11192,6 +11169,24 @@
    "real_old": 998.75
   },
   {
+   "id": "tfb8208335f5",
+   "title": "SHOKZ OpenFit 2+ Open-Ear Wireless Earbuds w/ Dolby Audio & Wireless Charging $99.95 + Free S&H",
+   "price": 99.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20413377-shokz-openfit-2-open-ear-wireless-earbuds-w-dolby-audio-wireless-charging-99-95-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22629744.thumb",
+   "posted": "2026-11-28T04:47:07+00:00",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "prio": 6,
+   "refurb": false,
+   "checked_at": "2026-11-28T04:48:08+00:00",
+   "real_price": 99.95,
+   "real_old": 199.95,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&pno=1376883&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e827608eeae611f1a97cdebec45f07fe&au=7db16d58d04540d6969108e108e72a8a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tb7147665d33",
    "title": "Wandering Nature Puffy Quilted Tote Bag w/ 15.6\" Laptop Compartment (Beige) $12.75",
    "price": 12.74,
@@ -11785,9 +11780,6 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
-   "code": "LENOVOBIGHOLIDAY",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -11806,8 +11798,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=404fecf0eae611f1920b3e38729526d3&au=a7095201b96644928eea174dad06e74e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:43:27+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e95410b0eae611f1ab362aabbf1fd717&au=47cf3ccce6b641e1a250e9444380747a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:48:10+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -13990,6 +13982,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "JJX08G",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20413527&pno=1376364&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d642c49aea8b11f183a41645367a00b3&au=e770d269e8e34310a7d40ecf1884af7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:56:14+00:00",
    "real_price": 52.03,
@@ -14033,6 +14028,24 @@
    "checked_at": "2026-11-27T22:59:00+00:00",
    "real_price": 6.63,
    "real_old": 7.99
+  },
+  {
+   "id": "tddbaf63a722",
+   "title": "$397.99* | Nothing Phone 4a Pro Unlocked Smartphone (2026) at Amazon",
+   "price": 397.99,
+   "old_price": 499.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20419197-397-99-nothing-phone-4a-pro-unlocked-smartphone-2026-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22645053.thumb",
+   "posted": "2026-11-27T17:49:11+00:00",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "prio": 5,
+   "refurb": false,
+   "checked_at": "2026-11-28T04:48:12+00:00",
+   "real_price": 397.99,
+   "real_old": 499.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t01cc6fedfb7",
@@ -14086,10 +14099,10 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "checked_at": "2026-11-28T04:43:29+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ebae044ceae611f1b4d83a893f42f51e&au=d901591eb18c499db98f45961ee76ab4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:48:14+00:00",
    "real_price": 4.99,
-   "real_old": 11.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=416bb3b2eae611f199323e38729526d3&au=97b10de8c5434620a3eae5a0cf2b37c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 11.99
   },
   {
    "id": "t9b53cf56605",
@@ -14446,8 +14459,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=429f29b2eae611f190cf4280a2be1806&au=6389701d462d40bf9830eaad03c06707&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:43:31+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed041548eae611f19c34765c08c3ce96&au=7738d6bb4d9747a2a99dd6d8060a52f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:48:16+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15254,8 +15267,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=43e4faeaeae611f1a404d2c1f35d2fde&au=ab621035cb3645ebbf4dfcb5640ee4fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:43:33+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=ee2af5cceae611f1b3456a72111b023c&au=56172bca31624b11879b6adb64c40fc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:48:18+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15601,48 +15614,36 @@
    "checked_at": "2026-11-27T16:31:48+00:00",
    "real_price": 47.99,
    "real_old": 79.99
-  },
-  {
-   "id": "t696e7dfbd4f",
-   "title": "$111.99: DEWALT Buffer Polisher, 7-in-9-in, 12 amp, Variable Speed Dial 0-3,500 RPM’s, Soft Start Corded Car Buffer (DWP849X) at Woot!",
-   "price": 111.99,
-   "old_price": 249.0,
-   "store": "Woot!",
-   "url": "https://slickdeals.net/f/20416245-111-99-dewalt-buffer-polisher-7-in-9-in-12-amp-variable-speed-dial-0-3-500-rpm-s-soft-start-corded-car-buffer-dwp849x-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22637583.thumb",
-   "posted": "2026-11-27T13:46:12+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "code": "BIGFRIDAY",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20416245&tid=20416245&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=45043970ea8e11f1938f3693952c0199&au=990fdaca1a86405cb82ffb436371dcf9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:13:39+00:00",
-   "real_price": 111.99,
-   "real_old": 249.0
-  },
-  {
-   "id": "teda98147d66",
-   "title": "Dewalt 20V MAX Lithium-Ion 2.0 Ah and (2) 4.0 Ah Battery Packs (3-Pack) $99",
-   "price": 99.0,
-   "old_price": 200.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20416200-dewalt-20v-max-lithium-ion-2-0-ah-and-2-4-0-ah-battery-packs-3-pack-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22637418.thumb",
-   "posted": "2026-11-27T13:42:38+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20416200&tid=20416200&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=72bc75a8ea7511f19caada25f47a1c92&au=f9662354769148cdad81bb70a0debf4b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:15:58+00:00",
-   "real_price": 99.0,
-   "real_old": 200.0
   }
  ],
  "tech": [
+  {
+   "id": "tfb8208335f5",
+   "title": "SHOKZ OpenFit 2+ Open-Ear Wireless Earbuds",
+   "price": 99.95,
+   "old_price": 199.95,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&pno=1376883&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e827608eeae611f1a97cdebec45f07fe&au=7db16d58d04540d6969108e108e72a8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&pno=1376883&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e827608eeae611f1a97cdebec45f07fe&au=7db16d58d04540d6969108e108e72a8a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/8/3/9/2/300x300/22629744.thumb",
+   "posted": "2026-11-28T04:47:07+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "audio",
+   "cat_label": "Audio",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 99.95,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20413377&pno=1376883&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e827608eeae611f1a97cdebec45f07fe&au=7db16d58d04540d6969108e108e72a8a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tb7147665d33",
    "title": "Wandering Nature Puffy Quilted Tote Bag",
@@ -16058,7 +16059,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "LENOVOBIGHOLIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16075,8 +16076,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=404fecf0eae611f1920b3e38729526d3&au=a7095201b96644928eea174dad06e74e&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=404fecf0eae611f1920b3e38729526d3&au=a7095201b96644928eea174dad06e74e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e95410b0eae611f1ab362aabbf1fd717&au=47cf3ccce6b641e1a250e9444380747a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e95410b0eae611f1ab362aabbf1fd717&au=47cf3ccce6b641e1a250e9444380747a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16092,7 +16093,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=404fecf0eae611f1920b3e38729526d3&au=a7095201b96644928eea174dad06e74e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=e95410b0eae611f1ab362aabbf1fd717&au=47cf3ccce6b641e1a250e9444380747a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18002,13 +18003,40 @@
    ]
   },
   {
+   "id": "tddbaf63a722",
+   "title": "Nothing Phone 4a Pro Unlocked Smartphone (2026)",
+   "price": 397.99,
+   "old_price": 499.0,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22645053.thumb",
+   "posted": "2026-11-27T17:49:11+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tablet",
+   "cat_label": "Tablets y teléfonos",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 397.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "td1795ae3fc0",
    "title": "amFilm OneTouch iPhone 18/17/16/15/14/13 Screen Protectors Starting",
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=416bb3b2eae611f199323e38729526d3&au=97b10de8c5434620a3eae5a0cf2b37c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=416bb3b2eae611f199323e38729526d3&au=97b10de8c5434620a3eae5a0cf2b37c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ebae044ceae611f1b4d83a893f42f51e&au=d901591eb18c499db98f45961ee76ab4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ebae044ceae611f1b4d83a893f42f51e&au=d901591eb18c499db98f45961ee76ab4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18024,7 +18052,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=416bb3b2eae611f199323e38729526d3&au=97b10de8c5434620a3eae5a0cf2b37c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ebae044ceae611f1b4d83a893f42f51e&au=d901591eb18c499db98f45961ee76ab4&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18325,8 +18353,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=429f29b2eae611f190cf4280a2be1806&au=6389701d462d40bf9830eaad03c06707&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=429f29b2eae611f190cf4280a2be1806&au=6389701d462d40bf9830eaad03c06707&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed041548eae611f19c34765c08c3ce96&au=7738d6bb4d9747a2a99dd6d8060a52f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed041548eae611f19c34765c08c3ce96&au=7738d6bb4d9747a2a99dd6d8060a52f9&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18342,7 +18370,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=429f29b2eae611f190cf4280a2be1806&au=6389701d462d40bf9830eaad03c06707&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed041548eae611f19c34765c08c3ce96&au=7738d6bb4d9747a2a99dd6d8060a52f9&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18804,61 +18832,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20417583&tid=20417583&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-true&pv=08fc0986ea9c11f1938672d7dca52f8f&au=39291f5b2e8f4fab880008ccc3e89232&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t3c870065673",
-   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 32GB RAM, 1TB SSD (2026) + Free S&H",
-   "price": 2149.0,
-   "old_price": 2399.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/22629138.thumb",
-   "posted": "2026-11-27T15:35:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 2149.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20412975&pno=1376262&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=cf8cc122ea7811f1844dda25f47a1c92&au=74493a03d50747da9877e40c8e4a1b39&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "taee0ffe34b7",
-   "title": "Apple MacBook Pro Laptop: M6 Chip, 14\" Liquid Retina, 16GB RAM, 1TB SSD (2026) + Free S&H",
-   "price": 1749.0,
-   "old_price": 1999.0,
-   "store": "Best Buy",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411958&pno=1376259&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=241c5b90ea7811f18b7572d7dca52f8f&au=17e43b96475248d099e647ceb49b80e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411958&pno=1376259&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=241c5b90ea7811f18b7572d7dca52f8f&au=17e43b96475248d099e647ceb49b80e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22640553.thumb",
-   "posted": "2026-11-27T15:32:00+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Best Buy",
-     "price": 1749.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411958&pno=1376259&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=241c5b90ea7811f18b7572d7dca52f8f&au=17e43b96475248d099e647ceb49b80e8&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T04:44:20+00:00"
+ "updated": "2026-11-28T04:49:04+00:00"
 }
