@@ -823,7 +823,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=14e8d8d6ea7011f18bca7e3e8852a1ac&au=36a3c883a77f49df9e41638442e4013f&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T00:44:27+00:00",
+   "checked_at": "2026-11-28T02:46:03+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -1370,7 +1370,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&pno=1376229&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=161362c6ea7011f184088a7788591d52&au=b2e77ae6dd6443109550cfeff3606c19&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T00:44:30+00:00",
+   "checked_at": "2026-11-28T02:46:05+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
    "category_ok": true
@@ -2664,7 +2664,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=52c1148ce97311f1a821a61b1b2e19a1&au=2b4ced3894d34b2ab92bdf9d35275706&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:42:55+00:00",
+   "checked_at": "2026-11-28T02:45:59+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -2685,7 +2685,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20402631&tid=20402631&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=53e0559ee97311f1a90eea8af01651eb&au=4d5b78da13d1437e8c8322497fd011ba&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:42:56+00:00",
+   "checked_at": "2026-11-28T02:46:01+00:00",
    "real_price": 12.91,
    "real_old": 22.79,
    "category_ok": true
@@ -11324,10 +11324,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Meijer&sdtid=20420232&pno=1376778&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53715f28ead511f183d14e9c2625dc25&au=06d6ec9faa594562bfa36f5b20179ac3&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T02:42:17+00:00",
    "real_price": 69.0,
-   "real_old": 129.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Meijer&sdtid=20420232&pno=1376778&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53715f28ead511f183d14e9c2625dc25&au=06d6ec9faa594562bfa36f5b20179ac3&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 129.0
   },
   {
    "id": "t4cc53f71558",
@@ -11432,6 +11432,9 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "code": "LENOVOBIGHOLIDAY",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -11450,8 +11453,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=54b7834eead511f190ebb2162687b1c2&au=ddcb500104f84373a5f111fe6f632c4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:42:20+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=fe086648ead511f19a932aabbf1fd717&au=f89445bec62b4bf591c15bf8fac68c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:47:05+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11878,10 +11881,28 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20422548&tid=20422548&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=55fa8ec2ead511f1bb99620c4aff8419&au=f49948ac2bc44790b6503cc7a68e9107&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T02:42:22+00:00",
    "real_price": 89.0,
-   "real_old": 119.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20422548&tid=20422548&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=55fa8ec2ead511f1bb99620c4aff8419&au=f49948ac2bc44790b6503cc7a68e9107&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 119.0
+  },
+  {
+   "id": "t6cb47ef260a",
+   "title": "CRAFTSMAN V20 150W Power Inverter w/ Type-A, Type-C & AC Ports $49 + Free Shipping",
+   "price": 49.0,
+   "old_price": 69.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20422539-craftsman-v20-150w-power-inverter-w-type-a-type-c-ac-ports-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/22652331.thumb",
+   "posted": "2026-11-27T23:22:03+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:47:07+00:00",
+   "real_price": 49.0,
+   "real_old": 69.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422539&tid=20422539&prop=diavail-true%7Cdincp-1%7Cdinpd-3%7Cdipgavail-true&pv=ffed8a4cead511f1b8a93a10e94e529a&au=a15a3660fdab418a82ca094f349246de&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t9976190070b",
@@ -11918,6 +11939,24 @@
    "checked_at": "2026-11-28T02:23:10+00:00",
    "real_price": 24.98,
    "real_old": 139.0
+  },
+  {
+   "id": "td0ed52f246d",
+   "title": "Epson Home Cinema LS11000 4K PRO-UHD Laser Projector with HDR10+ | 3-Chip 3LCD, 2,500 Lumens of Color and White Brightness, 1.2 Mill:1 Dynamic Contrast $3499.99",
+   "price": 3499.99,
+   "old_price": 4499.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20422482-epson-home-cinema-ls11000-4k-pro-uhd-laser-projector-with-hdr10-3-chip-3lcd-2-500-lumens-of-color-and-white-brightness-1-2-mill-1-dynamic-contrast-3499-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22652199.thumb",
+   "posted": "2026-11-27T23:15:29+00:00",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "prio": 3,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:47:11+00:00",
+   "real_price": 3499.99,
+   "real_old": 4499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422482&tid=20422482&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=02516240ead611f1b449b2162687b1c2&au=694f49db5d0a4c99936fccd20fe0b3ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t742543e2424",
@@ -11992,6 +12031,24 @@
    "checked_at": "2026-11-27T23:07:46+00:00",
    "real_price": 507.59,
    "real_old": 1499.99
+  },
+  {
+   "id": "t4c93b0cc84f",
+   "title": "Ingersoll Rand W9691-K4E Cordless 1\" High-Torque Impact Wrench Kit with 2\" Extended Anvil, Includes 4 BL2022 5.0Ah Batteries and Dual-Bay Charger $1087.98",
+   "price": 1087.98,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20422347-ingersoll-rand-w9691-k4e-cordless-1-high-torque-impact-wrench-kit-with-2-extended-anvil-includes-4-bl2022-5-0ah-batteries-and-dual-bay-charger-1087-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22651683.thumb",
+   "posted": "2026-11-27T23:01:33+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:47:13+00:00",
+   "real_price": 1087.98,
+   "real_old": 1599.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422347&tid=20422347&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=03c3dcc0ead611f1a7624a176192eba0&au=55c9feee05d64aefa1b2f04ff20492ed&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t33175cd801c",
@@ -12158,6 +12215,24 @@
    "checked_at": "2026-11-27T23:07:48+00:00",
    "real_price": 349.99,
    "real_old": 499.99
+  },
+  {
+   "id": "taaed357db95",
+   "title": "$59.97, FS, HD, 11 pc Milwaukee combination wrench sets, SAE or Metric",
+   "price": 59.97,
+   "old_price": 135.0,
+   "store": "Home Depot",
+   "url": "https://slickdeals.net/f/20421936-59-97-fs-hd-11-pc-milwaukee-combination-wrench-sets-sae-or-metric?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/3/8/5/0/5/5/300x300/22650960.thumb",
+   "posted": "2026-11-27T22:05:57+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:47:15+00:00",
+   "real_price": 59.97,
+   "real_old": 135.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20421936&tid=20421936&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=050879e2ead611f1a230620c4aff8419&au=5dc09262cae94eac8a44909e97a4317d&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t62784e6ae0d",
@@ -13820,8 +13895,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57611556ead511f1968b3e38729526d3&au=2d332060700b4a3a9e0e7aa1f980880b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:42:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=06a8a63cead611f188ddca86e63aa71a&au=232c5e6fba594593a459d6e38ea388c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:47:18+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -13909,10 +13984,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20418291&tid=20418291&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=58c3233aead511f19d29469f55d9ccef&au=e5e187e9ad704c238410bce449f0ed3e&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T02:42:26+00:00",
    "real_price": 85.0,
-   "real_old": 159.94,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20418291&tid=20418291&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=58c3233aead511f19d29469f55d9ccef&au=e5e187e9ad704c238410bce449f0ed3e&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 159.94
   },
   {
    "id": "tb0c8c69556f",
@@ -14610,8 +14685,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=59f54d3cead511f18ae54e9bdccc443f&au=f142aae64fc942fc9b7a2852d32214f3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:42:28+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=084932a4ead611f19887469f55d9ccef&au=98f580801ae74b9f91ef792e4628dca4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:47:21+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15478,10 +15553,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415198&tid=20415198&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b36c626ead511f182da6aa58121650b&au=0db32fedb398426e8d432dc3625dff5c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T02:42:30+00:00",
    "real_price": 9.1,
-   "real_old": 14.97,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415198&tid=20415198&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b36c626ead511f182da6aa58121650b&au=0db32fedb398426e8d432dc3625dff5c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 14.97
   },
   {
    "id": "td7d7fc06c13",
@@ -15682,75 +15757,6 @@
    "checked_at": "2026-11-27T11:19:20+00:00",
    "real_price": 19.99,
    "real_old": 109.99
-  },
-  {
-   "id": "tb86b678f455",
-   "title": "Belkin Qi2 15W Wireless Charging Dock, 2 in 1 Fast iPhone Charger | iPhone 17/16/15/14/13, AirPods, Qi2-enabled devices compatible, power adapter included, desk dock $59.99",
-   "price": 59.99,
-   "old_price": 119.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414991-belkin-qi2-15w-wireless-charging-dock-2-in-1-fast-iphone-charger-iphone-17-16-15-14-13-airpods-qi2-enabled-devices-compatible-power-adapter-included-desk-dock-59-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22634415.thumb",
-   "posted": "2026-11-27T11:13:35+00:00",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "prio": 5,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414991&tid=20414991&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=5fa741c2ea7b11f184f57e94b7430612&au=83dd726addf24d5c93d53df642cffd8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:58:23+00:00",
-   "real_price": 59.99,
-   "real_old": 119.99
-  },
-  {
-   "id": "tebcc1d626f1",
-   "title": "2-Pack Craftsman V20 4Ah Lithium-Ion Battery $89.10 ($44.55 Ea) + Free Shipping",
-   "price": 89.1,
-   "old_price": 149.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414988-2-pack-craftsman-v20-4ah-lithium-ion-battery-89-10-44-55-ea-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/7/2/2/9/6/4/300x300/22634403.thumb",
-   "posted": "2026-11-27T11:13:16+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414988&tid=20414988&prop=diavail-true%7Cdincp-1%7Cdinpd-20%7Cdipgavail-true&pv=dc90e800ea9411f19eff12075284f408&au=b9be8874362044ffa26364513ec51f71&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T19:00:50+00:00",
-   "real_price": 89.1,
-   "real_old": 149.0
-  },
-  {
-   "id": "tb9c55c2eec7",
-   "title": "$679 Lenovo V15 G5 15.6\" FHD Laptop, Intel Core i7-13620H, 16GB RAM, 1TB SSD",
-   "price": 679.0,
-   "old_price": null,
-   "store": "Walmart",
-   "url": "https://slickdeals.net/f/20414976-679-lenovo-v15-g5-15-6-fhd-laptop-intel-core-i7-13620h-16gb-ram-1tb-ssd?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/1/9/3/4/6/6/300x300/22634397.thumb",
-   "posted": "2026-11-27T11:11:23+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://www.walmart.com/ip/20598671657",
-   "checked_at": "2026-11-27T19:28:55+00:00",
-   "real_price": 679.0
-  },
-  {
-   "id": "t96c81d6a545",
-   "title": "Moe's Southwest Grill Rewards Offer: Any Qualifying Entree Purchase B1G1 Free (Valid thru 11/29)",
-   "price": 56.0,
-   "old_price": null,
-   "store": "Moe's Southwest Grill",
-   "url": "https://slickdeals.net/f/20363952-bogo-burrito-or-entree-at-moe-s-11-27-11-29?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22634253.thumb",
-   "posted": "2026-11-27T11:01:27+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "checked_at": "2026-11-27T11:05:21+00:00",
-   "real_price": 56.0
   }
  ],
  "tech": [
@@ -15878,7 +15884,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "LENOVOBIGHOLIDAY",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -15895,8 +15901,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=54b7834eead511f190ebb2162687b1c2&au=ddcb500104f84373a5f111fe6f632c4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=54b7834eead511f190ebb2162687b1c2&au=ddcb500104f84373a5f111fe6f632c4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=fe086648ead511f19a932aabbf1fd717&au=f89445bec62b4bf591c15bf8fac68c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=fe086648ead511f19a932aabbf1fd717&au=f89445bec62b4bf591c15bf8fac68c3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -15912,7 +15918,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=54b7834eead511f190ebb2162687b1c2&au=ddcb500104f84373a5f111fe6f632c4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=fe086648ead511f19a932aabbf1fd717&au=f89445bec62b4bf591c15bf8fac68c3b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16241,6 +16247,33 @@
    ]
   },
   {
+   "id": "td0ed52f246d",
+   "title": "Epson Home Cinema LS11000 4K PRO-UHD Laser Projector with HDR10+ | 3-Chip 3LCD, 2,500 Lumens of Color and White Brightness, 1.2 Mill:1 Dynamic Contrast",
+   "price": 3499.99,
+   "old_price": 4499.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422482&tid=20422482&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=02516240ead611f1b449b2162687b1c2&au=694f49db5d0a4c99936fccd20fe0b3ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422482&tid=20422482&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=02516240ead611f1b449b2162687b1c2&au=694f49db5d0a4c99936fccd20fe0b3ab&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22652199.thumb",
+   "posted": "2026-11-27T23:15:29+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "tv",
+   "cat_label": "Televisores",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 3499.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422482&tid=20422482&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=02516240ead611f1b449b2162687b1c2&au=694f49db5d0a4c99936fccd20fe0b3ab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
    "id": "t742543e2424",
    "title": "VidAngel 50% off for 6 months",
    "price": null,
@@ -16339,6 +16372,33 @@
      "store": "Lenovo",
      "price": 507.59,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20420604&pno=1376553&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5b6f34d4eab711f19c252e3f1f9e6a98&au=cd1c27e9b4834eb6bb340d6313d4da7a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t4c93b0cc84f",
+   "title": "Ingersoll Rand W9691-K4E Cordless 1\" High-Torque Impact Wrench Kit with 2\" Extended Anvil, Includes 4 BL2022 5.0Ah Batteries and Dual-Bay Charger",
+   "price": 1087.98,
+   "old_price": 1599.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422347&tid=20422347&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=03c3dcc0ead611f1a7624a176192eba0&au=55c9feee05d64aefa1b2f04ff20492ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422347&tid=20422347&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=03c3dcc0ead611f1a7624a176192eba0&au=55c9feee05d64aefa1b2f04ff20492ed&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22651683.thumb",
+   "posted": "2026-11-27T23:01:33+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 1087.98,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422347&tid=20422347&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=03c3dcc0ead611f1a7624a176192eba0&au=55c9feee05d64aefa1b2f04ff20492ed&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17929,8 +17989,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57611556ead511f1968b3e38729526d3&au=2d332060700b4a3a9e0e7aa1f980880b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57611556ead511f1968b3e38729526d3&au=2d332060700b4a3a9e0e7aa1f980880b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=06a8a63cead611f188ddca86e63aa71a&au=232c5e6fba594593a459d6e38ea388c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=06a8a63cead611f188ddca86e63aa71a&au=232c5e6fba594593a459d6e38ea388c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17946,7 +18006,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=57611556ead511f1968b3e38729526d3&au=2d332060700b4a3a9e0e7aa1f980880b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=06a8a63cead611f188ddca86e63aa71a&au=232c5e6fba594593a459d6e38ea388c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18921,61 +18981,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20415993&tid=20415993&prop=diavail-true%7Cdincp-0%7Cdinpd-20%7Cdipgavail-false&pv=da124474ea8b11f19d4a562a0aab39fc&au=cfc635532e70423fab8e91578712f746&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t060af408eca",
-   "title": "Google Pixel 10 Pro XL 2025, 256GB, Obsidian - Unlocked (Renewed)",
-   "price": 597.0,
-   "old_price": 1199.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415840&tid=20415840&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ec90eaea7111f18590da25f47a1c92&au=311c79cbc5224c4c893c053ae7935a07&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415840&tid=20415840&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ec90eaea7111f18590da25f47a1c92&au=311c79cbc5224c4c893c053ae7935a07&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/6/3/8/300x300/22636818.thumb",
-   "posted": "2026-11-27T13:19:53+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": true,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 597.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415840&tid=20415840&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b1ec90eaea7111f18590da25f47a1c92&au=311c79cbc5224c4c893c053ae7935a07&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t67074e116c9",
-   "title": "Apple 14\" MacBook Pro Laptop: M6 Chip, 16GB Memory, 1TB SSD",
-   "price": 1749.0,
-   "old_price": 1999.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415750&tid=20415750&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=4277fa2cea6e11f196b06e5ef850e476&au=9ec5770423fd4743ab5e7684234e9116&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415750&tid=20415750&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=4277fa2cea6e11f196b06e5ef850e476&au=9ec5770423fd4743ab5e7684234e9116&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22636536.thumb",
-   "posted": "2026-11-27T13:11:24+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1749.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415750&tid=20415750&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=4277fa2cea6e11f196b06e5ef850e476&au=9ec5770423fd4743ab5e7684234e9116&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T02:43:14+00:00"
+ "updated": "2026-11-28T02:48:11+00:00"
 }
