@@ -359,7 +359,7 @@
    "store_url": "https://www.walmart.com/ip/16344962410",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T21:39:16+00:00",
+   "checked_at": "2026-11-28T03:41:58+00:00",
    "real_price": 15.0,
    "real_old": 154.0,
    "category_ok": true
@@ -736,7 +736,7 @@
    "posted": "2026-11-27T15:38:12+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-27T21:39:19+00:00",
+   "checked_at": "2026-11-28T03:42:01+00:00",
    "category_ok": true,
    "real_price": 30.0,
    "real_old": 69.99,
@@ -932,7 +932,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416569&tid=20416569&prop=diavail-true%7Cdincp-0%7Cdinpd-8%7Cdipgavail-true&pv=ab17cbdeea7811f188e222a3727f3824&au=3c0e421d1fa1431a9d72ef5820def7e8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T21:39:21+00:00",
+   "checked_at": "2026-11-28T03:42:05+00:00",
    "real_price": 39.99,
    "real_old": 69.99,
    "category_ok": true
@@ -11302,10 +11302,10 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20423106&pno=1376829&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=2617c5d2eadd11f181787e6fe7d9f00b&au=4efe837006654a5ba5d1e1b61737ba88&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T03:38:17+00:00",
    "real_price": 785.25,
-   "real_old": 1737.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20423106&pno=1376829&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-false&pv=2617c5d2eadd11f181787e6fe7d9f00b&au=4efe837006654a5ba5d1e1b61737ba88&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 1737.0
   },
   {
    "id": "t8c9306bef4b",
@@ -11443,6 +11443,24 @@
    "checked_at": "2026-11-28T02:56:30+00:00",
    "real_price": 799.99,
    "real_old": 1999.95
+  },
+  {
+   "id": "t174d8c49600",
+   "title": "Canon PIXMA TR160 Color Wireless Portable Printer $152.66",
+   "price": 152.66,
+   "old_price": 269.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20423982-canon-pixma-tr160-color-wireless-portable-printer-152-66?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22655406.thumb",
+   "posted": "2026-11-28T02:47:09+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T03:42:58+00:00",
+   "real_price": 152.66,
+   "real_old": 269.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423982&tid=20423982&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cd53adc0eadd11f1a29b46ddd161ebb0&au=3ab44f031f394ddeb8959830e2606efa&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t26ca88ff8c6",
@@ -11619,9 +11637,6 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
-   "code": "LENOVOBIGHOLIDAY",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -11640,8 +11655,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=273b83f4eadd11f199bae6cdd85f2805&au=f2a94b1df9cd47059e3266420fd7f966&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:38:19+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ce764beaeadd11f18a0cdebec45f07fe&au=f56293111b5f42f39a7e2c97b254a3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:43:00+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11910,6 +11925,24 @@
    "checked_at": "2026-11-28T00:50:07+00:00",
    "real_price": 81.0,
    "real_old": 138.0
+  },
+  {
+   "id": "t37e57351b8d",
+   "title": "Mythinglogic 3-Tier Metal Rolling Printer Stand with Pegboard and File Holder with adjustable shelves and locking wheels $36.09",
+   "price": 36.09,
+   "old_price": 79.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20422893-mythinglogic-3-tier-metal-rolling-printer-stand-with-pegboard-and-file-holder-with-adjustable-shelves-and-locking-wheels-36-09?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22653207.thumb",
+   "posted": "2026-11-28T00:10:12+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T03:43:02+00:00",
+   "real_price": 36.09,
+   "real_old": 79.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422893&tid=20422893&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfc16c8ceadd11f1afe70aa06e0bfcf4&au=5fb3a1a28ebf4ed9901d72905dca5c35&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t0fd24abd530",
@@ -14170,9 +14203,6 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "code": "WBSPK400OFF",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Samsung&sdtid=20397882&pno=1376334&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2e99e12aea8511f19155d6445e100823&au=2a26e5eafcf7467e920ee6f854d2a814&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T17:08:36+00:00",
    "real_price": 2279.0,
@@ -14211,8 +14241,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2862fa0aeadd11f1bed52aedf7c66a89&au=5966740c0b0141359bfd70c1ee6771cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:38:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1600dd2eadd11f1bf63daeb753274bd&au=476374c3b0c74ba3a853d41974d68e30&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:43:05+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15001,8 +15031,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=299bb0ceeadd11f1950ce6cdd85f2805&au=5ccc73ed3daf402fa91aaf6cb557b977&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:38:23+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d2abc762eadd11f1a2e9da55be239a67&au=a488840667dc44d1bf67df6ad775c71a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:43:07+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15704,45 +15734,6 @@
    "checked_at": "2026-11-27T17:41:06+00:00",
    "real_price": 17.02,
    "real_old": 33.93
-  },
-  {
-   "id": "tfe79c00c143",
-   "title": "Eureka RapidClean Pro 250W Tangle-Free Cordless Stick Vacuum, NEC280TL $89.99",
-   "price": 89.99,
-   "old_price": 149.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20415525-eureka-rapidclean-pro-250w-tangle-free-cordless-stick-vacuum-nec280tl-89-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22635759.thumb",
-   "posted": "2026-11-27T12:44:37+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415525&tid=20415525&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=d99e2296eab411f182e64a5df193f9a0&au=54d42eba48054573b80f3e0da8e8521d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T22:49:49+00:00",
-   "real_price": 89.99,
-   "real_old": 149.99
-  },
-  {
-   "id": "t94b4311ebc1",
-   "title": "64GB KOOTION 4K UHD Full HD microSDXC Memory Card with Adapter Micro SD Card A2 V30 U3 C10 UHS-I TF Card Up to 150MB/",
-   "price": 16.49,
-   "old_price": 29.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20415516-64gb-kootion-4k-uhd-full-hd-microsdxc-memory-card-with-adapter-micro-sd-card-a2-v30-u3-c10-uhs-i-tf-card-up-to-150mb?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/0/8/6/6/1/6/8/300x300/22635711.thumb",
-   "posted": "2026-11-27T12:43:56+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "NEWCARD",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415516&tid=20415516&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ed44dbb2ea8e11f18e859a2d9483121e&au=38edffa216294aabb8de2f70b5551530&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T18:18:21+00:00",
-   "real_price": 16.49,
-   "real_old": 29.99
   }
  ],
  "tech": [
@@ -15818,6 +15809,33 @@
      "store": "Walmart",
      "price": 14.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20422182&pno=1376802&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=a5837776ead811f1905466461b1cd569&au=ea0afdfbc0444bd98a717f284ca37915&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t174d8c49600",
+   "title": "Canon PIXMA TR160 Color Wireless Portable Printer",
+   "price": 152.66,
+   "old_price": 269.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423982&tid=20423982&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cd53adc0eadd11f1a29b46ddd161ebb0&au=3ab44f031f394ddeb8959830e2606efa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423982&tid=20423982&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cd53adc0eadd11f1a29b46ddd161ebb0&au=3ab44f031f394ddeb8959830e2606efa&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22655406.thumb",
+   "posted": "2026-11-28T02:47:09+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 152.66,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423982&tid=20423982&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-true&pv=cd53adc0eadd11f1a29b46ddd161ebb0&au=3ab44f031f394ddeb8959830e2606efa&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -15972,7 +15990,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "LENOVOBIGHOLIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -15989,8 +16007,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=273b83f4eadd11f199bae6cdd85f2805&au=f2a94b1df9cd47059e3266420fd7f966&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=273b83f4eadd11f199bae6cdd85f2805&au=f2a94b1df9cd47059e3266420fd7f966&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ce764beaeadd11f18a0cdebec45f07fe&au=f56293111b5f42f39a7e2c97b254a3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ce764beaeadd11f18a0cdebec45f07fe&au=f56293111b5f42f39a7e2c97b254a3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16006,7 +16024,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=273b83f4eadd11f199bae6cdd85f2805&au=f2a94b1df9cd47059e3266420fd7f966&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ce764beaeadd11f18a0cdebec45f07fe&au=f56293111b5f42f39a7e2c97b254a3de&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16223,6 +16241,33 @@
      "store": "Best Buy",
      "price": 800.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20411193&pno=1376655&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=57d83feaeac211f189502ee9ad60b9a3&au=d27d2b3453f04233a684f38cc0d939ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t37e57351b8d",
+   "title": "Mythinglogic 3-Tier Metal Rolling Printer Stand with Pegboard and File Holder with adjustable shelves and locking wheels",
+   "price": 36.09,
+   "old_price": 79.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422893&tid=20422893&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfc16c8ceadd11f1afe70aa06e0bfcf4&au=5fb3a1a28ebf4ed9901d72905dca5c35&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422893&tid=20422893&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfc16c8ceadd11f1afe70aa06e0bfcf4&au=5fb3a1a28ebf4ed9901d72905dca5c35&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22653207.thumb",
+   "posted": "2026-11-28T00:10:12+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 36.09,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20422893&tid=20422893&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfc16c8ceadd11f1afe70aa06e0bfcf4&au=5fb3a1a28ebf4ed9901d72905dca5c35&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18158,8 +18203,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2862fa0aeadd11f1bed52aedf7c66a89&au=5966740c0b0141359bfd70c1ee6771cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2862fa0aeadd11f1bed52aedf7c66a89&au=5966740c0b0141359bfd70c1ee6771cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1600dd2eadd11f1bf63daeb753274bd&au=476374c3b0c74ba3a853d41974d68e30&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1600dd2eadd11f1bf63daeb753274bd&au=476374c3b0c74ba3a853d41974d68e30&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18175,7 +18220,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=2862fa0aeadd11f1bed52aedf7c66a89&au=5966740c0b0141359bfd70c1ee6771cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d1600dd2eadd11f1bf63daeb753274bd&au=476374c3b0c74ba3a853d41974d68e30&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18907,61 +18952,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412027&pno=1376223&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=29db2cacea6c11f19b58e666d291e204&au=8003f90542c64336b5b71c8aef1c99c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t63b76fcb94b",
-   "title": "27\" Samsung Odyssey OLED G6 (G61SH) QD-OLED 2560x1440 QHD 240Hz Gaming Monitor",
-   "price": 375.23,
-   "old_price": 599.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416410&tid=20416410&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=d301f160ea7811f1bd4c06ab6b8252e7&au=04ebed8f35e64020a8173084f29acaff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416410&tid=20416410&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=d301f160ea7811f1bd4c06ab6b8252e7&au=04ebed8f35e64020a8173084f29acaff&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/22637913.thumb",
-   "posted": "2026-11-27T14:04:08+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 375.23,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20416410&tid=20416410&prop=diavail-true%7Cdincp-1%7Cdinpd-7%7Cdipgavail-true&pv=d301f160ea7811f1bd4c06ab6b8252e7&au=04ebed8f35e64020a8173084f29acaff&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t4469c30785d",
-   "title": "Shokz OpenRun Pro 2 Bone Conduction Headphones (Standard or Mini, Lunar White) + Shaker Bottle",
-   "price": 109.95,
-   "old_price": 179.95,
-   "store": "Shokz",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20371794&tid=20371794&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e9d80f72ea8311f19cb57631a2ced2a7&au=2d8d79ba317d45f0b5db81cf2d6bd15d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20371794&tid=20371794&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e9d80f72ea8311f19cb57631a2ced2a7&au=2d8d79ba317d45f0b5db81cf2d6bd15d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22525848.thumb",
-   "posted": "2026-11-27T14:00:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Shokz",
-     "price": 109.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20371794&tid=20371794&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e9d80f72ea8311f19cb57631a2ced2a7&au=2d8d79ba317d45f0b5db81cf2d6bd15d&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T03:39:12+00:00"
+ "updated": "2026-11-28T03:43:54+00:00"
 }
