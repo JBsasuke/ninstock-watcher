@@ -14,13 +14,13 @@
    "posted": "2026-11-28T06:59:00+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T06:59:44+00:00",
-   "category_ok": true,
-   "real_price": 13.97,
-   "real_old": 19.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425566&tid=20425566&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4a7fa7a2eaf911f1b8cd8e09f646c5ec&au=ada14c07450147f0b54cc01792177ba8&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T06:59:44+00:00",
+   "real_price": 13.97,
+   "real_old": 19.99,
+   "category_ok": true
   },
   {
    "id": "f32f1cf21b83",
@@ -35,13 +35,13 @@
    "posted": "2026-11-28T06:59:00+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T06:59:46+00:00",
-   "category_ok": true,
-   "real_price": 13.97,
-   "real_old": 19.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425566&tid=20425566&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ba3a85eeaf911f1afeb8e09f646c5ec&au=ee43445125c4474291e788e8c7ae0786&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T06:59:46+00:00",
+   "real_price": 13.97,
+   "real_old": 19.99,
+   "category_ok": true
   },
   {
    "id": "fadf024dc64f",
@@ -1934,7 +1934,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f80a6898e9c911f1893aa27f351ed2dc&au=25999e62060c416987cf6adec9c9ead2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T01:03:04+00:00",
+   "checked_at": "2026-11-28T07:04:43+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -1955,7 +1955,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f922d76ae9c911f1a129768b21fc55b0&au=1752370671c84b7793475c1106598b2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T01:03:06+00:00",
+   "checked_at": "2026-11-28T07:04:45+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -10686,6 +10686,54 @@
  ],
  "news": [
   {
+   "id": "35ca795e545a",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Opening Ceremony Performance | 2027 Pokémon Latin American International Championships",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=rOxsaInSriY",
+   "image": "https://i.ytimg.com/vi/rOxsaInSriY/hqdefault.jpg",
+   "posted": "2026-11-28T07:06:51+00:00"
+  },
+  {
+   "id": "4f15d4b00cad",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Summer Days with Wartortle | POKÉTOON Short",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=eGMDObpD7Es",
+   "image": "https://i.ytimg.com/vi/eGMDObpD7Es/hqdefault.jpg",
+   "posted": "2026-11-28T07:06:51+00:00"
+  },
+  {
+   "id": "54d401d03813",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Pokémon TCG Pocket: Dual Fusion 🧬 | Official Trailer",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=IGqgREr8t0w",
+   "image": "https://i.ytimg.com/vi/IGqgREr8t0w/hqdefault.jpg",
+   "posted": "2026-11-28T07:06:51+00:00"
+  },
+  {
+   "id": "54100aaf584c",
+   "date_ok": false,
+   "seeded": true,
+   "title": "Decks on Decks 🛹 | Behind The Scenes with Pokémon and Santa Cruz Skateboards",
+   "summary": "",
+   "lang": "en",
+   "source": "Pokémon",
+   "url": "https://www.youtube.com/watch?v=BVi7G7NDcA0",
+   "image": "https://i.ytimg.com/vi/BVi7G7NDcA0/hqdefault.jpg",
+   "posted": "2026-11-28T07:06:51+00:00"
+  },
+  {
    "id": "98816c60f14d",
    "date_ok": false,
    "seeded": true,
@@ -11023,138 +11071,6 @@
    "url": "https://www.youtube.com/watch?v=9ZAr8bhi1ig",
    "image": "https://i.ytimg.com/vi/9ZAr8bhi1ig/hqdefault.jpg",
    "posted": "2026-11-24T01:02:03+00:00"
-  },
-  {
-   "id": "6f7b87e3ca87",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Championship Sunday | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch this weekend's final showdown between VGC, TCG and GO as we determine our 2027 Pokémon Latin America International Champions!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=-vlAyNXi1t8",
-   "image": "https://i.ytimg.com/vi/-vlAyNXi1t8/hqdefault.jpg",
-   "posted": "2026-11-22T21:18:02+00:00"
-  },
-  {
-   "id": "aca21e3003c9",
-   "date_ok": true,
-   "seeded": true,
-   "title": "Skarmory doesn't mess around when it comes to shiny things",
-   "summary": "",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/shorts/nSVJXCnkuQo",
-   "image": "https://i.ytimg.com/vi/nSVJXCnkuQo/hqdefault.jpg",
-   "posted": "2026-11-22T17:00:20+00:00"
-  },
-  {
-   "id": "f471b08a86e2",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=59x5jVcbm7c",
-   "image": "https://i.ytimg.com/vi/59x5jVcbm7c/hqdefault.jpg",
-   "posted": "2026-11-22T16:28:54+00:00"
-  },
-  {
-   "id": "80cd42e8f1fc",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the TCG competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=MPxRo4LzS1A",
-   "image": "https://i.ytimg.com/vi/MPxRo4LzS1A/hqdefault.jpg",
-   "posted": "2026-11-22T16:26:26+00:00"
-  },
-  {
-   "id": "c944e7602ae6",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=4RdQ5B5VuKo",
-   "image": "https://i.ytimg.com/vi/4RdQ5B5VuKo/hqdefault.jpg",
-   "posted": "2026-11-22T16:24:25+00:00"
-  },
-  {
-   "id": "5affc27a842f",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the GO competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=Qeu1HY4ysck",
-   "image": "https://i.ytimg.com/vi/Qeu1HY4ysck/hqdefault.jpg",
-   "posted": "2026-11-22T16:22:13+00:00"
-  },
-  {
-   "id": "9aa0320716c2",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 2 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=Jc4obO596C0",
-   "image": "https://i.ytimg.com/vi/Jc4obO596C0/hqdefault.jpg",
-   "posted": "2026-11-22T16:20:25+00:00"
-  },
-  {
-   "id": "cb03b7550956",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 1 | 2027 Stuttgart Pokémon Regional Championships",
-   "summary": "Tune in to catch Day 1 of all of the VGC competition taking place at the 2027 Stuttgart Pokémon Regional Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=FkNx8YQBZKU",
-   "image": "https://i.ytimg.com/vi/FkNx8YQBZKU/hqdefault.jpg",
-   "posted": "2026-11-22T16:17:21+00:00"
-  },
-  {
-   "id": "83d264efcec8",
-   "date_ok": true,
-   "seeded": true,
-   "title": "VGC Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the VGC competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=ezA58GqG5yE",
-   "image": "https://i.ytimg.com/vi/ezA58GqG5yE/hqdefault.jpg",
-   "posted": "2026-11-22T00:16:28+00:00"
-  },
-  {
-   "id": "4d6b7d3c995e",
-   "date_ok": true,
-   "seeded": true,
-   "title": "TCG Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all the TCG competition taking place at the 2027 Pokémon Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=A1hiu90JaL0",
-   "image": "https://i.ytimg.com/vi/A1hiu90JaL0/hqdefault.jpg",
-   "posted": "2026-11-22T00:11:03+00:00"
-  },
-  {
-   "id": "f69b9bb4e528",
-   "date_ok": true,
-   "seeded": true,
-   "title": "GO Day 2 | 2027 Pokémon Latin America International Championships",
-   "summary": "Tune in to catch Day 2 of all of the GO competition taking place at the 2027 Latin America International Championships!",
-   "lang": "en",
-   "source": "Pokémon",
-   "url": "https://www.youtube.com/watch?v=X2PMxtbUJuE",
-   "image": "https://i.ytimg.com/vi/X2PMxtbUJuE/hqdefault.jpg",
-   "posted": "2026-11-21T21:40:04+00:00"
   }
  ],
  "raw_tech": [
@@ -11509,9 +11425,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
@@ -12199,9 +12112,6 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
-   "code": "LENOVOBIGHOLIDAY",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -12220,8 +12130,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=713dd1fceaf911f1ae656afea91dca02&au=435d5cec3e8b42a38980baa992a792b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T07:00:49+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1e25ff5ceafa11f1ad6de6613c765ab0&au=105a3a44e01747d8a5a73a589973f094&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T07:05:39+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -14593,8 +14503,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7274717aeaf911f188b4028fa371275a&au=8e6d41a38e0146fcb36726c140be6437&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T07:00:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5593f6eafa11f1a2330671046e5813&au=e9d5c20a97a94fc6aa6fb60405a77b2a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T07:05:41+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -14971,8 +14881,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=740d3a58eaf911f1ba14de075a7c8cdb&au=be87ed0829d04626a92d6c9f6db17d39&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T07:00:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=208a1c9ceafa11f1adbf0671046e5813&au=0c856215ef044230aa54118142a7c00b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T07:05:44+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -16305,7 +16215,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "LENOVOBIGHOLIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16322,8 +16232,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=713dd1fceaf911f1ae656afea91dca02&au=435d5cec3e8b42a38980baa992a792b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=713dd1fceaf911f1ae656afea91dca02&au=435d5cec3e8b42a38980baa992a792b4&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1e25ff5ceafa11f1ad6de6613c765ab0&au=105a3a44e01747d8a5a73a589973f094&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1e25ff5ceafa11f1ad6de6613c765ab0&au=105a3a44e01747d8a5a73a589973f094&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16339,7 +16249,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=713dd1fceaf911f1ae656afea91dca02&au=435d5cec3e8b42a38980baa992a792b4&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=1e25ff5ceafa11f1ad6de6613c765ab0&au=105a3a44e01747d8a5a73a589973f094&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18335,8 +18245,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7274717aeaf911f188b4028fa371275a&au=8e6d41a38e0146fcb36726c140be6437&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7274717aeaf911f188b4028fa371275a&au=8e6d41a38e0146fcb36726c140be6437&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5593f6eafa11f1a2330671046e5813&au=e9d5c20a97a94fc6aa6fb60405a77b2a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5593f6eafa11f1a2330671046e5813&au=e9d5c20a97a94fc6aa6fb60405a77b2a&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18352,7 +18262,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=7274717aeaf911f188b4028fa371275a&au=8e6d41a38e0146fcb36726c140be6437&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=1f5593f6eafa11f1a2330671046e5813&au=e9d5c20a97a94fc6aa6fb60405a77b2a&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18680,8 +18590,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=740d3a58eaf911f1ba14de075a7c8cdb&au=be87ed0829d04626a92d6c9f6db17d39&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=740d3a58eaf911f1ba14de075a7c8cdb&au=be87ed0829d04626a92d6c9f6db17d39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=208a1c9ceafa11f1adbf0671046e5813&au=0c856215ef044230aa54118142a7c00b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=208a1c9ceafa11f1adbf0671046e5813&au=0c856215ef044230aa54118142a7c00b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18697,7 +18607,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=740d3a58eaf911f1ba14de075a7c8cdb&au=be87ed0829d04626a92d6c9f6db17d39&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=208a1c9ceafa11f1adbf0671046e5813&au=0c856215ef044230aa54118142a7c00b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18837,5 +18747,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T07:01:57+00:00"
+ "updated": "2026-11-28T07:06:51+00:00"
 }
