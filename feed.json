@@ -16,13 +16,13 @@
    "refurb": false,
    "code": "VIPNOVTAKE8",
    "code_until": null,
-   "checked_at": "2026-11-28T03:18:44+00:00",
-   "category_ok": true,
-   "real_price": 17.48,
-   "real_old": 49.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20423538&pno=1376811&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=6a8c04c4eada11f18ab2a266fecb381a&au=9a279d45ca594970a90f8f53cacad367&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T03:18:44+00:00",
+   "real_price": 17.48,
+   "real_old": 49.99,
+   "category_ok": true
   },
   {
    "id": "55e82329dc52",
@@ -11290,6 +11290,24 @@
    "real_old": 998.75
   },
   {
+   "id": "t82c2b0a51e6",
+   "title": "Prime: 4-Pk 1-Kg SUNLU 1.75mm PETG 3D Printer Filament (Black) + 800g PP (White) $37 + Free S&H",
+   "price": 36.99,
+   "old_price": 46.89,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385366-prime-4-pack-sunlu-1-75mm-petg-3d-printer-filament-1kg-spool-black-36-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22558548.thumb",
+   "posted": "2026-11-28T03:20:50+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T03:24:14+00:00",
+   "real_price": 36.99,
+   "real_old": 46.89,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385366&pno=1376817&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f5e725aeadb11f1ba915ad830de0205&au=2b59050faf7e4826888f4f368abdb012&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t053e01eef18",
    "title": "Milwaukee M18 2848-20 Compact Tire Inflator (Tool Only) $112 + Free S&H w/ Prime",
    "price": 111.99,
@@ -11364,10 +11382,10 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&tid=20424045&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2d15e2eada11f18cdeda8fb8fa6b18&au=bfbf674db0524338b5eb83c7820f47ca&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T03:19:39+00:00",
    "real_price": 53.99,
-   "real_old": 179.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&tid=20424045&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2d15e2eada11f18cdeda8fb8fa6b18&au=bfbf674db0524338b5eb83c7820f47ca&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.99
   },
   {
    "id": "tbed0c874995",
@@ -11547,6 +11565,9 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "code": "LENOVOBIGHOLIDAY",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -11565,8 +11586,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=8cf06712eada11f1aa887648c62ca98a&au=40514471d9b14bf3968fbae1636028b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:19:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=308664bceadb11f19afda20d4ef14f30&au=43dcff50df0b4b96860b763fbb0be456&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:24:16+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -14133,8 +14154,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e6aceb6eada11f1875e2aedf7c66a89&au=eda1ac89e1c34490a288c1cca5b60483&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:19:44+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=31e09f44eadb11f18c9ba20d4ef14f30&au=a06949589e194b27a60bdd979a02aa39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:24:18+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14240,9 +14261,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "O0BEGB2B",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:36:26+00:00",
    "real_price": 19.79,
@@ -14923,8 +14941,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=8fb3d998eada11f1b81176c631ca5380&au=ec65037d79174cda9812f20c49d438e7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T03:19:46+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=332fb2e0eadb11f1b83452720ea1455f&au=a0624ef6a5cb4e6ebb458cc354a3037e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T03:24:20+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15720,27 +15738,36 @@
    "refurb": false,
    "checked_at": "2026-11-27T13:27:09+00:00",
    "real_price": 69.0
-  },
-  {
-   "id": "t4bcdb91ba6a",
-   "title": "Timekettle LiveTalk AI Real-Time Translation Earbuds, Open-Ear, 54 languages/108 accents (White) $94",
-   "price": 94.0,
-   "old_price": 139.0,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20415333-timekettle-livetalk-ai-real-time-translation-earbuds-open-ear-54-languages-108-accents-white-94?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22635240.thumb",
-   "posted": "2026-11-27T12:08:49+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415333&tid=20415333&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f6be4680ea6411f1a7259697f435d42e&au=86bdc5fd4184465497a7196c852c54a9&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:17:58+00:00",
-   "real_price": 94.0,
-   "real_old": 139.0
   }
  ],
  "tech": [
+  {
+   "id": "t82c2b0a51e6",
+   "title": "Prime: 4-Pk 1-Kg SUNLU 1.75mm PETG 3D Printer Filament (Black) + 800g PP (White) + Free S&H",
+   "price": 36.99,
+   "old_price": 46.89,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385366&pno=1376817&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f5e725aeadb11f1ba915ad830de0205&au=2b59050faf7e4826888f4f368abdb012&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385366&pno=1376817&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f5e725aeadb11f1ba915ad830de0205&au=2b59050faf7e4826888f4f368abdb012&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22558548.thumb",
+   "posted": "2026-11-28T03:20:50+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 36.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385366&pno=1376817&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=2f5e725aeadb11f1ba915ad830de0205&au=2b59050faf7e4826888f4f368abdb012&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tefac88abb5f",
    "title": "Namecheap Black Friday Deals: Domains Up to 98% Off & More",
@@ -15940,7 +15967,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "LENOVOBIGHOLIDAY",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -15957,8 +15984,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=8cf06712eada11f1aa887648c62ca98a&au=40514471d9b14bf3968fbae1636028b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=8cf06712eada11f1aa887648c62ca98a&au=40514471d9b14bf3968fbae1636028b7&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=308664bceadb11f19afda20d4ef14f30&au=43dcff50df0b4b96860b763fbb0be456&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=308664bceadb11f19afda20d4ef14f30&au=43dcff50df0b4b96860b763fbb0be456&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -15974,7 +16001,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=8cf06712eada11f1aa887648c62ca98a&au=40514471d9b14bf3968fbae1636028b7&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=308664bceadb11f19afda20d4ef14f30&au=43dcff50df0b4b96860b763fbb0be456&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18126,8 +18153,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e6aceb6eada11f1875e2aedf7c66a89&au=eda1ac89e1c34490a288c1cca5b60483&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e6aceb6eada11f1875e2aedf7c66a89&au=eda1ac89e1c34490a288c1cca5b60483&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=31e09f44eadb11f18c9ba20d4ef14f30&au=a06949589e194b27a60bdd979a02aa39&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=31e09f44eadb11f18c9ba20d4ef14f30&au=a06949589e194b27a60bdd979a02aa39&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18143,7 +18170,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=8e6aceb6eada11f1875e2aedf7c66a89&au=eda1ac89e1c34490a288c1cca5b60483&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=31e09f44eadb11f18c9ba20d4ef14f30&au=a06949589e194b27a60bdd979a02aa39&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18244,7 +18271,7 @@
    "cat_label": "Redes y accesorios",
    "refurb": false,
    "glitch": false,
-   "code": "O0BEGB2B",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18929,34 +18956,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Shokz&sdtid=20371794&tid=20371794&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=e9d80f72ea8311f19cb57631a2ced2a7&au=2d8d79ba317d45f0b5db81cf2d6bd15d&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tf922e4cb7bd",
-   "title": "XGIMI HORIZON Ultra 4K Dual Light LED+Laser Projector + Free S&H",
-   "price": 849.0,
-   "old_price": 1699.0,
-   "store": "Wellbots",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wellbots&sdtid=20329416&tid=20329416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=74762ba4ea9411f19876c2641e697747&au=b5e7dc06ddab44529b2fbea1fb29ac89&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wellbots&sdtid=20329416&tid=20329416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=74762ba4ea9411f19876c2641e697747&au=b5e7dc06ddab44529b2fbea1fb29ac89&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22405488.thumb",
-   "posted": "2026-11-27T14:00:39+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": "BF320",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Wellbots",
-     "price": 849.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wellbots&sdtid=20329416&tid=20329416&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=74762ba4ea9411f19876c2641e697747&au=b5e7dc06ddab44529b2fbea1fb29ac89&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T03:20:36+00:00"
+ "updated": "2026-11-28T03:25:13+00:00"
 }
