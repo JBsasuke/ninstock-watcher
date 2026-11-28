@@ -1576,7 +1576,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f80a6898e9c911f1893aa27f351ed2dc&au=25999e62060c416987cf6adec9c9ead2&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:59:47+00:00",
+   "checked_at": "2026-11-28T01:03:04+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -1597,7 +1597,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20407476&tid=20407476&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=f922d76ae9c911f1a129768b21fc55b0&au=1752370671c84b7793475c1106598b2d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:59:49+00:00",
+   "checked_at": "2026-11-28T01:03:06+00:00",
    "real_price": 87.99,
    "real_old": 109.99,
    "category_ok": true
@@ -11340,6 +11340,45 @@
    "real_old": 998.75
   },
   {
+   "id": "t50cb6c2de5a",
+   "title": "Apple MacBook Pro Laptop: M6, 14.2\" 3024x1964, 32GB RAM, 1TB SSD (Space Black) $2099 + $11.90 S&H",
+   "price": 2099.0,
+   "old_price": 2419.0,
+   "store": "B&H Photo Video",
+   "url": "https://slickdeals.net/f/20421294-apple-14-macbook-pro-w-m6-12-core-32gb-ram-1tb-ssd-space-black-2099-11-90-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22649733.thumb",
+   "posted": "2026-11-28T01:02:44+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-28T01:03:59+00:00",
+   "real_price": 2099.0,
+   "real_old": 2419.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421294&pno=1376691&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=980fcbdceac711f1bd9a124c5ab3ec83&au=b55f3a20f2374858a9d6e77caa68f5eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t39cca7663a3",
+   "title": "Gigabyte B550M Gaming X WiFi 6 AM4 Micro ATX Motherboard $80 + Free S&H",
+   "price": 79.99,
+   "old_price": 154.99,
+   "store": "Newegg",
+   "url": "https://slickdeals.net/f/20383521-gigabyte-b550m-gaming-x-wifi6-am4-amd-b550-ddr4-micro-atx-motherboard-79-99-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/4/1/0/9/7/300x300/22554867.thumb",
+   "posted": "2026-11-28T01:02:25+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "code": "BFEF199",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T01:04:01+00:00",
+   "real_price": 79.99,
+   "real_old": 154.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20383521&pno=1376694&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99375782eac711f1a971a6d3fdb77cdd&au=3bfbbcdde758429e8ad2b7b480ad18b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t5c515988a20",
    "title": "Certified Open Box: 32\" Samsung Odyssey G5 1440p QHD 165Hz Curved Gaming Monitor $85.50 + Free S&H",
    "price": 85.49,
@@ -11359,6 +11398,27 @@
    "real_price": 85.49,
    "real_old": 349.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f0c056d0eac611f1a5962a6799079e4a&au=2c09094d67de465183c38e69c2872d6d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
+   "id": "t0ee535b707c",
+   "title": "Certified Open Box: 32\" Samsung Odyssey G5 1440p QHD 165Hz Curved Monitor $85.50 + Free S&H",
+   "price": 85.49,
+   "old_price": 349.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20422908-certified-open-box-32-samsung-odyssey-g5-1440p-qhd-165hz-curved-monitor-85-50-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/7/8/9/4/3/300x300/22653750.thumb",
+   "posted": "2026-11-28T00:57:27+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": true,
+   "code": "LVFLSHDWOBG902G",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T01:04:04+00:00",
+   "real_price": 85.49,
+   "real_old": 349.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "tc8888e9b762",
@@ -13389,8 +13449,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:59:21+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9bd9b9f8eac711f1879fa6d3fdb77cdd&au=2a4209f259a64d6b930f85ac03ea90cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:04:06+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14123,8 +14183,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f36d3bdceac611f180602ee9ad60b9a3&au=514035cfa5f04cd89ce51c05d2f579cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:59:24+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9d0e70caeac711f18ab6e6cdd85f2805&au=40c6c4833c554ed78f7101de8cfeee15&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:04:08+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14659,6 +14719,27 @@
    "checked_at": "2026-11-27T14:29:08+00:00",
    "real_price": 295.9,
    "real_old": 429.0
+  },
+  {
+   "id": "t62c2f32bdad",
+   "title": "FIREBAT AM02 Ryzen 5 6600H Mini PC 16GB RAM 512GB SSD $280.40 + Free Shipping",
+   "price": 280.4,
+   "old_price": 409.0,
+   "store": "AliExpress",
+   "url": "https://slickdeals.net/f/20415702-firebat-am02-ryzen-5-6600h-mini-pc-16gb-ram-512gb-ssd-280-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22636383.thumb",
+   "posted": "2026-11-27T13:06:23+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "code": "USBF56",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T01:04:10+00:00",
+   "real_price": 280.4,
+   "real_old": 409.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20415702&tid=20415702&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9e540986eac711f186a24211b0272df1&au=53566a4c60b8460c9b5f5d7d513710ce&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t82621f4620b",
@@ -15314,8 +15395,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f4c1773ceac611f1b7a44a176192eba0&au=7bfe80717cf6404b843131f92d19243d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:59:26+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=9f735196eac711f1ac7f5671f30bb641&au=0c7dd65835f44229b292f6601695440f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:04:13+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15667,6 +15748,9 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "code": "BFDEAL8",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -15710,81 +15794,63 @@
    "checked_at": "2026-11-27T17:31:50+00:00",
    "real_price": 149.99,
    "real_old": 249.99
-  },
-  {
-   "id": "t767ffa557e7",
-   "title": "RYOBI 40V Cordless Battery 12 in. String Trimmer and 475 CFM 120 MPH Blower Combo Kit with 4.0 Ah Battery and Charger $149",
-   "price": 149.0,
-   "old_price": 229.0,
-   "store": "Home Depot",
-   "url": "https://slickdeals.net/f/20414085-ryobi-40v-cordless-battery-12-in-string-trimmer-and-475-cfm-120-mph-blower-combo-kit-with-4-0-ah-battery-and-charger-149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/9/9/5/2/5/2/300x300/22631760.thumb",
-   "posted": "2026-11-27T08:50:04+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Home+Depot&sdtid=20414085&tid=20414085&prop=diavail-true%7Cdincp-1%7Cdinpd-1%7Cdipgavail-true&pv=df5fba22ea6a11f1b95106aff60aa6df&au=66ff6aaacfc74a1f95e865f0fb195589&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:00:16+00:00",
-   "real_price": 149.0,
-   "real_old": 229.0
-  },
-  {
-   "id": "t4596760668d",
-   "title": "Cuisinart Griddler Indoor Contact Grill & Panini Press $39.95 + Free Shipping",
-   "price": 39.95,
-   "old_price": 59.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414073-cuisinart-griddler-indoor-contact-grill-panini-press-39-95-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/0/4/6/9/4/2/0/300x300/22631688.thumb",
-   "posted": "2026-11-27T08:49:32+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414073&tid=20414073&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=db02d94eea8511f1bdbba671f2d0a7f8&au=12bef4b2bf3144c696134c7200d762a6&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T17:13:25+00:00",
-   "real_price": 39.95,
-   "real_old": 59.95
-  },
-  {
-   "id": "t11151c34e20",
-   "title": "55\" TCL F8D Series 4K QLED Smart Fire TV w/ 144Hz (55F8D) $339.99 + Free Shipping",
-   "price": 339.99,
-   "old_price": 449.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414043-55-tcl-f8d-series-4k-qled-smart-fire-tv-w-144hz-55f8d-339-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/22631544.thumb",
-   "posted": "2026-11-27T08:46:41+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414043&tid=20414043&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=8b2b0d0aea9511f1bb2e72d7dca52f8f&au=977de9ed21bd47729bef5f2963a0ec41&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T19:05:44+00:00",
-   "real_price": 339.99,
-   "real_old": 449.99
-  },
-  {
-   "id": "t56081418c10",
-   "title": "Logitech G502 X Wired Optical Gaming Mouse (White) $39.99 + Free Shipping",
-   "price": 39.99,
-   "old_price": 99.99,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414034-logitech-g502-x-wired-optical-gaming-mouse-white-39-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22631532.thumb",
-   "posted": "2026-11-27T08:46:12+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "checked_at": "2026-11-27T13:22:38+00:00",
-   "real_price": 39.99,
-   "real_old": 99.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414034&tid=20414034&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=9d5cc016ea6511f19b2922a3727f3824&au=519cf2309d6740cb8b2c0253a95c9987&action_source=Deal+Details+-+Sticky+Bar+CTA"
   }
  ],
  "tech": [
+  {
+   "id": "t50cb6c2de5a",
+   "title": "Apple MacBook Pro Laptop: M6, 14.2\" 3024x1964, 32GB RAM, 1TB SSD (Space Black) + S&H",
+   "price": 2099.0,
+   "old_price": 2419.0,
+   "store": "B&H Photo Video",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421294&pno=1376691&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=980fcbdceac711f1bd9a124c5ab3ec83&au=b55f3a20f2374858a9d6e77caa68f5eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421294&pno=1376691&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=980fcbdceac711f1bd9a124c5ab3ec83&au=b55f3a20f2374858a9d6e77caa68f5eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/7/4/7/9/3/300x300/22649733.thumb",
+   "posted": "2026-11-28T01:02:44+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "B&H Photo Video",
+     "price": 2099.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421294&pno=1376691&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-false&pv=980fcbdceac711f1bd9a124c5ab3ec83&au=b55f3a20f2374858a9d6e77caa68f5eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t39cca7663a3",
+   "title": "Gigabyte B550M Gaming X WiFi 6 AM4 Micro ATX Motherboard + Free S&H",
+   "price": 79.99,
+   "old_price": 154.99,
+   "store": "Newegg",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20383521&pno=1376694&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99375782eac711f1a971a6d3fdb77cdd&au=3bfbbcdde758429e8ad2b7b480ad18b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20383521&pno=1376694&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99375782eac711f1a971a6d3fdb77cdd&au=3bfbbcdde758429e8ad2b7b480ad18b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/0/4/4/1/0/9/7/300x300/22554867.thumb",
+   "posted": "2026-11-28T01:02:25+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": "BFEF199",
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Newegg",
+     "price": 79.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20383521&pno=1376694&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=99375782eac711f1a971a6d3fdb77cdd&au=3bfbbcdde758429e8ad2b7b480ad18b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "tc8888e9b762",
    "title": "55\" TCL QM6K QLED Mini LED 4K HDR 144Hz Smart Google TV & More + Free S&H",
@@ -17588,8 +17654,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9bd9b9f8eac711f1879fa6d3fdb77cdd&au=2a4209f259a64d6b930f85ac03ea90cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9bd9b9f8eac711f1879fa6d3fdb77cdd&au=2a4209f259a64d6b930f85ac03ea90cd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17605,7 +17671,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=9bd9b9f8eac711f1879fa6d3fdb77cdd&au=2a4209f259a64d6b930f85ac03ea90cd&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18958,61 +19024,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20412705&pno=1376142&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=04ec25c8ea5711f19f13aa31003c7c77&au=86e0b39805d1491bb166b66bc04a12b5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tfcd6788530d",
-   "title": "[Prime] : ARRMA Typhon GROM 4X4 223S BLX Brushless RC Buggy, RTR, Blue | Small Scale, DSC, Battery & Charger Included, ARA2306ST2",
-   "price": 199.49,
-   "old_price": 249.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415036&tid=20415036&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fa21a6a0ea6411f196b1b6cffcffbe5c&au=e0ff6b1bee3542d18e42e3672a5d8bf4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415036&tid=20415036&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fa21a6a0ea6411f196b1b6cffcffbe5c&au=e0ff6b1bee3542d18e42e3672a5d8bf4&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22634583.thumb",
-   "posted": "2026-11-27T11:21:50+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 199.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415036&tid=20415036&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=fa21a6a0ea6411f196b1b6cffcffbe5c&au=e0ff6b1bee3542d18e42e3672a5d8bf4&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t313968ba1b5",
-   "title": "Razer Kraken v4 X Wired Chroma RGB Gaming Headset (My Melody Edition) + Free S&H",
-   "price": 19.99,
-   "old_price": 109.99,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&pno=1376136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=643627e8ea5411f1b8a4dace3db5b6ef&au=6e4da96373a74a3b9ff5d7caaa283457&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&pno=1376136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=643627e8ea5411f1b8a4dace3db5b6ef&au=6e4da96373a74a3b9ff5d7caaa283457&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/22634436.thumb",
-   "posted": "2026-11-27T11:15:09+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": "BIGFRIDAY",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 19.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20412501&pno=1376136&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=643627e8ea5411f1b8a4dace3db5b6ef&au=6e4da96373a74a3b9ff5d7caaa283457&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T01:00:17+00:00"
+ "updated": "2026-11-28T01:04:54+00:00"
 }
