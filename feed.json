@@ -2721,7 +2721,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20403063&tid=20403063&prop=diavail-true%7Cdincp-0%7Cdinpd-13%7Cdipgavail-true&pv=ab5b21cae98011f1b75c7af4fef1c802&au=cd3a9572591d48378ea4f4c5bed43fab&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T04:19:08+00:00",
+   "checked_at": "2026-11-28T10:23:20+00:00",
    "real_price": 15.0,
    "real_old": 39.99,
    "category_ok": true
@@ -3210,7 +3210,7 @@
    "category_ok": true
   }
  ],
- "deku_checked": "2026-11-28T09:19:52+00:00",
+ "deku_checked": "2026-11-28T10:23:21+00:00",
  "deals": [
   {
    "id": "5f8dd18e5ec0",
@@ -8455,7 +8455,7 @@
      "url": "https://www.target.com/p/-/A-1012539829"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "CAPCOM",
    "digital": {
@@ -8502,7 +8502,7 @@
      "url": "https://www.walmart.com/ip/21254752741"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Arc Games",
    "digital": {
@@ -8533,7 +8533,7 @@
      "url": "https://www.gamestop.com/products/dave-the-diver-complete-edition/444293.html"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": false
@@ -8549,7 +8549,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "LiTMUS",
    "digital": {
@@ -8591,7 +8591,7 @@
      "url": "https://www.target.com/p/-/A-1012070917"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -8628,12 +8628,17 @@
      "url": "https://www.target.com/p/-/A-1012539313"
     },
     {
+     "store": "Amazon",
+     "price": 49.96,
+     "url": "https://www.amazon.com/dp/B0H7ZC7LSF"
+    },
+    {
      "store": "GameStop",
      "price": 49.99,
      "url": "https://www.gamestop.com/products/the-crew-motorfest/448804.html"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Ubisoft",
    "digital": {
@@ -8654,7 +8659,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "digital": null,
    "game_key": true,
@@ -8677,7 +8682,7 @@
      "url": "https://www.amazon.com/dp/B0HN4W45QG"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "D3PUBLISHER",
    "digital": {
@@ -8714,7 +8719,7 @@
      "url": "https://www.walmart.com/ip/21119362877"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Nacon",
    "digital": {
@@ -8756,7 +8761,7 @@
      "url": "https://www.target.com/p/-/A-1014334839"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Saber Interactive Incorporated",
    "digital": {
@@ -8777,7 +8782,7 @@
    "release_date": "2026-10-08",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Bandai Namco Entertainment",
    "digital": {
@@ -8824,7 +8829,7 @@
      "url": "https://www.gamestop.com/products/disney-epic-mickey-rebrushed/405268.html"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "THQ Nordic",
    "digital": {
@@ -8871,7 +8876,7 @@
      "url": "https://www.target.com/p/-/A-1010889314"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Outright Games",
    "digital": {
@@ -8892,7 +8897,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Sting",
    "digital": {
@@ -8933,7 +8938,7 @@
      "url": "https://www.target.com/p/-/A-1012616001"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -8954,7 +8959,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -8975,7 +8980,7 @@
    "release_date": "2026-10-01",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "KOEI TECMO AMERICA",
    "digital": {
@@ -9017,7 +9022,7 @@
      "url": "https://www.target.com/p/-/A-1012616000"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "SQUARE ENIX",
    "digital": {
@@ -9064,7 +9069,7 @@
      "url": "https://www.walmart.com/ip/21239622580"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Aspyr",
    "digital": {
@@ -9085,7 +9090,7 @@
    "release_date": "2026-09-29",
    "collector": false,
    "offers": [],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9132,7 +9137,7 @@
      "url": "https://www.target.com/p/-/A-1011984171"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-13T14:38:54+00:00",
    "publisher": "Mojang",
    "digital": {
@@ -9184,7 +9189,7 @@
      "url": "https://www.target.com/p/-/A-1012015062"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Nintendo",
    "digital": {
@@ -9215,7 +9220,7 @@
      "url": "https://www.gamestop.com/products/absolum/445287.html"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "Dotemu",
    "digital": {
@@ -9256,7 +9261,7 @@
      "url": "https://www.gamestop.com/products/trails-in-the-sky-2nd-chapter/444221.html"
     }
    ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "publisher": "GungHo America",
    "digital": {
@@ -9275,14 +9280,8 @@
    "release": "September 17, 2026",
    "release_date": "2026-09-17",
    "collector": false,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 142.02,
-     "url": "https://www.amazon.com/dp/B0H4P4KZ6Q"
-    }
-   ],
-   "offers_checked": "2026-11-28T04:10:35+00:00",
+   "offers": [],
+   "offers_checked": "2026-11-28T10:23:38+00:00",
    "first_seen": "2026-11-12T21:57:49+00:00",
    "digital": null,
    "nintendo": true
@@ -11273,6 +11272,24 @@
    "real_old": 240.0
   },
   {
+   "id": "t047d5fe8721",
+   "title": "13-in-1 Philips Norelco All-in-One 3000 Trimmer w/ Comfort Tips (Black) $19.96",
+   "price": 19.96,
+   "old_price": 24.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20426148-13-in-1-philips-norelco-all-in-one-3000-trimmer-w-comfort-tips-black-19-96?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22660464.thumb",
+   "posted": "2026-11-28T09:21:10+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-28T10:25:22+00:00",
+   "real_price": 19.96,
+   "real_old": 24.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426148&tid=20426148&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=042a5226eb1611f1879ede644629e092&au=7b8daa523a0c4cf482fd0833f335a800&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t966e26c0a13",
    "title": "Energizer 10,000mAh 22.5W Slim Power Bank w/ 4 Built-In Cables $15 + Free Pickup",
    "price": 14.99,
@@ -11987,9 +12004,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
@@ -12734,9 +12748,6 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
-   "code": "LENOVOBIGHOLIDAY",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -12773,8 +12784,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=393fc776eb1511f192f432ef86edbe11&au=ffb73338f02b4454aa761bf44997de9b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T10:19:41+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=058ee442eb1611f1a7625ab183079707&au=7312e6fe0bee406687c32a492e9b0c8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T10:25:24+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -12943,7 +12954,7 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": true,
-   "code": "NICEFIND10",
+   "code": "LVFLSHDWOBG902G",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -15164,8 +15175,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a82b35aeb1511f193ac328d45a5b6b3&au=becca7c1288a423893d0b00a5f2699a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T10:19:43+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=06ef6bc2eb1611f186381e99f8517841&au=0cbc11ac185845128b137d9c402ff1b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T10:25:26+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -15542,8 +15553,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3bb76658eb1511f19ebd0604cfe0939b&au=495d8d99f46c421fa71c1c436eb86e01&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T10:19:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0820ab50eb1611f18726ba9caf38a36a&au=71ff54ffc4a547468edf0fe6f6ad9367&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T10:25:28+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15599,24 +15610,6 @@
    "checked_at": "2026-11-27T18:23:10+00:00",
    "real_price": 24.49,
    "real_old": 39.99
-  },
-  {
-   "id": "tf2961bc8229",
-   "title": "256GB SanDisk USB-C Flash Drive + 32GB SanDisk Cruzer Blade USB 2.0 Flash Drive $36 or Less + Free S&H",
-   "price": 35.99,
-   "old_price": 53.99,
-   "store": "SanDisk",
-   "url": "https://slickdeals.net/f/20403705-sandisk-usb-c-flash-drive-256gb-as-low-as-32-39-fs-2-options?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/7/7/0/1/9/4/300x300/22607568.thumb",
-   "posted": "2026-11-27T16:38:48+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+SanDisk&sdtid=20403705&pno=1376310&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5a05d49eea8111f1a10cdad31ee91f70&au=4e68dc17e7d643d0bdb681d47a4647cb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:41:11+00:00",
-   "real_price": 35.99,
-   "real_old": 53.99
   }
  ],
  "tech": [
@@ -15644,6 +15637,33 @@
      "store": "Amazon",
      "price": 34.09,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20359452&pno=1377066&prop=diavail-true%7Cdincp-0%7Cdinpd-7%7Cdipgavail-true&pv=4dd9bc34eb1311f1bc2fba9caf38a36a&au=ca6c8c270de64ff581c44ac5438668c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t047d5fe8721",
+   "title": "13-in-1 Philips Norelco All-in-One 3000 Trimmer",
+   "price": 19.96,
+   "old_price": 24.99,
+   "store": "Amazon",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426148&tid=20426148&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=042a5226eb1611f1879ede644629e092&au=7b8daa523a0c4cf482fd0833f335a800&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426148&tid=20426148&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=042a5226eb1611f1879ede644629e092&au=7b8daa523a0c4cf482fd0833f335a800&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22660464.thumb",
+   "posted": "2026-11-28T09:21:10+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Amazon",
+     "price": 19.96,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426148&tid=20426148&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=042a5226eb1611f1879ede644629e092&au=7b8daa523a0c4cf482fd0833f335a800&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16710,7 +16730,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "LENOVOBIGHOLIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16754,8 +16774,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=393fc776eb1511f192f432ef86edbe11&au=ffb73338f02b4454aa761bf44997de9b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=393fc776eb1511f192f432ef86edbe11&au=ffb73338f02b4454aa761bf44997de9b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=058ee442eb1611f1a7625ab183079707&au=7312e6fe0bee406687c32a492e9b0c8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=058ee442eb1611f1a7625ab183079707&au=7312e6fe0bee406687c32a492e9b0c8b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16771,7 +16791,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=393fc776eb1511f192f432ef86edbe11&au=ffb73338f02b4454aa761bf44997de9b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=058ee442eb1611f1a7625ab183079707&au=7312e6fe0bee406687c32a492e9b0c8b&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18740,8 +18760,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a82b35aeb1511f193ac328d45a5b6b3&au=becca7c1288a423893d0b00a5f2699a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a82b35aeb1511f193ac328d45a5b6b3&au=becca7c1288a423893d0b00a5f2699a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=06ef6bc2eb1611f186381e99f8517841&au=0cbc11ac185845128b137d9c402ff1b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=06ef6bc2eb1611f186381e99f8517841&au=0cbc11ac185845128b137d9c402ff1b6&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18757,7 +18777,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=3a82b35aeb1511f193ac328d45a5b6b3&au=becca7c1288a423893d0b00a5f2699a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=06ef6bc2eb1611f186381e99f8517841&au=0cbc11ac185845128b137d9c402ff1b6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18814,34 +18834,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20230272&pno=1376355&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e3f9d58ea8911f1acca06ab6b8252e7&au=7bedb1abf8f24f9396ce365e5ac00fb6&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t7dca8757997",
-   "title": "4\" x 6\" Phomemo Smart Touchscreen Thermal Label Printer (Black) + Free S&H",
-   "price": 49.99,
-   "old_price": 129.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389446&pno=1376349&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=69f86914ea8811f18749eef30b7448eb&au=d0e74cf8a03e43ecb065281e44accc2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389446&pno=1376349&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=69f86914ea8811f18749eef30b7448eb&au=d0e74cf8a03e43ecb065281e44accc2b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22644276.thumb",
-   "posted": "2026-11-27T17:28:54+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": "J2BFLNAJ",
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 49.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20389446&pno=1376349&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=69f86914ea8811f18749eef30b7448eb&au=d0e74cf8a03e43ecb065281e44accc2b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T10:20:34+00:00"
+ "updated": "2026-11-28T10:26:13+00:00"
 }
