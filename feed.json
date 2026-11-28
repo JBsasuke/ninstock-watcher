@@ -1404,7 +1404,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20410077&tid=20410077&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=36c9e66ae9fe11f1931bb2013ad5615c&au=4a4320df0c2d4891ab742dafed23b327&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T19:09:24+00:00",
+   "checked_at": "2026-11-28T01:11:55+00:00",
    "real_price": 46.99,
    "real_old": 69.99,
    "category_ok": true
@@ -2087,7 +2087,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20404215&tid=20404215&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec77764ae9cb11f18f715e2324a64fc5&au=41596e04ef994eb6bfc07585ee873417&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T19:09:27+00:00",
+   "checked_at": "2026-11-28T01:11:58+00:00",
    "real_price": 17.99,
    "real_old": 39.99,
    "category_ok": true
@@ -11347,10 +11347,10 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&pno=1376700&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=6999dd64eac811f1b90efe6d6e0b40d6&au=dec3e5a32e1b4be393f9c73424693012&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:09:51+00:00",
    "real_price": 249.99,
-   "real_old": 529.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Walmart&sdtid=20392407&pno=1376700&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=6999dd64eac811f1b90efe6d6e0b40d6&au=dec3e5a32e1b4be393f9c73424693012&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 529.99
   },
   {
    "id": "t50cb6c2de5a",
@@ -11651,6 +11651,24 @@
    "checked_at": "2026-11-27T23:35:30+00:00",
    "real_price": 2072.69,
    "real_old": 3619.99
+  },
+  {
+   "id": "t46fdba3a188",
+   "title": "Turnstile Audio - Desktop Headphone Stand $6.99 + Free Shipping",
+   "price": 6.99,
+   "old_price": 15.86,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20422458-turnstile-audio-desktop-headphone-stand-6-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/1/5/9/5/0/300x300/22652085.thumb",
+   "posted": "2026-11-27T23:12:34+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-28T01:12:53+00:00",
+   "real_price": 6.99,
+   "real_old": 15.86,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20422458&tid=20422458&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d61d074aeac811f1a7284a176192eba0&au=e94dbe29491d4454af269ed9890564a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t6ae9c3fe814",
@@ -12303,6 +12321,24 @@
    "checked_at": "2026-11-27T21:07:13+00:00",
    "real_price": 2072.69,
    "real_old": 3619.99
+  },
+  {
+   "id": "t0ae71c7f1e8",
+   "title": "Lenovo ThinkPad X9 15 Aura: 15.3\" 2.8K OLED 120Hz, Intel Ultra 5 226V, 16GB LPDDR5, 512GB SSD, Win 11 Pro $899.1",
+   "price": 899.1,
+   "old_price": 1859.0,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20421102-lenovo-thinkpad-x9-15-aura-15-3-2-8k-oled-120hz-intel-ultra-5-226v-16gb-lpddr5-512gb-ssd-win-11-pro-899-1?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22649133.thumb",
+   "posted": "2026-11-27T20:40:03+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-28T01:12:55+00:00",
+   "real_price": 899.1,
+   "real_old": 1859.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421102&tid=20421102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d746af5eeac811f1b6293a10e94e529a&au=2218b15f41e144e3ba9d91f4c254a338&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "ta1ed50f689c",
@@ -13462,8 +13498,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6ab598c8eac811f18228fe6d6e0b40d6&au=ed0fe36d26924a449afaf3dd9e1d78ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T01:09:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d8868024eac811f186571e473794e67d&au=8f1ca1a176644adbaef22b1efabcd6ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:12:57+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14196,8 +14232,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=6be7c9d2eac811f19fb75ad830de0205&au=22e5472694b14fd58de0b7afa8c41f2c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T01:09:56+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=d9a1d94aeac811f1b3cf5ad830de0205&au=b2a4ded60cc74a79a97d30807ce5ad8e&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:12:59+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14990,6 +15026,9 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
+   "code": "BFF38",
+   "code_until": null,
+   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T12:06:06+00:00",
    "real_price": 399.99,
@@ -15408,8 +15447,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=6d8abce0eac811f1899e5ad830de0205&au=9447b18364cd465c8044cc13bd07ba4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T01:09:58+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=db5d60c4eac811f1bd572e3f1f9e6a98&au=fb8f117a438c413b8d57bdbff6a00e88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T01:13:02+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15747,45 +15786,6 @@
    "checked_at": "2026-11-27T16:41:23+00:00",
    "real_price": 441.73,
    "real_old": 799.99
-  },
-  {
-   "id": "tc649430fb7b",
-   "title": "GL.iNet GL-MT3000 (Beryl AX) Wi-Fi 6 Wireless Travel Gigabit Router $43 + Free S&H",
-   "price": 43.0,
-   "old_price": 89.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20260491-gl-inet-gl-mt3000-beryl-ax-wi-fi-6-travel-router-w-2-5gb-wan-vpn-49-free-s-h-49-1?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22632117.thumb",
-   "posted": "2026-11-27T08:58:25+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T08:59:27+00:00",
-   "real_price": 43.0,
-   "real_old": 89.0
-  },
-  {
-   "id": "t8aabdf7ccf9",
-   "title": "Jackery HomePower 3600 Plus 3584Wh 3600W Power Station with 102W Charger $987 + Free Shipping",
-   "price": 987.0,
-   "old_price": 1429.0,
-   "store": "AliExpress",
-   "url": "https://slickdeals.net/f/20414139-jackery-homepower-3600-plus-3584wh-3600w-power-station-with-102w-charger-987-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/6/7/7/8/5/5/300x300/22632042.thumb",
-   "posted": "2026-11-27T08:56:01+00:00",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "prio": 7,
-   "refurb": false,
-   "code": "JJX180G",
-   "code_until": null,
-   "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20414139&tid=20414139&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=83f9a548ea6b11f1a376260667662394&au=b6c51a3bf00b48fa9734a2f4833c2f5d&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T14:04:52+00:00",
-   "real_price": 987.0,
-   "real_old": 1429.0
   }
  ],
  "tech": [
@@ -16083,6 +16083,33 @@
      "store": "Lenovo",
      "price": 2072.69,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421147&pno=1376586&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=3b17056eeabb11f1973c52720ea1455f&au=062b7eb9061f4075be8cb6265e9a6d46&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t46fdba3a188",
+   "title": "Turnstile Audio - Desktop Headphone Stand",
+   "price": 6.99,
+   "old_price": 15.86,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20422458&tid=20422458&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d61d074aeac811f1a7284a176192eba0&au=e94dbe29491d4454af269ed9890564a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20422458&tid=20422458&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d61d074aeac811f1a7284a176192eba0&au=e94dbe29491d4454af269ed9890564a5&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/9/1/5/9/5/0/300x300/22652085.thumb",
+   "posted": "2026-11-27T23:12:34+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 6.99,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20422458&tid=20422458&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d61d074aeac811f1a7284a176192eba0&au=e94dbe29491d4454af269ed9890564a5&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16725,6 +16752,33 @@
      "store": "Lenovo",
      "price": 2072.69,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421147&tid=20421147&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=849d8c54eaa611f188cf0aaca8a2385c&au=4120205bc882483098fce7be65b3a41a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t0ae71c7f1e8",
+   "title": "Lenovo ThinkPad X9 15 Aura: 15.3\" 2.8K OLED 120Hz, Intel Ultra 5 226V, 16GB LPDDR5, 512GB SSD, Win 11 Pro",
+   "price": 899.1,
+   "old_price": 1859.0,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421102&tid=20421102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d746af5eeac811f1b6293a10e94e529a&au=2218b15f41e144e3ba9d91f4c254a338&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421102&tid=20421102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d746af5eeac811f1b6293a10e94e529a&au=2218b15f41e144e3ba9d91f4c254a338&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22649133.thumb",
+   "posted": "2026-11-27T20:40:03+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 899.1,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421102&tid=20421102&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d746af5eeac811f1b6293a10e94e529a&au=2218b15f41e144e3ba9d91f4c254a338&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17673,8 +17727,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6ab598c8eac811f18228fe6d6e0b40d6&au=ed0fe36d26924a449afaf3dd9e1d78ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6ab598c8eac811f18228fe6d6e0b40d6&au=ed0fe36d26924a449afaf3dd9e1d78ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d8868024eac811f186571e473794e67d&au=8f1ca1a176644adbaef22b1efabcd6ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d8868024eac811f186571e473794e67d&au=8f1ca1a176644adbaef22b1efabcd6ee&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17690,7 +17744,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=6ab598c8eac811f18228fe6d6e0b40d6&au=ed0fe36d26924a449afaf3dd9e1d78ee&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d8868024eac811f186571e473794e67d&au=8f1ca1a176644adbaef22b1efabcd6ee&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18898,7 +18952,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": null,
+   "code": "BFF38",
    "code_until": null,
    "promo": null,
    "offers": [
@@ -18962,61 +19016,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Newegg&sdtid=20415168&tid=20415168&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=403d13d0ea6611f1a164061f213a4eaa&au=63f00b7069484b489777d21c37480c04&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "ta7e95b4804d",
-   "title": ": [Prime] ARRMA Mojave GROM 4X4 223S BLX Brushless Desert Truck RTR, Black, Battery and Charger Not Included",
-   "price": 195.49,
-   "old_price": 229.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22634946.thumb",
-   "posted": "2026-11-27T11:36:21+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "net",
-   "cat_label": "Redes y accesorios",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 195.49,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415144&tid=20415144&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=5198552eea6411f19d6106ecec98d645&au=74e3a03bd6184d11b8a972bfc33141aa&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
-  },
-  {
-   "id": "t8ebd659ccfe",
-   "title": "JBL Authentics 200 - Smart Home Speaker - Black/Gold or White/Gold",
-   "price": 189.95,
-   "old_price": 379.95,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415117&tid=20415117&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=90565d28ea6f11f196bc4280db3778cb&au=f6de7601b3214392b33f8663b237917c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415117&tid=20415117&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=90565d28ea6f11f196bc4280db3778cb&au=f6de7601b3214392b33f8663b237917c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/1/4/0/3/1/6/300x300/22634832.thumb",
-   "posted": "2026-11-27T11:33:40+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 189.95,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415117&tid=20415117&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=90565d28ea6f11f196bc4280db3778cb&au=f6de7601b3214392b33f8663b237917c&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T01:10:46+00:00"
+ "updated": "2026-11-28T01:13:52+00:00"
 }
