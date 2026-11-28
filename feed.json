@@ -14,13 +14,13 @@
    "posted": "2026-11-28T11:12:33+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-28T11:16:34+00:00",
-   "category_ok": false,
-   "real_price": 49.99,
-   "real_old": 58.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426559&tid=20426559&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2bbed8dceb1d11f18cf6b668b4bdc256&au=1930bdadd3b14d76935024a2a8695b87&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T11:16:34+00:00",
+   "real_price": 49.99,
+   "real_old": 58.99,
+   "category_ok": false
   },
   {
    "id": "0cbb890f032b",
@@ -35,13 +35,13 @@
    "posted": "2026-11-28T11:12:33+00:00",
    "needs_cat": true,
    "refurb": false,
-   "checked_at": "2026-11-28T11:16:36+00:00",
-   "category_ok": false,
-   "real_price": 49.99,
-   "real_old": 58.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20426559&tid=20426559&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=2ccdf122eb1d11f18ec962d3a473f200&au=0038219eda654e1e8dcf9be5572e98cc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T11:16:36+00:00",
+   "real_price": 49.99,
+   "real_old": 58.99,
+   "category_ok": false
   },
   {
    "id": "1410ce7128b3",
@@ -11681,6 +11681,24 @@
    "real_old": 199.0
   },
   {
+   "id": "t58ad8391a13",
+   "title": "Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.0/MagSafe PowerBank, Portable Charger, 2 Outputs, LED Display, & USB-C - Black $15.19 Bestbuy.com",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "url": "https://slickdeals.net/f/20425350-energizer-10-000mah-slim-metal-20w-magnetic-wireless-qi-qi2-0-magsafe-powerbank-portable-charger-2-outputs-led-display-usb-c-black-15-19-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22658316.thumb",
+   "posted": "2026-11-28T06:12:33+00:00",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "prio": 7,
+   "refurb": false,
+   "checked_at": "2026-11-28T11:21:57+00:00",
+   "real_price": 60.0,
+   "real_old": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425350&tid=20425350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ebb8b518eb1d11f1a3c94ab5f3fe5d13&au=c7ba5e4f33434bde835546273687c809&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "td65fe0b0ff8",
    "title": "MSI Raider 16 Max HX 16\" RTX 5090 Laptop (B2WJ-002US) $2900",
    "price": 2900.0,
@@ -12885,8 +12903,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4e0ebec0eb1d11f1b4292696d86323ab&au=ededef94141d4c8681f292c2eaf6970a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T11:17:32+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ed549734eb1d11f182185a442aa07e16&au=030b25dcca894915b4199639a9ea5e0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T11:21:59+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -13055,7 +13073,7 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": true,
-   "code": "NICEFIND10",
+   "code": "LVFLSHDWOBG902G",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -15296,8 +15314,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=4f330dd8eb1d11f1a8092696d86323ab&au=246125681db949aabf6c65c6f5e3c2eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T11:17:34+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=ee6ef1faeb1d11f19ad54e9c2625dc25&au=724c48bf64d84540bc48d975c8f9a058&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T11:22:01+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -15622,24 +15640,6 @@
    "checked_at": "2026-11-27T17:08:36+00:00",
    "real_price": 2279.0,
    "real_old": 4999.0
-  },
-  {
-   "id": "t969ffab016b",
-   "title": "August Grove Anias TV Stand w/ Electric Fireplace for TVs up to 70\" (Gray) $199.99 + Free Shipping",
-   "price": 199.99,
-   "old_price": 499.99,
-   "store": "Wayfair",
-   "url": "https://slickdeals.net/f/20407545-august-grove-anias-tv-stand-w-electric-fireplace-for-tvs-up-to-70-gray-199-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22616511.thumb",
-   "posted": "2026-11-27T17:00:44+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wayfair&sdtid=20407545&tid=20407545&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ec867f2eaf011f1bab73afd3432aecc&au=68d4381f49ac4304ad7f8c96011fcd46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T05:53:39+00:00",
-   "real_price": 199.99,
-   "real_old": 499.99
   }
  ],
  "tech": [
@@ -15937,6 +15937,33 @@
      "store": "Woot!",
      "price": 6.99,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20425587&tid=20425587&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a08de816eb1211f19a9d32ef86edbe11&au=41fd2c1d2a3f459ba10f49bea71d746d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t58ad8391a13",
+   "title": "Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.0/MagSafe PowerBank, Portable Charger, 2 Outputs, LED Display, & USB-C - Black Bestbuy.com",
+   "price": 60.0,
+   "old_price": null,
+   "store": "Best Buy",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425350&tid=20425350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ebb8b518eb1d11f1a3c94ab5f3fe5d13&au=c7ba5e4f33434bde835546273687c809&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425350&tid=20425350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ebb8b518eb1d11f1a3c94ab5f3fe5d13&au=c7ba5e4f33434bde835546273687c809&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/1/8/2/8/3/4/300x300/22658316.thumb",
+   "posted": "2026-11-28T06:12:33+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "net",
+   "cat_label": "Redes y accesorios",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Best Buy",
+     "price": 60.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20425350&tid=20425350&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ebb8b518eb1d11f1a3c94ab5f3fe5d13&au=c7ba5e4f33434bde835546273687c809&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16858,8 +16885,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4e0ebec0eb1d11f1b4292696d86323ab&au=ededef94141d4c8681f292c2eaf6970a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4e0ebec0eb1d11f1b4292696d86323ab&au=ededef94141d4c8681f292c2eaf6970a&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ed549734eb1d11f182185a442aa07e16&au=030b25dcca894915b4199639a9ea5e0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ed549734eb1d11f182185a442aa07e16&au=030b25dcca894915b4199639a9ea5e0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16875,7 +16902,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4e0ebec0eb1d11f1b4292696d86323ab&au=ededef94141d4c8681f292c2eaf6970a&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=ed549734eb1d11f182185a442aa07e16&au=030b25dcca894915b4199639a9ea5e0c&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18831,34 +18858,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419215&tid=20419215&prop=diavail-true%7Cdincp-0%7Cdinpd-5%7Cdipgavail-true&pv=5914bed8eac211f1b19be2cc6d3f1ef9&au=d7cb465243274c56b7049c36cb5d617e&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "tddbaf63a722",
-   "title": "Nothing Phone 4a Pro Unlocked Smartphone (2026)",
-   "price": 397.99,
-   "old_price": 499.0,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22645053.thumb",
-   "posted": "2026-11-27T17:49:11+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tablet",
-   "cat_label": "Tablets y teléfonos",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 397.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419197&tid=20419197&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=ea7818a6eae611f199c2aa9995cf98cb&au=d02652863b9141fdb019d1be1c612398&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T11:20:04+00:00"
+ "updated": "2026-11-28T11:22:48+00:00"
 }
