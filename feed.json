@@ -229,7 +229,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423784&tid=20423784&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=d7b00a34ead311f1bd31c228c7394a2e&au=c2cf0cbaf65f4ced84c75ec9eb227149&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:31:40+00:00",
+   "checked_at": "2026-11-28T08:34:43+00:00",
    "real_price": 31.89,
    "real_old": 69.99,
    "category_ok": true
@@ -250,7 +250,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423784&tid=20423784&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=d904f89aead311f1bb0046a7b968e864&au=a1f3926daf4e4606993a7fded6d55dbf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:31:43+00:00",
+   "checked_at": "2026-11-28T08:34:44+00:00",
    "real_price": 31.89,
    "real_old": 69.99,
    "category_ok": true
@@ -11221,6 +11221,24 @@
    "real_old": 998.75
   },
   {
+   "id": "t4d11ed2e209",
+   "title": "Lenovo Yoga Slim 7x Laptop: 14\" WUXGA OLED Touch, X2P-42-100, 16GB RAM, 1TB SSD $677 + Free S&H",
+   "price": 676.8,
+   "old_price": 1499.99,
+   "store": "Lenovo",
+   "url": "https://slickdeals.net/f/20411319-lenovo-yoga-slim-7x-14-fhd-oled-touch-snapdragon-x2p-42-100-16gb-lpddr5-512gb-ssd-676-80?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22659816.thumb",
+   "posted": "2026-11-28T08:29:45+00:00",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "prio": 1,
+   "refurb": false,
+   "checked_at": "2026-11-28T08:35:37+00:00",
+   "real_price": 676.8,
+   "real_old": 1499.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20411319&pno=1377033&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=af8fd09ceb0611f1bf6f62fc08c29554&au=138beb5436014b6dba699a5869e13b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t7dbdffe62b1",
    "title": "$79.99: Echo Dot Max (newest model) stereo pair, Glacier White at Amazon",
    "price": 79.99,
@@ -11237,6 +11255,24 @@
    "checked_at": "2026-11-28T08:26:21+00:00",
    "real_price": 79.99,
    "real_old": 240.0
+  },
+  {
+   "id": "t71a5f2a8d2f",
+   "title": "$79.99: Echo Dot Max (newest model) stereo pair, Glacier (3 Colors) at Amazon",
+   "price": 79.99,
+   "old_price": 240.0,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20425749-79-99-echo-dot-max-newest-model-stereo-pair-glacier-3-colors-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22659369.thumb",
+   "posted": "2026-11-28T08:02:13+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T08:35:39+00:00",
+   "real_price": 79.99,
+   "real_old": 240.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20425749&tid=20425749&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b0d82b34eb0611f190c86afea91dca02&au=f4c394d89f2c48a7acd9c6ebfa0a7ecb&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t5daf8dc12c0",
@@ -11717,9 +11753,6 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
-   "code": "NICEFIND10",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
@@ -12464,9 +12497,6 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
-   "code": "LENOVOBIGHOLIDAY",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20421759&pno=1376730&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=61dabb2aeacd11f1b1b1a266fecb381a&au=db0de72d557643869edbd5daa6438cce&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T01:45:26+00:00",
    "real_price": 666.89,
@@ -12503,8 +12533,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=0ce19e70eb0611f19e56f22fa763bedf&au=f3498bf50a3746e0bd0c2d97f9a762fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:31:04+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b1f6a7caeb0611f18dac52d57212e344&au=2884d0150f1f417ba07590e117e45c88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:35:41+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -12673,7 +12703,7 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": true,
-   "code": "NICEFIND10",
+   "code": "LVFLSHDWOBG902G",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -14894,8 +14924,8 @@
    "code": "DTL1MVGQ",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e0bb4aceb0611f183d8de075a7c8cdb&au=7da8fbfc535e41238e4b13ba5d5ce9ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:31:06+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b329940eeb0611f1ac7e16743aef9029&au=6a4f5d27d26f4a74bab58ee4affc92eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:35:44+00:00",
    "real_price": 4.99,
    "real_old": 11.99
   },
@@ -15272,8 +15302,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0f396216eb0611f1b759a665319d4f5e&au=97fa41a19f4d479d9530d3068cbf9b6f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T08:31:08+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=b4c1122eeb0611f19b9d6afea91dca02&au=b147fe41fa7b427eb70c1d9ff96d29b3&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T08:35:46+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15379,9 +15409,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "O0BEGB2B",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20336469&pno=1376301&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=b06b94faea8011f1a10cdad31ee91f70&au=c34619036b5447fa92df2348233c7ad4&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T16:36:26+00:00",
    "real_price": 19.79,
@@ -15623,45 +15650,36 @@
    "checked_at": "2026-11-27T16:51:52+00:00",
    "real_price": 150.0,
    "real_old": 270.0
-  },
-  {
-   "id": "td012211a54d",
-   "title": "Sennheiser Momentum 4 Wireless Headphones, ANC, 60 Hr Battery, Black/Copper $149.95",
-   "price": 149.95,
-   "old_price": 199.95,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20417835-sennheiser-momentum-4-wireless-headphones-anc-60-hr-battery-black-copper-149-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/22641504.thumb",
-   "posted": "2026-11-27T15:58:25+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417835&tid=20417835&prop=diavail-true%7Cdincp-0%7Cdinpd-19%7Cdipgavail-true&pv=5b4794dcea8111f1ab0b02721794e9e4&au=224572e7b2554207a7206c1eab8e335f&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T16:41:13+00:00",
-   "real_price": 149.95,
-   "real_old": 199.95
-  },
-  {
-   "id": "t5a532cf852b",
-   "title": "Sam's Club: HP OMEN 15.3\" Laptop: Intel Core 5 210H, 16GB RAM, RTX 5050 $849",
-   "price": 849.0,
-   "old_price": 1199.0,
-   "store": "Sam's Club",
-   "url": "https://slickdeals.net/f/20404272-hp-omen-gaming-laptop-849?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/4/5/2/1/1/6/300x300/22608945.thumb",
-   "posted": "2026-11-27T15:55:15+00:00",
-   "cat": "pc",
-   "cat_label": "Computadoras",
-   "prio": 1,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Sam%27s+Club&sdtid=20404272&pno=1376283&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=5ac2181cea7b11f1aa6ad603ebb66330&au=0ff407b8463043d3bc9550da8cccc03a&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T15:58:15+00:00",
-   "real_price": 849.0,
-   "real_old": 1199.0
   }
  ],
  "tech": [
+  {
+   "id": "t4d11ed2e209",
+   "title": "Lenovo Yoga Slim 7x Laptop: 14\" WUXGA OLED Touch, X2P-42-100, 16GB RAM, 1TB SSD + Free S&H",
+   "price": 676.8,
+   "old_price": 1499.99,
+   "store": "Lenovo",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20411319&pno=1377033&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=af8fd09ceb0611f1bf6f62fc08c29554&au=138beb5436014b6dba699a5869e13b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20411319&pno=1377033&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=af8fd09ceb0611f1bf6f62fc08c29554&au=138beb5436014b6dba699a5869e13b4f&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22659816.thumb",
+   "posted": "2026-11-28T08:29:45+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "pc",
+   "cat_label": "Computadoras",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Lenovo",
+     "price": 676.8,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Lenovo&sdtid=20411319&pno=1377033&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=af8fd09ceb0611f1bf6f62fc08c29554&au=138beb5436014b6dba699a5869e13b4f&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
   {
    "id": "t5daf8dc12c0",
    "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones (White) + Free S&H",
@@ -16509,7 +16527,7 @@
    "cat_label": "Computadoras",
    "refurb": false,
    "glitch": false,
-   "code": "LENOVOBIGHOLIDAY",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -16553,8 +16571,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=0ce19e70eb0611f19e56f22fa763bedf&au=f3498bf50a3746e0bd0c2d97f9a762fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=0ce19e70eb0611f19e56f22fa763bedf&au=f3498bf50a3746e0bd0c2d97f9a762fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b1f6a7caeb0611f18dac52d57212e344&au=2884d0150f1f417ba07590e117e45c88&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b1f6a7caeb0611f18dac52d57212e344&au=2884d0150f1f417ba07590e117e45c88&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16570,7 +16588,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=0ce19e70eb0611f19e56f22fa763bedf&au=f3498bf50a3746e0bd0c2d97f9a762fc&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=b1f6a7caeb0611f18dac52d57212e344&au=2884d0150f1f417ba07590e117e45c88&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18566,8 +18584,8 @@
    "price": 4.99,
    "old_price": 11.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e0bb4aceb0611f183d8de075a7c8cdb&au=7da8fbfc535e41238e4b13ba5d5ce9ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e0bb4aceb0611f183d8de075a7c8cdb&au=7da8fbfc535e41238e4b13ba5d5ce9ec&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b329940eeb0611f1ac7e16743aef9029&au=6a4f5d27d26f4a74bab58ee4affc92eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b329940eeb0611f1ac7e16743aef9029&au=6a4f5d27d26f4a74bab58ee4affc92eb&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22644732.thumb",
    "posted": "2026-11-27T17:42:24+00:00",
    "kind": "tech",
@@ -18583,7 +18601,7 @@
     {
      "store": "Amazon",
      "price": 4.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=0e0bb4aceb0611f183d8de075a7c8cdb&au=7da8fbfc535e41238e4b13ba5d5ce9ec&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20419113&tid=20419113&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-true&pv=b329940eeb0611f1ac7e16743aef9029&au=6a4f5d27d26f4a74bab58ee4affc92eb&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18850,34 +18868,7 @@
    "code_until": null,
    "promo": "Extra 20% Off",
    "offers": []
-  },
-  {
-   "id": "t969ffab016b",
-   "title": "August Grove Anias TV Stand",
-   "price": 199.99,
-   "old_price": 499.99,
-   "store": "Wayfair",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Wayfair&sdtid=20407545&tid=20407545&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ec867f2eaf011f1bab73afd3432aecc&au=68d4381f49ac4304ad7f8c96011fcd46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wayfair&sdtid=20407545&tid=20407545&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ec867f2eaf011f1bab73afd3432aecc&au=68d4381f49ac4304ad7f8c96011fcd46&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/3/4/2/9/3/0/8/300x300/22616511.thumb",
-   "posted": "2026-11-27T17:00:44+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Wayfair",
-     "price": 199.99,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Wayfair&sdtid=20407545&tid=20407545&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=0ec867f2eaf011f1bab73afd3432aecc&au=68d4381f49ac4304ad7f8c96011fcd46&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T08:33:38+00:00"
+ "updated": "2026-11-28T08:36:33+00:00"
 }
