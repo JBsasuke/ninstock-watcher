@@ -328,7 +328,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20419977&tid=20419977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=1f23ddc2ea9411f1afbdd2b0b78dd0f5&au=9aea6087820544048bcf98d150d078bd&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:55:32+00:00",
+   "checked_at": "2026-11-28T00:58:21+00:00",
    "real_price": 9.97,
    "real_old": 44.99,
    "category_ok": true
@@ -349,7 +349,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20419977&tid=20419977&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=205dfb64ea9411f1a1ef724abf991a1f&au=93c52cd75dba4cb9a9bb09a84047a114&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:55:35+00:00",
+   "checked_at": "2026-11-28T00:58:23+00:00",
    "real_price": 9.97,
    "real_old": 44.99,
    "category_ok": true
@@ -905,7 +905,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20415270&tid=20415270&prop=diavail-true%7Cdincp-0%7Cdinpd-9%7Cdipgavail-true&pv=78c9f434ea6111f1a48bca38dce9dd3d&au=2f79ad4d760f4fb59b1da24662ff0636&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T18:55:37+00:00",
+   "checked_at": "2026-11-28T00:58:25+00:00",
    "real_price": 25.0,
    "real_old": 60.0,
    "category_ok": true
@@ -1447,10 +1447,10 @@
    "page_checked": true,
    "link_v": 3,
    "checked_at": "2026-11-28T00:53:44+00:00",
+   "expired": true,
    "real_price": 24.99,
    "real_old": 39.99,
-   "category_ok": true,
-   "expired": true
+   "category_ok": true
   },
   {
    "id": "c40a84301c78",
@@ -11340,6 +11340,27 @@
    "real_old": 998.75
   },
   {
+   "id": "t5c515988a20",
+   "title": "Certified Open Box: 32\" Samsung Odyssey G5 1440p QHD 165Hz Curved Gaming Monitor $85.50 + Free S&H",
+   "price": 85.49,
+   "old_price": 349.99,
+   "store": "eBay",
+   "url": "https://slickdeals.net/f/20422908-certified-open-box-samsung-odyssey-32-g5-qhd-curved-monitor-165hz-1000r-1ms-black-ls32cg554enxza-81?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/0/7/8/9/4/3/300x300/22653750.thumb",
+   "posted": "2026-11-28T00:57:27+00:00",
+   "cat": "monitor",
+   "cat_label": "Monitores",
+   "prio": 4,
+   "refurb": true,
+   "code": "LVFLSHDWOBG902G",
+   "code_until": null,
+   "promo": null,
+   "checked_at": "2026-11-28T00:59:19+00:00",
+   "real_price": 85.49,
+   "real_old": 349.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=f0c056d0eac611f1a5962a6799079e4a&au=2c09094d67de465183c38e69c2872d6d&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "tc8888e9b762",
    "title": "55\" TCL QM6K QLED Mini LED 4K HDR 144Hz Smart Google TV $448 & More + Free S&H",
    "price": 447.99,
@@ -12187,10 +12208,10 @@
    "cat_label": "Computadoras",
    "prio": 1,
    "refurb": false,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421174&tid=20421174&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ad4eb3ceac611f1af586aa58121650b&au=7e305f3243bf4a468862cfe2d50c7655&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T00:54:40+00:00",
    "real_price": 1229.0,
-   "real_old": 2079.0,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+B%26H+Photo+Video&sdtid=20421174&tid=20421174&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4ad4eb3ceac611f1af586aa58121650b&au=7e305f3243bf4a468862cfe2d50c7655&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 2079.0
   },
   {
    "id": "tdb9d98c880c",
@@ -13368,8 +13389,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bffa420eac611f1949bde1cd6b333b7&au=375d142390fe40bea82632cced1fc221&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:54:42+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T00:59:21+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14102,8 +14123,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4d8fb4d8eac611f1aeff9eb7f20b2feb&au=9a1f92b3cac945c49f02f62cc360dc35&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:54:45+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f36d3bdceac611f180602ee9ad60b9a3&au=514035cfa5f04cd89ce51c05d2f579cf&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T00:59:24+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -14875,9 +14896,6 @@
    "cat_label": "Componentes",
    "prio": 2,
    "refurb": false,
-   "code": "BFF38",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Micro+Center&sdtid=20407233&pno=1376157&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=ec2e924cea5a11f19f1ec2a1e982bbac&au=b80711574cba46f78a25e42adbacf958&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T12:06:06+00:00",
    "real_price": 399.99,
@@ -15296,8 +15314,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4edc8186eac611f181a2fe013511d1ce&au=14b0b474569f4870b16c5327e53d9175&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T00:54:47+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=f4c1773ceac611f1b7a44a176192eba0&au=7bfe80717cf6404b843131f92d19243d&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T00:59:26+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15649,9 +15667,6 @@
    "cat_label": "Redes y accesorios",
    "prio": 7,
    "refurb": false,
-   "code": "BFDEAL8",
-   "code_until": null,
-   "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+AliExpress&sdtid=20260491&pno=1376085&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d904c80eea4011f1a5e33abe0aeab59b&au=45245d7663734ec2857c76559e8efdb7&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-27T08:59:27+00:00",
    "real_price": 43.0,
@@ -15767,23 +15782,6 @@
    "real_price": 39.99,
    "real_old": 99.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414034&tid=20414034&prop=diavail-true%7Cdincp-1%7Cdinpd-6%7Cdipgavail-true&pv=9d5cc016ea6511f19b2922a3727f3824&au=519cf2309d6740cb8b2c0253a95c9987&action_source=Deal+Details+-+Sticky+Bar+CTA"
-  },
-  {
-   "id": "tef52565fbe5",
-   "title": "55\" LG OLED evo AI C6 Series 4K Smart TV $999.99 @ Best Buy",
-   "price": 999.99,
-   "old_price": null,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20413944-55-lg-oled-evo-ai-c6-series-4k-smart-tv-999-99-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/0/7/0/1/0/300x300/22631091.thumb",
-   "posted": "2026-11-27T08:39:53+00:00",
-   "cat": "tv",
-   "cat_label": "Televisores",
-   "prio": 3,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20413944&tid=20413944&prop=diavail-true%7Cdincp-0%7Cdinpd-4%7Cdipgavail-true&pv=c6afab40ea5111f1a82ee6d19de15262&au=d7b44d5ce0234f44bc8595b743d796e5&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T11:00:37+00:00",
-   "real_price": 999.99
   }
  ],
  "tech": [
@@ -17590,8 +17588,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bffa420eac611f1949bde1cd6b333b7&au=375d142390fe40bea82632cced1fc221&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bffa420eac611f1949bde1cd6b333b7&au=375d142390fe40bea82632cced1fc221&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17607,7 +17605,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bffa420eac611f1949bde1cd6b333b7&au=375d142390fe40bea82632cced1fc221&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=f22a0df4eac611f1b044ae3bc2fb590f&au=c275e86e9b404ae8af19a3020f72d117&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18815,7 +18813,7 @@
    "cat_label": "Componentes",
    "refurb": false,
    "glitch": false,
-   "code": "BFF38",
+   "code": null,
    "code_until": null,
    "promo": null,
    "offers": [
@@ -19016,5 +19014,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T00:55:35+00:00"
+ "updated": "2026-11-28T01:00:17+00:00"
 }
