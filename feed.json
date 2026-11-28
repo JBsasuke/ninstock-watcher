@@ -1345,13 +1345,14 @@
    "refurb": true,
    "code": "BIGFRIDAY",
    "code_until": null,
-   "checked_at": "2026-11-28T02:26:57+00:00",
+   "checked_at": "2026-11-28T04:28:29+00:00",
    "category_ok": true,
    "real_price": 389.0,
    "real_old": 499.0,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53e4d1b8ea2811f18ba4ea309893a51e&au=1bad94932cda40fe870787576e92fd3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "expired": true
   },
   {
    "id": "cceb65bb7c11",
@@ -1371,10 +1372,11 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=55150a30ea2811f190419edf9ccb03d5&au=b81d00c4f5cb439d8c84308d2866aada&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-28T02:27:00+00:00",
+   "checked_at": "2026-11-28T04:28:31+00:00",
    "real_price": 389.0,
    "real_old": 499.0,
-   "category_ok": true
+   "category_ok": true,
+   "expired": true
   },
   {
    "id": "4b4edaea0a49",
@@ -3580,31 +3582,6 @@
    "kind": "hardware",
    "collector": false,
    "posted": "2026-11-27T08:09:38+00:00",
-   "digital": null,
-   "refurb": true,
-   "glitch": false,
-   "code": "BIGFRIDAY",
-   "code_until": null
-  },
-  {
-   "id": "b65a4e8b1393",
-   "title": "Nintendo Switch 2 (Grade A Refurbished)",
-   "price": 389.0,
-   "old_price": null,
-   "store": "Woot!",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53e4d1b8ea2811f18ba4ea309893a51e&au=1bad94932cda40fe870787576e92fd3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53e4d1b8ea2811f18ba4ea309893a51e&au=1bad94932cda40fe870787576e92fd3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "offers": [
-    {
-     "store": "Woot!",
-     "price": 389.0,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Woot%21&sdtid=20411997&tid=20411997&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=53e4d1b8ea2811f18ba4ea309893a51e&au=1bad94932cda40fe870787576e92fd3b&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ],
-   "image": "https://static.slickdealscdn.com/attachment/2/7/7/6/7/9/0/2/300x300/22626528.thumb",
-   "kind": "game",
-   "collector": false,
-   "posted": "2026-11-27T06:02:02+00:00",
    "digital": null,
    "refurb": true,
    "glitch": false,
@@ -11248,10 +11225,13 @@
    "cat_label": "Audio",
    "prio": 6,
    "refurb": true,
+   "code": "NICEFIND10",
+   "code_until": null,
+   "promo": null,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "checked_at": "2026-11-28T04:24:46+00:00",
    "real_price": 53.99,
-   "real_old": 179.99,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20424045&pno=1376856&prop=diavail-true%7Cdincp-0%7Cdinpd-1%7Cdipgavail-true&pv=a42c494ceae311f199dd3a893f42f51e&au=ebf293a8fab24f19ba65a764f0e41d3b&action_source=Deal+Details+-+Sticky+Bar+CTA"
+   "real_old": 179.99
   },
   {
    "id": "taa111eeb0fc",
@@ -11784,8 +11764,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a5975dd0eae311f1b93c0ac06ab13458&au=34850d34831b471abd5d09eb790bc620&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:24:48+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:29:25+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11901,6 +11881,24 @@
    "checked_at": "2026-11-28T03:06:09+00:00",
    "real_price": 88.0,
    "real_old": 175.05
+  },
+  {
+   "id": "t02c87b7aaea",
+   "title": "Uber One Members: SANDISK - 1TB Portable Drive - Up to 600MB/s Read Speeds, 4x Faster than HDD, Durable, Up to 2M Drop Protection, USB Type-C - Black",
+   "price": 88.0,
+   "old_price": 175.05,
+   "store": "Uber Eats",
+   "url": "https://slickdeals.net/f/20423211-uber-one-members-sandisk-1tb-portable-drive-up-to-600mb-s-read-speeds-4x-faster-than-hdd-durable-up-to-2m-drop-protection-usb-type-c-black?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/2/3/8/6/8/300x300/22653774.thumb",
+   "posted": "2026-11-28T01:02:22+00:00",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "prio": 2,
+   "refurb": false,
+   "checked_at": "2026-11-28T04:29:27+00:00",
+   "real_price": 88.0,
+   "real_old": 175.05,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t5c515988a20",
@@ -14388,8 +14386,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6f359a4eae311f19c236eb3df14b144&au=a44f339c371348199fa3bdcfc5752755&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:24:51+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:29:29+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -15196,8 +15194,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=a8325f40eae311f1a0e466461b1cd569&au=59d96a3ee0a241c3803e28beefc37fc3&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T04:24:53+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=4e068b62eae411f190ffde1cd6b333b7&au=0b712051e182484ca6b6062820775163&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T04:29:31+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15659,23 +15657,6 @@
    "checked_at": "2026-11-28T00:45:33+00:00",
    "real_price": 70.51,
    "real_old": 99.0
-  },
-  {
-   "id": "t5942cb07b74",
-   "title": "Pc richard: Apple - AirPods 4 - White MXP63LL-A... FREE SHIPPING",
-   "price": 69.0,
-   "old_price": 130.0,
-   "store": "PC Richard & Son",
-   "url": "https://slickdeals.net/f/20415912-pc-richard-apple-airpods-4-white-mxp63ll-a-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://slickdeals.net/image-pool/products/deal-image-fallback-bb-1.png",
-   "posted": "2026-11-27T13:22:14+00:00",
-   "cat": "audio",
-   "cat_label": "Audio",
-   "prio": 6,
-   "refurb": false,
-   "checked_at": "2026-11-27T17:41:03+00:00",
-   "real_price": 69.0,
-   "real_old": 130.0
   }
  ],
  "tech": [
@@ -16084,8 +16065,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a5975dd0eae311f1b93c0ac06ab13458&au=34850d34831b471abd5d09eb790bc620&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a5975dd0eae311f1b93c0ac06ab13458&au=34850d34831b471abd5d09eb790bc620&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -16101,7 +16082,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a5975dd0eae311f1b93c0ac06ab13458&au=34850d34831b471abd5d09eb790bc620&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=4a5d65e4eae411f1827f76c631ca5380&au=87ce1ba973de4c57a9398b0b4b0ab3de&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -16237,6 +16218,33 @@
      "store": "Best Buy",
      "price": 88.0,
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20423211&tid=20423211&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=a8ac9e82ead811f1b5a466461b1cd569&au=531ecc4cb3eb4cf182bd6b1eb889cbab&action_source=Deal+Details+-+Sticky+Bar+CTA"
+    }
+   ]
+  },
+  {
+   "id": "t02c87b7aaea",
+   "title": "Uber One Members: SANDISK - 1TB Portable Drive - Up to 600MB/s Read Speeds, 4x Faster than HDD, Durable, Up to 2M Drop Protection, USB Type-C - Black",
+   "price": 88.0,
+   "old_price": 175.05,
+   "store": "Uber Eats",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "image": "https://static.slickdealscdn.com/attachment/3/3/7/2/3/8/6/8/300x300/22653774.thumb",
+   "posted": "2026-11-28T01:02:22+00:00",
+   "kind": "tech",
+   "section": "tech",
+   "cat": "parts",
+   "cat_label": "Componentes",
+   "refurb": false,
+   "glitch": false,
+   "code": null,
+   "code_until": null,
+   "promo": null,
+   "offers": [
+    {
+     "store": "Uber Eats",
+     "price": 88.0,
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Uber+Eats&sdtid=20423211&tid=20423211&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4bab4aa6eae411f1b63332b82879018f&au=6030b2d94b9c4684815da4df2c6c65b8&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18280,8 +18288,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6f359a4eae311f19c236eb3df14b144&au=a44f339c371348199fa3bdcfc5752755&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6f359a4eae311f19c236eb3df14b144&au=a44f339c371348199fa3bdcfc5752755&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -18297,7 +18305,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a6f359a4eae311f19c236eb3df14b144&au=a44f339c371348199fa3bdcfc5752755&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=4cdb5f7eeae411f19f31de1cd6b333b7&au=c9fb971159714b2ea73f3f8498efa2c1&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18867,34 +18875,7 @@
      "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20417304&tid=20417304&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=3ff0f4e2ea8311f19b906eac3c4a12b1&au=66254f903d9d41c7882850aaa2e3fe77&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
-  },
-  {
-   "id": "t1d944856939",
-   "title": "Microsoft Surface 8: 13.8\" Touch, Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD & More",
-   "price": 1190.07,
-   "old_price": 1699.99,
-   "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22632819.thumb",
-   "posted": "2026-11-27T15:08:06+00:00",
-   "kind": "tech",
-   "section": "tech",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "refurb": false,
-   "glitch": false,
-   "code": null,
-   "code_until": null,
-   "promo": null,
-   "offers": [
-    {
-     "store": "Amazon",
-     "price": 1190.07,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414364&pno=1376250&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cc83347eea7411f1b25f5660cadc0bfb&au=146f1241f9724527bd31067cdda0addb&action_source=Deal+Details+-+Sticky+Bar+CTA"
-    }
-   ]
   }
  ],
- "updated": "2026-11-28T04:25:43+00:00"
+ "updated": "2026-11-28T04:30:22+00:00"
 }
