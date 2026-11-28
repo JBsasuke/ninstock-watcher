@@ -14,13 +14,13 @@
    "posted": "2026-11-28T02:26:41+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T02:31:40+00:00",
-   "category_ok": true,
-   "real_price": 31.89,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423784&tid=20423784&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=d7b00a34ead311f1bd31c228c7394a2e&au=c2cf0cbaf65f4ced84c75ec9eb227149&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T02:31:40+00:00",
+   "real_price": 31.89,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "8eea29b827a7",
@@ -35,13 +35,13 @@
    "posted": "2026-11-28T02:26:41+00:00",
    "needs_cat": false,
    "refurb": false,
-   "checked_at": "2026-11-28T02:31:43+00:00",
-   "category_ok": true,
-   "real_price": 31.89,
-   "real_old": 69.99,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423784&tid=20423784&prop=diavail-true%7Cdincp-0%7Cdinpd-16%7Cdipgavail-true&pv=d904f89aead311f1bb0046a7b968e864&au=a1f3926daf4e4606993a7fded6d55dbf&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
-   "link_v": 3
+   "link_v": 3,
+   "checked_at": "2026-11-28T02:31:43+00:00",
+   "real_price": 31.89,
+   "real_old": 69.99,
+   "category_ok": true
   },
   {
    "id": "e6c123c86133",
@@ -355,7 +355,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20421042&tid=20421042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=cfd5d988eaa111f1a93c86c13d378fda&au=7472d48266f4430c9455848db235a959&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:33:32+00:00",
+   "checked_at": "2026-11-28T02:36:31+00:00",
    "real_price": 71.49,
    "real_old": 139.98,
    "category_ok": true
@@ -376,7 +376,7 @@
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Retailer&sdtid=20421042&tid=20421042&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=d0fecc84eaa111f1907c76416eb272e4&au=343f2644bbd54fc79a789b809a0aff7d&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "page_checked": true,
    "link_v": 3,
-   "checked_at": "2026-11-27T20:33:34+00:00",
+   "checked_at": "2026-11-28T02:36:34+00:00",
    "real_price": 71.49,
    "real_old": 139.98,
    "category_ok": true
@@ -11312,6 +11312,24 @@
    "real_old": 998.75
   },
   {
+   "id": "t4cc53f71558",
+   "title": "Prime Members: 2-Pk GoveeLife Bluetooth Refrigerator Thermometer w/ LCD Display $30 + Free S&H",
+   "price": 29.99,
+   "old_price": 39.99,
+   "store": "Amazon",
+   "url": "https://slickdeals.net/f/20385234-prime-2-pack-goveelife-h5108-bluetooth-refrigerator-thermometer-w-lcd-display-29-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22558428.thumb",
+   "posted": "2026-11-28T02:33:31+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:37:30+00:00",
+   "real_price": 29.99,
+   "real_old": 39.99,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20385234&pno=1376775&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=a7e96bc8ead411f1adae4211b0272df1&au=7a1fe418a3724fb3ba035c2724cdf8ac&action_source=Deal+Details+-+Sticky+Bar+CTA"
+  },
+  {
    "id": "t0860968380d",
    "title": "Sennheiser MOMENTUM 4 Wireless Noise Cancelling Headphones (Black/Copper) $150 + Free S&H",
    "price": 149.95,
@@ -11414,8 +11432,8 @@
    "cat_label": "Tablets y teléfonos",
    "prio": 5,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=01161166ead411f1a9e23e38729526d3&au=af61289b4024420685777404a1555410&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:32:50+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a942fed0ead411f1b7e446a7b968e864&au=205736ca472a4f4aa19257d0ad755bcc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:37:32+00:00",
    "real_price": 4.2,
    "real_old": 11.49
   },
@@ -11548,7 +11566,7 @@
    "cat_label": "Monitores",
    "prio": 4,
    "refurb": true,
-   "code": "LVFLSHDWOBG902G",
+   "code": "NICEFIND10",
    "code_until": null,
    "promo": null,
    "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+eBay&sdtid=20422908&pno=1376688&prop=diavail-true%7Cdincp-0%7Cdinpd-2%7Cdipgavail-true&pv=9a9ac668eac711f1a8a0124c5ab3ec83&au=adafe9ef7fd4404d8dc705973006da30&action_source=Deal+Details+-+Sticky+Bar+CTA",
@@ -12517,6 +12535,24 @@
    "checked_at": "2026-11-27T23:30:56+00:00",
    "real_price": 179.0,
    "real_old": 279.0
+  },
+  {
+   "id": "t3a1966270f5",
+   "title": "EGO POWER+ 1000 Series Battery Mower with (1) 10 Ah Battery Included | LM2236SP $829",
+   "price": 829.0,
+   "old_price": 999.0,
+   "store": "Lowe's",
+   "url": "https://slickdeals.net/f/20421249-ego-power-1000-series-battery-mower-with-1-10-ah-battery-included-lm2236sp-829?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+   "image": "https://static.slickdealscdn.com/attachment/3/6/1/6/6/8/2/4/300x300/22649457.thumb",
+   "posted": "2026-11-27T20:55:29+00:00",
+   "cat": "home",
+   "cat_label": "Hogar",
+   "prio": 20,
+   "refurb": false,
+   "checked_at": "2026-11-28T02:37:34+00:00",
+   "real_price": 829.0,
+   "real_old": 999.0,
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Lowe%27s&sdtid=20421249&tid=20421249&prop=diavail-true%7Cdincp-0%7Cdinpd-6%7Cdipgavail-true&pv=aa7cf6fcead411f19c7a4280a2be1806&au=555e7d0513484b43b0e2b469d95b5adb&action_source=Deal+Details+-+Sticky+Bar+CTA"
   },
   {
    "id": "t26373078f6c",
@@ -13748,8 +13784,8 @@
    "code": "2HYXLXHA",
    "code_until": null,
    "promo": null,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02401546ead411f1baecde1cd6b333b7&au=c688b57833d842299fddb8b3b82a1b0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:32:52+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abbc0b5cead411f18a13e27da7b810bf&au=52c1dc00cd4f44e3834613da2461a8d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:37:36+00:00",
    "real_price": 4.59,
    "real_old": 15.99
   },
@@ -14520,8 +14556,8 @@
    "cat_label": "Hogar",
    "prio": 20,
    "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=0371126cead411f1999d620c4aff8419&au=222055b448bd41a2b35eebdbe53e1b92&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:32:54+00:00",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=acefc612ead411f1800e82a0a100da8f&au=6ccfa7578088400c8b19a26bcafbd283&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "checked_at": "2026-11-28T02:37:38+00:00",
    "real_price": 3.11,
    "real_old": 5.63
   },
@@ -15721,42 +15757,6 @@
    "checked_at": "2026-11-27T17:08:42+00:00",
    "real_price": 424.99,
    "real_old": 799.99
-  },
-  {
-   "id": "t66ac3b880cd",
-   "title": "Open Boxes: LG gram Max: 17\" QHD+ IPS Touch, Intel Ultra 7 355, 32GB LPDDR5, 1TB SSD $950.99",
-   "price": 950.99,
-   "old_price": 1499.99,
-   "store": "Best Buy",
-   "url": "https://slickdeals.net/f/20414781-open-boxes-lg-gram-max-17-qhd-ips-touch-intel-ultra-7-355-32gb-lpddr5-1tb-ssd-950-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/22633890.thumb",
-   "posted": "2026-11-27T10:41:32+00:00",
-   "cat": "parts",
-   "cat_label": "Componentes",
-   "prio": 2,
-   "refurb": true,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Best+Buy&sdtid=20414781&tid=20414781&prop=diavail-true%7Cdincp-0%7Cdinpd-3%7Cdipgavail-true&pv=2527a296ea6a11f181a8f266078fb7c2&au=1edcbe7384d74758b37952ee1dc0bdcf&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-27T13:55:04+00:00",
-   "real_price": 950.99,
-   "real_old": 1499.99
-  },
-  {
-   "id": "t0ee1e78850b",
-   "title": "Milwaukee Shockwave Impact Duty 1/4\" Hex Shank to 3/8\" Square Socket Adapter $3.11 + Free Shipping w/ Prime or on $35+",
-   "price": 3.11,
-   "old_price": 5.63,
-   "store": "Amazon",
-   "url": "https://slickdeals.net/f/20414763-milwaukee-shockwave-impact-duty-1-4-hex-shank-to-3-8-square-socket-adapter-3-11-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-   "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/22633830.thumb",
-   "posted": "2026-11-27T10:37:42+00:00",
-   "cat": "home",
-   "cat_label": "Hogar",
-   "prio": 20,
-   "refurb": false,
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20414763&pno=1376244&prop=diavail-true%7Cdincp-1%7Cdinpd-5%7Cdipgavail-true&pv=05d0ad42ead411f1b9186aa58121650b&au=aaae874e652248fb91648ed5ce1116fc&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "checked_at": "2026-11-28T02:32:58+00:00",
-   "real_price": 3.11,
-   "real_old": 5.63
   }
  ],
  "tech": [
@@ -15874,8 +15874,8 @@
    "price": 4.2,
    "old_price": 11.49,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=01161166ead411f1a9e23e38729526d3&au=af61289b4024420685777404a1555410&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=01161166ead411f1a9e23e38729526d3&au=af61289b4024420685777404a1555410&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a942fed0ead411f1b7e446a7b968e864&au=205736ca472a4f4aa19257d0ad755bcc&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a942fed0ead411f1b7e446a7b968e864&au=205736ca472a4f4aa19257d0ad755bcc&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/2/8/3/7/2/3/1/300x300/22653981.thumb",
    "posted": "2026-11-28T01:19:58+00:00",
    "kind": "tech",
@@ -15891,7 +15891,7 @@
     {
      "store": "Amazon",
      "price": 4.2,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=01161166ead411f1a9e23e38729526d3&au=af61289b4024420685777404a1555410&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20423295&tid=20423295&prop=diavail-true%7Cdincp-1%7Cdinpd-0%7Cdipgavail-false&pv=a942fed0ead411f1b7e446a7b968e864&au=205736ca472a4f4aa19257d0ad755bcc&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -17908,8 +17908,8 @@
    "price": 4.59,
    "old_price": 15.99,
    "store": "Amazon",
-   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02401546ead411f1baecde1cd6b333b7&au=c688b57833d842299fddb8b3b82a1b0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
-   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02401546ead411f1baecde1cd6b333b7&au=c688b57833d842299fddb8b3b82a1b0c&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "store_url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abbc0b5cead411f18a13e27da7b810bf&au=52c1dc00cd4f44e3834613da2461a8d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
+   "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abbc0b5cead411f18a13e27da7b810bf&au=52c1dc00cd4f44e3834613da2461a8d0&action_source=Deal+Details+-+Sticky+Bar+CTA",
    "image": "https://static.slickdealscdn.com/attachment/3/1/1/9/6/7/1/6/300x300/22643211.thumb",
    "posted": "2026-11-27T16:48:14+00:00",
    "kind": "tech",
@@ -17925,7 +17925,7 @@
     {
      "store": "Amazon",
      "price": 4.59,
-     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=02401546ead411f1baecde1cd6b333b7&au=c688b57833d842299fddb8b3b82a1b0c&action_source=Deal+Details+-+Sticky+Bar+CTA"
+     "url": "https://slickdeals.net/click?trd=Get+Deal+at+Amazon&sdtid=20418468&tid=20418468&prop=diavail-false%7Cdincp-0%7Cdinpd-0%7Cdipgavail-false&pv=abbc0b5cead411f18a13e27da7b810bf&au=52c1dc00cd4f44e3834613da2461a8d0&action_source=Deal+Details+-+Sticky+Bar+CTA"
     }
    ]
   },
@@ -18983,5 +18983,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T02:33:45+00:00"
+ "updated": "2026-11-28T02:38:28+00:00"
 }
